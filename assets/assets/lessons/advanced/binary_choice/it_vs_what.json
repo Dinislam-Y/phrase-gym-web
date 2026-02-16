@@ -1,0 +1,400 @@
+{
+  "id": "advanced_bc_07_cleft_sentences",
+  "title": "It vs What",
+  "description": "It или What? Разбираемся в расщеплённых предложениях (cleft sentences).",
+  "order": 7,
+  "level": "advanced",
+  "imageUrl": null,
+  "tasks": [
+    {
+      "id": "ivw_1",
+      "question": "___ was John who first suggested the idea at the meeting.",
+      "optionA": "IT",
+      "optionB": "WHAT",
+      "correctIndex": 0,
+      "explanation": "It-cleft: It was + noun/pronoun + who/that. Выделяем «кто» — It was John who...",
+      "tags": [
+        "it_vs_what",
+        "it",
+        "cleft_sentence"
+      ]
+    },
+    {
+      "id": "ivw_2",
+      "question": "___ really matters is your willingness to learn from mistakes.",
+      "optionA": "IT",
+      "optionB": "WHAT",
+      "correctIndex": 1,
+      "explanation": "What-cleft: What + clause + is/was. What = «то, что» / «что именно». What really matters is...",
+      "tags": [
+        "it_vs_what",
+        "what",
+        "cleft_sentence"
+      ]
+    },
+    {
+      "id": "ivw_3",
+      "question": "___ is the lack of transparency that concerns me the most.",
+      "optionA": "IT",
+      "optionB": "WHAT",
+      "correctIndex": 0,
+      "explanation": "It-cleft: It is + noun phrase + that. Выделяем «что именно» беспокоит — It is the lack of transparency that...",
+      "tags": [
+        "it_vs_what",
+        "it",
+        "cleft_sentence"
+      ]
+    },
+    {
+      "id": "ivw_4",
+      "question": "___ I need right now is a strong cup of coffee.",
+      "optionA": "IT",
+      "optionB": "WHAT",
+      "correctIndex": 1,
+      "explanation": "What-cleft: What I need is... = «То, что мне нужно — это...». What заменяет «the thing that».",
+      "tags": [
+        "it_vs_what",
+        "what",
+        "cleft_sentence"
+      ]
+    },
+    {
+      "id": "ivw_5",
+      "question": "___ was in 2019 that the company opened its first overseas office.",
+      "optionA": "IT",
+      "optionB": "WHAT",
+      "correctIndex": 0,
+      "explanation": "It-cleft: It was + time expression + that. Выделяем «когда» — It was in 2019 that...",
+      "tags": [
+        "it_vs_what",
+        "it",
+        "cleft_sentence"
+      ]
+    },
+    {
+      "id": "ivw_6",
+      "question": "___ surprised everyone was the speed of his recovery after surgery.",
+      "optionA": "IT",
+      "optionB": "WHAT",
+      "correctIndex": 1,
+      "explanation": "What-cleft: What surprised everyone was... = «То, что всех удивило — это...». What = the thing that.",
+      "tags": [
+        "it_vs_what",
+        "what",
+        "cleft_sentence"
+      ]
+    },
+    {
+      "id": "ivw_7",
+      "question": "___ was the marketing team that identified the gap in the market.",
+      "optionA": "IT",
+      "optionB": "WHAT",
+      "correctIndex": 0,
+      "explanation": "It-cleft: It was + noun + that. Выделяем «кто именно» — It was the marketing team that...",
+      "tags": [
+        "it_vs_what",
+        "it",
+        "cleft_sentence"
+      ]
+    },
+    {
+      "id": "ivw_8",
+      "question": "___ the report revealed was a pattern of systematic negligence.",
+      "optionA": "IT",
+      "optionB": "WHAT",
+      "correctIndex": 1,
+      "explanation": "What-cleft: What the report revealed was... = «То, что показал отчёт — это...». What = the thing that.",
+      "tags": [
+        "it_vs_what",
+        "what",
+        "cleft_sentence"
+      ]
+    },
+    {
+      "id": "ivw_9",
+      "question": "___ was her dedication, not her talent, that led to her success.",
+      "optionA": "IT",
+      "optionB": "WHAT",
+      "correctIndex": 0,
+      "explanation": "It-cleft: It was + noun + that. Выделяем «что именно» привело к успеху — преданность, а не талант.",
+      "tags": [
+        "it_vs_what",
+        "it",
+        "cleft_sentence"
+      ]
+    },
+    {
+      "id": "ivw_10",
+      "question": "___ we need to discuss is the timeline for implementation.",
+      "optionA": "IT",
+      "optionB": "WHAT",
+      "correctIndex": 1,
+      "explanation": "What-cleft: What we need to discuss is... = «То, что нам нужно обсудить — это...».",
+      "tags": [
+        "it_vs_what",
+        "what",
+        "cleft_sentence"
+      ]
+    },
+    {
+      "id": "ivw_11",
+      "question": "___ was precisely this issue that the auditors flagged in their report.",
+      "optionA": "IT",
+      "optionB": "WHAT",
+      "correctIndex": 0,
+      "explanation": "It-cleft: It was + noun phrase + that. Выделяем «именно этот вопрос» отметили аудиторы.",
+      "tags": [
+        "it_vs_what",
+        "it",
+        "cleft_sentence"
+      ]
+    },
+    {
+      "id": "ivw_12",
+      "question": "___ impressed me most was their attention to the smallest details.",
+      "optionA": "IT",
+      "optionB": "WHAT",
+      "correctIndex": 1,
+      "explanation": "What-cleft: What impressed me most was... = «Больше всего меня впечатлило то, что...».",
+      "tags": [
+        "it_vs_what",
+        "what",
+        "cleft_sentence"
+      ]
+    },
+    {
+      "id": "ivw_13",
+      "question": "___ is the rising cost of raw materials that threatens our profit margins.",
+      "optionA": "IT",
+      "optionB": "WHAT",
+      "correctIndex": 0,
+      "explanation": "It-cleft: It is + noun phrase + that. Выделяем «что именно» угрожает — рост цен на сырьё.",
+      "tags": [
+        "it_vs_what",
+        "it",
+        "cleft_sentence"
+      ]
+    },
+    {
+      "id": "ivw_14",
+      "question": "___ happened next took everyone in the room by complete surprise.",
+      "optionA": "IT",
+      "optionB": "WHAT",
+      "correctIndex": 1,
+      "explanation": "What-cleft: What happened next... = «То, что произошло дальше...». What заменяет «the thing that».",
+      "tags": [
+        "it_vs_what",
+        "what",
+        "cleft_sentence"
+      ]
+    },
+    {
+      "id": "ivw_15",
+      "question": "___ was during the negotiations that the fundamental disagreement emerged.",
+      "optionA": "IT",
+      "optionB": "WHAT",
+      "correctIndex": 0,
+      "explanation": "It-cleft: It was + time/place + that. Выделяем «когда» — во время переговоров.",
+      "tags": [
+        "it_vs_what",
+        "it",
+        "cleft_sentence"
+      ]
+    },
+    {
+      "id": "ivw_16",
+      "question": "___ concerns the board is the potential for regulatory penalties.",
+      "optionA": "IT",
+      "optionB": "WHAT",
+      "correctIndex": 1,
+      "explanation": "What-cleft: What concerns the board is... = «То, что беспокоит совет директоров — это...».",
+      "tags": [
+        "it_vs_what",
+        "what",
+        "cleft_sentence"
+      ]
+    },
+    {
+      "id": "ivw_17",
+      "question": "___ wasn't the budget that caused the delay but poor project management.",
+      "optionA": "IT",
+      "optionB": "WHAT",
+      "correctIndex": 0,
+      "explanation": "It-cleft с отрицанием: It wasn't X that... but Y. «Не бюджет вызвал задержку, а плохое управление.»",
+      "tags": [
+        "it_vs_what",
+        "it",
+        "cleft_sentence"
+      ]
+    },
+    {
+      "id": "ivw_18",
+      "question": "___ the data suggests is a strong correlation between the two variables.",
+      "optionA": "IT",
+      "optionB": "WHAT",
+      "correctIndex": 1,
+      "explanation": "What-cleft: What the data suggests is... = «То, на что указывают данные — это...».",
+      "tags": [
+        "it_vs_what",
+        "what",
+        "cleft_sentence"
+      ]
+    },
+    {
+      "id": "ivw_19",
+      "question": "___ was only after the merger that the full financial picture became clear.",
+      "optionA": "IT",
+      "optionB": "WHAT",
+      "correctIndex": 0,
+      "explanation": "It-cleft: It was only after + event + that. «Только после слияния стала ясна полная картина.»",
+      "tags": [
+        "it_vs_what",
+        "it",
+        "cleft_sentence"
+      ]
+    },
+    {
+      "id": "ivw_20",
+      "question": "___ you should focus on is building stronger client relationships.",
+      "optionA": "IT",
+      "optionB": "WHAT",
+      "correctIndex": 1,
+      "explanation": "What-cleft: What you should focus on is... = «То, на чём тебе стоит сосредоточиться — это...».",
+      "tags": [
+        "it_vs_what",
+        "what",
+        "cleft_sentence"
+      ]
+    },
+    {
+      "id": "ivw_21",
+      "question": "___ was the government's inaction that drew widespread criticism from the media.",
+      "optionA": "IT",
+      "optionB": "WHAT",
+      "correctIndex": 0,
+      "explanation": "It-cleft: It was + noun + that. Выделяем «бездействие правительства» как объект критики.",
+      "tags": [
+        "it_vs_what",
+        "it",
+        "cleft_sentence"
+      ]
+    },
+    {
+      "id": "ivw_22",
+      "question": "___ makes this approach unique is its emphasis on sustainable development.",
+      "optionA": "IT",
+      "optionB": "WHAT",
+      "correctIndex": 1,
+      "explanation": "What-cleft: What makes this approach unique is... = «Что делает этот подход уникальным — это...».",
+      "tags": [
+        "it_vs_what",
+        "what",
+        "cleft_sentence"
+      ]
+    },
+    {
+      "id": "ivw_23",
+      "question": "___ is not the technology itself but how we use ___ that determines the outcome.",
+      "optionA": "IT",
+      "optionB": "WHAT",
+      "correctIndex": 0,
+      "explanation": "It-cleft: It is not X but Y that... «Не сама технология, а то, как мы её используем, определяет результат.»",
+      "tags": [
+        "it_vs_what",
+        "it",
+        "cleft_sentence"
+      ]
+    },
+    {
+      "id": "ivw_24",
+      "question": "___ the investigation uncovered was far more disturbing than anyone anticipated.",
+      "optionA": "IT",
+      "optionB": "WHAT",
+      "correctIndex": 1,
+      "explanation": "What-cleft: What the investigation uncovered was... = «То, что обнаружило расследование, было...».",
+      "tags": [
+        "it_vs_what",
+        "what",
+        "cleft_sentence"
+      ]
+    },
+    {
+      "id": "ivw_25",
+      "question": "___ was at the annual conference that they first announced the breakthrough.",
+      "optionA": "IT",
+      "optionB": "WHAT",
+      "correctIndex": 0,
+      "explanation": "It-cleft: It was + place + that. Выделяем место — «именно на ежегодной конференции».",
+      "tags": [
+        "it_vs_what",
+        "it",
+        "cleft_sentence"
+      ]
+    },
+    {
+      "id": "ivw_26",
+      "question": "___ worries me is the lack of a contingency plan for emergencies.",
+      "optionA": "IT",
+      "optionB": "WHAT",
+      "correctIndex": 1,
+      "explanation": "What-cleft: What worries me is... = «Что меня беспокоит — это отсутствие плана на случай ЧС.»",
+      "tags": [
+        "it_vs_what",
+        "what",
+        "cleft_sentence"
+      ]
+    },
+    {
+      "id": "ivw_27",
+      "question": "___ was the CEO herself who personally approved the controversial decision.",
+      "optionA": "IT",
+      "optionB": "WHAT",
+      "correctIndex": 0,
+      "explanation": "It-cleft: It was + person + who. «Именно CEO лично одобрила спорное решение.»",
+      "tags": [
+        "it_vs_what",
+        "it",
+        "cleft_sentence"
+      ]
+    },
+    {
+      "id": "ivw_28",
+      "question": "___ we learned from the failure proved invaluable for future projects.",
+      "optionA": "IT",
+      "optionB": "WHAT",
+      "correctIndex": 1,
+      "explanation": "What-cleft: What we learned from... = «То, что мы извлекли из провала, оказалось бесценным.»",
+      "tags": [
+        "it_vs_what",
+        "what",
+        "cleft_sentence"
+      ]
+    },
+    {
+      "id": "ivw_29",
+      "question": "___ is often said that the best leaders listen more than they speak.",
+      "optionA": "IT",
+      "optionB": "WHAT",
+      "correctIndex": 0,
+      "explanation": "It is said that — безличная конструкция: «Говорят, что...». Формальный стиль, не cleft, но It + passive.",
+      "tags": [
+        "it_vs_what",
+        "it",
+        "impersonal"
+      ]
+    },
+    {
+      "id": "ivw_30",
+      "question": "___ distinguishes great leaders from good ones is emotional intelligence.",
+      "optionA": "IT",
+      "optionB": "WHAT",
+      "correctIndex": 1,
+      "explanation": "What-cleft: What distinguishes... is... = «То, что отличает великих лидеров — это эмоциональный интеллект.»",
+      "tags": [
+        "it_vs_what",
+        "what",
+        "cleft_sentence"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,400 @@
+{
+  "id": "upper_bc_04_conditionals_2_3",
+  "title": "Would vs Would Have",
+  "description": "Would для нереальных ситуаций сейчас, would have — для упущенных в прошлом. Разберёмся, где мечта, а где сожаление.",
+  "order": 4,
+  "level": "upper_intermediate",
+  "imageUrl": null,
+  "tasks": [
+    {
+      "id": "wvwh_1",
+      "question": "If I were you, I ___ apologize first.",
+      "optionA": "WOULD",
+      "optionB": "WOULD HAVE",
+      "correctIndex": 0,
+      "explanation": "Это совет в нереальной ситуации сейчас — 2nd conditional. Would + V1, потому что речь о гипотетическом настоящем.",
+      "tags": [
+        "would_vs_would_have",
+        "would",
+        "advice"
+      ]
+    },
+    {
+      "id": "wvwh_2",
+      "question": "If she had called, I ___ answered immediately.",
+      "optionA": "WOULD",
+      "optionB": "WOULD HAVE",
+      "correctIndex": 1,
+      "explanation": "Она не позвонила — действие не произошло в прошлом. 3rd conditional: would have + V3 для упущенной ситуации.",
+      "tags": [
+        "would_vs_would_have",
+        "would_have",
+        "missed_opportunity"
+      ]
+    },
+    {
+      "id": "wvwh_3",
+      "question": "He ___ never agree to such conditions.",
+      "optionA": "WOULD",
+      "optionB": "WOULD HAVE",
+      "correctIndex": 0,
+      "explanation": "Речь о характере человека — он бы не согласился в принципе. Would + V1 описывает гипотетическую реакцию в настоящем.",
+      "tags": [
+        "would_vs_would_have",
+        "would",
+        "opinion"
+      ]
+    },
+    {
+      "id": "wvwh_4",
+      "question": "If we had more time, we ___ stay longer.",
+      "optionA": "WOULD",
+      "optionB": "WOULD HAVE",
+      "correctIndex": 0,
+      "explanation": "Условие if + past simple — это 2nd conditional. Would + V1, потому что мы говорим о нереальном настоящем.",
+      "tags": [
+        "would_vs_would_have",
+        "would",
+        "hypothetical"
+      ]
+    },
+    {
+      "id": "wvwh_5",
+      "question": "I ___ helped you if you had asked me.",
+      "optionA": "WOULD",
+      "optionB": "WOULD HAVE",
+      "correctIndex": 1,
+      "explanation": "If + past perfect — это 3rd conditional. Ты не попросил, и помощь не состоялась — would have + V3.",
+      "tags": [
+        "would_vs_would_have",
+        "would_have",
+        "regret"
+      ]
+    },
+    {
+      "id": "wvwh_6",
+      "question": "She ___ accepted if they had offered more.",
+      "optionA": "WOULD",
+      "optionB": "WOULD HAVE",
+      "correctIndex": 1,
+      "explanation": "Had offered — past perfect, значит 3rd conditional. Предложение не поступило — действие в прошлом не произошло.",
+      "tags": [
+        "would_vs_would_have",
+        "would_have",
+        "career"
+      ]
+    },
+    {
+      "id": "wvwh_7",
+      "question": "I ___ forgive him if he apologized sincerely.",
+      "optionA": "WOULD",
+      "optionB": "WOULD HAVE",
+      "correctIndex": 0,
+      "explanation": "If + past simple — 2nd conditional. Извинения ещё возможны, мы говорим о гипотетической ситуации сейчас.",
+      "tags": [
+        "would_vs_would_have",
+        "would",
+        "relationships"
+      ]
+    },
+    {
+      "id": "wvwh_8",
+      "question": "We ___ arrived on time without the traffic jam.",
+      "optionA": "WOULD",
+      "optionB": "WOULD HAVE",
+      "correctIndex": 1,
+      "explanation": "Пробка уже случилась — мы опоздали в прошлом. Would have + V3 для нереализованного результата.",
+      "tags": [
+        "would_vs_would_have",
+        "would_have",
+        "travel"
+      ]
+    },
+    {
+      "id": "wvwh_9",
+      "question": "If it were cheaper, I ___ buy it today.",
+      "optionA": "WOULD",
+      "optionB": "WOULD HAVE",
+      "correctIndex": 0,
+      "explanation": "If + were — 2nd conditional о нереальном настоящем. Цена высокая сейчас, покупка гипотетическая.",
+      "tags": [
+        "would_vs_would_have",
+        "would",
+        "shopping"
+      ]
+    },
+    {
+      "id": "wvwh_10",
+      "question": "He ___ passed the exam with more practice.",
+      "optionA": "WOULD",
+      "optionB": "WOULD HAVE",
+      "correctIndex": 1,
+      "explanation": "Экзамен уже провален — речь о прошлом. Would have + V3 показывает, что результат мог быть другим.",
+      "tags": [
+        "would_vs_would_have",
+        "would_have",
+        "education"
+      ]
+    },
+    {
+      "id": "wvwh_11",
+      "question": "She ___ never betray a close friend, ever.",
+      "optionA": "WOULD",
+      "optionB": "WOULD HAVE",
+      "correctIndex": 0,
+      "explanation": "Это убеждение о характере человека — гипотетическое настоящее. Would + V1 описывает принципиальную позицию.",
+      "tags": [
+        "would_vs_would_have",
+        "would",
+        "character"
+      ]
+    },
+    {
+      "id": "wvwh_12",
+      "question": "If I had known earlier, I ___ reacted differently.",
+      "optionA": "WOULD",
+      "optionB": "WOULD HAVE",
+      "correctIndex": 1,
+      "explanation": "Had known — past perfect, 3rd conditional. Я не знал тогда — реакция в прошлом была другой.",
+      "tags": [
+        "would_vs_would_have",
+        "would_have",
+        "regret"
+      ]
+    },
+    {
+      "id": "wvwh_13",
+      "question": "They ___ never believed it without solid proof.",
+      "optionA": "WOULD",
+      "optionB": "WOULD HAVE",
+      "correctIndex": 1,
+      "explanation": "Доказательства были предоставлены в прошлом — без них не поверили бы. Would have + V3 для прошлого.",
+      "tags": [
+        "would_vs_would_have",
+        "would_have",
+        "trust"
+      ]
+    },
+    {
+      "id": "wvwh_14",
+      "question": "I ___ rather stay silent than argue pointlessly.",
+      "optionA": "WOULD",
+      "optionB": "WOULD HAVE",
+      "correctIndex": 0,
+      "explanation": "Would rather — устойчивая конструкция о предпочтении в настоящем. Всегда would + V1 без have.",
+      "tags": [
+        "would_vs_would_have",
+        "would",
+        "idiom"
+      ]
+    },
+    {
+      "id": "wvwh_15",
+      "question": "We ___ missed the flight without your reminder.",
+      "optionA": "WOULD",
+      "optionB": "WOULD HAVE",
+      "correctIndex": 1,
+      "explanation": "Напоминание спасло нас в прошлом — без него опоздали бы. Would have + V3 для нереализованного события.",
+      "tags": [
+        "would_vs_would_have",
+        "would_have",
+        "travel"
+      ]
+    },
+    {
+      "id": "wvwh_16",
+      "question": "If money were no issue, what ___ you do?",
+      "optionA": "WOULD",
+      "optionB": "WOULD HAVE",
+      "correctIndex": 0,
+      "explanation": "If + were — 2nd conditional о фантазии. Деньги — проблема сейчас, вопрос гипотетический.",
+      "tags": [
+        "would_vs_would_have",
+        "would",
+        "dreams"
+      ]
+    },
+    {
+      "id": "wvwh_17",
+      "question": "A true leader ___ never abandon the team.",
+      "optionA": "WOULD",
+      "optionB": "WOULD HAVE",
+      "correctIndex": 0,
+      "explanation": "Абстрактное утверждение о лидерстве — гипотетическое настоящее. Would + V1 для общего принципа.",
+      "tags": [
+        "would_vs_would_have",
+        "would",
+        "leadership"
+      ]
+    },
+    {
+      "id": "wvwh_18",
+      "question": "I ___ chosen a different path back then.",
+      "optionA": "WOULD",
+      "optionB": "WOULD HAVE",
+      "correctIndex": 1,
+      "explanation": "Back then указывает на прошлое — выбор уже сделан. Would have + V3 для сожаления о прошлом решении.",
+      "tags": [
+        "would_vs_would_have",
+        "would_have",
+        "life_choices"
+      ]
+    },
+    {
+      "id": "wvwh_19",
+      "question": "If I could restart, I ___ study abroad.",
+      "optionA": "WOULD",
+      "optionB": "WOULD HAVE",
+      "correctIndex": 0,
+      "explanation": "If I could — 2nd conditional, гипотетическое пожелание. Would + V1, потому что это мечта, а не факт прошлого.",
+      "tags": [
+        "would_vs_would_have",
+        "would",
+        "dreams"
+      ]
+    },
+    {
+      "id": "wvwh_20",
+      "question": "She ___ forgiven him if he had been honest.",
+      "optionA": "WOULD",
+      "optionB": "WOULD HAVE",
+      "correctIndex": 1,
+      "explanation": "Had been — past perfect, 3rd conditional. Он не был честен тогда, и прощения не последовало.",
+      "tags": [
+        "would_vs_would_have",
+        "would_have",
+        "relationships"
+      ]
+    },
+    {
+      "id": "wvwh_21",
+      "question": "Who ___ thought this plan could actually work?",
+      "optionA": "WOULD",
+      "optionB": "WOULD HAVE",
+      "correctIndex": 1,
+      "explanation": "Who would have thought — устойчивое выражение-идиома о прошлом удивлении. Всегда would have + V3.",
+      "tags": [
+        "would_vs_would_have",
+        "would_have",
+        "idiom"
+      ]
+    },
+    {
+      "id": "wvwh_22",
+      "question": "I ___ sooner quit than compromise my values.",
+      "optionA": "WOULD",
+      "optionB": "WOULD HAVE",
+      "correctIndex": 0,
+      "explanation": "Would sooner — устойчивая конструкция о предпочтении. Речь о принципе, а не о прошлом.",
+      "tags": [
+        "would_vs_would_have",
+        "would",
+        "idiom"
+      ]
+    },
+    {
+      "id": "wvwh_23",
+      "question": "It ___ been wiser to leave things unsaid.",
+      "optionA": "WOULD",
+      "optionB": "WOULD HAVE",
+      "correctIndex": 1,
+      "explanation": "Слова уже сказаны — сожаление о прошлом. Would have been + adj для оценки прошлого решения.",
+      "tags": [
+        "would_vs_would_have",
+        "would_have",
+        "regret"
+      ]
+    },
+    {
+      "id": "wvwh_24",
+      "question": "No sane person ___ take that kind of risk.",
+      "optionA": "WOULD",
+      "optionB": "WOULD HAVE",
+      "correctIndex": 0,
+      "explanation": "Абстрактное суждение — ни один здравый человек не стал бы. Would + V1 для гипотетической оценки.",
+      "tags": [
+        "would_vs_would_have",
+        "would",
+        "opinion"
+      ]
+    },
+    {
+      "id": "wvwh_25",
+      "question": "Looking back, I ___ handled the situation differently.",
+      "optionA": "WOULD",
+      "optionB": "WOULD HAVE",
+      "correctIndex": 1,
+      "explanation": "Looking back — оглядываясь назад, речь о прошлом. Would have + V3 для переосмысления прошлого поступка.",
+      "tags": [
+        "would_vs_would_have",
+        "would_have",
+        "reflection"
+      ]
+    },
+    {
+      "id": "wvwh_26",
+      "question": "Things ___ turned out better with honest communication.",
+      "optionA": "WOULD",
+      "optionB": "WOULD HAVE",
+      "correctIndex": 1,
+      "explanation": "Общение было нечестным — результат уже известен. Would have + V3 для альтернативного прошлого.",
+      "tags": [
+        "would_vs_would_have",
+        "would_have",
+        "relationships"
+      ]
+    },
+    {
+      "id": "wvwh_27",
+      "question": "If push came to shove, she ___ fight back.",
+      "optionA": "WOULD",
+      "optionB": "WOULD HAVE",
+      "correctIndex": 0,
+      "explanation": "If push came to shove — идиома, 2nd conditional. Гипотетическая крайность, would + V1.",
+      "tags": [
+        "would_vs_would_have",
+        "would",
+        "idiom"
+      ]
+    },
+    {
+      "id": "wvwh_28",
+      "question": "I ___ give anything to relive that moment.",
+      "optionA": "WOULD",
+      "optionB": "WOULD HAVE",
+      "correctIndex": 0,
+      "explanation": "Would give anything — устойчивое выражение о сильном желании. Речь о настоящем, would + V1.",
+      "tags": [
+        "would_vs_would_have",
+        "would",
+        "nostalgia"
+      ]
+    },
+    {
+      "id": "wvwh_29",
+      "question": "He ___ never admitted his mistake without pressure.",
+      "optionA": "WOULD",
+      "optionB": "WOULD HAVE",
+      "correctIndex": 1,
+      "explanation": "Давление было оказано в прошлом — без него признания бы не было. Would have + V3 для прошлого.",
+      "tags": [
+        "would_vs_would_have",
+        "would_have",
+        "character"
+      ]
+    },
+    {
+      "id": "wvwh_30",
+      "question": "Life ___ be boring without a little risk.",
+      "optionA": "WOULD",
+      "optionB": "WOULD HAVE",
+      "correctIndex": 0,
+      "explanation": "Общее утверждение о жизни — гипотетическое настоящее. Would + V1 для философской мысли.",
+      "tags": [
+        "would_vs_would_have",
+        "would",
+        "philosophy"
+      ]
+    }
+  ]
+}

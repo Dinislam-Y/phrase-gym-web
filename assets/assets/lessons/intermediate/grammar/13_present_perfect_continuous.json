@@ -1,0 +1,1935 @@
+{
+  "id": "intermediate_13_present_perfect_continuous",
+  "title": "Present Perfect Continuous",
+  "description": "I have been working for 3 hours. Действие, начавшееся в прошлом и продолжающееся до сейчас.",
+  "order": 13,
+  "level": "intermediate",
+  "imageUrl": "assets/images/lessons/present_perfect_continuous.png",
+  "vocabulary": [
+    {
+      "id": "v13_wait",
+      "english": "wait",
+      "russian": "ждать",
+      "partOfSpeech": "verb",
+      "example": "I have been waiting for an hour.",
+      "exampleTranslation": "Я жду уже час.",
+      "audioPath": "assets/audio/vocabulary/v13_wait.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_wait.mp3"
+    },
+    {
+      "id": "v13_work",
+      "english": "work",
+      "russian": "работать",
+      "partOfSpeech": "verb",
+      "example": "She has been working all day.",
+      "exampleTranslation": "Она работает весь день.",
+      "audioPath": "assets/audio/vocabulary/v13_work.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_work.mp3"
+    },
+    {
+      "id": "v13_study",
+      "english": "study",
+      "russian": "учиться",
+      "partOfSpeech": "verb",
+      "example": "He has been studying since morning.",
+      "exampleTranslation": "Он учится с утра.",
+      "audioPath": "assets/audio/vocabulary/v13_study.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_study.mp3"
+    },
+    {
+      "id": "v13_rain",
+      "english": "rain",
+      "russian": "идти (о дожде)",
+      "partOfSpeech": "verb",
+      "example": "It has been raining all week.",
+      "exampleTranslation": "Дождь идёт всю неделю.",
+      "audioPath": "assets/audio/vocabulary/v13_rain.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_rain.mp3"
+    },
+    {
+      "id": "v13_cook",
+      "english": "cook",
+      "russian": "готовить",
+      "partOfSpeech": "verb",
+      "example": "They have been cooking for hours.",
+      "exampleTranslation": "Они готовят уже несколько часов.",
+      "audioPath": "assets/audio/vocabulary/v13_cook.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_cook.mp3"
+    },
+    {
+      "id": "v13_run",
+      "english": "run",
+      "russian": "бегать",
+      "partOfSpeech": "verb",
+      "example": "He has been running since noon.",
+      "exampleTranslation": "Он бегает с полудня.",
+      "audioPath": "assets/audio/vocabulary/v13_run.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_run.mp3"
+    },
+    {
+      "id": "v13_travel",
+      "english": "travel",
+      "russian": "путешествовать",
+      "partOfSpeech": "verb",
+      "example": "We have been traveling for days.",
+      "exampleTranslation": "Мы путешествуем уже несколько дней.",
+      "audioPath": "assets/audio/vocabulary/v13_travel.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_travel.mp3"
+    },
+    {
+      "id": "v13_learn",
+      "english": "learn",
+      "russian": "учить, изучать",
+      "partOfSpeech": "verb",
+      "example": "I have been learning English for a year.",
+      "exampleTranslation": "Я учу английский уже год.",
+      "audioPath": "assets/audio/vocabulary/v13_learn.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_learn.mp3"
+    },
+    {
+      "id": "v13_sleep",
+      "english": "sleep",
+      "russian": "спать",
+      "partOfSpeech": "verb",
+      "example": "The baby has been sleeping for hours.",
+      "exampleTranslation": "Ребёнок спит уже несколько часов.",
+      "audioPath": "assets/audio/vocabulary/v13_sleep.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_sleep.mp3"
+    },
+    {
+      "id": "v13_talk",
+      "english": "talk",
+      "russian": "разговаривать",
+      "partOfSpeech": "verb",
+      "example": "They have been talking for a long time.",
+      "exampleTranslation": "Они разговаривают уже долго.",
+      "audioPath": "assets/audio/vocabulary/v13_talk.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_talk.mp3"
+    },
+    {
+      "id": "v13_drive",
+      "english": "drive",
+      "russian": "вести машину",
+      "partOfSpeech": "verb",
+      "example": "She has been driving since morning.",
+      "exampleTranslation": "Она ведёт машину с утра.",
+      "audioPath": "assets/audio/vocabulary/v13_drive.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_drive.mp3"
+    },
+    {
+      "id": "v13_read",
+      "english": "read",
+      "russian": "читать",
+      "partOfSpeech": "verb",
+      "example": "He has been reading all evening.",
+      "exampleTranslation": "Он читает весь вечер.",
+      "audioPath": "assets/audio/vocabulary/v13_read.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_read.mp3"
+    },
+    {
+      "id": "v13_since",
+      "english": "since",
+      "russian": "с (момента)",
+      "partOfSpeech": "preposition",
+      "example": "I have been here since Monday.",
+      "exampleTranslation": "Я здесь с понедельника.",
+      "audioPath": "assets/audio/vocabulary/v13_since.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_since.mp3"
+    },
+    {
+      "id": "v13_for",
+      "english": "for",
+      "russian": "в течение (периода)",
+      "partOfSpeech": "preposition",
+      "example": "We have lived here for five years.",
+      "exampleTranslation": "Мы живём здесь пять лет.",
+      "audioPath": "assets/audio/vocabulary/v13_for.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_for.mp3"
+    },
+    {
+      "id": "v13_already",
+      "english": "already",
+      "russian": "уже",
+      "partOfSpeech": "adverb",
+      "example": "I have already finished.",
+      "exampleTranslation": "Я уже закончил.",
+      "audioPath": "assets/audio/vocabulary/v13_already.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_already.mp3"
+    },
+    {
+      "id": "v13_lately",
+      "english": "lately",
+      "russian": "в последнее время",
+      "partOfSpeech": "adverb",
+      "example": "She has been busy lately.",
+      "exampleTranslation": "Она была занята в последнее время.",
+      "audioPath": "assets/audio/vocabulary/v13_lately.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_lately.mp3"
+    },
+    {
+      "id": "v13_recently",
+      "english": "recently",
+      "russian": "недавно",
+      "partOfSpeech": "adverb",
+      "example": "He has been traveling recently.",
+      "exampleTranslation": "Он недавно путешествовал.",
+      "audioPath": "assets/audio/vocabulary/v13_recently.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_recently.mp3"
+    },
+    {
+      "id": "v13_all_day",
+      "english": "all day",
+      "russian": "весь день",
+      "partOfSpeech": "phrase",
+      "example": "It has been snowing all day.",
+      "exampleTranslation": "Снег идёт весь день.",
+      "audioPath": "assets/audio/vocabulary/v13_all_day.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_all_day.mp3"
+    },
+    {
+      "id": "v13_exercise",
+      "english": "exercise",
+      "russian": "заниматься спортом",
+      "partOfSpeech": "verb",
+      "example": "She has been exercising every day.",
+      "exampleTranslation": "Она занимается спортом каждый день.",
+      "audioPath": "assets/audio/vocabulary/v13_exercise.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_exercise.mp3"
+    },
+    {
+      "id": "v13_paint",
+      "english": "paint",
+      "russian": "красить, рисовать",
+      "partOfSpeech": "verb",
+      "example": "They have been painting the house.",
+      "exampleTranslation": "Они красят дом.",
+      "audioPath": "assets/audio/vocabulary/v13_paint.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_paint.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "Present Perfect Continuous",
+    "subtitle": "Когда важно показать, что действие началось в прошлом и всё ещё продолжается. Акцент на длительности процесса.",
+    "construction": {
+      "formula": "S + have/has + been + V-ing",
+      "rules": [
+        {
+          "word": "I / You / We / They",
+          "description": "Используем have been: I have been waiting."
+        },
+        {
+          "word": "He / She / It",
+          "description": "Используем has been: She has been working."
+        },
+        {
+          "word": "been + V-ing",
+          "description": "Been не меняется, глагол всегда с -ing: been reading, been cooking."
+        },
+        {
+          "word": "for / since",
+          "description": "For + период (for 2 hours), since + момент (since Monday)."
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "schedule",
+        "color": "blue",
+        "title": "Действие длится до сейчас",
+        "description": "Процесс начался в прошлом и продолжается в настоящий момент.",
+        "example": {
+          "english": "I have been working for 3 hours.",
+          "russian": "Я работаю уже 3 часа."
+        }
+      },
+      {
+        "icon": "visibility",
+        "color": "orange",
+        "title": "Видимый результат процесса",
+        "description": "Действие недавно закончилось, но его результат заметен прямо сейчас.",
+        "example": {
+          "english": "She has been crying.",
+          "russian": "Она плакала. (видно по глазам)"
+        }
+      },
+      {
+        "icon": "explore",
+        "color": "purple",
+        "title": "Раздражение или удивление",
+        "description": "Подчёркиваем, что ситуация длится слишком долго.",
+        "example": {
+          "english": "You have been waiting for ages!",
+          "russian": "Ты ждёшь целую вечность!"
+        }
+      }
+    ],
+    "markers": [
+      "for",
+      "since",
+      "all day",
+      "all morning",
+      "lately",
+      "recently"
+    ]
+  },
+  "theoryQuiz": [
+    {
+      "id": "tq_13_01",
+      "type": "multipleChoice",
+      "question": "Какая формула Present Perfect Continuous?",
+      "options": [
+        "S + have + V-ed",
+        "S + have/has + been + V-ing",
+        "S + was/were + V-ing",
+        "S + will + be + V-ing"
+      ],
+      "correctIndex": 1,
+      "explanation": "Present Perfect Continuous строится: подлежащее + have/has + been + глагол с -ing."
+    },
+    {
+      "id": "tq_13_02",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"She ___ working since morning.\"",
+      "options": [
+        "have been",
+        "has been",
+        "is been",
+        "was been"
+      ],
+      "correctIndex": 1,
+      "explanation": "С she используется has been: She has been working."
+    },
+    {
+      "id": "tq_13_03",
+      "type": "trueFalse",
+      "question": "\"I have been wait for an hour.\" — предложение составлено правильно.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "После been глагол всегда с -ing: I have been waiting for an hour."
+    },
+    {
+      "id": "tq_13_04",
+      "type": "multipleChoice",
+      "question": "Какой маркер указывает на период времени (длительность)?",
+      "options": [
+        "since",
+        "for",
+        "ago",
+        "yesterday"
+      ],
+      "correctIndex": 1,
+      "explanation": "For используется с периодом: for 2 hours, for a week. Since — с конкретного момента."
+    },
+    {
+      "id": "tq_13_05",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"They ___ traveling for three days.\"",
+      "options": [
+        "has been",
+        "have been",
+        "are been",
+        "were been"
+      ],
+      "correctIndex": 1,
+      "explanation": "С they используется have been: They have been traveling."
+    },
+    {
+      "id": "tq_13_06",
+      "type": "trueFalse",
+      "question": "Present Perfect Continuous подчёркивает длительность действия, а не его результат.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Верно. Present Perfect Continuous фокусируется на процессе и его длительности, а Present Perfect Simple — на результате."
+    },
+    {
+      "id": "tq_13_07",
+      "type": "multipleChoice",
+      "question": "Какое предложение правильное?",
+      "options": [
+        "He has been study all day.",
+        "He has been studying all day.",
+        "He have been studying all day.",
+        "He has studying all day."
+      ],
+      "correctIndex": 1,
+      "explanation": "He + has been + studying (V-ing). Нельзя пропускать been или использовать have с he."
+    },
+    {
+      "id": "tq_13_08",
+      "type": "multipleChoice",
+      "question": "\"It ___ raining since yesterday.\" — выберите правильный вариант.",
+      "options": [
+        "have been",
+        "has been",
+        "is been",
+        "had been"
+      ],
+      "correctIndex": 1,
+      "explanation": "С it используется has been: It has been raining."
+    },
+    {
+      "id": "tq_13_09",
+      "type": "trueFalse",
+      "question": "\"Since\" используется с периодом времени, а \"for\" — с конкретным моментом.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "Наоборот: since — с момента (since Monday), for — с периодом (for 2 hours)."
+    },
+    {
+      "id": "tq_13_10",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"We ___ here for two hours.\"",
+      "options": [
+        "have been waiting",
+        "has been waiting",
+        "have been waited",
+        "have waiting"
+      ],
+      "correctIndex": 0,
+      "explanation": "We + have been + waiting (V-ing). С we используется have, после been — глагол с -ing."
+    }
+  ],
+  "tasks": [
+    {
+      "id": "t13_1",
+      "type": "sentenceAssembly",
+      "question": "Я жду уже час",
+      "correctAnswer": "I have been waiting for an hour",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "am"
+        ],
+        [
+          "been",
+          "being",
+          "be",
+          "was"
+        ],
+        [
+          "waiting",
+          "waited",
+          "wait",
+          "waits"
+        ],
+        [
+          "for",
+          "since",
+          "at",
+          "in"
+        ],
+        [
+          "an",
+          "a",
+          "the",
+          "one"
+        ],
+        [
+          "hour",
+          "day",
+          "week",
+          "time"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_13_present_perfect_continuous/000.mp3"
+    },
+    {
+      "id": "t13_2",
+      "type": "sentenceAssembly",
+      "question": "Она работает весь день",
+      "correctAnswer": "She has been working all day",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "They"
+        ],
+        [
+          "has",
+          "have",
+          "had",
+          "is"
+        ],
+        [
+          "been",
+          "being",
+          "be",
+          "was"
+        ],
+        [
+          "working",
+          "worked",
+          "work",
+          "works"
+        ],
+        [
+          "all",
+          "every",
+          "this",
+          "that"
+        ],
+        [
+          "day",
+          "morning",
+          "week",
+          "night"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_13_present_perfect_continuous/001.mp3"
+    },
+    {
+      "id": "t13_3",
+      "type": "sentenceAssembly",
+      "question": "Они готовят с утра",
+      "correctAnswer": "They have been cooking since morning",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "We",
+          "She",
+          "He"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "are"
+        ],
+        [
+          "been",
+          "being",
+          "be",
+          "was"
+        ],
+        [
+          "cooking",
+          "cooked",
+          "cook",
+          "cooks"
+        ],
+        [
+          "since",
+          "for",
+          "from",
+          "at"
+        ],
+        [
+          "morning",
+          "noon",
+          "evening",
+          "night"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_13_present_perfect_continuous/002.mp3"
+    },
+    {
+      "id": "t13_4",
+      "type": "sentenceAssembly",
+      "question": "Он учится два часа",
+      "correctAnswer": "He has been studying for two hours",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "I",
+          "They"
+        ],
+        [
+          "has",
+          "have",
+          "had",
+          "is"
+        ],
+        [
+          "been",
+          "being",
+          "be",
+          "was"
+        ],
+        [
+          "studying",
+          "studied",
+          "study",
+          "studies"
+        ],
+        [
+          "for",
+          "since",
+          "at",
+          "in"
+        ],
+        [
+          "two",
+          "three",
+          "four",
+          "five"
+        ],
+        [
+          "hours",
+          "days",
+          "weeks",
+          "minutes"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_13_present_perfect_continuous/003.mp3"
+    },
+    {
+      "id": "t13_5",
+      "type": "sentenceAssembly",
+      "question": "Дождь идёт всю неделю",
+      "correctAnswer": "It has been raining all week",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "He",
+          "She",
+          "They"
+        ],
+        [
+          "has",
+          "have",
+          "had",
+          "is"
+        ],
+        [
+          "been",
+          "being",
+          "be",
+          "was"
+        ],
+        [
+          "raining",
+          "rained",
+          "rain",
+          "rains"
+        ],
+        [
+          "all",
+          "every",
+          "this",
+          "that"
+        ],
+        [
+          "week",
+          "day",
+          "month",
+          "year"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_13_present_perfect_continuous/004.mp3"
+    },
+    {
+      "id": "t13_6",
+      "type": "sentenceAssembly",
+      "question": "Мы путешествуем три дня",
+      "correctAnswer": "We have been traveling for three days",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "She",
+          "He"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "are"
+        ],
+        [
+          "been",
+          "being",
+          "be",
+          "was"
+        ],
+        [
+          "traveling",
+          "traveled",
+          "travel",
+          "travels"
+        ],
+        [
+          "for",
+          "since",
+          "at",
+          "in"
+        ],
+        [
+          "three",
+          "two",
+          "four",
+          "five"
+        ],
+        [
+          "days",
+          "hours",
+          "weeks",
+          "months"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_13_present_perfect_continuous/005.mp3"
+    },
+    {
+      "id": "t13_7",
+      "type": "sentenceAssembly",
+      "question": "Я читаю с утра",
+      "correctAnswer": "I have been reading since morning",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "am"
+        ],
+        [
+          "been",
+          "being",
+          "be",
+          "was"
+        ],
+        [
+          "reading",
+          "read",
+          "reads",
+          "readed"
+        ],
+        [
+          "since",
+          "for",
+          "from",
+          "at"
+        ],
+        [
+          "morning",
+          "noon",
+          "evening",
+          "Monday"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_13_present_perfect_continuous/006.mp3"
+    },
+    {
+      "id": "t13_8",
+      "type": "sentenceAssembly",
+      "question": "Она бегает с полудня",
+      "correctAnswer": "She has been running since noon",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "They"
+        ],
+        [
+          "has",
+          "have",
+          "had",
+          "is"
+        ],
+        [
+          "been",
+          "being",
+          "be",
+          "was"
+        ],
+        [
+          "running",
+          "run",
+          "runs",
+          "ran"
+        ],
+        [
+          "since",
+          "for",
+          "from",
+          "at"
+        ],
+        [
+          "noon",
+          "morning",
+          "evening",
+          "night"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_13_present_perfect_continuous/007.mp3"
+    },
+    {
+      "id": "t13_9",
+      "type": "sentenceAssembly",
+      "question": "Они разговаривают целый час",
+      "correctAnswer": "They have been talking for an hour",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "We",
+          "She",
+          "He"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "are"
+        ],
+        [
+          "been",
+          "being",
+          "be",
+          "was"
+        ],
+        [
+          "talking",
+          "talked",
+          "talk",
+          "talks"
+        ],
+        [
+          "for",
+          "since",
+          "from",
+          "at"
+        ],
+        [
+          "an",
+          "a",
+          "the",
+          "one"
+        ],
+        [
+          "hour",
+          "day",
+          "week",
+          "minute"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_13_present_perfect_continuous/008.mp3"
+    },
+    {
+      "id": "t13_10",
+      "type": "sentenceAssembly",
+      "question": "Он спит пять часов",
+      "correctAnswer": "He has been sleeping for five hours",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "I",
+          "They"
+        ],
+        [
+          "has",
+          "have",
+          "had",
+          "is"
+        ],
+        [
+          "been",
+          "being",
+          "be",
+          "was"
+        ],
+        [
+          "sleeping",
+          "slept",
+          "sleep",
+          "sleeps"
+        ],
+        [
+          "for",
+          "since",
+          "from",
+          "at"
+        ],
+        [
+          "five",
+          "three",
+          "four",
+          "six"
+        ],
+        [
+          "hours",
+          "days",
+          "weeks",
+          "minutes"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_13_present_perfect_continuous/009.mp3"
+    },
+    {
+      "id": "t13_11",
+      "type": "sentenceAssembly",
+      "question": "Я учу английский год",
+      "correctAnswer": "I have been learning English for a year",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "am"
+        ],
+        [
+          "been",
+          "being",
+          "be",
+          "was"
+        ],
+        [
+          "learning",
+          "learned",
+          "learn",
+          "learns"
+        ],
+        [
+          "English",
+          "French",
+          "Spanish",
+          "German"
+        ],
+        [
+          "for",
+          "since",
+          "from",
+          "at"
+        ],
+        [
+          "a",
+          "the",
+          "one",
+          "this"
+        ],
+        [
+          "year",
+          "month",
+          "week",
+          "day"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_13_present_perfect_continuous/010.mp3"
+    },
+    {
+      "id": "t13_12",
+      "type": "sentenceAssembly",
+      "question": "Она ведёт машину с утра",
+      "correctAnswer": "She has been driving since morning",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "They"
+        ],
+        [
+          "has",
+          "have",
+          "had",
+          "is"
+        ],
+        [
+          "been",
+          "being",
+          "be",
+          "was"
+        ],
+        [
+          "driving",
+          "drove",
+          "drive",
+          "drives"
+        ],
+        [
+          "since",
+          "for",
+          "from",
+          "at"
+        ],
+        [
+          "morning",
+          "noon",
+          "evening",
+          "Monday"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_13_present_perfect_continuous/011.mp3"
+    },
+    {
+      "id": "t13_13",
+      "type": "sentenceAssembly",
+      "question": "Мы ждём с двух часов",
+      "correctAnswer": "We have been waiting since two o'clock",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "She",
+          "He"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "are"
+        ],
+        [
+          "been",
+          "being",
+          "be",
+          "was"
+        ],
+        [
+          "waiting",
+          "waited",
+          "wait",
+          "waits"
+        ],
+        [
+          "since",
+          "for",
+          "from",
+          "at"
+        ],
+        [
+          "two",
+          "three",
+          "four",
+          "five"
+        ],
+        [
+          "o'clock",
+          "hours",
+          "days",
+          "minutes"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_13_present_perfect_continuous/012.mp3"
+    },
+    {
+      "id": "t13_14",
+      "type": "sentenceAssembly",
+      "question": "Он красит стену весь день",
+      "correctAnswer": "He has been painting the wall all day",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "I",
+          "They"
+        ],
+        [
+          "has",
+          "have",
+          "had",
+          "is"
+        ],
+        [
+          "been",
+          "being",
+          "be",
+          "was"
+        ],
+        [
+          "painting",
+          "painted",
+          "paint",
+          "paints"
+        ],
+        [
+          "the",
+          "a",
+          "this",
+          "that"
+        ],
+        [
+          "wall",
+          "room",
+          "house",
+          "door"
+        ],
+        [
+          "all",
+          "every",
+          "this",
+          "that"
+        ],
+        [
+          "day",
+          "week",
+          "morning",
+          "night"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_13_present_perfect_continuous/013.mp3"
+    },
+    {
+      "id": "t13_15",
+      "type": "sentenceAssembly",
+      "question": "Они играют два часа",
+      "correctAnswer": "They have been playing for two hours",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "We",
+          "She",
+          "He"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "are"
+        ],
+        [
+          "been",
+          "being",
+          "be",
+          "was"
+        ],
+        [
+          "playing",
+          "played",
+          "play",
+          "plays"
+        ],
+        [
+          "for",
+          "since",
+          "from",
+          "at"
+        ],
+        [
+          "two",
+          "three",
+          "four",
+          "five"
+        ],
+        [
+          "hours",
+          "days",
+          "weeks",
+          "minutes"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_13_present_perfect_continuous/014.mp3"
+    },
+    {
+      "id": "t13_16",
+      "type": "sentenceAssembly",
+      "question": "Я пишу письмо с обеда",
+      "correctAnswer": "I have been writing a letter since lunch",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "am"
+        ],
+        [
+          "been",
+          "being",
+          "be",
+          "was"
+        ],
+        [
+          "writing",
+          "wrote",
+          "write",
+          "writes"
+        ],
+        [
+          "a",
+          "the",
+          "this",
+          "my"
+        ],
+        [
+          "letter",
+          "email",
+          "message",
+          "note"
+        ],
+        [
+          "since",
+          "for",
+          "from",
+          "at"
+        ],
+        [
+          "lunch",
+          "morning",
+          "noon",
+          "dinner"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_13_present_perfect_continuous/015.mp3"
+    },
+    {
+      "id": "t13_17",
+      "type": "sentenceAssembly",
+      "question": "Она плачет уже полчаса",
+      "correctAnswer": "She has been crying for half an hour",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "They"
+        ],
+        [
+          "has",
+          "have",
+          "had",
+          "is"
+        ],
+        [
+          "been",
+          "being",
+          "be",
+          "was"
+        ],
+        [
+          "crying",
+          "cried",
+          "cry",
+          "cries"
+        ],
+        [
+          "for",
+          "since",
+          "from",
+          "at"
+        ],
+        [
+          "half",
+          "one",
+          "two",
+          "three"
+        ],
+        [
+          "an",
+          "a",
+          "the",
+          "one"
+        ],
+        [
+          "hour",
+          "day",
+          "week",
+          "minute"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_13_present_perfect_continuous/016.mp3"
+    },
+    {
+      "id": "t13_18",
+      "type": "sentenceAssembly",
+      "question": "Мы живём здесь пять лет",
+      "correctAnswer": "We have been living here for five years",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "She",
+          "He"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "are"
+        ],
+        [
+          "been",
+          "being",
+          "be",
+          "was"
+        ],
+        [
+          "living",
+          "lived",
+          "live",
+          "lives"
+        ],
+        [
+          "here",
+          "there",
+          "near",
+          "home"
+        ],
+        [
+          "for",
+          "since",
+          "from",
+          "at"
+        ],
+        [
+          "five",
+          "three",
+          "four",
+          "ten"
+        ],
+        [
+          "years",
+          "months",
+          "days",
+          "weeks"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_13_present_perfect_continuous/017.mp3"
+    },
+    {
+      "id": "t13_19",
+      "type": "sentenceAssembly",
+      "question": "Он смотрит телевизор с вечера",
+      "correctAnswer": "He has been watching TV since evening",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "I",
+          "They"
+        ],
+        [
+          "has",
+          "have",
+          "had",
+          "is"
+        ],
+        [
+          "been",
+          "being",
+          "be",
+          "was"
+        ],
+        [
+          "watching",
+          "watched",
+          "watch",
+          "watches"
+        ],
+        [
+          "TV",
+          "film",
+          "movie",
+          "news"
+        ],
+        [
+          "since",
+          "for",
+          "from",
+          "at"
+        ],
+        [
+          "evening",
+          "morning",
+          "noon",
+          "night"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_13_present_perfect_continuous/018.mp3"
+    },
+    {
+      "id": "t13_20",
+      "type": "sentenceAssembly",
+      "question": "Они танцуют три часа",
+      "correctAnswer": "They have been dancing for three hours",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "We",
+          "She",
+          "He"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "are"
+        ],
+        [
+          "been",
+          "being",
+          "be",
+          "was"
+        ],
+        [
+          "dancing",
+          "danced",
+          "dance",
+          "dances"
+        ],
+        [
+          "for",
+          "since",
+          "from",
+          "at"
+        ],
+        [
+          "three",
+          "two",
+          "four",
+          "five"
+        ],
+        [
+          "hours",
+          "days",
+          "weeks",
+          "minutes"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_13_present_perfect_continuous/019.mp3"
+    },
+    {
+      "id": "t13_21",
+      "type": "sentenceAssembly",
+      "question": "Ты работаешь здесь с мая?",
+      "correctAnswer": "Have you been working here since May",
+      "options": [],
+      "variants": [
+        [
+          "Have",
+          "Has",
+          "Do",
+          "Did"
+        ],
+        [
+          "you",
+          "he",
+          "she",
+          "they"
+        ],
+        [
+          "been",
+          "being",
+          "be",
+          "was"
+        ],
+        [
+          "working",
+          "worked",
+          "work",
+          "works"
+        ],
+        [
+          "here",
+          "there",
+          "near",
+          "home"
+        ],
+        [
+          "since",
+          "for",
+          "from",
+          "at"
+        ],
+        [
+          "May",
+          "June",
+          "Monday",
+          "March"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_13_present_perfect_continuous/020.mp3"
+    },
+    {
+      "id": "t13_22",
+      "type": "sentenceAssembly",
+      "question": "Она ждёт с понедельника?",
+      "correctAnswer": "Has she been waiting since Monday",
+      "options": [],
+      "variants": [
+        [
+          "Has",
+          "Have",
+          "Does",
+          "Did"
+        ],
+        [
+          "she",
+          "he",
+          "they",
+          "we"
+        ],
+        [
+          "been",
+          "being",
+          "be",
+          "was"
+        ],
+        [
+          "waiting",
+          "waited",
+          "wait",
+          "waits"
+        ],
+        [
+          "since",
+          "for",
+          "from",
+          "at"
+        ],
+        [
+          "Monday",
+          "Tuesday",
+          "morning",
+          "noon"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_13_present_perfect_continuous/021.mp3"
+    },
+    {
+      "id": "t13_23",
+      "type": "sentenceAssembly",
+      "question": "Они учатся весь вечер?",
+      "correctAnswer": "Have they been studying all evening",
+      "options": [],
+      "variants": [
+        [
+          "Have",
+          "Has",
+          "Do",
+          "Did"
+        ],
+        [
+          "they",
+          "she",
+          "he",
+          "we"
+        ],
+        [
+          "been",
+          "being",
+          "be",
+          "was"
+        ],
+        [
+          "studying",
+          "studied",
+          "study",
+          "studies"
+        ],
+        [
+          "all",
+          "every",
+          "this",
+          "that"
+        ],
+        [
+          "evening",
+          "morning",
+          "day",
+          "night"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_13_present_perfect_continuous/022.mp3"
+    },
+    {
+      "id": "t13_24",
+      "type": "sentenceAssembly",
+      "question": "Он бегает два часа?",
+      "correctAnswer": "Has he been running for two hours",
+      "options": [],
+      "variants": [
+        [
+          "Has",
+          "Have",
+          "Does",
+          "Did"
+        ],
+        [
+          "he",
+          "she",
+          "they",
+          "we"
+        ],
+        [
+          "been",
+          "being",
+          "be",
+          "was"
+        ],
+        [
+          "running",
+          "run",
+          "runs",
+          "ran"
+        ],
+        [
+          "for",
+          "since",
+          "from",
+          "at"
+        ],
+        [
+          "two",
+          "three",
+          "four",
+          "five"
+        ],
+        [
+          "hours",
+          "days",
+          "weeks",
+          "minutes"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_13_present_perfect_continuous/023.mp3"
+    },
+    {
+      "id": "t13_25",
+      "type": "sentenceAssembly",
+      "question": "Вы путешествуете с июня?",
+      "correctAnswer": "Have you been traveling since June",
+      "options": [],
+      "variants": [
+        [
+          "Have",
+          "Has",
+          "Do",
+          "Did"
+        ],
+        [
+          "you",
+          "he",
+          "she",
+          "they"
+        ],
+        [
+          "been",
+          "being",
+          "be",
+          "was"
+        ],
+        [
+          "traveling",
+          "traveled",
+          "travel",
+          "travels"
+        ],
+        [
+          "since",
+          "for",
+          "from",
+          "at"
+        ],
+        [
+          "June",
+          "July",
+          "May",
+          "March"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_13_present_perfect_continuous/024.mp3"
+    },
+    {
+      "id": "t13_26",
+      "type": "sentenceAssembly",
+      "question": "Я не работал весь день",
+      "correctAnswer": "I have not been working all day",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "am"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "none"
+        ],
+        [
+          "been",
+          "being",
+          "be",
+          "was"
+        ],
+        [
+          "working",
+          "worked",
+          "work",
+          "works"
+        ],
+        [
+          "all",
+          "every",
+          "this",
+          "that"
+        ],
+        [
+          "day",
+          "week",
+          "morning",
+          "night"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_13_present_perfect_continuous/025.mp3"
+    },
+    {
+      "id": "t13_27",
+      "type": "sentenceAssembly",
+      "question": "Она не спала с ночи",
+      "correctAnswer": "She has not been sleeping since night",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "They"
+        ],
+        [
+          "has",
+          "have",
+          "had",
+          "is"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "none"
+        ],
+        [
+          "been",
+          "being",
+          "be",
+          "was"
+        ],
+        [
+          "sleeping",
+          "slept",
+          "sleep",
+          "sleeps"
+        ],
+        [
+          "since",
+          "for",
+          "from",
+          "at"
+        ],
+        [
+          "night",
+          "morning",
+          "noon",
+          "evening"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_13_present_perfect_continuous/026.mp3"
+    },
+    {
+      "id": "t13_28",
+      "type": "sentenceAssembly",
+      "question": "Мы не готовим с обеда",
+      "correctAnswer": "We have not been cooking since lunch",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "She",
+          "He"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "are"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "none"
+        ],
+        [
+          "been",
+          "being",
+          "be",
+          "was"
+        ],
+        [
+          "cooking",
+          "cooked",
+          "cook",
+          "cooks"
+        ],
+        [
+          "since",
+          "for",
+          "from",
+          "at"
+        ],
+        [
+          "lunch",
+          "morning",
+          "noon",
+          "dinner"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_13_present_perfect_continuous/027.mp3"
+    },
+    {
+      "id": "t13_29",
+      "type": "sentenceAssembly",
+      "question": "Он не читал весь вечер",
+      "correctAnswer": "He has not been reading all evening",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "I",
+          "They"
+        ],
+        [
+          "has",
+          "have",
+          "had",
+          "is"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "none"
+        ],
+        [
+          "been",
+          "being",
+          "be",
+          "was"
+        ],
+        [
+          "reading",
+          "read",
+          "reads",
+          "readed"
+        ],
+        [
+          "all",
+          "every",
+          "this",
+          "that"
+        ],
+        [
+          "evening",
+          "morning",
+          "day",
+          "night"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_13_present_perfect_continuous/028.mp3"
+    },
+    {
+      "id": "t13_30",
+      "type": "sentenceAssembly",
+      "question": "Как долго ты ждёшь?",
+      "correctAnswer": "How long have you been waiting",
+      "options": [],
+      "variants": [
+        [
+          "How",
+          "What",
+          "Why",
+          "When"
+        ],
+        [
+          "long",
+          "much",
+          "many",
+          "far"
+        ],
+        [
+          "have",
+          "has",
+          "do",
+          "did"
+        ],
+        [
+          "you",
+          "he",
+          "she",
+          "they"
+        ],
+        [
+          "been",
+          "being",
+          "be",
+          "was"
+        ],
+        [
+          "waiting",
+          "waited",
+          "wait",
+          "waits"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_13_present_perfect_continuous/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionIntermediate13PresentPerfectContinuous"
+}

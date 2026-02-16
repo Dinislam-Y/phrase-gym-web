@@ -1,0 +1,1732 @@
+{
+  "id": "intermediate_02_past_simple_irregular",
+  "title": "Past Simple: Irregular Verbs",
+  "description": "Неправильные глаголы — бунтари английского языка. Они не подчиняются правилу -ed и меняются по-своему. Их нужно знать наизусть, чтобы говорить о прошлом уверенно и без ошибок.",
+  "order": 2,
+  "level": "intermediate",
+  "imageUrl": "assets/images/lessons/past_simple_irregular.png",
+  "vocabulary": [
+    {
+      "id": "v2_go",
+      "english": "go",
+      "russian": "идти / ходить",
+      "partOfSpeech": "verb",
+      "example": "I went to the park.",
+      "exampleTranslation": "Я ходил в парк.",
+      "audioPath": "assets/audio/vocabulary/v2_go.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_go.mp3"
+    },
+    {
+      "id": "v2_see",
+      "english": "see",
+      "russian": "видеть",
+      "partOfSpeech": "verb",
+      "example": "She saw a bird.",
+      "exampleTranslation": "Она увидела птицу.",
+      "audioPath": "assets/audio/vocabulary/v2_see.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_see.mp3"
+    },
+    {
+      "id": "v2_take",
+      "english": "take",
+      "russian": "брать",
+      "partOfSpeech": "verb",
+      "example": "He took my bag.",
+      "exampleTranslation": "Он взял мою сумку.",
+      "audioPath": "assets/audio/vocabulary/v2_take.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_take.mp3"
+    },
+    {
+      "id": "v2_make",
+      "english": "make",
+      "russian": "делать / создавать",
+      "partOfSpeech": "verb",
+      "example": "She made a cake.",
+      "exampleTranslation": "Она сделала торт.",
+      "audioPath": "assets/audio/vocabulary/v2_make.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_make.mp3"
+    },
+    {
+      "id": "v2_give",
+      "english": "give",
+      "russian": "давать",
+      "partOfSpeech": "verb",
+      "example": "He gave me a book.",
+      "exampleTranslation": "Он дал мне книгу.",
+      "audioPath": "assets/audio/vocabulary/v2_give.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_give.mp3"
+    },
+    {
+      "id": "v2_tell",
+      "english": "tell",
+      "russian": "рассказывать / говорить",
+      "partOfSpeech": "verb",
+      "example": "She told me the truth.",
+      "exampleTranslation": "Она сказала мне правду.",
+      "audioPath": "assets/audio/vocabulary/v2_tell.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_tell.mp3"
+    },
+    {
+      "id": "v2_come",
+      "english": "come",
+      "russian": "приходить",
+      "partOfSpeech": "verb",
+      "example": "They came home late.",
+      "exampleTranslation": "Они пришли домой поздно.",
+      "audioPath": "assets/audio/vocabulary/v2_come.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_come.mp3"
+    },
+    {
+      "id": "v2_buy",
+      "english": "buy",
+      "russian": "покупать",
+      "partOfSpeech": "verb",
+      "example": "We bought new shoes.",
+      "exampleTranslation": "Мы купили новую обувь.",
+      "audioPath": "assets/audio/vocabulary/v2_buy.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_buy.mp3"
+    },
+    {
+      "id": "v2_eat",
+      "english": "eat",
+      "russian": "есть / кушать",
+      "partOfSpeech": "verb",
+      "example": "I ate breakfast early.",
+      "exampleTranslation": "Я позавтракал рано.",
+      "audioPath": "assets/audio/vocabulary/v2_eat.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_eat.mp3"
+    },
+    {
+      "id": "v2_drink",
+      "english": "drink",
+      "russian": "пить",
+      "partOfSpeech": "verb",
+      "example": "She drank some water.",
+      "exampleTranslation": "Она выпила воды.",
+      "audioPath": "assets/audio/vocabulary/v2_drink.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_drink.mp3"
+    },
+    {
+      "id": "v2_think",
+      "english": "think",
+      "russian": "думать",
+      "partOfSpeech": "verb",
+      "example": "I thought about it.",
+      "exampleTranslation": "Я подумал об этом.",
+      "audioPath": "assets/audio/vocabulary/v2_think.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_think.mp3"
+    },
+    {
+      "id": "v2_write",
+      "english": "write",
+      "russian": "писать",
+      "partOfSpeech": "verb",
+      "example": "He wrote a letter.",
+      "exampleTranslation": "Он написал письмо.",
+      "audioPath": "assets/audio/vocabulary/v2_write.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_write.mp3"
+    },
+    {
+      "id": "v2_speak",
+      "english": "speak",
+      "russian": "говорить / разговаривать",
+      "partOfSpeech": "verb",
+      "example": "She spoke English well.",
+      "exampleTranslation": "Она хорошо говорила по-английски.",
+      "audioPath": "assets/audio/vocabulary/v2_speak.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_speak.mp3"
+    },
+    {
+      "id": "v2_find",
+      "english": "find",
+      "russian": "находить",
+      "partOfSpeech": "verb",
+      "example": "We found the keys.",
+      "exampleTranslation": "Мы нашли ключи.",
+      "audioPath": "assets/audio/vocabulary/v2_find.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_find.mp3"
+    },
+    {
+      "id": "v2_know",
+      "english": "know",
+      "russian": "знать",
+      "partOfSpeech": "verb",
+      "example": "He knew the answer.",
+      "exampleTranslation": "Он знал ответ.",
+      "audioPath": "assets/audio/vocabulary/v2_know.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_know.mp3"
+    },
+    {
+      "id": "v2_yesterday",
+      "english": "yesterday",
+      "russian": "вчера",
+      "partOfSpeech": "adverb",
+      "example": "I saw him yesterday.",
+      "exampleTranslation": "Я видел его вчера.",
+      "audioPath": "assets/audio/vocabulary/v2_yesterday.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_yesterday.mp3"
+    },
+    {
+      "id": "v2_last",
+      "english": "last",
+      "russian": "прошлый",
+      "partOfSpeech": "adjective",
+      "example": "Last week was busy.",
+      "exampleTranslation": "Прошлая неделя была загруженной.",
+      "audioPath": "assets/audio/vocabulary/v2_last.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_last.mp3"
+    },
+    {
+      "id": "v2_ago",
+      "english": "ago",
+      "russian": "назад (о времени)",
+      "partOfSpeech": "adverb",
+      "example": "Two days ago it rained.",
+      "exampleTranslation": "Два дня назад шёл дождь.",
+      "audioPath": "assets/audio/vocabulary/v2_ago.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_ago.mp3"
+    },
+    {
+      "id": "v2_already",
+      "english": "already",
+      "russian": "уже",
+      "partOfSpeech": "adverb",
+      "example": "They already knew.",
+      "exampleTranslation": "Они уже знали.",
+      "audioPath": "assets/audio/vocabulary/v2_already.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_already.mp3"
+    },
+    {
+      "id": "v2_never",
+      "english": "never",
+      "russian": "никогда",
+      "partOfSpeech": "adverb",
+      "example": "I never saw that.",
+      "exampleTranslation": "Я никогда этого не видел.",
+      "audioPath": "assets/audio/vocabulary/v2_never.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_never.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "Past Simple: Irregular Verbs",
+    "subtitle": "Неправильные глаголы — это слова-бунтари, которые не признают окончание -ed. Вместо этого они полностью меняют форму: go → went, see → saw, eat → ate. Их нельзя вычислить по правилу — только запомнить. Но хорошая новость: в отрицаниях и вопросах они возвращаются к базовой форме (V1), потому что did забирает прошедшее время себе.",
+    "construction": {
+      "formula": "Subject + V2 (irregular form)",
+      "rules": [
+        {
+          "word": "V2 (Неправильные глаголы)",
+          "description": "Каждый глагол меняется по-своему: go → went, see → saw, take → took, eat → ate. Нет единого шаблона — нужно учить наизусть."
+        },
+        {
+          "word": "Did + V1 (вопросы)",
+          "description": "В вопросах did забирает прошедшее время, и глагол возвращается в V1: Did you go? (не Did you went?)"
+        },
+        {
+          "word": "Didn't + V1 (отрицания)",
+          "description": "В отрицаниях тоже V1: I didn't see (не I didn't saw). Помощник didn't уже показывает прошлое."
+        },
+        {
+          "word": "Группы неправильных глаголов",
+          "description": "Некоторые глаголы меняются похоже: think → thought, buy → bought, bring → brought (все на -ought). Ищите паттерны — так легче запоминать."
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "check_circle",
+        "color": "green",
+        "title": "Завершённые действия в прошлом",
+        "description": "Конкретные события, которые произошли и закончились.",
+        "example": {
+          "english": "She went to school yesterday.",
+          "russian": "Она ходила в школу вчера."
+        }
+      },
+      {
+        "icon": "schedule",
+        "color": "blue",
+        "title": "Цепочка событий",
+        "description": "Последовательные действия в рассказе или истории.",
+        "example": {
+          "english": "He came home, ate dinner and wrote a letter.",
+          "russian": "Он пришёл домой, поужинал и написал письмо."
+        }
+      },
+      {
+        "icon": "explore",
+        "color": "orange",
+        "title": "Вопросы и отрицания с did",
+        "description": "В вопросах и отрицаниях глагол возвращается в базовую форму.",
+        "example": {
+          "english": "Did you see the movie? — No, I didn't see it.",
+          "russian": "Ты видел фильм? — Нет, я его не видел."
+        }
+      }
+    ],
+    "markers": [
+      "yesterday",
+      "last week",
+      "last month",
+      "last year",
+      "ago",
+      "two days ago",
+      "in 2010",
+      "when I was young",
+      "last night"
+    ]
+  },
+  "tasks": [
+    {
+      "id": "t2_1",
+      "type": "sentenceAssembly",
+      "question": "Я ходил в парк",
+      "correctAnswer": "I went to the park",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "My",
+          "He"
+        ],
+        [
+          "went",
+          "go",
+          "gone",
+          "going"
+        ],
+        [
+          "to",
+          "at",
+          "in",
+          "on"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "park",
+          "school",
+          "garden",
+          "place"
+        ]
+      ],
+      "mistakeTags": [
+        "past_simple",
+        "irregular_verbs"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_02_past_simple_irregular/000.mp3"
+    },
+    {
+      "id": "t2_2",
+      "type": "sentenceAssembly",
+      "question": "Она увидела птицу",
+      "correctAnswer": "She saw a bird",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "Her",
+          "He",
+          "Hers"
+        ],
+        [
+          "saw",
+          "see",
+          "seen",
+          "seeing"
+        ],
+        [
+          "a",
+          "the",
+          "an",
+          "one"
+        ],
+        [
+          "bird",
+          "cat",
+          "dog",
+          "fish"
+        ]
+      ],
+      "mistakeTags": [
+        "past_simple",
+        "irregular_verbs"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_02_past_simple_irregular/001.mp3"
+    },
+    {
+      "id": "t2_3",
+      "type": "sentenceAssembly",
+      "question": "Он взял мою сумку",
+      "correctAnswer": "He took my bag",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "Him",
+          "His",
+          "She"
+        ],
+        [
+          "took",
+          "take",
+          "taken",
+          "taking"
+        ],
+        [
+          "my",
+          "me",
+          "mine",
+          "I"
+        ],
+        [
+          "bag",
+          "box",
+          "hat",
+          "coat"
+        ]
+      ],
+      "mistakeTags": [
+        "past_simple",
+        "irregular_verbs"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_02_past_simple_irregular/002.mp3"
+    },
+    {
+      "id": "t2_4",
+      "type": "sentenceAssembly",
+      "question": "Мы купили новую машину",
+      "correctAnswer": "We bought a new car",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "Us",
+          "Our",
+          "They"
+        ],
+        [
+          "bought",
+          "buy",
+          "buying",
+          "buyed"
+        ],
+        [
+          "a",
+          "the",
+          "an",
+          "one"
+        ],
+        [
+          "new",
+          "old",
+          "big",
+          "nice"
+        ],
+        [
+          "car",
+          "house",
+          "bike",
+          "boat"
+        ]
+      ],
+      "mistakeTags": [
+        "past_simple",
+        "irregular_verbs"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_02_past_simple_irregular/003.mp3"
+    },
+    {
+      "id": "t2_5",
+      "type": "sentenceAssembly",
+      "question": "Она сделала торт вчера",
+      "correctAnswer": "She made a cake yesterday",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "Her",
+          "He",
+          "They"
+        ],
+        [
+          "made",
+          "make",
+          "making",
+          "maked"
+        ],
+        [
+          "a",
+          "the",
+          "an",
+          "some"
+        ],
+        [
+          "cake",
+          "pie",
+          "bread",
+          "meal"
+        ],
+        [
+          "yesterday",
+          "today",
+          "tomorrow",
+          "ago"
+        ]
+      ],
+      "mistakeTags": [
+        "past_simple",
+        "irregular_verbs"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_02_past_simple_irregular/004.mp3"
+    },
+    {
+      "id": "t2_6",
+      "type": "sentenceAssembly",
+      "question": "Я съел завтрак рано",
+      "correctAnswer": "I ate breakfast early",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "My",
+          "We"
+        ],
+        [
+          "ate",
+          "eat",
+          "eaten",
+          "eating"
+        ],
+        [
+          "breakfast",
+          "lunch",
+          "dinner",
+          "food"
+        ],
+        [
+          "early",
+          "late",
+          "fast",
+          "slowly"
+        ]
+      ],
+      "mistakeTags": [
+        "past_simple",
+        "irregular_verbs"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_02_past_simple_irregular/005.mp3"
+    },
+    {
+      "id": "t2_7",
+      "type": "sentenceAssembly",
+      "question": "Они пришли домой поздно",
+      "correctAnswer": "They came home late",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "Them",
+          "Their",
+          "We"
+        ],
+        [
+          "came",
+          "come",
+          "coming",
+          "comed"
+        ],
+        [
+          "home",
+          "house",
+          "room",
+          "back"
+        ],
+        [
+          "late",
+          "early",
+          "soon",
+          "fast"
+        ]
+      ],
+      "mistakeTags": [
+        "past_simple",
+        "irregular_verbs"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_02_past_simple_irregular/006.mp3"
+    },
+    {
+      "id": "t2_8",
+      "type": "sentenceAssembly",
+      "question": "Он написал письмо",
+      "correctAnswer": "He wrote a letter",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "Him",
+          "His",
+          "She"
+        ],
+        [
+          "wrote",
+          "write",
+          "written",
+          "writing"
+        ],
+        [
+          "a",
+          "the",
+          "an",
+          "one"
+        ],
+        [
+          "letter",
+          "book",
+          "note",
+          "email"
+        ]
+      ],
+      "mistakeTags": [
+        "past_simple",
+        "irregular_verbs"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_02_past_simple_irregular/007.mp3"
+    },
+    {
+      "id": "t2_9",
+      "type": "sentenceAssembly",
+      "question": "Она выпила немного воды",
+      "correctAnswer": "She drank some water",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "Her",
+          "He",
+          "They"
+        ],
+        [
+          "drank",
+          "drink",
+          "drunk",
+          "drinking"
+        ],
+        [
+          "some",
+          "a",
+          "the",
+          "any"
+        ],
+        [
+          "water",
+          "juice",
+          "tea",
+          "milk"
+        ]
+      ],
+      "mistakeTags": [
+        "past_simple",
+        "irregular_verbs"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_02_past_simple_irregular/008.mp3"
+    },
+    {
+      "id": "t2_10",
+      "type": "sentenceAssembly",
+      "question": "Я подумал об этом",
+      "correctAnswer": "I thought about it",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "My",
+          "We"
+        ],
+        [
+          "thought",
+          "think",
+          "thinking",
+          "thinked"
+        ],
+        [
+          "about",
+          "of",
+          "for",
+          "on"
+        ],
+        [
+          "it",
+          "this",
+          "that",
+          "them"
+        ]
+      ],
+      "mistakeTags": [
+        "past_simple",
+        "irregular_verbs"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_02_past_simple_irregular/009.mp3"
+    },
+    {
+      "id": "t2_11",
+      "type": "sentenceAssembly",
+      "question": "Он дал ей подарок",
+      "correctAnswer": "He gave her a gift",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "Him",
+          "His",
+          "She"
+        ],
+        [
+          "gave",
+          "give",
+          "given",
+          "giving"
+        ],
+        [
+          "her",
+          "she",
+          "hers",
+          "him"
+        ],
+        [
+          "a",
+          "the",
+          "an",
+          "one"
+        ],
+        [
+          "gift",
+          "book",
+          "card",
+          "box"
+        ]
+      ],
+      "mistakeTags": [
+        "past_simple",
+        "irregular_verbs"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_02_past_simple_irregular/010.mp3"
+    },
+    {
+      "id": "t2_12",
+      "type": "sentenceAssembly",
+      "question": "Мы нашли ключи на столе",
+      "correctAnswer": "We found the keys on the table",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "Us",
+          "Our",
+          "They"
+        ],
+        [
+          "found",
+          "find",
+          "finding",
+          "finded"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "our"
+        ],
+        [
+          "keys",
+          "key",
+          "door",
+          "lock"
+        ],
+        [
+          "on",
+          "in",
+          "at",
+          "under"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "table",
+          "desk",
+          "floor",
+          "shelf"
+        ]
+      ],
+      "mistakeTags": [
+        "past_simple",
+        "irregular_verbs"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_02_past_simple_irregular/011.mp3"
+    },
+    {
+      "id": "t2_13",
+      "type": "sentenceAssembly",
+      "question": "Она рассказала мне правду",
+      "correctAnswer": "She told me the truth",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "Her",
+          "He",
+          "They"
+        ],
+        [
+          "told",
+          "tell",
+          "telling",
+          "telled"
+        ],
+        [
+          "me",
+          "I",
+          "my",
+          "mine"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "some"
+        ],
+        [
+          "truth",
+          "story",
+          "news",
+          "secret"
+        ]
+      ],
+      "mistakeTags": [
+        "past_simple",
+        "irregular_verbs"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_02_past_simple_irregular/012.mp3"
+    },
+    {
+      "id": "t2_14",
+      "type": "sentenceAssembly",
+      "question": "Он не пошёл на работу",
+      "correctAnswer": "He didn't go to work",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "Him",
+          "His",
+          "She"
+        ],
+        [
+          "didn't",
+          "don't",
+          "doesn't",
+          "wasn't"
+        ],
+        [
+          "go",
+          "went",
+          "gone",
+          "going"
+        ],
+        [
+          "to",
+          "at",
+          "in",
+          "for"
+        ],
+        [
+          "work",
+          "job",
+          "office",
+          "school"
+        ]
+      ],
+      "mistakeTags": [
+        "past_simple",
+        "irregular_verbs"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_02_past_simple_irregular/013.mp3"
+    },
+    {
+      "id": "t2_15",
+      "type": "sentenceAssembly",
+      "question": "Я не видел этот фильм",
+      "correctAnswer": "I didn't see that movie",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "My",
+          "We"
+        ],
+        [
+          "didn't",
+          "don't",
+          "doesn't",
+          "haven't"
+        ],
+        [
+          "see",
+          "saw",
+          "seen",
+          "seeing"
+        ],
+        [
+          "that",
+          "this",
+          "the",
+          "a"
+        ],
+        [
+          "movie",
+          "film",
+          "show",
+          "game"
+        ]
+      ],
+      "mistakeTags": [
+        "past_simple",
+        "irregular_verbs"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_02_past_simple_irregular/014.mp3"
+    },
+    {
+      "id": "t2_16",
+      "type": "sentenceAssembly",
+      "question": "Они не ели мясо",
+      "correctAnswer": "They didn't eat meat",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "Them",
+          "Their",
+          "We"
+        ],
+        [
+          "didn't",
+          "don't",
+          "doesn't",
+          "wasn't"
+        ],
+        [
+          "eat",
+          "ate",
+          "eaten",
+          "eating"
+        ],
+        [
+          "meat",
+          "food",
+          "fish",
+          "bread"
+        ]
+      ],
+      "mistakeTags": [
+        "past_simple",
+        "irregular_verbs"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_02_past_simple_irregular/015.mp3"
+    },
+    {
+      "id": "t2_17",
+      "type": "sentenceAssembly",
+      "question": "Она не пила кофе вчера",
+      "correctAnswer": "She didn't drink coffee yesterday",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "Her",
+          "He",
+          "They"
+        ],
+        [
+          "didn't",
+          "don't",
+          "doesn't",
+          "hasn't"
+        ],
+        [
+          "drink",
+          "drank",
+          "drunk",
+          "drinking"
+        ],
+        [
+          "coffee",
+          "tea",
+          "water",
+          "juice"
+        ],
+        [
+          "yesterday",
+          "today",
+          "ago",
+          "before"
+        ]
+      ],
+      "mistakeTags": [
+        "past_simple",
+        "irregular_verbs"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_02_past_simple_irregular/016.mp3"
+    },
+    {
+      "id": "t2_18",
+      "type": "sentenceAssembly",
+      "question": "Мы не знали его имя",
+      "correctAnswer": "We didn't know his name",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "Us",
+          "Our",
+          "They"
+        ],
+        [
+          "didn't",
+          "don't",
+          "doesn't",
+          "weren't"
+        ],
+        [
+          "know",
+          "knew",
+          "known",
+          "knowing"
+        ],
+        [
+          "his",
+          "him",
+          "he",
+          "her"
+        ],
+        [
+          "name",
+          "face",
+          "number",
+          "address"
+        ]
+      ],
+      "mistakeTags": [
+        "past_simple",
+        "irregular_verbs"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_02_past_simple_irregular/017.mp3"
+    },
+    {
+      "id": "t2_19",
+      "type": "sentenceAssembly",
+      "question": "Он не написал ответ",
+      "correctAnswer": "He didn't write the answer",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "Him",
+          "His",
+          "She"
+        ],
+        [
+          "didn't",
+          "don't",
+          "doesn't",
+          "hasn't"
+        ],
+        [
+          "write",
+          "wrote",
+          "written",
+          "writing"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "his"
+        ],
+        [
+          "answer",
+          "letter",
+          "email",
+          "report"
+        ]
+      ],
+      "mistakeTags": [
+        "past_simple",
+        "irregular_verbs"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_02_past_simple_irregular/018.mp3"
+    },
+    {
+      "id": "t2_20",
+      "type": "sentenceAssembly",
+      "question": "Она не говорила по-французски",
+      "correctAnswer": "She didn't speak French",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "Her",
+          "He",
+          "They"
+        ],
+        [
+          "didn't",
+          "don't",
+          "doesn't",
+          "wasn't"
+        ],
+        [
+          "speak",
+          "spoke",
+          "spoken",
+          "speaking"
+        ],
+        [
+          "French",
+          "English",
+          "Spanish",
+          "German"
+        ]
+      ],
+      "mistakeTags": [
+        "past_simple",
+        "irregular_verbs"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_02_past_simple_irregular/019.mp3"
+    },
+    {
+      "id": "t2_21",
+      "type": "sentenceAssembly",
+      "question": "Ты ходил в школу вчера?",
+      "correctAnswer": "Did you go to school yesterday?",
+      "options": [],
+      "variants": [
+        [
+          "Did",
+          "Do",
+          "Does",
+          "Was"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "he"
+        ],
+        [
+          "go",
+          "went",
+          "gone",
+          "going"
+        ],
+        [
+          "to",
+          "at",
+          "in",
+          "for"
+        ],
+        [
+          "school",
+          "work",
+          "home",
+          "class"
+        ],
+        [
+          "yesterday",
+          "today",
+          "ago",
+          "before"
+        ]
+      ],
+      "mistakeTags": [
+        "past_simple",
+        "irregular_verbs"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_02_past_simple_irregular/020.mp3"
+    },
+    {
+      "id": "t2_22",
+      "type": "sentenceAssembly",
+      "question": "Она видела этот фильм?",
+      "correctAnswer": "Did she see that movie?",
+      "options": [],
+      "variants": [
+        [
+          "Did",
+          "Do",
+          "Does",
+          "Was"
+        ],
+        [
+          "she",
+          "her",
+          "hers",
+          "he"
+        ],
+        [
+          "see",
+          "saw",
+          "seen",
+          "seeing"
+        ],
+        [
+          "that",
+          "this",
+          "the",
+          "a"
+        ],
+        [
+          "movie",
+          "film",
+          "show",
+          "play"
+        ]
+      ],
+      "mistakeTags": [
+        "past_simple",
+        "irregular_verbs"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_02_past_simple_irregular/021.mp3"
+    },
+    {
+      "id": "t2_23",
+      "type": "sentenceAssembly",
+      "question": "Что ты ел на обед?",
+      "correctAnswer": "What did you eat for lunch?",
+      "options": [],
+      "variants": [
+        [
+          "What",
+          "Where",
+          "When",
+          "Who"
+        ],
+        [
+          "did",
+          "do",
+          "does",
+          "was"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "he"
+        ],
+        [
+          "eat",
+          "ate",
+          "eaten",
+          "eating"
+        ],
+        [
+          "for",
+          "at",
+          "on",
+          "to"
+        ],
+        [
+          "lunch",
+          "dinner",
+          "breakfast",
+          "food"
+        ]
+      ],
+      "mistakeTags": [
+        "past_simple",
+        "irregular_verbs"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_02_past_simple_irregular/022.mp3"
+    },
+    {
+      "id": "t2_24",
+      "type": "sentenceAssembly",
+      "question": "Они купили новый дом?",
+      "correctAnswer": "Did they buy a new house?",
+      "options": [],
+      "variants": [
+        [
+          "Did",
+          "Do",
+          "Does",
+          "Were"
+        ],
+        [
+          "they",
+          "them",
+          "their",
+          "we"
+        ],
+        [
+          "buy",
+          "bought",
+          "buying",
+          "buyed"
+        ],
+        [
+          "a",
+          "the",
+          "an",
+          "some"
+        ],
+        [
+          "new",
+          "old",
+          "big",
+          "nice"
+        ],
+        [
+          "house",
+          "car",
+          "flat",
+          "room"
+        ]
+      ],
+      "mistakeTags": [
+        "past_simple",
+        "irregular_verbs"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_02_past_simple_irregular/023.mp3"
+    },
+    {
+      "id": "t2_25",
+      "type": "sentenceAssembly",
+      "question": "Куда он пошёл вчера вечером?",
+      "correctAnswer": "Where did he go last night?",
+      "options": [],
+      "variants": [
+        [
+          "Where",
+          "What",
+          "When",
+          "Who"
+        ],
+        [
+          "did",
+          "do",
+          "does",
+          "was"
+        ],
+        [
+          "he",
+          "him",
+          "his",
+          "she"
+        ],
+        [
+          "go",
+          "went",
+          "gone",
+          "going"
+        ],
+        [
+          "last",
+          "next",
+          "this",
+          "that"
+        ],
+        [
+          "night",
+          "week",
+          "day",
+          "time"
+        ]
+      ],
+      "mistakeTags": [
+        "past_simple",
+        "irregular_verbs"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_02_past_simple_irregular/024.mp3"
+    },
+    {
+      "id": "t2_26",
+      "type": "sentenceAssembly",
+      "question": "Я нашёл это два дня назад",
+      "correctAnswer": "I found it two days ago",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "My",
+          "We"
+        ],
+        [
+          "found",
+          "find",
+          "finding",
+          "finded"
+        ],
+        [
+          "it",
+          "this",
+          "that",
+          "them"
+        ],
+        [
+          "two",
+          "three",
+          "five",
+          "ten"
+        ],
+        [
+          "days",
+          "weeks",
+          "hours",
+          "months"
+        ],
+        [
+          "ago",
+          "before",
+          "later",
+          "back"
+        ]
+      ],
+      "mistakeTags": [
+        "past_simple",
+        "irregular_verbs"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_02_past_simple_irregular/025.mp3"
+    },
+    {
+      "id": "t2_27",
+      "type": "sentenceAssembly",
+      "question": "Кто тебе рассказал об этом?",
+      "correctAnswer": "Who told you about it?",
+      "options": [],
+      "variants": [
+        [
+          "Who",
+          "What",
+          "Where",
+          "When"
+        ],
+        [
+          "told",
+          "tell",
+          "telling",
+          "telled"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "me"
+        ],
+        [
+          "about",
+          "of",
+          "for",
+          "on"
+        ],
+        [
+          "it",
+          "this",
+          "that",
+          "them"
+        ]
+      ],
+      "mistakeTags": [
+        "past_simple",
+        "irregular_verbs"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_02_past_simple_irregular/026.mp3"
+    },
+    {
+      "id": "t2_28",
+      "type": "sentenceAssembly",
+      "question": "Она не думала о проблеме",
+      "correctAnswer": "She didn't think about the problem",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "Her",
+          "He",
+          "They"
+        ],
+        [
+          "didn't",
+          "don't",
+          "doesn't",
+          "hasn't"
+        ],
+        [
+          "think",
+          "thought",
+          "thinking",
+          "thinked"
+        ],
+        [
+          "about",
+          "of",
+          "for",
+          "on"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "problem",
+          "question",
+          "answer",
+          "issue"
+        ]
+      ],
+      "mistakeTags": [
+        "past_simple",
+        "irregular_verbs"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_02_past_simple_irregular/027.mp3"
+    },
+    {
+      "id": "t2_29",
+      "type": "sentenceAssembly",
+      "question": "Когда они пришли домой?",
+      "correctAnswer": "When did they come home?",
+      "options": [],
+      "variants": [
+        [
+          "When",
+          "Where",
+          "What",
+          "Who"
+        ],
+        [
+          "did",
+          "do",
+          "does",
+          "were"
+        ],
+        [
+          "they",
+          "them",
+          "their",
+          "we"
+        ],
+        [
+          "come",
+          "came",
+          "coming",
+          "comed"
+        ],
+        [
+          "home",
+          "house",
+          "back",
+          "here"
+        ]
+      ],
+      "mistakeTags": [
+        "past_simple",
+        "irregular_verbs"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_02_past_simple_irregular/028.mp3"
+    },
+    {
+      "id": "t2_30",
+      "type": "sentenceAssembly",
+      "question": "Он знал ответ, но не сказал",
+      "correctAnswer": "He knew the answer but didn't tell",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "Him",
+          "His",
+          "She"
+        ],
+        [
+          "knew",
+          "know",
+          "known",
+          "knowing"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "answer",
+          "question",
+          "truth",
+          "secret"
+        ],
+        [
+          "but",
+          "and",
+          "or",
+          "so"
+        ],
+        [
+          "didn't",
+          "don't",
+          "doesn't",
+          "wasn't"
+        ],
+        [
+          "tell",
+          "told",
+          "telling",
+          "say"
+        ]
+      ],
+      "mistakeTags": [
+        "past_simple",
+        "irregular_verbs"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_02_past_simple_irregular/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionIntermediate02PastSimpleIrregular",
+  "theoryQuiz": [
+    {
+      "id": "tq_01",
+      "type": "trueFalse",
+      "question": "Неправильные глаголы в Past Simple образуются добавлением -ed.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "Неправильные глаголы имеют особые формы V2, которые нужно запоминать."
+    },
+    {
+      "id": "tq_02",
+      "type": "multipleChoice",
+      "question": "Какая форма Past Simple у глагола 'go'?",
+      "options": [
+        "goed",
+        "gone",
+        "went",
+        "going"
+      ],
+      "correctIndex": 2,
+      "explanation": "Go — неправильный глагол: go → went → gone."
+    },
+    {
+      "id": "tq_03",
+      "type": "multipleChoice",
+      "question": "Какая форма Past Simple у глагола 'see'?",
+      "options": [
+        "seed",
+        "seen",
+        "saw",
+        "sawed"
+      ],
+      "correctIndex": 2,
+      "explanation": "See — неправильный глагол: see → saw → seen."
+    },
+    {
+      "id": "tq_04",
+      "type": "trueFalse",
+      "question": "В отрицаниях неправильных глаголов используется V2: He didn't went.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "В отрицаниях всегда didn't + V1: He didn't go."
+    },
+    {
+      "id": "tq_05",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: She ___ a cake yesterday.",
+      "options": [
+        "eated",
+        "eat",
+        "ate",
+        "eating"
+      ],
+      "correctIndex": 2,
+      "explanation": "Eat — неправильный глагол: eat → ate. В утверждении используется V2."
+    },
+    {
+      "id": "tq_06",
+      "type": "trueFalse",
+      "question": "Неправильная форма V2 используется только в утвердительных предложениях.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "В отрицаниях и вопросах используется V1 (didn't + V1, Did + S + V1), а V2 — только в утверждениях."
+    },
+    {
+      "id": "tq_07",
+      "type": "multipleChoice",
+      "question": "Какой вопрос построен правильно?",
+      "options": [
+        "Did she took the bus?",
+        "Did she take the bus?",
+        "Does she took the bus?",
+        "Did she taking the bus?"
+      ],
+      "correctIndex": 1,
+      "explanation": "Вопрос в Past Simple: Did + S + V1 (take, не took)."
+    },
+    {
+      "id": "tq_08",
+      "type": "multipleChoice",
+      "question": "Какая форма Past Simple у глагола 'give'?",
+      "options": [
+        "gived",
+        "given",
+        "gave",
+        "gaved"
+      ],
+      "correctIndex": 2,
+      "explanation": "Give — неправильный глагол: give → gave → given."
+    },
+    {
+      "id": "tq_09",
+      "type": "trueFalse",
+      "question": "Предложение 'He didn't take the book' построено правильно.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "После didn't используется базовая форма V1 (take), что верно."
+    },
+    {
+      "id": "tq_10",
+      "type": "multipleChoice",
+      "question": "Какое предложение содержит ошибку?",
+      "options": [
+        "I went to school.",
+        "She saw a bird.",
+        "They didn't ate lunch.",
+        "He took my pen."
+      ],
+      "correctIndex": 2,
+      "explanation": "Правильно: didn't eat (V1), а не didn't ate (V2)."
+    }
+  ]
+}

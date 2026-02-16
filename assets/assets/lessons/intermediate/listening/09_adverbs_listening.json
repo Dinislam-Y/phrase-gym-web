@@ -1,0 +1,400 @@
+{
+  "id": "intermediate_listening_09_adverbs",
+  "title": "Adverbs of Frequency & Manner",
+  "description": "Слушайте, как часто и как именно люди всё делают — наречия частотности и образа действия.",
+  "order": 9,
+  "level": "intermediate",
+  "imageUrl": "assets/images/lessons/adverbs.png",
+  "tasks": [
+    {
+      "id": "t9_01",
+      "audioText": "Mike hardly ever drinks coffee in the evening.",
+      "transcript": "Mike hardly ever drinks coffee in the evening.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Mike almost never has coffee at night."
+        },
+        {
+          "id": "o2",
+          "text": "Mike often drinks coffee at night."
+        },
+        {
+          "id": "o3",
+          "text": "Mike always drinks coffee at night."
+        },
+        {
+          "id": "o4",
+          "text": "Mike drank coffee last night."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Hardly ever = почти никогда.",
+      "mistakeTags": [
+        "cafe",
+        "adverbs"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_09_adverbs/t9_01.mp3"
+    },
+    {
+      "id": "t9_02",
+      "audioText": "She speaks English incredibly fluently for a non-native speaker.",
+      "transcript": "She speaks English incredibly fluently.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Her English is amazingly good."
+        },
+        {
+          "id": "o2",
+          "text": "She speaks slowly and carefully."
+        },
+        {
+          "id": "o3",
+          "text": "She speaks English badly."
+        },
+        {
+          "id": "o4",
+          "text": "She spoke English yesterday."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Manner + intensifier incredibly.",
+      "mistakeTags": [
+        "office",
+        "adverbs"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_09_adverbs/t9_02.mp3"
+    },
+    {
+      "id": "t9_03",
+      "audioText": "I always check my emails first thing in the morning.",
+      "transcript": "I always check my emails first thing in the morning.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Every single morning without exception."
+        },
+        {
+          "id": "o2",
+          "text": "Sometimes in the morning."
+        },
+        {
+          "id": "o3",
+          "text": "Never in the morning."
+        },
+        {
+          "id": "o4",
+          "text": "I checked yesterday."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Always = 100%.",
+      "mistakeTags": [
+        "office",
+        "adverbs"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_09_adverbs/t9_03.mp3"
+    },
+    {
+      "id": "t9_04",
+      "audioText": "He drives extremely carefully in the rain.",
+      "transcript": "He drives extremely carefully in the rain.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He is super cautious when it's raining."
+        },
+        {
+          "id": "o2",
+          "text": "He drives very fast in the rain."
+        },
+        {
+          "id": "o3",
+          "text": "He drives normally in the rain."
+        },
+        {
+          "id": "o4",
+          "text": "He drove carefully yesterday."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Manner + strong intensifier.",
+      "mistakeTags": [
+        "street",
+        "adverbs"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_09_adverbs/t9_04.mp3"
+    },
+    {
+      "id": "t9_05",
+      "audioText": "We usually go to the gym three times a week.",
+      "transcript": "We usually go to the gym three times a week.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Three times is our normal routine."
+        },
+        {
+          "id": "o2",
+          "text": "We sometimes go once a week."
+        },
+        {
+          "id": "o3",
+          "text": "We never go to the gym."
+        },
+        {
+          "id": "o4",
+          "text": "We went five times last week."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Usually ≈ 70-80%.",
+      "mistakeTags": [
+        "gym",
+        "adverbs"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_09_adverbs/t9_05.mp3"
+    },
+    {
+      "id": "t9_06",
+      "audioText": "She sings absolutely beautifully.",
+      "transcript": "She sings absolutely beautifully.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Her voice is stunning."
+        },
+        {
+          "id": "o2",
+          "text": "She sings quite badly."
+        },
+        {
+          "id": "o3",
+          "text": "She sings okay."
+        },
+        {
+          "id": "o4",
+          "text": "She sang yesterday."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Strong praise with absolutely.",
+      "mistakeTags": [
+        "concert",
+        "adverbs"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_09_adverbs/t9_06.mp3"
+    },
+    {
+      "id": "t9_07",
+      "audioText": "I rarely eat fast food these days.",
+      "transcript": "I rarely eat fast food these days.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Almost never now."
+        },
+        {
+          "id": "o2",
+          "text": "Every day."
+        },
+        {
+          "id": "o3",
+          "text": "Once a week."
+        },
+        {
+          "id": "o4",
+          "text": "I ate yesterday."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Rarely = very infrequently.",
+      "mistakeTags": [
+        "restaurant",
+        "adverbs"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_09_adverbs/t9_07.mp3"
+    },
+    {
+      "id": "t9_08",
+      "audioText": "They work incredibly hard before every deadline.",
+      "transcript": "They work incredibly hard before every deadline.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "They put in massive effort."
+        },
+        {
+          "id": "o2",
+          "text": "They work slowly."
+        },
+        {
+          "id": "o3",
+          "text": "They work normally."
+        },
+        {
+          "id": "o4",
+          "text": "They worked last week."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Manner + incredibly.",
+      "mistakeTags": [
+        "office",
+        "adverbs"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_09_adverbs/t9_08.mp3"
+    },
+    {
+      "id": "t9_09",
+      "audioText": "He’s often late for meetings.",
+      "transcript": "He’s often late for meetings.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "It happens quite regularly."
+        },
+        {
+          "id": "o2",
+          "text": "He’s never late."
+        },
+        {
+          "id": "o3",
+          "text": "He’s sometimes early."
+        },
+        {
+          "id": "o4",
+          "text": "He was late yesterday only."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Often ≈ 70%.",
+      "mistakeTags": [
+        "office",
+        "adverbs"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_09_adverbs/t9_09.mp3"
+    },
+    {
+      "id": "t9_10",
+      "audioText": "She dances amazingly well for her age.",
+      "transcript": "She dances amazingly well for her age.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Her dancing is impressive considering her age."
+        },
+        {
+          "id": "o2",
+          "text": "She dances badly."
+        },
+        {
+          "id": "o3",
+          "text": "She dances normally."
+        },
+        {
+          "id": "o4",
+          "text": "She danced last week."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Manner + surprisingly good.",
+      "mistakeTags": [
+        "party",
+        "adverbs"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_09_adverbs/t9_10.mp3"
+    },
+    {
+      "id": "t9_11",
+      "audioText": "I never go to bed after midnight on weekdays.",
+      "transcript": "I never go to bed after midnight on weekdays.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "0% — not even once."
+        },
+        {
+          "id": "o2",
+          "text": "Sometimes after midnight."
+        },
+        {
+          "id": "o3",
+          "text": "Always after midnight."
+        },
+        {
+          "id": "o4",
+          "text": "I went last night."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Never = 0%.",
+      "mistakeTags": [
+        "home",
+        "adverbs"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_09_adverbs/t9_11.mp3"
+    },
+    {
+      "id": "t9_12",
+      "audioText": "He runs surprisingly fast in those old shoes.",
+      "transcript": "He runs surprisingly fast in those old shoes.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "His speed is unexpected."
+        },
+        {
+          "id": "o2",
+          "text": "He runs slowly."
+        },
+        {
+          "id": "o3",
+          "text": "He runs at normal speed."
+        },
+        {
+          "id": "o4",
+          "text": "He ran yesterday."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Manner + surprise.",
+      "mistakeTags": [
+        "sport",
+        "adverbs"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_09_adverbs/t9_12.mp3"
+    },
+    {
+      "id": "t9_13",
+      "audioText": "We occasionally meet for coffee on Sundays.",
+      "transcript": "We occasionally meet for coffee on Sundays.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Not every Sunday, but sometimes."
+        },
+        {
+          "id": "o2",
+          "text": "Every Sunday without exception."
+        },
+        {
+          "id": "o3",
+          "text": "Never on Sundays."
+        },
+        {
+          "id": "o4",
+          "text": "We met last Sunday."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Occasionally = иногда, не каждый раз.",
+      "mistakeTags": [
+        "café",
+        "adverbs"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_09_adverbs/t9_13.mp3"
+    }
+  ]
+}

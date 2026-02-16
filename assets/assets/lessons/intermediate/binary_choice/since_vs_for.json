@@ -1,0 +1,270 @@
+{
+  "id": "bc_since_vs_for",
+  "title": "Since vs For",
+  "description": "Since понедельника или for целую вечность? Точка или отрезок — теперь без косяков.",
+  "order": 1,
+  "level": "intermediate",
+  "imageUrl": null,
+  "tasks": [
+    {
+      "id": "svf_1",
+      "question": "I've lived here ___ 2010.",
+      "optionA": "SINCE",
+      "optionB": "FOR",
+      "correctIndex": 0,
+      "explanation": "2010 — это конкретный момент времени, поэтому since.",
+      "tags": [
+        "since_vs_for",
+        "since",
+        "time"
+      ]
+    },
+    {
+      "id": "svf_2",
+      "question": "She's been here ___ two hours.",
+      "optionA": "SINCE",
+      "optionB": "FOR",
+      "correctIndex": 1,
+      "explanation": "Two hours — это период времени, поэтому for.",
+      "tags": [
+        "since_vs_for",
+        "for",
+        "time"
+      ]
+    },
+    {
+      "id": "svf_3",
+      "question": "We've waited ___ morning.",
+      "optionA": "SINCE",
+      "optionB": "FOR",
+      "correctIndex": 0,
+      "explanation": "Morning — это конкретная точка начала, поэтому since.",
+      "tags": [
+        "since_vs_for",
+        "since",
+        "time"
+      ]
+    },
+    {
+      "id": "svf_4",
+      "question": "He's worked here ___ five years.",
+      "optionA": "SINCE",
+      "optionB": "FOR",
+      "correctIndex": 1,
+      "explanation": "Five years — это период времени, поэтому for.",
+      "tags": [
+        "since_vs_for",
+        "for",
+        "work"
+      ]
+    },
+    {
+      "id": "svf_5",
+      "question": "I've known her ___ childhood.",
+      "optionA": "SINCE",
+      "optionB": "FOR",
+      "correctIndex": 0,
+      "explanation": "Childhood — это точка начала, поэтому since.",
+      "tags": [
+        "since_vs_for",
+        "since",
+        "social"
+      ]
+    },
+    {
+      "id": "svf_6",
+      "question": "They've been away ___ a week.",
+      "optionA": "SINCE",
+      "optionB": "FOR",
+      "correctIndex": 1,
+      "explanation": "A week — это период времени, поэтому for.",
+      "tags": [
+        "since_vs_for",
+        "for",
+        "travel"
+      ]
+    },
+    {
+      "id": "svf_7",
+      "question": "It's been raining ___ Monday.",
+      "optionA": "SINCE",
+      "optionB": "FOR",
+      "correctIndex": 0,
+      "explanation": "Monday — это конкретный день, поэтому since.",
+      "tags": [
+        "since_vs_for",
+        "since",
+        "weather"
+      ]
+    },
+    {
+      "id": "svf_8",
+      "question": "We've studied English ___ three years.",
+      "optionA": "SINCE",
+      "optionB": "FOR",
+      "correctIndex": 1,
+      "explanation": "Three years — это период, поэтому for.",
+      "tags": [
+        "since_vs_for",
+        "for",
+        "school"
+      ]
+    },
+    {
+      "id": "svf_9",
+      "question": "She's been sick ___ last Friday.",
+      "optionA": "SINCE",
+      "optionB": "FOR",
+      "correctIndex": 0,
+      "explanation": "Last Friday — конкретный момент, поэтому since.",
+      "tags": [
+        "since_vs_for",
+        "since",
+        "health"
+      ]
+    },
+    {
+      "id": "svf_10",
+      "question": "He's slept ___ ten hours.",
+      "optionA": "SINCE",
+      "optionB": "FOR",
+      "correctIndex": 1,
+      "explanation": "Ten hours — это продолжительность, поэтому for.",
+      "tags": [
+        "since_vs_for",
+        "for",
+        "daily_routine"
+      ]
+    },
+    {
+      "id": "svf_11",
+      "question": "I haven't eaten ___ yesterday.",
+      "optionA": "SINCE",
+      "optionB": "FOR",
+      "correctIndex": 0,
+      "explanation": "Yesterday — конкретный момент, поэтому since.",
+      "tags": [
+        "since_vs_for",
+        "since",
+        "food"
+      ]
+    },
+    {
+      "id": "svf_12",
+      "question": "They've been married ___ 20 years.",
+      "optionA": "SINCE",
+      "optionB": "FOR",
+      "correctIndex": 1,
+      "explanation": "20 years — это период времени, поэтому for.",
+      "tags": [
+        "since_vs_for",
+        "for",
+        "social"
+      ]
+    },
+    {
+      "id": "svf_13",
+      "question": "I've had this car ___ January.",
+      "optionA": "SINCE",
+      "optionB": "FOR",
+      "correctIndex": 0,
+      "explanation": "January — конкретный месяц, поэтому since.",
+      "tags": [
+        "since_vs_for",
+        "since",
+        "daily_routine"
+      ]
+    },
+    {
+      "id": "svf_14",
+      "question": "We've been friends ___ ages.",
+      "optionA": "SINCE",
+      "optionB": "FOR",
+      "correctIndex": 1,
+      "explanation": "Ages — это период (целую вечность), поэтому for.",
+      "tags": [
+        "since_vs_for",
+        "for",
+        "social"
+      ]
+    },
+    {
+      "id": "svf_15",
+      "question": "He's played guitar ___ he was ten.",
+      "optionA": "SINCE",
+      "optionB": "FOR",
+      "correctIndex": 0,
+      "explanation": "He was ten — конкретный момент в прошлом, поэтому since.",
+      "tags": [
+        "since_vs_for",
+        "since",
+        "hobby"
+      ]
+    },
+    {
+      "id": "svf_16",
+      "question": "She's been reading ___ an hour.",
+      "optionA": "SINCE",
+      "optionB": "FOR",
+      "correctIndex": 1,
+      "explanation": "An hour — это продолжительность, поэтому for.",
+      "tags": [
+        "since_vs_for",
+        "for",
+        "daily_routine"
+      ]
+    },
+    {
+      "id": "svf_17",
+      "question": "I've worked here ___ I graduated.",
+      "optionA": "SINCE",
+      "optionB": "FOR",
+      "correctIndex": 0,
+      "explanation": "I graduated — событие в прошлом (точка начала), поэтому since.",
+      "tags": [
+        "since_vs_for",
+        "since",
+        "work"
+      ]
+    },
+    {
+      "id": "svf_18",
+      "question": "They've been gone ___ a long time.",
+      "optionA": "SINCE",
+      "optionB": "FOR",
+      "correctIndex": 1,
+      "explanation": "A long time — это период, поэтому for.",
+      "tags": [
+        "since_vs_for",
+        "for",
+        "time"
+      ]
+    },
+    {
+      "id": "svf_19",
+      "question": "She hasn't called ___ her birthday.",
+      "optionA": "SINCE",
+      "optionB": "FOR",
+      "correctIndex": 0,
+      "explanation": "Her birthday — конкретное событие, поэтому since.",
+      "tags": [
+        "since_vs_for",
+        "since",
+        "social"
+      ]
+    },
+    {
+      "id": "svf_20",
+      "question": "We've been waiting ___ thirty minutes.",
+      "optionA": "SINCE",
+      "optionB": "FOR",
+      "correctIndex": 1,
+      "explanation": "Thirty minutes — это продолжительность, поэтому for.",
+      "tags": [
+        "since_vs_for",
+        "for",
+        "daily_routine"
+      ]
+    }
+  ]
+}

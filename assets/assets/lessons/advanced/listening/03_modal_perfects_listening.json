@@ -1,0 +1,461 @@
+{
+  "id": "advanced_listening_03_modal_perfects",
+  "title": "Modal Perfects",
+  "description": "Слушайте модальные перфектные конструкции для предположений о прошлом.",
+  "order": 3,
+  "level": "advanced",
+  "imageUrl": "assets/images/lessons/modal_perfects.png",
+  "tasks": [
+    {
+      "id": "t3_01",
+      "audioText": "The office lights were on all night and nobody was working. Someone must have forgotten to turn them off before leaving yesterday evening.",
+      "transcript": "Someone must have forgotten to turn them off before leaving yesterday evening.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The speaker is certain that somebody left the lights on by accident."
+        },
+        {
+          "id": "o2",
+          "text": "Someone deliberately left the lights on all night."
+        },
+        {
+          "id": "o3",
+          "text": "The lights turned off automatically at night."
+        },
+        {
+          "id": "o4",
+          "text": "Nobody was in the office yesterday evening."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Must have forgotten' expresses a strong deduction about the past. The speaker is almost sure someone accidentally left them on.",
+      "mistakeTags": [
+        "modal_perfects",
+        "must_have"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_03_modal_perfects/t3_01.mp3"
+    },
+    {
+      "id": "t3_02",
+      "audioText": "Sarah studied incredibly hard for the bar exam but still failed. She could have passed if she had managed her time more effectively during the test.",
+      "transcript": "She could have passed if she had managed her time more effectively during the test.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Sarah passed the bar exam after studying hard."
+        },
+        {
+          "id": "o2",
+          "text": "Sarah had the ability to pass, but poor time management during the exam prevented it."
+        },
+        {
+          "id": "o3",
+          "text": "Sarah did not study at all for the bar exam."
+        },
+        {
+          "id": "o4",
+          "text": "Sarah will retake the exam with better time management."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Could have passed' indicates an unrealised past possibility. She was capable but failed due to time management issues.",
+      "mistakeTags": [
+        "modal_perfects",
+        "could_have"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_03_modal_perfects/t3_02.mp3"
+    },
+    {
+      "id": "t3_03",
+      "audioText": "The project deadline was missed by two weeks. The team leader should have allocated more resources to the critical development phase from the very beginning.",
+      "transcript": "The team leader should have allocated more resources to the critical development phase from the very beginning.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The team leader successfully managed resources throughout the project."
+        },
+        {
+          "id": "o2",
+          "text": "It would have been better if the leader had assigned more resources to development earlier."
+        },
+        {
+          "id": "o3",
+          "text": "The project was completed ahead of schedule."
+        },
+        {
+          "id": "o4",
+          "text": "The team leader plans to allocate more resources to the next project."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Should have allocated' expresses regret or criticism about a past decision. More resources were needed from the start.",
+      "mistakeTags": [
+        "modal_perfects",
+        "should_have"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_03_modal_perfects/t3_03.mp3"
+    },
+    {
+      "id": "t3_04",
+      "audioText": "The restaurant was completely empty when we arrived at eight. The new management might have changed the opening hours without updating the website.",
+      "transcript": "The new management might have changed the opening hours without updating the website.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The speaker is certain the restaurant changed its hours."
+        },
+        {
+          "id": "o2",
+          "text": "The website showed the correct opening hours."
+        },
+        {
+          "id": "o3",
+          "text": "The speaker suggests it is possible the new management altered the schedule but did not update online."
+        },
+        {
+          "id": "o4",
+          "text": "The restaurant was crowded when they arrived."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Might have changed' expresses a weaker possibility about the past. The speaker is unsure but offers a plausible explanation.",
+      "mistakeTags": [
+        "modal_perfects",
+        "might_have"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_03_modal_perfects/t3_04.mp3"
+    },
+    {
+      "id": "t3_05",
+      "audioText": "The accused was at a charity gala with two hundred witnesses at the time of the robbery. He can't have committed the crime because he has a watertight alibi.",
+      "transcript": "He can't have committed the crime because he has a watertight alibi.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "It is impossible that he committed the crime since his alibi is solid."
+        },
+        {
+          "id": "o2",
+          "text": "He probably committed the crime despite his alibi."
+        },
+        {
+          "id": "o3",
+          "text": "He might have committed the crime at the charity gala."
+        },
+        {
+          "id": "o4",
+          "text": "His alibi has not been verified yet."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Can't have committed' expresses a strong negative deduction. The speaker is certain he is innocent based on his alibi.",
+      "mistakeTags": [
+        "modal_perfects",
+        "cant_have"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_03_modal_perfects/t3_05.mp3"
+    },
+    {
+      "id": "t3_06",
+      "audioText": "The marathon runner collapsed just metres from the finish line. He must have pushed himself far beyond his physical limits during the final kilometres of the race.",
+      "transcript": "He must have pushed himself far beyond his physical limits during the final kilometres of the race.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The runner paced himself carefully throughout the entire marathon."
+        },
+        {
+          "id": "o2",
+          "text": "The speaker strongly believes the runner overexerted himself in the last stretch of the race."
+        },
+        {
+          "id": "o3",
+          "text": "The runner was disqualified before reaching the finish line."
+        },
+        {
+          "id": "o4",
+          "text": "The runner crossed the finish line successfully."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Must have pushed' is a confident deduction about what happened. The evidence (collapsing) supports extreme overexertion.",
+      "mistakeTags": [
+        "modal_perfects",
+        "must_have"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_03_modal_perfects/t3_06.mp3"
+    },
+    {
+      "id": "t3_07",
+      "audioText": "We waited at the airport for three hours but our colleague never showed up. She may have misunderstood the departure time or confused it with a different flight.",
+      "transcript": "She may have misunderstood the departure time or confused it with a different flight.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The colleague arrived at the airport on time."
+        },
+        {
+          "id": "o2",
+          "text": "The speaker deliberately gave the colleague the wrong departure time."
+        },
+        {
+          "id": "o3",
+          "text": "It is possible that the colleague got the time wrong or mixed up the flights."
+        },
+        {
+          "id": "o4",
+          "text": "The colleague's flight was cancelled without notice."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'May have misunderstood' expresses a reasonable possibility. The speaker speculates about two potential reasons for the no-show.",
+      "mistakeTags": [
+        "modal_perfects",
+        "may_have"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_03_modal_perfects/t3_07.mp3"
+    },
+    {
+      "id": "t3_08",
+      "audioText": "The company's stock price plummeted overnight after the earnings report. The board should have disclosed the financial difficulties to shareholders much earlier than they did.",
+      "transcript": "The board should have disclosed the financial difficulties to shareholders much earlier than they did.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The board informed shareholders about financial problems at the right time."
+        },
+        {
+          "id": "o2",
+          "text": "The shareholders already knew about the financial difficulties."
+        },
+        {
+          "id": "o3",
+          "text": "The speaker criticises the board for not revealing the financial issues sooner."
+        },
+        {
+          "id": "o4",
+          "text": "The stock price rose after the earnings report."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Should have disclosed... much earlier' is a criticism about a past failure to act. The board waited too long to share bad news.",
+      "mistakeTags": [
+        "modal_perfects",
+        "should_have"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_03_modal_perfects/t3_08.mp3"
+    },
+    {
+      "id": "t3_09",
+      "audioText": "The ancient temple was built with stones weighing several tonnes each. The civilisation that constructed it must have possessed remarkably advanced engineering knowledge for its era.",
+      "transcript": "The civilisation that constructed it must have possessed remarkably advanced engineering knowledge for its era.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The civilisation had very basic construction techniques."
+        },
+        {
+          "id": "o2",
+          "text": "Modern engineers built the ancient temple."
+        },
+        {
+          "id": "o3",
+          "text": "The speaker is almost certain that the ancient builders had sophisticated engineering skills for their time."
+        },
+        {
+          "id": "o4",
+          "text": "The stones used in the temple were very lightweight."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Must have possessed' makes a strong logical deduction about ancient capabilities based on the impressive construction evidence.",
+      "mistakeTags": [
+        "modal_perfects",
+        "must_have"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_03_modal_perfects/t3_09.mp3"
+    },
+    {
+      "id": "t3_10",
+      "audioText": "The diplomat resigned suddenly without giving any public explanation. He could have been pressured by senior government officials to step down from his position quietly.",
+      "transcript": "He could have been pressured by senior government officials to step down from his position quietly.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The diplomat resigned voluntarily and happily."
+        },
+        {
+          "id": "o2",
+          "text": "It is possible that high-ranking officials forced the diplomat to resign discreetly."
+        },
+        {
+          "id": "o3",
+          "text": "The diplomat was definitely pressured to resign."
+        },
+        {
+          "id": "o4",
+          "text": "Senior officials publicly asked the diplomat to stay."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Could have been pressured' suggests a possibility, not a certainty, about external influence on his resignation.",
+      "mistakeTags": [
+        "modal_perfects",
+        "could_have"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_03_modal_perfects/t3_10.mp3"
+    },
+    {
+      "id": "t3_11",
+      "audioText": "The students' exam results were disappointing across the board. The teacher needn't have spent so much time on advanced topics when the basics were clearly not understood.",
+      "transcript": "The teacher needn't have spent so much time on advanced topics when the basics were clearly not understood.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "It was unnecessary for the teacher to focus so heavily on advanced material since students lacked fundamental knowledge."
+        },
+        {
+          "id": "o2",
+          "text": "The teacher should have spent even more time on advanced topics."
+        },
+        {
+          "id": "o3",
+          "text": "The students performed excellently on the exam."
+        },
+        {
+          "id": "o4",
+          "text": "The teacher did not cover any advanced topics at all."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Needn't have spent' means the action was done but was unnecessary. Time on advanced topics was wasted given the weak basics.",
+      "mistakeTags": [
+        "modal_perfects",
+        "neednt_have"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_03_modal_perfects/t3_11.mp3"
+    },
+    {
+      "id": "t3_12",
+      "audioText": "The hiker returned safely after being lost for two days in the mountains. She wouldn't have survived if she hadn't packed emergency supplies in her backpack.",
+      "transcript": "She wouldn't have survived if she hadn't packed emergency supplies in her backpack.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The hiker survived because she brought emergency supplies with her."
+        },
+        {
+          "id": "o2",
+          "text": "The hiker did not bring any emergency supplies."
+        },
+        {
+          "id": "o3",
+          "text": "The hiker did not survive being lost in the mountains."
+        },
+        {
+          "id": "o4",
+          "text": "Emergency supplies were not important for her survival."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Wouldn't have survived if she hadn't packed' is a third conditional showing the supplies were essential. She did pack them and did survive.",
+      "mistakeTags": [
+        "modal_perfects",
+        "would_have"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_03_modal_perfects/t3_12.mp3"
+    },
+    {
+      "id": "t3_13",
+      "audioText": "The gallery owner examined the painting carefully with a magnifying glass. It can't have been painted by Vermeer because the pigments used were not available in the seventeenth century.",
+      "transcript": "It can't have been painted by Vermeer because the pigments used were not available in the seventeenth century.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The painting was confirmed as a genuine Vermeer masterpiece."
+        },
+        {
+          "id": "o2",
+          "text": "It is impossible that Vermeer created this painting since the materials did not exist in his time."
+        },
+        {
+          "id": "o3",
+          "text": "Vermeer might have used unusual pigments in this particular work."
+        },
+        {
+          "id": "o4",
+          "text": "The gallery owner was unable to determine the painting's origin."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Can't have been painted by' expresses impossibility based on factual evidence — the pigments post-date Vermeer's lifetime.",
+      "mistakeTags": [
+        "modal_perfects",
+        "cant_have"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_03_modal_perfects/t3_13.mp3"
+    },
+    {
+      "id": "t3_14",
+      "audioText": "The patient's condition improved dramatically overnight. The experimental medication they administered might have played a crucial role in the unexpectedly rapid recovery.",
+      "transcript": "The experimental medication they administered might have played a crucial role in the unexpectedly rapid recovery.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The doctors are certain the medication caused the recovery."
+        },
+        {
+          "id": "o2",
+          "text": "The medication was never administered to the patient."
+        },
+        {
+          "id": "o3",
+          "text": "The patient's condition worsened despite the medication."
+        },
+        {
+          "id": "o4",
+          "text": "The experimental drug may have been a key factor in the surprisingly fast improvement."
+        }
+      ],
+      "correctIndex": 3,
+      "explanation": "'Might have played' expresses a tentative possibility. The medication could be responsible but it is not confirmed.",
+      "mistakeTags": [
+        "modal_perfects",
+        "might_have"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_03_modal_perfects/t3_14.mp3"
+    },
+    {
+      "id": "t3_15",
+      "audioText": "The architect reviewed the collapsed bridge wreckage. The engineers should not have used substandard steel reinforcement bars in such a structurally critical component.",
+      "transcript": "The engineers should not have used substandard steel reinforcement bars in such a structurally critical component.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The engineers correctly selected high-quality materials for the bridge."
+        },
+        {
+          "id": "o2",
+          "text": "Using low-quality steel in a vital part of the bridge was a serious mistake by the engineers."
+        },
+        {
+          "id": "o3",
+          "text": "The bridge collapsed because of an earthquake, not the materials."
+        },
+        {
+          "id": "o4",
+          "text": "The architect approved the use of substandard materials."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Should not have used' is a strong criticism of a past action. The poor-quality steel in a critical area was wrong.",
+      "mistakeTags": [
+        "modal_perfects",
+        "should_have"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_03_modal_perfects/t3_15.mp3"
+    }
+  ],
+  "short_description": "Модальные перфектные конструкции: предположения, сожаления и выводы о прошлом."
+}

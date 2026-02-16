@@ -1,0 +1,400 @@
+{
+  "id": "pre_bc_14_present_continuous",
+  "title": "Every Day vs Right Now",
+  "description": "Every day или Right now? Учимся различать привычки и действия в моменте.",
+  "order": 14,
+  "level": "pre_intermediate",
+  "imageUrl": null,
+  "tasks": [
+    {
+      "id": "evn_1",
+      "question": "She is cooking ___.",
+      "optionA": "EVERY DAY",
+      "optionB": "RIGHT NOW",
+      "correctIndex": 1,
+      "explanation": "Is cooking — Present Continuous, действие сейчас.",
+      "tags": [
+        "every_day_vs_now",
+        "right_now",
+        "food"
+      ]
+    },
+    {
+      "id": "evn_2",
+      "question": "I read books ___.",
+      "optionA": "EVERY DAY",
+      "optionB": "RIGHT NOW",
+      "correctIndex": 0,
+      "explanation": "Read — Present Simple, это привычка.",
+      "tags": [
+        "every_day_vs_now",
+        "every_day",
+        "hobbies"
+      ]
+    },
+    {
+      "id": "evn_3",
+      "question": "He is playing soccer ___.",
+      "optionA": "EVERY DAY",
+      "optionB": "RIGHT NOW",
+      "correctIndex": 1,
+      "explanation": "Is playing — Present Continuous, действие в данный момент.",
+      "tags": [
+        "every_day_vs_now",
+        "right_now",
+        "sports"
+      ]
+    },
+    {
+      "id": "evn_4",
+      "question": "We go to school ___.",
+      "optionA": "EVERY DAY",
+      "optionB": "RIGHT NOW",
+      "correctIndex": 0,
+      "explanation": "Go — Present Simple, это регулярное действие.",
+      "tags": [
+        "every_day_vs_now",
+        "every_day",
+        "school"
+      ]
+    },
+    {
+      "id": "evn_5",
+      "question": "They are watching TV ___.",
+      "optionA": "EVERY DAY",
+      "optionB": "RIGHT NOW",
+      "correctIndex": 1,
+      "explanation": "Are watching — Present Continuous, смотрят сейчас.",
+      "tags": [
+        "every_day_vs_now",
+        "right_now",
+        "home"
+      ]
+    },
+    {
+      "id": "evn_6",
+      "question": "She works at home ___.",
+      "optionA": "EVERY DAY",
+      "optionB": "RIGHT NOW",
+      "correctIndex": 0,
+      "explanation": "Works — Present Simple, это постоянная ситуация.",
+      "tags": [
+        "every_day_vs_now",
+        "every_day",
+        "work"
+      ]
+    },
+    {
+      "id": "evn_7",
+      "question": "I am eating lunch ___.",
+      "optionA": "EVERY DAY",
+      "optionB": "RIGHT NOW",
+      "correctIndex": 1,
+      "explanation": "Am eating — Present Continuous, ем прямо сейчас.",
+      "tags": [
+        "every_day_vs_now",
+        "right_now",
+        "food"
+      ]
+    },
+    {
+      "id": "evn_8",
+      "question": "He drinks coffee ___.",
+      "optionA": "EVERY DAY",
+      "optionB": "RIGHT NOW",
+      "correctIndex": 0,
+      "explanation": "Drinks — Present Simple, это его привычка.",
+      "tags": [
+        "every_day_vs_now",
+        "every_day",
+        "food"
+      ]
+    },
+    {
+      "id": "evn_9",
+      "question": "You are walking ___.",
+      "optionA": "EVERY DAY",
+      "optionB": "RIGHT NOW",
+      "correctIndex": 1,
+      "explanation": "Are walking — Present Continuous, идёшь в данный момент.",
+      "tags": [
+        "every_day_vs_now",
+        "right_now",
+        "movement"
+      ]
+    },
+    {
+      "id": "evn_10",
+      "question": "We play tennis ___.",
+      "optionA": "EVERY DAY",
+      "optionB": "RIGHT NOW",
+      "correctIndex": 0,
+      "explanation": "Play — Present Simple, это регулярное занятие.",
+      "tags": [
+        "every_day_vs_now",
+        "every_day",
+        "sports"
+      ]
+    },
+    {
+      "id": "evn_11",
+      "question": "The cat is sleeping ___.",
+      "optionA": "EVERY DAY",
+      "optionB": "RIGHT NOW",
+      "correctIndex": 1,
+      "explanation": "Is sleeping — Present Continuous, спит в данный момент.",
+      "tags": [
+        "every_day_vs_now",
+        "right_now",
+        "animals"
+      ]
+    },
+    {
+      "id": "evn_12",
+      "question": "My sister studies English ___.",
+      "optionA": "EVERY DAY",
+      "optionB": "RIGHT NOW",
+      "correctIndex": 0,
+      "explanation": "Studies — Present Simple, занимается регулярно.",
+      "tags": [
+        "every_day_vs_now",
+        "every_day",
+        "school"
+      ]
+    },
+    {
+      "id": "evn_13",
+      "question": "They are running ___.",
+      "optionA": "EVERY DAY",
+      "optionB": "RIGHT NOW",
+      "correctIndex": 1,
+      "explanation": "Are running — Present Continuous, бегут сейчас.",
+      "tags": [
+        "every_day_vs_now",
+        "right_now",
+        "sports"
+      ]
+    },
+    {
+      "id": "evn_14",
+      "question": "Dad drives to work ___.",
+      "optionA": "EVERY DAY",
+      "optionB": "RIGHT NOW",
+      "correctIndex": 0,
+      "explanation": "Drives — Present Simple, это его обычный маршрут.",
+      "tags": [
+        "every_day_vs_now",
+        "every_day",
+        "work"
+      ]
+    },
+    {
+      "id": "evn_15",
+      "question": "I am writing ___.",
+      "optionA": "EVERY DAY",
+      "optionB": "RIGHT NOW",
+      "correctIndex": 1,
+      "explanation": "Am writing — Present Continuous, пишу прямо сейчас.",
+      "tags": [
+        "every_day_vs_now",
+        "right_now",
+        "school"
+      ]
+    },
+    {
+      "id": "evn_16",
+      "question": "She listens to music ___.",
+      "optionA": "EVERY DAY",
+      "optionB": "RIGHT NOW",
+      "correctIndex": 0,
+      "explanation": "Listens — Present Simple, слушает регулярно.",
+      "tags": [
+        "every_day_vs_now",
+        "every_day",
+        "hobbies"
+      ]
+    },
+    {
+      "id": "evn_17",
+      "question": "We are doing homework ___.",
+      "optionA": "EVERY DAY",
+      "optionB": "RIGHT NOW",
+      "correctIndex": 1,
+      "explanation": "Are doing — Present Continuous, делаем сейчас.",
+      "tags": [
+        "every_day_vs_now",
+        "right_now",
+        "school"
+      ]
+    },
+    {
+      "id": "evn_18",
+      "question": "He takes the bus ___.",
+      "optionA": "EVERY DAY",
+      "optionB": "RIGHT NOW",
+      "correctIndex": 0,
+      "explanation": "Takes — Present Simple, это его привычка.",
+      "tags": [
+        "every_day_vs_now",
+        "every_day",
+        "movement"
+      ]
+    },
+    {
+      "id": "evn_19",
+      "question": "The kids are playing ___.",
+      "optionA": "EVERY DAY",
+      "optionB": "RIGHT NOW",
+      "correctIndex": 1,
+      "explanation": "Are playing — Present Continuous, играют в данный момент.",
+      "tags": [
+        "every_day_vs_now",
+        "right_now",
+        "hobbies"
+      ]
+    },
+    {
+      "id": "evn_20",
+      "question": "I brush my teeth ___.",
+      "optionA": "EVERY DAY",
+      "optionB": "RIGHT NOW",
+      "correctIndex": 0,
+      "explanation": "Brush — Present Simple, это ежедневная рутина.",
+      "tags": [
+        "every_day_vs_now",
+        "every_day",
+        "home"
+      ]
+    },
+    {
+      "id": "evn_21",
+      "question": "The baby is crying ___.",
+      "optionA": "EVERY DAY",
+      "optionB": "RIGHT NOW",
+      "correctIndex": 1,
+      "explanation": "Is crying — Present Continuous, плачет прямо сейчас.",
+      "tags": [
+        "every_day_vs_now",
+        "right_now",
+        "family"
+      ]
+    },
+    {
+      "id": "evn_22",
+      "question": "We walk to school ___.",
+      "optionA": "EVERY DAY",
+      "optionB": "RIGHT NOW",
+      "correctIndex": 0,
+      "explanation": "Walk — Present Simple, это наш обычный путь.",
+      "tags": [
+        "every_day_vs_now",
+        "every_day",
+        "school"
+      ]
+    },
+    {
+      "id": "evn_23",
+      "question": "Are you working ___?",
+      "optionA": "EVERY DAY",
+      "optionB": "RIGHT NOW",
+      "correctIndex": 1,
+      "explanation": "Are working — Present Continuous, вопрос про текущий момент.",
+      "tags": [
+        "every_day_vs_now",
+        "right_now",
+        "work"
+      ]
+    },
+    {
+      "id": "evn_24",
+      "question": "Mom cooks dinner ___.",
+      "optionA": "EVERY DAY",
+      "optionB": "RIGHT NOW",
+      "correctIndex": 0,
+      "explanation": "Cooks — Present Simple, готовит регулярно.",
+      "tags": [
+        "every_day_vs_now",
+        "every_day",
+        "food"
+      ]
+    },
+    {
+      "id": "evn_25",
+      "question": "I am talking ___.",
+      "optionA": "EVERY DAY",
+      "optionB": "RIGHT NOW",
+      "correctIndex": 1,
+      "explanation": "Am talking — Present Continuous, говорю в данный момент.",
+      "tags": [
+        "every_day_vs_now",
+        "right_now",
+        "communication"
+      ]
+    },
+    {
+      "id": "evn_26",
+      "question": "The dog runs fast ___.",
+      "optionA": "EVERY DAY",
+      "optionB": "RIGHT NOW",
+      "correctIndex": 0,
+      "explanation": "Runs — Present Simple, это его постоянная характеристика.",
+      "tags": [
+        "every_day_vs_now",
+        "every_day",
+        "animals"
+      ]
+    },
+    {
+      "id": "evn_27",
+      "question": "Is she reading ___?",
+      "optionA": "EVERY DAY",
+      "optionB": "RIGHT NOW",
+      "correctIndex": 1,
+      "explanation": "Is reading — Present Continuous, вопрос о текущем действии.",
+      "tags": [
+        "every_day_vs_now",
+        "right_now",
+        "hobbies"
+      ]
+    },
+    {
+      "id": "evn_28",
+      "question": "They help at home ___.",
+      "optionA": "EVERY DAY",
+      "optionB": "RIGHT NOW",
+      "correctIndex": 0,
+      "explanation": "Help — Present Simple, помогают постоянно.",
+      "tags": [
+        "every_day_vs_now",
+        "every_day",
+        "home"
+      ]
+    },
+    {
+      "id": "evn_29",
+      "question": "We are sitting ___.",
+      "optionA": "EVERY DAY",
+      "optionB": "RIGHT NOW",
+      "correctIndex": 1,
+      "explanation": "Are sitting — Present Continuous, сидим прямо сейчас.",
+      "tags": [
+        "every_day_vs_now",
+        "right_now",
+        "daily_life"
+      ]
+    },
+    {
+      "id": "evn_30",
+      "question": "He watches movies ___.",
+      "optionA": "EVERY DAY",
+      "optionB": "RIGHT NOW",
+      "correctIndex": 0,
+      "explanation": "Watches — Present Simple, это его регулярное занятие.",
+      "tags": [
+        "every_day_vs_now",
+        "every_day",
+        "hobbies"
+      ]
+    }
+  ]
+}

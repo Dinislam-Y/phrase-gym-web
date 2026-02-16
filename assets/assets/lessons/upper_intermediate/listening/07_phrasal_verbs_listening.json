@@ -1,0 +1,461 @@
+{
+  "id": "upper_listening_07_phrasal_verbs",
+  "title": "Phrasal Verbs",
+  "description": "Слушайте фразовые глаголы в реальных контекстах.",
+  "order": 7,
+  "level": "upper_intermediate",
+  "imageUrl": "assets/images/lessons/phrasal_verbs.png",
+  "tasks": [
+    {
+      "id": "t7_01",
+      "audioText": "My colleague was really struggling with the workload. He almost gave up on the project before the deadline.",
+      "transcript": "He almost gave up on the project before the deadline.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He nearly quit the project before it was due."
+        },
+        {
+          "id": "o2",
+          "text": "He finished the project ahead of schedule."
+        },
+        {
+          "id": "o3",
+          "text": "He gave the project to someone else."
+        },
+        {
+          "id": "o4",
+          "text": "He started a new project before the deadline."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Gave up' means to stop trying or quit. He nearly abandoned the project due to difficulty.",
+      "mistakeTags": [
+        "work",
+        "phrasal_verbs"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_07_phrasal_verbs/t7_01.mp3"
+    },
+    {
+      "id": "t7_02",
+      "audioText": "My grandmother has always been incredibly kind. She looked after all of us when we were children.",
+      "transcript": "She looked after all of us when we were children.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She searched for us when we were kids."
+        },
+        {
+          "id": "o2",
+          "text": "She took care of all of us during our childhood."
+        },
+        {
+          "id": "o3",
+          "text": "She looked at us from a distance."
+        },
+        {
+          "id": "o4",
+          "text": "She left us alone when we were young."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Looked after' means to take care of or tend to someone. Grandmother cared for them as children.",
+      "mistakeTags": [
+        "family",
+        "phrasal_verbs"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_07_phrasal_verbs/t7_02.mp3"
+    },
+    {
+      "id": "t7_03",
+      "audioText": "The manager offered him a promotion, but surprisingly he turned it down without any hesitation.",
+      "transcript": "He turned it down without any hesitation.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He accepted the promotion immediately."
+        },
+        {
+          "id": "o2",
+          "text": "He refused the offer without thinking twice."
+        },
+        {
+          "id": "o3",
+          "text": "He turned around and left the office."
+        },
+        {
+          "id": "o4",
+          "text": "He asked for more time to decide."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Turned down' means to reject or decline an offer. He refused the promotion right away.",
+      "mistakeTags": [
+        "work",
+        "phrasal_verbs"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_07_phrasal_verbs/t7_03.mp3"
+    },
+    {
+      "id": "t7_04",
+      "audioText": "I was tidying up my attic last weekend. I came across some old letters from my university days.",
+      "transcript": "I came across some old letters from my university days.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "I found some old letters unexpectedly while cleaning."
+        },
+        {
+          "id": "o2",
+          "text": "I wrote some letters to my university friends."
+        },
+        {
+          "id": "o3",
+          "text": "I threw away all the old letters."
+        },
+        {
+          "id": "o4",
+          "text": "I crossed out the letters with a pen."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Came across' means to find something by chance. The letters were discovered accidentally during cleaning.",
+      "mistakeTags": [
+        "home",
+        "phrasal_verbs"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_07_phrasal_verbs/t7_04.mp3"
+    },
+    {
+      "id": "t7_05",
+      "audioText": "We were supposed to go hiking this Saturday. Unfortunately, the trip has been put off until next month due to bad weather.",
+      "transcript": "The trip has been put off until next month due to bad weather.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The hiking trip was postponed to next month because of the weather."
+        },
+        {
+          "id": "o2",
+          "text": "The trip was cancelled permanently."
+        },
+        {
+          "id": "o3",
+          "text": "They went hiking despite the bad weather."
+        },
+        {
+          "id": "o4",
+          "text": "The trip started earlier than planned."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Put off' means to postpone or delay. The trip was rescheduled to a later date.",
+      "mistakeTags": [
+        "leisure",
+        "phrasal_verbs"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_07_phrasal_verbs/t7_05.mp3"
+    },
+    {
+      "id": "t7_06",
+      "audioText": "The detective spent months investigating the case. He finally figured out who was behind the whole scheme.",
+      "transcript": "He finally figured out who was behind the whole scheme.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He eventually discovered the person responsible for the plan."
+        },
+        {
+          "id": "o2",
+          "text": "He imagined who the criminal might be."
+        },
+        {
+          "id": "o3",
+          "text": "He gave up on solving the case."
+        },
+        {
+          "id": "o4",
+          "text": "He figured the case was too difficult to solve."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Figured out' means to solve or understand something. The detective identified the mastermind after long investigation.",
+      "mistakeTags": [
+        "law",
+        "phrasal_verbs"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_07_phrasal_verbs/t7_06.mp3"
+    },
+    {
+      "id": "t7_07",
+      "audioText": "The company is doing well this quarter. Revenue has picked up significantly since the launch of the new product line.",
+      "transcript": "Revenue has picked up significantly since the launch of the new product line.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Sales income has increased noticeably after the new products were released."
+        },
+        {
+          "id": "o2",
+          "text": "Revenue dropped after the product launch."
+        },
+        {
+          "id": "o3",
+          "text": "Someone collected the revenue from the office."
+        },
+        {
+          "id": "o4",
+          "text": "The new product line was cancelled."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Picked up' means to improve or increase. Revenue grew after the new product line launched.",
+      "mistakeTags": [
+        "business",
+        "phrasal_verbs"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_07_phrasal_verbs/t7_07.mp3"
+    },
+    {
+      "id": "t7_08",
+      "audioText": "My phone battery died in the middle of the call. I need to find a charger so I can carry on with the conversation.",
+      "transcript": "I need to find a charger so I can carry on with the conversation.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "I want to continue the call after charging my phone."
+        },
+        {
+          "id": "o2",
+          "text": "I want to end the conversation permanently."
+        },
+        {
+          "id": "o3",
+          "text": "I will carry the charger to someone else."
+        },
+        {
+          "id": "o4",
+          "text": "I don't need a charger for my phone."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Carry on' means to continue doing something. The speaker wants to resume the call.",
+      "mistakeTags": [
+        "technology",
+        "phrasal_verbs"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_07_phrasal_verbs/t7_08.mp3"
+    },
+    {
+      "id": "t7_09",
+      "audioText": "The children were excited when we arrived at the farm. They couldn't wait to find out what kind of animals lived there.",
+      "transcript": "They couldn't wait to find out what kind of animals lived there.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "They were eager to discover which animals were at the farm."
+        },
+        {
+          "id": "o2",
+          "text": "They already knew all the animals on the farm."
+        },
+        {
+          "id": "o3",
+          "text": "They found the animals outside the farm."
+        },
+        {
+          "id": "o4",
+          "text": "They didn't want to see any animals."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Find out' means to learn or discover information. The children wanted to learn about the farm animals.",
+      "mistakeTags": [
+        "leisure",
+        "phrasal_verbs"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_07_phrasal_verbs/t7_09.mp3"
+    },
+    {
+      "id": "t7_10",
+      "audioText": "Sarah felt overwhelmed after her first week at the new school. Fortunately, the other students helped her settle in quickly.",
+      "transcript": "The other students helped her settle in quickly.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The students helped her sit down in the classroom."
+        },
+        {
+          "id": "o2",
+          "text": "Her classmates made her feel comfortable and adjusted in the new environment."
+        },
+        {
+          "id": "o3",
+          "text": "She settled a dispute with the other students."
+        },
+        {
+          "id": "o4",
+          "text": "The students ignored her during her first week."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Settle in' means to become comfortable in a new place or situation. Her classmates eased her transition.",
+      "mistakeTags": [
+        "education",
+        "phrasal_verbs"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_07_phrasal_verbs/t7_10.mp3"
+    },
+    {
+      "id": "t7_11",
+      "audioText": "The meeting ran much longer than expected. We didn't get through all the items on the agenda.",
+      "transcript": "We didn't get through all the items on the agenda.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "We completed every topic on the agenda successfully."
+        },
+        {
+          "id": "o2",
+          "text": "We failed to cover all the planned discussion points."
+        },
+        {
+          "id": "o3",
+          "text": "We threw away the agenda before the meeting."
+        },
+        {
+          "id": "o4",
+          "text": "We got through the door before the meeting started."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Get through' means to finish or complete something. They couldn't cover all the planned topics.",
+      "mistakeTags": [
+        "work",
+        "phrasal_verbs"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_07_phrasal_verbs/t7_11.mp3"
+    },
+    {
+      "id": "t7_12",
+      "audioText": "The old factory at the end of the street is being demolished. They are going to pull it down and build a community centre.",
+      "transcript": "They are going to pull it down and build a community centre.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "They plan to demolish the factory and construct a community space in its place."
+        },
+        {
+          "id": "o2",
+          "text": "They will pull the factory to a different location."
+        },
+        {
+          "id": "o3",
+          "text": "They are renovating the factory to make it bigger."
+        },
+        {
+          "id": "o4",
+          "text": "They will build the community centre next to the factory."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Pull down' means to demolish or tear down a building. The factory will be destroyed and replaced.",
+      "mistakeTags": [
+        "urban",
+        "phrasal_verbs"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_07_phrasal_verbs/t7_12.mp3"
+    },
+    {
+      "id": "t7_13",
+      "audioText": "The doctor told me to cut down on sugary drinks. She said it would improve my overall health significantly.",
+      "transcript": "The doctor told me to cut down on sugary drinks.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The doctor advised me to reduce the amount of sweet beverages I consume."
+        },
+        {
+          "id": "o2",
+          "text": "The doctor told me to stop eating sugar completely."
+        },
+        {
+          "id": "o3",
+          "text": "The doctor cut some drinks with scissors."
+        },
+        {
+          "id": "o4",
+          "text": "The doctor recommended drinking more sugary drinks."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Cut down on' means to reduce the quantity or frequency of something. The advice was to drink fewer sugary beverages.",
+      "mistakeTags": [
+        "health",
+        "phrasal_verbs"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_07_phrasal_verbs/t7_13.mp3"
+    },
+    {
+      "id": "t7_14",
+      "audioText": "The fire alarm went off in the middle of the exam. All students had to leave the building immediately.",
+      "transcript": "The fire alarm went off in the middle of the exam.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The fire alarm was activated during the exam."
+        },
+        {
+          "id": "o2",
+          "text": "The fire alarm was turned off during the exam."
+        },
+        {
+          "id": "o3",
+          "text": "Someone went to check the fire alarm after the exam."
+        },
+        {
+          "id": "o4",
+          "text": "The fire alarm went away from the building."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Went off' for an alarm means it started ringing or sounding. The alarm was triggered during the test.",
+      "mistakeTags": [
+        "education",
+        "phrasal_verbs"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_07_phrasal_verbs/t7_14.mp3"
+    },
+    {
+      "id": "t7_15",
+      "audioText": "The conference speaker was very engaging. She brought up an interesting point about artificial intelligence in modern healthcare.",
+      "transcript": "She brought up an interesting point about artificial intelligence in modern healthcare.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She raised a thought-provoking topic about AI in healthcare during her talk."
+        },
+        {
+          "id": "o2",
+          "text": "She brought an AI device up to the stage."
+        },
+        {
+          "id": "o3",
+          "text": "She avoided discussing artificial intelligence entirely."
+        },
+        {
+          "id": "o4",
+          "text": "She brought up her children during the conference."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Brought up' means to mention or introduce a topic in conversation. She raised the subject of AI in healthcare.",
+      "mistakeTags": [
+        "technology",
+        "phrasal_verbs"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_07_phrasal_verbs/t7_15.mp3"
+    }
+  ],
+  "short_description": "Фразовые глаголы в контексте."
+}

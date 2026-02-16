@@ -1,0 +1,80 @@
+{
+    "level": "intermediate",
+    "lessons": [
+        {
+            "id": "intermediate_01_past_simple_regular",
+            "file": "01_past_simple_regular.json",
+            "order": 1
+        },
+        {
+            "id": "intermediate_02_past_simple_irregular",
+            "file": "02_past_simple_irregular.json",
+            "order": 2
+        },
+        {
+            "id": "intermediate_03_future_simple",
+            "file": "03_future_simple.json",
+            "order": 3
+        },
+        {
+            "id": "intermediate_04_past_continuous",
+            "file": "04_past_continuous.json",
+            "order": 4
+        },
+        {
+            "id": "intermediate_05_present_perfect",
+            "file": "05_present_perfect.json",
+            "order": 5
+        },
+        {
+            "id": "intermediate_06_comparatives",
+            "file": "06_comparatives.json",
+            "order": 6
+        },
+        {
+            "id": "intermediate_07_modal_must_should",
+            "file": "07_modal_must_should.json",
+            "order": 7
+        },
+        {
+            "id": "intermediate_08_future_forms",
+            "file": "08_future_forms.json",
+            "order": 8
+        },
+        {
+            "id": "intermediate_09_adverbs",
+            "file": "09_adverbs.json",
+            "order": 9
+        },
+        {
+            "id": "intermediate_10_used_to",
+            "file": "10_used_to.json",
+            "order": 10
+        },
+        {
+            "id": "intermediate_11_relative_clauses",
+            "file": "11_relative_clauses.json",
+            "order": 11
+        },
+        {
+            "id": "intermediate_12_prepositions_advanced",
+            "file": "12_prepositions_advanced.json",
+            "order": 12
+        },
+        {
+            "id": "intermediate_13_present_perfect_continuous",
+            "file": "13_present_perfect_continuous.json",
+            "order": 13
+        },
+        {
+            "id": "intermediate_14_quantifiers",
+            "file": "14_quantifiers.json",
+            "order": 14
+        },
+        {
+            "id": "intermediate_15_question_tags",
+            "file": "15_question_tags.json",
+            "order": 15
+        }
+    ]
+}

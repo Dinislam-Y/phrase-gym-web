@@ -1,0 +1,400 @@
+{
+  "id": "beginner_bc_04_present_simple_positive",
+  "title": "Do vs Does",
+  "description": "Do или Does? Правильно задаём вопросы в Present Simple.",
+  "order": 4,
+  "level": "beginner",
+  "imageUrl": null,
+  "tasks": [
+    {
+      "id": "dvd_1",
+      "question": "___ you like pizza?",
+      "optionA": "DO",
+      "optionB": "DOES",
+      "correctIndex": 0,
+      "explanation": "С местоимением you используется do.",
+      "tags": [
+        "do_vs_does",
+        "do",
+        "food"
+      ]
+    },
+    {
+      "id": "dvd_2",
+      "question": "___ she speak English?",
+      "optionA": "DO",
+      "optionB": "DOES",
+      "correctIndex": 1,
+      "explanation": "С местоимением she используется does.",
+      "tags": [
+        "do_vs_does",
+        "does",
+        "daily_routine"
+      ]
+    },
+    {
+      "id": "dvd_3",
+      "question": "___ they live here?",
+      "optionA": "DO",
+      "optionB": "DOES",
+      "correctIndex": 0,
+      "explanation": "С местоимением they используется do.",
+      "tags": [
+        "do_vs_does",
+        "do",
+        "home"
+      ]
+    },
+    {
+      "id": "dvd_4",
+      "question": "___ he play football?",
+      "optionA": "DO",
+      "optionB": "DOES",
+      "correctIndex": 1,
+      "explanation": "С местоимением he используется does.",
+      "tags": [
+        "do_vs_does",
+        "does",
+        "sport"
+      ]
+    },
+    {
+      "id": "dvd_5",
+      "question": "___ we need this?",
+      "optionA": "DO",
+      "optionB": "DOES",
+      "correctIndex": 0,
+      "explanation": "С местоимением we используется do.",
+      "tags": [
+        "do_vs_does",
+        "do",
+        "daily_routine"
+      ]
+    },
+    {
+      "id": "dvd_6",
+      "question": "___ it work well?",
+      "optionA": "DO",
+      "optionB": "DOES",
+      "correctIndex": 1,
+      "explanation": "С местоимением it используется does.",
+      "tags": [
+        "do_vs_does",
+        "does",
+        "home"
+      ]
+    },
+    {
+      "id": "dvd_7",
+      "question": "___ I know you?",
+      "optionA": "DO",
+      "optionB": "DOES",
+      "correctIndex": 0,
+      "explanation": "С местоимением I используется do.",
+      "tags": [
+        "do_vs_does",
+        "do",
+        "social"
+      ]
+    },
+    {
+      "id": "dvd_8",
+      "question": "___ she like cats?",
+      "optionA": "DO",
+      "optionB": "DOES",
+      "correctIndex": 1,
+      "explanation": "С местоимением she используется does.",
+      "tags": [
+        "do_vs_does",
+        "does",
+        "home"
+      ]
+    },
+    {
+      "id": "dvd_9",
+      "question": "___ you understand me?",
+      "optionA": "DO",
+      "optionB": "DOES",
+      "correctIndex": 0,
+      "explanation": "С местоимением you используется do.",
+      "tags": [
+        "do_vs_does",
+        "do",
+        "daily_routine"
+      ]
+    },
+    {
+      "id": "dvd_10",
+      "question": "___ he work here?",
+      "optionA": "DO",
+      "optionB": "DOES",
+      "correctIndex": 1,
+      "explanation": "С местоимением he используется does.",
+      "tags": [
+        "do_vs_does",
+        "does",
+        "work"
+      ]
+    },
+    {
+      "id": "dvd_11",
+      "question": "___ Tom like coffee?",
+      "optionA": "DO",
+      "optionB": "DOES",
+      "correctIndex": 1,
+      "explanation": "Tom — одно лицо, поэтому does.",
+      "tags": [
+        "do_vs_does",
+        "does",
+        "food"
+      ]
+    },
+    {
+      "id": "dvd_12",
+      "question": "___ your friends play games?",
+      "optionA": "DO",
+      "optionB": "DOES",
+      "correctIndex": 0,
+      "explanation": "Friends — множественное число, поэтому do.",
+      "tags": [
+        "do_vs_does",
+        "do",
+        "social"
+      ]
+    },
+    {
+      "id": "dvd_13",
+      "question": "___ Mary live in London?",
+      "optionA": "DO",
+      "optionB": "DOES",
+      "correctIndex": 1,
+      "explanation": "Mary — одно лицо, поэтому does.",
+      "tags": [
+        "do_vs_does",
+        "does",
+        "home"
+      ]
+    },
+    {
+      "id": "dvd_14",
+      "question": "___ the children like school?",
+      "optionA": "DO",
+      "optionB": "DOES",
+      "correctIndex": 0,
+      "explanation": "Children — множественное число, поэтому do.",
+      "tags": [
+        "do_vs_does",
+        "do",
+        "work"
+      ]
+    },
+    {
+      "id": "dvd_15",
+      "question": "___ your sister speak Spanish?",
+      "optionA": "DO",
+      "optionB": "DOES",
+      "correctIndex": 1,
+      "explanation": "Sister — единственное число, поэтому does.",
+      "tags": [
+        "do_vs_does",
+        "does",
+        "daily_routine"
+      ]
+    },
+    {
+      "id": "dvd_16",
+      "question": "___ the students study hard?",
+      "optionA": "DO",
+      "optionB": "DOES",
+      "correctIndex": 0,
+      "explanation": "Students — множественное число, поэтому do.",
+      "tags": [
+        "do_vs_does",
+        "do",
+        "work"
+      ]
+    },
+    {
+      "id": "dvd_17",
+      "question": "___ John have a car?",
+      "optionA": "DO",
+      "optionB": "DOES",
+      "correctIndex": 1,
+      "explanation": "John — одно лицо, поэтому does.",
+      "tags": [
+        "do_vs_does",
+        "does",
+        "daily_routine"
+      ]
+    },
+    {
+      "id": "dvd_18",
+      "question": "___ your parents work together?",
+      "optionA": "DO",
+      "optionB": "DOES",
+      "correctIndex": 0,
+      "explanation": "Parents — множественное число, поэтому do.",
+      "tags": [
+        "do_vs_does",
+        "do",
+        "work"
+      ]
+    },
+    {
+      "id": "dvd_19",
+      "question": "___ the cat sleep here?",
+      "optionA": "DO",
+      "optionB": "DOES",
+      "correctIndex": 1,
+      "explanation": "Cat — единственное число, поэтому does.",
+      "tags": [
+        "do_vs_does",
+        "does",
+        "home"
+      ]
+    },
+    {
+      "id": "dvd_20",
+      "question": "___ these books cost much?",
+      "optionA": "DO",
+      "optionB": "DOES",
+      "correctIndex": 0,
+      "explanation": "Books — множественное число, поэтому do.",
+      "tags": [
+        "do_vs_does",
+        "do",
+        "daily_routine"
+      ]
+    },
+    {
+      "id": "dvd_21",
+      "question": "Yes, he ___.",
+      "optionA": "DO",
+      "optionB": "DOES",
+      "correctIndex": 1,
+      "explanation": "В кратком ответе с he используется does.",
+      "tags": [
+        "do_vs_does",
+        "does",
+        "daily_routine"
+      ]
+    },
+    {
+      "id": "dvd_22",
+      "question": "No, I ___ not.",
+      "optionA": "DO",
+      "optionB": "DOES",
+      "correctIndex": 0,
+      "explanation": "В кратком ответе с I используется do.",
+      "tags": [
+        "do_vs_does",
+        "do",
+        "daily_routine"
+      ]
+    },
+    {
+      "id": "dvd_23",
+      "question": "___ everybody know this?",
+      "optionA": "DO",
+      "optionB": "DOES",
+      "correctIndex": 1,
+      "explanation": "Everybody — единственное число, поэтому does.",
+      "tags": [
+        "do_vs_does",
+        "does",
+        "social"
+      ]
+    },
+    {
+      "id": "dvd_24",
+      "question": "Yes, they ___.",
+      "optionA": "DO",
+      "optionB": "DOES",
+      "correctIndex": 0,
+      "explanation": "В кратком ответе с they используется do.",
+      "tags": [
+        "do_vs_does",
+        "do",
+        "daily_routine"
+      ]
+    },
+    {
+      "id": "dvd_25",
+      "question": "I ___ like it!",
+      "optionA": "DO",
+      "optionB": "DOES",
+      "correctIndex": 0,
+      "explanation": "Для усиления с I используется do.",
+      "tags": [
+        "do_vs_does",
+        "do",
+        "daily_routine"
+      ]
+    },
+    {
+      "id": "dvd_26",
+      "question": "___ someone need help?",
+      "optionA": "DO",
+      "optionB": "DOES",
+      "correctIndex": 1,
+      "explanation": "Someone — единственное число, поэтому does.",
+      "tags": [
+        "do_vs_does",
+        "does",
+        "social"
+      ]
+    },
+    {
+      "id": "dvd_27",
+      "question": "No, she ___ not.",
+      "optionA": "DO",
+      "optionB": "DOES",
+      "correctIndex": 1,
+      "explanation": "В кратком ответе с she используется does.",
+      "tags": [
+        "do_vs_does",
+        "does",
+        "daily_routine"
+      ]
+    },
+    {
+      "id": "dvd_28",
+      "question": "We ___ love music!",
+      "optionA": "DO",
+      "optionB": "DOES",
+      "correctIndex": 0,
+      "explanation": "Для усиления с we используется do.",
+      "tags": [
+        "do_vs_does",
+        "do",
+        "social"
+      ]
+    },
+    {
+      "id": "dvd_29",
+      "question": "___ anyone have questions?",
+      "optionA": "DO",
+      "optionB": "DOES",
+      "correctIndex": 1,
+      "explanation": "Anyone — единственное число, поэтому does.",
+      "tags": [
+        "do_vs_does",
+        "does",
+        "work"
+      ]
+    },
+    {
+      "id": "dvd_30",
+      "question": "Yes, we ___!",
+      "optionA": "DO",
+      "optionB": "DOES",
+      "correctIndex": 0,
+      "explanation": "В кратком ответе с we используется do.",
+      "tags": [
+        "do_vs_does",
+        "do",
+        "daily_routine"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,461 @@
+{
+  "id": "upper_listening_01_past_perfect",
+  "title": "Past Perfect",
+  "description": "Слушайте и определяйте предшествующее действие в прошлом.",
+  "order": 1,
+  "level": "upper_intermediate",
+  "imageUrl": "assets/images/lessons/past_perfect.png",
+  "tasks": [
+    {
+      "id": "t1_01",
+      "audioText": "When I arrived at the airport, the plane had already departed. I had to wait for the next flight.",
+      "transcript": "When I arrived at the airport, the plane had already departed.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The plane left before I got to the airport."
+        },
+        {
+          "id": "o2",
+          "text": "The plane was leaving when I arrived."
+        },
+        {
+          "id": "o3",
+          "text": "I arrived before the plane departed."
+        },
+        {
+          "id": "o4",
+          "text": "The plane and I arrived at the same time."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Had already departed' shows the plane left before the arrival — Past Perfect marks the earlier action.",
+      "mistakeTags": [
+        "travel",
+        "past_perfect"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_01_past_perfect/t1_01.mp3"
+    },
+    {
+      "id": "t1_02",
+      "audioText": "She was very confident during the interview. She had prepared for weeks before the meeting.",
+      "transcript": "She had prepared for weeks before the meeting.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She prepared during the meeting."
+        },
+        {
+          "id": "o2",
+          "text": "She spent weeks getting ready before the interview."
+        },
+        {
+          "id": "o3",
+          "text": "She will prepare for the meeting next week."
+        },
+        {
+          "id": "o4",
+          "text": "She was preparing while the meeting was happening."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Had prepared' indicates preparation happened over weeks prior to the interview — a completed action before another past event.",
+      "mistakeTags": [
+        "work",
+        "past_perfect"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_01_past_perfect/t1_02.mp3"
+    },
+    {
+      "id": "t1_03",
+      "audioText": "By the time the ambulance arrived, the neighbours had already called the doctor twice.",
+      "transcript": "The neighbours had already called the doctor twice.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The neighbours called after the ambulance came."
+        },
+        {
+          "id": "o2",
+          "text": "The neighbours were calling the doctor when the ambulance arrived."
+        },
+        {
+          "id": "o3",
+          "text": "The neighbours had contacted the doctor two times before the ambulance got there."
+        },
+        {
+          "id": "o4",
+          "text": "The neighbours never called anyone."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Had already called twice' means the calls happened before the ambulance arrived — Past Perfect for an earlier completed action.",
+      "mistakeTags": [
+        "health",
+        "past_perfect"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_01_past_perfect/t1_03.mp3"
+    },
+    {
+      "id": "t1_04",
+      "audioText": "Tom couldn't log into his account. He had forgotten his password after changing it the day before.",
+      "transcript": "He had forgotten his password after changing it the day before.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He forgot the new password he had set the previous day."
+        },
+        {
+          "id": "o2",
+          "text": "He changed his password and remembered it."
+        },
+        {
+          "id": "o3",
+          "text": "He was forgetting his password at that moment."
+        },
+        {
+          "id": "o4",
+          "text": "He will forget his password tomorrow."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Had forgotten' shows the forgetting happened before the attempt to log in — the password change was even earlier.",
+      "mistakeTags": [
+        "technology",
+        "past_perfect"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_01_past_perfect/t1_04.mp3"
+    },
+    {
+      "id": "t1_05",
+      "audioText": "We were starving by noon. We had not eaten anything since the previous evening.",
+      "transcript": "We had not eaten anything since the previous evening.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "We ate a big breakfast that morning."
+        },
+        {
+          "id": "o2",
+          "text": "We were eating lunch at noon."
+        },
+        {
+          "id": "o3",
+          "text": "We hadn't had any food from the evening before until that point."
+        },
+        {
+          "id": "o4",
+          "text": "We decided not to eat the next day."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Had not eaten since the previous evening' uses Past Perfect negative to describe a state lasting from before until the reference point.",
+      "mistakeTags": [
+        "daily_routine",
+        "past_perfect"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_01_past_perfect/t1_05.mp3"
+    },
+    {
+      "id": "t1_06",
+      "audioText": "The students looked relieved when the results came out. They had studied extremely hard for the final exams.",
+      "transcript": "They had studied extremely hard for the final exams.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "They studied hard after seeing the results."
+        },
+        {
+          "id": "o2",
+          "text": "They put a lot of effort into studying before the exams took place."
+        },
+        {
+          "id": "o3",
+          "text": "They were studying when the results arrived."
+        },
+        {
+          "id": "o4",
+          "text": "They will study hard for next year's exams."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Had studied' indicates the intense studying happened before the results came out — Past Perfect for the earlier event.",
+      "mistakeTags": [
+        "education",
+        "past_perfect"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_01_past_perfect/t1_06.mp3"
+    },
+    {
+      "id": "t1_07",
+      "audioText": "Maria was surprised to see her old friend at the conference. They had not seen each other for over ten years.",
+      "transcript": "They had not seen each other for over ten years.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "They met regularly every year."
+        },
+        {
+          "id": "o2",
+          "text": "They will not see each other for ten years."
+        },
+        {
+          "id": "o3",
+          "text": "Their last meeting was more than a decade ago."
+        },
+        {
+          "id": "o4",
+          "text": "They were seeing each other frequently at conferences."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Had not seen for over ten years' uses Past Perfect negative to describe a long period without contact before the conference meeting.",
+      "mistakeTags": [
+        "social",
+        "past_perfect"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_01_past_perfect/t1_07.mp3"
+    },
+    {
+      "id": "t1_08",
+      "audioText": "The project manager was frustrated on Monday morning. The team had missed the deadline by two full days.",
+      "transcript": "The team had missed the deadline by two full days.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The team finished the project two days early."
+        },
+        {
+          "id": "o2",
+          "text": "The team failed to deliver on time and was two days late."
+        },
+        {
+          "id": "o3",
+          "text": "The team is going to miss the deadline soon."
+        },
+        {
+          "id": "o4",
+          "text": "The manager missed the deadline himself."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Had missed the deadline' uses Past Perfect to show the deadline failure happened before Monday morning.",
+      "mistakeTags": [
+        "business",
+        "past_perfect"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_01_past_perfect/t1_08.mp3"
+    },
+    {
+      "id": "t1_09",
+      "audioText": "I couldn't find my car in the parking lot. Someone had moved it to a different spot while I was at work.",
+      "transcript": "Someone had moved it to a different spot while I was at work.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "I moved the car myself before work."
+        },
+        {
+          "id": "o2",
+          "text": "Someone relocated my car during my working hours."
+        },
+        {
+          "id": "o3",
+          "text": "Nobody touched the car all day."
+        },
+        {
+          "id": "o4",
+          "text": "Someone will move the car tomorrow."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Had moved' shows that the car was relocated before the speaker returned — a completed prior action.",
+      "mistakeTags": [
+        "daily_routine",
+        "past_perfect"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_01_past_perfect/t1_09.mp3"
+    },
+    {
+      "id": "t1_10",
+      "audioText": "The restaurant was closed when we got there. The chef had left early because of a family emergency.",
+      "transcript": "The chef had left early because of a family emergency.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The chef left after we arrived at the restaurant."
+        },
+        {
+          "id": "o2",
+          "text": "The chef was still cooking when we got there."
+        },
+        {
+          "id": "o3",
+          "text": "The chef departed before we arrived due to a personal situation."
+        },
+        {
+          "id": "o4",
+          "text": "The chef will leave early next week."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Had left early' indicates the chef's departure happened before their arrival — Past Perfect for the earlier event with a reason.",
+      "mistakeTags": [
+        "food",
+        "past_perfect"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_01_past_perfect/t1_10.mp3"
+    },
+    {
+      "id": "t1_11",
+      "audioText": "Laura felt nervous on her first day abroad. She had never travelled outside her home country before.",
+      "transcript": "She had never travelled outside her home country before.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She had been abroad many times."
+        },
+        {
+          "id": "o2",
+          "text": "It was her first time being in a foreign country."
+        },
+        {
+          "id": "o3",
+          "text": "She travels abroad every summer."
+        },
+        {
+          "id": "o4",
+          "text": "She was travelling at that exact moment."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Had never travelled before' uses Past Perfect negative with 'never' to express a first-time experience up to that point in the past.",
+      "mistakeTags": [
+        "travel",
+        "past_perfect"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_01_past_perfect/t1_11.mp3"
+    },
+    {
+      "id": "t1_12",
+      "audioText": "The police questioned the suspect for hours. He had been at the scene but claimed he had seen nothing unusual.",
+      "transcript": "He had been at the scene but claimed he had seen nothing unusual.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He was present at the location but said he did not notice anything strange."
+        },
+        {
+          "id": "o2",
+          "text": "He was not at the scene at all."
+        },
+        {
+          "id": "o3",
+          "text": "He saw many unusual things and reported them."
+        },
+        {
+          "id": "o4",
+          "text": "He will go to the scene later today."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Had been' and 'had seen nothing' use Past Perfect twice to describe states and actions before the police questioning.",
+      "mistakeTags": [
+        "social",
+        "past_perfect"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_01_past_perfect/t1_12.mp3"
+    },
+    {
+      "id": "t1_13",
+      "audioText": "James was exhausted after the marathon. He had trained for six months without taking a single day off.",
+      "transcript": "He had trained for six months without taking a single day off.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He trained for six months with many rest days."
+        },
+        {
+          "id": "o2",
+          "text": "He will begin training for the marathon next month."
+        },
+        {
+          "id": "o3",
+          "text": "He spent half a year training every single day before the race."
+        },
+        {
+          "id": "o4",
+          "text": "He stopped training after two months."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Had trained for six months without a day off' uses Past Perfect to show continuous preparation before the marathon.",
+      "mistakeTags": [
+        "sports",
+        "past_perfect"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_01_past_perfect/t1_13.mp3"
+    },
+    {
+      "id": "t1_14",
+      "audioText": "The software crashed during the presentation. Nobody had tested the latest update before the demo.",
+      "transcript": "Nobody had tested the latest update before the demo.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Everyone tested the update thoroughly."
+        },
+        {
+          "id": "o2",
+          "text": "The update was tested during the demo."
+        },
+        {
+          "id": "o3",
+          "text": "No one checked the newest version before showing it to the audience."
+        },
+        {
+          "id": "o4",
+          "text": "The software worked perfectly at the presentation."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Nobody had tested' uses Past Perfect negative to explain that testing did not happen before the demo — the cause of the crash.",
+      "mistakeTags": [
+        "technology",
+        "past_perfect"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_01_past_perfect/t1_14.mp3"
+    },
+    {
+      "id": "t1_15",
+      "audioText": "My grandfather told wonderful stories about places he had visited during his years as a sailor.",
+      "transcript": "He had visited many places during his years as a sailor.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He is visiting places now as a sailor."
+        },
+        {
+          "id": "o2",
+          "text": "He went to numerous locations when he worked as a sailor in the past."
+        },
+        {
+          "id": "o3",
+          "text": "He had never been anywhere as a sailor."
+        },
+        {
+          "id": "o4",
+          "text": "He plans to visit many places in the future."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Had visited' uses Past Perfect to describe experiences that occurred during an even earlier period — his sailing years before the storytelling.",
+      "mistakeTags": [
+        "travel",
+        "past_perfect"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_01_past_perfect/t1_15.mp3"
+    }
+  ],
+  "short_description": "Предшествующее действие в прошлом: had + V3."
+}

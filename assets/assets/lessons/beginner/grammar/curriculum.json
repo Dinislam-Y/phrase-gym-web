@@ -1,0 +1,80 @@
+{
+    "level": "beginner",
+    "lessons": [
+        {
+            "id": "beginner_01_to_be",
+            "file": "01_to_be.json",
+            "order": 1
+        },
+        {
+            "id": "beginner_02_this_that",
+            "file": "02_this_that.json",
+            "order": 2
+        },
+        {
+            "id": "beginner_03_have_has",
+            "file": "03_have_has.json",
+            "order": 3
+        },
+        {
+            "id": "beginner_04_present_simple_positive",
+            "file": "04_present_simple_positive.json",
+            "order": 4
+        },
+        {
+            "id": "beginner_05_present_simple_negative",
+            "file": "05_present_simple_negative.json",
+            "order": 5
+        },
+        {
+            "id": "beginner_06_there_is_are",
+            "file": "06_there_is_are.json",
+            "order": 6
+        },
+        {
+            "id": "beginner_07_imperative_mood",
+            "file": "07_imperative_mood.json",
+            "order": 7
+        },
+        {
+            "id": "beginner_08_present_simple_questions",
+            "file": "08_present_simple_questions.json",
+            "order": 8
+        },
+        {
+            "id": "beginner_09_possessive_adjectives",
+            "file": "09_possessive_adjectives.json",
+            "order": 9
+        },
+        {
+            "id": "beginner_10_plurals",
+            "file": "10_plurals.json",
+            "order": 10
+        },
+        {
+            "id": "beginner_11_countable_uncountable",
+            "file": "11_countable_uncountable.json",
+            "order": 11
+        },
+        {
+            "id": "beginner_12_object_pronouns",
+            "file": "12_object_pronouns.json",
+            "order": 12
+        },
+        {
+            "id": "beginner_13_adverbs_of_frequency",
+            "file": "13_adverbs_of_frequency.json",
+            "order": 13
+        },
+        {
+            "id": "beginner_14_prepositions_of_place",
+            "file": "14_prepositions_of_place.json",
+            "order": 14
+        },
+        {
+            "id": "beginner_15_these_those",
+            "file": "15_these_those.json",
+            "order": 15
+        }
+    ]
+}

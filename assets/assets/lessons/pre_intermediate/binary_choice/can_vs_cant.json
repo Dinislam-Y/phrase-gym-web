@@ -1,0 +1,400 @@
+{
+  "id": "pre_bc_08_can_cant",
+  "title": "Can vs Can't",
+  "description": "Can или Can't? Тренируем способности и запреты.",
+  "order": 7,
+  "level": "pre_intermediate",
+  "imageUrl": null,
+  "tasks": [
+    {
+      "id": "cvc_1",
+      "question": "I ___ swim well.",
+      "optionA": "CAN",
+      "optionB": "CAN'T",
+      "correctIndex": 0,
+      "explanation": "Swim well — умеет плавать хорошо, поэтому can.",
+      "tags": [
+        "can_vs_cant",
+        "can",
+        "sport"
+      ]
+    },
+    {
+      "id": "cvc_2",
+      "question": "She ___ drive a car.",
+      "optionA": "CAN",
+      "optionB": "CAN'T",
+      "correctIndex": 1,
+      "explanation": "Нет водительских прав, поэтому can't.",
+      "tags": [
+        "can_vs_cant",
+        "cant",
+        "transport"
+      ]
+    },
+    {
+      "id": "cvc_3",
+      "question": "We ___ speak English every day.",
+      "optionA": "CAN",
+      "optionB": "CAN'T",
+      "correctIndex": 0,
+      "explanation": "Every day — делаем это регулярно, значит can.",
+      "tags": [
+        "can_vs_cant",
+        "can",
+        "language"
+      ]
+    },
+    {
+      "id": "cvc_4",
+      "question": "He ___ read without glasses.",
+      "optionA": "CAN",
+      "optionB": "CAN'T",
+      "correctIndex": 1,
+      "explanation": "Without glasses — не может без очков, can't.",
+      "tags": [
+        "can_vs_cant",
+        "cant",
+        "daily_life"
+      ]
+    },
+    {
+      "id": "cvc_5",
+      "question": "They ___ cook delicious food.",
+      "optionA": "CAN",
+      "optionB": "CAN'T",
+      "correctIndex": 0,
+      "explanation": "Delicious — готовят вкусно, умеют, can.",
+      "tags": [
+        "can_vs_cant",
+        "can",
+        "cooking"
+      ]
+    },
+    {
+      "id": "cvc_6",
+      "question": "The baby ___ walk yet.",
+      "optionA": "CAN",
+      "optionB": "CAN'T",
+      "correctIndex": 1,
+      "explanation": "Yet — ещё не умеет, малыш, can't.",
+      "tags": [
+        "can_vs_cant",
+        "cant",
+        "family"
+      ]
+    },
+    {
+      "id": "cvc_7",
+      "question": "You ___ dance very well.",
+      "optionA": "CAN",
+      "optionB": "CAN'T",
+      "correctIndex": 0,
+      "explanation": "Very well — танцуешь очень хорошо, can.",
+      "tags": [
+        "can_vs_cant",
+        "can",
+        "hobby"
+      ]
+    },
+    {
+      "id": "cvc_8",
+      "question": "My dog ___ climb trees.",
+      "optionA": "CAN",
+      "optionB": "CAN'T",
+      "correctIndex": 1,
+      "explanation": "Собаки не лазают по деревьям, can't.",
+      "tags": [
+        "can_vs_cant",
+        "cant",
+        "animals"
+      ]
+    },
+    {
+      "id": "cvc_9",
+      "question": "Birds ___ fly in the sky.",
+      "optionA": "CAN",
+      "optionB": "CAN'T",
+      "correctIndex": 0,
+      "explanation": "Птицы летают, это их способность, can.",
+      "tags": [
+        "can_vs_cant",
+        "can",
+        "animals"
+      ]
+    },
+    {
+      "id": "cvc_10",
+      "question": "I ___ run very fast.",
+      "optionA": "CAN",
+      "optionB": "CAN'T",
+      "correctIndex": 0,
+      "explanation": "Very fast — бегаю очень быстро, can.",
+      "tags": [
+        "can_vs_cant",
+        "can",
+        "sport"
+      ]
+    },
+    {
+      "id": "cvc_11",
+      "question": "You ___ smoke here.",
+      "optionA": "CAN",
+      "optionB": "CAN'T",
+      "correctIndex": 1,
+      "explanation": "Здесь запрещено курить, can't.",
+      "tags": [
+        "can_vs_cant",
+        "cant",
+        "rules"
+      ]
+    },
+    {
+      "id": "cvc_12",
+      "question": "Students ___ use the library.",
+      "optionA": "CAN",
+      "optionB": "CAN'T",
+      "correctIndex": 0,
+      "explanation": "Студентам разрешено пользоваться библиотекой, can.",
+      "tags": [
+        "can_vs_cant",
+        "can",
+        "school"
+      ]
+    },
+    {
+      "id": "cvc_13",
+      "question": "We ___ park on this street.",
+      "optionA": "CAN",
+      "optionB": "CAN'T",
+      "correctIndex": 1,
+      "explanation": "На этой улице нельзя парковаться, can't.",
+      "tags": [
+        "can_vs_cant",
+        "cant",
+        "rules"
+      ]
+    },
+    {
+      "id": "cvc_14",
+      "question": "Children ___ play in the park.",
+      "optionA": "CAN",
+      "optionB": "CAN'T",
+      "correctIndex": 0,
+      "explanation": "Детям можно играть в парке, can.",
+      "tags": [
+        "can_vs_cant",
+        "can",
+        "family"
+      ]
+    },
+    {
+      "id": "cvc_15",
+      "question": "You ___ enter without a ticket.",
+      "optionA": "CAN",
+      "optionB": "CAN'T",
+      "correctIndex": 1,
+      "explanation": "Без билета нельзя войти, can't.",
+      "tags": [
+        "can_vs_cant",
+        "cant",
+        "rules"
+      ]
+    },
+    {
+      "id": "cvc_16",
+      "question": "We ___ take photos here.",
+      "optionA": "CAN",
+      "optionB": "CAN'T",
+      "correctIndex": 0,
+      "explanation": "Фотографировать здесь разрешено, can.",
+      "tags": [
+        "can_vs_cant",
+        "can",
+        "hobby"
+      ]
+    },
+    {
+      "id": "cvc_17",
+      "question": "He ___ drink alcohol now.",
+      "optionA": "CAN",
+      "optionB": "CAN'T",
+      "correctIndex": 1,
+      "explanation": "Сейчас ему нельзя пить алкоголь, can't.",
+      "tags": [
+        "can_vs_cant",
+        "cant",
+        "rules"
+      ]
+    },
+    {
+      "id": "cvc_18",
+      "question": "Visitors ___ touch the paintings.",
+      "optionA": "CAN",
+      "optionB": "CAN'T",
+      "correctIndex": 1,
+      "explanation": "Картины трогать запрещено, can't.",
+      "tags": [
+        "can_vs_cant",
+        "cant",
+        "museum"
+      ]
+    },
+    {
+      "id": "cvc_19",
+      "question": "You ___ ask questions anytime.",
+      "optionA": "CAN",
+      "optionB": "CAN'T",
+      "correctIndex": 0,
+      "explanation": "Вопросы можно задавать в любое время, can.",
+      "tags": [
+        "can_vs_cant",
+        "can",
+        "school"
+      ]
+    },
+    {
+      "id": "cvc_20",
+      "question": "They ___ bring pets inside.",
+      "optionA": "CAN",
+      "optionB": "CAN'T",
+      "correctIndex": 1,
+      "explanation": "Животных нельзя приводить внутрь, can't.",
+      "tags": [
+        "can_vs_cant",
+        "cant",
+        "rules"
+      ]
+    },
+    {
+      "id": "cvc_21",
+      "question": "I ___ see the board clearly.",
+      "optionA": "CAN",
+      "optionB": "CAN'T",
+      "correctIndex": 0,
+      "explanation": "Clearly — вижу доску чётко, can.",
+      "tags": [
+        "can_vs_cant",
+        "can",
+        "school"
+      ]
+    },
+    {
+      "id": "cvc_22",
+      "question": "She ___ hear you from there.",
+      "optionA": "CAN",
+      "optionB": "CAN'T",
+      "correctIndex": 1,
+      "explanation": "Оттуда она не слышит тебя, can't.",
+      "tags": [
+        "can_vs_cant",
+        "cant",
+        "daily_life"
+      ]
+    },
+    {
+      "id": "cvc_23",
+      "question": "We ___ finish this work today.",
+      "optionA": "CAN",
+      "optionB": "CAN'T",
+      "correctIndex": 0,
+      "explanation": "Сегодня можем закончить эту работу, can.",
+      "tags": [
+        "can_vs_cant",
+        "can",
+        "work"
+      ]
+    },
+    {
+      "id": "cvc_24",
+      "question": "Fish ___ live without water.",
+      "optionA": "CAN",
+      "optionB": "CAN'T",
+      "correctIndex": 1,
+      "explanation": "Рыбы не могут жить без воды, can't.",
+      "tags": [
+        "can_vs_cant",
+        "cant",
+        "animals"
+      ]
+    },
+    {
+      "id": "cvc_25",
+      "question": "He ___ solve difficult math problems.",
+      "optionA": "CAN",
+      "optionB": "CAN'T",
+      "correctIndex": 0,
+      "explanation": "Он умеет решать сложные задачи, can.",
+      "tags": [
+        "can_vs_cant",
+        "can",
+        "school"
+      ]
+    },
+    {
+      "id": "cvc_26",
+      "question": "I ___ remember her phone number.",
+      "optionA": "CAN",
+      "optionB": "CAN'T",
+      "correctIndex": 1,
+      "explanation": "Не могу вспомнить её номер, can't.",
+      "tags": [
+        "can_vs_cant",
+        "cant",
+        "daily_life"
+      ]
+    },
+    {
+      "id": "cvc_27",
+      "question": "They ___ finish before five o'clock.",
+      "optionA": "CAN",
+      "optionB": "CAN'T",
+      "correctIndex": 0,
+      "explanation": "Они успеют закончить до пяти, can.",
+      "tags": [
+        "can_vs_cant",
+        "can",
+        "work"
+      ]
+    },
+    {
+      "id": "cvc_28",
+      "question": "The box ___ fit in here.",
+      "optionA": "CAN",
+      "optionB": "CAN'T",
+      "correctIndex": 1,
+      "explanation": "Коробка сюда не помещается, can't.",
+      "tags": [
+        "can_vs_cant",
+        "cant",
+        "daily_life"
+      ]
+    },
+    {
+      "id": "cvc_29",
+      "question": "You ___ trust him completely.",
+      "optionA": "CAN",
+      "optionB": "CAN'T",
+      "correctIndex": 0,
+      "explanation": "Ему можно полностью доверять, can.",
+      "tags": [
+        "can_vs_cant",
+        "can",
+        "relationship"
+      ]
+    },
+    {
+      "id": "cvc_30",
+      "question": "Plants ___ grow without sunlight.",
+      "optionA": "CAN",
+      "optionB": "CAN'T",
+      "correctIndex": 1,
+      "explanation": "Растения не могут расти без солнца, can't.",
+      "tags": [
+        "can_vs_cant",
+        "cant",
+        "nature"
+      ]
+    }
+  ]
+}

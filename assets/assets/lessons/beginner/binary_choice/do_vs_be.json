@@ -1,0 +1,400 @@
+{
+  "id": "beginner_bc_07_imperative_mood",
+  "title": "Do vs Be",
+  "description": "Do или Be? Учимся правильно строить команды и просьбы.",
+  "order": 11,
+  "level": "beginner",
+  "imageUrl": null,
+  "tasks": [
+    {
+      "id": "dvb_1",
+      "question": "___ careful!",
+      "optionA": "DO",
+      "optionB": "BE",
+      "correctIndex": 1,
+      "explanation": "Careful — прилагательное, нужен глагол be.",
+      "tags": [
+        "do_vs_be",
+        "be",
+        "daily_routine"
+      ]
+    },
+    {
+      "id": "dvb_2",
+      "question": "___ your homework!",
+      "optionA": "DO",
+      "optionB": "BE",
+      "correctIndex": 0,
+      "explanation": "Homework — это действие, используем do.",
+      "tags": [
+        "do_vs_be",
+        "do",
+        "school"
+      ]
+    },
+    {
+      "id": "dvb_3",
+      "question": "___ quiet, please!",
+      "optionA": "DO",
+      "optionB": "BE",
+      "correctIndex": 1,
+      "explanation": "Quiet — прилагательное, нужен be.",
+      "tags": [
+        "do_vs_be",
+        "be",
+        "manners"
+      ]
+    },
+    {
+      "id": "dvb_4",
+      "question": "___ the dishes!",
+      "optionA": "DO",
+      "optionB": "BE",
+      "correctIndex": 0,
+      "explanation": "Мыть посуду — конкретное действие, нужен do.",
+      "tags": [
+        "do_vs_be",
+        "do",
+        "housework"
+      ]
+    },
+    {
+      "id": "dvb_5",
+      "question": "___ ready in five!",
+      "optionA": "DO",
+      "optionB": "BE",
+      "correctIndex": 1,
+      "explanation": "Ready — прилагательное состояния, используем be.",
+      "tags": [
+        "do_vs_be",
+        "be",
+        "time"
+      ]
+    },
+    {
+      "id": "dvb_6",
+      "question": "___ your best!",
+      "optionA": "DO",
+      "optionB": "BE",
+      "correctIndex": 0,
+      "explanation": "Do your best — устойчивое выражение.",
+      "tags": [
+        "do_vs_be",
+        "do",
+        "encouragement"
+      ]
+    },
+    {
+      "id": "dvb_7",
+      "question": "___ nice to her!",
+      "optionA": "DO",
+      "optionB": "BE",
+      "correctIndex": 1,
+      "explanation": "Nice — прилагательное, нужен be.",
+      "tags": [
+        "do_vs_be",
+        "be",
+        "relationships"
+      ]
+    },
+    {
+      "id": "dvb_8",
+      "question": "___ exercise every day!",
+      "optionA": "DO",
+      "optionB": "BE",
+      "correctIndex": 0,
+      "explanation": "Exercise — действие, используем do.",
+      "tags": [
+        "do_vs_be",
+        "do",
+        "health"
+      ]
+    },
+    {
+      "id": "dvb_9",
+      "question": "___ patient with him!",
+      "optionA": "DO",
+      "optionB": "BE",
+      "correctIndex": 1,
+      "explanation": "Patient — прилагательное качества, нужен be.",
+      "tags": [
+        "do_vs_be",
+        "be",
+        "emotions"
+      ]
+    },
+    {
+      "id": "dvb_10",
+      "question": "___ the laundry today!",
+      "optionA": "DO",
+      "optionB": "BE",
+      "correctIndex": 0,
+      "explanation": "Laundry — конкретная работа по дому, используем do.",
+      "tags": [
+        "do_vs_be",
+        "do",
+        "housework"
+      ]
+    },
+    {
+      "id": "dvb_11",
+      "question": "Don't ___ lazy!",
+      "optionA": "DO",
+      "optionB": "BE",
+      "correctIndex": 1,
+      "explanation": "Lazy — прилагательное, нужен be даже в отрицании.",
+      "tags": [
+        "do_vs_be",
+        "be",
+        "character"
+      ]
+    },
+    {
+      "id": "dvb_12",
+      "question": "Don't ___ that again!",
+      "optionA": "DO",
+      "optionB": "BE",
+      "correctIndex": 0,
+      "explanation": "That — указывает на действие, используем do.",
+      "tags": [
+        "do_vs_be",
+        "do",
+        "warning"
+      ]
+    },
+    {
+      "id": "dvb_13",
+      "question": "Don't ___ late tomorrow!",
+      "optionA": "DO",
+      "optionB": "BE",
+      "correctIndex": 1,
+      "explanation": "Late — прилагательное времени, нужен be.",
+      "tags": [
+        "do_vs_be",
+        "be",
+        "time"
+      ]
+    },
+    {
+      "id": "dvb_14",
+      "question": "Don't ___ your job!",
+      "optionA": "DO",
+      "optionB": "BE",
+      "correctIndex": 0,
+      "explanation": "Job — работа как действие, используем do.",
+      "tags": [
+        "do_vs_be",
+        "do",
+        "work"
+      ]
+    },
+    {
+      "id": "dvb_15",
+      "question": "Don't ___ rude!",
+      "optionA": "DO",
+      "optionB": "BE",
+      "correctIndex": 1,
+      "explanation": "Rude — прилагательное поведения, нужен be.",
+      "tags": [
+        "do_vs_be",
+        "be",
+        "manners"
+      ]
+    },
+    {
+      "id": "dvb_16",
+      "question": "Don't ___ it now!",
+      "optionA": "DO",
+      "optionB": "BE",
+      "correctIndex": 0,
+      "explanation": "It — указывает на действие, используем do.",
+      "tags": [
+        "do_vs_be",
+        "do",
+        "instruction"
+      ]
+    },
+    {
+      "id": "dvb_17",
+      "question": "Don't ___ afraid!",
+      "optionA": "DO",
+      "optionB": "BE",
+      "correctIndex": 1,
+      "explanation": "Afraid — прилагательное чувства, нужен be.",
+      "tags": [
+        "do_vs_be",
+        "be",
+        "emotions"
+      ]
+    },
+    {
+      "id": "dvb_18",
+      "question": "Don't ___ the cleaning!",
+      "optionA": "DO",
+      "optionB": "BE",
+      "correctIndex": 0,
+      "explanation": "Cleaning — домашняя работа, используем do.",
+      "tags": [
+        "do_vs_be",
+        "do",
+        "housework"
+      ]
+    },
+    {
+      "id": "dvb_19",
+      "question": "Don't ___ silly!",
+      "optionA": "DO",
+      "optionB": "BE",
+      "correctIndex": 1,
+      "explanation": "Silly — прилагательное характера, нужен be.",
+      "tags": [
+        "do_vs_be",
+        "be",
+        "character"
+      ]
+    },
+    {
+      "id": "dvb_20",
+      "question": "Don't ___ the shopping!",
+      "optionA": "DO",
+      "optionB": "BE",
+      "correctIndex": 0,
+      "explanation": "Shopping — действие (покупки), используем do.",
+      "tags": [
+        "do_vs_be",
+        "do",
+        "daily_routine"
+      ]
+    },
+    {
+      "id": "dvb_21",
+      "question": "___ yourself a favor!",
+      "optionA": "DO",
+      "optionB": "BE",
+      "correctIndex": 0,
+      "explanation": "Do yourself a favor — устойчивая фраза.",
+      "tags": [
+        "do_vs_be",
+        "do",
+        "idiom"
+      ]
+    },
+    {
+      "id": "dvb_22",
+      "question": "___ brave today!",
+      "optionA": "DO",
+      "optionB": "BE",
+      "correctIndex": 1,
+      "explanation": "Brave — прилагательное качества, нужен be.",
+      "tags": [
+        "do_vs_be",
+        "be",
+        "encouragement"
+      ]
+    },
+    {
+      "id": "dvb_23",
+      "question": "___ your part!",
+      "optionA": "DO",
+      "optionB": "BE",
+      "correctIndex": 0,
+      "explanation": "Do your part — выполнить свою часть работы.",
+      "tags": [
+        "do_vs_be",
+        "do",
+        "teamwork"
+      ]
+    },
+    {
+      "id": "dvb_24",
+      "question": "___ honest with me!",
+      "optionA": "DO",
+      "optionB": "BE",
+      "correctIndex": 1,
+      "explanation": "Honest — прилагательное, нужен be.",
+      "tags": [
+        "do_vs_be",
+        "be",
+        "relationships"
+      ]
+    },
+    {
+      "id": "dvb_25",
+      "question": "___ something about it!",
+      "optionA": "DO",
+      "optionB": "BE",
+      "correctIndex": 0,
+      "explanation": "Something — требует действия, используем do.",
+      "tags": [
+        "do_vs_be",
+        "do",
+        "action"
+      ]
+    },
+    {
+      "id": "dvb_26",
+      "question": "___ a good boy!",
+      "optionA": "DO",
+      "optionB": "BE",
+      "correctIndex": 1,
+      "explanation": "Good boy — существительное с прилагательным, нужен be.",
+      "tags": [
+        "do_vs_be",
+        "be",
+        "children"
+      ]
+    },
+    {
+      "id": "dvb_27",
+      "question": "___ the cooking tonight!",
+      "optionA": "DO",
+      "optionB": "BE",
+      "correctIndex": 0,
+      "explanation": "Cooking — домашнее дело, используем do.",
+      "tags": [
+        "do_vs_be",
+        "do",
+        "food"
+      ]
+    },
+    {
+      "id": "dvb_28",
+      "question": "___ a hero!",
+      "optionA": "DO",
+      "optionB": "BE",
+      "correctIndex": 1,
+      "explanation": "Hero — существительное (стать героем), нужен be.",
+      "tags": [
+        "do_vs_be",
+        "be",
+        "encouragement"
+      ]
+    },
+    {
+      "id": "dvb_29",
+      "question": "___ your duty!",
+      "optionA": "DO",
+      "optionB": "BE",
+      "correctIndex": 0,
+      "explanation": "Duty — обязанность как действие, используем do.",
+      "tags": [
+        "do_vs_be",
+        "do",
+        "responsibility"
+      ]
+    },
+    {
+      "id": "dvb_30",
+      "question": "___ positive!",
+      "optionA": "DO",
+      "optionB": "BE",
+      "correctIndex": 1,
+      "explanation": "Positive — прилагательное настроя, нужен be.",
+      "tags": [
+        "do_vs_be",
+        "be",
+        "emotions"
+      ]
+    }
+  ]
+}

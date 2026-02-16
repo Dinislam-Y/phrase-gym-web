@@ -1,0 +1,2222 @@
+{
+  "id": "upper_01_past_perfect",
+  "title": "Past Perfect",
+  "description": "Past Perfect — это флешбэк внутри флешбэка. Самое «древнее» событие в вашей истории.",
+  "order": 1,
+  "level": "upper_intermediate",
+  "imageUrl": "assets/images/lessons/past_perfect.png",
+  "vocabulary": [
+    {
+      "id": "v1_arrive",
+      "english": "arrive",
+      "russian": "прибывать",
+      "partOfSpeech": "verb",
+      "example": "When I arrived, he had left.",
+      "exampleTranslation": "Когда я приехал, он уже ушел.",
+      "audioPath": "assets/audio/vocabulary/v1_arrive.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_arrive.mp3"
+    },
+    {
+      "id": "v1_left",
+      "english": "left",
+      "russian": "ушел (покинул)",
+      "partOfSpeech": "verb",
+      "example": "The train had left.",
+      "exampleTranslation": "Поезд ушел.",
+      "audioPath": "assets/audio/vocabulary/v1_left.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_left.mp3"
+    },
+    {
+      "id": "v1_finish",
+      "english": "finish",
+      "russian": "заканчивать",
+      "partOfSpeech": "verb",
+      "example": "I had finished my work.",
+      "exampleTranslation": "Я закончил работу.",
+      "audioPath": "assets/audio/vocabulary/v1_finish.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_finish.mp3"
+    },
+    {
+      "id": "v1_hungry",
+      "english": "hungry",
+      "russian": "голодный",
+      "partOfSpeech": "adjective",
+      "example": "I was not hungry.",
+      "exampleTranslation": "Я не был голоден.",
+      "audioPath": "assets/audio/vocabulary/v1_hungry.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_hungry.mp3"
+    },
+    {
+      "id": "v1_lunch",
+      "english": "lunch",
+      "russian": "обед",
+      "partOfSpeech": "noun",
+      "example": "I had eaten lunch.",
+      "exampleTranslation": "Я пообедал.",
+      "audioPath": "assets/audio/vocabulary/v1_lunch.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_lunch.mp3"
+    },
+    {
+      "id": "v1_never",
+      "english": "never",
+      "russian": "никогда",
+      "partOfSpeech": "adverb",
+      "example": "We had never seen this.",
+      "exampleTranslation": "Мы никогда не видели этого.",
+      "audioPath": "assets/audio/vocabulary/v1_never.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_never.mp3"
+    },
+    {
+      "id": "v1_before",
+      "english": "before",
+      "russian": "до, раньше",
+      "partOfSpeech": "adverb",
+      "example": "We hadn't met before.",
+      "exampleTranslation": "Мы не встречались раньше.",
+      "audioPath": "assets/audio/vocabulary/v1_before.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_before.mp3"
+    },
+    {
+      "id": "v1_lose",
+      "english": "lose",
+      "russian": "терять",
+      "partOfSpeech": "verb",
+      "example": "He lost the keys.",
+      "exampleTranslation": "Он потерял ключи.",
+      "audioPath": "assets/audio/vocabulary/v1_lose.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_lose.mp3"
+    },
+    {
+      "id": "v1_give",
+      "english": "give",
+      "russian": "давать",
+      "partOfSpeech": "verb",
+      "example": "I had given him.",
+      "exampleTranslation": "Я дал ему.",
+      "audioPath": "assets/audio/vocabulary/v1_give.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_give.mp3"
+    },
+    {
+      "id": "v1_party",
+      "english": "party",
+      "russian": "вечеринка",
+      "partOfSpeech": "noun",
+      "example": "The party had ended.",
+      "exampleTranslation": "Вечеринка закончилась.",
+      "audioPath": "assets/audio/vocabulary/v1_party.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_party.mp3"
+    },
+    {
+      "id": "v1_realize",
+      "english": "realize",
+      "russian": "осознавать (понять)",
+      "partOfSpeech": "verb",
+      "example": "She realized her mistake.",
+      "exampleTranslation": "Она поняла свою ошибку.",
+      "audioPath": "assets/audio/vocabulary/v1_realize.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_realize.mp3"
+    },
+    {
+      "id": "v1_rain",
+      "english": "rain",
+      "russian": "дождь",
+      "partOfSpeech": "noun",
+      "example": "The rain had stopped.",
+      "exampleTranslation": "Дождь прекратился.",
+      "audioPath": "assets/audio/vocabulary/v1_rain.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_rain.mp3"
+    },
+    {
+      "id": "v1_stop",
+      "english": "stop",
+      "russian": "останавливаться",
+      "partOfSpeech": "verb",
+      "example": "The rain had stopped.",
+      "exampleTranslation": "Дождь прекратился.",
+      "audioPath": "assets/audio/vocabulary/v1_stop.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_stop.mp3"
+    },
+    {
+      "id": "v1_clean",
+      "english": "clean",
+      "russian": "чистить (убирать)",
+      "partOfSpeech": "verb",
+      "example": "I had cleaned the room.",
+      "exampleTranslation": "Я убрал комнату.",
+      "audioPath": "assets/audio/vocabulary/v1_clean.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_clean.mp3"
+    },
+    {
+      "id": "v1_meet",
+      "english": "meet",
+      "russian": "встречать",
+      "partOfSpeech": "verb",
+      "example": "They had not met.",
+      "exampleTranslation": "Они не встречались.",
+      "audioPath": "assets/audio/vocabulary/v1_meet.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_meet.mp3"
+    },
+    {
+      "id": "v1_tell",
+      "english": "tell",
+      "russian": "рассказывать",
+      "partOfSpeech": "verb",
+      "example": "You had not told me.",
+      "exampleTranslation": "Ты не сказал мне.",
+      "audioPath": "assets/audio/vocabulary/v1_tell.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_tell.mp3"
+    },
+    {
+      "id": "v1_early",
+      "english": "early",
+      "russian": "рано",
+      "partOfSpeech": "adverb",
+      "example": "Earlier.",
+      "exampleTranslation": "Раньше.",
+      "audioPath": "assets/audio/vocabulary/v1_early.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_early.mp3"
+    },
+    {
+      "id": "v1_drink",
+      "english": "drink",
+      "russian": "пить",
+      "partOfSpeech": "verb",
+      "example": "He had drunk coffee.",
+      "exampleTranslation": "Он выпил кофе.",
+      "audioPath": "assets/audio/vocabulary/v1_drink.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_drink.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "Past Perfect",
+    "subtitle": "Представьте, что вы рассказываете историю из прошлого (например, про вчерашний вечер). И вдруг вам нужно упомянуть что-то, что случилось ЕЩЕ РАНЬШЕ. Это «предпрошедшее» время. Шаг назад в машине времени.",
+    "construction": {
+      "formula": "Had + V3 (3-я форма)",
+      "rules": [
+        {
+          "word": "Had",
+          "description": "Прошедшая форма от Have. Работает как маяк: «Внимание, мы прыгаем в ещё более глубокое прошлое»."
+        },
+        {
+          "word": "V3 (Сделанный)",
+          "description": "Причастие. Done, Gone, Seen. Указывает на результат к тому моменту."
+        },
+        {
+          "word": "Разница с Simple",
+          "description": "Past Simple — это основная линия сюжета (Пришел, увидел). Past Perfect — это предыстория (Победил ДО ТОГО, как пришел)."
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "schedule",
+        "color": "blue",
+        "title": "Раньше, чем...",
+        "description": "Когда есть два действия в прошлом, и одно случилось раньше другого. Первое — Past Perfect, второе — Past Simple.",
+        "example": {
+          "english": "When I arrived, the train had left.",
+          "russian": "Когда я приехал (вчера), поезд УЖЕ ушел (еще раньше)."
+        }
+      },
+      {
+        "icon": "check_circle",
+        "color": "green",
+        "title": "Результат в прошлом",
+        "description": "К какому-то моменту в прошлом всё уже было сделано.",
+        "example": {
+          "english": "By 5 PM I had finished my work.",
+          "russian": "К 5 вечера я уже закончил работу."
+        }
+      },
+      {
+        "icon": "check_circle",
+        "color": "purple",
+        "title": "Причина состояния",
+        "description": "Почему кто-то был грустным/усталым в прошлом? Потому что до этого что-то случилось.",
+        "example": {
+          "english": "He was tired because he had worked hard.",
+          "russian": "Он был уставшим (вчера), потому что (до этого) много работал."
+        }
+      }
+    ],
+    "markers": [
+      "before",
+      "after",
+      "by the time",
+      "when",
+      "already",
+      "never",
+      "just"
+    ]
+  },
+  "tasks": [
+    {
+      "id": "t1_1",
+      "type": "sentenceAssembly",
+      "question": "Когда я пришёл, поезд уже ушёл",
+      "correctAnswer": "When I arrived the train had left",
+      "options": [],
+      "variants": [
+        [
+          "When",
+          "Where",
+          "What",
+          "Why"
+        ],
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "arrived",
+          "arrive",
+          "coming",
+          "reached"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "train",
+          "bus",
+          "car",
+          "plane"
+        ],
+        [
+          "had",
+          "has",
+          "have",
+          "was"
+        ],
+        [
+          "left",
+          "gone",
+          "leave",
+          "leaving"
+        ]
+      ],
+      "mistakeTags": [
+        "past_perfect",
+        "had_done"
+      ],
+      "audioPath": "assets/audio/grammar/upper_01_past_perfect/000.mp3"
+    },
+    {
+      "id": "t1_2",
+      "type": "sentenceAssembly",
+      "question": "Она сказала, что закончила работу",
+      "correctAnswer": "She said that she had finished her work",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "I",
+          "They",
+          "You"
+        ],
+        [
+          "said",
+          "say",
+          "told",
+          "speak"
+        ],
+        [
+          "that",
+          "this",
+          "what",
+          "where"
+        ],
+        [
+          "she",
+          "her",
+          "hers",
+          "he"
+        ],
+        [
+          "had",
+          "has",
+          "have",
+          "was"
+        ],
+        [
+          "finished",
+          "finish",
+          "done",
+          "end"
+        ],
+        [
+          "her",
+          "she",
+          "my",
+          "his"
+        ],
+        [
+          "work",
+          "job",
+          "task",
+          "working"
+        ]
+      ],
+      "mistakeTags": [
+        "past_perfect",
+        "had_done"
+      ],
+      "audioPath": "assets/audio/grammar/upper_01_past_perfect/001.mp3"
+    },
+    {
+      "id": "t1_3",
+      "type": "sentenceAssembly",
+      "question": "Я не был удивлён, потому что уже прочитал отчёт",
+      "correctAnswer": "I was not surprised because I had read the report",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "She",
+          "He",
+          "It"
+        ],
+        [
+          "was",
+          "were",
+          "am",
+          "had"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "don't"
+        ],
+        [
+          "surprised",
+          "shocked",
+          "happy",
+          "tired"
+        ],
+        [
+          "because",
+          "why",
+          "so",
+          "but"
+        ],
+        [
+          "I",
+          "She",
+          "He",
+          "It"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "did"
+        ],
+        [
+          "read",
+          "reads",
+          "reading",
+          "wrote"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "report",
+          "paper",
+          "letter",
+          "memo"
+        ]
+      ],
+      "mistakeTags": [
+        "past_perfect",
+        "had_done"
+      ],
+      "audioPath": "assets/audio/grammar/upper_01_past_perfect/002.mp3"
+    },
+    {
+      "id": "t1_4",
+      "type": "sentenceAssembly",
+      "question": "Мы никогда не видели такого (до того момента)",
+      "correctAnswer": "We had never seen this before",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "I",
+          "He",
+          "She"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "did"
+        ],
+        [
+          "never",
+          "ever",
+          "not",
+          "no"
+        ],
+        [
+          "seen",
+          "see",
+          "saw",
+          "watch"
+        ],
+        [
+          "this",
+          "the",
+          "a",
+          "an"
+        ],
+        [
+          "before",
+          "after",
+          "ago",
+          "later"
+        ]
+      ],
+      "mistakeTags": [
+        "past_perfect",
+        "had_done"
+      ],
+      "audioPath": "assets/audio/grammar/upper_01_past_perfect/003.mp3"
+    },
+    {
+      "id": "t1_5",
+      "type": "sentenceAssembly",
+      "question": "Он потерял данные, которые команда собрала",
+      "correctAnswer": "He lost the data that the team had collected",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "I",
+          "They",
+          "You"
+        ],
+        [
+          "lost",
+          "lose",
+          "losing",
+          "missed"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "data",
+          "files",
+          "info",
+          "records"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "this"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "team",
+          "group",
+          "staff",
+          "crew"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "did"
+        ],
+        [
+          "collected",
+          "collect",
+          "gathering",
+          "found"
+        ]
+      ],
+      "mistakeTags": [
+        "past_perfect",
+        "had_done"
+      ],
+      "audioPath": "assets/audio/grammar/upper_01_past_perfect/004.mp3"
+    },
+    {
+      "id": "t1_6",
+      "type": "sentenceAssembly",
+      "question": "К тому времени вечеринка закончилась",
+      "correctAnswer": "By that time the party had ended",
+      "options": [],
+      "variants": [
+        [
+          "By",
+          "to",
+          "about",
+          "through"
+        ],
+        [
+          "that",
+          "the",
+          "a",
+          "each"
+        ],
+        [
+          "time",
+          "moment",
+          "hour",
+          "day"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "party",
+          "event",
+          "night",
+          "show"
+        ],
+        [
+          "had",
+          "has",
+          "have",
+          "was"
+        ],
+        [
+          "ended",
+          "end",
+          "finish",
+          "finished"
+        ]
+      ],
+      "mistakeTags": [
+        "past_perfect",
+        "had_done"
+      ],
+      "audioPath": "assets/audio/grammar/upper_01_past_perfect/005.mp3"
+    },
+    {
+      "id": "t1_7",
+      "type": "sentenceAssembly",
+      "question": "Она поняла, что допустила ошибку в расчётах",
+      "correctAnswer": "She realized that she had made an error in calculations",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "I",
+          "He",
+          "We"
+        ],
+        [
+          "realized",
+          "understood",
+          "knew",
+          "thought"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "this"
+        ],
+        [
+          "she",
+          "her",
+          "he",
+          "it"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "did"
+        ],
+        [
+          "made",
+          "make",
+          "done",
+          "caused"
+        ],
+        [
+          "an",
+          "the",
+          "a",
+          "this"
+        ],
+        [
+          "error",
+          "mistake",
+          "fault",
+          "problem"
+        ],
+        [
+          "in",
+          "to",
+          "for",
+          "at"
+        ],
+        [
+          "calculations",
+          "numbers",
+          "figures",
+          "results"
+        ]
+      ],
+      "mistakeTags": [
+        "past_perfect",
+        "had_done"
+      ],
+      "audioPath": "assets/audio/grammar/upper_01_past_perfect/006.mp3"
+    },
+    {
+      "id": "t1_8",
+      "type": "sentenceAssembly",
+      "question": "Дождь прекратился до того, как мы вышли",
+      "correctAnswer": "The rain had stopped before we went out",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "rain",
+          "storm",
+          "weather",
+          "water"
+        ],
+        [
+          "had",
+          "has",
+          "have",
+          "was"
+        ],
+        [
+          "stopped",
+          "stop",
+          "end",
+          "finish"
+        ],
+        [
+          "before",
+          "after",
+          "when",
+          "while"
+        ],
+        [
+          "we",
+          "us",
+          "our",
+          "they"
+        ],
+        [
+          "went",
+          "go",
+          "gone",
+          "come"
+        ],
+        [
+          "out",
+          "outside",
+          "away",
+          "off"
+        ]
+      ],
+      "mistakeTags": [
+        "past_perfect",
+        "had_done"
+      ],
+      "audioPath": "assets/audio/grammar/upper_01_past_perfect/007.mp3"
+    },
+    {
+      "id": "t1_9",
+      "type": "sentenceAssembly",
+      "question": "Ты уже отправил отчёт, когда директор пришёл?",
+      "correctAnswer": "Had you sent the report when the director came?",
+      "options": [],
+      "variants": [
+        [
+          "Had",
+          "Have",
+          "Did",
+          "Was"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "she"
+        ],
+        [
+          "sent",
+          "send",
+          "wrote",
+          "made"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "report",
+          "letter",
+          "email",
+          "file"
+        ],
+        [
+          "when",
+          "where",
+          "what",
+          "why"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "director",
+          "manager",
+          "boss",
+          "chief"
+        ],
+        [
+          "came?",
+          "come?",
+          "arrived?",
+          "appeared?"
+        ]
+      ],
+      "mistakeTags": [
+        "past_perfect",
+        "had_done"
+      ],
+      "audioPath": "assets/audio/grammar/upper_01_past_perfect/008.mp3"
+    },
+    {
+      "id": "t1_10",
+      "type": "sentenceAssembly",
+      "question": "Я уже убрал комнату (к тому моменту)",
+      "correctAnswer": "I had already cleaned the room",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "was"
+        ],
+        [
+          "already",
+          "just",
+          "yet",
+          "now"
+        ],
+        [
+          "cleaned",
+          "clean",
+          "wash",
+          "clear"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "room",
+          "house",
+          "flat",
+          "space"
+        ]
+      ],
+      "mistakeTags": [
+        "past_perfect",
+        "had_done"
+      ],
+      "audioPath": "assets/audio/grammar/upper_01_past_perfect/009.mp3"
+    },
+    {
+      "id": "t1_11",
+      "type": "sentenceAssembly",
+      "question": "Они не встречались друг с другом раньше",
+      "correctAnswer": "They had not met each other before",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "I",
+          "You",
+          "One"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "did"
+        ],
+        [
+          "not",
+          "never",
+          "just",
+          "already"
+        ],
+        [
+          "met",
+          "seen",
+          "known",
+          "called"
+        ],
+        [
+          "each",
+          "the",
+          "a",
+          "some"
+        ],
+        [
+          "other",
+          "one",
+          "person",
+          "time"
+        ],
+        [
+          "before",
+          "yet",
+          "then",
+          "earlier"
+        ]
+      ],
+      "mistakeTags": [
+        "past_perfect",
+        "had_done"
+      ],
+      "audioPath": "assets/audio/grammar/upper_01_past_perfect/010.mp3"
+    },
+    {
+      "id": "t1_12",
+      "type": "sentenceAssembly",
+      "question": "Почему ты не сказал мне раньше?",
+      "correctAnswer": "Why had you not told me earlier?",
+      "options": [],
+      "variants": [
+        [
+          "Why",
+          "What",
+          "When",
+          "Where"
+        ],
+        [
+          "had",
+          "did",
+          "have",
+          "were"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "she"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "don't"
+        ],
+        [
+          "told",
+          "tell",
+          "say",
+          "said"
+        ],
+        [
+          "me",
+          "I",
+          "my",
+          "mine"
+        ],
+        [
+          "earlier",
+          "early",
+          "before",
+          "sooner"
+        ]
+      ],
+      "mistakeTags": [
+        "past_perfect",
+        "had_done"
+      ],
+      "audioPath": "assets/audio/grammar/upper_01_past_perfect/011.mp3"
+    },
+    {
+      "id": "t1_13",
+      "type": "sentenceAssembly",
+      "question": "Презентация уже началась когда клиент подключился",
+      "correctAnswer": "The presentation had already started when the client joined",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "presentation",
+          "meeting",
+          "session",
+          "call"
+        ],
+        [
+          "had",
+          "has",
+          "have",
+          "was"
+        ],
+        [
+          "already",
+          "just",
+          "never",
+          "still"
+        ],
+        [
+          "started",
+          "finished",
+          "ended",
+          "begun"
+        ],
+        [
+          "when",
+          "before",
+          "after",
+          "until"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "client",
+          "partner",
+          "guest",
+          "boss"
+        ],
+        [
+          "joined",
+          "came",
+          "left",
+          "called"
+        ]
+      ],
+      "mistakeTags": [
+        "past_perfect",
+        "had_done"
+      ],
+      "audioPath": "assets/audio/grammar/upper_01_past_perfect/012.mp3"
+    },
+    {
+      "id": "t1_14",
+      "type": "sentenceAssembly",
+      "question": "Он выпил весь свой кофе",
+      "correctAnswer": "He had drunk all his coffee",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "I",
+          "They",
+          "You"
+        ],
+        [
+          "had",
+          "has",
+          "was",
+          "have"
+        ],
+        [
+          "drunk",
+          "drink",
+          "drank",
+          "drinking"
+        ],
+        [
+          "all",
+          "everything",
+          "full",
+          "whole"
+        ],
+        [
+          "his",
+          "him",
+          "he",
+          "her"
+        ],
+        [
+          "coffee",
+          "tea",
+          "water",
+          "juice"
+        ]
+      ],
+      "mistakeTags": [
+        "past_perfect",
+        "had_done"
+      ],
+      "audioPath": "assets/audio/grammar/upper_01_past_perfect/013.mp3"
+    },
+    {
+      "id": "t1_15",
+      "type": "sentenceAssembly",
+      "question": "Мы были в Лондоне до того, как переехали в Париж",
+      "correctAnswer": "We had been to London before we moved to Paris",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "I",
+          "She",
+          "He"
+        ],
+        [
+          "had",
+          "have",
+          "were",
+          "did"
+        ],
+        [
+          "been",
+          "be",
+          "was",
+          "gone"
+        ],
+        [
+          "to",
+          "about",
+          "through",
+          "into"
+        ],
+        [
+          "London",
+          "City",
+          "England",
+          "UK"
+        ],
+        [
+          "before",
+          "after",
+          "when",
+          "ago"
+        ],
+        [
+          "we",
+          "us",
+          "our",
+          "I"
+        ],
+        [
+          "moved",
+          "move",
+          "go",
+          "went"
+        ],
+        [
+          "to",
+          "about",
+          "through",
+          "into"
+        ],
+        [
+          "Paris",
+          "France",
+          "city",
+          "place"
+        ]
+      ],
+      "mistakeTags": [
+        "past_perfect",
+        "had_done"
+      ],
+      "audioPath": "assets/audio/grammar/upper_01_past_perfect/014.mp3"
+    },
+    {
+      "id": "t1_16",
+      "type": "sentenceAssembly",
+      "question": "Я не получал такого предложения раньше",
+      "correctAnswer": "I had not received such an offer before",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "had",
+          "have",
+          "did",
+          "was"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "don't"
+        ],
+        [
+          "received",
+          "receive",
+          "got",
+          "taken"
+        ],
+        [
+          "such",
+          "this",
+          "that",
+          "any"
+        ],
+        [
+          "an",
+          "the",
+          "a",
+          "this"
+        ],
+        [
+          "offer",
+          "deal",
+          "proposal",
+          "contract"
+        ],
+        [
+          "before",
+          "ago",
+          "early",
+          "yet"
+        ]
+      ],
+      "mistakeTags": [
+        "past_perfect",
+        "had_done"
+      ],
+      "audioPath": "assets/audio/grammar/upper_01_past_perfect/015.mp3"
+    },
+    {
+      "id": "t1_17",
+      "type": "sentenceAssembly",
+      "question": "Они устали после того, как бегали",
+      "correctAnswer": "They were tired after they had run",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "I",
+          "You",
+          "One"
+        ],
+        [
+          "were",
+          "was",
+          "had",
+          "are"
+        ],
+        [
+          "tired",
+          "tire",
+          "sleepy",
+          "sad"
+        ],
+        [
+          "after",
+          "before",
+          "when",
+          "then"
+        ],
+        [
+          "they",
+          "them",
+          "their",
+          "we"
+        ],
+        [
+          "had",
+          "have",
+          "did",
+          "were"
+        ],
+        [
+          "run",
+          "ran",
+          "running",
+          "jog"
+        ]
+      ],
+      "mistakeTags": [
+        "past_perfect",
+        "had_done"
+      ],
+      "audioPath": "assets/audio/grammar/upper_01_past_perfect/016.mp3"
+    },
+    {
+      "id": "t1_18",
+      "type": "sentenceAssembly",
+      "question": "Она приготовила ужин до того, как я пришел",
+      "correctAnswer": "She had cooked dinner before I arrived",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "I",
+          "He",
+          "It"
+        ],
+        [
+          "had",
+          "has",
+          "was",
+          "did"
+        ],
+        [
+          "cooked",
+          "cook",
+          "made",
+          "make"
+        ],
+        [
+          "dinner",
+          "lunch",
+          "food",
+          "meal"
+        ],
+        [
+          "before",
+          "after",
+          "when",
+          "until"
+        ],
+        [
+          "I",
+          "She",
+          "He",
+          "It"
+        ],
+        [
+          "arrived",
+          "come",
+          "came",
+          "reach"
+        ]
+      ],
+      "mistakeTags": [
+        "past_perfect",
+        "had_done"
+      ],
+      "audioPath": "assets/audio/grammar/upper_01_past_perfect/017.mp3"
+    },
+    {
+      "id": "t1_19",
+      "type": "sentenceAssembly",
+      "question": "Я думал что проект уже завершён",
+      "correctAnswer": "I thought that the project had already finished",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "thought",
+          "hoped",
+          "knew",
+          "said"
+        ],
+        [
+          "that",
+          "when",
+          "if",
+          "why"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "project",
+          "task",
+          "work",
+          "plan"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "did"
+        ],
+        [
+          "already",
+          "just",
+          "never",
+          "still"
+        ],
+        [
+          "finished",
+          "ended",
+          "started",
+          "failed"
+        ]
+      ],
+      "mistakeTags": [
+        "past_perfect",
+        "had_done"
+      ],
+      "audioPath": "assets/audio/grammar/upper_01_past_perfect/018.mp3"
+    },
+    {
+      "id": "t1_20",
+      "type": "sentenceAssembly",
+      "question": "Он не знал, что она вышла замуж",
+      "correctAnswer": "He did not know that she had got married",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "I",
+          "They",
+          "You"
+        ],
+        [
+          "did",
+          "do",
+          "had",
+          "was"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "n't"
+        ],
+        [
+          "know",
+          "knew",
+          "known",
+          "think"
+        ],
+        [
+          "that",
+          "this",
+          "what",
+          "which"
+        ],
+        [
+          "she",
+          "her",
+          "hers",
+          "he"
+        ],
+        [
+          "had",
+          "has",
+          "was",
+          "did"
+        ],
+        [
+          "got",
+          "get",
+          "getting",
+          "become"
+        ],
+        [
+          "married",
+          "marry",
+          "wedding",
+          "wife"
+        ]
+      ],
+      "mistakeTags": [
+        "past_perfect",
+        "had_done"
+      ],
+      "audioPath": "assets/audio/grammar/upper_01_past_perfect/019.mp3"
+    },
+    {
+      "id": "t1_21",
+      "type": "sentenceAssembly",
+      "question": "Мы были друзьями много лет (к тому моменту)",
+      "correctAnswer": "We had been friends for many years",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "I",
+          "She",
+          "He"
+        ],
+        [
+          "had",
+          "have",
+          "were",
+          "are"
+        ],
+        [
+          "been",
+          "be",
+          "was",
+          "gone"
+        ],
+        [
+          "friends",
+          "friend",
+          "friendly",
+          "pal"
+        ],
+        [
+          "for",
+          "since",
+          "in",
+          "during"
+        ],
+        [
+          "many",
+          "much",
+          "lot",
+          "plenty"
+        ],
+        [
+          "years",
+          "year",
+          "days",
+          "time"
+        ]
+      ],
+      "mistakeTags": [
+        "past_perfect",
+        "had_done"
+      ],
+      "audioPath": "assets/audio/grammar/upper_01_past_perfect/020.mp3"
+    },
+    {
+      "id": "t1_22",
+      "type": "sentenceAssembly",
+      "question": "Она проверила данные перед тем как отправить письмо",
+      "correctAnswer": "She had checked the data before she sent the email",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "I",
+          "He",
+          "We"
+        ],
+        [
+          "had",
+          "has",
+          "was",
+          "did"
+        ],
+        [
+          "checked",
+          "check",
+          "verified",
+          "reviewed"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "data",
+          "files",
+          "numbers",
+          "report"
+        ],
+        [
+          "before",
+          "after",
+          "when",
+          "until"
+        ],
+        [
+          "she",
+          "her",
+          "he",
+          "I"
+        ],
+        [
+          "sent",
+          "send",
+          "wrote",
+          "posted"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "email",
+          "letter",
+          "message",
+          "report"
+        ]
+      ],
+      "mistakeTags": [
+        "past_perfect",
+        "had_done"
+      ],
+      "audioPath": "assets/audio/grammar/upper_01_past_perfect/021.mp3"
+    },
+    {
+      "id": "t1_23",
+      "type": "sentenceAssembly",
+      "question": "Я никогда не был там раньше",
+      "correctAnswer": "I had never been there before",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "They",
+          "You",
+          "One"
+        ],
+        [
+          "had",
+          "have",
+          "was",
+          "did"
+        ],
+        [
+          "never",
+          "ever",
+          "not",
+          "no"
+        ],
+        [
+          "been",
+          "be",
+          "gone",
+          "was"
+        ],
+        [
+          "there",
+          "here",
+          "place",
+          "where"
+        ],
+        [
+          "before",
+          "ago",
+          "early",
+          "first"
+        ]
+      ],
+      "mistakeTags": [
+        "past_perfect",
+        "had_done"
+      ],
+      "audioPath": "assets/audio/grammar/upper_01_past_perfect/022.mp3"
+    },
+    {
+      "id": "t1_24",
+      "type": "sentenceAssembly",
+      "question": "У него не было денег, потому что он потерял кошелек",
+      "correctAnswer": "He had no money because he had lost his wallet",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "I",
+          "She",
+          "It"
+        ],
+        [
+          "had",
+          "has",
+          "was",
+          "did"
+        ],
+        [
+          "no",
+          "not",
+          "any",
+          "some"
+        ],
+        [
+          "money",
+          "cash",
+          "coin",
+          "rich"
+        ],
+        [
+          "because",
+          "why",
+          "so",
+          "but"
+        ],
+        [
+          "he",
+          "him",
+          "his",
+          "I"
+        ],
+        [
+          "had",
+          "has",
+          "was",
+          "did"
+        ],
+        [
+          "lost",
+          "lose",
+          "missed",
+          "losing"
+        ],
+        [
+          "his",
+          "him",
+          "my",
+          "her"
+        ],
+        [
+          "wallet",
+          "purse",
+          "bag",
+          "pocket"
+        ]
+      ],
+      "mistakeTags": [
+        "past_perfect",
+        "had_done"
+      ],
+      "audioPath": "assets/audio/grammar/upper_01_past_perfect/023.mp3"
+    },
+    {
+      "id": "t1_25",
+      "type": "sentenceAssembly",
+      "question": "Она уже прочитала письмо",
+      "correctAnswer": "She had already read the letter",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "I",
+          "He",
+          "We"
+        ],
+        [
+          "had",
+          "has",
+          "was",
+          "did"
+        ],
+        [
+          "already",
+          "just",
+          "yet",
+          "now"
+        ],
+        [
+          "read",
+          "reads",
+          "reading",
+          "write"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "letter",
+          "mail",
+          "message",
+          "text"
+        ]
+      ],
+      "mistakeTags": [
+        "past_perfect",
+        "had_done"
+      ],
+      "audioPath": "assets/audio/grammar/upper_01_past_perfect/024.mp3"
+    },
+    {
+      "id": "t1_26",
+      "type": "sentenceAssembly",
+      "question": "Мы закончили проект до дедлайна",
+      "correctAnswer": "We had finished the project before the deadline",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "I",
+          "They",
+          "You"
+        ],
+        [
+          "had",
+          "have",
+          "were",
+          "did"
+        ],
+        [
+          "finished",
+          "finish",
+          "done",
+          "end"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "project",
+          "work",
+          "task",
+          "job"
+        ],
+        [
+          "before",
+          "after",
+          "by",
+          "until"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "deadline",
+          "time",
+          "date",
+          "limit"
+        ]
+      ],
+      "mistakeTags": [
+        "past_perfect",
+        "had_done"
+      ],
+      "audioPath": "assets/audio/grammar/upper_01_past_perfect/025.mp3"
+    },
+    {
+      "id": "t1_27",
+      "type": "sentenceAssembly",
+      "question": "Автобус только что уехал когда мы пришли",
+      "correctAnswer": "The bus had just left when we arrived",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "bus",
+          "train",
+          "taxi",
+          "plane"
+        ],
+        [
+          "had",
+          "has",
+          "have",
+          "was"
+        ],
+        [
+          "just",
+          "already",
+          "never",
+          "still"
+        ],
+        [
+          "left",
+          "gone",
+          "arrived",
+          "started"
+        ],
+        [
+          "when",
+          "before",
+          "after",
+          "until"
+        ],
+        [
+          "we",
+          "I",
+          "he",
+          "they"
+        ],
+        [
+          "arrived",
+          "came",
+          "left",
+          "called"
+        ]
+      ],
+      "mistakeTags": [
+        "past_perfect",
+        "had_done"
+      ],
+      "audioPath": "assets/audio/grammar/upper_01_past_perfect/026.mp3"
+    },
+    {
+      "id": "t1_28",
+      "type": "sentenceAssembly",
+      "question": "Я не видел ее 5 лет",
+      "correctAnswer": "I had not seen her for five years",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "had",
+          "have",
+          "did",
+          "was"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "don't"
+        ],
+        [
+          "seen",
+          "see",
+          "saw",
+          "watch"
+        ],
+        [
+          "her",
+          "she",
+          "him",
+          "his"
+        ],
+        [
+          "for",
+          "since",
+          "in",
+          "during"
+        ],
+        [
+          "five",
+          "5",
+          "fifth",
+          "fives"
+        ],
+        [
+          "years",
+          "year",
+          "time",
+          "days"
+        ]
+      ],
+      "mistakeTags": [
+        "past_perfect",
+        "had_done"
+      ],
+      "audioPath": "assets/audio/grammar/upper_01_past_perfect/027.mp3"
+    },
+    {
+      "id": "t1_29",
+      "type": "sentenceAssembly",
+      "question": "Она была счастлива, что прошла тест",
+      "correctAnswer": "She was happy that she had passed the test",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "I",
+          "They",
+          "You"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "had"
+        ],
+        [
+          "happy",
+          "glad",
+          "sad",
+          "good"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "this"
+        ],
+        [
+          "she",
+          "her",
+          "hers",
+          "it"
+        ],
+        [
+          "had",
+          "has",
+          "did",
+          "was"
+        ],
+        [
+          "passed",
+          "pass",
+          "done",
+          "take"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "test",
+          "exam",
+          "check",
+          "task"
+        ]
+      ],
+      "mistakeTags": [
+        "past_perfect",
+        "had_done"
+      ],
+      "audioPath": "assets/audio/grammar/upper_01_past_perfect/028.mp3"
+    },
+    {
+      "id": "t1_30",
+      "type": "sentenceAssembly",
+      "question": "Когда они пришли, мы уже поели",
+      "correctAnswer": "When they arrived we had already eaten",
+      "options": [],
+      "variants": [
+        [
+          "When",
+          "Where",
+          "What",
+          "Why"
+        ],
+        [
+          "they",
+          "them",
+          "their",
+          "we"
+        ],
+        [
+          "arrived",
+          "come",
+          "came",
+          "reach"
+        ],
+        [
+          "we",
+          "us",
+          "our",
+          "I"
+        ],
+        [
+          "had",
+          "have",
+          "were",
+          "did"
+        ],
+        [
+          "already",
+          "just",
+          "yet",
+          "now"
+        ],
+        [
+          "eaten",
+          "eat",
+          "ate",
+          "food"
+        ]
+      ],
+      "mistakeTags": [
+        "past_perfect",
+        "had_done"
+      ],
+      "audioPath": "assets/audio/grammar/upper_01_past_perfect/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionUpper01PastPerfect",
+  "theoryQuiz": [
+    {
+      "id": "tq_01",
+      "type": "multipleChoice",
+      "question": "Какая формула Past Perfect?",
+      "options": [
+        "have + V3",
+        "had + V3",
+        "will have + V3",
+        "was + V-ing"
+      ],
+      "correctIndex": 1,
+      "explanation": "Past Perfect образуется с помощью had + V3 (третья форма глагола)."
+    },
+    {
+      "id": "tq_02",
+      "type": "trueFalse",
+      "question": "Past Perfect используется для действия, которое произошло ДО другого действия в прошлом.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Именно так: Past Perfect — это «предпрошедшее» время, действие случилось раньше другого прошлого события."
+    },
+    {
+      "id": "tq_03",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: 'When I arrived, the train ___ already left.'",
+      "options": [
+        "has",
+        "have",
+        "had",
+        "was"
+      ],
+      "correctIndex": 2,
+      "explanation": "Поезд ушел ДО того, как я приехал, поэтому используем had: had already left."
+    },
+    {
+      "id": "tq_04",
+      "type": "multipleChoice",
+      "question": "Какое слово-маркер НЕ характерно для Past Perfect?",
+      "options": [
+        "by the time",
+        "before",
+        "tomorrow",
+        "already"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tomorrow — маркер будущего времени. Past Perfect использует by the time, before, after, already, just."
+    },
+    {
+      "id": "tq_05",
+      "type": "trueFalse",
+      "question": "В предложении 'She had finished her work before he came' действие 'finished' произошло раньше 'came'.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Had finished (Past Perfect) показывает более раннее действие, came (Past Simple) — более позднее."
+    },
+    {
+      "id": "tq_06",
+      "type": "multipleChoice",
+      "question": "Как образуется отрицание в Past Perfect?",
+      "options": [
+        "had not + V1",
+        "had not + V3",
+        "did not have + V3",
+        "was not + V3"
+      ],
+      "correctIndex": 1,
+      "explanation": "Отрицание: had not (hadn't) + V3. Например: I had not finished."
+    },
+    {
+      "id": "tq_07",
+      "type": "trueFalse",
+      "question": "'He has left before I arrived' — это правильное использование Past Perfect.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "Неверно. Нужно had left, а не has left. Past Perfect требует had, а не has."
+    },
+    {
+      "id": "tq_08",
+      "type": "multipleChoice",
+      "question": "Выберите правильный перевод: 'Я никогда не видел этого раньше (к тому моменту)'.",
+      "options": [
+        "I never saw this before.",
+        "I have never seen this before.",
+        "I had never seen this before.",
+        "I was never seeing this before."
+      ],
+      "correctIndex": 2,
+      "explanation": "Для описания опыта к определённому моменту в прошлом используется had + never + V3."
+    },
+    {
+      "id": "tq_09",
+      "type": "multipleChoice",
+      "question": "Как построить вопрос в Past Perfect?",
+      "options": [
+        "Did + subject + had + V3?",
+        "Had + subject + V3?",
+        "Have + subject + V3?",
+        "Was + subject + V3?"
+      ],
+      "correctIndex": 1,
+      "explanation": "Вопрос строится инверсией: Had + подлежащее + V3? Например: Had you finished?"
+    },
+    {
+      "id": "tq_10",
+      "type": "trueFalse",
+      "question": "Past Perfect и Past Simple можно использовать взаимозаменяемо без изменения смысла.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "Нет. Past Perfect подчёркивает, что одно действие произошло РАНЬШЕ другого. Past Simple — основная линия событий."
+    }
+  ]
+}

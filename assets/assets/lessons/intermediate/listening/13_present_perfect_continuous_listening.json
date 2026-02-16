@@ -1,0 +1,461 @@
+{
+  "id": "intermediate_listening_13_present_perfect_continuous",
+  "title": "Present Perfect Continuous",
+  "description": "Слушайте действия, которые начались в прошлом и продолжаются сейчас.",
+  "order": 13,
+  "level": "intermediate",
+  "imageUrl": "assets/images/lessons/present_perfect_continuous.png",
+  "tasks": [
+    {
+      "id": "t13_01",
+      "audioText": "Look at Mark — he's completely exhausted. He has been running for over an hour.",
+      "transcript": "He has been running for over an hour.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He started running more than an hour ago and just stopped."
+        },
+        {
+          "id": "o2",
+          "text": "He ran for exactly one hour yesterday."
+        },
+        {
+          "id": "o3",
+          "text": "He is about to start running soon."
+        },
+        {
+          "id": "o4",
+          "text": "He runs every hour as part of his routine."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Has been running for over an hour' means the action started more than an hour ago and has just finished or is still happening.",
+      "mistakeTags": [
+        "sports",
+        "present_perfect_continuous"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_13_present_perfect_continuous/t13_01.mp3"
+    },
+    {
+      "id": "t13_02",
+      "audioText": "The kitchen is a mess. My sister has been baking cakes since morning.",
+      "transcript": "My sister has been baking cakes since morning.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She baked one cake this morning."
+        },
+        {
+          "id": "o2",
+          "text": "She started baking in the morning and is still baking now."
+        },
+        {
+          "id": "o3",
+          "text": "She will bake cakes tomorrow morning."
+        },
+        {
+          "id": "o4",
+          "text": "She finished baking before morning."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Has been baking since morning' means the action started in the morning and continues up to now.",
+      "mistakeTags": [
+        "cooking",
+        "present_perfect_continuous"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_13_present_perfect_continuous/t13_02.mp3"
+    },
+    {
+      "id": "t13_03",
+      "audioText": "Why are your eyes so red? I have been studying all night for my exam.",
+      "transcript": "I have been studying all night for my exam.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "I studied for a short time last night."
+        },
+        {
+          "id": "o2",
+          "text": "I plan to study tonight for my exam."
+        },
+        {
+          "id": "o3",
+          "text": "I spent the entire night studying and it shows."
+        },
+        {
+          "id": "o4",
+          "text": "I always study at night before exams."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Have been studying all night' shows a long continuous action with a visible result — red eyes.",
+      "mistakeTags": [
+        "education",
+        "present_perfect_continuous"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_13_present_perfect_continuous/t13_03.mp3"
+    },
+    {
+      "id": "t13_04",
+      "audioText": "The ground is very wet outside. It has been raining since yesterday evening.",
+      "transcript": "It has been raining since yesterday evening.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "It rained only yesterday evening and stopped."
+        },
+        {
+          "id": "o2",
+          "text": "It will rain starting this evening."
+        },
+        {
+          "id": "o3",
+          "text": "The rain started yesterday evening and continues now."
+        },
+        {
+          "id": "o4",
+          "text": "It rained for a few minutes yesterday."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Has been raining since yesterday evening' means rain started then and is still falling now.",
+      "mistakeTags": [
+        "weather",
+        "present_perfect_continuous"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_13_present_perfect_continuous/t13_04.mp3"
+    },
+    {
+      "id": "t13_05",
+      "audioText": "Tom looks very tired today. He has been working overtime for three weeks.",
+      "transcript": "He has been working overtime for three weeks.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He worked extra hours during the past three weeks and still does."
+        },
+        {
+          "id": "o2",
+          "text": "He worked overtime only once, three weeks ago."
+        },
+        {
+          "id": "o3",
+          "text": "He will start working overtime in three weeks."
+        },
+        {
+          "id": "o4",
+          "text": "He stopped working three weeks ago."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Has been working overtime for three weeks' shows a continuous action over a period that is still relevant.",
+      "mistakeTags": [
+        "work",
+        "present_perfect_continuous"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_13_present_perfect_continuous/t13_05.mp3"
+    },
+    {
+      "id": "t13_06",
+      "audioText": "Sarah is very good at Japanese now. She has been learning it for two years.",
+      "transcript": "She has been learning it for two years.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She learned Japanese two years ago and stopped."
+        },
+        {
+          "id": "o2",
+          "text": "She will begin learning Japanese in two years."
+        },
+        {
+          "id": "o3",
+          "text": "She started learning Japanese two years ago and still learns it."
+        },
+        {
+          "id": "o4",
+          "text": "She studied Japanese for only two months."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Has been learning for two years' means the learning started two years ago and continues now.",
+      "mistakeTags": [
+        "education",
+        "present_perfect_continuous"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_13_present_perfect_continuous/t13_06.mp3"
+    },
+    {
+      "id": "t13_07",
+      "audioText": "I called you several times. I have been trying to reach you since lunchtime.",
+      "transcript": "I have been trying to reach you since lunchtime.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "I tried to call you once at lunch."
+        },
+        {
+          "id": "o2",
+          "text": "I have been making repeated attempts to contact you from lunchtime until now."
+        },
+        {
+          "id": "o3",
+          "text": "I will try to reach you after lunch."
+        },
+        {
+          "id": "o4",
+          "text": "You have been trying to reach me since lunch."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Have been trying since lunchtime' means repeated ongoing attempts from lunchtime to the present.",
+      "mistakeTags": [
+        "communication",
+        "present_perfect_continuous"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_13_present_perfect_continuous/t13_07.mp3"
+    },
+    {
+      "id": "t13_08",
+      "audioText": "The children are covered in paint. They have been painting pictures all afternoon.",
+      "transcript": "They have been painting pictures all afternoon.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "They painted one picture quickly this afternoon."
+        },
+        {
+          "id": "o2",
+          "text": "They spent the whole afternoon painting and it is visible."
+        },
+        {
+          "id": "o3",
+          "text": "They will paint pictures tomorrow afternoon."
+        },
+        {
+          "id": "o4",
+          "text": "They finished painting before the afternoon."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Have been painting all afternoon' describes a continuous activity throughout the afternoon with visible evidence.",
+      "mistakeTags": [
+        "hobbies",
+        "present_perfect_continuous"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_13_present_perfect_continuous/t13_08.mp3"
+    },
+    {
+      "id": "t13_09",
+      "audioText": "My neighbour is really annoyed. Someone has been playing loud music for hours.",
+      "transcript": "Someone has been playing loud music for hours.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Someone played music for a few minutes and stopped."
+        },
+        {
+          "id": "o2",
+          "text": "Nobody has been playing any music."
+        },
+        {
+          "id": "o3",
+          "text": "Someone will play loud music later tonight."
+        },
+        {
+          "id": "o4",
+          "text": "Loud music has been going on for a long time and has not stopped."
+        }
+      ],
+      "correctIndex": 3,
+      "explanation": "'Has been playing for hours' indicates a continuous annoying action lasting many hours up to now.",
+      "mistakeTags": [
+        "home",
+        "present_perfect_continuous"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_13_present_perfect_continuous/t13_09.mp3"
+    },
+    {
+      "id": "t13_10",
+      "audioText": "Doctor, I feel terrible. I have been coughing for five days now.",
+      "transcript": "I have been coughing for five days now.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "I coughed once five days ago."
+        },
+        {
+          "id": "o2",
+          "text": "My cough started five days ago and I still have it."
+        },
+        {
+          "id": "o3",
+          "text": "I will probably start coughing in five days."
+        },
+        {
+          "id": "o4",
+          "text": "I had a cough but it went away five days ago."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Have been coughing for five days' means the coughing started five days ago and is still happening.",
+      "mistakeTags": [
+        "health",
+        "present_perfect_continuous"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_13_present_perfect_continuous/t13_10.mp3"
+    },
+    {
+      "id": "t13_11",
+      "audioText": "We can see a lot of progress on the building. They have been constructing it since January.",
+      "transcript": "They have been constructing it since January.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "They built the whole thing in January."
+        },
+        {
+          "id": "o2",
+          "text": "Construction will begin next January."
+        },
+        {
+          "id": "o3",
+          "text": "The construction started in January and is still in progress."
+        },
+        {
+          "id": "o4",
+          "text": "They stopped constructing the building in January."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Have been constructing since January' means work began in January and continues to the present.",
+      "mistakeTags": [
+        "city",
+        "present_perfect_continuous"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_13_present_perfect_continuous/t13_11.mp3"
+    },
+    {
+      "id": "t13_12",
+      "audioText": "You smell like smoke. Have you been smoking again?",
+      "transcript": "Have you been smoking again?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Will you smoke in the future?"
+        },
+        {
+          "id": "o2",
+          "text": "Did you smoke a long time ago?"
+        },
+        {
+          "id": "o3",
+          "text": "The speaker asks if the person has recently been smoking."
+        },
+        {
+          "id": "o4",
+          "text": "The speaker offers the person a cigarette."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Have you been smoking' is a question about a recent continuous action with visible evidence — the smell.",
+      "mistakeTags": [
+        "health",
+        "present_perfect_continuous"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_13_present_perfect_continuous/t13_12.mp3"
+    },
+    {
+      "id": "t13_13",
+      "audioText": "Lisa speaks English almost fluently now. She has been practising every day for six months.",
+      "transcript": "She has been practising every day for six months.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She practised only once six months ago."
+        },
+        {
+          "id": "o2",
+          "text": "She has had daily practice over the last six months."
+        },
+        {
+          "id": "o3",
+          "text": "She will start practising in six months."
+        },
+        {
+          "id": "o4",
+          "text": "She stopped practising six months ago."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Has been practising every day for six months' means regular ongoing practice over a six-month period up to now.",
+      "mistakeTags": [
+        "education",
+        "present_perfect_continuous"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_13_present_perfect_continuous/t13_13.mp3"
+    },
+    {
+      "id": "t13_14",
+      "audioText": "I'm sorry I'm late to the meeting. I have been waiting for the bus for forty minutes.",
+      "transcript": "I have been waiting for the bus for forty minutes.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "I waited for the bus for only five minutes."
+        },
+        {
+          "id": "o2",
+          "text": "I took a taxi instead of the bus."
+        },
+        {
+          "id": "o3",
+          "text": "The bus wait lasted forty minutes, which made me late."
+        },
+        {
+          "id": "o4",
+          "text": "I have been driving my car for forty minutes."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Have been waiting for forty minutes' shows a long continuous wait that caused the delay.",
+      "mistakeTags": [
+        "transport",
+        "present_perfect_continuous"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_13_present_perfect_continuous/t13_14.mp3"
+    },
+    {
+      "id": "t13_15",
+      "audioText": "The project is almost done. Our team has been developing this app since last summer.",
+      "transcript": "Our team has been developing this app since last summer.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The team developed the app in one day last summer."
+        },
+        {
+          "id": "o2",
+          "text": "The team will start developing the app next summer."
+        },
+        {
+          "id": "o3",
+          "text": "The team finished the app last summer."
+        },
+        {
+          "id": "o4",
+          "text": "Development started last summer and has been ongoing until now."
+        }
+      ],
+      "correctIndex": 3,
+      "explanation": "'Has been developing since last summer' means work began last summer and continues to the present.",
+      "mistakeTags": [
+        "technology",
+        "present_perfect_continuous"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_13_present_perfect_continuous/t13_15.mp3"
+    }
+  ],
+  "short_description": "Действия от прошлого до настоящего: have/has been + verb-ing"
+}

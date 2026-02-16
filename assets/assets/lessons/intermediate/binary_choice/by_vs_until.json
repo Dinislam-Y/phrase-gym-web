@@ -1,0 +1,400 @@
+{
+  "id": "intermediate_bc_12_prepositions_advanced",
+  "title": "By vs Until",
+  "description": "By или Until? Крайний срок или всё время до момента — разберись раз и навсегда.",
+  "order": 13,
+  "level": "intermediate",
+  "imageUrl": null,
+  "tasks": [
+    {
+      "id": "bvu_1",
+      "question": "I need this report ___ Friday.",
+      "optionA": "BY",
+      "optionB": "UNTIL",
+      "correctIndex": 0,
+      "explanation": "Крайний срок (дедлайн) — by Friday.",
+      "tags": [
+        "by_vs_until",
+        "by",
+        "work"
+      ]
+    },
+    {
+      "id": "bvu_2",
+      "question": "I'll wait here ___ you come back.",
+      "optionA": "BY",
+      "optionB": "UNTIL",
+      "correctIndex": 1,
+      "explanation": "Ждать вплоть до момента возвращения — until.",
+      "tags": [
+        "by_vs_until",
+        "until",
+        "daily_life"
+      ]
+    },
+    {
+      "id": "bvu_3",
+      "question": "Please finish the task ___ noon.",
+      "optionA": "BY",
+      "optionB": "UNTIL",
+      "correctIndex": 0,
+      "explanation": "Дедлайн — не позднее полудня — by.",
+      "tags": [
+        "by_vs_until",
+        "by",
+        "work"
+      ]
+    },
+    {
+      "id": "bvu_4",
+      "question": "The shop is open ___ ten o'clock.",
+      "optionA": "BY",
+      "optionB": "UNTIL",
+      "correctIndex": 1,
+      "explanation": "Магазин работает вплоть до 10 — until.",
+      "tags": [
+        "by_vs_until",
+        "until",
+        "shopping"
+      ]
+    },
+    {
+      "id": "bvu_5",
+      "question": "He should be back ___ six o'clock.",
+      "optionA": "BY",
+      "optionB": "UNTIL",
+      "correctIndex": 0,
+      "explanation": "Вернётся не позднее шести — by.",
+      "tags": [
+        "by_vs_until",
+        "by",
+        "daily_life"
+      ]
+    },
+    {
+      "id": "bvu_6",
+      "question": "We danced ___ midnight at the party.",
+      "optionA": "BY",
+      "optionB": "UNTIL",
+      "correctIndex": 1,
+      "explanation": "Танцевали вплоть до полуночи — until.",
+      "tags": [
+        "by_vs_until",
+        "until",
+        "social"
+      ]
+    },
+    {
+      "id": "bvu_7",
+      "question": "Can you send the file ___ tomorrow morning?",
+      "optionA": "BY",
+      "optionB": "UNTIL",
+      "correctIndex": 0,
+      "explanation": "Крайний срок отправки — by tomorrow morning.",
+      "tags": [
+        "by_vs_until",
+        "by",
+        "work"
+      ]
+    },
+    {
+      "id": "bvu_8",
+      "question": "She studied ___ late at night.",
+      "optionA": "BY",
+      "optionB": "UNTIL",
+      "correctIndex": 1,
+      "explanation": "Училась вплоть до поздней ночи — until.",
+      "tags": [
+        "by_vs_until",
+        "until",
+        "school"
+      ]
+    },
+    {
+      "id": "bvu_9",
+      "question": "I'll have finished this ___ the end of the day.",
+      "optionA": "BY",
+      "optionB": "UNTIL",
+      "correctIndex": 0,
+      "explanation": "Закончу к концу дня (дедлайн) — by.",
+      "tags": [
+        "by_vs_until",
+        "by",
+        "work"
+      ]
+    },
+    {
+      "id": "bvu_10",
+      "question": "Don't leave ___ I say so.",
+      "optionA": "BY",
+      "optionB": "UNTIL",
+      "correctIndex": 1,
+      "explanation": "Не уходи вплоть до моего разрешения — until.",
+      "tags": [
+        "by_vs_until",
+        "until",
+        "communication"
+      ]
+    },
+    {
+      "id": "bvu_11",
+      "question": "The project must be done ___ next Monday.",
+      "optionA": "BY",
+      "optionB": "UNTIL",
+      "correctIndex": 0,
+      "explanation": "Must be done — крайний срок завершения — by.",
+      "tags": [
+        "by_vs_until",
+        "by",
+        "work"
+      ]
+    },
+    {
+      "id": "bvu_12",
+      "question": "He won't be available ___ three o'clock.",
+      "optionA": "BY",
+      "optionB": "UNTIL",
+      "correctIndex": 1,
+      "explanation": "Недоступен вплоть до трёх — until.",
+      "tags": [
+        "by_vs_until",
+        "until",
+        "work"
+      ]
+    },
+    {
+      "id": "bvu_13",
+      "question": "I'll pay you back ___ the end of the month.",
+      "optionA": "BY",
+      "optionB": "UNTIL",
+      "correctIndex": 0,
+      "explanation": "Верну деньги не позднее конца месяца — by.",
+      "tags": [
+        "by_vs_until",
+        "by",
+        "daily_life"
+      ]
+    },
+    {
+      "id": "bvu_14",
+      "question": "The kids played outside ___ it got dark.",
+      "optionA": "BY",
+      "optionB": "UNTIL",
+      "correctIndex": 1,
+      "explanation": "Играли вплоть до наступления темноты — until.",
+      "tags": [
+        "by_vs_until",
+        "until",
+        "daily_life"
+      ]
+    },
+    {
+      "id": "bvu_15",
+      "question": "You should apply ___ the deadline.",
+      "optionA": "BY",
+      "optionB": "UNTIL",
+      "correctIndex": 0,
+      "explanation": "Подать заявку не позднее дедлайна — by.",
+      "tags": [
+        "by_vs_until",
+        "by",
+        "work"
+      ]
+    },
+    {
+      "id": "bvu_16",
+      "question": "I'll stay with you ___ you feel better.",
+      "optionA": "BY",
+      "optionB": "UNTIL",
+      "correctIndex": 1,
+      "explanation": "Останусь до тех пор, пока не станет лучше — until.",
+      "tags": [
+        "by_vs_until",
+        "until",
+        "health"
+      ]
+    },
+    {
+      "id": "bvu_17",
+      "question": "She had read the book ___ lunchtime.",
+      "optionA": "BY",
+      "optionB": "UNTIL",
+      "correctIndex": 0,
+      "explanation": "Прочитала к обеду (результат к сроку) — by.",
+      "tags": [
+        "by_vs_until",
+        "by",
+        "daily_life"
+      ]
+    },
+    {
+      "id": "bvu_18",
+      "question": "We talked ___ the sun came up.",
+      "optionA": "BY",
+      "optionB": "UNTIL",
+      "correctIndex": 1,
+      "explanation": "Разговаривали вплоть до восхода — until.",
+      "tags": [
+        "by_vs_until",
+        "until",
+        "social"
+      ]
+    },
+    {
+      "id": "bvu_19",
+      "question": "The repairs should be finished ___ Wednesday.",
+      "optionA": "BY",
+      "optionB": "UNTIL",
+      "correctIndex": 0,
+      "explanation": "Ремонт закончат не позднее среды — by.",
+      "tags": [
+        "by_vs_until",
+        "by",
+        "home"
+      ]
+    },
+    {
+      "id": "bvu_20",
+      "question": "The offer is valid ___ December 31st.",
+      "optionA": "BY",
+      "optionB": "UNTIL",
+      "correctIndex": 1,
+      "explanation": "Предложение действует вплоть до 31 декабря — until.",
+      "tags": [
+        "by_vs_until",
+        "until",
+        "shopping"
+      ]
+    },
+    {
+      "id": "bvu_21",
+      "question": "I need to book the tickets ___ tonight.",
+      "optionA": "BY",
+      "optionB": "UNTIL",
+      "correctIndex": 0,
+      "explanation": "Забронировать не позднее сегодняшнего вечера — by.",
+      "tags": [
+        "by_vs_until",
+        "by",
+        "travel"
+      ]
+    },
+    {
+      "id": "bvu_22",
+      "question": "He didn't sleep ___ three in the morning.",
+      "optionA": "BY",
+      "optionB": "UNTIL",
+      "correctIndex": 1,
+      "explanation": "Не спал вплоть до трёх ночи — until.",
+      "tags": [
+        "by_vs_until",
+        "until",
+        "daily_life"
+      ]
+    },
+    {
+      "id": "bvu_23",
+      "question": "We had sold all tickets ___ the afternoon.",
+      "optionA": "BY",
+      "optionB": "UNTIL",
+      "correctIndex": 0,
+      "explanation": "Все билеты проданы к дню (результат к моменту) — by.",
+      "tags": [
+        "by_vs_until",
+        "by",
+        "entertainment"
+      ]
+    },
+    {
+      "id": "bvu_24",
+      "question": "Let's wait ___ the rain stops.",
+      "optionA": "BY",
+      "optionB": "UNTIL",
+      "correctIndex": 1,
+      "explanation": "Ждать до тех пор, пока дождь не прекратится — until.",
+      "tags": [
+        "by_vs_until",
+        "until",
+        "weather"
+      ]
+    },
+    {
+      "id": "bvu_25",
+      "question": "He promised to fix it ___ the weekend.",
+      "optionA": "BY",
+      "optionB": "UNTIL",
+      "correctIndex": 0,
+      "explanation": "Починить не позднее выходных — by.",
+      "tags": [
+        "by_vs_until",
+        "by",
+        "home"
+      ]
+    },
+    {
+      "id": "bvu_26",
+      "question": "She won't know the answer ___ she checks.",
+      "optionA": "BY",
+      "optionB": "UNTIL",
+      "correctIndex": 1,
+      "explanation": "Не узнает до тех пор, пока не проверит — until.",
+      "tags": [
+        "by_vs_until",
+        "until",
+        "communication"
+      ]
+    },
+    {
+      "id": "bvu_27",
+      "question": "Can you confirm ___ end of business today?",
+      "optionA": "BY",
+      "optionB": "UNTIL",
+      "correctIndex": 0,
+      "explanation": "Подтвердить не позднее конца рабочего дня — by.",
+      "tags": [
+        "by_vs_until",
+        "by",
+        "work"
+      ]
+    },
+    {
+      "id": "bvu_28",
+      "question": "I'll keep trying ___ I succeed.",
+      "optionA": "BY",
+      "optionB": "UNTIL",
+      "correctIndex": 1,
+      "explanation": "Буду пытаться вплоть до успеха — until.",
+      "tags": [
+        "by_vs_until",
+        "until",
+        "emotions"
+      ]
+    },
+    {
+      "id": "bvu_29",
+      "question": "Everything must be ready ___ the guests arrive.",
+      "optionA": "BY",
+      "optionB": "UNTIL",
+      "correctIndex": 0,
+      "explanation": "Готово к приезду гостей (дедлайн) — by the time.",
+      "tags": [
+        "by_vs_until",
+        "by",
+        "social"
+      ]
+    },
+    {
+      "id": "bvu_30",
+      "question": "We can't start ___ everyone is here.",
+      "optionA": "BY",
+      "optionB": "UNTIL",
+      "correctIndex": 1,
+      "explanation": "Не начнём, пока все не соберутся — until.",
+      "tags": [
+        "by_vs_until",
+        "until",
+        "work"
+      ]
+    }
+  ]
+}

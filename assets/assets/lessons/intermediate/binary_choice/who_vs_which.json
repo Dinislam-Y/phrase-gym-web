@@ -1,0 +1,400 @@
+{
+  "id": "intermediate_bc_11_relative_clauses",
+  "title": "Who vs Which",
+  "description": "Who или Which? Люди или предметы — выбирай правильное местоимение за секунду.",
+  "order": 12,
+  "level": "intermediate",
+  "imageUrl": null,
+  "tasks": [
+    {
+      "id": "wvwc_1",
+      "question": "The girl ___ called you is my sister.",
+      "optionA": "WHO",
+      "optionB": "WHICH",
+      "correctIndex": 0,
+      "explanation": "Girl — человек, поэтому who.",
+      "tags": [
+        "who_vs_which",
+        "who",
+        "family"
+      ]
+    },
+    {
+      "id": "wvwc_2",
+      "question": "The book ___ I bought is really good.",
+      "optionA": "WHO",
+      "optionB": "WHICH",
+      "correctIndex": 1,
+      "explanation": "Book — предмет, поэтому which.",
+      "tags": [
+        "who_vs_which",
+        "which",
+        "daily_life"
+      ]
+    },
+    {
+      "id": "wvwc_3",
+      "question": "The man ___ lives next door is friendly.",
+      "optionA": "WHO",
+      "optionB": "WHICH",
+      "correctIndex": 0,
+      "explanation": "Man — человек, who.",
+      "tags": [
+        "who_vs_which",
+        "who",
+        "home"
+      ]
+    },
+    {
+      "id": "wvwc_4",
+      "question": "The car ___ he drives is very fast.",
+      "optionA": "WHO",
+      "optionB": "WHICH",
+      "correctIndex": 1,
+      "explanation": "Car — предмет, which.",
+      "tags": [
+        "who_vs_which",
+        "which",
+        "daily_life"
+      ]
+    },
+    {
+      "id": "wvwc_5",
+      "question": "I met the teacher ___ taught me English.",
+      "optionA": "WHO",
+      "optionB": "WHICH",
+      "correctIndex": 0,
+      "explanation": "Teacher — человек, who.",
+      "tags": [
+        "who_vs_which",
+        "who",
+        "school"
+      ]
+    },
+    {
+      "id": "wvwc_6",
+      "question": "The movie ___ we watched was boring.",
+      "optionA": "WHO",
+      "optionB": "WHICH",
+      "correctIndex": 1,
+      "explanation": "Movie — предмет, which.",
+      "tags": [
+        "who_vs_which",
+        "which",
+        "entertainment"
+      ]
+    },
+    {
+      "id": "wvwc_7",
+      "question": "The doctor ___ treated me was very kind.",
+      "optionA": "WHO",
+      "optionB": "WHICH",
+      "correctIndex": 0,
+      "explanation": "Doctor — человек, who.",
+      "tags": [
+        "who_vs_which",
+        "who",
+        "health"
+      ]
+    },
+    {
+      "id": "wvwc_8",
+      "question": "The phone ___ I lost was brand new.",
+      "optionA": "WHO",
+      "optionB": "WHICH",
+      "correctIndex": 1,
+      "explanation": "Phone — предмет, which.",
+      "tags": [
+        "who_vs_which",
+        "which",
+        "daily_life"
+      ]
+    },
+    {
+      "id": "wvwc_9",
+      "question": "She's the person ___ helped me most.",
+      "optionA": "WHO",
+      "optionB": "WHICH",
+      "correctIndex": 0,
+      "explanation": "Person — человек, who.",
+      "tags": [
+        "who_vs_which",
+        "who",
+        "social"
+      ]
+    },
+    {
+      "id": "wvwc_10",
+      "question": "The house ___ they sold was very old.",
+      "optionA": "WHO",
+      "optionB": "WHICH",
+      "correctIndex": 1,
+      "explanation": "House — предмет, which.",
+      "tags": [
+        "who_vs_which",
+        "which",
+        "home"
+      ]
+    },
+    {
+      "id": "wvwc_11",
+      "question": "The children ___ were playing are my cousins.",
+      "optionA": "WHO",
+      "optionB": "WHICH",
+      "correctIndex": 0,
+      "explanation": "Children — люди, who.",
+      "tags": [
+        "who_vs_which",
+        "who",
+        "family"
+      ]
+    },
+    {
+      "id": "wvwc_12",
+      "question": "The restaurant ___ we visited was excellent.",
+      "optionA": "WHO",
+      "optionB": "WHICH",
+      "correctIndex": 1,
+      "explanation": "Restaurant — место/предмет, which.",
+      "tags": [
+        "who_vs_which",
+        "which",
+        "food"
+      ]
+    },
+    {
+      "id": "wvwc_13",
+      "question": "The woman ___ answered the phone was polite.",
+      "optionA": "WHO",
+      "optionB": "WHICH",
+      "correctIndex": 0,
+      "explanation": "Woman — человек, who.",
+      "tags": [
+        "who_vs_which",
+        "who",
+        "communication"
+      ]
+    },
+    {
+      "id": "wvwc_14",
+      "question": "The song ___ is playing is my favourite.",
+      "optionA": "WHO",
+      "optionB": "WHICH",
+      "correctIndex": 1,
+      "explanation": "Song — предмет, which.",
+      "tags": [
+        "who_vs_which",
+        "which",
+        "entertainment"
+      ]
+    },
+    {
+      "id": "wvwc_15",
+      "question": "The boy ___ won the race trains every day.",
+      "optionA": "WHO",
+      "optionB": "WHICH",
+      "correctIndex": 0,
+      "explanation": "Boy — человек, who.",
+      "tags": [
+        "who_vs_which",
+        "who",
+        "sport"
+      ]
+    },
+    {
+      "id": "wvwc_16",
+      "question": "The idea ___ she suggested was brilliant.",
+      "optionA": "WHO",
+      "optionB": "WHICH",
+      "correctIndex": 1,
+      "explanation": "Idea — абстрактный предмет, which.",
+      "tags": [
+        "who_vs_which",
+        "which",
+        "work"
+      ]
+    },
+    {
+      "id": "wvwc_17",
+      "question": "Is he the player ___ scored the winning goal?",
+      "optionA": "WHO",
+      "optionB": "WHICH",
+      "correctIndex": 0,
+      "explanation": "Player — человек, who.",
+      "tags": [
+        "who_vs_which",
+        "who",
+        "sport"
+      ]
+    },
+    {
+      "id": "wvwc_18",
+      "question": "The flight ___ was delayed left at midnight.",
+      "optionA": "WHO",
+      "optionB": "WHICH",
+      "correctIndex": 1,
+      "explanation": "Flight — предмет, which.",
+      "tags": [
+        "who_vs_which",
+        "which",
+        "travel"
+      ]
+    },
+    {
+      "id": "wvwc_19",
+      "question": "The students ___ studied hard passed the exam.",
+      "optionA": "WHO",
+      "optionB": "WHICH",
+      "correctIndex": 0,
+      "explanation": "Students — люди, who.",
+      "tags": [
+        "who_vs_which",
+        "who",
+        "school"
+      ]
+    },
+    {
+      "id": "wvwc_20",
+      "question": "The cake ___ she made was delicious.",
+      "optionA": "WHO",
+      "optionB": "WHICH",
+      "correctIndex": 1,
+      "explanation": "Cake — предмет, which.",
+      "tags": [
+        "who_vs_which",
+        "which",
+        "food"
+      ]
+    },
+    {
+      "id": "wvwc_21",
+      "question": "The artist ___ painted this is very famous.",
+      "optionA": "WHO",
+      "optionB": "WHICH",
+      "correctIndex": 0,
+      "explanation": "Artist — человек, who.",
+      "tags": [
+        "who_vs_which",
+        "who",
+        "entertainment"
+      ]
+    },
+    {
+      "id": "wvwc_22",
+      "question": "The project ___ we finished was very complex.",
+      "optionA": "WHO",
+      "optionB": "WHICH",
+      "correctIndex": 1,
+      "explanation": "Project — предмет, which.",
+      "tags": [
+        "who_vs_which",
+        "which",
+        "work"
+      ]
+    },
+    {
+      "id": "wvwc_23",
+      "question": "Anyone ___ needs help can ask me.",
+      "optionA": "WHO",
+      "optionB": "WHICH",
+      "correctIndex": 0,
+      "explanation": "Anyone — подразумевает людей, who.",
+      "tags": [
+        "who_vs_which",
+        "who",
+        "communication"
+      ]
+    },
+    {
+      "id": "wvwc_24",
+      "question": "The company ___ hired her is very big.",
+      "optionA": "WHO",
+      "optionB": "WHICH",
+      "correctIndex": 1,
+      "explanation": "Company — организация (не человек), which.",
+      "tags": [
+        "who_vs_which",
+        "which",
+        "work"
+      ]
+    },
+    {
+      "id": "wvwc_25",
+      "question": "People ___ exercise regularly feel happier.",
+      "optionA": "WHO",
+      "optionB": "WHICH",
+      "correctIndex": 0,
+      "explanation": "People — люди, who.",
+      "tags": [
+        "who_vs_which",
+        "who",
+        "health"
+      ]
+    },
+    {
+      "id": "wvwc_26",
+      "question": "The advice ___ he gave me was very useful.",
+      "optionA": "WHO",
+      "optionB": "WHICH",
+      "correctIndex": 1,
+      "explanation": "Advice — абстрактное понятие, which.",
+      "tags": [
+        "who_vs_which",
+        "which",
+        "communication"
+      ]
+    },
+    {
+      "id": "wvwc_27",
+      "question": "The friend ___ I called didn't pick up.",
+      "optionA": "WHO",
+      "optionB": "WHICH",
+      "correctIndex": 0,
+      "explanation": "Friend — человек, who.",
+      "tags": [
+        "who_vs_which",
+        "who",
+        "social"
+      ]
+    },
+    {
+      "id": "wvwc_28",
+      "question": "The road ___ leads to the coast is scenic.",
+      "optionA": "WHO",
+      "optionB": "WHICH",
+      "correctIndex": 1,
+      "explanation": "Road — предмет, which.",
+      "tags": [
+        "who_vs_which",
+        "which",
+        "travel"
+      ]
+    },
+    {
+      "id": "wvwc_29",
+      "question": "The manager ___ approved the request is new.",
+      "optionA": "WHO",
+      "optionB": "WHICH",
+      "correctIndex": 0,
+      "explanation": "Manager — человек, who.",
+      "tags": [
+        "who_vs_which",
+        "who",
+        "work"
+      ]
+    },
+    {
+      "id": "wvwc_30",
+      "question": "The plan ___ they proposed needs more work.",
+      "optionA": "WHO",
+      "optionB": "WHICH",
+      "correctIndex": 1,
+      "explanation": "Plan — абстрактный предмет, which.",
+      "tags": [
+        "who_vs_which",
+        "which",
+        "work"
+      ]
+    }
+  ]
+}

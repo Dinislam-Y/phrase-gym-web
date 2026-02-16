@@ -1,0 +1,21 @@
+{
+  "level": "beginner",
+  "type": "listening",
+  "lessons": [
+    { "id": "beginner_listening_01_to_be", "file": "01_to_be_listening.json", "order": 1 },
+    { "id": "beginner_listening_02_this_that", "file": "02_this_that_listening.json", "order": 2 },
+    { "id": "beginner_listening_03_have_has", "file": "03_have_has_listening.json", "order": 3 },
+    { "id": "beginner_listening_04_present_simple_positive", "file": "04_present_simple_positive_listening.json", "order": 4 },
+    { "id": "beginner_listening_05_present_simple_negative", "file": "05_present_simple_negative_listening.json", "order": 5 },
+    { "id": "beginner_listening_06_there_is_are", "file": "06_there_is_are_listening.json", "order": 6 },
+    { "id": "beginner_listening_07_imperative_mood", "file": "07_imperative_mood_listening.json", "order": 7 },
+    { "id": "beginner_listening_08_present_simple_questions", "file": "08_present_simple_questions_listening.json", "order": 8 },
+    { "id": "beginner_listening_09_possessive_adjectives", "file": "09_possessive_adjectives_listening.json", "order": 9 },
+    { "id": "beginner_listening_10_plurals", "file": "10_plurals_listening.json", "order": 10 },
+    { "id": "beginner_listening_11_countable_uncountable", "file": "11_countable_uncountable_listening.json", "order": 11 },
+    { "id": "beginner_listening_12_object_pronouns", "file": "12_object_pronouns_listening.json", "order": 12 },
+    { "id": "beginner_listening_13_adverbs_of_frequency", "file": "13_adverbs_of_frequency_listening.json", "order": 13 },
+    { "id": "beginner_listening_14_prepositions_of_place", "file": "14_prepositions_of_place_listening.json", "order": 14 },
+    { "id": "beginner_listening_15_these_those", "file": "15_these_those_listening.json", "order": 15 }
+  ]
+}

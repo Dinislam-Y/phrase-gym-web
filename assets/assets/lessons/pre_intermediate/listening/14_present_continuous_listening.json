@@ -1,0 +1,461 @@
+{
+  "id": "pre_listening_14_present_continuous",
+  "title": "Present Continuous",
+  "description": "Слушайте, что люди делают прямо сейчас в разных ситуациях.",
+  "order": 14,
+  "level": "pre_intermediate",
+  "imageUrl": "assets/images/lessons/present_continuous.png",
+  "tasks": [
+    {
+      "id": "t14_01",
+      "audioText": "Look! Anna is wearing a red dress today.",
+      "transcript": "Anna is wearing a red dress today.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Anna has a red dress on right now."
+        },
+        {
+          "id": "o2",
+          "text": "Anna usually wears a red dress."
+        },
+        {
+          "id": "o3",
+          "text": "Anna wore a red dress yesterday."
+        },
+        {
+          "id": "o4",
+          "text": "Anna never wears red."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Present Continuous shows what is happening at this moment.",
+      "mistakeTags": [
+        "cafe",
+        "present_continuous"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_14_present_continuous/t14_01.mp3"
+    },
+    {
+      "id": "t14_02",
+      "audioText": "Shh! The baby is sleeping in the room.",
+      "transcript": "The baby is sleeping in the room.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The baby is asleep right now."
+        },
+        {
+          "id": "o2",
+          "text": "The baby always sleeps here."
+        },
+        {
+          "id": "o3",
+          "text": "The baby slept yesterday."
+        },
+        {
+          "id": "o4",
+          "text": "The baby is playing."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Is sleeping means right now, at this moment.",
+      "mistakeTags": [
+        "home",
+        "present_continuous"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_14_present_continuous/t14_02.mp3"
+    },
+    {
+      "id": "t14_03",
+      "audioText": "We can't talk now. We are having dinner.",
+      "transcript": "We are having dinner.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "We are eating dinner right now."
+        },
+        {
+          "id": "o2",
+          "text": "We have dinner every day."
+        },
+        {
+          "id": "o3",
+          "text": "We had dinner yesterday."
+        },
+        {
+          "id": "o4",
+          "text": "We are cooking dinner tomorrow."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Are having dinner means at this exact moment.",
+      "mistakeTags": [
+        "restaurant",
+        "present_continuous"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_14_present_continuous/t14_03.mp3"
+    },
+    {
+      "id": "t14_04",
+      "audioText": "Listen! Someone is knocking at the door.",
+      "transcript": "Someone is knocking at the door.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Someone is knocking right now."
+        },
+        {
+          "id": "o2",
+          "text": "Someone knocks every day."
+        },
+        {
+          "id": "o3",
+          "text": "Someone knocked yesterday."
+        },
+        {
+          "id": "o4",
+          "text": "Someone will knock tomorrow."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Is knocking means it is happening at this moment.",
+      "mistakeTags": [
+        "home",
+        "present_continuous"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_14_present_continuous/t14_04.mp3"
+    },
+    {
+      "id": "t14_05",
+      "audioText": "Hurry up! The bus is coming now.",
+      "transcript": "The bus is coming now.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The bus is arriving right now."
+        },
+        {
+          "id": "o2",
+          "text": "The bus comes every day."
+        },
+        {
+          "id": "o3",
+          "text": "The bus came yesterday."
+        },
+        {
+          "id": "o4",
+          "text": "The bus is leaving now."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Is coming means it is happening at this moment.",
+      "mistakeTags": [
+        "bus_station",
+        "present_continuous"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_14_present_continuous/t14_05.mp3"
+    },
+    {
+      "id": "t14_06",
+      "audioText": "I can't answer the phone. I am taking a shower.",
+      "transcript": "I am taking a shower.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "I am in the shower right now."
+        },
+        {
+          "id": "o2",
+          "text": "I always take a shower."
+        },
+        {
+          "id": "o3",
+          "text": "I took a shower yesterday."
+        },
+        {
+          "id": "o4",
+          "text": "I will take a shower later."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Am taking a shower means at this exact moment.",
+      "mistakeTags": [
+        "home",
+        "present_continuous"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_14_present_continuous/t14_06.mp3"
+    },
+    {
+      "id": "t14_07",
+      "audioText": "Look outside! It is raining heavily.",
+      "transcript": "It is raining heavily.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Rain is falling right now."
+        },
+        {
+          "id": "o2",
+          "text": "It always rains here."
+        },
+        {
+          "id": "o3",
+          "text": "It rained yesterday."
+        },
+        {
+          "id": "o4",
+          "text": "It will rain tomorrow."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Is raining means it is happening now.",
+      "mistakeTags": [
+        "street",
+        "present_continuous_weather"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_14_present_continuous/t14_07.mp3"
+    },
+    {
+      "id": "t14_08",
+      "audioText": "The children are playing football in the park right now.",
+      "transcript": "The children are playing football in the park right now.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The kids are playing football at the moment."
+        },
+        {
+          "id": "o2",
+          "text": "The children play football every day."
+        },
+        {
+          "id": "o3",
+          "text": "The children played yesterday."
+        },
+        {
+          "id": "o4",
+          "text": "The children are watching TV."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Are playing means they are playing right now.",
+      "mistakeTags": [
+        "park",
+        "present_continuous"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_14_present_continuous/t14_08.mp3"
+    },
+    {
+      "id": "t14_09",
+      "audioText": "Sorry, I can't go out. I am studying for my exam.",
+      "transcript": "I am studying for my exam.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "I am studying right now."
+        },
+        {
+          "id": "o2",
+          "text": "I study every day."
+        },
+        {
+          "id": "o3",
+          "text": "I studied yesterday."
+        },
+        {
+          "id": "o4",
+          "text": "I will study tomorrow."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Am studying means at this moment.",
+      "mistakeTags": [
+        "school",
+        "present_continuous"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_14_present_continuous/t14_09.mp3"
+    },
+    {
+      "id": "t14_10",
+      "audioText": "Be quiet! Dad is working in his office.",
+      "transcript": "Dad is working in his office.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Dad is working right now."
+        },
+        {
+          "id": "o2",
+          "text": "Dad works every day."
+        },
+        {
+          "id": "o3",
+          "text": "Dad worked yesterday."
+        },
+        {
+          "id": "o4",
+          "text": "Dad is sleeping."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Is working means he is busy at work at this moment.",
+      "mistakeTags": [
+        "home",
+        "present_continuous"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_14_present_continuous/t14_10.mp3"
+    },
+    {
+      "id": "t14_11",
+      "audioText": "The phone is ringing. Can you answer it?",
+      "transcript": "The phone is ringing.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The phone is making a sound now."
+        },
+        {
+          "id": "o2",
+          "text": "The phone rings every day."
+        },
+        {
+          "id": "o3",
+          "text": "The phone rang yesterday."
+        },
+        {
+          "id": "o4",
+          "text": "The phone is silent."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Is ringing means it is happening right now.",
+      "mistakeTags": [
+        "office",
+        "present_continuous"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_14_present_continuous/t14_11.mp3"
+    },
+    {
+      "id": "t14_12",
+      "audioText": "Look! The waiter is bringing our food.",
+      "transcript": "The waiter is bringing our food.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The waiter is coming with our food now."
+        },
+        {
+          "id": "o2",
+          "text": "The waiter always brings food."
+        },
+        {
+          "id": "o3",
+          "text": "The waiter brought food yesterday."
+        },
+        {
+          "id": "o4",
+          "text": "The waiter is cleaning tables."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Is bringing means at this moment.",
+      "mistakeTags": [
+        "restaurant",
+        "present_continuous"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_14_present_continuous/t14_12.mp3"
+    },
+    {
+      "id": "t14_13",
+      "audioText": "My sister is talking on the phone right now.",
+      "transcript": "My sister is talking on the phone right now.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "My sister is on the phone at the moment."
+        },
+        {
+          "id": "o2",
+          "text": "My sister talks on the phone every day."
+        },
+        {
+          "id": "o3",
+          "text": "My sister talked yesterday."
+        },
+        {
+          "id": "o4",
+          "text": "My sister is sleeping."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Is talking means she is speaking now.",
+      "mistakeTags": [
+        "home",
+        "present_continuous"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_14_present_continuous/t14_13.mp3"
+    },
+    {
+      "id": "t14_14",
+      "audioText": "The plane is landing now. Please take your seats.",
+      "transcript": "The plane is landing now.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The plane is coming down right now."
+        },
+        {
+          "id": "o2",
+          "text": "The plane lands every day."
+        },
+        {
+          "id": "o3",
+          "text": "The plane landed yesterday."
+        },
+        {
+          "id": "o4",
+          "text": "The plane is taking off."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Is landing means it is happening at this moment.",
+      "mistakeTags": [
+        "airport",
+        "present_continuous"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_14_present_continuous/t14_14.mp3"
+    },
+    {
+      "id": "t14_15",
+      "audioText": "I am writing you a message right now.",
+      "transcript": "I am writing you a message right now.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "I am typing a message at this moment."
+        },
+        {
+          "id": "o2",
+          "text": "I write messages every day."
+        },
+        {
+          "id": "o3",
+          "text": "I wrote a message yesterday."
+        },
+        {
+          "id": "o4",
+          "text": "I will write tomorrow."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Am writing means I am doing it right now.",
+      "mistakeTags": [
+        "home",
+        "present_continuous"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_14_present_continuous/t14_15.mp3"
+    }
+  ],
+  "short_description": "Present Continuous: что происходит прямо сейчас"
+}

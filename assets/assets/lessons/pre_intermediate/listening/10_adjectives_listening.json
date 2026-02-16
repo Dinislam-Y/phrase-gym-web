@@ -1,0 +1,461 @@
+{
+  "id": "pre_listening_10_adjectives",
+  "title": "Adjectives",
+  "description": "Слушайте короткие описания людей, вещей и мест и выбирайте правильное значение.",
+  "order": 10,
+  "level": "pre_intermediate",
+  "imageUrl": "assets/images/lessons/adjectives.png",
+  "tasks": [
+    {
+      "id": "t10_01",
+      "audioText": "In the cafe, I order a coffee. It is very hot.",
+      "transcript": "It is very hot.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The coffee is very hot."
+        },
+        {
+          "id": "o2",
+          "text": "The coffee is very cold."
+        },
+        {
+          "id": "o3",
+          "text": "The coffee is very sweet."
+        },
+        {
+          "id": "o4",
+          "text": "The coffee is very big."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "It refers to the coffee, so the sentence means the coffee is very hot.",
+      "mistakeTags": [
+        "cafe",
+        "adjectives_temperature"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_10_adjectives/t10_01.mp3"
+    },
+    {
+      "id": "t10_02",
+      "audioText": "My new phone is small and light. It is easy to carry.",
+      "transcript": "It is easy to carry.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The phone is easy to carry."
+        },
+        {
+          "id": "o2",
+          "text": "The phone is difficult to carry."
+        },
+        {
+          "id": "o3",
+          "text": "The phone is very heavy."
+        },
+        {
+          "id": "o4",
+          "text": "The phone is very big."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "It refers to the phone, so the sentence means the phone is easy to carry.",
+      "mistakeTags": [
+        "shop",
+        "adjectives_size"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_10_adjectives/t10_02.mp3"
+    },
+    {
+      "id": "t10_03",
+      "audioText": "Today the weather is beautiful. The sun is bright.",
+      "transcript": "The sun is bright.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The sun is shining brightly."
+        },
+        {
+          "id": "o2",
+          "text": "The sun is very dark."
+        },
+        {
+          "id": "o3",
+          "text": "The sun is very cold."
+        },
+        {
+          "id": "o4",
+          "text": "The sun is very small."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence means the sun is shining brightly today.",
+      "mistakeTags": [
+        "street",
+        "adjectives_weather"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_10_adjectives/t10_03.mp3"
+    },
+    {
+      "id": "t10_04",
+      "audioText": "At the hotel, my room is quiet and clean.",
+      "transcript": "My room is quiet and clean.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The room is quiet and clean."
+        },
+        {
+          "¿id": "o2",
+          "text": "The room is noisy and dirty."
+        },
+        {
+          "id": "o3",
+          "text": "The room is big and expensive."
+        },
+        {
+          "id": "o4",
+          "text": "The room is small and dark."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence describes the room as quiet and clean.",
+      "mistakeTags": [
+        "hotel",
+        "adjectives_quality"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_10_adjectives/t10_04.mp3"
+    },
+    {
+      "id": "t10_05",
+      "audioText": "This jacket is too expensive for me. I need a cheaper one.",
+      "transcript": "This jacket is too expensive for me.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The jacket costs too much."
+        },
+        {
+          "id": "o2",
+          "text": "The jacket is very cheap."
+        },
+        {
+          "id": "o3",
+          "text": "The jacket is very small."
+        },
+        {
+          "id": "o4",
+          "text": "The jacket is very old."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence means the jacket costs too much money.",
+      "mistakeTags": [
+        "shop",
+        "adjectives_price"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_10_adjectives/t10_05.mp3"
+    },
+    {
+      "id": "t10_06",
+      "audioText": "Anna has long dark hair. It is very beautiful.",
+      "transcript": "It is very beautiful.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Anna's hair is very beautiful."
+        },
+        {
+          "id": "o2",
+          "text": "Anna's hair is very short."
+        },
+        {
+          "id": "o3",
+          "text": "Anna is very beautiful."
+        },
+        {
+          "id": "o4",
+          "text": "Anna's hair is very ugly."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "It refers to Anna's hair, so the sentence means her hair is very beautiful.",
+      "mistakeTags": [
+        "family",
+        "adjectives_appearance"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_10_adjectives/t10_06.mp3"
+    },
+    {
+      "id": "t10_07",
+      "audioText": "The soup in this restaurant is delicious today.",
+      "transcript": "The soup in this restaurant is delicious today.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The soup tastes very good."
+        },
+        {
+          "id": "o2",
+          "text": "The soup tastes very bad."
+        },
+        {
+          "id": "o3",
+          "text": "The soup is very cold."
+        },
+        {
+          "id": "o4",
+          "text": "The soup is very spicy."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Delicious means the soup tastes very good.",
+      "mistakeTags": [
+        "restaurant",
+        "adjectives_taste"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_10_adjectives/t10_07.mp3"
+    },
+    {
+      "id": "t10_08",
+      "audioText": "My old shoes are not comfortable anymore. They hurt my feet.",
+      "transcript": "My old shoes are not comfortable anymore.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The old shoes are uncomfortable."
+        },
+        {
+          "id": "o2",
+          "text": "The old shoes are very comfortable."
+        },
+        {
+          "id": "o3",
+          "text": "The old shoes are very new."
+        },
+        {
+          "id": "o4",
+          "text": "The old shoes are very big."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence means the old shoes are uncomfortable now.",
+      "mistakeTags": [
+        "home",
+        "adjectives_comfort"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_10_adjectives/t10_08.mp3"
+    },
+    {
+      "id": "t10_09",
+      "audioText": "The bus is late again. It is always slow in the morning.",
+      "transcript": "It is always slow in the morning.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The bus is slow every morning."
+        },
+        {
+          "id": "o2",
+          "text": "The bus is fast every morning."
+        },
+        {
+          "id": "o3",
+          "text": "The bus is never late."
+        },
+        {
+          "id": "o4",
+          "text": "The bus is very big."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "It refers to the bus, so the sentence means the bus is slow every morning.",
+      "mistakeTags": [
+        "bus_station",
+        "adjectives_speed"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_10_adjectives/t10_09.mp3"
+    },
+    {
+      "id": "t10_10",
+      "audioText": "This book is interesting. I read it every evening.",
+      "transcript": "This book is interesting.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The book is very interesting."
+        },
+        {
+          "id": "o2",
+          "text": "The book is very boring."
+        },
+        {
+          "id": "o3",
+          "text": "The book is very short."
+        },
+        {
+          "id": "o4",
+          "text": "The book is very thick."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Interesting means the book is very good to read.",
+      "mistakeTags": [
+        "home",
+        "adjectives_quality"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_10_adjectives/t10_10.mp3"
+    },
+    {
+      "id": "t10_11",
+      "audioText": "The water in the sea is cold today.",
+      "transcript": "The water in the sea is cold today.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The sea water is cold."
+        },
+        {
+          "id": "o2",
+          "text": "The sea water is warm."
+        },
+        {
+          "id": "o3",
+          "text": "The sea water is dirty."
+        },
+        {
+          "id": "o4",
+          "text": "The sea water is salty."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence means the sea water has low temperature today.",
+      "mistakeTags": [
+        "street",
+        "adjectives_temperature"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_10_adjectives/t10_11.mp3"
+    },
+    {
+      "id": "t10_12",
+      "audioText": "Her new dress is elegant and beautiful.",
+      "transcript": "Her new dress is elegant and beautiful.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The dress looks elegant and beautiful."
+        },
+        {
+          "id": "o2",
+          "text": "The dress looks old and ugly."
+        },
+        {
+          "id": "o3",
+          "text": "The dress is very cheap."
+        },
+        {
+          "id": "o4",
+          "text": "The dress is very small."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence describes the dress as elegant and beautiful.",
+      "mistakeTags": [
+        "shop",
+        "adjectives_appearance"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_10_adjectives/t10_12.mp3"
+    },
+    {
+      "id": "t10_13",
+      "audioText": "The bag is heavy. I cannot carry it.",
+      "transcript": "The bag is heavy.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The bag has a lot of weight."
+        },
+        {
+          "id": "o2",
+          "text": "The bag is very light."
+        },
+        {
+          "id": "o3",
+          "text": "The bag is very small."
+        },
+        {
+          "id": "o4",
+          "text": "The bag is very cheap."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Heavy means the bag has a lot of weight.",
+      "mistakeTags": [
+        "airport",
+        "adjectives_weight"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_10_adjectives/t10_13.mp3"
+    },
+    {
+      "id": "t10_14",
+      "audioText": "This cake is sweet and soft. I love it.",
+      "transcript": "This cake is sweet and soft.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The cake is sweet and soft."
+        },
+        {
+          "id": "o2",
+          "text": "The cake is salty and hard."
+        },
+        {
+          "id": "o3",
+          "text": "The cake is very big."
+        },
+        {
+          "id": "o4",
+          "text": "The cake is very cold."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence describes the taste and texture of the cake.",
+      "mistakeTags": [
+        "cafe",
+        "adjectives_taste_texture"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_10_adjectives/t10_14.mp3"
+    },
+    {
+      "id": "t10_15",
+      "audioText": "The movie last night was funny. We laughed a lot.",
+      "transcript": "The movie last night was funny.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The movie was very funny."
+        },
+        {
+          "id": "o2",
+          "text": "The movie was very sad."
+        },
+        {
+          "id": "o3",
+          "text": "The movie was very long."
+        },
+        {
+          "id": "o4",
+          "text": "The movie was very scary."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Funny means the movie made us laugh a lot.",
+      "mistakeTags": [
+        "home",
+        "adjectives_emotion"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_10_adjectives/t10_15.mp3"
+    }
+  ],
+  "short_description": "Прилагательные: размер, вкус, качество, чувства"
+}

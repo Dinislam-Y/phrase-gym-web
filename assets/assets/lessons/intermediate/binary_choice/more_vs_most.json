@@ -1,0 +1,400 @@
+{
+  "id": "intermediate_bc_06_comparatives",
+  "title": "More vs Most",
+  "description": "More или Most? Сравниваем два предмета или выделяем лучший — без путаницы.",
+  "order": 7,
+  "level": "intermediate",
+  "imageUrl": null,
+  "tasks": [
+    {
+      "id": "mvm_1",
+      "question": "This book is ___ interesting than that one.",
+      "optionA": "MORE",
+      "optionB": "MOST",
+      "correctIndex": 0,
+      "explanation": "Сравнение двух предметов (than) — more.",
+      "tags": [
+        "more_vs_most",
+        "more",
+        "daily_life"
+      ]
+    },
+    {
+      "id": "mvm_2",
+      "question": "She is the ___ talented singer in the group.",
+      "optionA": "MORE",
+      "optionB": "MOST",
+      "correctIndex": 1,
+      "explanation": "Превосходная степень (the + in the group) — most.",
+      "tags": [
+        "more_vs_most",
+        "most",
+        "entertainment"
+      ]
+    },
+    {
+      "id": "mvm_3",
+      "question": "English is ___ difficult than Spanish.",
+      "optionA": "MORE",
+      "optionB": "MOST",
+      "correctIndex": 0,
+      "explanation": "Сравнение двух языков (than) — more.",
+      "tags": [
+        "more_vs_most",
+        "more",
+        "school"
+      ]
+    },
+    {
+      "id": "mvm_4",
+      "question": "This is the ___ beautiful place I've seen.",
+      "optionA": "MORE",
+      "optionB": "MOST",
+      "correctIndex": 1,
+      "explanation": "Превосходная степень (the + I've ever seen) — most.",
+      "tags": [
+        "more_vs_most",
+        "most",
+        "travel"
+      ]
+    },
+    {
+      "id": "mvm_5",
+      "question": "The test was ___ complicated than I expected.",
+      "optionA": "MORE",
+      "optionB": "MOST",
+      "correctIndex": 0,
+      "explanation": "Сравнение (than I expected) — more.",
+      "tags": [
+        "more_vs_most",
+        "more",
+        "school"
+      ]
+    },
+    {
+      "id": "mvm_6",
+      "question": "He's the ___ popular teacher at school.",
+      "optionA": "MORE",
+      "optionB": "MOST",
+      "correctIndex": 1,
+      "explanation": "Превосходная степень (the + at school) — most.",
+      "tags": [
+        "more_vs_most",
+        "most",
+        "school"
+      ]
+    },
+    {
+      "id": "mvm_7",
+      "question": "Trains are ___ comfortable than buses.",
+      "optionA": "MORE",
+      "optionB": "MOST",
+      "correctIndex": 0,
+      "explanation": "Сравнение двух видов транспорта (than) — more.",
+      "tags": [
+        "more_vs_most",
+        "more",
+        "travel"
+      ]
+    },
+    {
+      "id": "mvm_8",
+      "question": "It was the ___ exciting game of the season.",
+      "optionA": "MORE",
+      "optionB": "MOST",
+      "correctIndex": 1,
+      "explanation": "Превосходная степень (the + of the season) — most.",
+      "tags": [
+        "more_vs_most",
+        "most",
+        "sport"
+      ]
+    },
+    {
+      "id": "mvm_9",
+      "question": "Your idea is ___ creative than mine.",
+      "optionA": "MORE",
+      "optionB": "MOST",
+      "correctIndex": 0,
+      "explanation": "Сравнение двух идей (than) — more.",
+      "tags": [
+        "more_vs_most",
+        "more",
+        "work"
+      ]
+    },
+    {
+      "id": "mvm_10",
+      "question": "That's the ___ expensive restaurant in town.",
+      "optionA": "MORE",
+      "optionB": "MOST",
+      "correctIndex": 1,
+      "explanation": "Превосходная степень (the + in town) — most.",
+      "tags": [
+        "more_vs_most",
+        "most",
+        "food"
+      ]
+    },
+    {
+      "id": "mvm_11",
+      "question": "This task is ___ important than the last one.",
+      "optionA": "MORE",
+      "optionB": "MOST",
+      "correctIndex": 0,
+      "explanation": "Сравнение двух задач (than) — more.",
+      "tags": [
+        "more_vs_most",
+        "more",
+        "work"
+      ]
+    },
+    {
+      "id": "mvm_12",
+      "question": "She gave the ___ impressive presentation.",
+      "optionA": "MORE",
+      "optionB": "MOST",
+      "correctIndex": 1,
+      "explanation": "Превосходная степень (the) — самая впечатляющая — most.",
+      "tags": [
+        "more_vs_most",
+        "most",
+        "work"
+      ]
+    },
+    {
+      "id": "mvm_13",
+      "question": "Living here is ___ convenient than before.",
+      "optionA": "MORE",
+      "optionB": "MOST",
+      "correctIndex": 0,
+      "explanation": "Сравнение (than before) — more.",
+      "tags": [
+        "more_vs_most",
+        "more",
+        "home"
+      ]
+    },
+    {
+      "id": "mvm_14",
+      "question": "He is the ___ reliable person I know.",
+      "optionA": "MORE",
+      "optionB": "MOST",
+      "correctIndex": 1,
+      "explanation": "Превосходная степень (the + I know) — most.",
+      "tags": [
+        "more_vs_most",
+        "most",
+        "social"
+      ]
+    },
+    {
+      "id": "mvm_15",
+      "question": "This phone is ___ powerful than my old one.",
+      "optionA": "MORE",
+      "optionB": "MOST",
+      "correctIndex": 0,
+      "explanation": "Сравнение двух телефонов (than) — more.",
+      "tags": [
+        "more_vs_most",
+        "more",
+        "daily_life"
+      ]
+    },
+    {
+      "id": "mvm_16",
+      "question": "That was the ___ boring film I've ever watched.",
+      "optionA": "MORE",
+      "optionB": "MOST",
+      "correctIndex": 1,
+      "explanation": "Превосходная степень (the + I've ever) — most.",
+      "tags": [
+        "more_vs_most",
+        "most",
+        "entertainment"
+      ]
+    },
+    {
+      "id": "mvm_17",
+      "question": "His new job is ___ stressful than the previous.",
+      "optionA": "MORE",
+      "optionB": "MOST",
+      "correctIndex": 0,
+      "explanation": "Сравнение двух работ (than) — more.",
+      "tags": [
+        "more_vs_most",
+        "more",
+        "work"
+      ]
+    },
+    {
+      "id": "mvm_18",
+      "question": "She chose the ___ practical solution available.",
+      "optionA": "MORE",
+      "optionB": "MOST",
+      "correctIndex": 1,
+      "explanation": "Превосходная степень из всех доступных — most.",
+      "tags": [
+        "more_vs_most",
+        "most",
+        "work"
+      ]
+    },
+    {
+      "id": "mvm_19",
+      "question": "Summer is ___ enjoyable than winter for me.",
+      "optionA": "MORE",
+      "optionB": "MOST",
+      "correctIndex": 0,
+      "explanation": "Сравнение двух сезонов (than) — more.",
+      "tags": [
+        "more_vs_most",
+        "more",
+        "daily_life"
+      ]
+    },
+    {
+      "id": "mvm_20",
+      "question": "This is the ___ common mistake in English.",
+      "optionA": "MORE",
+      "optionB": "MOST",
+      "correctIndex": 1,
+      "explanation": "Превосходная степень (the + in English) — most.",
+      "tags": [
+        "more_vs_most",
+        "most",
+        "school"
+      ]
+    },
+    {
+      "id": "mvm_21",
+      "question": "The second half was ___ intense than the first.",
+      "optionA": "MORE",
+      "optionB": "MOST",
+      "correctIndex": 0,
+      "explanation": "Сравнение двух таймов (than) — more.",
+      "tags": [
+        "more_vs_most",
+        "more",
+        "sport"
+      ]
+    },
+    {
+      "id": "mvm_22",
+      "question": "That was the ___ memorable trip of my life.",
+      "optionA": "MORE",
+      "optionB": "MOST",
+      "correctIndex": 1,
+      "explanation": "Превосходная степень (the + of my life) — most.",
+      "tags": [
+        "more_vs_most",
+        "most",
+        "travel"
+      ]
+    },
+    {
+      "id": "mvm_23",
+      "question": "Cooking at home is ___ economical than eating out.",
+      "optionA": "MORE",
+      "optionB": "MOST",
+      "correctIndex": 0,
+      "explanation": "Сравнение двух вариантов (than) — more.",
+      "tags": [
+        "more_vs_most",
+        "more",
+        "food"
+      ]
+    },
+    {
+      "id": "mvm_24",
+      "question": "He asked the ___ unusual question in class.",
+      "optionA": "MORE",
+      "optionB": "MOST",
+      "correctIndex": 1,
+      "explanation": "Превосходная степень (the) — самый необычный вопрос — most.",
+      "tags": [
+        "more_vs_most",
+        "most",
+        "school"
+      ]
+    },
+    {
+      "id": "mvm_25",
+      "question": "This route is ___ dangerous than the highway.",
+      "optionA": "MORE",
+      "optionB": "MOST",
+      "correctIndex": 0,
+      "explanation": "Сравнение двух маршрутов (than) — more.",
+      "tags": [
+        "more_vs_most",
+        "more",
+        "travel"
+      ]
+    },
+    {
+      "id": "mvm_26",
+      "question": "She is the ___ experienced doctor in the clinic.",
+      "optionA": "MORE",
+      "optionB": "MOST",
+      "correctIndex": 1,
+      "explanation": "Превосходная степень (the + in the clinic) — most.",
+      "tags": [
+        "more_vs_most",
+        "most",
+        "work"
+      ]
+    },
+    {
+      "id": "mvm_27",
+      "question": "The sequel was ___ entertaining than the original.",
+      "optionA": "MORE",
+      "optionB": "MOST",
+      "correctIndex": 0,
+      "explanation": "Сравнение двух фильмов (than) — more.",
+      "tags": [
+        "more_vs_most",
+        "more",
+        "entertainment"
+      ]
+    },
+    {
+      "id": "mvm_28",
+      "question": "This is the ___ effective method we've tried.",
+      "optionA": "MORE",
+      "optionB": "MOST",
+      "correctIndex": 1,
+      "explanation": "Превосходная степень (the + we've tried) — most.",
+      "tags": [
+        "more_vs_most",
+        "most",
+        "work"
+      ]
+    },
+    {
+      "id": "mvm_29",
+      "question": "Working remotely is ___ flexible than an office.",
+      "optionA": "MORE",
+      "optionB": "MOST",
+      "correctIndex": 0,
+      "explanation": "Сравнение двух форматов работы (than) — more.",
+      "tags": [
+        "more_vs_most",
+        "more",
+        "work"
+      ]
+    },
+    {
+      "id": "mvm_30",
+      "question": "It was the ___ challenging exam of the year.",
+      "optionA": "MORE",
+      "optionB": "MOST",
+      "correctIndex": 1,
+      "explanation": "Превосходная степень (the + of the year) — most.",
+      "tags": [
+        "more_vs_most",
+        "most",
+        "school"
+      ]
+    }
+  ]
+}

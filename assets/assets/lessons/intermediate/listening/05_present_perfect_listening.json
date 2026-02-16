@@ -1,0 +1,461 @@
+{
+  "id": "intermediate_listening_05_present_perfect",
+  "title": "Present Perfect",
+  "description": "Слушайте жизненный опыт, свежие новости и результат прямо сейчас — только Present Perfect.",
+  "order": 5,
+  "level": "intermediate",
+  "imageUrl": "assets/images/lessons/present_perfect.png",
+  "tasks": [
+    {
+      "id": "t5_01",
+      "audioText": "Anna looks so happy today. She has just got a new job.",
+      "transcript": "She has just got a new job.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She started a new job very recently."
+        },
+        {
+          "id": "o2",
+          "text": "She got a job last year."
+        },
+        {
+          "id": "o3",
+          "text": "She will get a job soon."
+        },
+        {
+          "id": "o4",
+          "text": "She is getting a job now."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Fresh news with visible result — classic just + Present Perfect.",
+      "mistakeTags": [
+        "work",
+        "present_perfect"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_05_present_perfect/t5_01.mp3"
+    },
+    {
+      "id": "t5_02",
+      "audioText": "I can't believe it. I have lost my keys again.",
+      "transcript": "I have lost my keys again.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "My keys are missing and it's not the first time."
+        },
+        {
+          "id": "o2",
+          "text": "I lost them last week."
+        },
+        {
+          "id": "o3",
+          "text": "I will lose them tomorrow."
+        },
+        {
+          "id": "o4",
+          "text": "I find keys every day."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Repeated experience + current problem.",
+      "mistakeTags": [
+        "home",
+        "present_perfect"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_05_present_perfect/t5_02.mp3"
+    },
+    {
+      "id": "t5_03",
+      "audioText": "Have you ever been to Japan? — Yes, I have visited Tokyo twice.",
+      "transcript": "I have visited Tokyo twice.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "I have been to Tokyo two times in my life."
+        },
+        {
+          "id": "o2",
+          "text": "I visited Tokyo last month."
+        },
+        {
+          "id": "o3",
+          "text": "I am in Tokyo now."
+        },
+        {
+          "id": "o4",
+          "text": "I will visit Tokyo next year."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Life experience — ever/never + Present Perfect.",
+      "mistakeTags": [
+        "travel",
+        "present_perfect"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_05_present_perfect/t5_03.mp3"
+    },
+    {
+      "id": "t5_04",
+      "audioText": "Look at Mike! He has painted his hair green!",
+      "transcript": "He has painted his hair green!",
+      "options": [
+        {
+          "id": "o1",
+          "text": "His hair is green now because he dyed it."
+        },
+        {
+          "id": "o2",
+          "text": "He painted it last year."
+        },
+        {
+          "id": "o3",
+          "text": "His hair was always green."
+        },
+        {
+          "id": "o4",
+          "text": "He will paint it tomorrow."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Visible result right now.",
+      "mistakeTags": [
+        "appearance",
+        "present_perfect"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_05_present_perfect/t5_04.mp3"
+    },
+    {
+      "id": "t5_05",
+      "audioText": "We have already booked tickets for the concert in July.",
+      "transcript": "We have already booked tickets for the concert in July.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The tickets are booked, everything is ready."
+        },
+        {
+          "id": "o2",
+          "text": "We booked them last year."
+        },
+        {
+          "id": "o3",
+          "text": "We will book them soon."
+        },
+        {
+          "id": "o4",
+          "text": "We are booking right now."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Action completed before now, result matters.",
+      "mistakeTags": [
+        "concert",
+        "present_perfect"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_05_present_perfect/t5_05.mp3"
+    },
+    {
+      "id": "t5_06",
+      "audioText": "Sarah has worked here since 2018.",
+      "transcript": "Sarah has worked here since 2018.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She started in 2018 and still works here."
+        },
+        {
+          "id": "o2",
+          "text": "She worked here only in 2018."
+        },
+        {
+          "id": "o3",
+          "text": "She will start in 2025."
+        },
+        {
+          "id": "o4",
+          "text": "She stopped working last month."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Since + Present Perfect = continues now.",
+      "mistakeTags": [
+        "office",
+        "present_perfect"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_05_present_perfect/t5_06.mp3"
+    },
+    {
+      "id": "t5_07",
+      "audioText": "I have never tried sushi in my life.",
+      "transcript": "I have never tried sushi in my life.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "I have zero experience with sushi."
+        },
+        {
+          "id": "o2",
+          "text": "I tried it last week."
+        },
+        {
+          "id": "o3",
+          "text": "I try it every month."
+        },
+        {
+          "id": "o4",
+          "text": "I will try it tomorrow."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Never + life experience.",
+      "mistakeTags": [
+        "restaurant",
+        "present_perfect"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_05_present_perfect/t5_07.mp3"
+    },
+    {
+      "id": "t5_08",
+      "audioText": "Tom has broken his leg. That's why he's on crutches.",
+      "transcript": "Tom has broken his leg.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "His leg is broken now."
+        },
+        {
+          "id": "o2",
+          "text": "He broke it last year."
+        },
+        {
+          "id": "o3",
+          "text": "He will break it soon."
+        },
+        {
+          "id": "o4",
+          "text": "His leg was never broken."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Current relevant result.",
+      "mistakeTags": [
+        "hospital",
+        "present_perfect"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_05_present_perfect/t5_08.mp3"
+    },
+    {
+      "id": "t5_09",
+      "audioText": "How many countries have you visited so far?",
+      "transcript": "How many countries have you visited so far?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "What's your travel experience up to now?"
+        },
+        {
+          "id": "o2",
+          "text": "How many did you visit last year?"
+        },
+        {
+          "id": "o3",
+          "text": "How many will you visit?"
+        },
+        {
+          "id": "o4",
+          "text": "How many do you visit every year?"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "So far = up to the present moment.",
+      "mistakeTags": [
+        "travel",
+        "present_perfect"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_05_present_perfect/t5_09.mp3"
+    },
+    {
+      "id": "t5_10",
+      "audioText": "They have just announced the winner. It's Lisa!",
+      "transcript": "They have just announced the winner.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The winner was revealed seconds ago."
+        },
+        {
+          "id": "o2",
+          "text": "They announced it yesterday."
+        },
+        {
+          "id": "o3",
+          "text": "They will announce it later."
+        },
+        {
+          "id": "o4",
+          "text": "They are announcing now."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Very recent news.",
+      "mistakeTags": [
+        "competition",
+        "present_perfect"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_05_present_perfect/t5_10.mp3"
+    },
+    {
+      "id": "t5_11",
+      "audioText": "I have lived in five different countries.",
+      "transcript": "I have lived in five different countries.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "My life experience includes living in 5 countries."
+        },
+        {
+          "id": "o2",
+          "text": "I lived in five countries last year."
+        },
+        {
+          "id": "o3",
+          "text": "I live in five countries now."
+        },
+        {
+          "id": "o4",
+          "text": "I will live in five countries."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Rich life experience.",
+      "mistakeTags": [
+        "travel",
+        "present_perfect"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_05_present_perfect/t5_11.mp3"
+    },
+    {
+      "id": "t5_12",
+      "audioText": "Oh no! Someone has eaten all the cake!",
+      "transcript": "Someone has eaten all the cake!",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The cake is gone, somebody finished it."
+        },
+        {
+          "id": "o2",
+          "text": "Someone ate it yesterday."
+        },
+        {
+          "id": "o3",
+          "text": "The cake is still here."
+        },
+        {
+          "id": "o4",
+          "text": "Someone will eat it later."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Current empty plate = result.",
+      "mistakeTags": [
+        "home",
+        "present_perfect"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_05_present_perfect/t5_12.mp3"
+    },
+    {
+      "id": "t5_13",
+      "audioText": "This is the best pizza I have ever eaten.",
+      "transcript": "This is the best pizza I have ever eaten.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "In my whole life, this pizza is number one."
+        },
+        {
+          "id": "o2",
+          "text": "It was the best last year."
+        },
+        {
+          "id": "o3",
+          "text": "It will be the best tomorrow."
+        },
+        {
+          "id": "o4",
+          "text": "I eat it every day."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Superlative + ever = Present Perfect.",
+      "mistakeTags": [
+        "restaurant",
+        "present_perfect"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_05_present_perfect/t5_13.mp3"
+    },
+    {
+      "id": "t5_14",
+      "audioText": "We have known each other for ten years already.",
+      "transcript": "We have known each other for ten years already.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Our friendship started 10 years ago and continues."
+        },
+        {
+          "id": "o2",
+          "text": "We knew each other only one year."
+        },
+        {
+          "id": "o3",
+          "text": "We will know each other soon."
+        },
+        {
+          "id": "o4",
+          "text": "We met yesterday."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "For + period up to now.",
+      "mistakeTags": [
+        "friends",
+        "present_perfect"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_05_present_perfect/t5_14.mp3"
+    },
+    {
+      "id": "t5_15",
+      "audioText": "Hurry up! The train has already left the station.",
+      "transcript": "The train has already left the station.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The train is gone, we missed it."
+        },
+        {
+          "id": "o2",
+          "text": "The train left yesterday."
+        },
+        {
+          "id": "o3",
+          "text": "The train is still here."
+        },
+        {
+          "id": "o4",
+          "text": "The train will leave soon."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Recent action with bad result now.",
+      "mistakeTags": [
+        "bus_station",
+        "present_perfect"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_05_present_perfect/t5_15.mp3"
+    }
+  ],
+  "short_description": "Present Perfect — опыт, свежие новости, результат сейчас"
+}

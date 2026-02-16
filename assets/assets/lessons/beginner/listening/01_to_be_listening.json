@@ -1,0 +1,461 @@
+{
+  "id": "beginner_listening_01_to_be",
+  "title": "To Be: is / am / are",
+  "description": "Слушайте короткие фразы с глаголом to be (is/am/are).",
+  "order": 1,
+  "level": "beginner",
+  "imageUrl": "assets/images/lessons/to_be.png",
+  "short_description": "Короткие предложения с to be.",
+  "tasks": [
+    {
+      "id": "t1_01",
+      "audioText": "He sits at his desk. He is the manager.",
+      "transcript": "He is the manager.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He is the manager."
+        },
+        {
+          "id": "o2",
+          "text": "He is a worker."
+        },
+        {
+          "id": "o3",
+          "text": "He is not the manager."
+        },
+        {
+          "id": "o4",
+          "text": "He was the manager."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says he is the manager now. Other options change the role or the time or say the opposite.",
+      "mistakeTags": [
+        "office",
+        "to_be"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_01_to_be/t1_01.mp3"
+    },
+    {
+      "id": "t1_02",
+      "audioText": "At the airport the gate is open. People go inside. The gate is open.",
+      "transcript": "The gate is open.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The gate is open."
+        },
+        {
+          "id": "o2",
+          "text": "The gate is closed."
+        },
+        {
+          "id": "o3",
+          "text": "The flight is delayed."
+        },
+        {
+          "id": "o4",
+          "text": "The gate opens later."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says the gate is open now. Other options say the gate is closed, a different fact, or a future time.",
+      "mistakeTags": [
+        "airport",
+        "to_be"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_01_to_be/t1_02.mp3"
+    },
+    {
+      "id": "t1_03",
+      "audioText": "She tries a coat in the shop. The coat is too big.",
+      "transcript": "The coat is too big.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The coat is too big."
+        },
+        {
+          "id": "o2",
+          "text": "The coat is too small."
+        },
+        {
+          "id": "o3",
+          "text": "The coat fits her."
+        },
+        {
+          "id": "o4",
+          "text": "She buys the coat."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says the coat is too big. Other options give the opposite size, a fit, or an action.",
+      "mistakeTags": [
+        "shop",
+        "to_be"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_01_to_be/t1_03.mp3"
+    },
+    {
+      "id": "t1_04",
+      "audioText": "They wait at the bus stop. The bus is late.",
+      "transcript": "The bus is late.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The bus is late."
+        },
+        {
+          "id": "o2",
+          "text": "The bus is early."
+        },
+        {
+          "id": "o3",
+          "text": "They are late."
+        },
+        {
+          "id": "o4",
+          "text": "The bus is full."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says the bus is late. Other options change time, subject, or other detail.",
+      "mistakeTags": [
+        "bus_station",
+        "to_be"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_01_to_be/t1_04.mp3"
+    },
+    {
+      "id": "t1_05",
+      "audioText": "At the restaurant the waiter serves soup. The soup is hot.",
+      "transcript": "The soup is hot.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The soup is hot."
+        },
+        {
+          "id": "o2",
+          "text": "The soup is cold."
+        },
+        {
+          "id": "o3",
+          "text": "The soup is spicy."
+        },
+        {
+          "id": "o4",
+          "text": "The plate is hot."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says the soup is hot. Other options change temperature, taste, or the object.",
+      "mistakeTags": [
+        "restaurant",
+        "to_be"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_01_to_be/t1_05.mp3"
+    },
+    {
+      "id": "t1_06",
+      "audioText": "She is at the front desk. Her room is not ready.",
+      "transcript": "Her room is not ready.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Her room is not ready."
+        },
+        {
+          "id": "o2",
+          "text": "Her room is ready."
+        },
+        {
+          "id": "o3",
+          "text": "She has no room."
+        },
+        {
+          "id": "o4",
+          "text": "Her room is on the floor."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says her room is not ready now. Other options say the opposite or give different facts.",
+      "mistakeTags": [
+        "hotel",
+        "to_be_negative"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_01_to_be/t1_06.mp3"
+    },
+    {
+      "id": "t1_07",
+      "audioText": "The nurse looks at the patient. The patient is awake.",
+      "transcript": "The patient is awake.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The patient is awake."
+        },
+        {
+          "id": "o2",
+          "text": "The patient is asleep."
+        },
+        {
+          "id": "o3",
+          "text": "The nurse is asleep."
+        },
+        {
+          "id": "o4",
+          "text": "The patient was awake."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says the patient is awake now. Other options say the opposite, a different person, or different time.",
+      "mistakeTags": [
+        "hospital",
+        "to_be"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_01_to_be/t1_07.mp3"
+    },
+    {
+      "id": "t1_08",
+      "audioText": "He stands at the counter. The line is long.",
+      "transcript": "The line is long.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The line is long."
+        },
+        {
+          "id": "o2",
+          "text": "The line is short."
+        },
+        {
+          "id": "o3",
+          "text": "There is no line."
+        },
+        {
+          "id": "o4",
+          "text": "He is in the bank."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says the line is long. Other options change the length or state, or state a related fact.",
+      "mistakeTags": [
+        "bank",
+        "to_be"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_01_to_be/t1_08.mp3"
+    },
+    {
+      "id": "t1_09",
+      "audioText": "She lifts the box. The box is heavy.",
+      "transcript": "The box is heavy.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The box is heavy."
+        },
+        {
+          "id": "o2",
+          "text": "The box is light."
+        },
+        {
+          "id": "o3",
+          "text": "The box is empty."
+        },
+        {
+          "id": "o4",
+          "text": "The box is big."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says the box is heavy. Other answers give the opposite weight or a different property.",
+      "mistakeTags": [
+        "post_office",
+        "to_be"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_01_to_be/t1_09.mp3"
+    },
+    {
+      "id": "t1_10",
+      "audioText": "In class the teacher closes the door. The door is closed.",
+      "transcript": "The door is closed.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The door is closed."
+        },
+        {
+          "id": "o2",
+          "text": "The door is open."
+        },
+        {
+          "id": "o3",
+          "text": "The class is closed."
+        },
+        {
+          "id": "o4",
+          "text": "The teacher is busy."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says the door is closed now. Other options change the door state or give a different fact.",
+      "mistakeTags": [
+        "school",
+        "to_be"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_01_to_be/t1_10.mp3"
+    },
+    {
+      "id": "t1_11",
+      "audioText": "He sits on the sofa. The room is quiet.",
+      "transcript": "The room is quiet.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The room is quiet."
+        },
+        {
+          "id": "o2",
+          "text": "The room is noisy."
+        },
+        {
+          "id": "o3",
+          "text": "He is quiet."
+        },
+        {
+          "id": "o4",
+          "text": "The house is big."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says the room is quiet now. Other options say the opposite, focus on the person, or give another detail.",
+      "mistakeTags": [
+        "home",
+        "to_be"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_01_to_be/t1_11.mp3"
+    },
+    {
+      "id": "t1_12",
+      "audioText": "On the street the small store has lights on. The shop is open.",
+      "transcript": "The shop is open.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The shop is open."
+        },
+        {
+          "id": "o2",
+          "text": "The shop is closed."
+        },
+        {
+          "id": "o3",
+          "text": "The shop is busy."
+        },
+        {
+          "id": "o4",
+          "text": "The shop is small."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says the shop is open now. Other options change the open state or describe a different property.",
+      "mistakeTags": [
+        "street",
+        "to_be"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_01_to_be/t1_12.mp3"
+    },
+    {
+      "id": "t1_13",
+      "audioText": "Children play after rain. The grass is wet.",
+      "transcript": "The grass is wet.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The grass is wet."
+        },
+        {
+          "id": "o2",
+          "text": "The grass is dry."
+        },
+        {
+          "id": "o3",
+          "text": "The grass is tall."
+        },
+        {
+          "id": "o4",
+          "text": "The children are wet."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says the grass is wet now. Other options say the opposite or a different fact.",
+      "mistakeTags": [
+        "park",
+        "to_be"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_01_to_be/t1_13.mp3"
+    },
+    {
+      "id": "t1_14",
+      "audioText": "He speaks with an officer. The officer is kind.",
+      "transcript": "The officer is kind.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The officer is kind."
+        },
+        {
+          "id": "o2",
+          "text": "The officer is angry."
+        },
+        {
+          "id": "o3",
+          "text": "He is an officer."
+        },
+        {
+          "id": "o4",
+          "text": "The officer is late."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says the officer is kind. Other options change the officer's mood, job, or time.",
+      "mistakeTags": [
+        "police_station",
+        "to_be"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_01_to_be/t1_14.mp3"
+    },
+    {
+      "id": "t1_15",
+      "audioText": "She checks the fruit at the market. The apples are fresh.",
+      "transcript": "The apples are fresh.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The apples are fresh."
+        },
+        {
+          "id": "o2",
+          "text": "The apples are rotten."
+        },
+        {
+          "id": "o3",
+          "text": "The apples are expensive."
+        },
+        {
+          "id": "o4",
+          "text": "She buys apples."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says the apples are fresh. Other options say the opposite, price, or an action.",
+      "mistakeTags": [
+        "market",
+        "to_be"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_01_to_be/t1_15.mp3"
+    }
+  ]
+}

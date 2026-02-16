@@ -1,0 +1,1583 @@
+{
+  "id": "pre_12_numerals",
+  "title": "Numerals (Numbers)",
+  "description": "Числительные — это ваш калькулятор и календарь. Одни считают (1, 2, 3), другие строят в очередь (первый, второй).",
+  "order": 12,
+  "level": "pre_intermediate",
+  "imageUrl": "assets/images/lessons/numerals.png",
+  "vocabulary": [
+    {
+      "id": "v12_sister",
+      "english": "sister",
+      "russian": "сестра",
+      "partOfSpeech": "noun",
+      "example": "I have two sisters.",
+      "exampleTranslation": "У меня две сестры.",
+      "audioPath": "assets/audio/vocabulary/v12_sister.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_sister.mp3"
+    },
+    {
+      "id": "v12_first",
+      "english": "first",
+      "russian": "первый",
+      "partOfSpeech": "adjective",
+      "example": "He is the first.",
+      "exampleTranslation": "Он первый.",
+      "audioPath": "assets/audio/vocabulary/v12_first.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_first.mp3"
+    },
+    {
+      "id": "v12_line",
+      "english": "line",
+      "russian": "очередь (линия)",
+      "partOfSpeech": "noun",
+      "example": "In line.",
+      "exampleTranslation": "В очереди.",
+      "audioPath": "assets/audio/vocabulary/v12_line.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_line.mp3"
+    },
+    {
+      "id": "v12_may",
+      "english": "May",
+      "russian": "май",
+      "partOfSpeech": "noun",
+      "example": "The fifth of May.",
+      "exampleTranslation": "Пятое мая.",
+      "audioPath": "assets/audio/vocabulary/v12_may.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_may.mp3"
+    },
+    {
+      "id": "v12_cost",
+      "english": "cost",
+      "russian": "стоить",
+      "partOfSpeech": "verb",
+      "example": "It costs 100 dollars.",
+      "exampleTranslation": "Это стоит 100 долларов.",
+      "audioPath": "assets/audio/vocabulary/v12_cost.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_cost.mp3"
+    },
+    {
+      "id": "v12_dollar",
+      "english": "dollar",
+      "russian": "доллар",
+      "partOfSpeech": "noun",
+      "example": "100 dollars.",
+      "exampleTranslation": "100 долларов.",
+      "audioPath": "assets/audio/vocabulary/v12_dollar.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_dollar.mp3"
+    },
+    {
+      "id": "v12_hundred",
+      "english": "hundred",
+      "russian": "сотня (сто)",
+      "partOfSpeech": "numeral",
+      "example": "One hundred.",
+      "exampleTranslation": "Сто.",
+      "audioPath": "assets/audio/vocabulary/v12_hundred.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_hundred.mp3"
+    },
+    {
+      "id": "v12_second",
+      "english": "second",
+      "russian": "второй",
+      "partOfSpeech": "adjective",
+      "example": "The second floor.",
+      "exampleTranslation": "Второй этаж.",
+      "audioPath": "assets/audio/vocabulary/v12_second.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_second.mp3"
+    },
+    {
+      "id": "v12_floor",
+      "english": "floor",
+      "russian": "этаж (пол)",
+      "partOfSpeech": "noun",
+      "example": "On the second floor.",
+      "exampleTranslation": "На втором этаже.",
+      "audioPath": "assets/audio/vocabulary/v12_floor.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_floor.mp3"
+    },
+    {
+      "id": "v12_cat",
+      "english": "cat",
+      "russian": "кошка",
+      "partOfSpeech": "noun",
+      "example": "Three cats.",
+      "exampleTranslation": "Три кошки.",
+      "audioPath": "assets/audio/vocabulary/v12_cat.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_cat.mp3"
+    },
+    {
+      "id": "v12_million",
+      "english": "million",
+      "russian": "миллион",
+      "partOfSpeech": "numeral",
+      "example": "A million people.",
+      "exampleTranslation": "Миллион людей.",
+      "audioPath": "assets/audio/vocabulary/v12_million.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_million.mp3"
+    },
+    {
+      "id": "v12_half",
+      "english": "half",
+      "russian": "половина",
+      "partOfSpeech": "noun",
+      "example": "Half of the cake.",
+      "exampleTranslation": "Половина торта.",
+      "audioPath": "assets/audio/vocabulary/v12_half.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_half.mp3"
+    },
+    {
+      "id": "v12_cake",
+      "english": "cake",
+      "russian": "торт",
+      "partOfSpeech": "noun",
+      "example": "Half of the cake.",
+      "exampleTranslation": "Половина торта.",
+      "audioPath": "assets/audio/vocabulary/v12_cake.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_cake.mp3"
+    },
+    {
+      "id": "v12_quarter",
+      "english": "quarter",
+      "russian": "четверть",
+      "partOfSpeech": "noun",
+      "example": "A quarter of an hour.",
+      "exampleTranslation": "Четверть часа.",
+      "audioPath": "assets/audio/vocabulary/v12_quarter.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_quarter.mp3"
+    },
+    {
+      "id": "v12_hour",
+      "english": "hour",
+      "russian": "час",
+      "partOfSpeech": "noun",
+      "example": "An hour.",
+      "exampleTranslation": "Час.",
+      "audioPath": "assets/audio/vocabulary/v12_hour.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_hour.mp3"
+    },
+    {
+      "id": "v12_year",
+      "english": "year",
+      "russian": "год",
+      "partOfSpeech": "noun",
+      "example": "In 2020.",
+      "exampleTranslation": "В 2020 году.",
+      "audioPath": "assets/audio/vocabulary/v12_year.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_year.mp3"
+    },
+    {
+      "id": "v12_once",
+      "english": "once",
+      "russian": "однажды (один раз)",
+      "partOfSpeech": "adverb",
+      "example": "Once.",
+      "exampleTranslation": "Один раз.",
+      "audioPath": "assets/audio/vocabulary/v12_once.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_once.mp3"
+    },
+    {
+      "id": "v12_twice",
+      "english": "twice",
+      "russian": "дважды",
+      "partOfSpeech": "adverb",
+      "example": "Twice.",
+      "exampleTranslation": "Дважды.",
+      "audioPath": "assets/audio/vocabulary/v12_twice.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_twice.mp3"
+    },
+    {
+      "id": "v12_old",
+      "english": "old",
+      "russian": "старый (возраст)",
+      "partOfSpeech": "adjective",
+      "example": "18 years old.",
+      "exampleTranslation": "18 лет (возраст).",
+      "audioPath": "assets/audio/vocabulary/v12_old.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_old.mp3"
+    },
+    {
+      "id": "v12_kilometer",
+      "english": "kilometer",
+      "russian": "километр",
+      "partOfSpeech": "noun",
+      "example": "Zero kilometer.",
+      "exampleTranslation": "Нулевой километр.",
+      "audioPath": "assets/audio/vocabulary/v12_kilometer.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_kilometer.mp3"
+    },
+    {
+      "id": "v12_thousand",
+      "english": "thousand",
+      "russian": "тысяча",
+      "partOfSpeech": "numeral",
+      "example": "A thousand thanks.",
+      "exampleTranslation": "Тысяча спасибо.",
+      "audioPath": "assets/audio/vocabulary/v12_thousand.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_thousand.mp3"
+    },
+    {
+      "id": "v12_number",
+      "english": "number",
+      "russian": "номер (число)",
+      "partOfSpeech": "noun",
+      "example": "Number one.",
+      "exampleTranslation": "Номер один.",
+      "audioPath": "assets/audio/vocabulary/v12_number.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_number.mp3"
+    }
+  ],
+  "theory": {
+    "category": "vocabulary",
+    "title": "Numerals",
+    "subtitle": "Все цифры делятся на два лагеря. Одни отвечают на вопрос «Сколько?» (Количественные), другие — «Какой по счету?» (Порядковые). Это как разница между количеством яблок в пакете и вашим местом в очереди за ними.",
+    "construction": {
+      "formula": "Cardinals vs Ordinals",
+      "rules": [
+        {
+          "word": "Количественные (Cardinals)",
+          "description": "One, Two, Three. Просто считаем предметы. I have two cats."
+        },
+        {
+          "word": "Порядковые (Ordinals)",
+          "description": "First, Second, Third. Все остальные получают хвост -th (Fourth, Fifth). Используются с артиклем The (The first)."
+        },
+        {
+          "word": "Составные числа",
+          "description": "21 = twenty-one. 105 = one hundred AND five. Не забывайте дефисы и 'and'."
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "star",
+        "color": "blue",
+        "title": "Возраст и Цены",
+        "description": "Мне 25 лет. Это стоит 100 долларов. Всегда количественные.",
+        "example": {
+          "english": "It costs fifty dollars.",
+          "russian": "Это стоит 50 долларов."
+        }
+      },
+      {
+        "icon": "schedule",
+        "color": "green",
+        "title": "Даты",
+        "description": "Первое мая (The first of May). В датах мы всегда используем порядковые.",
+        "example": {
+          "english": "Today is the tenth of April.",
+          "russian": "Сегодня десятое апреля."
+        }
+      },
+      {
+        "icon": "bolt",
+        "color": "orange",
+        "title": "Этажи и Места",
+        "description": "Я живу на втором этаже (The second floor). Я занял первое место (The first place).",
+        "example": {
+          "english": "He lives on the third floor.",
+          "russian": "Он живет на третьем этаже."
+        }
+      }
+    ],
+    "markers": [
+      "one",
+      "first",
+      "two",
+      "second",
+      "three",
+      "third",
+      "-th",
+      "hundred",
+      "thousand"
+    ]
+  },
+  "tasks": [
+    {
+      "id": "t12_1",
+      "type": "sentenceAssembly",
+      "question": "У меня две сестры",
+      "correctAnswer": "I have two sisters",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "My",
+          "Am"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "got"
+        ],
+        [
+          "two",
+          "second",
+          "one",
+          "three"
+        ],
+        [
+          "sisters",
+          "sister",
+          "girls",
+          "family"
+        ]
+      ],
+      "mistakeTags": [
+        "numerals",
+        "numerals_cardinal"
+      ],
+      "audioPath": "assets/audio/grammar/pre_12_numerals/000.mp3"
+    },
+    {
+      "id": "t12_2",
+      "type": "sentenceAssembly",
+      "question": "Он здесь первый",
+      "correctAnswer": "He is first here",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "I",
+          "They"
+        ],
+        [
+          "is",
+          "was",
+          "are",
+          "am"
+        ],
+        [
+          "first",
+          "second",
+          "last",
+          "next"
+        ],
+        [
+          "here",
+          "there",
+          "now",
+          "today"
+        ]
+      ],
+      "mistakeTags": [
+        "numerals",
+        "numerals_ordinal"
+      ],
+      "audioPath": "assets/audio/grammar/pre_12_numerals/001.mp3"
+    },
+    {
+      "id": "t12_3",
+      "type": "sentenceAssembly",
+      "question": "Сегодня пятое мая",
+      "correctAnswer": "Today is May fifth",
+      "options": [],
+      "variants": [
+        [
+          "Today",
+          "Tomorrow",
+          "Monday",
+          "Sunday"
+        ],
+        [
+          "is",
+          "was",
+          "are",
+          "has"
+        ],
+        [
+          "May",
+          "June",
+          "March",
+          "July"
+        ],
+        [
+          "fifth",
+          "first",
+          "third",
+          "tenth"
+        ]
+      ],
+      "mistakeTags": [
+        "numerals",
+        "numerals_ordinal"
+      ],
+      "audioPath": "assets/audio/grammar/pre_12_numerals/002.mp3"
+    },
+    {
+      "id": "t12_4",
+      "type": "sentenceAssembly",
+      "question": "Это стоит сто долларов",
+      "correctAnswer": "It costs one hundred dollars",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "This",
+          "That",
+          "There"
+        ],
+        [
+          "costs",
+          "cost",
+          "price",
+          "pay"
+        ],
+        [
+          "one",
+          "a",
+          "the",
+          "first"
+        ],
+        [
+          "hundred",
+          "thousand",
+          "million",
+          "ten"
+        ],
+        [
+          "dollars",
+          "dollar",
+          "money",
+          "cash"
+        ]
+      ],
+      "mistakeTags": [
+        "numerals",
+        "numerals_cardinal"
+      ],
+      "audioPath": "assets/audio/grammar/pre_12_numerals/003.mp3"
+    },
+    {
+      "id": "t12_5",
+      "type": "sentenceAssembly",
+      "question": "Я живу на втором",
+      "correctAnswer": "I live on second",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "live",
+          "work",
+          "stay",
+          "sit"
+        ],
+        [
+          "on",
+          "at",
+          "in",
+          "to"
+        ],
+        [
+          "second",
+          "first",
+          "third",
+          "fourth"
+        ]
+      ],
+      "mistakeTags": [
+        "numerals",
+        "numerals_ordinal"
+      ],
+      "audioPath": "assets/audio/grammar/pre_12_numerals/004.mp3"
+    },
+    {
+      "id": "t12_6",
+      "type": "sentenceAssembly",
+      "question": "У нее три кошки",
+      "correctAnswer": "She has three cats",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "Her",
+          "He",
+          "Hers"
+        ],
+        [
+          "has",
+          "have",
+          "had",
+          "got"
+        ],
+        [
+          "three",
+          "third",
+          "tree",
+          "free"
+        ],
+        [
+          "cats",
+          "cat",
+          "pet",
+          "kittens"
+        ]
+      ],
+      "mistakeTags": [
+        "numerals",
+        "numerals_cardinal"
+      ],
+      "audioPath": "assets/audio/grammar/pre_12_numerals/005.mp3"
+    },
+    {
+      "id": "t12_7",
+      "type": "sentenceAssembly",
+      "question": "Это мой третий раз",
+      "correctAnswer": "This is my third",
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "That",
+          "It",
+          "Today"
+        ],
+        [
+          "is",
+          "was",
+          "are",
+          "has"
+        ],
+        [
+          "my",
+          "his",
+          "her",
+          "the"
+        ],
+        [
+          "third",
+          "first",
+          "second",
+          "fifth"
+        ]
+      ],
+      "mistakeTags": [
+        "numerals",
+        "numerals_ordinal"
+      ],
+      "audioPath": "assets/audio/grammar/pre_12_numerals/006.mp3"
+    },
+    {
+      "id": "t12_8",
+      "type": "sentenceAssembly",
+      "question": "Нас пятеро (нас есть пять)",
+      "correctAnswer": "There are five of us",
+      "options": [],
+      "variants": [
+        [
+          "There",
+          "They",
+          "We",
+          "Here"
+        ],
+        [
+          "are",
+          "is",
+          "have",
+          "were"
+        ],
+        [
+          "five",
+          "fifth",
+          "fives",
+          "5"
+        ],
+        [
+          "of",
+          "off",
+          "from",
+          "for"
+        ],
+        [
+          "us",
+          "we",
+          "our",
+          "me"
+        ]
+      ],
+      "mistakeTags": [
+        "numerals",
+        "numerals_cardinal"
+      ],
+      "audioPath": "assets/audio/grammar/pre_12_numerals/007.mp3"
+    },
+    {
+      "id": "t12_9",
+      "type": "sentenceAssembly",
+      "question": "Мне сейчас двадцать один",
+      "correctAnswer": "I am twenty-one now",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "am",
+          "is",
+          "are",
+          "was"
+        ],
+        [
+          "twenty-one",
+          "twenty",
+          "thirty",
+          "eighteen"
+        ],
+        [
+          "now",
+          "today",
+          "already",
+          "here"
+        ]
+      ],
+      "mistakeTags": [
+        "numerals",
+        "numerals_cardinal"
+      ],
+      "audioPath": "assets/audio/grammar/pre_12_numerals/008.mp3"
+    },
+    {
+      "id": "t12_10",
+      "type": "sentenceAssembly",
+      "question": "Ей тридцать лет",
+      "correctAnswer": "She is thirty years old",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "We"
+        ],
+        [
+          "is",
+          "am",
+          "are",
+          "was"
+        ],
+        [
+          "thirty",
+          "twenty",
+          "forty",
+          "fifty"
+        ],
+        [
+          "years",
+          "days",
+          "months",
+          "weeks"
+        ],
+        [
+          "old",
+          "young",
+          "new",
+          "now"
+        ]
+      ],
+      "mistakeTags": [
+        "numerals",
+        "numerals_ordinal"
+      ],
+      "audioPath": "assets/audio/grammar/pre_12_numerals/009.mp3"
+    },
+    {
+      "id": "t12_11",
+      "type": "sentenceAssembly",
+      "question": "Миллион людей",
+      "correctAnswer": "A million people",
+      "options": [],
+      "variants": [
+        [
+          "A",
+          "The",
+          "One",
+          "An"
+        ],
+        [
+          "million",
+          "millions",
+          "thousand",
+          "hundred"
+        ],
+        [
+          "people",
+          "persons",
+          "humans",
+          "man"
+        ]
+      ],
+      "mistakeTags": [
+        "numerals",
+        "numerals_cardinal"
+      ],
+      "audioPath": "assets/audio/grammar/pre_12_numerals/010.mp3"
+    },
+    {
+      "id": "t12_12",
+      "type": "sentenceAssembly",
+      "question": "Половина торта",
+      "correctAnswer": "Half of the cake",
+      "options": [],
+      "variants": [
+        [
+          "Half",
+          "Halves",
+          "Second",
+          "Two"
+        ],
+        [
+          "of",
+          "off",
+          "from",
+          "for"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "cake",
+          "food",
+          "sweet",
+          "pie"
+        ]
+      ],
+      "mistakeTags": [
+        "numerals",
+        "numerals_cardinal"
+      ],
+      "audioPath": "assets/audio/grammar/pre_12_numerals/011.mp3"
+    },
+    {
+      "id": "t12_13",
+      "type": "sentenceAssembly",
+      "question": "Четверть часа",
+      "correctAnswer": "A quarter of an hour",
+      "options": [],
+      "variants": [
+        [
+          "A",
+          "The",
+          "One",
+          "This"
+        ],
+        [
+          "quarter",
+          "fourth",
+          "four",
+          "part"
+        ],
+        [
+          "of",
+          "off",
+          "from",
+          "in"
+        ],
+        [
+          "an",
+          "a",
+          "the",
+          "one"
+        ],
+        [
+          "hour",
+          "time",
+          "clock",
+          "minute"
+        ]
+      ],
+      "mistakeTags": [
+        "numerals",
+        "numerals_cardinal",
+        "numerals_time"
+      ],
+      "audioPath": "assets/audio/grammar/pre_12_numerals/012.mp3"
+    },
+    {
+      "id": "t12_14",
+      "type": "sentenceAssembly",
+      "question": "Это стоит сто",
+      "correctAnswer": "It costs one hundred",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "He",
+          "She",
+          "This"
+        ],
+        [
+          "costs",
+          "has",
+          "is",
+          "takes"
+        ],
+        [
+          "one",
+          "two",
+          "three",
+          "five"
+        ],
+        [
+          "hundred",
+          "thousand",
+          "million",
+          "dozen"
+        ]
+      ],
+      "mistakeTags": [
+        "numerals",
+        "numerals_cardinal"
+      ],
+      "audioPath": "assets/audio/grammar/pre_12_numerals/013.mp3"
+    },
+    {
+      "id": "t12_15",
+      "type": "sentenceAssembly",
+      "question": "Я пробовал это однажды",
+      "correctAnswer": "I tried it once",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "tried",
+          "saw",
+          "did",
+          "ate"
+        ],
+        [
+          "it",
+          "this",
+          "that",
+          "food"
+        ],
+        [
+          "once",
+          "twice",
+          "first",
+          "again"
+        ]
+      ],
+      "mistakeTags": [
+        "numerals",
+        "numerals_cardinal"
+      ],
+      "audioPath": "assets/audio/grammar/pre_12_numerals/014.mp3"
+    },
+    {
+      "id": "t12_16",
+      "type": "sentenceAssembly",
+      "question": "Я делал это дважды",
+      "correctAnswer": "I did it twice",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "did",
+          "tried",
+          "saw",
+          "ate"
+        ],
+        [
+          "it",
+          "this",
+          "that",
+          "food"
+        ],
+        [
+          "twice",
+          "once",
+          "again",
+          "today"
+        ]
+      ],
+      "mistakeTags": [
+        "numerals",
+        "numerals_cardinal"
+      ],
+      "audioPath": "assets/audio/grammar/pre_12_numerals/015.mp3"
+    },
+    {
+      "id": "t12_17",
+      "type": "sentenceAssembly",
+      "question": "Я делал это три раза",
+      "correctAnswer": "I did it three times",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "did",
+          "saw",
+          "tried",
+          "ate"
+        ],
+        [
+          "it",
+          "this",
+          "that",
+          "food"
+        ],
+        [
+          "three",
+          "two",
+          "four",
+          "five"
+        ],
+        [
+          "times",
+          "days",
+          "ways",
+          "rounds"
+        ]
+      ],
+      "mistakeTags": [
+        "numerals",
+        "numerals_cardinal"
+      ],
+      "audioPath": "assets/audio/grammar/pre_12_numerals/016.mp3"
+    },
+    {
+      "id": "t12_18",
+      "type": "sentenceAssembly",
+      "question": "Сейчас восемь часов",
+      "correctAnswer": "It is eight now",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "He",
+          "She",
+          "This"
+        ],
+        [
+          "is",
+          "was",
+          "are",
+          "am"
+        ],
+        [
+          "eight",
+          "seven",
+          "nine",
+          "ten"
+        ],
+        [
+          "now",
+          "here",
+          "today",
+          "already"
+        ]
+      ],
+      "mistakeTags": [
+        "numerals",
+        "numerals_cardinal",
+        "numerals_time"
+      ],
+      "audioPath": "assets/audio/grammar/pre_12_numerals/017.mp3"
+    },
+    {
+      "id": "t12_19",
+      "type": "sentenceAssembly",
+      "question": "Сейчас полседьмого",
+      "correctAnswer": "It is half past six",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "He",
+          "She",
+          "This"
+        ],
+        [
+          "is",
+          "was",
+          "are",
+          "am"
+        ],
+        [
+          "half",
+          "quarter",
+          "ten",
+          "five"
+        ],
+        [
+          "past",
+          "to",
+          "after",
+          "before"
+        ],
+        [
+          "six",
+          "seven",
+          "eight",
+          "nine"
+        ]
+      ],
+      "mistakeTags": [
+        "numerals",
+        "numerals_cardinal",
+        "numerals_time"
+      ],
+      "audioPath": "assets/audio/grammar/pre_12_numerals/018.mp3"
+    },
+    {
+      "id": "t12_20",
+      "type": "sentenceAssembly",
+      "question": "Двенадцать месяцев в году",
+      "correctAnswer": "There are twelve months",
+      "options": [],
+      "variants": [
+        [
+          "There",
+          "Here",
+          "It",
+          "We"
+        ],
+        [
+          "are",
+          "is",
+          "was",
+          "has"
+        ],
+        [
+          "twelve",
+          "ten",
+          "seven",
+          "six"
+        ],
+        [
+          "months",
+          "days",
+          "weeks",
+          "hours"
+        ]
+      ],
+      "mistakeTags": [
+        "numerals",
+        "numerals_cardinal"
+      ],
+      "audioPath": "assets/audio/grammar/pre_12_numerals/019.mp3"
+    },
+    {
+      "id": "t12_21",
+      "type": "sentenceAssembly",
+      "question": "Счётчик показывает ноль",
+      "correctAnswer": "It shows zero now",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "He",
+          "She",
+          "This"
+        ],
+        [
+          "shows",
+          "says",
+          "reads",
+          "has"
+        ],
+        [
+          "zero",
+          "one",
+          "two",
+          "ten"
+        ],
+        [
+          "now",
+          "here",
+          "still",
+          "again"
+        ]
+      ],
+      "mistakeTags": [
+        "numerals",
+        "numerals_cardinal"
+      ],
+      "audioPath": "assets/audio/grammar/pre_12_numerals/020.mp3"
+    },
+    {
+      "id": "t12_22",
+      "type": "sentenceAssembly",
+      "question": "Тысяча спасибо (спасибо большое)",
+      "correctAnswer": "A thousand thanks",
+      "options": [],
+      "variants": [
+        [
+          "A",
+          "The",
+          "One",
+          "An"
+        ],
+        [
+          "thousand",
+          "hundred",
+          "million",
+          "ten"
+        ],
+        [
+          "thanks",
+          "thank you",
+          "thank",
+          "pleased"
+        ]
+      ],
+      "mistakeTags": [
+        "numerals",
+        "numerals_cardinal"
+      ],
+      "audioPath": "assets/audio/grammar/pre_12_numerals/021.mp3"
+    },
+    {
+      "id": "t12_23",
+      "type": "sentenceAssembly",
+      "question": "Двенадцатый игрок",
+      "correctAnswer": "The twelfth player",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "An",
+          "One"
+        ],
+        [
+          "twelfth",
+          "twelve",
+          "12",
+          "twelveth"
+        ],
+        [
+          "player",
+          "play",
+          "gamer",
+          "man"
+        ]
+      ],
+      "mistakeTags": [
+        "numerals",
+        "numerals_ordinal"
+      ],
+      "audioPath": "assets/audio/grammar/pre_12_numerals/022.mp3"
+    },
+    {
+      "id": "t12_24",
+      "type": "sentenceAssembly",
+      "question": "Это стоит пятьдесят долларов",
+      "correctAnswer": "It costs fifty dollars",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "He",
+          "She",
+          "This"
+        ],
+        [
+          "costs",
+          "has",
+          "takes",
+          "needs"
+        ],
+        [
+          "fifty",
+          "forty",
+          "sixty",
+          "thirty"
+        ],
+        [
+          "dollars",
+          "euros",
+          "pounds",
+          "cents"
+        ]
+      ],
+      "mistakeTags": [
+        "numerals",
+        "numerals_cardinal"
+      ],
+      "audioPath": "assets/audio/grammar/pre_12_numerals/023.mp3"
+    },
+    {
+      "id": "t12_25",
+      "type": "sentenceAssembly",
+      "question": "Она пришла третьей",
+      "correctAnswer": "She came in third",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "They"
+        ],
+        [
+          "came",
+          "was",
+          "ran",
+          "got"
+        ],
+        [
+          "in",
+          "at",
+          "on",
+          "to"
+        ],
+        [
+          "third",
+          "first",
+          "second",
+          "last"
+        ]
+      ],
+      "mistakeTags": [
+        "numerals",
+        "numerals_cardinal"
+      ],
+      "audioPath": "assets/audio/grammar/pre_12_numerals/024.mp3"
+    },
+    {
+      "id": "t12_26",
+      "type": "sentenceAssembly",
+      "question": "Шестое чувство",
+      "correctAnswer": "The sixth sense",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "An",
+          "One"
+        ],
+        [
+          "sixth",
+          "six",
+          "6",
+          "sixthly"
+        ],
+        [
+          "sense",
+          "feeling",
+          "feel",
+          "mind"
+        ]
+      ],
+      "mistakeTags": [
+        "numerals",
+        "numerals_ordinal"
+      ],
+      "audioPath": "assets/audio/grammar/pre_12_numerals/025.mp3"
+    },
+    {
+      "id": "t12_27",
+      "type": "sentenceAssembly",
+      "question": "Без четверти пять",
+      "correctAnswer": "It is quarter to five",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "He",
+          "She",
+          "This"
+        ],
+        [
+          "is",
+          "was",
+          "are",
+          "am"
+        ],
+        [
+          "quarter",
+          "half",
+          "ten",
+          "five"
+        ],
+        [
+          "to",
+          "past",
+          "after",
+          "before"
+        ],
+        [
+          "five",
+          "six",
+          "seven",
+          "eight"
+        ]
+      ],
+      "mistakeTags": [
+        "numerals",
+        "numerals_cardinal"
+      ],
+      "audioPath": "assets/audio/grammar/pre_12_numerals/026.mp3"
+    },
+    {
+      "id": "t12_28",
+      "type": "sentenceAssembly",
+      "question": "Две тысячи двадцать третий год",
+      "correctAnswer": "Two thousand twenty three",
+      "options": [],
+      "variants": [
+        [
+          "Two",
+          "Second",
+          "Twice",
+          "Double"
+        ],
+        [
+          "thousand",
+          "hundred",
+          "million",
+          "ten"
+        ],
+        [
+          "twenty",
+          "twentieth",
+          "20",
+          "score"
+        ],
+        [
+          "three",
+          "third",
+          "3",
+          "threes"
+        ]
+      ],
+      "mistakeTags": [
+        "numerals",
+        "numerals_cardinal"
+      ],
+      "audioPath": "assets/audio/grammar/pre_12_numerals/027.mp3"
+    },
+    {
+      "id": "t12_29",
+      "type": "sentenceAssembly",
+      "question": "У кошки девять жизней",
+      "correctAnswer": "A cat has nine lives",
+      "options": [],
+      "variants": [
+        [
+          "A",
+          "The",
+          "My",
+          "One"
+        ],
+        [
+          "cat",
+          "dog",
+          "bird",
+          "fish"
+        ],
+        [
+          "has",
+          "is",
+          "had",
+          "got"
+        ],
+        [
+          "nine",
+          "seven",
+          "five",
+          "three"
+        ],
+        [
+          "lives",
+          "days",
+          "names",
+          "eyes"
+        ]
+      ],
+      "mistakeTags": [
+        "numerals",
+        "numerals_cardinal"
+      ],
+      "audioPath": "assets/audio/grammar/pre_12_numerals/028.mp3"
+    },
+    {
+      "id": "t12_30",
+      "type": "sentenceAssembly",
+      "question": "Один плюс один",
+      "correctAnswer": "One plus one",
+      "options": [],
+      "variants": [
+        [
+          "One",
+          "First",
+          "Once",
+          "1"
+        ],
+        [
+          "plus",
+          "add",
+          "and",
+          "more"
+        ],
+        [
+          "one",
+          "first",
+          "once",
+          "1"
+        ]
+      ],
+      "mistakeTags": [
+        "numerals",
+        "numerals_cardinal"
+      ],
+      "audioPath": "assets/audio/grammar/pre_12_numerals/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionBeginner12Numerals",
+  "theoryQuiz": [
+    {
+      "id": "tq_01",
+      "type": "trueFalse",
+      "question": "Cardinal numbers (количественные) отвечают на вопрос «Сколько?».",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cardinal numbers: one, two, three... — отвечают на вопрос «Сколько?»."
+    },
+    {
+      "id": "tq_02",
+      "type": "multipleChoice",
+      "question": "Какое числительное является порядковым (ordinal)?",
+      "options": [
+        "five",
+        "twelve",
+        "third",
+        "seven"
+      ],
+      "correctIndex": 2,
+      "explanation": "Third (третий) — порядковое числительное. Остальные — количественные."
+    },
+    {
+      "id": "tq_03",
+      "type": "multipleChoice",
+      "question": "Какой суффикс обычно используется для порядковых числительных?",
+      "options": [
+        "-ly",
+        "-ful",
+        "-th",
+        "-ness"
+      ],
+      "correctIndex": 2,
+      "explanation": "Суффикс -th: fourth, fifth, sixth, seventh... (исключения: first, second, third)."
+    },
+    {
+      "id": "tq_04",
+      "type": "trueFalse",
+      "question": "Ordinal numbers (порядковые) отвечают на вопрос «Какой по счёту?».",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ordinal numbers: first, second, third... — «Какой по счёту?»."
+    },
+    {
+      "id": "tq_05",
+      "type": "multipleChoice",
+      "question": "Какая порядковая форма числа \"one\"?",
+      "options": [
+        "oneth",
+        "first",
+        "onest",
+        "oned"
+      ],
+      "correctIndex": 1,
+      "explanation": "One → first — это исключение, суффикс -th не используется."
+    },
+    {
+      "id": "tq_06",
+      "type": "trueFalse",
+      "question": "Порядковая форма числа \"two\" — \"twoth\".",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "Two → second — это исключение. Twoth не существует."
+    },
+    {
+      "id": "tq_07",
+      "type": "multipleChoice",
+      "question": "Выберите правильный порядковый вариант числа \"five\":",
+      "options": [
+        "fiveth",
+        "fivth",
+        "fifth",
+        "fived"
+      ],
+      "correctIndex": 2,
+      "explanation": "Five → fifth (ve заменяется на f + th)."
+    },
+    {
+      "id": "tq_08",
+      "type": "multipleChoice",
+      "question": "Какое предложение правильное?",
+      "options": [
+        "This is my one book.",
+        "She lives on the three floor.",
+        "He finished second in the race.",
+        "I have fifth cats."
+      ],
+      "correctIndex": 2,
+      "explanation": "Second — порядковое числительное (какой по счёту). Остальные требуют: first, third, five."
+    },
+    {
+      "id": "tq_09",
+      "type": "trueFalse",
+      "question": "Числа 1st, 2nd, 3rd — это исключения, которые не образуются по общему правилу с -th.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "First (1st), second (2nd), third (3rd) — исключения из правила суффикса -th."
+    },
+    {
+      "id": "tq_10",
+      "type": "multipleChoice",
+      "question": "Как правильно сказать: «Это мой четвёртый урок»?",
+      "options": [
+        "This is my four lesson.",
+        "This is my fourth lesson.",
+        "This is my fourh lesson.",
+        "This is my fours lesson."
+      ],
+      "correctIndex": 1,
+      "explanation": "Four → fourth (добавляем -th). «Четвёртый» — порядковое числительное."
+    }
+  ]
+}

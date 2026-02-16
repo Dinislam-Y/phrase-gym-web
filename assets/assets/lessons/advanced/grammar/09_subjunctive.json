@@ -1,0 +1,2319 @@
+{
+  "id": "advanced_09_subjunctive",
+  "title": "Subjunctive Mood",
+  "description": "Сослагательное наклонение: It's essential that he be there. I suggest she go. Формальный английский.",
+  "order": 9,
+  "level": "advanced",
+  "imageUrl": "assets/images/lessons/subjunctive.png",
+  "vocabulary": [
+    {
+      "id": "v9_essential",
+      "english": "essential",
+      "russian": "необходимый, существенный",
+      "partOfSpeech": "adjective",
+      "example": "It is essential that you be on time.",
+      "exampleTranslation": "Необходимо, чтобы вы пришли вовремя.",
+      "audioPath": "assets/audio/vocabulary/v9_essential.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_essential.mp3"
+    },
+    {
+      "id": "v9_suggest",
+      "english": "suggest",
+      "russian": "предлагать, советовать",
+      "partOfSpeech": "verb",
+      "example": "I suggest he leave immediately.",
+      "exampleTranslation": "Я предлагаю, чтобы он ушёл немедленно.",
+      "audioPath": "assets/audio/vocabulary/v9_suggest.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_suggest.mp3"
+    },
+    {
+      "id": "v9_recommend",
+      "english": "recommend",
+      "russian": "рекомендовать",
+      "partOfSpeech": "verb",
+      "example": "The doctor recommends that she rest.",
+      "exampleTranslation": "Врач рекомендует, чтобы она отдыхала.",
+      "audioPath": "assets/audio/vocabulary/v9_recommend.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_recommend.mp3"
+    },
+    {
+      "id": "v9_insist",
+      "english": "insist",
+      "russian": "настаивать",
+      "partOfSpeech": "verb",
+      "example": "They insist that he attend the meeting.",
+      "exampleTranslation": "Они настаивают, чтобы он присутствовал на встрече.",
+      "audioPath": "assets/audio/vocabulary/v9_insist.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_insist.mp3"
+    },
+    {
+      "id": "v9_demand",
+      "english": "demand",
+      "russian": "требовать",
+      "partOfSpeech": "verb",
+      "example": "We demand that the report be submitted.",
+      "exampleTranslation": "Мы требуем, чтобы отчёт был представлен.",
+      "audioPath": "assets/audio/vocabulary/v9_demand.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_demand.mp3"
+    },
+    {
+      "id": "v9_require",
+      "english": "require",
+      "russian": "требовать (по правилам)",
+      "partOfSpeech": "verb",
+      "example": "The law requires that every citizen pay taxes.",
+      "exampleTranslation": "Закон требует, чтобы каждый гражданин платил налоги.",
+      "audioPath": "assets/audio/vocabulary/v9_require.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_require.mp3"
+    },
+    {
+      "id": "v9_propose",
+      "english": "propose",
+      "russian": "предлагать (формально)",
+      "partOfSpeech": "verb",
+      "example": "She proposed that the plan be revised.",
+      "exampleTranslation": "Она предложила пересмотреть план.",
+      "audioPath": "assets/audio/vocabulary/v9_propose.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_propose.mp3"
+    },
+    {
+      "id": "v9_crucial",
+      "english": "crucial",
+      "russian": "критически важный",
+      "partOfSpeech": "adjective",
+      "example": "It is crucial that he understand the risks.",
+      "exampleTranslation": "Критически важно, чтобы он понимал риски.",
+      "audioPath": "assets/audio/vocabulary/v9_crucial.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_crucial.mp3"
+    },
+    {
+      "id": "v9_vital",
+      "english": "vital",
+      "russian": "жизненно важный",
+      "partOfSpeech": "adjective",
+      "example": "It is vital that the patient be monitored.",
+      "exampleTranslation": "Жизненно важно, чтобы пациента наблюдали.",
+      "audioPath": "assets/audio/vocabulary/v9_vital.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_vital.mp3"
+    },
+    {
+      "id": "v9_imperative",
+      "english": "imperative",
+      "russian": "настоятельный, необходимый",
+      "partOfSpeech": "adjective",
+      "example": "It is imperative that we act now.",
+      "exampleTranslation": "Настоятельно необходимо, чтобы мы действовали сейчас.",
+      "audioPath": "assets/audio/vocabulary/v9_imperative.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_imperative.mp3"
+    },
+    {
+      "id": "v9_urge",
+      "english": "urge",
+      "russian": "настоятельно просить",
+      "partOfSpeech": "verb",
+      "example": "I urge that caution be exercised.",
+      "exampleTranslation": "Я настоятельно прошу проявить осторожность.",
+      "audioPath": "assets/audio/vocabulary/v9_urge.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_urge.mp3"
+    },
+    {
+      "id": "v9_request",
+      "english": "request",
+      "russian": "просить, запрашивать",
+      "partOfSpeech": "verb",
+      "example": "We request that all guests arrive early.",
+      "exampleTranslation": "Мы просим, чтобы все гости пришли рано.",
+      "audioPath": "assets/audio/vocabulary/v9_request.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_request.mp3"
+    },
+    {
+      "id": "v9_desirable",
+      "english": "desirable",
+      "russian": "желательный",
+      "partOfSpeech": "adjective",
+      "example": "It is desirable that the work be completed.",
+      "exampleTranslation": "Желательно, чтобы работа была завершена.",
+      "audioPath": "assets/audio/vocabulary/v9_desirable.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_desirable.mp3"
+    },
+    {
+      "id": "v9_mandatory",
+      "english": "mandatory",
+      "russian": "обязательный",
+      "partOfSpeech": "adjective",
+      "example": "It is mandatory that each student submit the form.",
+      "exampleTranslation": "Обязательно, чтобы каждый студент сдал форму.",
+      "audioPath": "assets/audio/vocabulary/v9_mandatory.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_mandatory.mp3"
+    },
+    {
+      "id": "v9_stipulate",
+      "english": "stipulate",
+      "russian": "оговаривать, ставить условие",
+      "partOfSpeech": "verb",
+      "example": "The contract stipulates that payment be made monthly.",
+      "exampleTranslation": "Контракт оговаривает, что платёж должен быть ежемесячным.",
+      "audioPath": "assets/audio/vocabulary/v9_stipulate.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_stipulate.mp3"
+    },
+    {
+      "id": "v9_advise",
+      "english": "advise",
+      "russian": "советовать",
+      "partOfSpeech": "verb",
+      "example": "I advise that she consult a lawyer.",
+      "exampleTranslation": "Я советую, чтобы она обратилась к адвокату.",
+      "audioPath": "assets/audio/vocabulary/v9_advise.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_advise.mp3"
+    },
+    {
+      "id": "v9_necessity",
+      "english": "necessity",
+      "russian": "необходимость",
+      "partOfSpeech": "noun",
+      "example": "There is a necessity that this rule be enforced.",
+      "exampleTranslation": "Есть необходимость, чтобы это правило соблюдалось.",
+      "audioPath": "assets/audio/vocabulary/v9_necessity.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_necessity.mp3"
+    },
+    {
+      "id": "v9_compliance",
+      "english": "compliance",
+      "russian": "соответствие, соблюдение",
+      "partOfSpeech": "noun",
+      "example": "Compliance with the regulations is mandatory.",
+      "exampleTranslation": "Соблюдение правил обязательно.",
+      "audioPath": "assets/audio/vocabulary/v9_compliance.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_compliance.mp3"
+    },
+    {
+      "id": "v9_resolution",
+      "english": "resolution",
+      "russian": "резолюция, решение",
+      "partOfSpeech": "noun",
+      "example": "The resolution demands that action be taken.",
+      "exampleTranslation": "Резолюция требует, чтобы были приняты меры.",
+      "audioPath": "assets/audio/vocabulary/v9_resolution.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_resolution.mp3"
+    },
+    {
+      "id": "v9_provision",
+      "english": "provision",
+      "russian": "положение, условие",
+      "partOfSpeech": "noun",
+      "example": "This provision requires that the data be encrypted.",
+      "exampleTranslation": "Это положение требует, чтобы данные были зашифрованы.",
+      "audioPath": "assets/audio/vocabulary/v9_provision.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_provision.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "Subjunctive Mood",
+    "subtitle": "Сослагательное наклонение — особая форма глагола, которая используется после глаголов и прилагательных, выражающих требование, предложение или необходимость. В отличие от русского языка, в английском это чисто грамматическая конструкция.",
+    "construction": {
+      "formula": "Trigger verb/adj + that + S + bare infinitive",
+      "rules": [
+        {
+          "word": "bare infinitive",
+          "description": "После that используется инфинитив БЕЗ to и БЕЗ окончаний (-s, -ed): He be, she go, it remain."
+        },
+        {
+          "word": "Глаголы-триггеры",
+          "description": "suggest, recommend, insist, demand, require, propose, request, urge, advise, stipulate."
+        },
+        {
+          "word": "Прилагательные-триггеры",
+          "description": "essential, crucial, vital, imperative, important, necessary, mandatory, desirable."
+        },
+        {
+          "word": "Отрицание",
+          "description": "NOT ставится перед глаголом: I suggest that he NOT go (без don't/doesn't)."
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "handshake",
+        "color": "blue",
+        "title": "Формальные требования",
+        "description": "В деловом и юридическом языке для выражения обязательных условий.",
+        "example": {
+          "english": "The committee demands that the report be submitted by Friday.",
+          "russian": "Комитет требует, чтобы отчёт был подан до пятницы."
+        }
+      },
+      {
+        "icon": "star",
+        "color": "purple",
+        "title": "Рекомендации и предложения",
+        "description": "После глаголов suggest, recommend, advise для формальных советов.",
+        "example": {
+          "english": "I recommend that she take a different approach.",
+          "russian": "Я рекомендую, чтобы она использовала другой подход."
+        }
+      },
+      {
+        "icon": "bolt",
+        "color": "orange",
+        "title": "Критическая необходимость",
+        "description": "После прилагательных essential, crucial, vital, imperative.",
+        "example": {
+          "english": "It is essential that every employee be aware of the policy.",
+          "russian": "Необходимо, чтобы каждый сотрудник знал о правилах."
+        }
+      },
+      {
+        "icon": "check_circle",
+        "color": "green",
+        "title": "Устойчивые выражения",
+        "description": "Фразы God bless you, Long live the Queen, Be that as it may — реликты сослагательного наклонения.",
+        "example": {
+          "english": "Be that as it may, we must proceed.",
+          "russian": "Как бы то ни было, мы должны продолжать."
+        }
+      }
+    ],
+    "markers": [
+      "suggest that",
+      "recommend that",
+      "insist that",
+      "demand that",
+      "it is essential that",
+      "it is crucial that",
+      "it is vital that",
+      "require that"
+    ]
+  },
+  "theoryQuiz": [
+    {
+      "id": "tq_09_01",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"The professor insists that every student ___ the exam.\"",
+      "options": [
+        "takes",
+        "take",
+        "took",
+        "taking"
+      ],
+      "correctIndex": 1,
+      "explanation": "После insist that используется bare infinitive (без -s): take."
+    },
+    {
+      "id": "tq_09_02",
+      "type": "multipleChoice",
+      "question": "Какая форма глагола используется в Subjunctive Mood?",
+      "options": [
+        "Инфинитив с to",
+        "Bare infinitive (без to и окончаний)",
+        "Герундий (-ing)",
+        "Past Simple"
+      ],
+      "correctIndex": 1,
+      "explanation": "В Subjunctive Mood всегда используется bare infinitive: he be, she go, it remain."
+    },
+    {
+      "id": "tq_09_03",
+      "type": "trueFalse",
+      "question": "\"I suggest that he goes home.\" — грамматически корректное предложение в формальном английском.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "В формальном английском после suggest that нужен bare infinitive: I suggest that he go home."
+    },
+    {
+      "id": "tq_09_04",
+      "type": "multipleChoice",
+      "question": "Какое из этих прилагательных НЕ является триггером Subjunctive Mood?",
+      "options": [
+        "essential",
+        "crucial",
+        "beautiful",
+        "imperative"
+      ],
+      "correctIndex": 2,
+      "explanation": "Beautiful не выражает необходимость или требование, в отличие от essential, crucial, imperative."
+    },
+    {
+      "id": "tq_09_05",
+      "type": "multipleChoice",
+      "question": "Как правильно построить отрицание в Subjunctive Mood?",
+      "options": [
+        "He doesn't go",
+        "He not go",
+        "He don't go",
+        "He isn't going"
+      ],
+      "correctIndex": 1,
+      "explanation": "В Subjunctive Mood отрицание строится без вспомогательных глаголов: NOT + bare infinitive."
+    },
+    {
+      "id": "tq_09_06",
+      "type": "trueFalse",
+      "question": "\"It is vital that the data be encrypted.\" — правильное использование Subjunctive Mood.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Это классический пример Subjunctive: прилагательное vital + that + подлежащее + bare infinitive (be)."
+    },
+    {
+      "id": "tq_09_07",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"We demand that the company ___ its employees fairly.\"",
+      "options": [
+        "treats",
+        "treat",
+        "treated",
+        "is treating"
+      ],
+      "correctIndex": 1,
+      "explanation": "После demand that — bare infinitive: treat (даже для the company — третье лицо)."
+    },
+    {
+      "id": "tq_09_08",
+      "type": "multipleChoice",
+      "question": "Какой глагол-триггер НЕ требует Subjunctive Mood?",
+      "options": [
+        "suggest",
+        "enjoy",
+        "insist",
+        "recommend"
+      ],
+      "correctIndex": 1,
+      "explanation": "Enjoy не выражает требование или предложение, поэтому не запускает Subjunctive Mood."
+    },
+    {
+      "id": "tq_09_09",
+      "type": "trueFalse",
+      "question": "Фраза \"God bless you\" — это пример Subjunctive Mood.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"God bless you\" — реликтовая форма Subjunctive. Если бы это был Indicative, было бы \"God blesses you\"."
+    },
+    {
+      "id": "tq_09_10",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"It is imperative that she ___ not ___ about this.\"",
+      "options": [
+        "does / know",
+        "— / know",
+        "did / know",
+        "is / knowing"
+      ],
+      "correctIndex": 1,
+      "explanation": "В Subjunctive отрицание: she not know (без вспомогательного глагола)."
+    }
+  ],
+  "tasks": [
+    {
+      "id": "t9_1",
+      "type": "sentenceAssembly",
+      "question": "Необходимо, чтобы он присутствовал на встрече",
+      "correctAnswer": "It is essential that he be present at the meeting",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "There",
+          "That",
+          "This"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "essential",
+          "possibly",
+          "likely",
+          "probable"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "if"
+        ],
+        [
+          "he",
+          "him",
+          "his",
+          "himself"
+        ],
+        [
+          "be",
+          "is",
+          "was",
+          "being"
+        ],
+        [
+          "present",
+          "presents",
+          "presented",
+          "presenting"
+        ],
+        [
+          "at",
+          "in",
+          "on",
+          "to"
+        ],
+        [
+          "the",
+          "a",
+          "this",
+          "that"
+        ],
+        [
+          "meeting",
+          "meetings",
+          "meet",
+          "met"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_09_subjunctive/000.mp3"
+    },
+    {
+      "id": "t9_2",
+      "type": "sentenceAssembly",
+      "question": "Я предлагаю, чтобы она ушла пораньше сегодня",
+      "correctAnswer": "I suggest that she leave early today",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "We",
+          "He",
+          "Me"
+        ],
+        [
+          "suggest",
+          "suggested",
+          "suggests",
+          "suggesting"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "so"
+        ],
+        [
+          "she",
+          "her",
+          "hers",
+          "herself"
+        ],
+        [
+          "leave",
+          "leaves",
+          "left",
+          "leaving"
+        ],
+        [
+          "early",
+          "earlier",
+          "earliest",
+          "lately"
+        ],
+        [
+          "today",
+          "yesterday",
+          "tomorrow",
+          "now"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_09_subjunctive/001.mp3"
+    },
+    {
+      "id": "t9_3",
+      "type": "sentenceAssembly",
+      "question": "Врач рекомендует, чтобы пациент отдыхал больше",
+      "correctAnswer": "The doctor recommends that the patient rest more",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "This",
+          "That"
+        ],
+        [
+          "doctor",
+          "nurse",
+          "professor",
+          "physician"
+        ],
+        [
+          "recommends",
+          "recommend",
+          "recommended",
+          "recommending"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "so"
+        ],
+        [
+          "the",
+          "a",
+          "this",
+          "his"
+        ],
+        [
+          "patient",
+          "patience",
+          "patients",
+          "patiently"
+        ],
+        [
+          "rest",
+          "rests",
+          "rested",
+          "resting"
+        ],
+        [
+          "more",
+          "much",
+          "most",
+          "many"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_09_subjunctive/002.mp3"
+    },
+    {
+      "id": "t9_4",
+      "type": "sentenceAssembly",
+      "question": "Они настаивают, чтобы он посещал каждое занятие",
+      "correctAnswer": "They insist that he attend every class",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "We",
+          "Them",
+          "Their"
+        ],
+        [
+          "insist",
+          "insists",
+          "insisted",
+          "insisting"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "if"
+        ],
+        [
+          "he",
+          "him",
+          "his",
+          "himself"
+        ],
+        [
+          "attend",
+          "attends",
+          "attended",
+          "attending"
+        ],
+        [
+          "every",
+          "each",
+          "all",
+          "any"
+        ],
+        [
+          "class",
+          "classes",
+          "lesson",
+          "course"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_09_subjunctive/003.mp3"
+    },
+    {
+      "id": "t9_5",
+      "type": "sentenceAssembly",
+      "question": "Мы требуем, чтобы отчёт был подан вовремя",
+      "correctAnswer": "We demand that the report be submitted on time",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "Us",
+          "Our"
+        ],
+        [
+          "demand",
+          "demands",
+          "demanded",
+          "demanding"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "so"
+        ],
+        [
+          "the",
+          "a",
+          "this",
+          "our"
+        ],
+        [
+          "report",
+          "reports",
+          "reporting",
+          "reporter"
+        ],
+        [
+          "be",
+          "is",
+          "was",
+          "been"
+        ],
+        [
+          "submitted",
+          "submitting",
+          "submit",
+          "submission"
+        ],
+        [
+          "on",
+          "in",
+          "at",
+          "by"
+        ],
+        [
+          "time",
+          "times",
+          "timing",
+          "timely"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_09_subjunctive/004.mp3"
+    },
+    {
+      "id": "t9_6",
+      "type": "sentenceAssembly",
+      "question": "Критически важно, чтобы все данные были зашифрованы",
+      "correctAnswer": "It is crucial that all data be encrypted",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "There",
+          "That",
+          "This"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "crucial",
+          "critical",
+          "seriously",
+          "importantly"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "if"
+        ],
+        [
+          "all",
+          "the",
+          "every",
+          "each"
+        ],
+        [
+          "data",
+          "dates",
+          "datum",
+          "datas"
+        ],
+        [
+          "be",
+          "is",
+          "are",
+          "being"
+        ],
+        [
+          "encrypted",
+          "encrypting",
+          "encrypt",
+          "encryption"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_09_subjunctive/005.mp3"
+    },
+    {
+      "id": "t9_7",
+      "type": "sentenceAssembly",
+      "question": "Контракт требует, чтобы оплата производилась ежемесячно",
+      "correctAnswer": "The contract requires that payment be made monthly",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "This",
+          "That"
+        ],
+        [
+          "contract",
+          "contacts",
+          "contracts",
+          "contraction"
+        ],
+        [
+          "requires",
+          "require",
+          "required",
+          "requiring"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "so"
+        ],
+        [
+          "payment",
+          "payments",
+          "paying",
+          "pay"
+        ],
+        [
+          "be",
+          "is",
+          "was",
+          "been"
+        ],
+        [
+          "made",
+          "make",
+          "making",
+          "makes"
+        ],
+        [
+          "monthly",
+          "month",
+          "months",
+          "annually"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_09_subjunctive/006.mp3"
+    },
+    {
+      "id": "t9_8",
+      "type": "sentenceAssembly",
+      "question": "Она предложила пересмотреть бюджет",
+      "correctAnswer": "She proposed that the budget be revised",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "Her",
+          "They"
+        ],
+        [
+          "proposed",
+          "proposes",
+          "proposing",
+          "proposal"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "so"
+        ],
+        [
+          "the",
+          "a",
+          "this",
+          "our"
+        ],
+        [
+          "budget",
+          "budgets",
+          "budgeting",
+          "budgeted"
+        ],
+        [
+          "be",
+          "is",
+          "was",
+          "were"
+        ],
+        [
+          "revised",
+          "revising",
+          "revise",
+          "revision"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_09_subjunctive/007.mp3"
+    },
+    {
+      "id": "t9_9",
+      "type": "sentenceAssembly",
+      "question": "Настоятельно необходимо, чтобы мы действовали немедленно",
+      "correctAnswer": "It is imperative that we act immediately",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "There",
+          "That",
+          "This"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "imperative",
+          "important",
+          "impossible",
+          "improbable"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "if"
+        ],
+        [
+          "we",
+          "us",
+          "our",
+          "ours"
+        ],
+        [
+          "act",
+          "acts",
+          "acted",
+          "acting"
+        ],
+        [
+          "immediately",
+          "immediate",
+          "immensely",
+          "imminently"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_09_subjunctive/008.mp3"
+    },
+    {
+      "id": "t9_10",
+      "type": "sentenceAssembly",
+      "question": "Закон требует, чтобы каждый гражданин платил налоги",
+      "correctAnswer": "The law requires that every citizen pay taxes",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "This",
+          "Each"
+        ],
+        [
+          "law",
+          "laws",
+          "lawyer",
+          "legal"
+        ],
+        [
+          "requires",
+          "require",
+          "required",
+          "requiring"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "so"
+        ],
+        [
+          "every",
+          "each",
+          "all",
+          "any"
+        ],
+        [
+          "citizen",
+          "citizens",
+          "civilian",
+          "civil"
+        ],
+        [
+          "pay",
+          "pays",
+          "paid",
+          "paying"
+        ],
+        [
+          "taxes",
+          "tax",
+          "taxing",
+          "taxed"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_09_subjunctive/009.mp3"
+    },
+    {
+      "id": "t9_11",
+      "type": "sentenceAssembly",
+      "question": "Я советую, чтобы он не подписывал контракт",
+      "correctAnswer": "I advise that he not sign the contract",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "We",
+          "He",
+          "Me"
+        ],
+        [
+          "advise",
+          "advises",
+          "advised",
+          "advising"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "so"
+        ],
+        [
+          "he",
+          "him",
+          "his",
+          "himself"
+        ],
+        [
+          "not",
+          "don't",
+          "doesn't",
+          "no"
+        ],
+        [
+          "sign",
+          "signs",
+          "signed",
+          "signing"
+        ],
+        [
+          "the",
+          "a",
+          "this",
+          "that"
+        ],
+        [
+          "contract",
+          "contacts",
+          "contracts",
+          "agreement"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_09_subjunctive/010.mp3"
+    },
+    {
+      "id": "t9_12",
+      "type": "sentenceAssembly",
+      "question": "Обязательно, чтобы каждый сотрудник прошёл проверку безопасности",
+      "correctAnswer": "It is mandatory that every employee undergo a security check",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "There",
+          "That",
+          "This"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "mandatory",
+          "voluntary",
+          "optional",
+          "necessary"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "if"
+        ],
+        [
+          "every",
+          "each",
+          "all",
+          "any"
+        ],
+        [
+          "employee",
+          "employer",
+          "employees",
+          "employment"
+        ],
+        [
+          "undergo",
+          "undergoes",
+          "underwent",
+          "undergoing"
+        ],
+        [
+          "a",
+          "the",
+          "an",
+          "this"
+        ],
+        [
+          "security",
+          "secure",
+          "securing",
+          "secured"
+        ],
+        [
+          "check",
+          "checks",
+          "checked",
+          "checking"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_09_subjunctive/011.mp3"
+    },
+    {
+      "id": "t9_13",
+      "type": "sentenceAssembly",
+      "question": "Судья потребовал, чтобы обвиняемый встал",
+      "correctAnswer": "The judge demanded that the defendant stand up",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "This",
+          "That"
+        ],
+        [
+          "judge",
+          "judges",
+          "judging",
+          "jury"
+        ],
+        [
+          "demanded",
+          "demands",
+          "demanding",
+          "demand"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "so"
+        ],
+        [
+          "the",
+          "a",
+          "this",
+          "that"
+        ],
+        [
+          "defendant",
+          "defendants",
+          "defence",
+          "defender"
+        ],
+        [
+          "stand",
+          "stands",
+          "stood",
+          "standing"
+        ],
+        [
+          "up",
+          "down",
+          "out",
+          "off"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_09_subjunctive/012.mp3"
+    },
+    {
+      "id": "t9_14",
+      "type": "sentenceAssembly",
+      "question": "Жизненно важно, чтобы пациент принимал лекарства регулярно",
+      "correctAnswer": "It is vital that the patient take medication regularly",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "There",
+          "That",
+          "This"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "vital",
+          "viable",
+          "visual",
+          "virtual"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "if"
+        ],
+        [
+          "the",
+          "a",
+          "this",
+          "his"
+        ],
+        [
+          "patient",
+          "patience",
+          "patients",
+          "patiently"
+        ],
+        [
+          "take",
+          "takes",
+          "took",
+          "taking"
+        ],
+        [
+          "medication",
+          "medicine",
+          "medical",
+          "medicate"
+        ],
+        [
+          "regularly",
+          "regular",
+          "rarely",
+          "usually"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_09_subjunctive/013.mp3"
+    },
+    {
+      "id": "t9_15",
+      "type": "sentenceAssembly",
+      "question": "Комитет предложил, чтобы правила были изменены",
+      "correctAnswer": "The committee proposed that the rules be changed",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "This",
+          "Our"
+        ],
+        [
+          "committee",
+          "committees",
+          "commission",
+          "community"
+        ],
+        [
+          "proposed",
+          "proposes",
+          "proposing",
+          "proposal"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "so"
+        ],
+        [
+          "the",
+          "a",
+          "these",
+          "those"
+        ],
+        [
+          "rules",
+          "rule",
+          "roles",
+          "regulations"
+        ],
+        [
+          "be",
+          "are",
+          "were",
+          "been"
+        ],
+        [
+          "changed",
+          "changing",
+          "change",
+          "changes"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_09_subjunctive/014.mp3"
+    },
+    {
+      "id": "t9_16",
+      "type": "sentenceAssembly",
+      "question": "Резолюция требует, чтобы меры были приняты немедленно",
+      "correctAnswer": "The resolution demands that action be taken immediately",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "This",
+          "That"
+        ],
+        [
+          "resolution",
+          "resolutions",
+          "revolution",
+          "resolve"
+        ],
+        [
+          "demands",
+          "demand",
+          "demanded",
+          "demanding"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "so"
+        ],
+        [
+          "action",
+          "actions",
+          "act",
+          "acting"
+        ],
+        [
+          "be",
+          "is",
+          "was",
+          "were"
+        ],
+        [
+          "taken",
+          "taking",
+          "take",
+          "took"
+        ],
+        [
+          "immediately",
+          "immediate",
+          "immensely",
+          "instantly"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_09_subjunctive/015.mp3"
+    },
+    {
+      "id": "t9_17",
+      "type": "sentenceAssembly",
+      "question": "Я настоятельно прошу, чтобы была проявлена осторожность",
+      "correctAnswer": "I urge that caution be exercised in this matter",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "We",
+          "He",
+          "Me"
+        ],
+        [
+          "urge",
+          "urges",
+          "urged",
+          "urging"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "so"
+        ],
+        [
+          "caution",
+          "cautious",
+          "cautiously",
+          "cautions"
+        ],
+        [
+          "be",
+          "is",
+          "was",
+          "been"
+        ],
+        [
+          "exercised",
+          "exercising",
+          "exercise",
+          "exercises"
+        ],
+        [
+          "in",
+          "on",
+          "at",
+          "for"
+        ],
+        [
+          "this",
+          "that",
+          "the",
+          "a"
+        ],
+        [
+          "matter",
+          "matters",
+          "mattered",
+          "mattering"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_09_subjunctive/016.mp3"
+    },
+    {
+      "id": "t9_18",
+      "type": "sentenceAssembly",
+      "question": "Необходимо, чтобы каждый кандидат представил документы",
+      "correctAnswer": "It is necessary that each candidate submit the documents",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "There",
+          "That",
+          "This"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "necessary",
+          "necessarily",
+          "necessity",
+          "needless"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "if"
+        ],
+        [
+          "each",
+          "every",
+          "all",
+          "any"
+        ],
+        [
+          "candidate",
+          "candidates",
+          "candidacy",
+          "candid"
+        ],
+        [
+          "submit",
+          "submits",
+          "submitted",
+          "submitting"
+        ],
+        [
+          "the",
+          "a",
+          "these",
+          "those"
+        ],
+        [
+          "documents",
+          "document",
+          "documented",
+          "documenting"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_09_subjunctive/017.mp3"
+    },
+    {
+      "id": "t9_19",
+      "type": "sentenceAssembly",
+      "question": "Менеджер настаивает, чтобы команда работала сверхурочно",
+      "correctAnswer": "The manager insists that the team work overtime",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "Our",
+          "This"
+        ],
+        [
+          "manager",
+          "managers",
+          "management",
+          "managing"
+        ],
+        [
+          "insists",
+          "insist",
+          "insisted",
+          "insisting"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "so"
+        ],
+        [
+          "the",
+          "a",
+          "his",
+          "their"
+        ],
+        [
+          "team",
+          "teams",
+          "staff",
+          "group"
+        ],
+        [
+          "work",
+          "works",
+          "worked",
+          "working"
+        ],
+        [
+          "overtime",
+          "overwork",
+          "over",
+          "extra"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_09_subjunctive/018.mp3"
+    },
+    {
+      "id": "t9_20",
+      "type": "sentenceAssembly",
+      "question": "Желательно, чтобы все участники были проинформированы заранее",
+      "correctAnswer": "It is desirable that all participants be informed in advance",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "There",
+          "That",
+          "This"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "desirable",
+          "desired",
+          "desirous",
+          "desperate"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "if"
+        ],
+        [
+          "all",
+          "the",
+          "every",
+          "each"
+        ],
+        [
+          "participants",
+          "participant",
+          "participation",
+          "participating"
+        ],
+        [
+          "be",
+          "are",
+          "were",
+          "been"
+        ],
+        [
+          "informed",
+          "informing",
+          "inform",
+          "information"
+        ],
+        [
+          "in",
+          "on",
+          "at",
+          "by"
+        ],
+        [
+          "advance",
+          "advanced",
+          "advancing",
+          "advantage"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_09_subjunctive/019.mp3"
+    },
+    {
+      "id": "t9_21",
+      "type": "sentenceAssembly",
+      "question": "Совет рекомендует, чтобы директор не раскрывал эту информацию",
+      "correctAnswer": "The board recommends that the director not disclose this information",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "This",
+          "Our"
+        ],
+        [
+          "board",
+          "boards",
+          "bored",
+          "broad"
+        ],
+        [
+          "recommends",
+          "recommend",
+          "recommended",
+          "recommending"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "so"
+        ],
+        [
+          "the",
+          "a",
+          "this",
+          "our"
+        ],
+        [
+          "director",
+          "directors",
+          "direction",
+          "direct"
+        ],
+        [
+          "not",
+          "don't",
+          "doesn't",
+          "no"
+        ],
+        [
+          "disclose",
+          "discloses",
+          "disclosed",
+          "disclosing"
+        ],
+        [
+          "this",
+          "that",
+          "the",
+          "a"
+        ],
+        [
+          "information",
+          "informing",
+          "informed",
+          "informative"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_09_subjunctive/020.mp3"
+    },
+    {
+      "id": "t9_22",
+      "type": "sentenceAssembly",
+      "question": "Важно, чтобы правда была раскрыта, каковы бы ни были последствия",
+      "correctAnswer": "It is important that the truth be revealed whatever the consequences",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "There",
+          "That",
+          "This"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "important",
+          "importantly",
+          "importance",
+          "impossible"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "if"
+        ],
+        [
+          "the",
+          "a",
+          "this",
+          "that"
+        ],
+        [
+          "truth",
+          "true",
+          "truly",
+          "truths"
+        ],
+        [
+          "be",
+          "is",
+          "was",
+          "been"
+        ],
+        [
+          "revealed",
+          "revealing",
+          "reveal",
+          "revelation"
+        ],
+        [
+          "whatever",
+          "wherever",
+          "whenever",
+          "however"
+        ],
+        [
+          "the",
+          "a",
+          "this",
+          "those"
+        ],
+        [
+          "consequences",
+          "consequence",
+          "consequent",
+          "consequently"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_09_subjunctive/021.mp3"
+    },
+    {
+      "id": "t9_23",
+      "type": "sentenceAssembly",
+      "question": "Как бы то ни было, мы должны продолжать работу",
+      "correctAnswer": "Be that as it may we must continue the work",
+      "options": [],
+      "variants": [
+        [
+          "Be",
+          "Is",
+          "Was",
+          "Being"
+        ],
+        [
+          "that",
+          "this",
+          "what",
+          "it"
+        ],
+        [
+          "as",
+          "like",
+          "so",
+          "than"
+        ],
+        [
+          "it",
+          "that",
+          "this",
+          "he"
+        ],
+        [
+          "may",
+          "might",
+          "can",
+          "must"
+        ],
+        [
+          "we",
+          "us",
+          "our",
+          "ours"
+        ],
+        [
+          "must",
+          "should",
+          "can",
+          "may"
+        ],
+        [
+          "continue",
+          "continues",
+          "continued",
+          "continuing"
+        ],
+        [
+          "the",
+          "a",
+          "this",
+          "our"
+        ],
+        [
+          "work",
+          "works",
+          "working",
+          "worked"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_09_subjunctive/022.mp3"
+    },
+    {
+      "id": "t9_24",
+      "type": "sentenceAssembly",
+      "question": "Профессор требует, чтобы каждый студент сдал эссе лично",
+      "correctAnswer": "The professor requires that each student submit the essay in person",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "Our",
+          "This"
+        ],
+        [
+          "professor",
+          "professors",
+          "profession",
+          "professional"
+        ],
+        [
+          "requires",
+          "require",
+          "required",
+          "requiring"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "so"
+        ],
+        [
+          "each",
+          "every",
+          "all",
+          "any"
+        ],
+        [
+          "student",
+          "students",
+          "studying",
+          "studied"
+        ],
+        [
+          "submit",
+          "submits",
+          "submitted",
+          "submitting"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "essay",
+          "essays",
+          "assay",
+          "essayist"
+        ],
+        [
+          "in",
+          "on",
+          "at",
+          "by"
+        ],
+        [
+          "person",
+          "personally",
+          "personal",
+          "persons"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_09_subjunctive/023.mp3"
+    },
+    {
+      "id": "t9_25",
+      "type": "sentenceAssembly",
+      "question": "Положение оговаривает, чтобы любые изменения были одобрены",
+      "correctAnswer": "The provision stipulates that any changes be approved",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "This",
+          "That"
+        ],
+        [
+          "provision",
+          "provisions",
+          "providing",
+          "provider"
+        ],
+        [
+          "stipulates",
+          "stipulate",
+          "stipulated",
+          "stipulating"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "so"
+        ],
+        [
+          "any",
+          "all",
+          "some",
+          "every"
+        ],
+        [
+          "changes",
+          "change",
+          "changing",
+          "changed"
+        ],
+        [
+          "be",
+          "are",
+          "were",
+          "been"
+        ],
+        [
+          "approved",
+          "approving",
+          "approve",
+          "approval"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_09_subjunctive/024.mp3"
+    },
+    {
+      "id": "t9_26",
+      "type": "sentenceAssembly",
+      "question": "Я настаиваю, чтобы он был наказан за проступок",
+      "correctAnswer": "I insist that he be punished for the misconduct",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "We",
+          "He",
+          "Me"
+        ],
+        [
+          "insist",
+          "insists",
+          "insisted",
+          "insisting"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "so"
+        ],
+        [
+          "he",
+          "him",
+          "his",
+          "himself"
+        ],
+        [
+          "be",
+          "is",
+          "was",
+          "were"
+        ],
+        [
+          "punished",
+          "punishing",
+          "punish",
+          "punishment"
+        ],
+        [
+          "for",
+          "of",
+          "by",
+          "from"
+        ],
+        [
+          "the",
+          "a",
+          "this",
+          "his"
+        ],
+        [
+          "misconduct",
+          "misconducts",
+          "conduct",
+          "conducted"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_09_subjunctive/025.mp3"
+    },
+    {
+      "id": "t9_27",
+      "type": "sentenceAssembly",
+      "question": "Крайне важно, чтобы никто не покидал здание до окончания проверки",
+      "correctAnswer": "It is crucial that nobody leave the building until the inspection is complete",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "There",
+          "That",
+          "This"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "crucial",
+          "critical",
+          "crucially",
+          "carefully"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "if"
+        ],
+        [
+          "nobody",
+          "no one",
+          "anyone",
+          "somebody"
+        ],
+        [
+          "leave",
+          "leaves",
+          "left",
+          "leaving"
+        ],
+        [
+          "the",
+          "a",
+          "this",
+          "that"
+        ],
+        [
+          "building",
+          "buildings",
+          "built",
+          "build"
+        ],
+        [
+          "until",
+          "before",
+          "after",
+          "since"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "inspection",
+          "inspections",
+          "inspecting",
+          "inspector"
+        ],
+        [
+          "is",
+          "be",
+          "was",
+          "were"
+        ],
+        [
+          "complete",
+          "completed",
+          "completing",
+          "completes"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_09_subjunctive/026.mp3"
+    },
+    {
+      "id": "t9_28",
+      "type": "sentenceAssembly",
+      "question": "Совет настоятельно просит, чтобы решение было принято единогласно",
+      "correctAnswer": "The council urges that the decision be made unanimously",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "This",
+          "Our"
+        ],
+        [
+          "council",
+          "counsel",
+          "councils",
+          "counselor"
+        ],
+        [
+          "urges",
+          "urge",
+          "urged",
+          "urging"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "so"
+        ],
+        [
+          "the",
+          "a",
+          "this",
+          "our"
+        ],
+        [
+          "decision",
+          "decisions",
+          "decisive",
+          "decided"
+        ],
+        [
+          "be",
+          "is",
+          "was",
+          "were"
+        ],
+        [
+          "made",
+          "make",
+          "making",
+          "makes"
+        ],
+        [
+          "unanimously",
+          "unanimous",
+          "uniformly",
+          "uniquely"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_09_subjunctive/027.mp3"
+    },
+    {
+      "id": "t9_29",
+      "type": "sentenceAssembly",
+      "question": "Политика компании требует, чтобы все сотрудники носили бейджи",
+      "correctAnswer": "Company policy requires that all employees wear identification badges",
+      "options": [],
+      "variants": [
+        [
+          "Company",
+          "Companies",
+          "A company",
+          "The company's"
+        ],
+        [
+          "policy",
+          "policies",
+          "police",
+          "policing"
+        ],
+        [
+          "requires",
+          "require",
+          "required",
+          "requiring"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "so"
+        ],
+        [
+          "all",
+          "every",
+          "each",
+          "any"
+        ],
+        [
+          "employees",
+          "employee",
+          "employers",
+          "employment"
+        ],
+        [
+          "wear",
+          "wears",
+          "wore",
+          "wearing"
+        ],
+        [
+          "identification",
+          "identify",
+          "identified",
+          "identity"
+        ],
+        [
+          "badges",
+          "badge",
+          "bandages",
+          "budgets"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_09_subjunctive/028.mp3"
+    },
+    {
+      "id": "t9_30",
+      "type": "sentenceAssembly",
+      "question": "Я предлагаю, чтобы мы отложили голосование до тех пор, пока все не будут присутствовать",
+      "correctAnswer": "I suggest that we postpone the vote until everyone be present",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "We",
+          "He",
+          "Me"
+        ],
+        [
+          "suggest",
+          "suggests",
+          "suggested",
+          "suggesting"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "so"
+        ],
+        [
+          "we",
+          "us",
+          "our",
+          "ours"
+        ],
+        [
+          "postpone",
+          "postpones",
+          "postponed",
+          "postponing"
+        ],
+        [
+          "the",
+          "a",
+          "this",
+          "our"
+        ],
+        [
+          "vote",
+          "votes",
+          "voting",
+          "voted"
+        ],
+        [
+          "until",
+          "before",
+          "after",
+          "unless"
+        ],
+        [
+          "everyone",
+          "everybody",
+          "anyone",
+          "someone"
+        ],
+        [
+          "be",
+          "is",
+          "was",
+          "are"
+        ],
+        [
+          "present",
+          "presents",
+          "presented",
+          "presenting"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_09_subjunctive/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionAdvanced09Subjunctive"
+}

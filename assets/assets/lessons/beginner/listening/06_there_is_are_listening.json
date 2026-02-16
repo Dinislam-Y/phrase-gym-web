@@ -1,0 +1,461 @@
+{
+  "id": "beginner_listening_06_there_is_are",
+  "title": "There is / There are",
+  "description": "Слушайте фразы с «there is» и «there are» в простых ситуациях.",
+  "order": 6,
+  "level": "beginner",
+  "imageUrl": "assets/images/lessons/there_is_are.png",
+  "short_description": "Предложения с there is / there are.",
+  "tasks": [
+    {
+      "id": "t6_01",
+      "audioText": "He looks at the street map. There is a bank near here.",
+      "transcript": "There is a bank near here.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "There is a bank near here."
+        },
+        {
+          "id": "o2",
+          "text": "There are two banks here."
+        },
+        {
+          "id": "o3",
+          "text": "The bank is closed."
+        },
+        {
+          "id": "o4",
+          "text": "He works at the bank."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says a bank exists near here. Other options change number, state, or the subject.",
+      "mistakeTags": [
+        "bank",
+        "there_is_are"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_06_there_is_are/t6_01.mp3"
+    },
+    {
+      "id": "t6_02",
+      "audioText": "They walk in the park. They see many people. There are many people in the park.",
+      "transcript": "There are many people in the park.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "There are many people in the park."
+        },
+        {
+          "id": "o2",
+          "text": "There is one person in the park."
+        },
+        {
+          "id": "o3",
+          "text": "The park is empty."
+        },
+        {
+          "id": "o4",
+          "text": "They work in the park."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says many people are in the park. Other options change quantity or the situation.",
+      "mistakeTags": [
+        "park",
+        "there_is_are"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_06_there_is_are/t6_02.mp3"
+    },
+    {
+      "id": "t6_03",
+      "audioText": "She opens the fridge at home. There is no milk.",
+      "transcript": "There is no milk.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "There is no milk."
+        },
+        {
+          "id": "o2",
+          "text": "There is milk."
+        },
+        {
+          "id": "o3",
+          "text": "She buys milk now."
+        },
+        {
+          "id": "o4",
+          "text": "The milk is cold."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says milk is not there. Other options say the opposite or other actions.",
+      "mistakeTags": [
+        "home",
+        "there_is_are"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_06_there_is_are/t6_03.mp3"
+    },
+    {
+      "id": "t6_04",
+      "audioText": "At the shop the shelf is full. There are five boxes on the shelf.",
+      "transcript": "There are five boxes on the shelf.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "There are five boxes on the shelf."
+        },
+        {
+          "id": "o2",
+          "text": "There is one box on the shelf."
+        },
+        {
+          "id": "o3",
+          "text": "The shelf is empty."
+        },
+        {
+          "id": "o4",
+          "text": "He takes a box."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says five boxes exist on the shelf. Other options change the number or condition.",
+      "mistakeTags": [
+        "shop",
+        "there_is_are"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_06_there_is_are/t6_04.mp3"
+    },
+    {
+      "id": "t6_05",
+      "audioText": "He looks at the menu in the cafe. There is a soup of the day.",
+      "transcript": "There is a soup of the day.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "There is a soup of the day."
+        },
+        {
+          "id": "o2",
+          "text": "There are soups of the day."
+        },
+        {
+          "id": "o3",
+          "text": "He cooks the soup."
+        },
+        {
+          "id": "o4",
+          "text": "The soup is cold."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says the soup of the day exists on the menu. Other options change number or the action.",
+      "mistakeTags": [
+        "cafe",
+        "there_is_are"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_06_there_is_are/t6_05.mp3"
+    },
+    {
+      "id": "t6_06",
+      "audioText": "They enter the hotel lobby. There is a small desk near the door.",
+      "transcript": "There is a small desk near the door.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "There is a small desk near the door."
+        },
+        {
+          "id": "o2",
+          "text": "There are many desks near the door."
+        },
+        {
+          "id": "o3",
+          "text": "The desk is far away."
+        },
+        {
+          "id": "o4",
+          "text": "They sit at the desk."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence states a small desk exists near the door. Other options change number or location.",
+      "mistakeTags": [
+        "hotel",
+        "there_is_are"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_06_there_is_are/t6_06.mp3"
+    },
+    {
+      "id": "t6_07",
+      "audioText": "At the bus stop he reads the timetable. There is one bus every hour.",
+      "transcript": "There is one bus every hour.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "There is one bus every hour."
+        },
+        {
+          "id": "o2",
+          "text": "There are buses every five minutes."
+        },
+        {
+          "id": "o3",
+          "text": "The bus is late now."
+        },
+        {
+          "id": "o4",
+          "text": "He takes a taxi."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence describes the schedule: one bus each hour. Other options change frequency or topic.",
+      "mistakeTags": [
+        "bus_station",
+        "there_is_are"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_06_there_is_are/t6_07.mp3"
+    },
+    {
+      "id": "t6_08",
+      "audioText": "She checks the classroom. There are twenty students in the class.",
+      "transcript": "There are twenty students in the class.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "There are twenty students in the class."
+        },
+        {
+          "id": "o2",
+          "text": "There is one student in the class."
+        },
+        {
+          "id": "o3",
+          "text": "The class is empty."
+        },
+        {
+          "id": "o4",
+          "text": "The teacher is absent."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says twenty students are present. Other options change number or the situation.",
+      "mistakeTags": [
+        "school",
+        "there_is_are"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_06_there_is_are/t6_08.mp3"
+    },
+    {
+      "id": "t6_09",
+      "audioText": "He comes home late and looks around. There is a light in the kitchen.",
+      "transcript": "There is a light in the kitchen.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "There is a light in the kitchen."
+        },
+        {
+          "id": "o2",
+          "text": "There are lights in the kitchen."
+        },
+        {
+          "id": "o3",
+          "text": "The kitchen is dark."
+        },
+        {
+          "id": "o4",
+          "text": "He turns off the light."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says a light exists in the kitchen. Other options change number or the state.",
+      "mistakeTags": [
+        "home",
+        "there_is_are"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_06_there_is_are/t6_09.mp3"
+    },
+    {
+      "id": "t6_10",
+      "audioText": "At the market she looks at the fruit. There are fresh oranges on the stall.",
+      "transcript": "There are fresh oranges on the stall.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "There are fresh oranges on the stall."
+        },
+        {
+          "id": "o2",
+          "text": "There is a fresh orange on the stall."
+        },
+        {
+          "id": "o3",
+          "text": "The oranges are old."
+        },
+        {
+          "id": "o4",
+          "text": "She buys oranges now."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says fresh oranges exist on the stall. Other options change number, condition, or action.",
+      "mistakeTags": [
+        "market",
+        "there_is_are"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_06_there_is_are/t6_10.mp3"
+    },
+    {
+      "id": "t6_11",
+      "audioText": "He goes to the clinic and asks. There is no doctor now.",
+      "transcript": "There is no doctor now.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "There is no doctor now."
+        },
+        {
+          "id": "o2",
+          "text": "There is a doctor now."
+        },
+        {
+          "id": "o3",
+          "text": "The doctor will come later."
+        },
+        {
+          "id": "o4",
+          "text": "He is a doctor."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says a doctor is not present now. Other options state the opposite or different events.",
+      "mistakeTags": [
+        "hospital",
+        "there_is_are"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_06_there_is_are/t6_11.mp3"
+    },
+    {
+      "id": "t6_12",
+      "audioText": "At the post office he asks the clerk. There are many letters today.",
+      "transcript": "There are many letters today.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "There are many letters today."
+        },
+        {
+          "id": "o2",
+          "text": "There is one letter today."
+        },
+        {
+          "id": "o3",
+          "text": "He sends a letter."
+        },
+        {
+          "id": "o4",
+          "text": "The post office is closed."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says many letters exist today. Other options change number or action.",
+      "mistakeTags": [
+        "post_office",
+        "there_is_are"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_06_there_is_are/t6_12.mp3"
+    },
+    {
+      "id": "t6_13",
+      "audioText": "He enters the office and looks around. There is a new computer on the desk.",
+      "transcript": "There is a new computer on the desk.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "There is a new computer on the desk."
+        },
+        {
+          "id": "o2",
+          "text": "There are new computers on the desk."
+        },
+        {
+          "id": "o3",
+          "text": "The desk is empty."
+        },
+        {
+          "id": "o4",
+          "text": "He buys a new computer."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says one new computer exists on the desk. Other options change number or action.",
+      "mistakeTags": [
+        "office",
+        "there_is_are"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_06_there_is_are/t6_13.mp3"
+    },
+    {
+      "id": "t6_14",
+      "audioText": "At the gym he looks in the corner. There is a towel on the bench.",
+      "transcript": "There is a towel on the bench.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "There is a towel on the bench."
+        },
+        {
+          "id": "o2",
+          "text": "There are towels on the bench."
+        },
+        {
+          "id": "o3",
+          "text": "The bench is empty."
+        },
+        {
+          "id": "o4",
+          "text": "He takes a towel."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says a towel exists on the bench. Other options change number or situation.",
+      "mistakeTags": [
+        "gym",
+        "there_is_are"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_06_there_is_are/t6_14.mp3"
+    },
+    {
+      "id": "t6_15",
+      "audioText": "He talks to the officer at the station. There is a report on the desk.",
+      "transcript": "There is a report on the desk.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "There is a report on the desk."
+        },
+        {
+          "id": "o2",
+          "text": "There are reports on the desk."
+        },
+        {
+          "id": "o3",
+          "text": "The desk is empty."
+        },
+        {
+          "id": "o4",
+          "text": "He writes a report."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says a report exists on the desk. Other options change number or action.",
+      "mistakeTags": [
+        "police_station",
+        "there_is_are"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_06_there_is_are/t6_15.mp3"
+    }
+  ]
+}

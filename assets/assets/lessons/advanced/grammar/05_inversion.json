@@ -1,0 +1,2894 @@
+{
+  "id": "advanced_05_inversion",
+  "title": "Inversion",
+  "description": "Инверсия — это изменение порядка слов для усиления выразительности (Never have I seen...).",
+  "order": 5,
+  "level": "advanced",
+  "imageUrl": "assets/images/lessons/inversion.png",
+  "vocabulary": [
+    {
+      "id": "v5_never",
+      "english": "never",
+      "russian": "никогда",
+      "partOfSpeech": "adverb",
+      "example": "Never have I seen such a thing.",
+      "exampleTranslation": "Никогда я не видел такого.",
+      "audioPath": "assets/audio/vocabulary/v5_never.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_never.mp3"
+    },
+    {
+      "id": "v5_rarely",
+      "english": "rarely",
+      "russian": "редко",
+      "partOfSpeech": "adverb",
+      "example": "Rarely does she arrive on time.",
+      "exampleTranslation": "Редко она приходит вовремя.",
+      "audioPath": "assets/audio/vocabulary/v5_rarely.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_rarely.mp3"
+    },
+    {
+      "id": "v5_hardly",
+      "english": "hardly",
+      "russian": "едва",
+      "partOfSpeech": "adverb",
+      "example": "Hardly had I entered the room.",
+      "exampleTranslation": "Едва я вошёл в комнату.",
+      "audioPath": "assets/audio/vocabulary/v5_hardly.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_hardly.mp3"
+    },
+    {
+      "id": "v5_seldom",
+      "english": "seldom",
+      "russian": "редко",
+      "partOfSpeech": "adverb",
+      "example": "Seldom do we see such courage.",
+      "exampleTranslation": "Редко мы видим такую смелость.",
+      "audioPath": "assets/audio/vocabulary/v5_seldom.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_seldom.mp3"
+    },
+    {
+      "id": "v5_only",
+      "english": "only",
+      "russian": "только",
+      "partOfSpeech": "adverb",
+      "example": "Only then did I understand the truth.",
+      "exampleTranslation": "Только тогда я понял правду.",
+      "audioPath": "assets/audio/vocabulary/v5_only.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_only.mp3"
+    },
+    {
+      "id": "v5_nor",
+      "english": "nor",
+      "russian": "ни / и не",
+      "partOfSpeech": "conjunction",
+      "example": "Nor did he try to explain.",
+      "exampleTranslation": "И не пытался он объяснить.",
+      "audioPath": "assets/audio/vocabulary/v5_nor.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_nor.mp3"
+    },
+    {
+      "id": "v5_neither",
+      "english": "neither",
+      "russian": "тоже не",
+      "partOfSpeech": "adverb",
+      "example": "Neither did she agree with him.",
+      "exampleTranslation": "И она тоже не согласилась с ним.",
+      "audioPath": "assets/audio/vocabulary/v5_neither.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_neither.mp3"
+    },
+    {
+      "id": "v5_nowhere",
+      "english": "nowhere",
+      "russian": "нигде",
+      "partOfSpeech": "adverb",
+      "example": "Nowhere will you find a better deal.",
+      "exampleTranslation": "Нигде не найдёшь предложения лучше.",
+      "audioPath": "assets/audio/vocabulary/v5_nowhere.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_nowhere.mp3"
+    },
+    {
+      "id": "v5_little",
+      "english": "little",
+      "russian": "мало",
+      "partOfSpeech": "adverb",
+      "example": "Little did we know about the danger.",
+      "exampleTranslation": "Мало мы знали об опасности.",
+      "audioPath": "assets/audio/vocabulary/v5_little.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_little.mp3"
+    },
+    {
+      "id": "v5_circumstance",
+      "english": "circumstance",
+      "russian": "обстоятельство (условие)",
+      "partOfSpeech": "noun",
+      "example": "Under no circumstances should you leave.",
+      "exampleTranslation": "Ни при каких обстоятельствах не уходите.",
+      "audioPath": "assets/audio/vocabulary/v5_circumstance.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_circumstance.mp3"
+    },
+    {
+      "id": "v5_sooner",
+      "english": "sooner",
+      "russian": "скорее / раньше",
+      "partOfSpeech": "adverb",
+      "example": "No sooner had he arrived than it rained.",
+      "exampleTranslation": "Не успел он приехать, как пошёл дождь.",
+      "audioPath": "assets/audio/vocabulary/v5_sooner.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_sooner.mp3"
+    },
+    {
+      "id": "v5_account",
+      "english": "account",
+      "russian": "основание / причина",
+      "partOfSpeech": "noun",
+      "example": "On no account should you open that door.",
+      "exampleTranslation": "Ни в коем случае не открывайте эту дверь.",
+      "audioPath": "assets/audio/vocabulary/v5_account.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_account.mp3"
+    },
+    {
+      "id": "v5_scarcely",
+      "english": "scarcely",
+      "russian": "едва / почти не",
+      "partOfSpeech": "adverb",
+      "example": "Scarcely had she spoken when he left.",
+      "exampleTranslation": "Едва она заговорила, как он ушёл.",
+      "audioPath": "assets/audio/vocabulary/v5_scarcely.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_scarcely.mp3"
+    },
+    {
+      "id": "v5_condition",
+      "english": "condition",
+      "russian": "условие",
+      "partOfSpeech": "noun",
+      "example": "On no condition should you tell anyone.",
+      "exampleTranslation": "Ни при каких условиях не рассказывай никому.",
+      "audioPath": "assets/audio/vocabulary/v5_condition.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_condition.mp3"
+    },
+    {
+      "id": "v5_occasion",
+      "english": "occasion",
+      "russian": "случай / раз",
+      "partOfSpeech": "noun",
+      "example": "Not once did he apologize for his mistake.",
+      "exampleTranslation": "Ни разу он не извинился за свою ошибку.",
+      "audioPath": "assets/audio/vocabulary/v5_occasion.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_occasion.mp3"
+    },
+    {
+      "id": "v5_such",
+      "english": "such",
+      "russian": "такой",
+      "partOfSpeech": "adjective",
+      "example": "Such was the power of his speech.",
+      "exampleTranslation": "Такова была сила его речи.",
+      "audioPath": "assets/audio/vocabulary/v5_such.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_such.mp3"
+    },
+    {
+      "id": "v5_well",
+      "english": "well",
+      "russian": "хорошо",
+      "partOfSpeech": "adverb",
+      "example": "Well do I remember that summer day.",
+      "exampleTranslation": "Хорошо я помню тот летний день.",
+      "audioPath": "assets/audio/vocabulary/v5_well.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_well.mp3"
+    },
+    {
+      "id": "v5_way",
+      "english": "way",
+      "russian": "образ / способ",
+      "partOfSpeech": "noun",
+      "example": "In no way did she agree with them.",
+      "exampleTranslation": "Ни в коей мере она не согласилась.",
+      "audioPath": "assets/audio/vocabulary/v5_way.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_way.mp3"
+    },
+    {
+      "id": "v5_so",
+      "english": "so",
+      "russian": "так / настолько",
+      "partOfSpeech": "adverb",
+      "example": "So strong was the wind that trees fell.",
+      "exampleTranslation": "Так силён был ветер, что деревья упали.",
+      "audioPath": "assets/audio/vocabulary/v5_so.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_so.mp3"
+    },
+    {
+      "id": "v5_not",
+      "english": "not only",
+      "russian": "не только",
+      "partOfSpeech": "conjunction",
+      "example": "Not only did she win but she set a record.",
+      "exampleTranslation": "Она не только выиграла, но и установила рекорд.",
+      "audioPath": "assets/audio/vocabulary/v5_not.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_not.mp3"
+    },
+    {
+      "id": "v5_at",
+      "english": "at no time",
+      "russian": "ни в какой момент",
+      "partOfSpeech": "phrase",
+      "example": "At no time did he feel any regret.",
+      "exampleTranslation": "Ни в какой момент он не чувствовал сожаления.",
+      "audioPath": "assets/audio/vocabulary/v5_at.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_at.mp3"
+    },
+    {
+      "id": "v5_had",
+      "english": "had",
+      "russian": "если бы (инверсия)",
+      "partOfSpeech": "verb",
+      "example": "Had I known the truth I would have stayed.",
+      "exampleTranslation": "Если бы я знал правду, я бы остался.",
+      "audioPath": "assets/audio/vocabulary/v5_had.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_had.mp3"
+    },
+    {
+      "id": "v5_should",
+      "english": "should",
+      "russian": "если бы (инверсия)",
+      "partOfSpeech": "verb",
+      "example": "Should you need help please call me today.",
+      "exampleTranslation": "Если вам нужна помощь, позвоните мне сегодня.",
+      "audioPath": "assets/audio/vocabulary/v5_should.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_should.mp3"
+    },
+    {
+      "id": "v5_were",
+      "english": "were",
+      "russian": "если бы (инверсия)",
+      "partOfSpeech": "verb",
+      "example": "Were I younger I would travel the world.",
+      "exampleTranslation": "Если бы я был моложе, я бы путешествовал.",
+      "audioPath": "assets/audio/vocabulary/v5_were.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_were.mp3"
+    },
+    {
+      "id": "v5_here",
+      "english": "here",
+      "russian": "вот / здесь",
+      "partOfSpeech": "adverb",
+      "example": "Here comes the bus around the corner now.",
+      "exampleTranslation": "Вот идёт автобус из-за угла.",
+      "audioPath": "assets/audio/vocabulary/v5_here.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_here.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "Inversion (Инверсия)",
+    "subtitle": "Инверсия — это изменение обычного порядка слов (подлежащее + сказуемое) для создания драматического, формального или эмфатического эффекта. После отрицательных и ограничительных наречий вспомогательный глагол ставится перед подлежащим.",
+    "construction": {
+      "formula": "Negative/Restrictive Adverb + Auxiliary + Subject + Main Verb",
+      "rules": [
+        {
+          "word": "Negative adverbs",
+          "description": "Never HAVE I seen... / Rarely DO we go... (После Never, Rarely, Seldom, Hardly ставим вспомогательный глагол ПЕРЕД подлежащим)."
+        },
+        {
+          "word": "Not only... but also",
+          "description": "Not only DID she pass, but she also got top marks. (Инверсия в первой части, обычный порядок во второй)."
+        },
+        {
+          "word": "Under no circumstances",
+          "description": "Under no circumstances SHOULD you open that door. (Фразы с «no» требуют инверсии)."
+        },
+        {
+          "word": "Conditional inversion",
+          "description": "Had I known... / Were I younger... / Should you need... (Инверсия вместо «if» в условных предложениях)."
+        },
+        {
+          "word": "Place inversion",
+          "description": "Under the tree SAT an old man. / Here COMES the bus. (Обстоятельство места в начале — инверсия подлежащего и сказуемого)."
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "star",
+        "color": "purple",
+        "title": "Эмфаза и драма",
+        "description": "Инверсия после отрицательных наречий усиливает высказывание.",
+        "example": {
+          "english": "Never before had I seen such a beautiful sunset.",
+          "russian": "Никогда прежде я не видел такого прекрасного заката."
+        }
+      },
+      {
+        "icon": "check_circle",
+        "color": "blue",
+        "title": "Формальный стиль",
+        "description": "Инверсия после ограничительных фраз придаёт тексту формальность.",
+        "example": {
+          "english": "Under no circumstances should you open the emergency door.",
+          "russian": "Ни при каких обстоятельствах не открывайте аварийную дверь."
+        }
+      },
+      {
+        "icon": "handshake",
+        "color": "green",
+        "title": "Условные предложения",
+        "description": "Инверсия заменяет «if» в формальных условных предложениях.",
+        "example": {
+          "english": "Had I known the answer I would have told you.",
+          "russian": "Если бы я знал ответ, я бы вам сказал."
+        }
+      }
+    ],
+    "markers": [
+      "never have I",
+      "rarely do",
+      "not only... but also",
+      "hardly had",
+      "under no circumstances",
+      "no sooner... than",
+      "little did",
+      "seldom does",
+      "at no time",
+      "on no account"
+    ]
+  },
+  "tasks": [
+    {
+      "id": "t5_1",
+      "type": "sentenceAssembly",
+      "question": "Никогда прежде я не видел такого прекрасного заката",
+      "correctAnswer": "Never before had I seen such a beautiful sunset",
+      "options": [],
+      "variants": [
+        [
+          "Never",
+          "Ever",
+          "Not",
+          "Always",
+          "Once"
+        ],
+        [
+          "before",
+          "after",
+          "again",
+          "since",
+          "then"
+        ],
+        [
+          "had",
+          "has",
+          "have",
+          "did",
+          "was"
+        ],
+        [
+          "I",
+          "He",
+          "She",
+          "We",
+          "They"
+        ],
+        [
+          "seen",
+          "see",
+          "saw",
+          "looked",
+          "watched"
+        ],
+        [
+          "such",
+          "so",
+          "this",
+          "that",
+          "very"
+        ],
+        [
+          "a",
+          "an",
+          "this",
+          "the",
+          "that"
+        ],
+        [
+          "beautiful",
+          "lovely",
+          "pretty",
+          "nice",
+          "great"
+        ],
+        [
+          "sunset",
+          "sunrise",
+          "morning",
+          "evening",
+          "view"
+        ]
+      ],
+      "mistakeTags": [
+        "inversion",
+        "inverted_word_order"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_05_inversion/000.mp3"
+    },
+    {
+      "id": "t5_2",
+      "type": "sentenceAssembly",
+      "question": "Редко концепция свободы вызывала столь глубокие дебаты",
+      "correctAnswer": "Rarely has the concept of freedom sparked such debate",
+      "options": [],
+      "variants": [
+        [
+          "Rarely",
+          "Never",
+          "Often",
+          "Always",
+          "Seldom"
+        ],
+        [
+          "has",
+          "have",
+          "had",
+          "does",
+          "did"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "concept",
+          "idea",
+          "notion",
+          "thought",
+          "theory"
+        ],
+        [
+          "of",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "freedom",
+          "justice",
+          "truth",
+          "peace",
+          "power"
+        ],
+        [
+          "sparked",
+          "caused",
+          "started",
+          "brought",
+          "made"
+        ],
+        [
+          "such",
+          "so",
+          "this",
+          "that",
+          "very"
+        ],
+        [
+          "debate",
+          "conflict",
+          "interest",
+          "concern",
+          "change"
+        ]
+      ],
+      "mistakeTags": [
+        "inversion",
+        "inverted_word_order"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_05_inversion/001.mp3"
+    },
+    {
+      "id": "t5_3",
+      "type": "sentenceAssembly",
+      "question": "Не только она сдала экзамен, но и получила высший балл",
+      "correctAnswer": "Not only did she pass but she got top marks",
+      "options": [],
+      "variants": [
+        [
+          "Not",
+          "No",
+          "Never",
+          "Nor",
+          "None"
+        ],
+        [
+          "only",
+          "just",
+          "merely",
+          "simply",
+          "once"
+        ],
+        [
+          "did",
+          "do",
+          "does",
+          "was",
+          "had"
+        ],
+        [
+          "she",
+          "I",
+          "He",
+          "It",
+          "We"
+        ],
+        [
+          "pass",
+          "passed",
+          "fail",
+          "take",
+          "sit"
+        ],
+        [
+          "but",
+          "and",
+          "yet",
+          "or",
+          "so"
+        ],
+        [
+          "she",
+          "I",
+          "He",
+          "It",
+          "We"
+        ],
+        [
+          "got",
+          "get",
+          "had",
+          "won",
+          "earned"
+        ],
+        [
+          "top",
+          "best",
+          "high",
+          "good",
+          "full"
+        ],
+        [
+          "marks",
+          "scores",
+          "grades",
+          "points",
+          "results"
+        ]
+      ],
+      "mistakeTags": [
+        "inversion",
+        "inverted_word_order"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_05_inversion/002.mp3"
+    },
+    {
+      "id": "t5_4",
+      "type": "sentenceAssembly",
+      "question": "Только после окончания экзамена она почувствовала облегчение",
+      "correctAnswer": "Only after finishing the exam did she feel relieved",
+      "options": [],
+      "variants": [
+        [
+          "Only",
+          "Just",
+          "Not",
+          "Once",
+          "Even"
+        ],
+        [
+          "after",
+          "before",
+          "since",
+          "until",
+          "when"
+        ],
+        [
+          "finishing",
+          "starting",
+          "taking",
+          "doing",
+          "passing"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this",
+          "that"
+        ],
+        [
+          "exam",
+          "test",
+          "paper",
+          "work",
+          "task"
+        ],
+        [
+          "did",
+          "do",
+          "does",
+          "was",
+          "had"
+        ],
+        [
+          "she",
+          "He",
+          "I",
+          "We",
+          "They"
+        ],
+        [
+          "feel",
+          "felt",
+          "seem",
+          "look",
+          "get"
+        ],
+        [
+          "relieved",
+          "happy",
+          "calm",
+          "relaxed",
+          "better"
+        ]
+      ],
+      "mistakeTags": [
+        "inversion",
+        "inverted_word_order"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_05_inversion/003.mp3"
+    },
+    {
+      "id": "t5_5",
+      "type": "sentenceAssembly",
+      "question": "Ни при каких обстоятельствах правительство не должно нарушать конституцию",
+      "correctAnswer": "Under no circumstances should the government violate the constitution",
+      "options": [],
+      "variants": [
+        [
+          "Under",
+          "In",
+          "At",
+          "On",
+          "By"
+        ],
+        [
+          "no",
+          "not",
+          "any",
+          "some",
+          "the"
+        ],
+        [
+          "circumstances",
+          "conditions",
+          "reasons",
+          "cases",
+          "events"
+        ],
+        [
+          "should",
+          "shall",
+          "must",
+          "can",
+          "would"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "government",
+          "parliament",
+          "authority",
+          "president",
+          "court"
+        ],
+        [
+          "violate",
+          "break",
+          "ignore",
+          "change",
+          "amend"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "constitution",
+          "agreement",
+          "treaty",
+          "contract",
+          "law"
+        ]
+      ],
+      "mistakeTags": [
+        "inversion",
+        "inverted_word_order"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_05_inversion/004.mp3"
+    },
+    {
+      "id": "t5_6",
+      "type": "sentenceAssembly",
+      "question": "Едва я вошёл в комнату, как зазвонил телефон",
+      "correctAnswer": "Hardly had I entered the room when the phone rang",
+      "options": [],
+      "variants": [
+        [
+          "Hardly",
+          "Barely",
+          "Scarcely",
+          "Just",
+          "Nearly"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "did",
+          "was"
+        ],
+        [
+          "I",
+          "She",
+          "He",
+          "It",
+          "We"
+        ],
+        [
+          "entered",
+          "enter",
+          "left",
+          "reached",
+          "opened"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each",
+          "an"
+        ],
+        [
+          "room",
+          "house",
+          "office",
+          "hall",
+          "door"
+        ],
+        [
+          "when",
+          "than",
+          "then",
+          "before",
+          "after"
+        ],
+        [
+          "the",
+          "a",
+          "my",
+          "his",
+          "her"
+        ],
+        [
+          "phone",
+          "bell",
+          "alarm",
+          "door",
+          "clock"
+        ],
+        [
+          "rang",
+          "ring",
+          "called",
+          "sounded",
+          "beeped"
+        ]
+      ],
+      "mistakeTags": [
+        "inversion",
+        "inverted_word_order"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_05_inversion/005.mp3"
+    },
+    {
+      "id": "t5_7",
+      "type": "sentenceAssembly",
+      "question": "Мало мы знали об опасности, которая ждала впереди",
+      "correctAnswer": "Little did we know about the danger that lay ahead",
+      "options": [],
+      "variants": [
+        [
+          "Little",
+          "Few",
+          "Small",
+          "Less",
+          "Bit"
+        ],
+        [
+          "did",
+          "do",
+          "does",
+          "had",
+          "was"
+        ],
+        [
+          "we",
+          "He",
+          "She",
+          "I",
+          "They"
+        ],
+        [
+          "know",
+          "knew",
+          "think",
+          "see",
+          "learn"
+        ],
+        [
+          "about",
+          "for",
+          "at",
+          "in",
+          "with"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this",
+          "that"
+        ],
+        [
+          "danger",
+          "risk",
+          "problem",
+          "threat",
+          "trouble"
+        ],
+        [
+          "that",
+          "which",
+          "what",
+          "who",
+          "this"
+        ],
+        [
+          "lay",
+          "laid",
+          "was",
+          "stood",
+          "came"
+        ],
+        [
+          "ahead",
+          "behind",
+          "before",
+          "near",
+          "close"
+        ]
+      ],
+      "mistakeTags": [
+        "inversion",
+        "inverted_word_order"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_05_inversion/006.mp3"
+    },
+    {
+      "id": "t5_8",
+      "type": "sentenceAssembly",
+      "question": "Не успели они опубликовать теорию, как начались эксперименты",
+      "correctAnswer": "No sooner had they published the theory than experiments began",
+      "options": [],
+      "variants": [
+        [
+          "No",
+          "Not",
+          "Never",
+          "Nor",
+          "None"
+        ],
+        [
+          "sooner",
+          "later",
+          "longer",
+          "more",
+          "less"
+        ],
+        [
+          "had",
+          "has",
+          "have",
+          "did",
+          "was"
+        ],
+        [
+          "they",
+          "them",
+          "she",
+          "he",
+          "we"
+        ],
+        [
+          "published",
+          "proven",
+          "tested",
+          "found",
+          "shown"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "theory",
+          "hypothesis",
+          "formula",
+          "study",
+          "paper"
+        ],
+        [
+          "than",
+          "then",
+          "when",
+          "that",
+          "before"
+        ],
+        [
+          "experiments",
+          "trials",
+          "debates",
+          "reviews",
+          "tests"
+        ],
+        [
+          "began",
+          "started",
+          "ended",
+          "followed",
+          "emerged"
+        ]
+      ],
+      "mistakeTags": [
+        "inversion",
+        "inverted_word_order"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_05_inversion/007.mp3"
+    },
+    {
+      "id": "t5_9",
+      "type": "sentenceAssembly",
+      "question": "Под деревом сидел старик, читающий газету",
+      "correctAnswer": "Under the tree sat an old man reading a newspaper",
+      "options": [],
+      "variants": [
+        [
+          "Under",
+          "Below",
+          "Beneath",
+          "Near",
+          "Behind"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each",
+          "an"
+        ],
+        [
+          "tree",
+          "bridge",
+          "roof",
+          "wall",
+          "hill"
+        ],
+        [
+          "sat",
+          "sit",
+          "stood",
+          "was",
+          "lay"
+        ],
+        [
+          "an",
+          "a",
+          "that",
+          "each",
+          "the"
+        ],
+        [
+          "old",
+          "young",
+          "tall",
+          "wise",
+          "tired"
+        ],
+        [
+          "man",
+          "woman",
+          "boy",
+          "person",
+          "fellow"
+        ],
+        [
+          "reading",
+          "holding",
+          "writing",
+          "watching",
+          "taking"
+        ],
+        [
+          "a",
+          "that",
+          "each",
+          "an",
+          "the"
+        ],
+        [
+          "newspaper",
+          "book",
+          "letter",
+          "magazine",
+          "paper"
+        ]
+      ],
+      "mistakeTags": [
+        "inversion",
+        "inverted_word_order"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_05_inversion/008.mp3"
+    },
+    {
+      "id": "t5_10",
+      "type": "sentenceAssembly",
+      "question": "Только тогда я понял серьёзность ситуации",
+      "correctAnswer": "Only then did I understand the seriousness of the situation",
+      "options": [],
+      "variants": [
+        [
+          "Only",
+          "Just",
+          "Not",
+          "Once",
+          "Even"
+        ],
+        [
+          "then",
+          "now",
+          "later",
+          "there",
+          "when"
+        ],
+        [
+          "did",
+          "do",
+          "does",
+          "was",
+          "had"
+        ],
+        [
+          "I",
+          "He",
+          "She",
+          "We",
+          "They"
+        ],
+        [
+          "understand",
+          "know",
+          "see",
+          "feel",
+          "realize"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this",
+          "that"
+        ],
+        [
+          "seriousness",
+          "importance",
+          "meaning",
+          "depth",
+          "nature"
+        ],
+        [
+          "of",
+          "for",
+          "at",
+          "in",
+          "with"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this",
+          "that"
+        ],
+        [
+          "situation",
+          "problem",
+          "matter",
+          "issue",
+          "crisis"
+        ]
+      ],
+      "mistakeTags": [
+        "inversion",
+        "inverted_word_order"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_05_inversion/009.mp3"
+    },
+    {
+      "id": "t5_11",
+      "type": "sentenceAssembly",
+      "question": "Нигде не найдёшь более глубокого анализа моральной дилеммы",
+      "correctAnswer": "Nowhere will one find a deeper analysis of this moral dilemma",
+      "options": [],
+      "variants": [
+        [
+          "Nowhere",
+          "Never",
+          "Nothing",
+          "Nobody",
+          "None"
+        ],
+        [
+          "will",
+          "would",
+          "can",
+          "could",
+          "shall"
+        ],
+        [
+          "one",
+          "you",
+          "we",
+          "they",
+          "people"
+        ],
+        [
+          "find",
+          "found",
+          "get",
+          "see",
+          "have"
+        ],
+        [
+          "a",
+          "the",
+          "an",
+          "this"
+        ],
+        [
+          "deeper",
+          "better",
+          "greater",
+          "broader",
+          "finer"
+        ],
+        [
+          "analysis",
+          "study",
+          "review",
+          "debate",
+          "account"
+        ],
+        [
+          "of",
+          "with",
+          "from",
+          "by"
+        ],
+        [
+          "this",
+          "the",
+          "that",
+          "such",
+          "any"
+        ],
+        [
+          "moral",
+          "ethical",
+          "social",
+          "legal",
+          "human"
+        ],
+        [
+          "dilemma",
+          "problem",
+          "question",
+          "issue",
+          "crisis"
+        ]
+      ],
+      "mistakeTags": [
+        "inversion",
+        "inverted_word_order"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_05_inversion/010.mp3"
+    },
+    {
+      "id": "t5_12",
+      "type": "sentenceAssembly",
+      "question": "Никогда больше я не буду доверять ему снова",
+      "correctAnswer": "Never again will I trust him with my secrets",
+      "options": [],
+      "variants": [
+        [
+          "Never",
+          "Not",
+          "Ever",
+          "No",
+          "Nor"
+        ],
+        [
+          "again",
+          "more",
+          "once",
+          "ever",
+          "after"
+        ],
+        [
+          "will",
+          "would",
+          "shall",
+          "can",
+          "could"
+        ],
+        [
+          "I",
+          "She",
+          "He",
+          "It",
+          "We"
+        ],
+        [
+          "trust",
+          "believe",
+          "help",
+          "follow",
+          "call"
+        ],
+        [
+          "him",
+          "She",
+          "He",
+          "It",
+          "We"
+        ],
+        [
+          "with",
+          "about",
+          "through",
+          "into",
+          "for"
+        ],
+        [
+          "my",
+          "She",
+          "He",
+          "It",
+          "We"
+        ],
+        [
+          "secrets",
+          "money",
+          "plans",
+          "words",
+          "things"
+        ]
+      ],
+      "mistakeTags": [
+        "inversion",
+        "inverted_word_order"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_05_inversion/011.mp3"
+    },
+    {
+      "id": "t5_13",
+      "type": "sentenceAssembly",
+      "question": "Ни в коем случае не трогайте эту красную кнопку",
+      "correctAnswer": "On no account should you touch the red button",
+      "options": [],
+      "variants": [
+        [
+          "On",
+          "for",
+          "at",
+          "in",
+          "with"
+        ],
+        [
+          "no",
+          "not",
+          "any",
+          "the",
+          "some"
+        ],
+        [
+          "account",
+          "condition",
+          "reason",
+          "ground",
+          "basis"
+        ],
+        [
+          "should",
+          "shall",
+          "must",
+          "can",
+          "would"
+        ],
+        [
+          "you",
+          "He",
+          "She",
+          "We",
+          "They"
+        ],
+        [
+          "touch",
+          "press",
+          "open",
+          "break",
+          "move"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this",
+          "that"
+        ],
+        [
+          "red",
+          "big",
+          "small",
+          "main",
+          "top"
+        ],
+        [
+          "button",
+          "switch",
+          "lever",
+          "door",
+          "handle"
+        ]
+      ],
+      "mistakeTags": [
+        "inversion",
+        "inverted_word_order"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_05_inversion/012.mp3"
+    },
+    {
+      "id": "t5_14",
+      "type": "sentenceAssembly",
+      "question": "Если бы философы знали истину, история пошла бы иначе",
+      "correctAnswer": "Had the philosophers known the truth history would have changed",
+      "options": [],
+      "variants": [
+        [
+          "Had",
+          "Have",
+          "Has",
+          "Did",
+          "Was"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "philosophers",
+          "scientists",
+          "thinkers",
+          "scholars",
+          "leaders"
+        ],
+        [
+          "known",
+          "know",
+          "knew",
+          "learned",
+          "heard"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "truth",
+          "answer",
+          "reason",
+          "secret",
+          "facts"
+        ],
+        [
+          "history",
+          "science",
+          "society",
+          "culture",
+          "progress"
+        ],
+        [
+          "would",
+          "could",
+          "should",
+          "might",
+          "will"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "be",
+          "get"
+        ],
+        [
+          "changed",
+          "shifted",
+          "evolved",
+          "improved",
+          "collapsed"
+        ]
+      ],
+      "mistakeTags": [
+        "inversion",
+        "inverted_word_order"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_05_inversion/013.mp3"
+    },
+    {
+      "id": "t5_15",
+      "type": "sentenceAssembly",
+      "question": "Редко мы видим такую храбрость в наши дни",
+      "correctAnswer": "Seldom do we see such courage in these days",
+      "options": [],
+      "variants": [
+        [
+          "Seldom",
+          "Rarely",
+          "Never",
+          "Often",
+          "Always"
+        ],
+        [
+          "do",
+          "does",
+          "did",
+          "are",
+          "have"
+        ],
+        [
+          "we",
+          "She",
+          "He",
+          "It",
+          "I"
+        ],
+        [
+          "see",
+          "saw",
+          "find",
+          "show",
+          "meet"
+        ],
+        [
+          "such",
+          "so",
+          "this",
+          "that",
+          "great"
+        ],
+        [
+          "courage",
+          "bravery",
+          "kindness",
+          "talent",
+          "beauty"
+        ],
+        [
+          "in",
+          "about",
+          "through",
+          "into",
+          "for"
+        ],
+        [
+          "these",
+          "those",
+          "the",
+          "our",
+          "such"
+        ],
+        [
+          "days",
+          "times",
+          "years",
+          "weeks",
+          "hours"
+        ]
+      ],
+      "mistakeTags": [
+        "inversion",
+        "inverted_word_order"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_05_inversion/014.mp3"
+    },
+    {
+      "id": "t5_16",
+      "type": "sentenceAssembly",
+      "question": "Ни разу он не извинился за своё грубое поведение",
+      "correctAnswer": "Not once did he apologize for his rude behavior",
+      "options": [],
+      "variants": [
+        [
+          "Not",
+          "No",
+          "Never",
+          "Nor",
+          "None"
+        ],
+        [
+          "once",
+          "ever",
+          "one",
+          "time",
+          "yet"
+        ],
+        [
+          "did",
+          "do",
+          "does",
+          "was",
+          "had"
+        ],
+        [
+          "he",
+          "I",
+          "She",
+          "We",
+          "They"
+        ],
+        [
+          "apologize",
+          "explain",
+          "answer",
+          "respond",
+          "speak"
+        ],
+        [
+          "for",
+          "at",
+          "in",
+          "with",
+          "from"
+        ],
+        [
+          "his",
+          "He",
+          "She",
+          "We",
+          "They"
+        ],
+        [
+          "rude",
+          "bad",
+          "poor",
+          "harsh",
+          "cold"
+        ],
+        [
+          "behavior",
+          "conduct",
+          "manner",
+          "attitude",
+          "words"
+        ]
+      ],
+      "mistakeTags": [
+        "inversion",
+        "inverted_word_order"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_05_inversion/015.mp3"
+    },
+    {
+      "id": "t5_17",
+      "type": "sentenceAssembly",
+      "question": "Если вам потребуется консультация, обратитесь к руководителю проекта",
+      "correctAnswer": "Should you require any consultation please contact the project manager",
+      "options": [],
+      "variants": [
+        [
+          "Should",
+          "Shall",
+          "Would",
+          "Could",
+          "Will"
+        ],
+        [
+          "you",
+          "we",
+          "they",
+          "he",
+          "she"
+        ],
+        [
+          "require",
+          "want",
+          "request",
+          "seek",
+          "ask"
+        ],
+        [
+          "any",
+          "some",
+          "the",
+          "more",
+          "our"
+        ],
+        [
+          "consultation",
+          "advice",
+          "guidance",
+          "support",
+          "assistance"
+        ],
+        [
+          "please",
+          "kindly",
+          "then",
+          "just",
+          "simply"
+        ],
+        [
+          "contact",
+          "call",
+          "write",
+          "visit",
+          "email"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "project",
+          "senior",
+          "chief",
+          "lead",
+          "main"
+        ],
+        [
+          "manager",
+          "director",
+          "officer",
+          "advisor",
+          "head"
+        ]
+      ],
+      "mistakeTags": [
+        "inversion",
+        "inverted_word_order"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_05_inversion/016.mp3"
+    },
+    {
+      "id": "t5_18",
+      "type": "sentenceAssembly",
+      "question": "Если бы я был моложе, я бы объехал весь мир",
+      "correctAnswer": "Were I younger I would travel around the whole world",
+      "options": [],
+      "variants": [
+        [
+          "Were",
+          "Was",
+          "Am",
+          "Are",
+          "Be"
+        ],
+        [
+          "I",
+          "She",
+          "He",
+          "It",
+          "We"
+        ],
+        [
+          "younger",
+          "older",
+          "taller",
+          "richer",
+          "braver"
+        ],
+        [
+          "I",
+          "She",
+          "He",
+          "It",
+          "We"
+        ],
+        [
+          "would",
+          "could",
+          "should",
+          "might",
+          "will"
+        ],
+        [
+          "travel",
+          "go",
+          "move",
+          "fly",
+          "drive"
+        ],
+        [
+          "around",
+          "across",
+          "through",
+          "over",
+          "into"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each",
+          "an"
+        ],
+        [
+          "whole",
+          "entire",
+          "big",
+          "wide",
+          "great"
+        ],
+        [
+          "world",
+          "country",
+          "planet",
+          "globe",
+          "earth"
+        ]
+      ],
+      "mistakeTags": [
+        "inversion",
+        "inverted_word_order"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_05_inversion/017.mp3"
+    },
+    {
+      "id": "t5_19",
+      "type": "sentenceAssembly",
+      "question": "Ни в коей мере она не согласилась с их планом",
+      "correctAnswer": "In no way did she agree with their plan",
+      "options": [],
+      "variants": [
+        [
+          "In",
+          "for",
+          "at",
+          "on",
+          "with"
+        ],
+        [
+          "no",
+          "not",
+          "any",
+          "some",
+          "the"
+        ],
+        [
+          "way",
+          "case",
+          "form",
+          "sense",
+          "part"
+        ],
+        [
+          "did",
+          "do",
+          "does",
+          "was",
+          "had"
+        ],
+        [
+          "she",
+          "He",
+          "I",
+          "We",
+          "They"
+        ],
+        [
+          "agree",
+          "accept",
+          "follow",
+          "support",
+          "believe"
+        ],
+        [
+          "with",
+          "for",
+          "at",
+          "in",
+          "from"
+        ],
+        [
+          "their",
+          "He",
+          "She",
+          "We",
+          "They"
+        ],
+        [
+          "plan",
+          "idea",
+          "proposal",
+          "choice",
+          "decision"
+        ]
+      ],
+      "mistakeTags": [
+        "inversion",
+        "inverted_word_order"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_05_inversion/018.mp3"
+    },
+    {
+      "id": "t5_20",
+      "type": "sentenceAssembly",
+      "question": "Так силён был шторм, что деревья попадали повсюду",
+      "correctAnswer": "So strong was the storm that trees fell down everywhere",
+      "options": [],
+      "variants": [
+        [
+          "So",
+          "Too",
+          "Very",
+          "Such",
+          "How"
+        ],
+        [
+          "strong",
+          "fierce",
+          "loud",
+          "great",
+          "big"
+        ],
+        [
+          "was",
+          "is",
+          "were",
+          "are",
+          "had"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "this",
+          "one"
+        ],
+        [
+          "storm",
+          "wind",
+          "rain",
+          "flood",
+          "wave"
+        ],
+        [
+          "that",
+          "than",
+          "then",
+          "which",
+          "when"
+        ],
+        [
+          "trees",
+          "houses",
+          "walls",
+          "roofs",
+          "fences"
+        ],
+        [
+          "fell",
+          "fall",
+          "broke",
+          "crashed",
+          "dropped"
+        ],
+        [
+          "down",
+          "off",
+          "out",
+          "over",
+          "apart"
+        ],
+        [
+          "everywhere",
+          "outside",
+          "around",
+          "nearby",
+          "quickly"
+        ]
+      ],
+      "mistakeTags": [
+        "inversion",
+        "inverted_word_order"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_05_inversion/019.mp3"
+    },
+    {
+      "id": "t5_21",
+      "type": "sentenceAssembly",
+      "question": "Вот идёт автобус, на который мы так долго ждали",
+      "correctAnswer": "Here comes the bus that we have been waiting for",
+      "options": [],
+      "variants": [
+        [
+          "Here",
+          "There",
+          "Now",
+          "Look",
+          "See"
+        ],
+        [
+          "comes",
+          "come",
+          "came",
+          "goes",
+          "went"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each",
+          "an"
+        ],
+        [
+          "bus",
+          "train",
+          "taxi",
+          "car",
+          "tram"
+        ],
+        [
+          "that",
+          "which",
+          "what",
+          "who",
+          "where"
+        ],
+        [
+          "we",
+          "She",
+          "He",
+          "It",
+          "I"
+        ],
+        [
+          "have",
+          "had",
+          "has",
+          "are",
+          "were"
+        ],
+        [
+          "been",
+          "be",
+          "being",
+          "got",
+          "gone"
+        ],
+        [
+          "waiting",
+          "looking",
+          "hoping",
+          "asking",
+          "calling"
+        ],
+        [
+          "for",
+          "about",
+          "through",
+          "into",
+          "at"
+        ]
+      ],
+      "mistakeTags": [
+        "inversion",
+        "inverted_word_order"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_05_inversion/020.mp3"
+    },
+    {
+      "id": "t5_22",
+      "type": "sentenceAssembly",
+      "question": "Не только он умён, но и невероятно трудолюбив",
+      "correctAnswer": "Not only is he smart but also incredibly hard working",
+      "options": [],
+      "variants": [
+        [
+          "Not",
+          "No",
+          "Nor",
+          "Never",
+          "None"
+        ],
+        [
+          "only",
+          "just",
+          "merely",
+          "simply",
+          "once"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "were",
+          "does"
+        ],
+        [
+          "he",
+          "I",
+          "She",
+          "We",
+          "They"
+        ],
+        [
+          "smart",
+          "clever",
+          "bright",
+          "wise",
+          "quick"
+        ],
+        [
+          "but",
+          "and",
+          "yet",
+          "or",
+          "so"
+        ],
+        [
+          "also",
+          "too",
+          "even",
+          "still",
+          "just"
+        ],
+        [
+          "incredibly",
+          "very",
+          "really",
+          "quite",
+          "truly"
+        ],
+        [
+          "hard",
+          "fast",
+          "well",
+          "good",
+          "keen"
+        ],
+        [
+          "working",
+          "learning",
+          "trying",
+          "growing",
+          "thinking"
+        ]
+      ],
+      "mistakeTags": [
+        "inversion",
+        "inverted_word_order"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_05_inversion/021.mp3"
+    },
+    {
+      "id": "t5_23",
+      "type": "sentenceAssembly",
+      "question": "Ни в какой момент он не чувствовал сожаления о решении",
+      "correctAnswer": "At no time did he feel any regret about it",
+      "options": [],
+      "variants": [
+        [
+          "At",
+          "with",
+          "from",
+          "by",
+          "for"
+        ],
+        [
+          "no",
+          "not",
+          "any",
+          "the",
+          "some"
+        ],
+        [
+          "time",
+          "point",
+          "moment",
+          "stage",
+          "place"
+        ],
+        [
+          "did",
+          "do",
+          "does",
+          "was",
+          "had"
+        ],
+        [
+          "he",
+          "They",
+          "You",
+          "One",
+          "I"
+        ],
+        [
+          "feel",
+          "felt",
+          "show",
+          "have",
+          "express"
+        ],
+        [
+          "any",
+          "a",
+          "some",
+          "every",
+          "an"
+        ],
+        [
+          "regret",
+          "doubt",
+          "fear",
+          "guilt",
+          "shame"
+        ],
+        [
+          "about",
+          "with",
+          "from",
+          "by",
+          "for"
+        ],
+        [
+          "it",
+          "They",
+          "You",
+          "One",
+          "He"
+        ]
+      ],
+      "mistakeTags": [
+        "inversion",
+        "inverted_word_order"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_05_inversion/022.mp3"
+    },
+    {
+      "id": "t5_24",
+      "type": "sentenceAssembly",
+      "question": "Едва она заговорила, как он встал и вышел",
+      "correctAnswer": "Scarcely had she spoken when he stood up and left",
+      "options": [],
+      "variants": [
+        [
+          "Scarcely",
+          "Hardly",
+          "Barely",
+          "Just",
+          "Nearly"
+        ],
+        [
+          "had",
+          "has",
+          "have",
+          "did",
+          "was"
+        ],
+        [
+          "she",
+          "I",
+          "He",
+          "It",
+          "We"
+        ],
+        [
+          "spoken",
+          "talked",
+          "started",
+          "finished",
+          "arrived"
+        ],
+        [
+          "when",
+          "than",
+          "then",
+          "before",
+          "after"
+        ],
+        [
+          "he",
+          "She",
+          "I",
+          "It",
+          "We"
+        ],
+        [
+          "stood",
+          "got",
+          "jumped",
+          "walked",
+          "ran"
+        ],
+        [
+          "up",
+          "out",
+          "off",
+          "away",
+          "down"
+        ],
+        [
+          "and",
+          "then",
+          "but",
+          "or",
+          "so"
+        ],
+        [
+          "left",
+          "went",
+          "ran",
+          "stayed",
+          "stopped"
+        ]
+      ],
+      "mistakeTags": [
+        "inversion",
+        "inverted_word_order"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_05_inversion/023.mp3"
+    },
+    {
+      "id": "t5_25",
+      "type": "sentenceAssembly",
+      "question": "Такова была сила его речи, что все замолчали",
+      "correctAnswer": "Such was the power of his speech that everyone listened",
+      "options": [],
+      "variants": [
+        [
+          "Such",
+          "So",
+          "This",
+          "That",
+          "What"
+        ],
+        [
+          "was",
+          "is",
+          "were",
+          "are",
+          "had"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this",
+          "that"
+        ],
+        [
+          "power",
+          "force",
+          "strength",
+          "beauty",
+          "charm"
+        ],
+        [
+          "of",
+          "for",
+          "at",
+          "in",
+          "with"
+        ],
+        [
+          "his",
+          "He",
+          "She",
+          "We",
+          "They"
+        ],
+        [
+          "speech",
+          "words",
+          "voice",
+          "story",
+          "message"
+        ],
+        [
+          "that",
+          "than",
+          "then",
+          "which",
+          "when"
+        ],
+        [
+          "everyone",
+          "nobody",
+          "somebody",
+          "people",
+          "they"
+        ],
+        [
+          "listened",
+          "stopped",
+          "clapped",
+          "cheered",
+          "cried"
+        ]
+      ],
+      "mistakeTags": [
+        "inversion",
+        "inverted_word_order"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_05_inversion/024.mp3"
+    },
+    {
+      "id": "t5_26",
+      "type": "sentenceAssembly",
+      "question": "Едва он вошёл в комнату как зазвонил телефон",
+      "correctAnswer": "Hardly had he entered the room when the phone rang",
+      "options": [],
+      "variants": [
+        [
+          "Hardly",
+          "Nearly",
+          "Already",
+          "Finally",
+          "Quickly"
+        ],
+        [
+          "had",
+          "has",
+          "have",
+          "did",
+          "was"
+        ],
+        [
+          "he",
+          "They",
+          "You",
+          "One",
+          "I"
+        ],
+        [
+          "entered",
+          "enter",
+          "left",
+          "opened",
+          "closed"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every",
+          "an"
+        ],
+        [
+          "room",
+          "house",
+          "office",
+          "hall",
+          "door"
+        ],
+        [
+          "when",
+          "than",
+          "then",
+          "before",
+          "after"
+        ],
+        [
+          "the",
+          "a",
+          "his",
+          "her",
+          "my"
+        ],
+        [
+          "phone",
+          "bell",
+          "alarm",
+          "clock",
+          "door"
+        ],
+        [
+          "rang",
+          "ring",
+          "called",
+          "sounded",
+          "beeped"
+        ]
+      ],
+      "mistakeTags": [
+        "inversion",
+        "inverted_word_order"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_05_inversion/025.mp3"
+    },
+    {
+      "id": "t5_27",
+      "type": "sentenceAssembly",
+      "question": "Хорошо помню я тот холодный зимний день",
+      "correctAnswer": "Well do I remember that cold winter day clearly",
+      "options": [],
+      "variants": [
+        [
+          "Well",
+          "Good",
+          "Fine",
+          "Best",
+          "Clear"
+        ],
+        [
+          "do",
+          "did",
+          "does",
+          "have",
+          "can"
+        ],
+        [
+          "I",
+          "She",
+          "He",
+          "It",
+          "We"
+        ],
+        [
+          "remember",
+          "recall",
+          "know",
+          "think",
+          "see"
+        ],
+        [
+          "that",
+          "the",
+          "this",
+          "one",
+          "a"
+        ],
+        [
+          "cold",
+          "dark",
+          "long",
+          "hard",
+          "last"
+        ],
+        [
+          "winter",
+          "summer",
+          "autumn",
+          "spring",
+          "rainy"
+        ],
+        [
+          "day",
+          "night",
+          "morning",
+          "evening",
+          "week"
+        ],
+        [
+          "clearly",
+          "still",
+          "now",
+          "always",
+          "forever"
+        ]
+      ],
+      "mistakeTags": [
+        "inversion",
+        "inverted_word_order"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_05_inversion/026.mp3"
+    },
+    {
+      "id": "t5_28",
+      "type": "sentenceAssembly",
+      "question": "Только после экзамена она поняла свою ошибку в тесте",
+      "correctAnswer": "Only after the exam did she realize her mistake",
+      "options": [],
+      "variants": [
+        [
+          "Only",
+          "Just",
+          "Even",
+          "Once",
+          "Not"
+        ],
+        [
+          "after",
+          "for",
+          "at",
+          "in",
+          "with"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this",
+          "that"
+        ],
+        [
+          "exam",
+          "test",
+          "class",
+          "lesson",
+          "task"
+        ],
+        [
+          "did",
+          "do",
+          "does",
+          "was",
+          "had"
+        ],
+        [
+          "she",
+          "He",
+          "I",
+          "We",
+          "They"
+        ],
+        [
+          "realize",
+          "noticed",
+          "found",
+          "saw",
+          "knew"
+        ],
+        [
+          "her",
+          "He",
+          "She",
+          "We",
+          "They"
+        ],
+        [
+          "mistake",
+          "error",
+          "problem",
+          "answer",
+          "fault"
+        ]
+      ],
+      "mistakeTags": [
+        "inversion",
+        "inverted_word_order"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_05_inversion/027.mp3"
+    },
+    {
+      "id": "t5_29",
+      "type": "sentenceAssembly",
+      "question": "Ни при каких условиях вы не должны покидать здание",
+      "correctAnswer": "On no condition should you leave the building without permission",
+      "options": [],
+      "variants": [
+        [
+          "On",
+          "with",
+          "from",
+          "by",
+          "for"
+        ],
+        [
+          "no",
+          "not",
+          "any",
+          "some",
+          "the"
+        ],
+        [
+          "condition",
+          "account",
+          "basis",
+          "ground",
+          "terms"
+        ],
+        [
+          "should",
+          "shall",
+          "must",
+          "can",
+          "would"
+        ],
+        [
+          "you",
+          "They",
+          "I",
+          "One",
+          "He"
+        ],
+        [
+          "leave",
+          "enter",
+          "open",
+          "close",
+          "lock"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every",
+          "an"
+        ],
+        [
+          "building",
+          "room",
+          "office",
+          "house",
+          "area"
+        ],
+        [
+          "without",
+          "before",
+          "until",
+          "after",
+          "during"
+        ],
+        [
+          "permission",
+          "notice",
+          "warning",
+          "reason",
+          "approval"
+        ]
+      ],
+      "mistakeTags": [
+        "inversion",
+        "inverted_word_order"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_05_inversion/028.mp3"
+    },
+    {
+      "id": "t5_30",
+      "type": "sentenceAssembly",
+      "question": "Ни разу он не пожаловался на трудную работу",
+      "correctAnswer": "Not once did he complain about the difficult work",
+      "options": [],
+      "variants": [
+        [
+          "Not",
+          "No",
+          "Never",
+          "Nor",
+          "None"
+        ],
+        [
+          "once",
+          "ever",
+          "one",
+          "time",
+          "yet"
+        ],
+        [
+          "did",
+          "do",
+          "does",
+          "was",
+          "had"
+        ],
+        [
+          "he",
+          "She",
+          "I",
+          "It",
+          "We"
+        ],
+        [
+          "complain",
+          "explain",
+          "speak",
+          "argue",
+          "worry"
+        ],
+        [
+          "about",
+          "through",
+          "into",
+          "for",
+          "at"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each",
+          "an"
+        ],
+        [
+          "difficult",
+          "easy",
+          "simple",
+          "heavy",
+          "hard"
+        ],
+        [
+          "work",
+          "task",
+          "job",
+          "duty",
+          "role"
+        ]
+      ],
+      "mistakeTags": [
+        "inversion",
+        "inverted_word_order"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_05_inversion/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionAdvanced05Inversion",
+  "theoryQuiz": [
+    {
+      "id": "tq_01",
+      "type": "multipleChoice",
+      "question": "Что такое инверсия в английском языке?",
+      "options": [
+        "Удаление подлежащего",
+        "Вспомогательный глагол ставится перед подлежащим",
+        "Замена глагола на существительное",
+        "Двойное отрицание"
+      ],
+      "correctIndex": 1,
+      "explanation": "Инверсия — это изменение порядка слов: вспомогательный глагол выносится перед подлежащим."
+    },
+    {
+      "id": "tq_02",
+      "type": "trueFalse",
+      "question": "'Never have I seen such a thing' — это пример инверсии.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Верно: после отрицательного наречия Never вспомогательный have стоит перед подлежащим I."
+    },
+    {
+      "id": "tq_03",
+      "type": "multipleChoice",
+      "question": "Выберите правильную инверсию: 'Rarely ___ he come to class on time.'",
+      "options": [
+        "do",
+        "does",
+        "is",
+        "has"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rarely + does + he (3rd person singular Present Simple) — вспомогательный does перед подлежащим."
+    },
+    {
+      "id": "tq_04",
+      "type": "trueFalse",
+      "question": "Инверсия используется после любого наречия в начале предложения.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "Неверно: инверсия применяется только после отрицательных/ограничительных наречий (never, rarely, hardly, not only и т.д.)."
+    },
+    {
+      "id": "tq_05",
+      "type": "multipleChoice",
+      "question": "Закончите: 'Not only ___ she sing, but she also danced.'",
+      "options": [
+        "does",
+        "did",
+        "was",
+        "is"
+      ],
+      "correctIndex": 1,
+      "explanation": "Not only did she sing — Past Simple, поэтому вспомогательный did."
+    },
+    {
+      "id": "tq_06",
+      "type": "multipleChoice",
+      "question": "Какое наречие НЕ вызывает инверсию?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Usually",
+        "Hardly"
+      ],
+      "correctIndex": 2,
+      "explanation": "Usually — обычное наречие частотности, оно не вызывает инверсию. Инверсию вызывают отрицательные/ограничительные."
+    },
+    {
+      "id": "tq_07",
+      "type": "trueFalse",
+      "question": "'Hardly had I arrived when it started raining' — правильное предложение с инверсией.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Верно: Hardly + had (вспомогательный) + I (подлежащее) — классическая инверсия с Past Perfect."
+    },
+    {
+      "id": "tq_08",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: 'Only after the exam ___ I realize my mistake.'",
+      "options": [
+        "do",
+        "did",
+        "was",
+        "have"
+      ],
+      "correctIndex": 1,
+      "explanation": "Only after... + did + I — инверсия после ограничительной конструкции Only after."
+    },
+    {
+      "id": "tq_09",
+      "type": "trueFalse",
+      "question": "'Little did they know about the surprise' — здесь инверсия с отрицательным наречием.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Верно: Little (= very little/not at all) — отрицательное по смыслу наречие, вызывающее инверсию."
+    },
+    {
+      "id": "tq_10",
+      "type": "multipleChoice",
+      "question": "'So beautiful ___ the sunset that everyone stopped.' Вставьте пропущенное слово.",
+      "options": [
+        "is",
+        "was",
+        "had",
+        "does"
+      ],
+      "correctIndex": 1,
+      "explanation": "So + adjective + was + noun — эмфатическая инверсия для усиления: So beautiful was the sunset..."
+    }
+  ]
+}

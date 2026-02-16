@@ -1,0 +1,461 @@
+{
+  "id": "pre_listening_18_much_many_a_lot",
+  "title": "Much / Many / A Lot Of",
+  "description": "Слушайте и определяйте количество: much, many или a lot of.",
+  "order": 18,
+  "level": "pre_intermediate",
+  "imageUrl": "assets/images/lessons/much_many_a_lot.png",
+  "tasks": [
+    {
+      "id": "t18_01",
+      "audioText": "I went to the supermarket today. I spent a lot of money there.",
+      "transcript": "I spent a lot of money there.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The person spent very little money."
+        },
+        {
+          "id": "o2",
+          "text": "The person spent a large amount of money."
+        },
+        {
+          "id": "o3",
+          "text": "The person did not buy anything."
+        },
+        {
+          "id": "o4",
+          "text": "The supermarket was closed."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'A lot of money' means a large amount.",
+      "mistakeTags": [
+        "shop",
+        "much_many_a_lot"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_18_much_many_a_lot/t18_01.mp3"
+    },
+    {
+      "id": "t18_02",
+      "audioText": "We only have a little time. We don't have much time before the train.",
+      "transcript": "We don't have much time before the train.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "They have plenty of time."
+        },
+        {
+          "id": "o2",
+          "text": "The train is cancelled."
+        },
+        {
+          "id": "o3",
+          "text": "They are running short on time."
+        },
+        {
+          "id": "o4",
+          "text": "They missed the train."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Don't have much time' means very little time is left.",
+      "mistakeTags": [
+        "station",
+        "much_many_a_lot"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_18_much_many_a_lot/t18_02.mp3"
+    },
+    {
+      "id": "t18_03",
+      "audioText": "I looked at the guest list. How many people are coming to the wedding?",
+      "transcript": "How many people are coming to the wedding?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The person asks about the number of guests."
+        },
+        {
+          "id": "o2",
+          "text": "The person asks when the wedding is."
+        },
+        {
+          "id": "o3",
+          "text": "The person asks where the wedding is."
+        },
+        {
+          "id": "o4",
+          "text": "The person says nobody is coming."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'How many' asks about the number of countable things — people.",
+      "mistakeTags": [
+        "social",
+        "much_many_a_lot"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_18_much_many_a_lot/t18_03.mp3"
+    },
+    {
+      "id": "t18_04",
+      "audioText": "I went to the park on Saturday. There were a lot of children playing there.",
+      "transcript": "There were a lot of children playing there.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The park was empty on Saturday."
+        },
+        {
+          "id": "o2",
+          "text": "Many children were playing in the park."
+        },
+        {
+          "id": "o3",
+          "text": "Only one child was at the park."
+        },
+        {
+          "id": "o4",
+          "text": "The park was closed on Saturday."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'A lot of children' means many kids were there.",
+      "mistakeTags": [
+        "park",
+        "much_many_a_lot"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_18_much_many_a_lot/t18_04.mp3"
+    },
+    {
+      "id": "t18_05",
+      "audioText": "Be careful with this recipe. Don't add too much salt to the soup.",
+      "transcript": "Don't add too much salt to the soup.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "You should add a lot of salt."
+        },
+        {
+          "id": "o2",
+          "text": "The soup needs more salt."
+        },
+        {
+          "id": "o3",
+          "text": "You should use only a small amount of salt."
+        },
+        {
+          "id": "o4",
+          "text": "The soup has no salt at all."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Too much salt' is a warning — keep the amount small.",
+      "mistakeTags": [
+        "home",
+        "much_many_a_lot"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_18_much_many_a_lot/t18_05.mp3"
+    },
+    {
+      "id": "t18_06",
+      "audioText": "My daughter reads every day. She has many books in her room.",
+      "transcript": "She has many books in her room.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She has a large number of books."
+        },
+        {
+          "id": "o2",
+          "text": "She has only one book."
+        },
+        {
+          "id": "o3",
+          "text": "She does not like reading."
+        },
+        {
+          "id": "o4",
+          "text": "Her room has no books."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Many books' means a large number of books.",
+      "mistakeTags": [
+        "home",
+        "much_many_a_lot"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_18_much_many_a_lot/t18_06.mp3"
+    },
+    {
+      "id": "t18_07",
+      "audioText": "I am making tea for everyone. How much milk do you want in your tea?",
+      "transcript": "How much milk do you want in your tea?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The person asks about the amount of milk."
+        },
+        {
+          "id": "o2",
+          "text": "The person asks how many cups of tea."
+        },
+        {
+          "id": "o3",
+          "text": "The person says there is no milk."
+        },
+        {
+          "id": "o4",
+          "text": "The person is making coffee."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'How much' asks about the amount of uncountable things — milk.",
+      "mistakeTags": [
+        "home",
+        "much_many_a_lot"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_18_much_many_a_lot/t18_07.mp3"
+    },
+    {
+      "id": "t18_08",
+      "audioText": "The city centre is always busy. There are a lot of cars on the road.",
+      "transcript": "There are a lot of cars on the road.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The road is empty."
+        },
+        {
+          "id": "o2",
+          "text": "There are very few cars."
+        },
+        {
+          "id": "o3",
+          "text": "The road has heavy traffic."
+        },
+        {
+          "id": "o4",
+          "text": "The road is closed."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'A lot of cars' means the road is very busy with traffic.",
+      "mistakeTags": [
+        "street",
+        "much_many_a_lot"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_18_much_many_a_lot/t18_08.mp3"
+    },
+    {
+      "id": "t18_09",
+      "audioText": "I need to drink more. I didn't drink much water today.",
+      "transcript": "I didn't drink much water today.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The person drank a lot of water."
+        },
+        {
+          "id": "o2",
+          "text": "The person drank only a little water."
+        },
+        {
+          "id": "o3",
+          "text": "The person drank too much water."
+        },
+        {
+          "id": "o4",
+          "text": "The person drank juice instead."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Didn't drink much' means the amount was small.",
+      "mistakeTags": [
+        "gym",
+        "much_many_a_lot"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_18_much_many_a_lot/t18_09.mp3"
+    },
+    {
+      "id": "t18_10",
+      "audioText": "We invited our friends for dinner. There were many guests at our table.",
+      "transcript": "There were many guests at our table.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Nobody came to dinner."
+        },
+        {
+          "id": "o2",
+          "text": "Only two people came."
+        },
+        {
+          "id": "o3",
+          "text": "A large number of friends came for dinner."
+        },
+        {
+          "id": "o4",
+          "text": "The dinner was cancelled."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Many guests' means a large number of people were there.",
+      "mistakeTags": [
+        "home",
+        "much_many_a_lot"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_18_much_many_a_lot/t18_10.mp3"
+    },
+    {
+      "id": "t18_11",
+      "audioText": "It is hot outside today. We need a lot of water for the hike.",
+      "transcript": "We need a lot of water for the hike.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "They need a large amount of water."
+        },
+        {
+          "id": "o2",
+          "text": "They do not need water."
+        },
+        {
+          "id": "o3",
+          "text": "They have enough water already."
+        },
+        {
+          "id": "o4",
+          "text": "It is cold outside."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'A lot of water' means they need a large quantity.",
+      "mistakeTags": [
+        "outdoor",
+        "much_many_a_lot"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_18_much_many_a_lot/t18_11.mp3"
+    },
+    {
+      "id": "t18_12",
+      "audioText": "This course is popular. How many students are in your class?",
+      "transcript": "How many students are in your class?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The person asks which class it is."
+        },
+        {
+          "id": "o2",
+          "text": "The person asks about the number of students."
+        },
+        {
+          "id": "o3",
+          "text": "The person asks who the teacher is."
+        },
+        {
+          "id": "o4",
+          "text": "The person asks where the class is."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'How many students' asks about the number of people in the class.",
+      "mistakeTags": [
+        "school",
+        "much_many_a_lot"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_18_much_many_a_lot/t18_12.mp3"
+    },
+    {
+      "id": "t18_13",
+      "audioText": "I am worried about the exam. I don't have much time to study.",
+      "transcript": "I don't have much time to study.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The person has plenty of time."
+        },
+        {
+          "id": "o2",
+          "text": "The person has very little time for studying."
+        },
+        {
+          "id": "o3",
+          "text": "The exam is easy."
+        },
+        {
+          "id": "o4",
+          "text": "The person does not want to study."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Don't have much time' means the time available is very short.",
+      "mistakeTags": [
+        "school",
+        "much_many_a_lot"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_18_much_many_a_lot/t18_13.mp3"
+    },
+    {
+      "id": "t18_14",
+      "audioText": "My grandmother loves gardening. She grows many flowers in her garden.",
+      "transcript": "She grows many flowers in her garden.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She has no flowers."
+        },
+        {
+          "id": "o2",
+          "text": "She has a large number of flowers."
+        },
+        {
+          "id": "o3",
+          "text": "She grows only vegetables."
+        },
+        {
+          "id": "o4",
+          "text": "She does not have a garden."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Many flowers' means a large number of flowers grow there.",
+      "mistakeTags": [
+        "home",
+        "much_many_a_lot"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_18_much_many_a_lot/t18_14.mp3"
+    },
+    {
+      "id": "t18_15",
+      "audioText": "I work at a restaurant every day. We get a lot of customers at lunchtime.",
+      "transcript": "We get a lot of customers at lunchtime.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Very few people come for lunch."
+        },
+        {
+          "id": "o2",
+          "text": "The restaurant is always empty."
+        },
+        {
+          "id": "o3",
+          "text": "Many people come to eat lunch there."
+        },
+        {
+          "id": "o4",
+          "text": "The restaurant is closed at lunch."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'A lot of customers' means many people visit at that time.",
+      "mistakeTags": [
+        "restaurant",
+        "much_many_a_lot"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_18_much_many_a_lot/t18_15.mp3"
+    }
+  ],
+  "short_description": "Much / Many / A Lot Of: количество исчисляемых и неисчисляемых"
+}

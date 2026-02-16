@@ -1,0 +1,461 @@
+{
+  "id": "pre_listening_16_wh_questions",
+  "title": "Wh- Questions",
+  "description": "Слушайте вопросы с what, where, when, who, why, how.",
+  "order": 16,
+  "level": "pre_intermediate",
+  "imageUrl": "assets/images/lessons/wh_questions.png",
+  "tasks": [
+    {
+      "id": "t16_01",
+      "audioText": "I need to find the bank. Where is the nearest bank?",
+      "transcript": "Where is the nearest bank?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The person asks about the location of a bank."
+        },
+        {
+          "id": "o2",
+          "text": "The person asks about the time the bank opens."
+        },
+        {
+          "id": "o3",
+          "text": "The person asks who works at the bank."
+        },
+        {
+          "id": "o4",
+          "text": "The person asks why the bank is closed."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Where' asks about a place or location.",
+      "mistakeTags": [
+        "street",
+        "wh_questions"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_16_wh_questions/t16_01.mp3"
+    },
+    {
+      "id": "t16_02",
+      "audioText": "The meeting is today. What time does the meeting start?",
+      "transcript": "What time does the meeting start?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The person asks where the meeting is."
+        },
+        {
+          "id": "o2",
+          "text": "The person wants to know when the meeting begins."
+        },
+        {
+          "id": "o3",
+          "text": "The person asks who is at the meeting."
+        },
+        {
+          "id": "o4",
+          "text": "The person asks why there is a meeting."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'What time' asks about the specific time something happens.",
+      "mistakeTags": [
+        "office",
+        "wh_questions"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_16_wh_questions/t16_02.mp3"
+    },
+    {
+      "id": "t16_03",
+      "audioText": "Someone called me. Who called you this morning?",
+      "transcript": "Who called you this morning?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The person asks what time the call was."
+        },
+        {
+          "id": "o2",
+          "text": "The person asks where the call came from."
+        },
+        {
+          "id": "o3",
+          "text": "The person asks about the caller's identity."
+        },
+        {
+          "id": "o4",
+          "text": "The person asks how many calls there were."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Who' asks about a person's identity.",
+      "mistakeTags": [
+        "home",
+        "wh_questions"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_16_wh_questions/t16_03.mp3"
+    },
+    {
+      "id": "t16_04",
+      "audioText": "You look upset today. Why are you sad?",
+      "transcript": "Why are you sad?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The person asks when you became sad."
+        },
+        {
+          "id": "o2",
+          "text": "The person asks where you feel sad."
+        },
+        {
+          "id": "o3",
+          "text": "The person asks about the reason for being sad."
+        },
+        {
+          "id": "o4",
+          "text": "The person asks who made you happy."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Why' asks about the reason for something.",
+      "mistakeTags": [
+        "home",
+        "wh_questions"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_16_wh_questions/t16_04.mp3"
+    },
+    {
+      "id": "t16_05",
+      "audioText": "I want to make a cake. How do you make a chocolate cake?",
+      "transcript": "How do you make a chocolate cake?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The person asks what a chocolate cake is."
+        },
+        {
+          "id": "o2",
+          "text": "The person asks where to buy a cake."
+        },
+        {
+          "id": "o3",
+          "text": "The person asks about the method of making a cake."
+        },
+        {
+          "id": "o4",
+          "text": "The person asks who made the cake."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'How' asks about the way or method of doing something.",
+      "mistakeTags": [
+        "home",
+        "wh_questions"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_16_wh_questions/t16_05.mp3"
+    },
+    {
+      "id": "t16_06",
+      "audioText": "Your birthday is coming soon. When is your birthday?",
+      "transcript": "When is your birthday?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The person asks where the party will be."
+        },
+        {
+          "id": "o2",
+          "text": "The person asks what gift you want."
+        },
+        {
+          "id": "o3",
+          "text": "The person asks about the date of the birthday."
+        },
+        {
+          "id": "o4",
+          "text": "The person asks who is coming to the party."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'When' asks about the time or date of something.",
+      "mistakeTags": [
+        "social",
+        "wh_questions"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_16_wh_questions/t16_06.mp3"
+    },
+    {
+      "id": "t16_07",
+      "audioText": "You are reading something interesting. What are you reading?",
+      "transcript": "What are you reading?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The person asks why you are reading."
+        },
+        {
+          "id": "o2",
+          "text": "The person asks where you are reading."
+        },
+        {
+          "id": "o3",
+          "text": "The person asks when you started reading."
+        },
+        {
+          "id": "o4",
+          "text": "The person asks about the book or text you are reading."
+        }
+      ],
+      "correctIndex": 3,
+      "explanation": "'What' asks about a thing or an object.",
+      "mistakeTags": [
+        "home",
+        "wh_questions"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_16_wh_questions/t16_07.mp3"
+    },
+    {
+      "id": "t16_08",
+      "audioText": "I see you have a new car. How much did it cost?",
+      "transcript": "How much did it cost?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The person asks where you bought the car."
+        },
+        {
+          "id": "o2",
+          "text": "The person asks what color the car is."
+        },
+        {
+          "id": "o3",
+          "text": "The person asks about the price of the car."
+        },
+        {
+          "id": "o4",
+          "text": "The person asks who sold the car."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'How much' asks about the price or amount of something.",
+      "mistakeTags": [
+        "shop",
+        "wh_questions"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_16_wh_questions/t16_08.mp3"
+    },
+    {
+      "id": "t16_09",
+      "audioText": "You were on holiday last week. Where did you go on holiday?",
+      "transcript": "Where did you go on holiday?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The person asks when the holiday was."
+        },
+        {
+          "id": "o2",
+          "text": "The person asks why you went on holiday."
+        },
+        {
+          "id": "o3",
+          "text": "The person asks about the holiday destination."
+        },
+        {
+          "id": "o4",
+          "text": "The person asks who went with you."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Where did you go' asks about the place or destination.",
+      "mistakeTags": [
+        "travel",
+        "wh_questions"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_16_wh_questions/t16_09.mp3"
+    },
+    {
+      "id": "t16_10",
+      "audioText": "There are many people here. How many people are at the party?",
+      "transcript": "How many people are at the party?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The person asks about the number of people."
+        },
+        {
+          "id": "o2",
+          "text": "The person asks who organised the party."
+        },
+        {
+          "id": "o3",
+          "text": "The person asks where the party is."
+        },
+        {
+          "id": "o4",
+          "text": "The person asks what food is at the party."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'How many' asks about the number or quantity of something.",
+      "mistakeTags": [
+        "party",
+        "wh_questions"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_16_wh_questions/t16_10.mp3"
+    },
+    {
+      "id": "t16_11",
+      "audioText": "You changed your job. Why did you leave your old job?",
+      "transcript": "Why did you leave your old job?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The person asks what the new job is."
+        },
+        {
+          "id": "o2",
+          "text": "The person asks about the reason for leaving."
+        },
+        {
+          "id": "o3",
+          "text": "The person asks when you left."
+        },
+        {
+          "id": "o4",
+          "text": "The person asks where the old job was."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Why did you leave' asks about the reason for the action.",
+      "mistakeTags": [
+        "office",
+        "wh_questions"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_16_wh_questions/t16_11.mp3"
+    },
+    {
+      "id": "t16_12",
+      "audioText": "You speak English well. How long have you studied English?",
+      "transcript": "How long have you studied English?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The person asks about the duration of studying."
+        },
+        {
+          "id": "o2",
+          "text": "The person asks where you study English."
+        },
+        {
+          "id": "o3",
+          "text": "The person asks who teaches you English."
+        },
+        {
+          "id": "o4",
+          "text": "The person asks what language you speak."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'How long' asks about the length of time.",
+      "mistakeTags": [
+        "school",
+        "wh_questions"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_16_wh_questions/t16_12.mp3"
+    },
+    {
+      "id": "t16_13",
+      "audioText": "There is a strange noise outside. What is that noise?",
+      "transcript": "What is that noise?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The person asks where the noise is coming from."
+        },
+        {
+          "id": "o2",
+          "text": "The person wants to know what is making the sound."
+        },
+        {
+          "id": "o3",
+          "text": "The person asks when the noise started."
+        },
+        {
+          "id": "o4",
+          "text": "The person asks who is making noise."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'What is that' asks about the identity of something.",
+      "mistakeTags": [
+        "home",
+        "wh_questions"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_16_wh_questions/t16_13.mp3"
+    },
+    {
+      "id": "t16_14",
+      "audioText": "I need to talk to the manager. Who is the manager here?",
+      "transcript": "Who is the manager here?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The person asks what the manager does."
+        },
+        {
+          "id": "o2",
+          "text": "The person asks when the manager arrives."
+        },
+        {
+          "id": "o3",
+          "text": "The person wants to know which person is the manager."
+        },
+        {
+          "id": "o4",
+          "text": "The person asks where the manager's office is."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Who is' asks about the identity of a person.",
+      "mistakeTags": [
+        "shop",
+        "wh_questions"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_16_wh_questions/t16_14.mp3"
+    },
+    {
+      "id": "t16_15",
+      "audioText": "I see you are going somewhere. Where are you going now?",
+      "transcript": "Where are you going now?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The person asks why you are leaving."
+        },
+        {
+          "id": "o2",
+          "text": "The person asks about your destination."
+        },
+        {
+          "id": "o3",
+          "text": "The person asks when you are coming back."
+        },
+        {
+          "id": "o4",
+          "text": "The person asks who is going with you."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Where are you going' asks about the place you are heading to.",
+      "mistakeTags": [
+        "street",
+        "wh_questions"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_16_wh_questions/t16_15.mp3"
+    }
+  ],
+  "short_description": "Wh- Questions: вопросы с what, where, when, who, why, how"
+}

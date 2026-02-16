@@ -1,0 +1,1425 @@
+{
+  "id": "beginner_11_countable_uncountable",
+  "title": "Countable & Uncountable Nouns",
+  "description": "Исчисляемые и неисчисляемые: a chair / water. Когда можно посчитать, а когда нет.",
+  "order": 11,
+  "level": "beginner",
+  "imageUrl": "assets/images/lessons/countable_uncountable.png",
+  "vocabulary": [
+    {
+      "id": "v11_water",
+      "english": "water",
+      "russian": "вода",
+      "partOfSpeech": "noun",
+      "example": "I need some water.",
+      "exampleTranslation": "Мне нужно немного воды.",
+      "audioPath": "assets/audio/vocabulary/v11_water.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_water.mp3"
+    },
+    {
+      "id": "v11_milk",
+      "english": "milk",
+      "russian": "молоко",
+      "partOfSpeech": "noun",
+      "example": "We have some milk.",
+      "exampleTranslation": "У нас есть молоко.",
+      "audioPath": "assets/audio/vocabulary/v11_milk.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_milk.mp3"
+    },
+    {
+      "id": "v11_bread",
+      "english": "bread",
+      "russian": "хлеб",
+      "partOfSpeech": "noun",
+      "example": "I want some bread.",
+      "exampleTranslation": "Я хочу хлеба.",
+      "audioPath": "assets/audio/vocabulary/v11_bread.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_bread.mp3"
+    },
+    {
+      "id": "v11_rice",
+      "english": "rice",
+      "russian": "рис",
+      "partOfSpeech": "noun",
+      "example": "She cooks some rice.",
+      "exampleTranslation": "Она готовит рис.",
+      "audioPath": "assets/audio/vocabulary/v11_rice.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_rice.mp3"
+    },
+    {
+      "id": "v11_sugar",
+      "english": "sugar",
+      "russian": "сахар",
+      "partOfSpeech": "noun",
+      "example": "I need some sugar.",
+      "exampleTranslation": "Мне нужен сахар.",
+      "audioPath": "assets/audio/vocabulary/v11_sugar.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_sugar.mp3"
+    },
+    {
+      "id": "v11_money",
+      "english": "money",
+      "russian": "деньги",
+      "partOfSpeech": "noun",
+      "example": "He has some money.",
+      "exampleTranslation": "У него есть деньги.",
+      "audioPath": "assets/audio/vocabulary/v11_money.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_money.mp3"
+    },
+    {
+      "id": "v11_chair",
+      "english": "chair",
+      "russian": "стул",
+      "partOfSpeech": "noun",
+      "example": "I have a chair.",
+      "exampleTranslation": "У меня есть стул.",
+      "audioPath": "assets/audio/vocabulary/v11_chair.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_chair.mp3"
+    },
+    {
+      "id": "v11_apple",
+      "english": "apple",
+      "russian": "яблоко",
+      "partOfSpeech": "noun",
+      "example": "She eats an apple.",
+      "exampleTranslation": "Она ест яблоко.",
+      "audioPath": "assets/audio/vocabulary/v11_apple.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_apple.mp3"
+    },
+    {
+      "id": "v11_egg",
+      "english": "egg",
+      "russian": "яйцо",
+      "partOfSpeech": "noun",
+      "example": "I need an egg.",
+      "exampleTranslation": "Мне нужно яйцо.",
+      "audioPath": "assets/audio/vocabulary/v11_egg.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_egg.mp3"
+    },
+    {
+      "id": "v11_cup",
+      "english": "cup",
+      "russian": "чашка",
+      "partOfSpeech": "noun",
+      "example": "I have a cup.",
+      "exampleTranslation": "У меня есть чашка.",
+      "audioPath": "assets/audio/vocabulary/v11_cup.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_cup.mp3"
+    },
+    {
+      "id": "v11_some",
+      "english": "some",
+      "russian": "немного, некоторое количество",
+      "partOfSpeech": "other",
+      "example": "I want some water.",
+      "exampleTranslation": "Я хочу воды.",
+      "audioPath": "assets/audio/vocabulary/v11_some.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_some.mp3"
+    },
+    {
+      "id": "v11_much",
+      "english": "much",
+      "russian": "много (неисчисляемые)",
+      "partOfSpeech": "other",
+      "example": "I have much water.",
+      "exampleTranslation": "У меня много воды.",
+      "audioPath": "assets/audio/vocabulary/v11_much.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_much.mp3"
+    },
+    {
+      "id": "v11_many",
+      "english": "many",
+      "russian": "много (исчисляемые)",
+      "partOfSpeech": "other",
+      "example": "I have many books.",
+      "exampleTranslation": "У меня много книг.",
+      "audioPath": "assets/audio/vocabulary/v11_many.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_many.mp3"
+    },
+    {
+      "id": "v11_a",
+      "english": "a / an",
+      "russian": "один, одна (артикль)",
+      "partOfSpeech": "other",
+      "example": "I have a book.",
+      "exampleTranslation": "У меня есть книга.",
+      "audioPath": "assets/audio/vocabulary/v11_a.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_a.mp3"
+    },
+    {
+      "id": "v11_tea",
+      "english": "tea",
+      "russian": "чай",
+      "partOfSpeech": "noun",
+      "example": "She drinks some tea.",
+      "exampleTranslation": "Она пьёт чай.",
+      "audioPath": "assets/audio/vocabulary/v11_tea.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_tea.mp3"
+    },
+    {
+      "id": "v11_coffee",
+      "english": "coffee",
+      "russian": "кофе",
+      "partOfSpeech": "noun",
+      "example": "I want some coffee.",
+      "exampleTranslation": "Я хочу кофе.",
+      "audioPath": "assets/audio/vocabulary/v11_coffee.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_coffee.mp3"
+    },
+    {
+      "id": "v11_juice",
+      "english": "juice",
+      "russian": "сок",
+      "partOfSpeech": "noun",
+      "example": "We have some juice.",
+      "exampleTranslation": "У нас есть сок.",
+      "audioPath": "assets/audio/vocabulary/v11_juice.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_juice.mp3"
+    },
+    {
+      "id": "v11_cheese",
+      "english": "cheese",
+      "russian": "сыр",
+      "partOfSpeech": "noun",
+      "example": "I like some cheese.",
+      "exampleTranslation": "Мне нравится сыр.",
+      "audioPath": "assets/audio/vocabulary/v11_cheese.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_cheese.mp3"
+    },
+    {
+      "id": "v11_book",
+      "english": "book",
+      "russian": "книга",
+      "partOfSpeech": "noun",
+      "example": "I read a book.",
+      "exampleTranslation": "Я читаю книгу.",
+      "audioPath": "assets/audio/vocabulary/v11_book.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_book.mp3"
+    },
+    {
+      "id": "v11_meat",
+      "english": "meat",
+      "russian": "мясо",
+      "partOfSpeech": "noun",
+      "example": "We need some meat.",
+      "exampleTranslation": "Нам нужно мясо.",
+      "audioPath": "assets/audio/vocabulary/v11_meat.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_meat.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "Countable & Uncountable Nouns",
+    "subtitle": "В английском есть вещи, которые можно посчитать (a book, two books), и которые нельзя (water, money). Это влияет на выбор слов.",
+    "construction": {
+      "formula": "a/an + countable | some + uncountable",
+      "rules": [
+        {
+          "word": "Countable (исчисляемые)",
+          "description": "Можно посчитать: a book, two chairs, three eggs. Используем a/an и many."
+        },
+        {
+          "word": "Uncountable (неисчисляемые)",
+          "description": "Нельзя посчитать: water, milk, money, bread. НЕТ артикля a/an, используем some и much."
+        },
+        {
+          "word": "a / an",
+          "description": "Только с исчисляемыми в единственном числе: a chair, an apple. НЕ a water!"
+        },
+        {
+          "word": "some",
+          "description": "С неисчисляемыми (some water) и множественным числом (some books)."
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "favorite",
+        "color": "blue",
+        "title": "Еда и напитки",
+        "description": "Большинство продуктов неисчисляемые: water, bread, rice, meat.",
+        "example": {
+          "english": "I need some water.",
+          "russian": "Мне нужно воды."
+        }
+      },
+      {
+        "icon": "check_circle",
+        "color": "purple",
+        "title": "Предметы вокруг",
+        "description": "Предметы можно посчитать: a chair, a cup, a book.",
+        "example": {
+          "english": "I have a chair.",
+          "russian": "У меня есть стул."
+        }
+      },
+      {
+        "icon": "bolt",
+        "color": "orange",
+        "title": "Many vs Much",
+        "description": "Many — для исчисляемых, much — для неисчисляемых.",
+        "example": {
+          "english": "I have many books.",
+          "russian": "У меня много книг."
+        }
+      }
+    ],
+    "markers": [
+      "a",
+      "an",
+      "some",
+      "much",
+      "many",
+      "a lot of"
+    ]
+  },
+  "tasks": [
+    {
+      "id": "t11_1",
+      "type": "sentenceAssembly",
+      "question": "Мне нужно воды",
+      "correctAnswer": "I need some water",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "need",
+          "needs",
+          "needing",
+          "want"
+        ],
+        [
+          "some",
+          "a",
+          "an",
+          "many"
+        ],
+        [
+          "water",
+          "waters",
+          "a water",
+          "the water"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_11_countable_uncountable/000.mp3"
+    },
+    {
+      "id": "t11_2",
+      "type": "sentenceAssembly",
+      "question": "У меня есть стул",
+      "correctAnswer": "I have a chair",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "have",
+          "has",
+          "having",
+          "had"
+        ],
+        [
+          "a",
+          "some",
+          "an",
+          "much"
+        ],
+        [
+          "chair",
+          "chairs",
+          "water",
+          "milk"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_11_countable_uncountable/001.mp3"
+    },
+    {
+      "id": "t11_3",
+      "type": "sentenceAssembly",
+      "question": "Она ест яблоко",
+      "correctAnswer": "She eats an apple",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "They"
+        ],
+        [
+          "eats",
+          "eat",
+          "eating",
+          "ate"
+        ],
+        [
+          "an",
+          "a",
+          "some",
+          "much"
+        ],
+        [
+          "apple",
+          "apples",
+          "water",
+          "bread"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_11_countable_uncountable/002.mp3"
+    },
+    {
+      "id": "t11_4",
+      "type": "sentenceAssembly",
+      "question": "У нас есть молоко",
+      "correctAnswer": "We have some milk",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "I",
+          "He",
+          "She"
+        ],
+        [
+          "have",
+          "has",
+          "having",
+          "had"
+        ],
+        [
+          "some",
+          "a",
+          "an",
+          "many"
+        ],
+        [
+          "milk",
+          "milks",
+          "a milk",
+          "cup"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_11_countable_uncountable/003.mp3"
+    },
+    {
+      "id": "t11_5",
+      "type": "sentenceAssembly",
+      "question": "Я хочу хлеба",
+      "correctAnswer": "I want some bread",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "want",
+          "wants",
+          "wanting",
+          "need"
+        ],
+        [
+          "some",
+          "a",
+          "an",
+          "many"
+        ],
+        [
+          "bread",
+          "breads",
+          "a bread",
+          "rice"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_11_countable_uncountable/004.mp3"
+    },
+    {
+      "id": "t11_6",
+      "type": "sentenceAssembly",
+      "question": "У него есть деньги",
+      "correctAnswer": "He has some money",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "I",
+          "They"
+        ],
+        [
+          "has",
+          "have",
+          "having",
+          "had"
+        ],
+        [
+          "some",
+          "a",
+          "an",
+          "many"
+        ],
+        [
+          "money",
+          "moneys",
+          "a money",
+          "monies"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_11_countable_uncountable/005.mp3"
+    },
+    {
+      "id": "t11_7",
+      "type": "sentenceAssembly",
+      "question": "Мне нужно яйцо",
+      "correctAnswer": "I need an egg",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "need",
+          "needs",
+          "needing",
+          "want"
+        ],
+        [
+          "an",
+          "a",
+          "some",
+          "much"
+        ],
+        [
+          "egg",
+          "eggs",
+          "water",
+          "milk"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_11_countable_uncountable/006.mp3"
+    },
+    {
+      "id": "t11_8",
+      "type": "sentenceAssembly",
+      "question": "Она готовит рис",
+      "correctAnswer": "She cooks some rice",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "They"
+        ],
+        [
+          "cooks",
+          "cook",
+          "cooking",
+          "makes"
+        ],
+        [
+          "some",
+          "a",
+          "an",
+          "many"
+        ],
+        [
+          "rice",
+          "rices",
+          "a rice",
+          "bread"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_11_countable_uncountable/007.mp3"
+    },
+    {
+      "id": "t11_9",
+      "type": "sentenceAssembly",
+      "question": "У меня есть чашка",
+      "correctAnswer": "I have a cup",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "have",
+          "has",
+          "having",
+          "had"
+        ],
+        [
+          "a",
+          "some",
+          "an",
+          "much"
+        ],
+        [
+          "cup",
+          "cups",
+          "water",
+          "tea"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_11_countable_uncountable/008.mp3"
+    },
+    {
+      "id": "t11_10",
+      "type": "sentenceAssembly",
+      "question": "Мне нужен сахар",
+      "correctAnswer": "I need some sugar",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "need",
+          "needs",
+          "needing",
+          "want"
+        ],
+        [
+          "some",
+          "a",
+          "an",
+          "many"
+        ],
+        [
+          "sugar",
+          "sugars",
+          "a sugar",
+          "salt"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_11_countable_uncountable/009.mp3"
+    },
+    {
+      "id": "t11_11",
+      "type": "sentenceAssembly",
+      "question": "У меня много книг",
+      "correctAnswer": "I have many books",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "have",
+          "has",
+          "having",
+          "had"
+        ],
+        [
+          "many",
+          "much",
+          "a",
+          "an"
+        ],
+        [
+          "books",
+          "book",
+          "water",
+          "milk"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_11_countable_uncountable/010.mp3"
+    },
+    {
+      "id": "t11_12",
+      "type": "sentenceAssembly",
+      "question": "У нас много воды",
+      "correctAnswer": "We have much water",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "I",
+          "He",
+          "She"
+        ],
+        [
+          "have",
+          "has",
+          "having",
+          "had"
+        ],
+        [
+          "much",
+          "many",
+          "a",
+          "an"
+        ],
+        [
+          "water",
+          "waters",
+          "books",
+          "cups"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_11_countable_uncountable/011.mp3"
+    },
+    {
+      "id": "t11_13",
+      "type": "sentenceAssembly",
+      "question": "Она пьёт чай",
+      "correctAnswer": "She drinks some tea",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "They"
+        ],
+        [
+          "drinks",
+          "drink",
+          "drinking",
+          "eats"
+        ],
+        [
+          "some",
+          "a",
+          "an",
+          "many"
+        ],
+        [
+          "tea",
+          "teas",
+          "a tea",
+          "cup"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_11_countable_uncountable/012.mp3"
+    },
+    {
+      "id": "t11_14",
+      "type": "sentenceAssembly",
+      "question": "Я читаю книгу",
+      "correctAnswer": "I read a book",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "read",
+          "reads",
+          "reading",
+          "write"
+        ],
+        [
+          "a",
+          "some",
+          "an",
+          "much"
+        ],
+        [
+          "book",
+          "books",
+          "water",
+          "milk"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_11_countable_uncountable/013.mp3"
+    },
+    {
+      "id": "t11_15",
+      "type": "sentenceAssembly",
+      "question": "Я хочу кофе",
+      "correctAnswer": "I want some coffee",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "want",
+          "wants",
+          "wanting",
+          "need"
+        ],
+        [
+          "some",
+          "a",
+          "an",
+          "many"
+        ],
+        [
+          "coffee",
+          "coffees",
+          "a coffee",
+          "tea"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_11_countable_uncountable/014.mp3"
+    },
+    {
+      "id": "t11_16",
+      "type": "sentenceAssembly",
+      "question": "Нам нужно мясо",
+      "correctAnswer": "We need some meat",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "I",
+          "He",
+          "She"
+        ],
+        [
+          "need",
+          "needs",
+          "needing",
+          "want"
+        ],
+        [
+          "some",
+          "a",
+          "an",
+          "many"
+        ],
+        [
+          "meat",
+          "meats",
+          "a meat",
+          "fish"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_11_countable_uncountable/015.mp3"
+    },
+    {
+      "id": "t11_17",
+      "type": "sentenceAssembly",
+      "question": "У неё есть сок",
+      "correctAnswer": "She has some juice",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "They"
+        ],
+        [
+          "has",
+          "have",
+          "having",
+          "had"
+        ],
+        [
+          "some",
+          "a",
+          "an",
+          "many"
+        ],
+        [
+          "juice",
+          "juices",
+          "a juice",
+          "water"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_11_countable_uncountable/016.mp3"
+    },
+    {
+      "id": "t11_18",
+      "type": "sentenceAssembly",
+      "question": "У него много стульев",
+      "correctAnswer": "He has many chairs",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "I",
+          "They"
+        ],
+        [
+          "has",
+          "have",
+          "having",
+          "had"
+        ],
+        [
+          "many",
+          "much",
+          "a",
+          "an"
+        ],
+        [
+          "chairs",
+          "chair",
+          "water",
+          "money"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_11_countable_uncountable/017.mp3"
+    },
+    {
+      "id": "t11_19",
+      "type": "sentenceAssembly",
+      "question": "Мне нравится сыр",
+      "correctAnswer": "I like some cheese",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "like",
+          "likes",
+          "liking",
+          "want"
+        ],
+        [
+          "some",
+          "a",
+          "an",
+          "many"
+        ],
+        [
+          "cheese",
+          "cheeses",
+          "a cheese",
+          "bread"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_11_countable_uncountable/018.mp3"
+    },
+    {
+      "id": "t11_20",
+      "type": "sentenceAssembly",
+      "question": "У них много яиц",
+      "correctAnswer": "They have many eggs",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "We",
+          "He",
+          "She"
+        ],
+        [
+          "have",
+          "has",
+          "having",
+          "had"
+        ],
+        [
+          "many",
+          "much",
+          "a",
+          "some"
+        ],
+        [
+          "eggs",
+          "egg",
+          "water",
+          "milk"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_11_countable_uncountable/019.mp3"
+    },
+    {
+      "id": "t11_21",
+      "type": "sentenceAssembly",
+      "question": "У меня нет воды",
+      "correctAnswer": "I have no water",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "have",
+          "has",
+          "having",
+          "had"
+        ],
+        [
+          "no",
+          "not",
+          "none",
+          "never"
+        ],
+        [
+          "water",
+          "waters",
+          "a water",
+          "milk"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_11_countable_uncountable/020.mp3"
+    },
+    {
+      "id": "t11_22",
+      "type": "sentenceAssembly",
+      "question": "У неё нет хлеба",
+      "correctAnswer": "She has no bread",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "They"
+        ],
+        [
+          "has",
+          "have",
+          "having",
+          "had"
+        ],
+        [
+          "no",
+          "not",
+          "none",
+          "never"
+        ],
+        [
+          "bread",
+          "breads",
+          "a bread",
+          "rice"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_11_countable_uncountable/021.mp3"
+    },
+    {
+      "id": "t11_23",
+      "type": "sentenceAssembly",
+      "question": "У нас нет молока",
+      "correctAnswer": "We have no milk",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "I",
+          "He",
+          "She"
+        ],
+        [
+          "have",
+          "has",
+          "having",
+          "had"
+        ],
+        [
+          "no",
+          "not",
+          "none",
+          "never"
+        ],
+        [
+          "milk",
+          "milks",
+          "a milk",
+          "water"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_11_countable_uncountable/022.mp3"
+    },
+    {
+      "id": "t11_24",
+      "type": "sentenceAssembly",
+      "question": "У него нет денег",
+      "correctAnswer": "He has no money",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "I",
+          "They"
+        ],
+        [
+          "has",
+          "have",
+          "having",
+          "had"
+        ],
+        [
+          "no",
+          "not",
+          "none",
+          "never"
+        ],
+        [
+          "money",
+          "moneys",
+          "a money",
+          "monies"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_11_countable_uncountable/023.mp3"
+    },
+    {
+      "id": "t11_25",
+      "type": "sentenceAssembly",
+      "question": "У них нет сахара",
+      "correctAnswer": "They have no sugar",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "We",
+          "He",
+          "She"
+        ],
+        [
+          "have",
+          "has",
+          "having",
+          "had"
+        ],
+        [
+          "no",
+          "not",
+          "none",
+          "never"
+        ],
+        [
+          "sugar",
+          "sugars",
+          "a sugar",
+          "salt"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_11_countable_uncountable/024.mp3"
+    },
+    {
+      "id": "t11_26",
+      "type": "sentenceAssembly",
+      "question": "У меня нет чашки",
+      "correctAnswer": "I have no cup",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "have",
+          "has",
+          "having",
+          "had"
+        ],
+        [
+          "no",
+          "not",
+          "none",
+          "never"
+        ],
+        [
+          "cup",
+          "cups",
+          "water",
+          "milk"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_11_countable_uncountable/025.mp3"
+    },
+    {
+      "id": "t11_27",
+      "type": "sentenceAssembly",
+      "question": "У нас нет риса",
+      "correctAnswer": "We have no rice",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "I",
+          "He",
+          "She"
+        ],
+        [
+          "have",
+          "has",
+          "having",
+          "had"
+        ],
+        [
+          "no",
+          "not",
+          "none",
+          "never"
+        ],
+        [
+          "rice",
+          "rices",
+          "a rice",
+          "bread"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_11_countable_uncountable/026.mp3"
+    },
+    {
+      "id": "t11_28",
+      "type": "sentenceAssembly",
+      "question": "У неё нет сока",
+      "correctAnswer": "She has no juice",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "They"
+        ],
+        [
+          "has",
+          "have",
+          "having",
+          "had"
+        ],
+        [
+          "no",
+          "not",
+          "none",
+          "never"
+        ],
+        [
+          "juice",
+          "juices",
+          "a juice",
+          "water"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_11_countable_uncountable/027.mp3"
+    },
+    {
+      "id": "t11_29",
+      "type": "sentenceAssembly",
+      "question": "У меня нет мяса",
+      "correctAnswer": "I have no meat",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "have",
+          "has",
+          "having",
+          "had"
+        ],
+        [
+          "no",
+          "not",
+          "none",
+          "never"
+        ],
+        [
+          "meat",
+          "meats",
+          "a meat",
+          "fish"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_11_countable_uncountable/028.mp3"
+    },
+    {
+      "id": "t11_30",
+      "type": "sentenceAssembly",
+      "question": "У него нет чая",
+      "correctAnswer": "He has no tea",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "I",
+          "They"
+        ],
+        [
+          "has",
+          "have",
+          "having",
+          "had"
+        ],
+        [
+          "no",
+          "not",
+          "none",
+          "never"
+        ],
+        [
+          "tea",
+          "teas",
+          "a tea",
+          "coffee"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_11_countable_uncountable/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionBeginner11CountableUncountable",
+  "theoryQuiz": [
+    {
+      "id": "tq_11_01",
+      "type": "multipleChoice",
+      "question": "Какое слово является неисчисляемым?",
+      "options": [
+        "chair",
+        "apple",
+        "water",
+        "egg"
+      ],
+      "correctIndex": 2,
+      "explanation": "Water — неисчисляемое. Нельзя сказать a water или two waters."
+    },
+    {
+      "id": "tq_11_02",
+      "type": "multipleChoice",
+      "question": "Как правильно: «Мне нужно воды»?",
+      "options": [
+        "I need a water.",
+        "I need some water.",
+        "I need many water.",
+        "I need an water."
+      ],
+      "correctIndex": 1,
+      "explanation": "Water — неисчисляемое, используем some: I need some water."
+    },
+    {
+      "id": "tq_11_03",
+      "type": "trueFalse",
+      "question": "Можно сказать «a milk».",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "Milk — неисчисляемое. Артикль a/an не используется: some milk."
+    },
+    {
+      "id": "tq_11_04",
+      "type": "multipleChoice",
+      "question": "Какое слово используется с исчисляемыми существительными?",
+      "options": [
+        "much",
+        "many",
+        "some",
+        "a lot"
+      ],
+      "correctIndex": 1,
+      "explanation": "Many — для исчисляемых: many books, many chairs. Much — для неисчисляемых."
+    },
+    {
+      "id": "tq_11_05",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: «I have ___ bread.»",
+      "options": [
+        "a",
+        "an",
+        "some",
+        "many"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bread — неисчисляемое. Используем some: I have some bread."
+    },
+    {
+      "id": "tq_11_06",
+      "type": "trueFalse",
+      "question": "Money — исчисляемое существительное.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "Money — неисчисляемое. Нельзя сказать a money или two moneys."
+    },
+    {
+      "id": "tq_11_07",
+      "type": "multipleChoice",
+      "question": "Как правильно: «У меня есть яблоко»?",
+      "options": [
+        "I have some apple.",
+        "I have an apple.",
+        "I have much apple.",
+        "I have apple."
+      ],
+      "correctIndex": 1,
+      "explanation": "Apple — исчисляемое, начинается на гласную → an: I have an apple."
+    },
+    {
+      "id": "tq_11_08",
+      "type": "multipleChoice",
+      "question": "Какое слово используется с неисчисляемыми существительными для «много»?",
+      "options": [
+        "many",
+        "much",
+        "a",
+        "an"
+      ],
+      "correctIndex": 1,
+      "explanation": "Much — для неисчисляемых: much water, much money."
+    },
+    {
+      "id": "tq_11_09",
+      "type": "trueFalse",
+      "question": "Артикль «a» используется только с исчисляемыми существительными.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "A/an — только для исчисляемых в единственном числе: a book, an egg."
+    },
+    {
+      "id": "tq_11_10",
+      "type": "multipleChoice",
+      "question": "Какое существительное исчисляемое?",
+      "options": [
+        "rice",
+        "bread",
+        "chair",
+        "milk"
+      ],
+      "correctIndex": 2,
+      "explanation": "Chair — исчисляемое: a chair, two chairs. Rice, bread, milk — неисчисляемые."
+    }
+  ]
+}

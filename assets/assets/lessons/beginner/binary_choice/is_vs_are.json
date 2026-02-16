@@ -1,0 +1,400 @@
+{
+  "id": "beginner_bc_01_to_be",
+  "title": "Is vs Are",
+  "description": "Когда IS, а когда ARE? Тренируем выбор формы глагола to be.",
+  "order": 1,
+  "level": "beginner",
+  "imageUrl": null,
+  "tasks": [
+    {
+      "id": "iva_1",
+      "question": "The cat ___ big.",
+      "optionA": "IS",
+      "optionB": "ARE",
+      "correctIndex": 0,
+      "explanation": "Cat — единственное число, поэтому is.",
+      "tags": [
+        "is_vs_are",
+        "is",
+        "home"
+      ]
+    },
+    {
+      "id": "iva_2",
+      "question": "The dogs ___ hungry.",
+      "optionA": "IS",
+      "optionB": "ARE",
+      "correctIndex": 1,
+      "explanation": "Dogs — множественное число, поэтому are.",
+      "tags": [
+        "is_vs_are",
+        "are",
+        "home"
+      ]
+    },
+    {
+      "id": "iva_3",
+      "question": "She ___ my friend.",
+      "optionA": "IS",
+      "optionB": "ARE",
+      "correctIndex": 0,
+      "explanation": "She — местоимение единственного числа, поэтому is.",
+      "tags": [
+        "is_vs_are",
+        "is",
+        "people"
+      ]
+    },
+    {
+      "id": "iva_4",
+      "question": "They ___ at work.",
+      "optionA": "IS",
+      "optionB": "ARE",
+      "correctIndex": 1,
+      "explanation": "They — местоимение множественного числа, поэтому are.",
+      "tags": [
+        "is_vs_are",
+        "are",
+        "work"
+      ]
+    },
+    {
+      "id": "iva_5",
+      "question": "The book ___ interesting.",
+      "optionA": "IS",
+      "optionB": "ARE",
+      "correctIndex": 0,
+      "explanation": "Book — единственное число, поэтому is.",
+      "tags": [
+        "is_vs_are",
+        "is",
+        "hobby"
+      ]
+    },
+    {
+      "id": "iva_6",
+      "question": "My parents ___ kind.",
+      "optionA": "IS",
+      "optionB": "ARE",
+      "correctIndex": 1,
+      "explanation": "Parents — множественное число, поэтому are.",
+      "tags": [
+        "is_vs_are",
+        "are",
+        "people"
+      ]
+    },
+    {
+      "id": "iva_7",
+      "question": "He ___ a doctor.",
+      "optionA": "IS",
+      "optionB": "ARE",
+      "correctIndex": 0,
+      "explanation": "He — местоимение единственного числа, поэтому is.",
+      "tags": [
+        "is_vs_are",
+        "is",
+        "work"
+      ]
+    },
+    {
+      "id": "iva_8",
+      "question": "The cars ___ fast.",
+      "optionA": "IS",
+      "optionB": "ARE",
+      "correctIndex": 1,
+      "explanation": "Cars — множественное число, поэтому are.",
+      "tags": [
+        "is_vs_are",
+        "are",
+        "transport"
+      ]
+    },
+    {
+      "id": "iva_9",
+      "question": "This apple ___ red.",
+      "optionA": "IS",
+      "optionB": "ARE",
+      "correctIndex": 0,
+      "explanation": "Apple — единственное число, поэтому is.",
+      "tags": [
+        "is_vs_are",
+        "is",
+        "food"
+      ]
+    },
+    {
+      "id": "iva_10",
+      "question": "The children ___ outside.",
+      "optionA": "IS",
+      "optionB": "ARE",
+      "correctIndex": 1,
+      "explanation": "Children — множественное число, поэтому are.",
+      "tags": [
+        "is_vs_are",
+        "are",
+        "people"
+      ]
+    },
+    {
+      "id": "iva_11",
+      "question": "You ___ very smart.",
+      "optionA": "IS",
+      "optionB": "ARE",
+      "correctIndex": 1,
+      "explanation": "You всегда требует are, даже для одного человека.",
+      "tags": [
+        "is_vs_are",
+        "are",
+        "people"
+      ]
+    },
+    {
+      "id": "iva_12",
+      "question": "The milk ___ cold.",
+      "optionA": "IS",
+      "optionB": "ARE",
+      "correctIndex": 0,
+      "explanation": "Milk — неисчисляемое существительное, поэтому is.",
+      "tags": [
+        "is_vs_are",
+        "is",
+        "food"
+      ]
+    },
+    {
+      "id": "iva_13",
+      "question": "We ___ at home.",
+      "optionA": "IS",
+      "optionB": "ARE",
+      "correctIndex": 1,
+      "explanation": "We — местоимение множественного числа, поэтому are.",
+      "tags": [
+        "is_vs_are",
+        "are",
+        "home"
+      ]
+    },
+    {
+      "id": "iva_14",
+      "question": "This house ___ old.",
+      "optionA": "IS",
+      "optionB": "ARE",
+      "correctIndex": 0,
+      "explanation": "House — единственное число, поэтому is.",
+      "tags": [
+        "is_vs_are",
+        "is",
+        "home"
+      ]
+    },
+    {
+      "id": "iva_15",
+      "question": "These flowers ___ beautiful.",
+      "optionA": "IS",
+      "optionB": "ARE",
+      "correctIndex": 1,
+      "explanation": "Flowers — множественное число, поэтому are.",
+      "tags": [
+        "is_vs_are",
+        "are",
+        "nature"
+      ]
+    },
+    {
+      "id": "iva_16",
+      "question": "My sister ___ a teacher.",
+      "optionA": "IS",
+      "optionB": "ARE",
+      "correctIndex": 0,
+      "explanation": "Sister — единственное число, поэтому is.",
+      "tags": [
+        "is_vs_are",
+        "is",
+        "work"
+      ]
+    },
+    {
+      "id": "iva_17",
+      "question": "The water ___ warm.",
+      "optionA": "IS",
+      "optionB": "ARE",
+      "correctIndex": 0,
+      "explanation": "Water — неисчисляемое существительное, поэтому is.",
+      "tags": [
+        "is_vs_are",
+        "is",
+        "nature"
+      ]
+    },
+    {
+      "id": "iva_18",
+      "question": "Your keys ___ here.",
+      "optionA": "IS",
+      "optionB": "ARE",
+      "correctIndex": 1,
+      "explanation": "Keys — множественное число, поэтому are.",
+      "tags": [
+        "is_vs_are",
+        "are",
+        "home"
+      ]
+    },
+    {
+      "id": "iva_19",
+      "question": "It ___ very sunny.",
+      "optionA": "IS",
+      "optionB": "ARE",
+      "correctIndex": 0,
+      "explanation": "It — местоимение единственного числа, поэтому is.",
+      "tags": [
+        "is_vs_are",
+        "is",
+        "weather"
+      ]
+    },
+    {
+      "id": "iva_20",
+      "question": "The students ___ busy.",
+      "optionA": "IS",
+      "optionB": "ARE",
+      "correctIndex": 1,
+      "explanation": "Students — множественное число, поэтому are.",
+      "tags": [
+        "is_vs_are",
+        "are",
+        "work"
+      ]
+    },
+    {
+      "id": "iva_21",
+      "question": "The news ___ good.",
+      "optionA": "IS",
+      "optionB": "ARE",
+      "correctIndex": 0,
+      "explanation": "News выглядит как множественное число, но это единственное число, поэтому is.",
+      "tags": [
+        "is_vs_are",
+        "is",
+        "daily"
+      ]
+    },
+    {
+      "id": "iva_22",
+      "question": "My teeth ___ white.",
+      "optionA": "IS",
+      "optionB": "ARE",
+      "correctIndex": 1,
+      "explanation": "Teeth — множественное число от tooth, поэтому are.",
+      "tags": [
+        "is_vs_are",
+        "are",
+        "body"
+      ]
+    },
+    {
+      "id": "iva_23",
+      "question": "The police ___ here.",
+      "optionA": "IS",
+      "optionB": "ARE",
+      "correctIndex": 1,
+      "explanation": "Police — собирательное существительное, требует are.",
+      "tags": [
+        "is_vs_are",
+        "are",
+        "work"
+      ]
+    },
+    {
+      "id": "iva_24",
+      "question": "My homework ___ difficult.",
+      "optionA": "IS",
+      "optionB": "ARE",
+      "correctIndex": 0,
+      "explanation": "Homework — неисчисляемое существительное, поэтому is.",
+      "tags": [
+        "is_vs_are",
+        "is",
+        "work"
+      ]
+    },
+    {
+      "id": "iva_25",
+      "question": "Those people ___ friendly.",
+      "optionA": "IS",
+      "optionB": "ARE",
+      "correctIndex": 1,
+      "explanation": "People — множественное число, поэтому are.",
+      "tags": [
+        "is_vs_are",
+        "are",
+        "people"
+      ]
+    },
+    {
+      "id": "iva_26",
+      "question": "The money ___ ready.",
+      "optionA": "IS",
+      "optionB": "ARE",
+      "correctIndex": 0,
+      "explanation": "Money — неисчисляемое существительное, поэтому is.",
+      "tags": [
+        "is_vs_are",
+        "is",
+        "daily"
+      ]
+    },
+    {
+      "id": "iva_27",
+      "question": "Her glasses ___ new.",
+      "optionA": "IS",
+      "optionB": "ARE",
+      "correctIndex": 1,
+      "explanation": "Glasses всегда множественное число, поэтому are.",
+      "tags": [
+        "is_vs_are",
+        "are",
+        "things"
+      ]
+    },
+    {
+      "id": "iva_28",
+      "question": "The family ___ happy.",
+      "optionA": "IS",
+      "optionB": "ARE",
+      "correctIndex": 0,
+      "explanation": "Family как единое целое требует is в американском английском.",
+      "tags": [
+        "is_vs_are",
+        "is",
+        "people"
+      ]
+    },
+    {
+      "id": "iva_29",
+      "question": "Mathematics ___ hard.",
+      "optionA": "IS",
+      "optionB": "ARE",
+      "correctIndex": 0,
+      "explanation": "Mathematics выглядит как множественное число, но это единственное число, поэтому is.",
+      "tags": [
+        "is_vs_are",
+        "is",
+        "work"
+      ]
+    },
+    {
+      "id": "iva_30",
+      "question": "The scissors ___ sharp.",
+      "optionA": "IS",
+      "optionB": "ARE",
+      "correctIndex": 1,
+      "explanation": "Scissors всегда множественное число, поэтому are.",
+      "tags": [
+        "is_vs_are",
+        "are",
+        "things"
+      ]
+    }
+  ]
+}

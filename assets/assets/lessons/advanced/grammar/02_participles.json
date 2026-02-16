@@ -1,0 +1,2593 @@
+{
+  "id": "advanced_02_participles",
+  "title": "Participles (-ing vs -ed)",
+  "description": "Причастия: Живые прилагательные. Boring (скучный) или Bored (скучающий)?",
+  "order": 2,
+  "level": "advanced",
+  "imageUrl": "assets/images/lessons/participles.png",
+  "vocabulary": [
+    {
+      "id": "v2_interesting",
+      "english": "interesting",
+      "russian": "интересный",
+      "partOfSpeech": "adjective",
+      "example": "Interesting book.",
+      "exampleTranslation": "Интересная книга.",
+      "audioPath": "assets/audio/vocabulary/v2_interesting.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_interesting.mp3"
+    },
+    {
+      "id": "v2_book",
+      "english": "book",
+      "russian": "книга",
+      "partOfSpeech": "noun",
+      "example": "This book.",
+      "exampleTranslation": "Эта книга.",
+      "audioPath": "assets/audio/vocabulary/v2_book.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_book.mp3"
+    },
+    {
+      "id": "v2_interested",
+      "english": "interested",
+      "russian": "заинтересован",
+      "partOfSpeech": "adjective",
+      "example": "I am interested.",
+      "exampleTranslation": "Я заинтересован.",
+      "audioPath": "assets/audio/vocabulary/v2_interested.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_interested.mp3"
+    },
+    {
+      "id": "v2_boring",
+      "english": "boring",
+      "russian": "скучный",
+      "partOfSpeech": "adjective",
+      "example": "Movie was boring.",
+      "exampleTranslation": "Фильм был скучным.",
+      "audioPath": "assets/audio/vocabulary/v2_boring.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_boring.mp3"
+    },
+    {
+      "id": "v2_movie",
+      "english": "movie",
+      "russian": "фильм",
+      "partOfSpeech": "noun",
+      "example": "The movie.",
+      "exampleTranslation": "Фильм.",
+      "audioPath": "assets/audio/vocabulary/v2_movie.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_movie.mp3"
+    },
+    {
+      "id": "v2_bored",
+      "english": "bored",
+      "russian": "скучающий",
+      "partOfSpeech": "adjective",
+      "example": "I was bored.",
+      "exampleTranslation": "Мне было скучно.",
+      "audioPath": "assets/audio/vocabulary/v2_bored.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_bored.mp3"
+    },
+    {
+      "id": "v2_smile",
+      "english": "smile",
+      "russian": "улыбаться",
+      "partOfSpeech": "verb",
+      "example": "Smiling.",
+      "exampleTranslation": "Улыбаясь.",
+      "audioPath": "assets/audio/vocabulary/v2_smile.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_smile.mp3"
+    },
+    {
+      "id": "v2_say",
+      "english": "say",
+      "russian": "сказать",
+      "partOfSpeech": "verb",
+      "example": "She said.",
+      "exampleTranslation": "Она сказала.",
+      "audioPath": "assets/audio/vocabulary/v2_say.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_say.mp3"
+    },
+    {
+      "id": "v2_break",
+      "english": "break",
+      "russian": "ломать",
+      "partOfSpeech": "verb",
+      "example": "Broken window.",
+      "exampleTranslation": "Разбитое окно.",
+      "audioPath": "assets/audio/vocabulary/v2_break.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_break.mp3"
+    },
+    {
+      "id": "v2_window",
+      "english": "window",
+      "russian": "окно",
+      "partOfSpeech": "noun",
+      "example": "The window.",
+      "exampleTranslation": "Окно.",
+      "audioPath": "assets/audio/vocabulary/v2_window.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_window.mp3"
+    },
+    {
+      "id": "v2_shock",
+      "english": "shock",
+      "russian": "шокировать",
+      "partOfSpeech": "verb",
+      "example": "Was shocking.",
+      "exampleTranslation": "Были шокирующими.",
+      "audioPath": "assets/audio/vocabulary/v2_shock.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_shock.mp3"
+    },
+    {
+      "id": "v2_news",
+      "english": "news",
+      "russian": "новости",
+      "partOfSpeech": "noun",
+      "example": "The news.",
+      "exampleTranslation": "Новости.",
+      "audioPath": "assets/audio/vocabulary/v2_news.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_news.mp3"
+    },
+    {
+      "id": "v2_run",
+      "english": "run",
+      "russian": "бежать",
+      "partOfSpeech": "verb",
+      "example": "Running water.",
+      "exampleTranslation": "Бегущая вода.",
+      "audioPath": "assets/audio/vocabulary/v2_run.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_run.mp3"
+    },
+    {
+      "id": "v2_water",
+      "english": "water",
+      "russian": "вода",
+      "partOfSpeech": "noun",
+      "example": "Running water.",
+      "exampleTranslation": "Бегущая вода.",
+      "audioPath": "assets/audio/vocabulary/v2_water.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_water.mp3"
+    },
+    {
+      "id": "v2_write",
+      "english": "write",
+      "russian": "писать",
+      "partOfSpeech": "verb",
+      "example": "Written letter.",
+      "exampleTranslation": "Написанное письмо.",
+      "audioPath": "assets/audio/vocabulary/v2_write.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_write.mp3"
+    },
+    {
+      "id": "v2_letter",
+      "english": "letter",
+      "russian": "письмо",
+      "partOfSpeech": "noun",
+      "example": "Written letter.",
+      "exampleTranslation": "Написанное письмо.",
+      "audioPath": "assets/audio/vocabulary/v2_letter.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_letter.mp3"
+    },
+    {
+      "id": "v2_tire",
+      "english": "tire",
+      "russian": "утомлять",
+      "partOfSpeech": "verb",
+      "example": "Tiring job.",
+      "exampleTranslation": "Утомительная работа.",
+      "audioPath": "assets/audio/vocabulary/v2_tire.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_tire.mp3"
+    },
+    {
+      "id": "v2_job",
+      "english": "job",
+      "russian": "работа",
+      "partOfSpeech": "noun",
+      "example": "Tiring job.",
+      "exampleTranslation": "Утомительная работа.",
+      "audioPath": "assets/audio/vocabulary/v2_job.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_job.mp3"
+    },
+    {
+      "id": "v2_tired",
+      "english": "tired",
+      "russian": "уставший",
+      "partOfSpeech": "adjective",
+      "example": "I am tired.",
+      "exampleTranslation": "Я устал.",
+      "audioPath": "assets/audio/vocabulary/v2_tired.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_tired.mp3"
+    },
+    {
+      "id": "v2_make",
+      "english": "make",
+      "russian": "делать",
+      "partOfSpeech": "verb",
+      "example": "Made in China.",
+      "exampleTranslation": "Сделано в Китае.",
+      "audioPath": "assets/audio/vocabulary/v2_make.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_make.mp3"
+    },
+    {
+      "id": "v2_surprise",
+      "english": "surprise",
+      "russian": "удивлять",
+      "partOfSpeech": "verb",
+      "example": "Was surprised.",
+      "exampleTranslation": "Был удивлен.",
+      "audioPath": "assets/audio/vocabulary/v2_surprise.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_surprise.mp3"
+    },
+    {
+      "id": "v2_result",
+      "english": "result",
+      "russian": "результат",
+      "partOfSpeech": "noun",
+      "example": "The result.",
+      "exampleTranslation": "Результат.",
+      "audioPath": "assets/audio/vocabulary/v2_result.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_result.mp3"
+    },
+    {
+      "id": "v2_watch",
+      "english": "watch",
+      "russian": "смотреть",
+      "partOfSpeech": "verb",
+      "example": "Watching TV.",
+      "exampleTranslation": "Просматривая ТВ.",
+      "audioPath": "assets/audio/vocabulary/v2_watch.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_watch.mp3"
+    },
+    {
+      "id": "v2_sleep",
+      "english": "sleep",
+      "russian": "спать",
+      "partOfSpeech": "verb",
+      "example": "Fell asleep.",
+      "exampleTranslation": "Уснул.",
+      "audioPath": "assets/audio/vocabulary/v2_sleep.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_sleep.mp3"
+    },
+    {
+      "id": "v2_steal",
+      "english": "steal",
+      "russian": "красть",
+      "partOfSpeech": "verb",
+      "example": "Stolen car.",
+      "exampleTranslation": "Украденная машина.",
+      "audioPath": "assets/audio/vocabulary/v2_steal.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_steal.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "The Living Adjective",
+    "subtitle": "Причастие — это гибрид Глагола и Прилагательного. Оно описывает предмет через действие. -ING — Источник (солнце светит -> shining). -ED — Получатель (окно разбито -> broken).",
+    "construction": {
+      "formula": "Verb + ING / Verb + ED (V3)",
+      "rules": [
+        {
+          "word": "-ING (Active)",
+          "description": "Активное причастие. Описывает того, кто 'излучает' свойство. The film is borING (Фильм излучает скуку -> Скучный)."
+        },
+        {
+          "word": "-ED (Passive)",
+          "description": "Пассивное причастие. Описывает того, кто 'принял' воздействие. I am borED (Я принял скуку -> Мне скучно)."
+        },
+        {
+          "word": "Participle Clauses",
+          "description": "Оборот: WALKING down the street, I saw him. (Идя по улице...)."
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "star",
+        "color": "orange",
+        "title": "Источник (-ING)",
+        "description": "It is confusING. (Это сбивает с толку). It is interestING. (Это интересно).",
+        "example": {
+          "english": "The news was shocking.",
+          "russian": "Новости были шокирующими."
+        }
+      },
+      {
+        "icon": "groups",
+        "color": "blue",
+        "title": "Состояние (-ED)",
+        "description": "I am confusED. (Я сбит с толку). I am interestED. (Я заинтересован).",
+        "example": {
+          "english": "I was shocked.",
+          "russian": "Я был шокирован."
+        }
+      },
+      {
+        "icon": "bolt",
+        "color": "green",
+        "title": "Деепричастие",
+        "description": "DoING something, he... (Делая что-то, он...).",
+        "example": {
+          "english": "Smiling, she opened the door.",
+          "russian": "Улыбаясь, она открыла дверь."
+        }
+      }
+    ],
+    "markers": [
+      "interesting",
+      "interested",
+      "boring",
+      "bored",
+      "shocking",
+      "shocked",
+      "amazing",
+      "amazed"
+    ]
+  },
+  "tasks": [
+    {
+      "id": "t2_1",
+      "type": "sentenceAssembly",
+      "question": "Книга, лежащая на столе, выглядит очень интересной",
+      "correctAnswer": "The book lying on the table looks very interesting",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "book",
+          "novel",
+          "text",
+          "story"
+        ],
+        [
+          "lying",
+          "laying",
+          "sitting",
+          "put"
+        ],
+        [
+          "on",
+          "to",
+          "for",
+          "at"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "table",
+          "desk",
+          "shelf",
+          "floor"
+        ],
+        [
+          "looks",
+          "seems",
+          "feels",
+          "appears"
+        ],
+        [
+          "very",
+          "quite",
+          "really",
+          "most"
+        ],
+        [
+          "interesting",
+          "interested",
+          "interest",
+          "nice"
+        ]
+      ],
+      "mistakeTags": [
+        "participles",
+        "ing_ed_forms"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_02_participles/000.mp3"
+    },
+    {
+      "id": "t2_2",
+      "type": "sentenceAssembly",
+      "question": "Я заинтересован в проекте, который они начали вчера",
+      "correctAnswer": "I am interested in the project they started yesterday",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "They",
+          "You",
+          "One"
+        ],
+        [
+          "am",
+          "is",
+          "are",
+          "was"
+        ],
+        [
+          "interested",
+          "interesting",
+          "interest",
+          "keen"
+        ],
+        [
+          "in",
+          "on",
+          "at",
+          "for"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "project",
+          "plan",
+          "work",
+          "task"
+        ],
+        [
+          "they",
+          "we",
+          "he",
+          "she"
+        ],
+        [
+          "started",
+          "began",
+          "opened",
+          "made"
+        ],
+        [
+          "yesterday",
+          "today",
+          "recently",
+          "before"
+        ]
+      ],
+      "mistakeTags": [
+        "participles",
+        "ing_ed_forms"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_02_participles/001.mp3"
+    },
+    {
+      "id": "t2_3",
+      "type": "sentenceAssembly",
+      "question": "Фильм, который мы посмотрели вчера вечером, был скучным",
+      "correctAnswer": "The movie we watched last night was really boring",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "movie",
+          "film",
+          "show",
+          "series"
+        ],
+        [
+          "we",
+          "they",
+          "I",
+          "he"
+        ],
+        [
+          "watched",
+          "saw",
+          "viewed",
+          "liked"
+        ],
+        [
+          "last",
+          "that",
+          "one",
+          "the"
+        ],
+        [
+          "night",
+          "evening",
+          "time",
+          "day"
+        ],
+        [
+          "was",
+          "is",
+          "were",
+          "seemed"
+        ],
+        [
+          "really",
+          "very",
+          "quite",
+          "most"
+        ],
+        [
+          "boring",
+          "bored",
+          "dull",
+          "slow"
+        ]
+      ],
+      "mistakeTags": [
+        "participles",
+        "ing_ed_forms"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_02_participles/002.mp3"
+    },
+    {
+      "id": "t2_4",
+      "type": "sentenceAssembly",
+      "question": "Мне было скучно весь день без моих друзей",
+      "correctAnswer": "I was bored all day long without my friends",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "was",
+          "were",
+          "am",
+          "felt"
+        ],
+        [
+          "bored",
+          "boring",
+          "bore",
+          "tired"
+        ],
+        [
+          "all",
+          "the",
+          "that",
+          "one"
+        ],
+        [
+          "day",
+          "time",
+          "week",
+          "night"
+        ],
+        [
+          "long",
+          "round",
+          "through",
+          "over"
+        ],
+        [
+          "without",
+          "with",
+          "beside",
+          "near"
+        ],
+        [
+          "my",
+          "his",
+          "her",
+          "our"
+        ],
+        [
+          "friends",
+          "family",
+          "people",
+          "kids"
+        ]
+      ],
+      "mistakeTags": [
+        "participles",
+        "ing_ed_forms"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_02_participles/003.mp3"
+    },
+    {
+      "id": "t2_5",
+      "type": "sentenceAssembly",
+      "question": "Улыбаясь, она сказала привет и помахала рукой дружелюбно",
+      "correctAnswer": "Smiling, she said hello and waved her hand friendly",
+      "options": [],
+      "variants": [
+        [
+          "Smiling,",
+          "Smiled,",
+          "Smile,",
+          "Happy,"
+        ],
+        [
+          "she",
+          "he",
+          "they",
+          "her"
+        ],
+        [
+          "said",
+          "told",
+          "spoke",
+          "called"
+        ],
+        [
+          "hello",
+          "hi",
+          "hey",
+          "greetings"
+        ],
+        [
+          "and",
+          "then",
+          "but",
+          "or"
+        ],
+        [
+          "waved",
+          "moved",
+          "raised",
+          "shook"
+        ],
+        [
+          "her",
+          "his",
+          "the",
+          "my"
+        ],
+        [
+          "hand",
+          "arm",
+          "head",
+          "face"
+        ],
+        [
+          "friendly",
+          "kindly",
+          "warmly",
+          "softly"
+        ]
+      ],
+      "mistakeTags": [
+        "participles",
+        "ing_ed_forms"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_02_participles/004.mp3"
+    },
+    {
+      "id": "t2_6",
+      "type": "sentenceAssembly",
+      "question": "Разбитое окно в старом доме выглядело очень грустно",
+      "correctAnswer": "The broken window in the old house looked sad",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "broken",
+          "cracked",
+          "broke",
+          "damaged"
+        ],
+        [
+          "window",
+          "glass",
+          "door",
+          "wall"
+        ],
+        [
+          "in",
+          "at",
+          "on",
+          "by"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "old",
+          "big",
+          "small",
+          "dark"
+        ],
+        [
+          "house",
+          "building",
+          "room",
+          "place"
+        ],
+        [
+          "looked",
+          "seemed",
+          "felt",
+          "appeared"
+        ],
+        [
+          "sad",
+          "bad",
+          "ugly",
+          "poor"
+        ]
+      ],
+      "mistakeTags": [
+        "participles",
+        "ing_ed_forms"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_02_participles/005.mp3"
+    },
+    {
+      "id": "t2_7",
+      "type": "sentenceAssembly",
+      "question": "Шокирующее открытие в области этики изменило всю парадигму навсегда",
+      "correctAnswer": "The shocking discovery in ethics changed the entire paradigm",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "shocking",
+          "shocked",
+          "shock",
+          "scary"
+        ],
+        [
+          "discovery",
+          "finding",
+          "insight",
+          "result"
+        ],
+        [
+          "in",
+          "to",
+          "for",
+          "at"
+        ],
+        [
+          "ethics",
+          "science",
+          "philosophy",
+          "politics"
+        ],
+        [
+          "changed",
+          "altered",
+          "shifted",
+          "affected"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "entire",
+          "whole",
+          "complete",
+          "full"
+        ],
+        [
+          "paradigm",
+          "framework",
+          "approach",
+          "system"
+        ]
+      ],
+      "mistakeTags": [
+        "participles",
+        "ing_ed_forms"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_02_participles/006.mp3"
+    },
+    {
+      "id": "t2_8",
+      "type": "sentenceAssembly",
+      "question": "Мы были шокированы тем, что произошло прошлой ночью",
+      "correctAnswer": "We were shocked by what happened late last night",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "You",
+          "People"
+        ],
+        [
+          "were",
+          "was",
+          "are",
+          "got"
+        ],
+        [
+          "shocked",
+          "shocking",
+          "scared",
+          "upset"
+        ],
+        [
+          "by",
+          "to",
+          "with",
+          "from"
+        ],
+        [
+          "what",
+          "that",
+          "which",
+          "how"
+        ],
+        [
+          "happened",
+          "occurred",
+          "came",
+          "went"
+        ],
+        [
+          "late",
+          "early",
+          "very",
+          "so"
+        ],
+        [
+          "last",
+          "that",
+          "the",
+          "one"
+        ],
+        [
+          "night",
+          "evening",
+          "day",
+          "time"
+        ]
+      ],
+      "mistakeTags": [
+        "participles",
+        "ing_ed_forms"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_02_participles/007.mp3"
+    },
+    {
+      "id": "t2_9",
+      "type": "sentenceAssembly",
+      "question": "Бегущая вода из крана звучала очень громко ночью",
+      "correctAnswer": "The running water from the tap sounded very loud",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "That",
+          "This",
+          "Some"
+        ],
+        [
+          "running",
+          "flowing",
+          "dripping",
+          "moving"
+        ],
+        [
+          "water",
+          "stream",
+          "liquid",
+          "rain"
+        ],
+        [
+          "from",
+          "to",
+          "about",
+          "through"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "tap",
+          "pipe",
+          "sink",
+          "bath"
+        ],
+        [
+          "sounded",
+          "seemed",
+          "felt",
+          "was"
+        ],
+        [
+          "very",
+          "quite",
+          "really",
+          "too"
+        ],
+        [
+          "loud",
+          "noisy",
+          "clear",
+          "strong"
+        ]
+      ],
+      "mistakeTags": [
+        "participles",
+        "ing_ed_forms"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_02_participles/008.mp3"
+    },
+    {
+      "id": "t2_10",
+      "type": "sentenceAssembly",
+      "question": "Теория, написанная великим учёным, повлияла на всё научное сообщество",
+      "correctAnswer": "The theory written by the great scientist influenced everyone",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "theory",
+          "thesis",
+          "concept",
+          "paper"
+        ],
+        [
+          "written",
+          "wrote",
+          "typed",
+          "sent"
+        ],
+        [
+          "by",
+          "from",
+          "of",
+          "with"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "great",
+          "famous",
+          "leading",
+          "noted"
+        ],
+        [
+          "scientist",
+          "scholar",
+          "thinker",
+          "professor"
+        ],
+        [
+          "influenced",
+          "inspired",
+          "transformed",
+          "affected"
+        ],
+        [
+          "everyone",
+          "society",
+          "generations",
+          "thinking"
+        ]
+      ],
+      "mistakeTags": [
+        "participles",
+        "ing_ed_forms"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_02_participles/009.mp3"
+    },
+    {
+      "id": "t2_11",
+      "type": "sentenceAssembly",
+      "question": "Эта утомительная работа занимает у него весь день каждый раз",
+      "correctAnswer": "This tiring job takes him the whole day every time",
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "That",
+          "The",
+          "His"
+        ],
+        [
+          "tiring",
+          "tired",
+          "boring",
+          "hard"
+        ],
+        [
+          "job",
+          "work",
+          "task",
+          "duty"
+        ],
+        [
+          "takes",
+          "gives",
+          "costs",
+          "needs"
+        ],
+        [
+          "him",
+          "her",
+          "them",
+          "us"
+        ],
+        [
+          "the",
+          "a",
+          "his",
+          "one"
+        ],
+        [
+          "whole",
+          "full",
+          "long",
+          "entire"
+        ],
+        [
+          "day",
+          "week",
+          "time",
+          "hour"
+        ],
+        [
+          "every",
+          "each",
+          "one",
+          "that"
+        ],
+        [
+          "time",
+          "day",
+          "week",
+          "turn"
+        ]
+      ],
+      "mistakeTags": [
+        "participles",
+        "ing_ed_forms"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_02_participles/010.mp3"
+    },
+    {
+      "id": "t2_12",
+      "type": "sentenceAssembly",
+      "question": "Я устал после долгой прогулки по парку сегодня",
+      "correctAnswer": "I am tired after the long walk through the park",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "She",
+          "He",
+          "It"
+        ],
+        [
+          "am",
+          "is",
+          "are",
+          "was"
+        ],
+        [
+          "tired",
+          "tiring",
+          "bored",
+          "sleepy"
+        ],
+        [
+          "after",
+          "from",
+          "since",
+          "before"
+        ],
+        [
+          "the",
+          "a",
+          "my",
+          "our"
+        ],
+        [
+          "long",
+          "short",
+          "big",
+          "hard"
+        ],
+        [
+          "walk",
+          "run",
+          "trip",
+          "hike"
+        ],
+        [
+          "through",
+          "across",
+          "around",
+          "in"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "park",
+          "forest",
+          "garden",
+          "city"
+        ]
+      ],
+      "mistakeTags": [
+        "participles",
+        "ing_ed_forms"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_02_participles/011.mp3"
+    },
+    {
+      "id": "t2_13",
+      "type": "sentenceAssembly",
+      "question": "Этот телефон, сделанный в Китае, работает очень хорошо",
+      "correctAnswer": "This phone made in China works very well indeed",
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "That",
+          "The",
+          "My"
+        ],
+        [
+          "phone",
+          "laptop",
+          "watch",
+          "device"
+        ],
+        [
+          "made",
+          "built",
+          "done",
+          "created"
+        ],
+        [
+          "in",
+          "to",
+          "for",
+          "at"
+        ],
+        [
+          "China",
+          "Japan",
+          "Korea",
+          "India"
+        ],
+        [
+          "works",
+          "runs",
+          "goes",
+          "does"
+        ],
+        [
+          "very",
+          "quite",
+          "really",
+          "so"
+        ],
+        [
+          "well",
+          "good",
+          "fine",
+          "nice"
+        ],
+        [
+          "indeed",
+          "actually",
+          "truly",
+          "really"
+        ]
+      ],
+      "mistakeTags": [
+        "participles",
+        "ing_ed_forms"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_02_participles/012.mp3"
+    },
+    {
+      "id": "t2_14",
+      "type": "sentenceAssembly",
+      "question": "Он был удивлён результатами теста, полученными сегодня утром",
+      "correctAnswer": "He was surprised by the test results he received today",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "They",
+          "We"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "got"
+        ],
+        [
+          "surprised",
+          "shocking",
+          "amazed",
+          "upset"
+        ],
+        [
+          "by",
+          "to",
+          "with",
+          "from"
+        ],
+        [
+          "the",
+          "his",
+          "her",
+          "some"
+        ],
+        [
+          "test",
+          "exam",
+          "final",
+          "last"
+        ],
+        [
+          "results",
+          "scores",
+          "marks",
+          "grades"
+        ],
+        [
+          "he",
+          "she",
+          "they",
+          "we"
+        ],
+        [
+          "received",
+          "got",
+          "saw",
+          "found"
+        ],
+        [
+          "today",
+          "yesterday",
+          "recently",
+          "before"
+        ]
+      ],
+      "mistakeTags": [
+        "participles",
+        "ing_ed_forms"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_02_participles/013.mp3"
+    },
+    {
+      "id": "t2_15",
+      "type": "sentenceAssembly",
+      "question": "Результат политических реформ оказался поистине удивительным для всего общества",
+      "correctAnswer": "The result of the political reforms was truly surprising",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "result",
+          "outcome",
+          "effect",
+          "impact"
+        ],
+        [
+          "of",
+          "from",
+          "in",
+          "at"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "political",
+          "social",
+          "economic",
+          "legal"
+        ],
+        [
+          "reforms",
+          "changes",
+          "policies",
+          "measures"
+        ],
+        [
+          "was",
+          "seemed",
+          "looked",
+          "felt"
+        ],
+        [
+          "truly",
+          "very",
+          "quite",
+          "really"
+        ],
+        [
+          "surprising",
+          "surprised",
+          "amazing",
+          "great"
+        ]
+      ],
+      "mistakeTags": [
+        "participles",
+        "ing_ed_forms"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_02_participles/014.mp3"
+    },
+    {
+      "id": "t2_16",
+      "type": "sentenceAssembly",
+      "question": "Просматривая телевизор поздно ночью, я уснул на диване",
+      "correctAnswer": "Watching TV late at night I fell asleep quickly",
+      "options": [],
+      "variants": [
+        [
+          "Watching",
+          "Looking",
+          "Seeing",
+          "Viewing"
+        ],
+        [
+          "TV",
+          "film",
+          "show",
+          "news"
+        ],
+        [
+          "late",
+          "early",
+          "very",
+          "so"
+        ],
+        [
+          "at",
+          "to",
+          "for",
+          "in"
+        ],
+        [
+          "night",
+          "evening",
+          "home",
+          "last"
+        ],
+        [
+          "I",
+          "he",
+          "she",
+          "we"
+        ],
+        [
+          "fell",
+          "fall",
+          "got",
+          "went"
+        ],
+        [
+          "asleep",
+          "sleep",
+          "down",
+          "out"
+        ],
+        [
+          "quickly",
+          "slowly",
+          "soon",
+          "fast"
+        ]
+      ],
+      "mistakeTags": [
+        "participles",
+        "ing_ed_forms"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_02_participles/015.mp3"
+    },
+    {
+      "id": "t2_17",
+      "type": "sentenceAssembly",
+      "question": "Украденную машину нашли возле старого склада вчера утром",
+      "correctAnswer": "The stolen car was found near the old warehouse",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "stolen",
+          "lost",
+          "missing",
+          "taken"
+        ],
+        [
+          "car",
+          "vehicle",
+          "truck",
+          "van"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "got"
+        ],
+        [
+          "found",
+          "seen",
+          "spotted",
+          "located"
+        ],
+        [
+          "near",
+          "by",
+          "at",
+          "behind"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "that"
+        ],
+        [
+          "old",
+          "big",
+          "dark",
+          "empty"
+        ],
+        [
+          "warehouse",
+          "factory",
+          "building",
+          "station"
+        ]
+      ],
+      "mistakeTags": [
+        "participles",
+        "ing_ed_forms"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_02_participles/016.mp3"
+    },
+    {
+      "id": "t2_18",
+      "type": "sentenceAssembly",
+      "question": "Этот постоянно раздражающий шум мешает мне работать каждый день",
+      "correctAnswer": "The annoying noise from outside stops me from working daily",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "annoying",
+          "annoyed",
+          "loud",
+          "bad"
+        ],
+        [
+          "noise",
+          "sound",
+          "music",
+          "voice"
+        ],
+        [
+          "from",
+          "to",
+          "about",
+          "through"
+        ],
+        [
+          "outside",
+          "upstairs",
+          "nearby",
+          "next"
+        ],
+        [
+          "stops",
+          "keeps",
+          "makes",
+          "lets"
+        ],
+        [
+          "me",
+          "him",
+          "her",
+          "us"
+        ],
+        [
+          "from",
+          "at",
+          "of",
+          "by"
+        ],
+        [
+          "working",
+          "sleeping",
+          "reading",
+          "thinking"
+        ],
+        [
+          "daily",
+          "always",
+          "often",
+          "constantly"
+        ]
+      ],
+      "mistakeTags": [
+        "participles",
+        "ing_ed_forms"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_02_participles/017.mp3"
+    },
+    {
+      "id": "t2_19",
+      "type": "sentenceAssembly",
+      "question": "Я раздражён из-за постоянного шума с соседней стройки",
+      "correctAnswer": "I am annoyed by the constant noise from the construction",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "am",
+          "is",
+          "are",
+          "was"
+        ],
+        [
+          "annoyed",
+          "annoying",
+          "angry",
+          "upset"
+        ],
+        [
+          "by",
+          "to",
+          "for",
+          "at"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "constant",
+          "loud",
+          "big",
+          "bad"
+        ],
+        [
+          "noise",
+          "sound",
+          "music",
+          "work"
+        ],
+        [
+          "from",
+          "to",
+          "for",
+          "at"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "construction",
+          "building",
+          "factory",
+          "street"
+        ]
+      ],
+      "mistakeTags": [
+        "participles",
+        "ing_ed_forms"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_02_participles/018.mp3"
+    },
+    {
+      "id": "t2_20",
+      "type": "sentenceAssembly",
+      "question": "Использованный билет лежал на полу возле входной двери",
+      "correctAnswer": "The used ticket was lying on the floor near door",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "used",
+          "old",
+          "torn",
+          "lost"
+        ],
+        [
+          "ticket",
+          "pass",
+          "card",
+          "paper"
+        ],
+        [
+          "was",
+          "is",
+          "were",
+          "got"
+        ],
+        [
+          "lying",
+          "sitting",
+          "standing",
+          "placed"
+        ],
+        [
+          "on",
+          "to",
+          "with",
+          "from"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "floor",
+          "ground",
+          "table",
+          "desk"
+        ],
+        [
+          "near",
+          "by",
+          "at",
+          "behind"
+        ],
+        [
+          "door",
+          "gate",
+          "wall",
+          "window"
+        ]
+      ],
+      "mistakeTags": [
+        "participles",
+        "ing_ed_forms"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_02_participles/019.mp3"
+    },
+    {
+      "id": "t2_21",
+      "type": "sentenceAssembly",
+      "question": "Спящая совесть нации нуждалась в пробуждении и обновлении",
+      "correctAnswer": "The sleeping conscience of the nation needed an awakening",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "That",
+          "Her"
+        ],
+        [
+          "sleeping",
+          "sleepy",
+          "dormant",
+          "quiet"
+        ],
+        [
+          "conscience",
+          "spirit",
+          "soul",
+          "voice"
+        ],
+        [
+          "of",
+          "in",
+          "for",
+          "from"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "nation",
+          "society",
+          "people",
+          "world"
+        ],
+        [
+          "needed",
+          "required",
+          "demanded",
+          "awaited"
+        ],
+        [
+          "an",
+          "a",
+          "the",
+          "some"
+        ],
+        [
+          "awakening",
+          "renewal",
+          "revival",
+          "reform"
+        ]
+      ],
+      "mistakeTags": [
+        "participles",
+        "ing_ed_forms"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_02_participles/020.mp3"
+    },
+    {
+      "id": "t2_22",
+      "type": "sentenceAssembly",
+      "question": "Она была взволнована, получив приглашение на вечеринку друга",
+      "correctAnswer": "She was excited after getting the invitation to the party",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "They",
+          "We"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "got"
+        ],
+        [
+          "excited",
+          "exciting",
+          "happy",
+          "glad"
+        ],
+        [
+          "after",
+          "before",
+          "when",
+          "since"
+        ],
+        [
+          "getting",
+          "having",
+          "seeing",
+          "reading"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "her"
+        ],
+        [
+          "invitation",
+          "letter",
+          "card",
+          "message"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "from"
+        ],
+        [
+          "the",
+          "a",
+          "his",
+          "their"
+        ],
+        [
+          "party",
+          "event",
+          "dinner",
+          "wedding"
+        ]
+      ],
+      "mistakeTags": [
+        "participles",
+        "ing_ed_forms"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_02_participles/021.mp3"
+    },
+    {
+      "id": "t2_23",
+      "type": "sentenceAssembly",
+      "question": "Это была захватывающая игра, которую мы долго ждали",
+      "correctAnswer": "It was an exciting game that we had long awaited",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "This",
+          "That",
+          "There"
+        ],
+        [
+          "was",
+          "is",
+          "were",
+          "seemed"
+        ],
+        [
+          "an",
+          "a",
+          "the",
+          "one"
+        ],
+        [
+          "exciting",
+          "excited",
+          "amazing",
+          "great"
+        ],
+        [
+          "game",
+          "match",
+          "event",
+          "show"
+        ],
+        [
+          "that",
+          "which",
+          "what",
+          "who"
+        ],
+        [
+          "we",
+          "they",
+          "he",
+          "she"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "were"
+        ],
+        [
+          "long",
+          "always",
+          "really",
+          "truly"
+        ],
+        [
+          "awaited",
+          "wanted",
+          "expected",
+          "hoped"
+        ]
+      ],
+      "mistakeTags": [
+        "participles",
+        "ing_ed_forms"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_02_participles/022.mp3"
+    },
+    {
+      "id": "t2_24",
+      "type": "sentenceAssembly",
+      "question": "Закрытая глава истории в конце долгой эпохи выглядела символичной",
+      "correctAnswer": "The closed chapter of history at the end of the era looked symbolic",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "closed",
+          "locked",
+          "shut",
+          "sealed"
+        ],
+        [
+          "chapter",
+          "page",
+          "period",
+          "phase"
+        ],
+        [
+          "of",
+          "in",
+          "from",
+          "about"
+        ],
+        [
+          "history",
+          "civilization",
+          "mankind",
+          "progress"
+        ],
+        [
+          "at",
+          "to",
+          "about",
+          "through"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "end",
+          "close",
+          "conclusion",
+          "finish"
+        ],
+        [
+          "of",
+          "in",
+          "from",
+          "about"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "era",
+          "epoch",
+          "century",
+          "age"
+        ],
+        [
+          "looked",
+          "seemed",
+          "felt",
+          "appeared"
+        ],
+        [
+          "symbolic",
+          "profound",
+          "meaningful",
+          "historic"
+        ]
+      ],
+      "mistakeTags": [
+        "participles",
+        "ing_ed_forms"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_02_participles/023.mp3"
+    },
+    {
+      "id": "t2_25",
+      "type": "sentenceAssembly",
+      "question": "Потерянные возможности нельзя вернуть — таков закон философии",
+      "correctAnswer": "Lost opportunities can never be brought back remember that always",
+      "options": [],
+      "variants": [
+        [
+          "Lost",
+          "Wasted",
+          "Gone",
+          "Missed"
+        ],
+        [
+          "opportunities",
+          "chances",
+          "moments",
+          "ideals"
+        ],
+        [
+          "can",
+          "will",
+          "may",
+          "could"
+        ],
+        [
+          "never",
+          "not",
+          "hardly",
+          "rarely"
+        ],
+        [
+          "be",
+          "get",
+          "go",
+          "come"
+        ],
+        [
+          "brought",
+          "given",
+          "taken",
+          "turned"
+        ],
+        [
+          "back",
+          "again",
+          "over",
+          "around"
+        ],
+        [
+          "remember",
+          "forget",
+          "think",
+          "know"
+        ],
+        [
+          "that",
+          "this",
+          "it",
+          "now"
+        ],
+        [
+          "always",
+          "forever",
+          "often",
+          "well"
+        ]
+      ],
+      "mistakeTags": [
+        "participles",
+        "ing_ed_forms"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_02_participles/024.mp3"
+    },
+    {
+      "id": "t2_26",
+      "type": "sentenceAssembly",
+      "question": "Плачущий ребёнок в парке потерял свою маму где-то здесь",
+      "correctAnswer": "The crying child in the park had lost his mother",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "That",
+          "One"
+        ],
+        [
+          "crying",
+          "sad",
+          "lost",
+          "scared"
+        ],
+        [
+          "child",
+          "boy",
+          "girl",
+          "kid"
+        ],
+        [
+          "in",
+          "at",
+          "by",
+          "near"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "park",
+          "garden",
+          "street",
+          "store"
+        ],
+        [
+          "had",
+          "has",
+          "have",
+          "was"
+        ],
+        [
+          "lost",
+          "found",
+          "left",
+          "missed"
+        ],
+        [
+          "his",
+          "her",
+          "the",
+          "their"
+        ],
+        [
+          "mother",
+          "father",
+          "parent",
+          "family"
+        ]
+      ],
+      "mistakeTags": [
+        "participles",
+        "ing_ed_forms"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_02_participles/025.mp3"
+    },
+    {
+      "id": "t2_27",
+      "type": "sentenceAssembly",
+      "question": "Прибывающий на станцию поезд опоздал на двадцать минут",
+      "correctAnswer": "The train arriving at the station was twenty minutes late",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "That",
+          "Our"
+        ],
+        [
+          "train",
+          "bus",
+          "plane",
+          "tram"
+        ],
+        [
+          "arriving",
+          "coming",
+          "going",
+          "moving"
+        ],
+        [
+          "at",
+          "to",
+          "in",
+          "on"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "station",
+          "stop",
+          "port",
+          "terminal"
+        ],
+        [
+          "was",
+          "is",
+          "were",
+          "ran"
+        ],
+        [
+          "twenty",
+          "thirty",
+          "fifteen",
+          "ten"
+        ],
+        [
+          "minutes",
+          "hours",
+          "seconds",
+          "stops"
+        ],
+        [
+          "late",
+          "early",
+          "behind",
+          "slow"
+        ]
+      ],
+      "mistakeTags": [
+        "participles",
+        "ing_ed_forms"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_02_participles/026.mp3"
+    },
+    {
+      "id": "t2_28",
+      "type": "sentenceAssembly",
+      "question": "Я совершенно сбит с толку этими новыми правилами на работе",
+      "correctAnswer": "I am completely confused by these new rules at work",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "am",
+          "is",
+          "are",
+          "was"
+        ],
+        [
+          "completely",
+          "totally",
+          "very",
+          "really"
+        ],
+        [
+          "confused",
+          "confusing",
+          "lost",
+          "puzzled"
+        ],
+        [
+          "by",
+          "to",
+          "for",
+          "at"
+        ],
+        [
+          "these",
+          "those",
+          "the",
+          "some"
+        ],
+        [
+          "new",
+          "old",
+          "strange",
+          "hard"
+        ],
+        [
+          "rules",
+          "laws",
+          "tasks",
+          "plans"
+        ],
+        [
+          "at",
+          "in",
+          "on",
+          "for"
+        ],
+        [
+          "work",
+          "school",
+          "home",
+          "office"
+        ]
+      ],
+      "mistakeTags": [
+        "participles",
+        "ing_ed_forms"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_02_participles/027.mp3"
+    },
+    {
+      "id": "t2_29",
+      "type": "sentenceAssembly",
+      "question": "Сбивающая с толку инструкция не помогла нам собрать мебель",
+      "correctAnswer": "The confusing instruction did not help us assemble the furniture",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "confusing",
+          "confused",
+          "unclear",
+          "bad"
+        ],
+        [
+          "instruction",
+          "manual",
+          "guide",
+          "text"
+        ],
+        [
+          "did",
+          "does",
+          "will",
+          "can"
+        ],
+        [
+          "not",
+          "never",
+          "hardly",
+          "barely"
+        ],
+        [
+          "help",
+          "let",
+          "make",
+          "allow"
+        ],
+        [
+          "us",
+          "me",
+          "him",
+          "them"
+        ],
+        [
+          "assemble",
+          "build",
+          "fix",
+          "make"
+        ],
+        [
+          "the",
+          "a",
+          "our",
+          "that"
+        ],
+        [
+          "furniture",
+          "table",
+          "shelf",
+          "desk"
+        ]
+      ],
+      "mistakeTags": [
+        "participles",
+        "ing_ed_forms"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_02_participles/028.mp3"
+    },
+    {
+      "id": "t2_30",
+      "type": "sentenceAssembly",
+      "question": "Не зная, что сказать, она оставалась совершенно молчаливой",
+      "correctAnswer": "Not knowing what to say she remained completely silent",
+      "options": [],
+      "variants": [
+        [
+          "Not",
+          "Without",
+          "Never",
+          "Hardly"
+        ],
+        [
+          "knowing",
+          "seeing",
+          "having",
+          "getting"
+        ],
+        [
+          "what",
+          "how",
+          "where",
+          "when"
+        ],
+        [
+          "to",
+          "and",
+          "or",
+          "but"
+        ],
+        [
+          "say",
+          "do",
+          "ask",
+          "tell"
+        ],
+        [
+          "she",
+          "he",
+          "they",
+          "we"
+        ],
+        [
+          "remained",
+          "stayed",
+          "kept",
+          "stood"
+        ],
+        [
+          "completely",
+          "totally",
+          "very",
+          "quite"
+        ],
+        [
+          "silent",
+          "quiet",
+          "still",
+          "calm"
+        ]
+      ],
+      "mistakeTags": [
+        "participles",
+        "ing_ed_forms"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_02_participles/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionAdvanced02Participles",
+  "theoryQuiz": [
+    {
+      "id": "tq_01",
+      "type": "multipleChoice",
+      "question": "Какое окончание имеет Present Participle?",
+      "options": [
+        "-ed",
+        "-ing",
+        "-en",
+        "-ly"
+      ],
+      "correctIndex": 1,
+      "explanation": "Present Participle всегда оканчивается на -ing: running, boring, exciting."
+    },
+    {
+      "id": "tq_02",
+      "type": "trueFalse",
+      "question": "'Bored' описывает источник скуки (то, что вызывает скуку).",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "Неверно: 'bored' (Past Participle) описывает получателя чувства. Источник — 'boring'."
+    },
+    {
+      "id": "tq_03",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: The film was very ___.",
+      "options": [
+        "bored",
+        "boring",
+        "bore",
+        "been bored"
+      ],
+      "correctIndex": 1,
+      "explanation": "Фильм — источник скуки, поэтому используется Present Participle: boring."
+    },
+    {
+      "id": "tq_04",
+      "type": "trueFalse",
+      "question": "'Running water' — пример использования Present Participle как прилагательного.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Верно: running (Present Participle) описывает воду — вода, которая бежит."
+    },
+    {
+      "id": "tq_05",
+      "type": "multipleChoice",
+      "question": "Что означает 'a broken window'?",
+      "options": [
+        "Окно, которое ломает",
+        "Окно, которое разбито",
+        "Окно, которое ломается",
+        "Разбивающее окно"
+      ],
+      "correctIndex": 1,
+      "explanation": "Past Participle 'broken' описывает получателя действия — окно, которое было разбито."
+    },
+    {
+      "id": "tq_06",
+      "type": "multipleChoice",
+      "question": "'Walking home, I saw a cat.' Что здесь 'Walking home'?",
+      "options": [
+        "Главное предложение",
+        "Participial clause",
+        "Условное предложение",
+        "Reported speech"
+      ],
+      "correctIndex": 1,
+      "explanation": "Это participial clause — причастный оборот, который заменяет придаточное предложение."
+    },
+    {
+      "id": "tq_07",
+      "type": "trueFalse",
+      "question": "'The student was very exciting about the trip' — это правильное предложение.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "Неверно: студент — получатель чувства, нужен Past Participle: excited (not exciting)."
+    },
+    {
+      "id": "tq_08",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: ___ by the question, she asked again.",
+      "options": [
+        "Confusing",
+        "Confused",
+        "Confuse",
+        "To confuse"
+      ],
+      "correctIndex": 1,
+      "explanation": "She — получатель действия (её смутили), поэтому Past Participle: Confused."
+    },
+    {
+      "id": "tq_09",
+      "type": "trueFalse",
+      "question": "Present Participle (-ing) описывает источник действия или чувства.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Верно: -ing форма описывает источник: a boring film (фильм вызывает скуку)."
+    },
+    {
+      "id": "tq_10",
+      "type": "multipleChoice",
+      "question": "Какая пара правильная?",
+      "options": [
+        "an interested book / a boring student",
+        "an interesting book / a bored student",
+        "an interesting book / a boring student",
+        "an interested book / a bored student"
+      ],
+      "correctIndex": 1,
+      "explanation": "Книга — источник (interesting), студент — получатель (bored)."
+    }
+  ]
+}

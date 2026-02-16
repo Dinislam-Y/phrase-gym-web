@@ -1,0 +1,476 @@
+{
+  "id": "beginner_listening_14_prepositions_of_place",
+  "title": "Prepositions of Place: in, on, at, under",
+  "description": "Слушайте и определяйте, где находятся предметы и люди.",
+  "order": 14,
+  "level": "beginner",
+  "imageUrl": "assets/images/lessons/prepositions_of_place.png",
+  "tasks": [
+    {
+      "id": "t14_01",
+      "audioText": "A woman is looking for her keys. She checks everywhere. The keys are on the table.",
+      "transcript": "The keys are on the table.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The keys are under the table."
+        },
+        {
+          "id": "o2",
+          "text": "The keys are on top of the table."
+        },
+        {
+          "id": "o3",
+          "text": "The keys are next to the table."
+        },
+        {
+          "id": "o4",
+          "text": "The keys are behind the table."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'On the table' means on top of the surface. Option 2 says the same thing.",
+      "mistakeTags": [
+        "prepositions_of_place",
+        "on",
+        "home"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_14_prepositions_of_place/t14_01.mp3"
+    },
+    {
+      "id": "t14_02",
+      "audioText": "A boy comes home from school. He puts his things away. My bag is in the closet.",
+      "transcript": "My bag is in the closet.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The bag is inside the closet."
+        },
+        {
+          "id": "o2",
+          "text": "The bag is on the closet."
+        },
+        {
+          "id": "o3",
+          "text": "The bag is behind the closet."
+        },
+        {
+          "id": "o4",
+          "text": "The bag is under the closet."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'In the closet' means inside. Option 1 is correct.",
+      "mistakeTags": [
+        "prepositions_of_place",
+        "in",
+        "home"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_14_prepositions_of_place/t14_02.mp3"
+    },
+    {
+      "id": "t14_03",
+      "audioText": "A girl looks for her cat. She searches the whole house. The cat is under the bed.",
+      "transcript": "The cat is under the bed.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The cat is on the bed."
+        },
+        {
+          "id": "o2",
+          "text": "The cat is next to the bed."
+        },
+        {
+          "id": "o3",
+          "text": "The cat is below the bed."
+        },
+        {
+          "id": "o4",
+          "text": "The cat is behind the door."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Under the bed' means below it. Option 3 uses 'below,' which is the same meaning.",
+      "mistakeTags": [
+        "prepositions_of_place",
+        "under",
+        "home"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_14_prepositions_of_place/t14_03.mp3"
+    },
+    {
+      "id": "t14_04",
+      "audioText": "Two friends meet in the city. They are near a big building. I will wait for you at the entrance.",
+      "transcript": "I will wait for you at the entrance.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He will wait inside the building."
+        },
+        {
+          "id": "o2",
+          "text": "He will wait at the entrance of the building."
+        },
+        {
+          "id": "o3",
+          "text": "He will wait behind the building."
+        },
+        {
+          "id": "o4",
+          "text": "He will wait on the roof."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'At the entrance' means at a specific point — the entrance. Option 2 is correct.",
+      "mistakeTags": [
+        "prepositions_of_place",
+        "at",
+        "city"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_14_prepositions_of_place/t14_04.mp3"
+    },
+    {
+      "id": "t14_05",
+      "audioText": "A teacher arranges the classroom. She puts desks in rows. The bookshelf is next to the door.",
+      "transcript": "The bookshelf is next to the door.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The bookshelf is far from the door."
+        },
+        {
+          "id": "o2",
+          "text": "The bookshelf is behind the door."
+        },
+        {
+          "id": "o3",
+          "text": "The bookshelf is beside the door."
+        },
+        {
+          "id": "o4",
+          "text": "The bookshelf is above the door."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Next to' means beside, right near something. Option 3 says the same thing.",
+      "mistakeTags": [
+        "prepositions_of_place",
+        "next_to",
+        "school"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_14_prepositions_of_place/t14_05.mp3"
+    },
+    {
+      "id": "t14_06",
+      "audioText": "A man describes his office. It is a small room. The lamp is between the computer and the phone.",
+      "transcript": "The lamp is between the computer and the phone.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The lamp is in the middle of the computer and phone."
+        },
+        {
+          "id": "o2",
+          "text": "The lamp is behind the computer."
+        },
+        {
+          "id": "o3",
+          "text": "The lamp is under the phone."
+        },
+        {
+          "id": "o4",
+          "text": "The lamp is on top of the computer."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Between' means in the middle of two things. Option 1 is correct.",
+      "mistakeTags": [
+        "prepositions_of_place",
+        "between",
+        "work"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_14_prepositions_of_place/t14_06.mp3"
+    },
+    {
+      "id": "t14_07",
+      "audioText": "A woman parks her car. She looks around the parking lot. My car is behind the supermarket.",
+      "transcript": "My car is behind the supermarket.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The car is in front of the supermarket."
+        },
+        {
+          "id": "o2",
+          "text": "The car is inside the supermarket."
+        },
+        {
+          "id": "o3",
+          "text": "The car is at the back of the supermarket."
+        },
+        {
+          "id": "o4",
+          "text": "The car is on top of the supermarket."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Behind the supermarket' means at the back. Option 3 is correct.",
+      "mistakeTags": [
+        "prepositions_of_place",
+        "behind",
+        "shopping"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_14_prepositions_of_place/t14_07.mp3"
+    },
+    {
+      "id": "t14_08",
+      "audioText": "A boy sits in the garden. He reads a book. The dog is in front of me.",
+      "transcript": "The dog is in front of me.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The dog is behind the boy."
+        },
+        {
+          "id": "o2",
+          "text": "The dog is facing the boy, ahead of him."
+        },
+        {
+          "id": "o3",
+          "text": "The dog is next to the boy."
+        },
+        {
+          "id": "o4",
+          "text": "The dog is far from the boy."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'In front of me' means ahead, facing the speaker. Option 2 is correct.",
+      "mistakeTags": [
+        "prepositions_of_place",
+        "in_front_of",
+        "home"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_14_prepositions_of_place/t14_08.mp3"
+    },
+    {
+      "id": "t14_09",
+      "audioText": "A girl describes her bedroom. It is cozy and warm. There is a picture on the wall.",
+      "transcript": "There is a picture on the wall.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "A picture hangs on the wall."
+        },
+        {
+          "id": "o2",
+          "text": "A picture is on the floor."
+        },
+        {
+          "id": "o3",
+          "text": "A picture is on the desk."
+        },
+        {
+          "id": "o4",
+          "text": "A picture is in the drawer."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'On the wall' means attached to or hanging on the wall surface. Option 1 is correct.",
+      "mistakeTags": [
+        "prepositions_of_place",
+        "on",
+        "home"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_14_prepositions_of_place/t14_09.mp3"
+    },
+    {
+      "id": "t14_10",
+      "audioText": "A man waits for his friend at the park. He sits on a bench. The fountain is in front of the bench.",
+      "transcript": "The fountain is in front of the bench.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The fountain is behind the bench."
+        },
+        {
+          "id": "o2",
+          "text": "The fountain is under the bench."
+        },
+        {
+          "id": "o3",
+          "text": "The fountain is ahead of the bench."
+        },
+        {
+          "id": "o4",
+          "text": "The fountain is far from the bench."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'In front of' means ahead, facing the bench. Option 3 says the same.",
+      "mistakeTags": [
+        "prepositions_of_place",
+        "in_front_of",
+        "park"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_14_prepositions_of_place/t14_10.mp3"
+    },
+    {
+      "id": "t14_11",
+      "audioText": "A woman works at a hospital. She tells a visitor where to go. The pharmacy is on the first floor.",
+      "transcript": "The pharmacy is on the first floor.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The pharmacy is on the second floor."
+        },
+        {
+          "id": "o2",
+          "text": "The pharmacy is on the ground floor."
+        },
+        {
+          "id": "o3",
+          "text": "The pharmacy is in the basement."
+        },
+        {
+          "id": "o4",
+          "text": "The pharmacy is outside the hospital."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'On the first floor' — the first floor is the ground level. Option 2 is correct.",
+      "mistakeTags": [
+        "prepositions_of_place",
+        "on",
+        "hospital"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_14_prepositions_of_place/t14_11.mp3"
+    },
+    {
+      "id": "t14_12",
+      "audioText": "A boy plays hide and seek with friends. He finds a good spot. I am behind the big tree.",
+      "transcript": "I am behind the big tree.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The boy is hiding at the back of the tree."
+        },
+        {
+          "id": "o2",
+          "text": "The boy is hiding in the tree."
+        },
+        {
+          "id": "o3",
+          "text": "The boy is hiding under the tree."
+        },
+        {
+          "id": "o4",
+          "text": "The boy is standing next to the tree."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Behind the big tree' means at the back of the tree, hidden from view. Option 1.",
+      "mistakeTags": [
+        "prepositions_of_place",
+        "behind",
+        "park"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_14_prepositions_of_place/t14_12.mp3"
+    },
+    {
+      "id": "t14_13",
+      "audioText": "A woman tells a tourist about the town. She points across the road. The bank is between the cafe and the library.",
+      "transcript": "The bank is between the cafe and the library.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The bank is next to the library only."
+        },
+        {
+          "id": "o2",
+          "text": "The bank is in the middle of the cafe and library."
+        },
+        {
+          "id": "o3",
+          "text": "The bank is behind the cafe."
+        },
+        {
+          "id": "o4",
+          "text": "The bank is across from the library."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Between the cafe and the library' means in the middle of both. Option 2 is correct.",
+      "mistakeTags": [
+        "prepositions_of_place",
+        "between",
+        "city"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_14_prepositions_of_place/t14_13.mp3"
+    },
+    {
+      "id": "t14_14",
+      "audioText": "A man checks into a hotel. The receptionist gives him directions. Your room is at the end of the hall.",
+      "transcript": "Your room is at the end of the hall.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The room is at the beginning of the hall."
+        },
+        {
+          "id": "o2",
+          "text": "The room is in the middle of the hall."
+        },
+        {
+          "id": "o3",
+          "text": "The room is at the far end of the hall."
+        },
+        {
+          "id": "o4",
+          "text": "The room is on the next floor."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'At the end of the hall' means at the far end. Option 3 is correct.",
+      "mistakeTags": [
+        "prepositions_of_place",
+        "at",
+        "hotel"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_14_prepositions_of_place/t14_14.mp3"
+    },
+    {
+      "id": "t14_15",
+      "audioText": "A girl looks under her desk at school. She dropped something. My eraser is under the chair.",
+      "transcript": "My eraser is under the chair.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The eraser is on the chair."
+        },
+        {
+          "id": "o2",
+          "text": "The eraser is in the bag."
+        },
+        {
+          "id": "o3",
+          "text": "The eraser is next to the chair."
+        },
+        {
+          "id": "o4",
+          "text": "The eraser is below the chair."
+        }
+      ],
+      "correctIndex": 3,
+      "explanation": "'Under the chair' means below it, on the floor beneath. Option 4 says the same.",
+      "mistakeTags": [
+        "prepositions_of_place",
+        "under",
+        "school"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_14_prepositions_of_place/t14_15.mp3"
+    }
+  ],
+  "short_description": "Тренируйте понимание предлогов места на слух."
+}

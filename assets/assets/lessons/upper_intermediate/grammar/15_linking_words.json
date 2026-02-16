@@ -1,0 +1,1897 @@
+{
+  "id": "upper_15_linking_words",
+  "title": "Linking Words & Discourse Markers",
+  "description": "Связующие слова: however, moreover, nevertheless, on the other hand, in addition, furthermore.",
+  "order": 15,
+  "level": "upper_intermediate",
+  "imageUrl": "assets/images/lessons/linking_words.png",
+  "vocabulary": [
+    {
+      "id": "v15_however",
+      "english": "however",
+      "russian": "однако, тем не менее",
+      "partOfSpeech": "conjunction",
+      "example": "However, she decided to stay.",
+      "exampleTranslation": "Однако она решила остаться.",
+      "audioPath": "assets/audio/vocabulary/v15_however.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_however.mp3"
+    },
+    {
+      "id": "v15_moreover",
+      "english": "moreover",
+      "russian": "более того, кроме того",
+      "partOfSpeech": "conjunction",
+      "example": "Moreover, the price was too high.",
+      "exampleTranslation": "Более того, цена была слишком высокой.",
+      "audioPath": "assets/audio/vocabulary/v15_moreover.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_moreover.mp3"
+    },
+    {
+      "id": "v15_nevertheless",
+      "english": "nevertheless",
+      "russian": "тем не менее, всё же",
+      "partOfSpeech": "conjunction",
+      "example": "Nevertheless, they continued working.",
+      "exampleTranslation": "Тем не менее они продолжили работать.",
+      "audioPath": "assets/audio/vocabulary/v15_nevertheless.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_nevertheless.mp3"
+    },
+    {
+      "id": "v15_furthermore",
+      "english": "furthermore",
+      "russian": "кроме того, к тому же",
+      "partOfSpeech": "conjunction",
+      "example": "Furthermore, the results were impressive.",
+      "exampleTranslation": "Кроме того, результаты были впечатляющими.",
+      "audioPath": "assets/audio/vocabulary/v15_furthermore.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_furthermore.mp3"
+    },
+    {
+      "id": "v15_therefore",
+      "english": "therefore",
+      "russian": "поэтому, следовательно",
+      "partOfSpeech": "conjunction",
+      "example": "Therefore, we need to change the plan.",
+      "exampleTranslation": "Поэтому нам нужно изменить план.",
+      "audioPath": "assets/audio/vocabulary/v15_therefore.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_therefore.mp3"
+    },
+    {
+      "id": "v15_although",
+      "english": "although",
+      "russian": "хотя, несмотря на то что",
+      "partOfSpeech": "conjunction",
+      "example": "Although it was late, she kept working.",
+      "exampleTranslation": "Хотя было поздно, она продолжала работать.",
+      "audioPath": "assets/audio/vocabulary/v15_although.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_although.mp3"
+    },
+    {
+      "id": "v15_despite",
+      "english": "despite",
+      "russian": "несмотря на",
+      "partOfSpeech": "preposition",
+      "example": "Despite the rain, they went outside.",
+      "exampleTranslation": "Несмотря на дождь, они вышли на улицу.",
+      "audioPath": "assets/audio/vocabulary/v15_despite.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_despite.mp3"
+    },
+    {
+      "id": "v15_in_addition",
+      "english": "in addition",
+      "russian": "в дополнение, кроме того",
+      "partOfSpeech": "phrase",
+      "example": "In addition, we need more time.",
+      "exampleTranslation": "Кроме того, нам нужно больше времени.",
+      "audioPath": "assets/audio/vocabulary/v15_in_addition.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_in_addition.mp3"
+    },
+    {
+      "id": "v15_on_the_other_hand",
+      "english": "on the other hand",
+      "russian": "с другой стороны",
+      "partOfSpeech": "phrase",
+      "example": "On the other hand, it might be risky.",
+      "exampleTranslation": "С другой стороны, это может быть рискованным.",
+      "audioPath": "assets/audio/vocabulary/v15_on_the_other_hand.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_on_the_other_hand.mp3"
+    },
+    {
+      "id": "v15_as_a_result",
+      "english": "as a result",
+      "russian": "в результате",
+      "partOfSpeech": "phrase",
+      "example": "As a result, sales increased.",
+      "exampleTranslation": "В результате продажи выросли.",
+      "audioPath": "assets/audio/vocabulary/v15_as_a_result.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_as_a_result.mp3"
+    },
+    {
+      "id": "v15_in_contrast",
+      "english": "in contrast",
+      "russian": "в отличие, напротив",
+      "partOfSpeech": "phrase",
+      "example": "In contrast, the second option is cheaper.",
+      "exampleTranslation": "Напротив, второй вариант дешевле.",
+      "audioPath": "assets/audio/vocabulary/v15_in_contrast.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_in_contrast.mp3"
+    },
+    {
+      "id": "v15_meanwhile",
+      "english": "meanwhile",
+      "russian": "тем временем",
+      "partOfSpeech": "adverb",
+      "example": "Meanwhile, the situation was getting worse.",
+      "exampleTranslation": "Тем временем ситуация ухудшалась.",
+      "audioPath": "assets/audio/vocabulary/v15_meanwhile.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_meanwhile.mp3"
+    },
+    {
+      "id": "v15_consequently",
+      "english": "consequently",
+      "russian": "следовательно, вследствие этого",
+      "partOfSpeech": "adverb",
+      "example": "Consequently, the project was delayed.",
+      "exampleTranslation": "Вследствие этого проект был задержан.",
+      "audioPath": "assets/audio/vocabulary/v15_consequently.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_consequently.mp3"
+    },
+    {
+      "id": "v15_whereas",
+      "english": "whereas",
+      "russian": "тогда как, в то время как",
+      "partOfSpeech": "conjunction",
+      "example": "He prefers tea, whereas she likes coffee.",
+      "exampleTranslation": "Он предпочитает чай, тогда как она любит кофе.",
+      "audioPath": "assets/audio/vocabulary/v15_whereas.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_whereas.mp3"
+    },
+    {
+      "id": "v15_in_conclusion",
+      "english": "in conclusion",
+      "russian": "в заключение",
+      "partOfSpeech": "phrase",
+      "example": "In conclusion, the project was successful.",
+      "exampleTranslation": "В заключение, проект был успешным.",
+      "audioPath": "assets/audio/vocabulary/v15_in_conclusion.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_in_conclusion.mp3"
+    },
+    {
+      "id": "v15_similarly",
+      "english": "similarly",
+      "russian": "аналогично, подобным образом",
+      "partOfSpeech": "adverb",
+      "example": "Similarly, the second experiment showed the same results.",
+      "exampleTranslation": "Аналогично, второй эксперимент показал те же результаты.",
+      "audioPath": "assets/audio/vocabulary/v15_similarly.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_similarly.mp3"
+    },
+    {
+      "id": "v15_due_to",
+      "english": "due to",
+      "russian": "из-за, благодаря",
+      "partOfSpeech": "phrase",
+      "example": "Due to the weather, the event was cancelled.",
+      "exampleTranslation": "Из-за погоды мероприятие было отменено.",
+      "audioPath": "assets/audio/vocabulary/v15_due_to.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_due_to.mp3"
+    },
+    {
+      "id": "v15_overall",
+      "english": "overall",
+      "russian": "в целом",
+      "partOfSpeech": "adverb",
+      "example": "Overall, the experience was positive.",
+      "exampleTranslation": "В целом, опыт был положительным.",
+      "audioPath": "assets/audio/vocabulary/v15_overall.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_overall.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "Linking Words & Discourse Markers",
+    "subtitle": "Связующие слова делают речь логичной и связной. Они показывают отношения между идеями: контраст, причину, следствие, дополнение.",
+    "construction": {
+      "formula": "Linking word + , + clause / Clause + linking word + clause",
+      "rules": [
+        {
+          "word": "Контраст: however, nevertheless, on the other hand",
+          "description": "Противопоставление идей: He is smart. However, he failed the test (Он умный. Однако он провалил тест)."
+        },
+        {
+          "word": "Дополнение: moreover, furthermore, in addition",
+          "description": "Добавление информации: Moreover, the price is reasonable (Более того, цена разумная)."
+        },
+        {
+          "word": "Причина-следствие: therefore, consequently, as a result",
+          "description": "Показывает результат: Therefore, we decided to wait (Поэтому мы решили подождать)."
+        },
+        {
+          "word": "Уступка: although, despite, in spite of",
+          "description": "Несмотря на что-то: Although it rained, we went out (Хотя шёл дождь, мы вышли)."
+        },
+        {
+          "word": "Пунктуация",
+          "description": "После however, moreover, nevertheless, therefore в начале предложения ставится запятая."
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "handshake",
+        "color": "blue",
+        "title": "Контраст и противопоставление",
+        "description": "Когда хотите показать разницу или противоположную точку зрения.",
+        "example": {
+          "english": "The plan seemed good. However, it was too expensive.",
+          "russian": "План казался хорошим. Однако он был слишком дорогим."
+        }
+      },
+      {
+        "icon": "star",
+        "color": "purple",
+        "title": "Добавление информации",
+        "description": "Когда хотите усилить аргумент дополнительным фактом.",
+        "example": {
+          "english": "The hotel was beautiful. Moreover, it was very affordable.",
+          "russian": "Отель был красивым. Более того, он был очень доступным."
+        }
+      },
+      {
+        "icon": "bolt",
+        "color": "orange",
+        "title": "Причина и следствие",
+        "description": "Когда показываете результат или последствие.",
+        "example": {
+          "english": "It rained all day. As a result, the match was cancelled.",
+          "russian": "Весь день шёл дождь. В результате матч был отменён."
+        }
+      },
+      {
+        "icon": "check_circle",
+        "color": "green",
+        "title": "Уступка",
+        "description": "Когда признаёте факт, но указываете на неожиданный результат.",
+        "example": {
+          "english": "Although he studied hard, he didn't pass the exam.",
+          "russian": "Хотя он усердно учился, он не сдал экзамен."
+        }
+      }
+    ],
+    "markers": [
+      "however",
+      "moreover",
+      "nevertheless",
+      "therefore",
+      "furthermore",
+      "although",
+      "despite"
+    ]
+  },
+  "theoryQuiz": [
+    {
+      "id": "tq_15_01",
+      "type": "multipleChoice",
+      "question": "Какое слово выражает контраст (противопоставление)?",
+      "options": [
+        "moreover",
+        "however",
+        "furthermore",
+        "in addition"
+      ],
+      "correctIndex": 1,
+      "explanation": "However выражает контраст: Он умный. Однако он не сдал тест."
+    },
+    {
+      "id": "tq_15_02",
+      "type": "multipleChoice",
+      "question": "Выберите правильное связующее слово: \"The hotel was great. ___, the food was excellent.\"",
+      "options": [
+        "However",
+        "Nevertheless",
+        "Moreover",
+        "Therefore"
+      ],
+      "correctIndex": 2,
+      "explanation": "Moreover добавляет информацию: Отель был отличным. Более того, еда была превосходной."
+    },
+    {
+      "id": "tq_15_03",
+      "type": "trueFalse",
+      "question": "After \"however\" at the beginning of a sentence, we always use a comma.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "However, moreover, nevertheless, therefore в начале предложения всегда сопровождаются запятой."
+    },
+    {
+      "id": "tq_15_04",
+      "type": "multipleChoice",
+      "question": "\"Therefore\" используется для выражения...",
+      "options": [
+        "контраста",
+        "дополнения",
+        "причины-следствия",
+        "уступки"
+      ],
+      "correctIndex": 2,
+      "explanation": "Therefore показывает следствие: Поэтому мы решили уехать."
+    },
+    {
+      "id": "tq_15_05",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"___ the rain, they went for a walk.\"",
+      "options": [
+        "However",
+        "Despite",
+        "Therefore",
+        "Moreover"
+      ],
+      "correctIndex": 1,
+      "explanation": "Despite + noun: Despite the rain (Несмотря на дождь)."
+    },
+    {
+      "id": "tq_15_06",
+      "type": "trueFalse",
+      "question": "\"Although\" и \"despite\" можно использовать одинаково в предложении.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "Although + clause (Although it rained), а despite + noun/gerund (Despite the rain). Структура разная."
+    },
+    {
+      "id": "tq_15_07",
+      "type": "multipleChoice",
+      "question": "Какое слово является синонимом \"moreover\"?",
+      "options": [
+        "however",
+        "nevertheless",
+        "furthermore",
+        "therefore"
+      ],
+      "correctIndex": 2,
+      "explanation": "Furthermore, как и moreover, означает 'кроме того' и используется для добавления информации."
+    },
+    {
+      "id": "tq_15_08",
+      "type": "multipleChoice",
+      "question": "\"On the other hand\" используется для...",
+      "options": [
+        "добавления информации",
+        "показа альтернативной точки зрения",
+        "выражения причины",
+        "подведения итогов"
+      ],
+      "correctIndex": 1,
+      "explanation": "On the other hand представляет альтернативную, часто противоположную точку зрения."
+    },
+    {
+      "id": "tq_15_09",
+      "type": "trueFalse",
+      "question": "\"Nevertheless\" и \"however\" выражают одно и то же отношение между идеями.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Оба выражают контраст. Nevertheless звучит более формально."
+    },
+    {
+      "id": "tq_15_10",
+      "type": "multipleChoice",
+      "question": "Как правильно: «В результате проект был задержан»?",
+      "options": [
+        "However, the project was delayed.",
+        "Moreover, the project was delayed.",
+        "As a result, the project was delayed.",
+        "Although the project was delayed."
+      ],
+      "correctIndex": 2,
+      "explanation": "As a result показывает следствие: В результате проект был задержан."
+    }
+  ],
+  "tasks": [
+    {
+      "id": "t15_1",
+      "type": "sentenceAssembly",
+      "question": "Однако она решила остаться",
+      "correctAnswer": "However she decided to stay",
+      "options": [],
+      "variants": [
+        [
+          "However",
+          "Moreover",
+          "Therefore",
+          "Nevertheless",
+          "Although"
+        ],
+        [
+          "she",
+          "he",
+          "they",
+          "we",
+          "her"
+        ],
+        [
+          "decided",
+          "decide",
+          "deciding",
+          "decides"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "stay",
+          "leave",
+          "go",
+          "stayed"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_15_linking_words/000.mp3"
+    },
+    {
+      "id": "t15_2",
+      "type": "sentenceAssembly",
+      "question": "Более того, цена была слишком высокой",
+      "correctAnswer": "Moreover the price was too high",
+      "options": [],
+      "variants": [
+        [
+          "Moreover",
+          "However",
+          "Therefore",
+          "Nevertheless",
+          "Although"
+        ],
+        [
+          "the",
+          "a",
+          "this",
+          "that"
+        ],
+        [
+          "price",
+          "cost",
+          "rate",
+          "bill"
+        ],
+        [
+          "was",
+          "is",
+          "were",
+          "has been"
+        ],
+        [
+          "too",
+          "so",
+          "very",
+          "quite",
+          "enough"
+        ],
+        [
+          "high",
+          "low",
+          "big",
+          "expensive"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_15_linking_words/001.mp3"
+    },
+    {
+      "id": "t15_3",
+      "type": "sentenceAssembly",
+      "question": "Тем не менее они продолжили работать",
+      "correctAnswer": "Nevertheless they continued working",
+      "options": [],
+      "variants": [
+        [
+          "Nevertheless",
+          "However",
+          "Moreover",
+          "Therefore",
+          "Although"
+        ],
+        [
+          "they",
+          "he",
+          "she",
+          "we",
+          "them"
+        ],
+        [
+          "continued",
+          "continue",
+          "continuing",
+          "continues"
+        ],
+        [
+          "working",
+          "work",
+          "worked",
+          "to work"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_15_linking_words/002.mp3"
+    },
+    {
+      "id": "t15_4",
+      "type": "sentenceAssembly",
+      "question": "Поэтому нам нужно изменить план",
+      "correctAnswer": "Therefore we need to change the plan",
+      "options": [],
+      "variants": [
+        [
+          "Therefore",
+          "However",
+          "Moreover",
+          "Nevertheless",
+          "Although"
+        ],
+        [
+          "we",
+          "they",
+          "he",
+          "she",
+          "us"
+        ],
+        [
+          "need",
+          "needs",
+          "needed",
+          "needing"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "change",
+          "changed",
+          "changing",
+          "changes"
+        ],
+        [
+          "the",
+          "a",
+          "our",
+          "this"
+        ],
+        [
+          "plan",
+          "idea",
+          "strategy",
+          "approach"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_15_linking_words/003.mp3"
+    },
+    {
+      "id": "t15_5",
+      "type": "sentenceAssembly",
+      "question": "Хотя было поздно, она продолжала работать",
+      "correctAnswer": "Although it was late she kept working",
+      "options": [],
+      "variants": [
+        [
+          "Although",
+          "However",
+          "Moreover",
+          "Despite",
+          "Because"
+        ],
+        [
+          "it",
+          "he",
+          "she",
+          "this"
+        ],
+        [
+          "was",
+          "is",
+          "were",
+          "has been"
+        ],
+        [
+          "late",
+          "early",
+          "dark",
+          "lately"
+        ],
+        [
+          "she",
+          "he",
+          "they",
+          "her"
+        ],
+        [
+          "kept",
+          "keep",
+          "keeping",
+          "keeps"
+        ],
+        [
+          "working",
+          "work",
+          "worked",
+          "to work"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_15_linking_words/004.mp3"
+    },
+    {
+      "id": "t15_6",
+      "type": "sentenceAssembly",
+      "question": "Несмотря на дождь, они вышли на улицу",
+      "correctAnswer": "Despite the rain they went outside",
+      "options": [],
+      "variants": [
+        [
+          "Despite",
+          "Although",
+          "However",
+          "Because",
+          "Moreover"
+        ],
+        [
+          "the",
+          "a",
+          "this",
+          "that"
+        ],
+        [
+          "rain",
+          "weather",
+          "storm",
+          "snow"
+        ],
+        [
+          "they",
+          "he",
+          "she",
+          "we",
+          "them"
+        ],
+        [
+          "went",
+          "go",
+          "going",
+          "goes"
+        ],
+        [
+          "outside",
+          "out",
+          "away",
+          "home"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_15_linking_words/005.mp3"
+    },
+    {
+      "id": "t15_7",
+      "type": "sentenceAssembly",
+      "question": "Кроме того, нам нужно больше времени",
+      "correctAnswer": "In addition we need more time",
+      "options": [],
+      "variants": [
+        [
+          "In",
+          "On",
+          "At",
+          "By"
+        ],
+        [
+          "addition",
+          "contrast",
+          "conclusion",
+          "general"
+        ],
+        [
+          "we",
+          "they",
+          "he",
+          "she",
+          "us"
+        ],
+        [
+          "need",
+          "needs",
+          "needed",
+          "needing"
+        ],
+        [
+          "more",
+          "much",
+          "many",
+          "most"
+        ],
+        [
+          "time",
+          "money",
+          "help",
+          "work"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_15_linking_words/006.mp3"
+    },
+    {
+      "id": "t15_8",
+      "type": "sentenceAssembly",
+      "question": "С другой стороны, это может быть рискованным",
+      "correctAnswer": "On the other hand it might be risky",
+      "options": [],
+      "variants": [
+        [
+          "On",
+          "In",
+          "At",
+          "By"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "other",
+          "another",
+          "next",
+          "one"
+        ],
+        [
+          "hand",
+          "side",
+          "way",
+          "part"
+        ],
+        [
+          "it",
+          "he",
+          "she",
+          "this"
+        ],
+        [
+          "might",
+          "may",
+          "must",
+          "can",
+          "will"
+        ],
+        [
+          "be",
+          "been",
+          "being",
+          "was"
+        ],
+        [
+          "risky",
+          "risk",
+          "riskier",
+          "riskily"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_15_linking_words/007.mp3"
+    },
+    {
+      "id": "t15_9",
+      "type": "sentenceAssembly",
+      "question": "В результате продажи выросли",
+      "correctAnswer": "As a result sales increased",
+      "options": [],
+      "variants": [
+        [
+          "As",
+          "In",
+          "On",
+          "At"
+        ],
+        [
+          "a",
+          "the",
+          "an",
+          "this"
+        ],
+        [
+          "result",
+          "conclusion",
+          "addition",
+          "contrast"
+        ],
+        [
+          "sales",
+          "prices",
+          "profits",
+          "costs"
+        ],
+        [
+          "increased",
+          "increase",
+          "increasing",
+          "increases"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_15_linking_words/008.mp3"
+    },
+    {
+      "id": "t15_10",
+      "type": "sentenceAssembly",
+      "question": "Кроме того, результаты были впечатляющими",
+      "correctAnswer": "Furthermore the results were impressive",
+      "options": [],
+      "variants": [
+        [
+          "Furthermore",
+          "However",
+          "Therefore",
+          "Nevertheless",
+          "Although"
+        ],
+        [
+          "the",
+          "a",
+          "our",
+          "these"
+        ],
+        [
+          "results",
+          "outcomes",
+          "findings",
+          "numbers"
+        ],
+        [
+          "were",
+          "was",
+          "are",
+          "is"
+        ],
+        [
+          "impressive",
+          "impressed",
+          "impressively",
+          "impression"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_15_linking_words/009.mp3"
+    },
+    {
+      "id": "t15_11",
+      "type": "sentenceAssembly",
+      "question": "Он предпочитает чай, тогда как она любит кофе",
+      "correctAnswer": "He prefers tea whereas she likes coffee",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "I",
+          "They",
+          "Him"
+        ],
+        [
+          "prefers",
+          "prefer",
+          "preferred",
+          "preferring"
+        ],
+        [
+          "tea",
+          "coffee",
+          "juice",
+          "water"
+        ],
+        [
+          "whereas",
+          "however",
+          "moreover",
+          "therefore",
+          "although"
+        ],
+        [
+          "she",
+          "he",
+          "they",
+          "her"
+        ],
+        [
+          "likes",
+          "like",
+          "liked",
+          "liking"
+        ],
+        [
+          "coffee",
+          "tea",
+          "juice",
+          "milk"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_15_linking_words/010.mp3"
+    },
+    {
+      "id": "t15_12",
+      "type": "sentenceAssembly",
+      "question": "Тем временем ситуация ухудшалась",
+      "correctAnswer": "Meanwhile the situation was getting worse",
+      "options": [],
+      "variants": [
+        [
+          "Meanwhile",
+          "However",
+          "Moreover",
+          "Therefore",
+          "Although"
+        ],
+        [
+          "the",
+          "a",
+          "this",
+          "our"
+        ],
+        [
+          "situation",
+          "problem",
+          "condition",
+          "issue"
+        ],
+        [
+          "was",
+          "is",
+          "were",
+          "has been"
+        ],
+        [
+          "getting",
+          "get",
+          "got",
+          "gets"
+        ],
+        [
+          "worse",
+          "better",
+          "bad",
+          "worst"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_15_linking_words/011.mp3"
+    },
+    {
+      "id": "t15_13",
+      "type": "sentenceAssembly",
+      "question": "Следовательно, проект был задержан",
+      "correctAnswer": "Consequently the project was delayed",
+      "options": [],
+      "variants": [
+        [
+          "Consequently",
+          "However",
+          "Moreover",
+          "Nevertheless",
+          "Although"
+        ],
+        [
+          "the",
+          "a",
+          "our",
+          "this"
+        ],
+        [
+          "project",
+          "plan",
+          "work",
+          "event"
+        ],
+        [
+          "was",
+          "is",
+          "were",
+          "has been"
+        ],
+        [
+          "delayed",
+          "delay",
+          "delaying",
+          "delays"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_15_linking_words/012.mp3"
+    },
+    {
+      "id": "t15_14",
+      "type": "sentenceAssembly",
+      "question": "Напротив, второй вариант дешевле",
+      "correctAnswer": "In contrast the second option is cheaper",
+      "options": [],
+      "variants": [
+        [
+          "In",
+          "On",
+          "At",
+          "By"
+        ],
+        [
+          "contrast",
+          "addition",
+          "conclusion",
+          "general"
+        ],
+        [
+          "the",
+          "a",
+          "this",
+          "that"
+        ],
+        [
+          "second",
+          "first",
+          "third",
+          "next"
+        ],
+        [
+          "option",
+          "choice",
+          "plan",
+          "idea"
+        ],
+        [
+          "is",
+          "was",
+          "are",
+          "were"
+        ],
+        [
+          "cheaper",
+          "cheap",
+          "cheaply",
+          "cheapest"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_15_linking_words/013.mp3"
+    },
+    {
+      "id": "t15_15",
+      "type": "sentenceAssembly",
+      "question": "Из-за погоды мероприятие было отменено",
+      "correctAnswer": "Due to the weather the event was cancelled",
+      "options": [],
+      "variants": [
+        [
+          "Due",
+          "Thanks",
+          "Because",
+          "Despite"
+        ],
+        [
+          "to",
+          "of",
+          "for",
+          "by"
+        ],
+        [
+          "the",
+          "a",
+          "this",
+          "bad"
+        ],
+        [
+          "weather",
+          "rain",
+          "storm",
+          "conditions"
+        ],
+        [
+          "the",
+          "a",
+          "our",
+          "this"
+        ],
+        [
+          "event",
+          "meeting",
+          "party",
+          "concert"
+        ],
+        [
+          "was",
+          "is",
+          "were",
+          "has been"
+        ],
+        [
+          "cancelled",
+          "cancel",
+          "cancelling",
+          "cancels"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_15_linking_words/014.mp3"
+    },
+    {
+      "id": "t15_16",
+      "type": "sentenceAssembly",
+      "question": "В целом, опыт был положительным",
+      "correctAnswer": "Overall the experience was positive",
+      "options": [],
+      "variants": [
+        [
+          "Overall",
+          "However",
+          "Moreover",
+          "Therefore",
+          "Although"
+        ],
+        [
+          "the",
+          "a",
+          "our",
+          "this"
+        ],
+        [
+          "experience",
+          "experiment",
+          "event",
+          "trip"
+        ],
+        [
+          "was",
+          "is",
+          "were",
+          "has been"
+        ],
+        [
+          "positive",
+          "negative",
+          "positively",
+          "neutral"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_15_linking_words/015.mp3"
+    },
+    {
+      "id": "t15_17",
+      "type": "sentenceAssembly",
+      "question": "Аналогично, второй эксперимент показал те же результаты",
+      "correctAnswer": "Similarly the second experiment showed the same results",
+      "options": [],
+      "variants": [
+        [
+          "Similarly",
+          "However",
+          "Moreover",
+          "Therefore",
+          "Consequently"
+        ],
+        [
+          "the",
+          "a",
+          "our",
+          "this"
+        ],
+        [
+          "second",
+          "first",
+          "third",
+          "last"
+        ],
+        [
+          "experiment",
+          "test",
+          "study",
+          "trial"
+        ],
+        [
+          "showed",
+          "show",
+          "showing",
+          "shown"
+        ],
+        [
+          "the",
+          "a",
+          "our",
+          "these"
+        ],
+        [
+          "same",
+          "similar",
+          "different",
+          "better"
+        ],
+        [
+          "results",
+          "outcomes",
+          "findings",
+          "data"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_15_linking_words/016.mp3"
+    },
+    {
+      "id": "t15_18",
+      "type": "sentenceAssembly",
+      "question": "В заключение, проект был успешным",
+      "correctAnswer": "In conclusion the project was successful",
+      "options": [],
+      "variants": [
+        [
+          "In",
+          "On",
+          "At",
+          "By"
+        ],
+        [
+          "conclusion",
+          "contrast",
+          "addition",
+          "general"
+        ],
+        [
+          "the",
+          "a",
+          "our",
+          "this"
+        ],
+        [
+          "project",
+          "plan",
+          "work",
+          "event"
+        ],
+        [
+          "was",
+          "is",
+          "were",
+          "has been"
+        ],
+        [
+          "successful",
+          "success",
+          "successfully",
+          "succeed"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_15_linking_words/017.mp3"
+    },
+    {
+      "id": "t15_19",
+      "type": "sentenceAssembly",
+      "question": "Однако план был слишком дорогим",
+      "correctAnswer": "However the plan was too expensive",
+      "options": [],
+      "variants": [
+        [
+          "However",
+          "Moreover",
+          "Therefore",
+          "Nevertheless",
+          "Although"
+        ],
+        [
+          "the",
+          "a",
+          "our",
+          "this"
+        ],
+        [
+          "plan",
+          "project",
+          "idea",
+          "strategy"
+        ],
+        [
+          "was",
+          "is",
+          "were",
+          "has been"
+        ],
+        [
+          "too",
+          "so",
+          "very",
+          "quite",
+          "enough"
+        ],
+        [
+          "expensive",
+          "cheap",
+          "expensively",
+          "costly"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_15_linking_words/018.mp3"
+    },
+    {
+      "id": "t15_20",
+      "type": "sentenceAssembly",
+      "question": "Хотя он усердно учился, он не сдал экзамен",
+      "correctAnswer": "Although he studied hard he didn't pass the exam",
+      "options": [],
+      "variants": [
+        [
+          "Although",
+          "However",
+          "Despite",
+          "Because",
+          "Moreover"
+        ],
+        [
+          "he",
+          "she",
+          "they",
+          "him"
+        ],
+        [
+          "studied",
+          "study",
+          "studying",
+          "studies"
+        ],
+        [
+          "hard",
+          "hardly",
+          "harder",
+          "hardest"
+        ],
+        [
+          "he",
+          "she",
+          "they",
+          "him"
+        ],
+        [
+          "didn't",
+          "doesn't",
+          "don't",
+          "won't"
+        ],
+        [
+          "pass",
+          "passed",
+          "passing",
+          "passes"
+        ],
+        [
+          "the",
+          "a",
+          "his",
+          "an"
+        ],
+        [
+          "exam",
+          "test",
+          "quiz",
+          "interview"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_15_linking_words/019.mp3"
+    },
+    {
+      "id": "t15_21",
+      "type": "sentenceAssembly",
+      "question": "Поэтому мы решили подождать",
+      "correctAnswer": "Therefore we decided to wait",
+      "options": [],
+      "variants": [
+        [
+          "Therefore",
+          "However",
+          "Moreover",
+          "Nevertheless",
+          "Although"
+        ],
+        [
+          "we",
+          "they",
+          "he",
+          "she",
+          "us"
+        ],
+        [
+          "decided",
+          "decide",
+          "deciding",
+          "decides"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "wait",
+          "leave",
+          "go",
+          "waited"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_15_linking_words/020.mp3"
+    },
+    {
+      "id": "t15_22",
+      "type": "sentenceAssembly",
+      "question": "Тем не менее результаты были обнадёживающими",
+      "correctAnswer": "Nevertheless the results were encouraging",
+      "options": [],
+      "variants": [
+        [
+          "Nevertheless",
+          "However",
+          "Moreover",
+          "Therefore",
+          "Although"
+        ],
+        [
+          "the",
+          "a",
+          "our",
+          "these"
+        ],
+        [
+          "results",
+          "outcomes",
+          "findings",
+          "data"
+        ],
+        [
+          "were",
+          "was",
+          "are",
+          "is"
+        ],
+        [
+          "encouraging",
+          "encouraged",
+          "encouragingly",
+          "discouraged"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_15_linking_words/021.mp3"
+    },
+    {
+      "id": "t15_23",
+      "type": "sentenceAssembly",
+      "question": "Несмотря на трудности, они достигли цели",
+      "correctAnswer": "Despite the difficulties they achieved their goal",
+      "options": [],
+      "variants": [
+        [
+          "Despite",
+          "Although",
+          "However",
+          "Because",
+          "Moreover"
+        ],
+        [
+          "the",
+          "all",
+          "many",
+          "some"
+        ],
+        [
+          "difficulties",
+          "problems",
+          "challenges",
+          "obstacles"
+        ],
+        [
+          "they",
+          "he",
+          "she",
+          "we",
+          "them"
+        ],
+        [
+          "achieved",
+          "achieve",
+          "achieving",
+          "achieves"
+        ],
+        [
+          "their",
+          "the",
+          "his",
+          "our",
+          "them"
+        ],
+        [
+          "goal",
+          "target",
+          "dream",
+          "plan"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_15_linking_words/022.mp3"
+    },
+    {
+      "id": "t15_24",
+      "type": "sentenceAssembly",
+      "question": "Более того, компания предлагает хорошие условия",
+      "correctAnswer": "Moreover the company offers good conditions",
+      "options": [],
+      "variants": [
+        [
+          "Moreover",
+          "However",
+          "Therefore",
+          "Nevertheless",
+          "Although"
+        ],
+        [
+          "the",
+          "a",
+          "this",
+          "our"
+        ],
+        [
+          "company",
+          "firm",
+          "organization",
+          "business"
+        ],
+        [
+          "offers",
+          "offer",
+          "offered",
+          "offering"
+        ],
+        [
+          "good",
+          "well",
+          "great",
+          "nice"
+        ],
+        [
+          "conditions",
+          "terms",
+          "salary",
+          "benefits"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_15_linking_words/023.mp3"
+    },
+    {
+      "id": "t15_25",
+      "type": "sentenceAssembly",
+      "question": "В результате многие люди потеряли работу",
+      "correctAnswer": "As a result many people lost their jobs",
+      "options": [],
+      "variants": [
+        [
+          "As",
+          "In",
+          "On",
+          "At"
+        ],
+        [
+          "a",
+          "the",
+          "an",
+          "this"
+        ],
+        [
+          "result",
+          "conclusion",
+          "contrast",
+          "addition"
+        ],
+        [
+          "many",
+          "some",
+          "few",
+          "several"
+        ],
+        [
+          "people",
+          "workers",
+          "employees",
+          "persons"
+        ],
+        [
+          "lost",
+          "lose",
+          "losing",
+          "loses"
+        ],
+        [
+          "their",
+          "the",
+          "his",
+          "our",
+          "them"
+        ],
+        [
+          "jobs",
+          "work",
+          "positions",
+          "careers"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_15_linking_words/024.mp3"
+    },
+    {
+      "id": "t15_26",
+      "type": "sentenceAssembly",
+      "question": "С другой стороны, этот метод более эффективен",
+      "correctAnswer": "On the other hand this method is more effective",
+      "options": [],
+      "variants": [
+        [
+          "On",
+          "In",
+          "At",
+          "By"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "other",
+          "another",
+          "next",
+          "one"
+        ],
+        [
+          "hand",
+          "side",
+          "way",
+          "part"
+        ],
+        [
+          "this",
+          "the",
+          "that",
+          "a"
+        ],
+        [
+          "method",
+          "approach",
+          "way",
+          "technique"
+        ],
+        [
+          "is",
+          "was",
+          "are",
+          "were"
+        ],
+        [
+          "more",
+          "most",
+          "much",
+          "very"
+        ],
+        [
+          "effective",
+          "effectively",
+          "efficient",
+          "effect"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_15_linking_words/025.mp3"
+    },
+    {
+      "id": "t15_27",
+      "type": "sentenceAssembly",
+      "question": "Кроме того, мы получили положительные отзывы",
+      "correctAnswer": "Furthermore we received positive feedback",
+      "options": [],
+      "variants": [
+        [
+          "Furthermore",
+          "However",
+          "Therefore",
+          "Nevertheless",
+          "Although"
+        ],
+        [
+          "we",
+          "they",
+          "he",
+          "she",
+          "us"
+        ],
+        [
+          "received",
+          "receive",
+          "receiving",
+          "receives"
+        ],
+        [
+          "positive",
+          "negative",
+          "positively",
+          "good"
+        ],
+        [
+          "feedback",
+          "reviews",
+          "comments",
+          "response"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_15_linking_words/026.mp3"
+    },
+    {
+      "id": "t15_28",
+      "type": "sentenceAssembly",
+      "question": "Тем временем команда работала над решением",
+      "correctAnswer": "Meanwhile the team was working on a solution",
+      "options": [],
+      "variants": [
+        [
+          "Meanwhile",
+          "However",
+          "Moreover",
+          "Therefore",
+          "Although"
+        ],
+        [
+          "the",
+          "a",
+          "our",
+          "his"
+        ],
+        [
+          "team",
+          "group",
+          "staff",
+          "crew"
+        ],
+        [
+          "was",
+          "is",
+          "were",
+          "has been"
+        ],
+        [
+          "working",
+          "worked",
+          "work",
+          "works"
+        ],
+        [
+          "on",
+          "at",
+          "for",
+          "in"
+        ],
+        [
+          "a",
+          "the",
+          "an",
+          "this"
+        ],
+        [
+          "solution",
+          "problem",
+          "answer",
+          "plan"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_15_linking_words/027.mp3"
+    },
+    {
+      "id": "t15_29",
+      "type": "sentenceAssembly",
+      "question": "Он богат, тогда как его брат беден",
+      "correctAnswer": "He is rich whereas his brother is poor",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "I",
+          "They",
+          "Him"
+        ],
+        [
+          "is",
+          "was",
+          "are",
+          "were"
+        ],
+        [
+          "rich",
+          "richly",
+          "richer",
+          "richest"
+        ],
+        [
+          "whereas",
+          "however",
+          "moreover",
+          "therefore",
+          "although"
+        ],
+        [
+          "his",
+          "her",
+          "my",
+          "their",
+          "him"
+        ],
+        [
+          "brother",
+          "sister",
+          "friend",
+          "colleague"
+        ],
+        [
+          "is",
+          "was",
+          "are",
+          "were"
+        ],
+        [
+          "poor",
+          "poorly",
+          "poorer",
+          "poorest"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_15_linking_words/028.mp3"
+    },
+    {
+      "id": "t15_30",
+      "type": "sentenceAssembly",
+      "question": "Следовательно, нам нужна новая стратегия",
+      "correctAnswer": "Consequently we need a new strategy",
+      "options": [],
+      "variants": [
+        [
+          "Consequently",
+          "However",
+          "Moreover",
+          "Nevertheless",
+          "Although"
+        ],
+        [
+          "we",
+          "they",
+          "he",
+          "she",
+          "us"
+        ],
+        [
+          "need",
+          "needs",
+          "needed",
+          "needing"
+        ],
+        [
+          "a",
+          "the",
+          "an",
+          "our"
+        ],
+        [
+          "new",
+          "old",
+          "different",
+          "better"
+        ],
+        [
+          "strategy",
+          "plan",
+          "approach",
+          "method"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_15_linking_words/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionUpperIntermediate15LinkingWords"
+}

@@ -1,0 +1,1372 @@
+{
+  "id": "pre_22_like_love_hate_ing",
+  "title": "Like / Love / Hate + -ing",
+  "description": "Выражение предпочтений: I like swimming, she loves reading, he hates cooking. Глагол + герундий.",
+  "order": 15,
+  "level": "pre_intermediate",
+  "imageUrl": "assets/images/lessons/like_love_hate_ing.png",
+  "vocabulary": [
+    {
+      "id": "v15_like",
+      "english": "like",
+      "russian": "любить, нравиться",
+      "partOfSpeech": "verb",
+      "example": "I like swimming.",
+      "exampleTranslation": "Мне нравится плавать.",
+      "audioPath": "assets/audio/vocabulary/v15_like.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_like.mp3"
+    },
+    {
+      "id": "v15_love",
+      "english": "love",
+      "russian": "обожать, любить",
+      "partOfSpeech": "verb",
+      "example": "She loves reading.",
+      "exampleTranslation": "Она обожает читать.",
+      "audioPath": "assets/audio/vocabulary/v15_love.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_love.mp3"
+    },
+    {
+      "id": "v15_hate",
+      "english": "hate",
+      "russian": "ненавидеть",
+      "partOfSpeech": "verb",
+      "example": "He hates cooking.",
+      "exampleTranslation": "Он ненавидит готовить.",
+      "audioPath": "assets/audio/vocabulary/v15_hate.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_hate.mp3"
+    },
+    {
+      "id": "v15_enjoy",
+      "english": "enjoy",
+      "russian": "наслаждаться, получать удовольствие",
+      "partOfSpeech": "verb",
+      "example": "I enjoy walking.",
+      "exampleTranslation": "Я получаю удовольствие от прогулок.",
+      "audioPath": "assets/audio/vocabulary/v15_enjoy.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_enjoy.mp3"
+    },
+    {
+      "id": "v15_mind",
+      "english": "don't mind",
+      "russian": "не возражать",
+      "partOfSpeech": "phrase",
+      "example": "I don't mind waiting.",
+      "exampleTranslation": "Я не возражаю подождать.",
+      "audioPath": "assets/audio/vocabulary/v15_mind.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_mind.mp3"
+    },
+    {
+      "id": "v15_swimming",
+      "english": "swimming",
+      "russian": "плавание",
+      "partOfSpeech": "noun",
+      "example": "I like swimming.",
+      "exampleTranslation": "Мне нравится плавать.",
+      "audioPath": "assets/audio/vocabulary/v15_swimming.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_swimming.mp3"
+    },
+    {
+      "id": "v15_reading",
+      "english": "reading",
+      "russian": "чтение",
+      "partOfSpeech": "noun",
+      "example": "She loves reading.",
+      "exampleTranslation": "Она обожает читать.",
+      "audioPath": "assets/audio/vocabulary/v15_reading.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_reading.mp3"
+    },
+    {
+      "id": "v15_cooking",
+      "english": "cooking",
+      "russian": "готовка",
+      "partOfSpeech": "noun",
+      "example": "He hates cooking.",
+      "exampleTranslation": "Он ненавидит готовить.",
+      "audioPath": "assets/audio/vocabulary/v15_cooking.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_cooking.mp3"
+    },
+    {
+      "id": "v15_running",
+      "english": "running",
+      "russian": "бег",
+      "partOfSpeech": "noun",
+      "example": "I like running.",
+      "exampleTranslation": "Мне нравится бегать.",
+      "audioPath": "assets/audio/vocabulary/v15_running.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_running.mp3"
+    },
+    {
+      "id": "v15_dancing",
+      "english": "dancing",
+      "russian": "танцы",
+      "partOfSpeech": "noun",
+      "example": "She loves dancing.",
+      "exampleTranslation": "Она обожает танцевать.",
+      "audioPath": "assets/audio/vocabulary/v15_dancing.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_dancing.mp3"
+    },
+    {
+      "id": "v15_singing",
+      "english": "singing",
+      "russian": "пение",
+      "partOfSpeech": "noun",
+      "example": "He enjoys singing.",
+      "exampleTranslation": "Он любит петь.",
+      "audioPath": "assets/audio/vocabulary/v15_singing.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_singing.mp3"
+    },
+    {
+      "id": "v15_walking",
+      "english": "walking",
+      "russian": "прогулки, ходьба",
+      "partOfSpeech": "noun",
+      "example": "We enjoy walking.",
+      "exampleTranslation": "Мы любим гулять.",
+      "audioPath": "assets/audio/vocabulary/v15_walking.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_walking.mp3"
+    },
+    {
+      "id": "v15_working",
+      "english": "working",
+      "russian": "работа (процесс)",
+      "partOfSpeech": "noun",
+      "example": "I don't like working late.",
+      "exampleTranslation": "Мне не нравится работать допоздна.",
+      "audioPath": "assets/audio/vocabulary/v15_working.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_working.mp3"
+    },
+    {
+      "id": "v15_traveling",
+      "english": "traveling",
+      "russian": "путешествие (процесс)",
+      "partOfSpeech": "noun",
+      "example": "We love traveling.",
+      "exampleTranslation": "Мы обожаем путешествовать.",
+      "audioPath": "assets/audio/vocabulary/v15_traveling.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_traveling.mp3"
+    },
+    {
+      "id": "v15_shopping",
+      "english": "shopping",
+      "russian": "шопинг, покупки",
+      "partOfSpeech": "noun",
+      "example": "She likes shopping.",
+      "exampleTranslation": "Ей нравится шопинг.",
+      "audioPath": "assets/audio/vocabulary/v15_shopping.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_shopping.mp3"
+    },
+    {
+      "id": "v15_cleaning",
+      "english": "cleaning",
+      "russian": "уборка",
+      "partOfSpeech": "noun",
+      "example": "I hate cleaning.",
+      "exampleTranslation": "Я ненавижу уборку.",
+      "audioPath": "assets/audio/vocabulary/v15_cleaning.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_cleaning.mp3"
+    },
+    {
+      "id": "v15_playing",
+      "english": "playing",
+      "russian": "игра (процесс)",
+      "partOfSpeech": "noun",
+      "example": "He likes playing football.",
+      "exampleTranslation": "Ему нравится играть в футбол.",
+      "audioPath": "assets/audio/vocabulary/v15_playing.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_playing.mp3"
+    },
+    {
+      "id": "v15_studying",
+      "english": "studying",
+      "russian": "учёба (процесс)",
+      "partOfSpeech": "noun",
+      "example": "She enjoys studying.",
+      "exampleTranslation": "Ей нравится учиться.",
+      "audioPath": "assets/audio/vocabulary/v15_studying.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_studying.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "Like / Love / Hate + -ing",
+    "subtitle": "Как сказать, что вам нравится или не нравится делать. После like, love, hate, enjoy ставим глагол с -ing.",
+    "construction": {
+      "formula": "S + like/love/hate/enjoy + V-ing",
+      "rules": [
+        {
+          "word": "like + -ing",
+          "description": "Нравится: I like swimming. She likes reading."
+        },
+        {
+          "word": "love + -ing",
+          "description": "Обожаю: I love dancing. He loves cooking."
+        },
+        {
+          "word": "hate + -ing",
+          "description": "Ненавижу: I hate cleaning. She hates waiting."
+        },
+        {
+          "word": "enjoy + -ing",
+          "description": "Получаю удовольствие: I enjoy walking. We enjoy traveling."
+        },
+        {
+          "word": "don't mind + -ing",
+          "description": "Не возражаю: I don't mind waiting. He doesn't mind helping."
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "favorite",
+        "color": "green",
+        "title": "Что нравится",
+        "description": "Like и love + -ing для приятных занятий.",
+        "example": {
+          "english": "I love traveling.",
+          "russian": "Я обожаю путешествовать."
+        }
+      },
+      {
+        "icon": "bolt",
+        "color": "orange",
+        "title": "Что не нравится",
+        "description": "Hate + -ing для неприятных занятий.",
+        "example": {
+          "english": "I hate cleaning.",
+          "russian": "Я ненавижу уборку."
+        }
+      },
+      {
+        "icon": "check_circle",
+        "color": "blue",
+        "title": "Нейтральное отношение",
+        "description": "Don't mind + -ing — когда не против.",
+        "example": {
+          "english": "I don't mind waiting.",
+          "russian": "Я не против подождать."
+        }
+      }
+    ],
+    "markers": [
+      "like",
+      "love",
+      "hate",
+      "enjoy",
+      "don't mind"
+    ]
+  },
+  "tasks": [
+    {
+      "id": "t15_1",
+      "type": "sentenceAssembly",
+      "question": "Мне нравится плавать",
+      "correctAnswer": "I like swimming",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "We",
+          "Me"
+        ],
+        [
+          "like",
+          "likes",
+          "liked",
+          "liking"
+        ],
+        [
+          "swimming",
+          "swim",
+          "swims",
+          "swam"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_22_like_love_hate_ing/000.mp3"
+    },
+    {
+      "id": "t15_2",
+      "type": "sentenceAssembly",
+      "question": "Она обожает читать",
+      "correctAnswer": "She loves reading",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "They",
+          "Her"
+        ],
+        [
+          "loves",
+          "love",
+          "loved",
+          "loving"
+        ],
+        [
+          "reading",
+          "read",
+          "reads",
+          "wrote"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_22_like_love_hate_ing/001.mp3"
+    },
+    {
+      "id": "t15_3",
+      "type": "sentenceAssembly",
+      "question": "Он ненавидит готовить",
+      "correctAnswer": "He hates cooking",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "They",
+          "Him"
+        ],
+        [
+          "hates",
+          "hate",
+          "hated",
+          "hating"
+        ],
+        [
+          "cooking",
+          "cook",
+          "cooks",
+          "cooked"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_22_like_love_hate_ing/002.mp3"
+    },
+    {
+      "id": "t15_4",
+      "type": "sentenceAssembly",
+      "question": "Мы любим гулять",
+      "correctAnswer": "We enjoy walking",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "I",
+          "Us"
+        ],
+        [
+          "enjoy",
+          "enjoys",
+          "enjoyed",
+          "enjoying"
+        ],
+        [
+          "walking",
+          "walk",
+          "walks",
+          "walked"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_22_like_love_hate_ing/003.mp3"
+    },
+    {
+      "id": "t15_5",
+      "type": "sentenceAssembly",
+      "question": "Мне нравится бегать",
+      "correctAnswer": "I like running",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "We",
+          "Me"
+        ],
+        [
+          "like",
+          "likes",
+          "liked",
+          "liking"
+        ],
+        [
+          "running",
+          "run",
+          "runs",
+          "ran"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_22_like_love_hate_ing/004.mp3"
+    },
+    {
+      "id": "t15_6",
+      "type": "sentenceAssembly",
+      "question": "Она обожает танцевать",
+      "correctAnswer": "She loves dancing",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "They",
+          "Her"
+        ],
+        [
+          "loves",
+          "love",
+          "loved",
+          "loving"
+        ],
+        [
+          "dancing",
+          "dance",
+          "dances",
+          "danced"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_22_like_love_hate_ing/005.mp3"
+    },
+    {
+      "id": "t15_7",
+      "type": "sentenceAssembly",
+      "question": "Он любит петь",
+      "correctAnswer": "He enjoys singing",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "They",
+          "Him"
+        ],
+        [
+          "enjoys",
+          "enjoy",
+          "enjoyed",
+          "enjoying"
+        ],
+        [
+          "singing",
+          "sing",
+          "sings",
+          "sang"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_22_like_love_hate_ing/006.mp3"
+    },
+    {
+      "id": "t15_8",
+      "type": "sentenceAssembly",
+      "question": "Ей нравится шопинг",
+      "correctAnswer": "She likes shopping",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "They",
+          "Her"
+        ],
+        [
+          "likes",
+          "like",
+          "liked",
+          "liking"
+        ],
+        [
+          "shopping",
+          "shop",
+          "shops",
+          "shopped"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_22_like_love_hate_ing/007.mp3"
+    },
+    {
+      "id": "t15_9",
+      "type": "sentenceAssembly",
+      "question": "Мы обожаем путешествовать",
+      "correctAnswer": "We love traveling",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "I",
+          "Us"
+        ],
+        [
+          "love",
+          "loves",
+          "loved",
+          "loving"
+        ],
+        [
+          "traveling",
+          "travel",
+          "travels",
+          "traveled"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_22_like_love_hate_ing/008.mp3"
+    },
+    {
+      "id": "t15_10",
+      "type": "sentenceAssembly",
+      "question": "Я ненавижу уборку",
+      "correctAnswer": "I hate cleaning",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "We",
+          "Me"
+        ],
+        [
+          "hate",
+          "hates",
+          "hated",
+          "hating"
+        ],
+        [
+          "cleaning",
+          "clean",
+          "cleans",
+          "cleaned"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_22_like_love_hate_ing/009.mp3"
+    },
+    {
+      "id": "t15_11",
+      "type": "sentenceAssembly",
+      "question": "Ему нравится играть в футбол",
+      "correctAnswer": "He likes playing football",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "They",
+          "Him"
+        ],
+        [
+          "likes",
+          "like",
+          "liked",
+          "liking"
+        ],
+        [
+          "playing",
+          "play",
+          "plays",
+          "played"
+        ],
+        [
+          "football",
+          "tennis",
+          "basketball",
+          "games"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_22_like_love_hate_ing/010.mp3"
+    },
+    {
+      "id": "t15_12",
+      "type": "sentenceAssembly",
+      "question": "Они обожают готовить еду",
+      "correctAnswer": "They love cooking food",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "We",
+          "He",
+          "Them"
+        ],
+        [
+          "love",
+          "loves",
+          "loved",
+          "loving"
+        ],
+        [
+          "cooking",
+          "cook",
+          "cooks",
+          "cooked"
+        ],
+        [
+          "food",
+          "water",
+          "milk",
+          "bread"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_22_like_love_hate_ing/011.mp3"
+    },
+    {
+      "id": "t15_13",
+      "type": "sentenceAssembly",
+      "question": "Мне нравится читать книги",
+      "correctAnswer": "I like reading books",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "We",
+          "Me"
+        ],
+        [
+          "like",
+          "likes",
+          "liked",
+          "liking"
+        ],
+        [
+          "reading",
+          "read",
+          "reads",
+          "wrote"
+        ],
+        [
+          "books",
+          "films",
+          "music",
+          "food"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_22_like_love_hate_ing/012.mp3"
+    },
+    {
+      "id": "t15_14",
+      "type": "sentenceAssembly",
+      "question": "Она ненавидит работать допоздна",
+      "correctAnswer": "She hates working late",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "They",
+          "Her"
+        ],
+        [
+          "hates",
+          "hate",
+          "hated",
+          "hating"
+        ],
+        [
+          "working",
+          "work",
+          "works",
+          "worked"
+        ],
+        [
+          "late",
+          "early",
+          "hard",
+          "fast"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_22_like_love_hate_ing/013.mp3"
+    },
+    {
+      "id": "t15_15",
+      "type": "sentenceAssembly",
+      "question": "Мы любим бегать утром",
+      "correctAnswer": "We enjoy running in the morning",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "I",
+          "Us"
+        ],
+        [
+          "enjoy",
+          "enjoys",
+          "enjoyed",
+          "enjoying"
+        ],
+        [
+          "running",
+          "run",
+          "runs",
+          "ran"
+        ],
+        [
+          "in",
+          "on",
+          "at",
+          "to"
+        ],
+        [
+          "the",
+          "a",
+          "my",
+          "this"
+        ],
+        [
+          "morning",
+          "evening",
+          "night",
+          "noon"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_22_like_love_hate_ing/014.mp3"
+    },
+    {
+      "id": "t15_16",
+      "type": "sentenceAssembly",
+      "question": "Ей нравится учиться",
+      "correctAnswer": "She enjoys studying",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "They",
+          "Her"
+        ],
+        [
+          "enjoys",
+          "enjoy",
+          "enjoyed",
+          "enjoying"
+        ],
+        [
+          "studying",
+          "study",
+          "studies",
+          "studied"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_22_like_love_hate_ing/015.mp3"
+    },
+    {
+      "id": "t15_17",
+      "type": "sentenceAssembly",
+      "question": "Он обожает плавать",
+      "correctAnswer": "He loves swimming",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "They",
+          "Him"
+        ],
+        [
+          "loves",
+          "love",
+          "loved",
+          "loving"
+        ],
+        [
+          "swimming",
+          "swim",
+          "swims",
+          "swam"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_22_like_love_hate_ing/016.mp3"
+    },
+    {
+      "id": "t15_18",
+      "type": "sentenceAssembly",
+      "question": "Они ненавидят ждать",
+      "correctAnswer": "They hate waiting",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "We",
+          "He",
+          "Them"
+        ],
+        [
+          "hate",
+          "hates",
+          "hated",
+          "hating"
+        ],
+        [
+          "waiting",
+          "wait",
+          "waits",
+          "waited"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_22_like_love_hate_ing/017.mp3"
+    },
+    {
+      "id": "t15_19",
+      "type": "sentenceAssembly",
+      "question": "Мне нравится слушать музыку",
+      "correctAnswer": "I like listening to music",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "We",
+          "Me"
+        ],
+        [
+          "like",
+          "likes",
+          "liked",
+          "liking"
+        ],
+        [
+          "listening",
+          "listen",
+          "listens",
+          "listened"
+        ],
+        [
+          "to",
+          "at",
+          "in",
+          "on"
+        ],
+        [
+          "music",
+          "books",
+          "films",
+          "food"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_22_like_love_hate_ing/018.mp3"
+    },
+    {
+      "id": "t15_20",
+      "type": "sentenceAssembly",
+      "question": "Она любит рисовать",
+      "correctAnswer": "She loves drawing",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "They",
+          "Her"
+        ],
+        [
+          "loves",
+          "love",
+          "loved",
+          "loving"
+        ],
+        [
+          "drawing",
+          "draw",
+          "draws",
+          "drew"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_22_like_love_hate_ing/019.mp3"
+    },
+    {
+      "id": "t15_21",
+      "type": "sentenceAssembly",
+      "question": "Я не люблю готовить",
+      "correctAnswer": "I do not like cooking",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "We",
+          "Me"
+        ],
+        [
+          "do",
+          "does",
+          "did",
+          "am"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "none"
+        ],
+        [
+          "like",
+          "likes",
+          "liked",
+          "liking"
+        ],
+        [
+          "cooking",
+          "cook",
+          "cooks",
+          "cooked"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_22_like_love_hate_ing/020.mp3"
+    },
+    {
+      "id": "t15_22",
+      "type": "sentenceAssembly",
+      "question": "Он не любит бегать",
+      "correctAnswer": "He does not like running",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "They",
+          "Him"
+        ],
+        [
+          "does",
+          "do",
+          "did",
+          "is"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "none"
+        ],
+        [
+          "like",
+          "likes",
+          "liked",
+          "liking"
+        ],
+        [
+          "running",
+          "run",
+          "runs",
+          "ran"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_22_like_love_hate_ing/021.mp3"
+    },
+    {
+      "id": "t15_23",
+      "type": "sentenceAssembly",
+      "question": "Они не любят убирать",
+      "correctAnswer": "They do not like cleaning",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "We",
+          "He",
+          "Them"
+        ],
+        [
+          "do",
+          "does",
+          "did",
+          "are"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "none"
+        ],
+        [
+          "like",
+          "likes",
+          "liked",
+          "liking"
+        ],
+        [
+          "cleaning",
+          "clean",
+          "cleans",
+          "cleaned"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_22_like_love_hate_ing/022.mp3"
+    },
+    {
+      "id": "t15_24",
+      "type": "sentenceAssembly",
+      "question": "Я не против подождать",
+      "correctAnswer": "I do not mind waiting",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "We",
+          "Me"
+        ],
+        [
+          "do",
+          "does",
+          "did",
+          "am"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "none"
+        ],
+        [
+          "mind",
+          "like",
+          "want",
+          "need"
+        ],
+        [
+          "waiting",
+          "wait",
+          "waits",
+          "waited"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_22_like_love_hate_ing/023.mp3"
+    },
+    {
+      "id": "t15_25",
+      "type": "sentenceAssembly",
+      "question": "Тебе нравится плавать?",
+      "correctAnswer": "Do you like swimming",
+      "options": [],
+      "variants": [
+        [
+          "Do",
+          "Does",
+          "Did",
+          "Is"
+        ],
+        [
+          "you",
+          "he",
+          "she",
+          "they"
+        ],
+        [
+          "like",
+          "likes",
+          "liked",
+          "liking"
+        ],
+        [
+          "swimming",
+          "swim",
+          "swims",
+          "swam"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_22_like_love_hate_ing/024.mp3"
+    },
+    {
+      "id": "t15_26",
+      "type": "sentenceAssembly",
+      "question": "Она любит танцевать?",
+      "correctAnswer": "Does she love dancing",
+      "options": [],
+      "variants": [
+        [
+          "Does",
+          "Do",
+          "Did",
+          "Is"
+        ],
+        [
+          "she",
+          "he",
+          "they",
+          "you"
+        ],
+        [
+          "love",
+          "loves",
+          "loved",
+          "loving"
+        ],
+        [
+          "dancing",
+          "dance",
+          "dances",
+          "danced"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_22_like_love_hate_ing/025.mp3"
+    },
+    {
+      "id": "t15_27",
+      "type": "sentenceAssembly",
+      "question": "Они любят путешествовать?",
+      "correctAnswer": "Do they enjoy traveling",
+      "options": [],
+      "variants": [
+        [
+          "Do",
+          "Does",
+          "Did",
+          "Is"
+        ],
+        [
+          "they",
+          "he",
+          "she",
+          "you"
+        ],
+        [
+          "enjoy",
+          "enjoys",
+          "enjoyed",
+          "enjoying"
+        ],
+        [
+          "traveling",
+          "travel",
+          "travels",
+          "traveled"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_22_like_love_hate_ing/026.mp3"
+    },
+    {
+      "id": "t15_28",
+      "type": "sentenceAssembly",
+      "question": "Ему нравится готовить?",
+      "correctAnswer": "Does he like cooking",
+      "options": [],
+      "variants": [
+        [
+          "Does",
+          "Do",
+          "Did",
+          "Is"
+        ],
+        [
+          "he",
+          "she",
+          "they",
+          "you"
+        ],
+        [
+          "like",
+          "likes",
+          "liked",
+          "liking"
+        ],
+        [
+          "cooking",
+          "cook",
+          "cooks",
+          "cooked"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_22_like_love_hate_ing/027.mp3"
+    },
+    {
+      "id": "t15_29",
+      "type": "sentenceAssembly",
+      "question": "Она не против помочь",
+      "correctAnswer": "She does not mind helping",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "They",
+          "Her"
+        ],
+        [
+          "does",
+          "do",
+          "did",
+          "is"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "none"
+        ],
+        [
+          "mind",
+          "like",
+          "want",
+          "need"
+        ],
+        [
+          "helping",
+          "help",
+          "helps",
+          "helped"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_22_like_love_hate_ing/028.mp3"
+    },
+    {
+      "id": "t15_30",
+      "type": "sentenceAssembly",
+      "question": "Ты ненавидишь ждать?",
+      "correctAnswer": "Do you hate waiting",
+      "options": [],
+      "variants": [
+        [
+          "Do",
+          "Does",
+          "Did",
+          "Is"
+        ],
+        [
+          "you",
+          "he",
+          "she",
+          "they"
+        ],
+        [
+          "hate",
+          "hates",
+          "hated",
+          "hating"
+        ],
+        [
+          "waiting",
+          "wait",
+          "waits",
+          "waited"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_22_like_love_hate_ing/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionPreIntermediate15LikeLoveHateIng",
+  "theoryQuiz": [
+    {
+      "id": "tq_15_01",
+      "type": "multipleChoice",
+      "question": "Какую форму глагола ставим после like, love, hate?",
+      "options": [
+        "V1 (base)",
+        "V-ing",
+        "V-ed",
+        "to V"
+      ],
+      "correctIndex": 1,
+      "explanation": "После like, love, hate, enjoy ставим V-ing: I like swimming."
+    },
+    {
+      "id": "tq_15_02",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"She loves ___.\"",
+      "options": [
+        "read",
+        "reads",
+        "reading",
+        "to reads"
+      ],
+      "correctIndex": 2,
+      "explanation": "После loves ставим -ing: She loves reading."
+    },
+    {
+      "id": "tq_15_03",
+      "type": "trueFalse",
+      "question": "\"I like swim\" — правильное предложение.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "После like нужен -ing: I like swimming (не swim)."
+    },
+    {
+      "id": "tq_15_04",
+      "type": "multipleChoice",
+      "question": "Что означает \"enjoy\"?",
+      "options": [
+        "ненавидеть",
+        "хотеть",
+        "получать удовольствие",
+        "нуждаться"
+      ],
+      "correctIndex": 2,
+      "explanation": "Enjoy = получать удовольствие: I enjoy walking."
+    },
+    {
+      "id": "tq_15_05",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"He hates ___.\"",
+      "options": [
+        "cook",
+        "cooks",
+        "cooking",
+        "cooked"
+      ],
+      "correctIndex": 2,
+      "explanation": "После hates ставим -ing: He hates cooking."
+    },
+    {
+      "id": "tq_15_06",
+      "type": "trueFalse",
+      "question": "\"I don't mind waiting\" означает «Я не возражаю подождать».",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Don't mind = не возражать. I don't mind waiting — верно."
+    },
+    {
+      "id": "tq_15_07",
+      "type": "multipleChoice",
+      "question": "Как правильно: «Мне нравится плавать»?",
+      "options": [
+        "I like swim.",
+        "I like swimming.",
+        "I like swims.",
+        "I like to swims."
+      ],
+      "correctIndex": 1,
+      "explanation": "Like + V-ing: I like swimming."
+    },
+    {
+      "id": "tq_15_08",
+      "type": "multipleChoice",
+      "question": "Какой глагол означает «ненавидеть»?",
+      "options": [
+        "like",
+        "love",
+        "enjoy",
+        "hate"
+      ],
+      "correctIndex": 3,
+      "explanation": "Hate = ненавидеть. I hate cleaning."
+    },
+    {
+      "id": "tq_15_09",
+      "type": "trueFalse",
+      "question": "\"She enjoys studying\" — предложение составлено правильно.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Enjoy + V-ing: She enjoys studying. Верно."
+    },
+    {
+      "id": "tq_15_10",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"They love ___.\"",
+      "options": [
+        "travel",
+        "travels",
+        "traveling",
+        "traveled"
+      ],
+      "correctIndex": 2,
+      "explanation": "After love ставим -ing: They love traveling."
+    }
+  ]
+}

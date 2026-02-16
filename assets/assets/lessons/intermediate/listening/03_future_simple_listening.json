@@ -1,0 +1,461 @@
+{
+  "id": "intermediate_listening_03_future_simple",
+  "title": "Future Simple",
+  "description": "Слушайте планы, обещания и спонтанные решения — будет только Future Simple.",
+  "order": 3,
+  "level": "intermediate",
+  "imageUrl": "assets/images/lessons/future_simple.png",
+  "tasks": [
+    {
+      "id": "t3_01",
+      "audioText": "My sister just called me from the airport. Her flight lands in 30 minutes. I will pick her up.",
+      "transcript": "I will pick her up.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "I'm going to meet her at the airport."
+        },
+        {
+          "id": "o2",
+          "text": "I picked her up last week."
+        },
+        {
+          "id": "o3",
+          "text": "She will pick me up."
+        },
+        {
+          "id": "o4",
+          "text": "I'm picking her up right now."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Spontaneous decision right now — classic will. Option 1 is correct.",
+      "mistakeTags": [
+        "airport",
+        "future_simple"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_03_future_simple/t3_01.mp3"
+    },
+    {
+      "id": "t3_02",
+      "audioText": "Don't worry about dinner tonight. I promise everything is ready. I will cook your favourite pasta.",
+      "transcript": "I will cook your favourite pasta.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "I'm making pasta tonight."
+        },
+        {
+          "id": "o2",
+          "text": "I cooked it yesterday."
+        },
+        {
+          "id": "o3",
+          "text": "We will order pizza."
+        },
+        {
+          "id": "o4",
+          "text": "I cook pasta every day."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Promise = 100% will. Option 1 matches perfectly.",
+      "mistakeTags": [
+        "home",
+        "future_simple"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_03_future_simple/t3_02.mp3"
+    },
+    {
+      "id": "t3_03",
+      "audioText": "Look at these dark clouds! It's definitely going to rain soon. We will stay home tonight.",
+      "transcript": "We will stay home tonight.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "We're not going out tonight."
+        },
+        {
+          "id": "o2",
+          "text": "We stayed home last night."
+        },
+        {
+          "id": "o3",
+          "text": "We will go to the party."
+        },
+        {
+          "id": "o4",
+          "text": "We stay home every night."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Prediction based on evidence — will is perfect. Option 1 is right.",
+      "mistakeTags": [
+        "weather",
+        "future_simple"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_03_future_simple/t3_03.mp3"
+    },
+    {
+      "id": "t3_04",
+      "audioText": "Ok, ok, calm down! I completely forgot about your birthday. I will buy you a gift right now.",
+      "transcript": "I will buy you a gift right now.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "I'm getting you a present immediately."
+        },
+        {
+          "id": "o2",
+          "text": "I bought it last week."
+        },
+        {
+          "id": "o3",
+          "text": "You will buy me a gift."
+        },
+        {
+          "id": "o4",
+          "text": "I buy gifts every month."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Spontaneous decision in the moment — pure will.",
+      "mistakeTags": [
+        "shop",
+        "future_simple"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_03_future_simple/t3_04.mp3"
+    },
+    {
+      "id": "t3_05",
+      "audioText": "Tomorrow is Friday. The office closes at 3 p.m. I will finish all my work by lunchtime.",
+      "transcript": "I will finish all my work by lunchtime.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "I'll be done before lunch."
+        },
+        {
+          "id": "o2",
+          "text": "I finished it yesterday."
+        },
+        {
+          "id": "o3",
+          "text": "I will work all day."
+        },
+        {
+          "id": "o4",
+          "text": "I'm finishing it now."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Personal plan/promise for tomorrow — will is natural.",
+      "mistakeTags": [
+        "office",
+        "future_simple"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_03_future_simple/t3_05.mp3"
+    },
+    {
+      "id": "t3_06",
+      "audioText": "Tickets for the concert go on sale at 10 a.m. Don't worry. I will get them for us.",
+      "transcript": "I will get them for us.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "I'll buy the tickets."
+        },
+        {
+          "id": "o2",
+          "text": "I got them last time."
+        },
+        {
+          "id": "o3",
+          "text": "We won't go to the concert."
+        },
+        {
+          "id": "o4",
+          "text": "You will buy them."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Strong promise — will is the best choice.",
+      "mistakeTags": [
+        "concert",
+        "future_simple"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_03_future_simple/t3_06.mp3"
+    },
+    {
+      "id": "t3_07",
+      "audioText": "Your secret is safe with me. Nobody will ever know about it.",
+      "transcript": "Nobody will ever know about it.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "I won't tell anyone."
+        },
+        {
+          "id": "o2",
+          "text": "Everyone already knows."
+        },
+        {
+          "id": "o3",
+          "text": "I told someone yesterday."
+        },
+        {
+          "id": "o4",
+          "text": "I'm telling right now."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Promise of silence — classic will.",
+      "mistakeTags": [
+        "friends",
+        "future_simple"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_03_future_simple/t3_07.mp3"
+    },
+    {
+      "id": "t3_08",
+      "audioText": "The meeting starts in five minutes. Quick! I will send you the file right now.",
+      "transcript": "I will send you the file right now.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "I'm sending it immediately."
+        },
+        {
+          "id": "o2",
+          "text": "I sent it yesterday."
+        },
+        {
+          "id": "o3",
+          "text": "I won't send anything."
+        },
+        {
+          "id": "o4",
+          "text": "You will send it to me."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Instant decision under pressure — will.",
+      "mistakeTags": [
+        "work",
+        "future_simple"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_03_future_simple/t3_08.mp3"
+    },
+    {
+      "id": "t3_09",
+      "audioText": "It's getting really cold outside. Put on your jacket or you will freeze.",
+      "transcript": "You will freeze.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "You'll be very cold."
+        },
+        {
+          "id": "o2",
+          "text": "You froze last time."
+        },
+        {
+          "id": "o3",
+          "text": "You will be hot."
+        },
+        {
+          "id": "o4",
+          "text": "You're freezing now."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Prediction/warning — will is perfect.",
+      "mistakeTags": [
+        "street",
+        "future_simple"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_03_future_simple/t3_09.mp3"
+    },
+    {
+      "id": "t3_10",
+      "audioText": "I failed the exam last month. This time I studied hard. I will pass it.",
+      "transcript": "I will pass it.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "I'm definitely going to pass."
+        },
+        {
+          "id": "o2",
+          "text": "I passed last time."
+        },
+        {
+          "id": "o3",
+          "text": "I will fail again."
+        },
+        {
+          "id": "o4",
+          "text": "I'm taking it right now."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Strong belief after preparation — will.",
+      "mistakeTags": [
+        "school",
+        "future_simple"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_03_future_simple/t3_10.mp3"
+    },
+    {
+      "id": "t3_11",
+      "audioText": "The train arrives at 22:15. Don't worry, I checked. I will meet you at the station.",
+      "transcript": "I will meet you at the station.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "I'll be waiting for you there."
+        },
+        {
+          "id": "o2",
+          "text": "I met you last week."
+        },
+        {
+          "id": "o3",
+          "text": "You will meet me."
+        },
+        {
+          "id": "o4",
+          "text": "I'm meeting you now."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Clear promise — will.",
+      "mistakeTags": [
+        "bus_station",
+        "future_simple"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_03_future_simple/t3_11.mp3"
+    },
+    {
+      "id": "t3_12",
+      "audioText": "Oh no, I forgot my wallet at home! Wait here. I will be back in ten minutes.",
+      "transcript": "I will be back in ten minutes.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "I'll return very soon."
+        },
+        {
+          "id": "o2",
+          "text": "I was back yesterday."
+        },
+        {
+          "id": "o3",
+          "text": "I will stay here forever."
+        },
+        {
+          "id": "o4",
+          "text": "I'm back now."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Spontaneous quick promise — pure will.",
+      "mistakeTags": [
+        "street",
+        "future_simple"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_03_future_simple/t3_12.mp3"
+    },
+    {
+      "id": "t3_13",
+      "audioText": "If you don't stop smoking, you will die early. That's what the doctor said.",
+      "transcript": "You will die early.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Your life will be shorter."
+        },
+        {
+          "id": "o2",
+          "text": "You died early."
+        },
+        {
+          "id": "o3",
+          "text": "You will live longer."
+        },
+        {
+          "id": "o4",
+          "text": "You're dying now."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Doctor's strong prediction — will.",
+      "mistakeTags": [
+        "hospital",
+        "future_simple"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_03_future_simple/t3_13.mp3"
+    },
+    {
+      "id": "t3_14",
+      "audioText": "Relax, everything is under control. Tomorrow morning I will call the client first thing.",
+      "transcript": "I will call the client first thing.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "I'll phone them as soon as I arrive."
+        },
+        {
+          "id": "o2",
+          "text": "I called yesterday."
+        },
+        {
+          "id": "o3",
+          "text": "The client will call me."
+        },
+        {
+          "id": "o4",
+          "text": "I'm calling now."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Promise for tomorrow morning — will.",
+      "mistakeTags": [
+        "work",
+        "future_simple"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_03_future_simple/t3_14.mp3"
+    },
+    {
+      "id": "t3_15",
+      "audioText": "This is your last chance. Give me the money by Friday or I will call the police.",
+      "transcript": "I will call the police.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "I'll report you to the police."
+        },
+        {
+          "id": "o2",
+          "text": "I called the police yesterday."
+        },
+        {
+          "id": "o3",
+          "text": "I won't call anyone."
+        },
+        {
+          "id": "o4",
+          "text": "The police will call me."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Threat = strongest will usage.",
+      "mistakeTags": [
+        "police_station",
+        "future_simple"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_03_future_simple/t3_15.mp3"
+    }
+  ],
+  "short_description": "Future Simple — обещания, решения, предсказания"
+}

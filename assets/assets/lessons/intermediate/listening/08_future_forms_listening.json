@@ -1,0 +1,461 @@
+{
+  "id": "intermediate_listening_08_future_forms",
+  "title": "Future Forms",
+  "description": "Слушайте реальную жизнь: планы, расписания, спонтанные решения, предсказания — все формы будущего.",
+  "order": 8,
+  "level": "intermediate",
+  "imageUrl": "assets/images/lessons/future_forms.png",
+  "tasks": [
+    {
+      "id": "t8_01",
+      "audioText": "Quick! The film starts in five minutes. I’ll drive you to the cinema.",
+      "transcript": "I’ll drive you to the cinema.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Spontaneous offer right now."
+        },
+        {
+          "id": "o2",
+          "text": "I planned it last week."
+        },
+        {
+          "id": "o3",
+          "text": "I’m driving you every day."
+        },
+        {
+          "id": "o4",
+          "text": "I drive you every weekend."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Instant decision — will.",
+      "mistakeTags": [
+        "cinema",
+        "future_forms"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_08_future_forms/t8_01.mp3"
+    },
+    {
+      "id": "t8_02",
+      "audioText": "I’ve already bought tickets. We’re meeting Sarah at 8 outside the theatre.",
+      "transcript": "We’re meeting Sarah at 8 outside the theatre.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Personal arrangement already made."
+        },
+        {
+          "id": "o2",
+          "text": "Spontaneous decision now."
+        },
+        {
+          "id": "o3",
+          "text": "Official timetable."
+        },
+        {
+          "id": "o4",
+          "text": "We met her last week."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Present Continuous for fixed personal plan.",
+      "mistakeTags": [
+        "cinema",
+        "future_forms"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_08_future_forms/t8_02.mp3"
+    },
+    {
+      "id": "t8_03",
+      "audioText": "The train to London leaves at 9:45 tomorrow morning.",
+      "transcript": "The train to London leaves at 9:45 tomorrow morning.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Official timetable/schedule."
+        },
+        {
+          "id": "o2",
+          "text": "Personal plan."
+        },
+        {
+          "id": "o3",
+          "text": "Prediction."
+        },
+        {
+          "id": "o4",
+          "text": "The train left yesterday."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Present Simple for timetabled events.",
+      "mistakeTags": [
+        "bus_station",
+        "future_forms"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_08_future_forms/t8_03.mp3"
+    },
+    {
+      "id": "t8_04",
+      "audioText": "Look at those black clouds. It’s going to rain any second.",
+      "transcript": "It’s going to rain any second.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Prediction based on clear evidence."
+        },
+        {
+          "id": "o2",
+          "text": "Spontaneous decision."
+        },
+        {
+          "id": "o3",
+          "text": "Fixed plan."
+        },
+        {
+          "id": "o4",
+          "text": "It rained yesterday."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Be going to for visible future.",
+      "mistakeTags": [
+        "street",
+        "future_forms"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_08_future_forms/t8_04.mp3"
+    },
+    {
+      "id": "t8_05",
+      "audioText": "I promise I’ll call you as soon as I land.",
+      "transcript": "I’ll call you as soon as I land.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Promise / spontaneous."
+        },
+        {
+          "id": "o2",
+          "text": "Already arranged."
+        },
+        {
+          "id": "o3",
+          "text": "Timetable."
+        },
+        {
+          "id": "o4",
+          "text": "I called you yesterday."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Pure promise — will.",
+      "mistakeTags": [
+        "airport",
+        "future_forms"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_08_future_forms/t8_05.mp3"
+    },
+    {
+      "id": "t8_06",
+      "audioText": "I’m flying to Barcelona next Friday. I booked everything last month.",
+      "transcript": "I’m flying to Barcelona next Friday.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Fixed personal plan."
+        },
+        {
+          "id": "o2",
+          "text": "I’ll fly — decision now."
+        },
+        {
+          "id": "o3",
+          "text": "The plane departs at..."
+        },
+        {
+          "id": "o4",
+          "text": "I flew last year."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Present Continuous — intention + booking.",
+      "mistakeTags": [
+        "airport",
+        "future_forms"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_08_future_forms/t8_06.mp3"
+    },
+    {
+      "id": "t8_07",
+      "audioText": "Don’t worry about food. Anna is cooking dinner tonight.",
+      "transcript": "Anna is cooking dinner tonight.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Already arranged plan."
+        },
+        {
+          "id": "o2",
+          "text": "She’ll cook — spontaneous."
+        },
+        {
+          "id": "o3",
+          "text": "Prediction."
+        },
+        {
+          "id": "o4",
+          "text": "She cooked yesterday."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Present Continuous for arrangements.",
+      "mistakeTags": [
+        "home",
+        "future_forms"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_08_future_forms/t8_07.mp3"
+    },
+    {
+      "id": "t8_08",
+      "audioText": "He’s been drinking all evening. He’s going to have a terrible headache tomorrow.",
+      "transcript": "He’s going to have a terrible headache tomorrow.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Inevitable future result."
+        },
+        {
+          "id": "o2",
+          "text": "He’ll have — maybe."
+        },
+        {
+          "id": "o3",
+          "text": "He has a headache now."
+        },
+        {
+          "id": "o4",
+          "text": "Plan to have headache."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Be going to for obvious future consequence.",
+      "mistakeTags": [
+        "bar",
+        "future_forms"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_08_future_forms/t8_08.mp3"
+    },
+    {
+      "id": "t8_09",
+      "audioText": "The concert starts at 8 p.m. sharp. Don’t be late!",
+      "transcript": "The concert starts at 8 p.m. sharp.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Official scheduled event."
+        },
+        {
+          "id": "o2",
+          "text": "We’re starting — arrangement."
+        },
+        {
+          "id": "o3",
+          "text": "It’ll start — prediction."
+        },
+        {
+          "id": "o4",
+          "text": "It started yesterday."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Present Simple for public events.",
+      "mistakeTags": [
+        "concert",
+        "future_forms"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_08_future_forms/t8_09.mp3"
+    },
+    {
+      "id": "t8_10",
+      "audioText": "I’ve saved enough money. I’m going to buy a new car next month.",
+      "transcript": "I’m going to buy a new car next month.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Intention/plan (not yet fixed)."
+        },
+        {
+          "id": "o2",
+          "text": "I’ll buy — instant decision."
+        },
+        {
+          "id": "o3",
+          "text": "I’m buying — booked."
+        },
+        {
+          "id": "o4",
+          "text": "I bought last month."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Be going to for intentions.",
+      "mistakeTags": [
+        "shop",
+        "future_forms"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_08_future_forms/t8_10.mp3"
+    },
+    {
+      "id": "t8_11",
+      "audioText": "Oh no, I forgot the keys! Wait, I’ll go back and get them.",
+      "transcript": "I’ll go back and get them.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Instant decision at the moment of speaking."
+        },
+        {
+          "id": "o2",
+          "text": "Planned earlier."
+        },
+        {
+          "id": "o3",
+          "text": "Timetable."
+        },
+        {
+          "id": "o4",
+          "text": "I went back yesterday."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Classic on-the-spot decision — will.",
+      "mistakeTags": [
+        "street",
+        "future_forms"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_08_future_forms/t8_11.mp3"
+    },
+    {
+      "id": "t8_12",
+      "audioText": "The match kicks off at 3 p.m. on Sunday.",
+      "transcript": "The match kicks off at 3 p.m. on Sunday.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Fixed schedule."
+        },
+        {
+          "id": "o2",
+          "text": "We’re playing — arrangement."
+        },
+        {
+          "id": "o3",
+          "text": "It’ll kick off — prediction."
+        },
+        {
+          "id": "o4",
+          "text": "It kicked off last week."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Present Simple for sports fixtures.",
+      "mistakeTags": [
+        "sport",
+        "future_forms"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_08_future_forms/t8_12.mp3"
+    },
+    {
+      "id": "t8_13",
+      "audioText": "She’s pregnant! She’s going to have a baby in March.",
+      "transcript": "She’s going to have a baby in March.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Evidence-based future fact."
+        },
+        {
+          "id": "o2",
+          "text": "She’ll have — maybe."
+        },
+        {
+          "id": "o3",
+          "text": "She’s having — arrangement."
+        },
+        {
+          "id": "o4",
+          "text": "She had a baby last year."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Be going to — inevitable future.",
+      "mistakeTags": [
+        "hospital",
+        "future_forms"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_08_future_forms/t8_13.mp3"
+    },
+    {
+      "id": "t8_14",
+      "audioText": "We’re having a party next Saturday. You’re invited!",
+      "transcript": "We’re having a party next Saturday.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Date is fixed, preparations started."
+        },
+        {
+          "id": "o2",
+          "text": "We’ll have — maybe."
+        },
+        {
+          "id": "o3",
+          "text": "The party starts at..."
+        },
+        {
+          "id": "o4",
+          "text": "We had a party last week."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Present Continuous — arranged future event.",
+      "mistakeTags": [
+        "party",
+        "future_forms"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_08_future_forms/t8_14.mp3"
+    },
+    {
+      "id": "t8_15",
+      "audioText": "Relax, everything is ready. The guests will love the food.",
+      "transcript": "The guests will love the food.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "General prediction / belief."
+        },
+        {
+          "id": "o2",
+          "text": "Evidence they’ll love it."
+        },
+        {
+          "id": "o3",
+          "text": "They’re loving it now."
+        },
+        {
+          "id": "o4",
+          "text": "They loved it last time."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Pure prediction without evidence — will.",
+      "mistakeTags": [
+        "party",
+        "future_forms"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_08_future_forms/t8_15.mp3"
+    }
+  ],
+  "short_description": "Все формы будущего: will, going to, Pres Cont, Pres Simple"
+}

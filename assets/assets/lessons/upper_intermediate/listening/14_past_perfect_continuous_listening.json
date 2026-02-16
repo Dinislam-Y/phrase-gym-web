@@ -1,0 +1,461 @@
+{
+  "id": "upper_listening_14_past_perfect_continuous",
+  "title": "Past Perfect Continuous",
+  "description": "Слушайте о длительных действиях, предшествовавших другому событию в прошлом.",
+  "order": 14,
+  "level": "upper_intermediate",
+  "imageUrl": "assets/images/lessons/past_perfect_continuous.png",
+  "tasks": [
+    {
+      "id": "t14_01",
+      "audioText": "When the ambulance finally arrived, the neighbours were relieved. They had been waiting for over forty minutes in the freezing cold.",
+      "transcript": "They had been waiting for over forty minutes in the freezing cold.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The ambulance arrived within five minutes."
+        },
+        {
+          "id": "o2",
+          "text": "They waited for more than forty minutes in very cold weather before the ambulance came."
+        },
+        {
+          "id": "o3",
+          "text": "They went inside because of the cold weather."
+        },
+        {
+          "id": "o4",
+          "text": "The ambulance never arrived at the scene."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Had been waiting' (past perfect continuous) shows a duration of waiting that continued up to the ambulance's arrival.",
+      "mistakeTags": [
+        "past_perfect_continuous",
+        "emergency"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_14_past_perfect_continuous/t14_01.mp3"
+    },
+    {
+      "id": "t14_02",
+      "audioText": "Laura looked exhausted when she came home from work on Friday. She had been working on the annual report non-stop for three days.",
+      "transcript": "She had been working on the annual report non-stop for three days.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She had continuously worked on the report for three days without a break."
+        },
+        {
+          "id": "o2",
+          "text": "She finished the report in just one afternoon."
+        },
+        {
+          "id": "o3",
+          "text": "She hadn't started working on the report yet."
+        },
+        {
+          "id": "o4",
+          "text": "She delegated the report to her colleague."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Had been working' emphasizes the continuous nature of the activity over three days, explaining her exhaustion.",
+      "mistakeTags": [
+        "past_perfect_continuous",
+        "work"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_14_past_perfect_continuous/t14_02.mp3"
+    },
+    {
+      "id": "t14_03",
+      "audioText": "The ground was completely soaked when we woke up on Saturday morning. It had been raining heavily throughout the entire night.",
+      "transcript": "It had been raining heavily throughout the entire night.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "It rained briefly and then stopped before morning."
+        },
+        {
+          "id": "o2",
+          "text": "Heavy rain fell continuously all night long."
+        },
+        {
+          "id": "o3",
+          "text": "The weather was dry and sunny overnight."
+        },
+        {
+          "id": "o4",
+          "text": "It only started raining in the early morning."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Had been raining' shows that the rain was a continuous process throughout the night, leading to the soaked ground.",
+      "mistakeTags": [
+        "past_perfect_continuous",
+        "weather"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_14_past_perfect_continuous/t14_03.mp3"
+    },
+    {
+      "id": "t14_04",
+      "audioText": "The detective finally solved the mysterious case last Tuesday. He had been investigating the crime for nearly eighteen months.",
+      "transcript": "He had been investigating the crime for nearly eighteen months.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He solved the case within the first week."
+        },
+        {
+          "id": "o2",
+          "text": "He spent almost a year and a half continuously working on the investigation."
+        },
+        {
+          "id": "o3",
+          "text": "He gave up the investigation after a few months."
+        },
+        {
+          "id": "o4",
+          "text": "Another detective was assigned to the case."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Had been investigating' stresses the long, ongoing process of the investigation before it was finally resolved.",
+      "mistakeTags": [
+        "past_perfect_continuous",
+        "crime"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_14_past_perfect_continuous/t14_04.mp3"
+    },
+    {
+      "id": "t14_05",
+      "audioText": "When the coach blew the final whistle, the players collapsed on the field. They had been running and training intensely since early morning.",
+      "transcript": "They had been running and training intensely since early morning.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "They arrived just before the whistle and hadn't exercised at all."
+        },
+        {
+          "id": "o2",
+          "text": "They had been exercising vigorously from the early hours until the end."
+        },
+        {
+          "id": "o3",
+          "text": "They trained for only thirty minutes before the whistle."
+        },
+        {
+          "id": "o4",
+          "text": "They were well-rested and full of energy."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Had been running and training' emphasizes the extended duration of physical exertion, explaining their collapse.",
+      "mistakeTags": [
+        "past_perfect_continuous",
+        "sports"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_14_past_perfect_continuous/t14_05.mp3"
+    },
+    {
+      "id": "t14_06",
+      "audioText": "The couple announced their engagement at the family dinner. They had been dating secretly for two years before telling anyone.",
+      "transcript": "They had been dating secretly for two years before telling anyone.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Everyone knew about their relationship from the beginning."
+        },
+        {
+          "id": "o2",
+          "text": "They kept their relationship hidden for two years prior to the announcement."
+        },
+        {
+          "id": "o3",
+          "text": "They met for the first time at the family dinner."
+        },
+        {
+          "id": "o4",
+          "text": "They dated openly and everyone approved."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Had been dating secretly' shows a continuous secret relationship over two years leading up to the announcement.",
+      "mistakeTags": [
+        "past_perfect_continuous",
+        "relationships"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_14_past_perfect_continuous/t14_06.mp3"
+    },
+    {
+      "id": "t14_07",
+      "audioText": "The doctor told James his health problems were serious. James had been ignoring the symptoms for months before seeking medical advice.",
+      "transcript": "James had been ignoring the symptoms for months before seeking medical advice.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "James visited the doctor as soon as symptoms appeared."
+        },
+        {
+          "id": "o2",
+          "text": "James continuously disregarded his symptoms for months before finally seeing a doctor."
+        },
+        {
+          "id": "o3",
+          "text": "James never experienced any health symptoms."
+        },
+        {
+          "id": "o4",
+          "text": "The doctor said James was in perfect health."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Had been ignoring' shows an ongoing neglectful behaviour over months, which preceded his eventual doctor visit.",
+      "mistakeTags": [
+        "past_perfect_continuous",
+        "health"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_14_past_perfect_continuous/t14_07.mp3"
+    },
+    {
+      "id": "t14_08",
+      "audioText": "The software launch was a huge success when it went live in March. The development team had been coding and testing for over a year.",
+      "transcript": "The development team had been coding and testing for over a year.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The team built the software in just a couple of weeks."
+        },
+        {
+          "id": "o2",
+          "text": "The team spent more than twelve months continuously developing and testing the software."
+        },
+        {
+          "id": "o3",
+          "text": "The software was purchased from another company."
+        },
+        {
+          "id": "o4",
+          "text": "The launch was postponed indefinitely."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Had been coding and testing' emphasizes the ongoing, prolonged development work that preceded the successful launch.",
+      "mistakeTags": [
+        "past_perfect_continuous",
+        "technology"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_14_past_perfect_continuous/t14_08.mp3"
+    },
+    {
+      "id": "t14_09",
+      "audioText": "Maria's eyes were red and puffy when her friend arrived at her apartment. She had been crying for hours after receiving the bad news.",
+      "transcript": "She had been crying for hours after receiving the bad news.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She cried continuously for hours because of the upsetting news."
+        },
+        {
+          "id": "o2",
+          "text": "She was happy and laughing when her friend arrived."
+        },
+        {
+          "id": "o3",
+          "text": "She cried for only a minute and then felt better."
+        },
+        {
+          "id": "o4",
+          "text": "She didn't receive any news that day."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Had been crying' emphasizes the extended, continuous nature of crying, which explains her physical appearance.",
+      "mistakeTags": [
+        "past_perfect_continuous",
+        "emotions"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_14_past_perfect_continuous/t14_09.mp3"
+    },
+    {
+      "id": "t14_10",
+      "audioText": "The professor published a groundbreaking paper on climate change last autumn. She had been researching the topic for over a decade.",
+      "transcript": "She had been researching the topic for over a decade.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She studied climate change for more than ten years before publishing her paper."
+        },
+        {
+          "id": "o2",
+          "text": "She started and finished her research in one semester."
+        },
+        {
+          "id": "o3",
+          "text": "She published the paper without doing any prior research."
+        },
+        {
+          "id": "o4",
+          "text": "Her research was on a completely different subject."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Had been researching for over a decade' shows more than ten years of continuous study before the publication.",
+      "mistakeTags": [
+        "past_perfect_continuous",
+        "science"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_14_past_perfect_continuous/t14_10.mp3"
+    },
+    {
+      "id": "t14_11",
+      "audioText": "When the taxi finally arrived, the passengers were furious. They had been standing in the rain for twenty-five minutes.",
+      "transcript": "They had been standing in the rain for twenty-five minutes.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "They waited indoors until the taxi came."
+        },
+        {
+          "id": "o2",
+          "text": "The taxi arrived immediately when they called."
+        },
+        {
+          "id": "o3",
+          "text": "They stood outside in the rain for nearly half an hour before the taxi appeared."
+        },
+        {
+          "id": "o4",
+          "text": "The weather was sunny and dry while they waited."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Had been standing in the rain' describes a continuous uncomfortable situation lasting 25 minutes before the taxi arrived.",
+      "mistakeTags": [
+        "past_perfect_continuous",
+        "transport"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_14_past_perfect_continuous/t14_11.mp3"
+    },
+    {
+      "id": "t14_12",
+      "audioText": "The neighbours finally complained about the noise from our flat. We had been playing loud music and dancing since eight o'clock.",
+      "transcript": "We had been playing loud music and dancing since eight o'clock.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "They had been partying with loud music from eight o'clock until the complaint."
+        },
+        {
+          "id": "o2",
+          "text": "They were quiet all evening and the complaint was unfounded."
+        },
+        {
+          "id": "o3",
+          "text": "They turned off the music before the neighbours noticed."
+        },
+        {
+          "id": "o4",
+          "text": "The neighbours joined the party and enjoyed the music."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Had been playing and dancing since' emphasizes the continuous duration of the noisy activity from a specific starting time.",
+      "mistakeTags": [
+        "past_perfect_continuous",
+        "social"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_14_past_perfect_continuous/t14_12.mp3"
+    },
+    {
+      "id": "t14_13",
+      "audioText": "The garden looked absolutely stunning when the judges arrived for the competition. The owner had been preparing it for the event since January.",
+      "transcript": "The owner had been preparing it for the event since January.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The owner started gardening the day before the competition."
+        },
+        {
+          "id": "o2",
+          "text": "The owner had been getting the garden ready over several months since January."
+        },
+        {
+          "id": "o3",
+          "text": "The garden was neglected and looked terrible."
+        },
+        {
+          "id": "o4",
+          "text": "A professional gardener did all the work overnight."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Had been preparing since January' indicates months of continuous effort leading up to the competition day.",
+      "mistakeTags": [
+        "past_perfect_continuous",
+        "gardening"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_14_past_perfect_continuous/t14_13.mp3"
+    },
+    {
+      "id": "t14_14",
+      "audioText": "The students were completely fluent by the time they graduated from the language programme. They had been studying Mandarin intensively for four years.",
+      "transcript": "They had been studying Mandarin intensively for four years.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "They learned Mandarin in a few weekend classes."
+        },
+        {
+          "id": "o2",
+          "text": "They continuously studied Mandarin with great effort over a four-year period."
+        },
+        {
+          "id": "o3",
+          "text": "They never achieved fluency in Mandarin."
+        },
+        {
+          "id": "o4",
+          "text": "They studied Japanese, not Mandarin."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Had been studying intensively for four years' shows a prolonged, dedicated learning process resulting in fluency.",
+      "mistakeTags": [
+        "past_perfect_continuous",
+        "languages"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_14_past_perfect_continuous/t14_14.mp3"
+    },
+    {
+      "id": "t14_15",
+      "audioText": "When the rescue helicopter spotted the hikers, they were barely conscious. They had been walking without food or water for nearly three days.",
+      "transcript": "They had been walking without food or water for nearly three days.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "They had plenty of supplies during their hike."
+        },
+        {
+          "id": "o2",
+          "text": "They trekked for almost three days with no food or water before being found."
+        },
+        {
+          "id": "o3",
+          "text": "They set up camp and rested comfortably."
+        },
+        {
+          "id": "o4",
+          "text": "The rescue team found them within a few hours of their departure."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Had been walking without food or water' emphasizes the continuous, desperate journey lasting nearly three days before rescue.",
+      "mistakeTags": [
+        "past_perfect_continuous",
+        "survival"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_14_past_perfect_continuous/t14_15.mp3"
+    }
+  ],
+  "short_description": "Длительные действия перед событием в прошлом."
+}

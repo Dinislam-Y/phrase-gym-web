@@ -1,0 +1,461 @@
+{
+  "id": "advanced_listening_01_reported_speech",
+  "title": "Reported Speech",
+  "description": "Слушайте и определяйте смысл косвенной речи.",
+  "order": 1,
+  "level": "advanced",
+  "imageUrl": "assets/images/lessons/reported_speech.png",
+  "tasks": [
+    {
+      "id": "t1_01",
+      "audioText": "During the press conference, the CEO addressed the shareholders. He said that the company had exceeded its quarterly targets by a significant margin.",
+      "transcript": "He said that the company had exceeded its quarterly targets by a significant margin.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The company performed well below expectations last quarter."
+        },
+        {
+          "id": "o2",
+          "text": "The CEO reported that quarterly results were considerably better than planned."
+        },
+        {
+          "id": "o3",
+          "text": "The CEO announced that the company would set new targets next quarter."
+        },
+        {
+          "id": "o4",
+          "text": "The shareholders told the CEO about the quarterly performance."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Had exceeded' is the past perfect backshift of 'has exceeded'. The CEO reported strong results surpassing targets.",
+      "mistakeTags": [
+        "reported_speech",
+        "tense_backshift"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_01_reported_speech/t1_01.mp3"
+    },
+    {
+      "id": "t1_02",
+      "audioText": "The professor was discussing the research findings with her colleagues. She told them that the experiment had yielded unexpected results that contradicted the original hypothesis.",
+      "transcript": "She told them that the experiment had yielded unexpected results that contradicted the original hypothesis.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The professor informed her colleagues that the experiment's outcomes were surprising and disproved the initial theory."
+        },
+        {
+          "id": "o2",
+          "text": "The colleagues told the professor about the unexpected experiment."
+        },
+        {
+          "id": "o3",
+          "text": "The professor confirmed that the hypothesis was correct."
+        },
+        {
+          "id": "o4",
+          "text": "The experiment had not been completed yet."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Told them that... had yielded' reports past findings. The results were unexpected and went against the hypothesis.",
+      "mistakeTags": [
+        "reported_speech",
+        "reporting_verbs"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_01_reported_speech/t1_02.mp3"
+    },
+    {
+      "id": "t1_03",
+      "audioText": "After the diplomatic summit, the spokesperson gave a statement. He explained that both nations had agreed to resume bilateral trade negotiations immediately.",
+      "transcript": "He explained that both nations had agreed to resume bilateral trade negotiations immediately.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The nations refused to participate in any further trade discussions."
+        },
+        {
+          "id": "o2",
+          "text": "Only one nation agreed to the trade negotiations."
+        },
+        {
+          "id": "o3",
+          "text": "The spokesperson reported that the two countries decided to restart trade talks without delay."
+        },
+        {
+          "id": "o4",
+          "text": "The spokesperson asked the nations to begin negotiations."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Explained that... had agreed' uses past perfect to report an earlier agreement. Both nations committed to immediate resumption.",
+      "mistakeTags": [
+        "reported_speech",
+        "tense_backshift"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_01_reported_speech/t1_03.mp3"
+    },
+    {
+      "id": "t1_04",
+      "audioText": "The witness was questioned extensively during the trial. She claimed that she had been at home the entire evening and had not seen anything unusual.",
+      "transcript": "She claimed that she had been at home the entire evening and had not seen anything unusual.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The witness admitted to seeing something suspicious that evening."
+        },
+        {
+          "id": "o2",
+          "text": "The witness stated she was at home all evening and noticed nothing out of the ordinary."
+        },
+        {
+          "id": "o3",
+          "text": "The witness said she had left home briefly during the evening."
+        },
+        {
+          "id": "o4",
+          "text": "The witness was not questioned during the trial."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Claimed that she had been... and had not seen' reports two past perfect actions. She denied witnessing anything.",
+      "mistakeTags": [
+        "reported_speech",
+        "past_perfect"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_01_reported_speech/t1_04.mp3"
+    },
+    {
+      "id": "t1_05",
+      "audioText": "The manager called an emergency meeting with the development team. He told the engineers that the client had requested a complete redesign of the user interface.",
+      "transcript": "He told the engineers that the client had requested a complete redesign of the user interface.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The engineers told the manager about the client's request."
+        },
+        {
+          "id": "o2",
+          "text": "The client was satisfied with the current user interface design."
+        },
+        {
+          "id": "o3",
+          "text": "The manager informed the team that the client wanted the UI entirely redesigned."
+        },
+        {
+          "id": "o4",
+          "text": "The manager asked the client to redesign the interface."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Told... that the client had requested' reports the client's earlier demand through the manager. A full UI overhaul was needed.",
+      "mistakeTags": [
+        "reported_speech",
+        "reporting_verbs"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_01_reported_speech/t1_05.mp3"
+    },
+    {
+      "id": "t1_06",
+      "audioText": "The journalist interviewed the minister after the parliament session. The minister stated that the government would not be raising taxes in the foreseeable future.",
+      "transcript": "The minister stated that the government would not be raising taxes in the foreseeable future.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The minister confirmed that tax increases were planned for next year."
+        },
+        {
+          "id": "o2",
+          "text": "The journalist said that taxes would remain unchanged."
+        },
+        {
+          "id": "o3",
+          "text": "The minister declared that no tax hikes were expected anytime soon."
+        },
+        {
+          "id": "o4",
+          "text": "The government had already raised taxes before the interview."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Stated that... would not be raising' uses future-in-the-past to report a commitment against tax increases.",
+      "mistakeTags": [
+        "reported_speech",
+        "future_in_past"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_01_reported_speech/t1_06.mp3"
+    },
+    {
+      "id": "t1_07",
+      "audioText": "The doctor reviewed the patient's test results carefully. She told the patient that his cholesterol levels had dropped considerably since the last check-up.",
+      "transcript": "She told the patient that his cholesterol levels had dropped considerably since the last check-up.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The patient's cholesterol had increased significantly."
+        },
+        {
+          "id": "o2",
+          "text": "The doctor reported a notable improvement in the patient's cholesterol readings."
+        },
+        {
+          "id": "o3",
+          "text": "The doctor suggested the patient needed more frequent check-ups."
+        },
+        {
+          "id": "o4",
+          "text": "The patient told the doctor about his cholesterol concerns."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Told... that his levels had dropped considerably' reports a positive health development using past perfect backshift.",
+      "mistakeTags": [
+        "reported_speech",
+        "tense_backshift"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_01_reported_speech/t1_07.mp3"
+    },
+    {
+      "id": "t1_08",
+      "audioText": "The ambassador addressed the United Nations assembly. He said that his country had always been committed to peaceful conflict resolution and would continue to uphold that principle.",
+      "transcript": "He said that his country had always been committed to peaceful conflict resolution and would continue to uphold that principle.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The ambassador declared his nation's ongoing dedication to resolving disputes peacefully."
+        },
+        {
+          "id": "o2",
+          "text": "The ambassador said his country was abandoning its commitment to peace."
+        },
+        {
+          "id": "o3",
+          "text": "The UN asked the ambassador about his country's military plans."
+        },
+        {
+          "id": "o4",
+          "text": "The ambassador reported that other nations should follow his country's example."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Said that... had always been committed... and would continue' combines past perfect and conditional to express enduring commitment.",
+      "mistakeTags": [
+        "reported_speech",
+        "mixed_tenses"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_01_reported_speech/t1_08.mp3"
+    },
+    {
+      "id": "t1_09",
+      "audioText": "The author was interviewed on a popular literary podcast. She mentioned that she had drawn inspiration from her grandmother's wartime diaries when writing the novel.",
+      "transcript": "She mentioned that she had drawn inspiration from her grandmother's wartime diaries when writing the novel.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The author wrote entirely fictional stories with no personal connections."
+        },
+        {
+          "id": "o2",
+          "text": "The author's grandmother wrote the novel herself."
+        },
+        {
+          "id": "o3",
+          "text": "The podcast host inspired the author to write."
+        },
+        {
+          "id": "o4",
+          "text": "The author revealed that her grandmother's war journals influenced her book."
+        }
+      ],
+      "correctIndex": 3,
+      "explanation": "'Mentioned that she had drawn inspiration from' reports the source of creative influence using past perfect.",
+      "mistakeTags": [
+        "reported_speech",
+        "reporting_verbs"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_01_reported_speech/t1_09.mp3"
+    },
+    {
+      "id": "t1_10",
+      "audioText": "The lead scientist held a briefing for the research team. He announced that the laboratory had secured additional funding for the next three years.",
+      "transcript": "He announced that the laboratory had secured additional funding for the next three years.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The laboratory lost its funding for upcoming research."
+        },
+        {
+          "id": "o2",
+          "text": "The scientist informed the team that extra financial support had been obtained for three more years."
+        },
+        {
+          "id": "o3",
+          "text": "The research team asked the scientist to find more funding."
+        },
+        {
+          "id": "o4",
+          "text": "The funding was only guaranteed for one year."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Announced that... had secured additional funding' reports good news about extended financial backing for the lab.",
+      "mistakeTags": [
+        "reported_speech",
+        "tense_backshift"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_01_reported_speech/t1_10.mp3"
+    },
+    {
+      "id": "t1_11",
+      "audioText": "The school principal sent a letter to all parents. She wrote that the school would be implementing a new curriculum starting in September.",
+      "transcript": "She wrote that the school would be implementing a new curriculum starting in September.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The principal informed parents that curriculum changes were coming in September."
+        },
+        {
+          "id": "o2",
+          "text": "The parents asked the principal to change the curriculum."
+        },
+        {
+          "id": "o3",
+          "text": "The new curriculum had already been implemented before the letter."
+        },
+        {
+          "id": "o4",
+          "text": "The school decided to keep the existing curriculum unchanged."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Wrote that the school would be implementing' uses future-in-the-past to report planned educational changes.",
+      "mistakeTags": [
+        "reported_speech",
+        "future_in_past"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_01_reported_speech/t1_11.mp3"
+    },
+    {
+      "id": "t1_12",
+      "audioText": "The defence lawyer spoke to journalists outside the courthouse. He insisted that his client had not been involved in any fraudulent activity whatsoever.",
+      "transcript": "He insisted that his client had not been involved in any fraudulent activity whatsoever.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The lawyer admitted his client was guilty of fraud."
+        },
+        {
+          "id": "o2",
+          "text": "The journalists claimed the client was innocent."
+        },
+        {
+          "id": "o3",
+          "text": "The lawyer firmly denied any connection between his client and fraud."
+        },
+        {
+          "id": "o4",
+          "text": "The client personally addressed the media about the charges."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Insisted that... had not been involved' is a strong denial using reported speech with past perfect passive.",
+      "mistakeTags": [
+        "reported_speech",
+        "passive_voice"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_01_reported_speech/t1_12.mp3"
+    },
+    {
+      "id": "t1_13",
+      "audioText": "The airline representative made an announcement at the gate. She apologised and explained that the flight had been delayed due to severe weather conditions over the Atlantic.",
+      "transcript": "She apologised and explained that the flight had been delayed due to severe weather conditions over the Atlantic.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The flight was cancelled permanently because of bad weather."
+        },
+        {
+          "id": "o2",
+          "text": "The representative said sorry and reported that Atlantic storms caused the flight delay."
+        },
+        {
+          "id": "o3",
+          "text": "The passengers complained about the delay before the announcement."
+        },
+        {
+          "id": "o4",
+          "text": "The flight departed on time despite poor weather."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Apologised and explained that... had been delayed' combines two reporting verbs to convey regret and the reason for delay.",
+      "mistakeTags": [
+        "reported_speech",
+        "reporting_verbs"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_01_reported_speech/t1_13.mp3"
+    },
+    {
+      "id": "t1_14",
+      "audioText": "The chairman addressed the board members at the annual meeting. He warned them that the competition had intensified dramatically and that the company needed to adapt quickly.",
+      "transcript": "He warned them that the competition had intensified dramatically and that the company needed to adapt quickly.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The chairman praised the board for handling the competition well."
+        },
+        {
+          "id": "o2",
+          "text": "The board warned the chairman about increasing competition."
+        },
+        {
+          "id": "o3",
+          "text": "The chairman cautioned the board that rivals had grown much stronger and rapid adaptation was essential."
+        },
+        {
+          "id": "o4",
+          "text": "The company had already adapted to the competitive market successfully."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Warned that... had intensified... and that... needed to adapt' reports two clauses: a past development and a present necessity.",
+      "mistakeTags": [
+        "reported_speech",
+        "multiple_clauses"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_01_reported_speech/t1_14.mp3"
+    },
+    {
+      "id": "t1_15",
+      "audioText": "The detective briefed the chief inspector on the progress of the investigation. He reported that the forensic team had identified two suspects and that further arrests were imminent.",
+      "transcript": "He reported that the forensic team had identified two suspects and that further arrests were imminent.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The investigation had made no progress in identifying suspects."
+        },
+        {
+          "id": "o2",
+          "text": "The chief inspector asked the detective to find more evidence."
+        },
+        {
+          "id": "o3",
+          "text": "Only one suspect had been identified by the forensic team."
+        },
+        {
+          "id": "o4",
+          "text": "The detective informed his superior that two suspects were found and more arrests were expected soon."
+        }
+      ],
+      "correctIndex": 3,
+      "explanation": "'Reported that... had identified two suspects and that further arrests were imminent' conveys progress and anticipated action.",
+      "mistakeTags": [
+        "reported_speech",
+        "multiple_clauses"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_01_reported_speech/t1_15.mp3"
+    }
+  ],
+  "short_description": "Косвенная речь с изменением времён и глаголами передачи информации."
+}

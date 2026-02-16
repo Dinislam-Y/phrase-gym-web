@@ -1,0 +1,461 @@
+{
+  "id": "advanced_listening_10_nominal_clauses",
+  "title": "Nominal Clauses",
+  "description": "Слушайте именные придаточные в роли подлежащего и дополнения.",
+  "order": 10,
+  "level": "advanced",
+  "imageUrl": "assets/images/lessons/nominal_clauses.png",
+  "tasks": [
+    {
+      "id": "t10_01",
+      "audioText": "The committee spent hours in deliberation. What ultimately mattered was whether the proposal aligned with the company's long-term vision.",
+      "transcript": "What ultimately mattered was whether the proposal aligned with the company's long-term vision.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The key question was the proposal's compatibility with the company's future direction."
+        },
+        {
+          "id": "o2",
+          "text": "The committee immediately approved the proposal."
+        },
+        {
+          "id": "o3",
+          "text": "Nobody cared about the long-term vision."
+        },
+        {
+          "id": "o4",
+          "text": "The proposal was rejected due to budget constraints."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'What ultimately mattered' is a nominal clause acting as the subject. The sentence focuses on alignment with the company's vision as the critical factor.",
+      "mistakeTags": [
+        "nominal_clauses",
+        "business"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_10_nominal_clauses/t10_01.mp3"
+    },
+    {
+      "id": "t10_02",
+      "audioText": "The scientist presented her findings at the symposium. Whether the hypothesis holds true depends on the results of further clinical trials.",
+      "transcript": "Whether the hypothesis holds true depends on the results of further clinical trials.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The hypothesis has already been confirmed."
+        },
+        {
+          "id": "o2",
+          "text": "The validity of the hypothesis is contingent upon additional experimental evidence."
+        },
+        {
+          "id": "o3",
+          "text": "No further testing is needed."
+        },
+        {
+          "id": "o4",
+          "text": "The clinical trials have been cancelled."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Whether the hypothesis holds true' is a nominal clause as subject. The sentence states that confirmation requires more clinical data.",
+      "mistakeTags": [
+        "nominal_clauses",
+        "science"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_10_nominal_clauses/t10_02.mp3"
+    },
+    {
+      "id": "t10_03",
+      "audioText": "The journalist investigated the corruption scandal for months. The fact that several officials had resigned only strengthened her suspicions.",
+      "transcript": "The fact that several officials had resigned only strengthened her suspicions.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The officials' resignations made the journalist less suspicious."
+        },
+        {
+          "id": "o2",
+          "text": "The journalist stopped her investigation after the resignations."
+        },
+        {
+          "id": "o3",
+          "text": "Multiple officials stepping down actually reinforced the journalist's doubts."
+        },
+        {
+          "id": "o4",
+          "text": "No officials had resigned during the investigation."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'The fact that several officials had resigned' is a nominal clause as subject. Their departures confirmed rather than dispelled her concerns.",
+      "mistakeTags": [
+        "nominal_clauses",
+        "media"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_10_nominal_clauses/t10_03.mp3"
+    },
+    {
+      "id": "t10_04",
+      "audioText": "The hiring manager reviewed dozens of applications. Whoever demonstrates the strongest analytical skills will be offered the position.",
+      "transcript": "Whoever demonstrates the strongest analytical skills will be offered the position.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The position has already been filled."
+        },
+        {
+          "id": "o2",
+          "text": "The job will go to the candidate with the best analytical abilities."
+        },
+        {
+          "id": "o3",
+          "text": "All applicants will be offered the position."
+        },
+        {
+          "id": "o4",
+          "text": "Analytical skills are not important for this role."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Whoever demonstrates the strongest analytical skills' is a nominal clause as subject using the free relative pronoun 'whoever'.",
+      "mistakeTags": [
+        "nominal_clauses",
+        "career"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_10_nominal_clauses/t10_04.mp3"
+    },
+    {
+      "id": "t10_05",
+      "audioText": "The diplomat returned from the negotiations visibly frustrated. He could not accept that the treaty had been altered without prior consultation.",
+      "transcript": "He could not accept that the treaty had been altered without prior consultation.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He was fine with the changes made to the treaty."
+        },
+        {
+          "id": "o2",
+          "text": "The treaty was never modified."
+        },
+        {
+          "id": "o3",
+          "text": "He found it unacceptable that the agreement was changed without discussing it first."
+        },
+        {
+          "id": "o4",
+          "text": "He was the one who changed the treaty."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'That the treaty had been altered without prior consultation' is a nominal clause as object of 'accept'. He rejected the unauthorized changes.",
+      "mistakeTags": [
+        "nominal_clauses",
+        "diplomacy"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_10_nominal_clauses/t10_05.mp3"
+    },
+    {
+      "id": "t10_06",
+      "audioText": "The professor addressed the doctoral students at orientation. How you approach your research methodology will define the quality of your dissertation.",
+      "transcript": "How you approach your research methodology will define the quality of your dissertation.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Your research methods are irrelevant to dissertation quality."
+        },
+        {
+          "id": "o2",
+          "text": "The way you handle your research methods will determine how good your thesis is."
+        },
+        {
+          "id": "o3",
+          "text": "All dissertations receive the same quality grade."
+        },
+        {
+          "id": "o4",
+          "text": "The professor will choose each student's research methodology."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'How you approach your research methodology' is a nominal wh-clause functioning as the subject. The method dictates the outcome.",
+      "mistakeTags": [
+        "nominal_clauses",
+        "academia"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_10_nominal_clauses/t10_06.mp3"
+    },
+    {
+      "id": "t10_07",
+      "audioText": "The CEO delivered her annual address. She emphasized that innovation without ethical consideration would ultimately undermine the brand.",
+      "transcript": "She emphasized that innovation without ethical consideration would ultimately undermine the brand.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She believed ethics were irrelevant to innovation."
+        },
+        {
+          "id": "o2",
+          "text": "She stressed that pursuing innovation without ethics could damage the company's reputation."
+        },
+        {
+          "id": "o3",
+          "text": "The brand was already damaged beyond repair."
+        },
+        {
+          "id": "o4",
+          "text": "She announced the company would stop innovating."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'That innovation without ethical consideration would ultimately undermine the brand' is a that-clause as object of 'emphasized'.",
+      "mistakeTags": [
+        "nominal_clauses",
+        "business"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_10_nominal_clauses/t10_07.mp3"
+    },
+    {
+      "id": "t10_08",
+      "audioText": "The architect presented the urban development plan. Where the new cultural centre is built will significantly affect local property values.",
+      "transcript": "Where the new cultural centre is built will significantly affect local property values.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Property values are unaffected by the location of new buildings."
+        },
+        {
+          "id": "o2",
+          "text": "The cultural centre has already been completed."
+        },
+        {
+          "id": "o3",
+          "text": "The location chosen for the cultural centre will have a major impact on nearby property prices."
+        },
+        {
+          "id": "o4",
+          "text": "Local residents oppose all new construction."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Where the new cultural centre is built' is a nominal wh-clause as subject. The location will meaningfully influence property prices.",
+      "mistakeTags": [
+        "nominal_clauses",
+        "urban_planning"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_10_nominal_clauses/t10_08.mp3"
+    },
+    {
+      "id": "t10_09",
+      "audioText": "The therapist listened carefully to her patient's concerns. What troubled him most was that his family seemed unwilling to acknowledge the problem.",
+      "transcript": "What troubled him most was that his family seemed unwilling to acknowledge the problem.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "His greatest distress came from his family's apparent refusal to recognize the issue."
+        },
+        {
+          "id": "o2",
+          "text": "His family was very supportive during his therapy."
+        },
+        {
+          "id": "o3",
+          "text": "He was not troubled by anything in particular."
+        },
+        {
+          "id": "o4",
+          "text": "The therapist was the one who was troubled."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "This sentence has two nominal clauses: 'What troubled him most' as subject and 'that his family seemed unwilling...' as complement. The family's denial was his main concern.",
+      "mistakeTags": [
+        "nominal_clauses",
+        "psychology"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_10_nominal_clauses/t10_09.mp3"
+    },
+    {
+      "id": "t10_10",
+      "audioText": "The defence attorney presented closing arguments. Whether the jury believes the testimony of the sole witness remains to be seen.",
+      "transcript": "Whether the jury believes the testimony of the sole witness remains to be seen.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The jury has already reached a verdict."
+        },
+        {
+          "id": "o2",
+          "text": "There were multiple witnesses in the case."
+        },
+        {
+          "id": "o3",
+          "text": "It is still uncertain if the jury will find the only witness credible."
+        },
+        {
+          "id": "o4",
+          "text": "The witness refused to testify in court."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Whether the jury believes the testimony' is a nominal clause as subject. The outcome of the jury's assessment is still unknown.",
+      "mistakeTags": [
+        "nominal_clauses",
+        "law"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_10_nominal_clauses/t10_10.mp3"
+    },
+    {
+      "id": "t10_11",
+      "audioText": "The literary critic published a controversial review. That the novel was largely autobiographical seemed evident to anyone familiar with the author's life.",
+      "transcript": "That the novel was largely autobiographical seemed evident to anyone familiar with the author's life.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The novel had nothing to do with the author's real life."
+        },
+        {
+          "id": "o2",
+          "text": "It was obvious that the book was mostly based on the author's own experiences."
+        },
+        {
+          "id": "o3",
+          "text": "Nobody realized the novel was autobiographical."
+        },
+        {
+          "id": "o4",
+          "text": "The critic did not read the novel before reviewing it."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'That the novel was largely autobiographical' is a that-clause functioning as subject. The autobiographical nature was clear to informed readers.",
+      "mistakeTags": [
+        "nominal_clauses",
+        "literature"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_10_nominal_clauses/t10_11.mp3"
+    },
+    {
+      "id": "t10_12",
+      "audioText": "The investors gathered for the quarterly briefing. The question of whether the startup could sustain its growth rate dominated the discussion.",
+      "transcript": "The question of whether the startup could sustain its growth rate dominated the discussion.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Investors were confident the startup would maintain its growth."
+        },
+        {
+          "id": "o2",
+          "text": "The startup's ability to keep growing was the main topic of conversation."
+        },
+        {
+          "id": "o3",
+          "text": "The investors discussed unrelated matters."
+        },
+        {
+          "id": "o4",
+          "text": "The startup had already gone bankrupt."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Whether the startup could sustain its growth rate' is a nominal clause within a noun phrase. The sustainability of growth was the central concern.",
+      "mistakeTags": [
+        "nominal_clauses",
+        "finance"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_10_nominal_clauses/t10_12.mp3"
+    },
+    {
+      "id": "t10_13",
+      "audioText": "The school principal addressed parents at the open evening. She assured them that the new curriculum would better prepare students for higher education.",
+      "transcript": "She assured them that the new curriculum would better prepare students for higher education.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She warned parents that the curriculum changes would be harmful."
+        },
+        {
+          "id": "o2",
+          "text": "She promised that the updated programme would improve students' readiness for university."
+        },
+        {
+          "id": "o3",
+          "text": "The curriculum would remain exactly the same."
+        },
+        {
+          "id": "o4",
+          "text": "Parents demanded that the old curriculum be restored."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'That the new curriculum would better prepare students' is a that-clause as object of 'assured'. She gave parents confidence about the change.",
+      "mistakeTags": [
+        "nominal_clauses",
+        "education"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_10_nominal_clauses/t10_13.mp3"
+    },
+    {
+      "id": "t10_14",
+      "audioText": "The climate conference concluded with a joint statement. What the delegates agreed upon was that immediate action on carbon emissions is non-negotiable.",
+      "transcript": "What the delegates agreed upon was that immediate action on carbon emissions is non-negotiable.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The delegates could not reach any agreement."
+        },
+        {
+          "id": "o2",
+          "text": "Carbon emissions were not discussed at the conference."
+        },
+        {
+          "id": "o3",
+          "text": "The delegates decided to postpone action on emissions."
+        },
+        {
+          "id": "o4",
+          "text": "The delegates reached consensus that urgent emission reductions are absolutely necessary."
+        }
+      ],
+      "correctIndex": 3,
+      "explanation": "Two nominal clauses: 'What the delegates agreed upon' (subject) and 'that immediate action... is non-negotiable' (complement). The consensus was on the urgency of action.",
+      "mistakeTags": [
+        "nominal_clauses",
+        "environment"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_10_nominal_clauses/t10_14.mp3"
+    },
+    {
+      "id": "t10_15",
+      "audioText": "The detective reviewed the surveillance footage meticulously. Why the suspect had returned to the crime scene puzzled the entire investigative team.",
+      "transcript": "Why the suspect had returned to the crime scene puzzled the entire investigative team.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The team understood exactly why the suspect came back."
+        },
+        {
+          "id": "o2",
+          "text": "The suspect's reason for revisiting the scene of the crime confused all the investigators."
+        },
+        {
+          "id": "o3",
+          "text": "The suspect never returned to the crime scene."
+        },
+        {
+          "id": "o4",
+          "text": "The detective solved the case immediately."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Why the suspect had returned to the crime scene' is a nominal wh-clause as subject. The motive for returning baffled the investigators.",
+      "mistakeTags": [
+        "nominal_clauses",
+        "crime"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_10_nominal_clauses/t10_15.mp3"
+    }
+  ],
+  "short_description": "Именные придаточные: подлежащее и дополнение."
+}

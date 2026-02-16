@@ -1,0 +1,461 @@
+{
+  "id": "pre_listening_12_numerals",
+  "title": "Numerals",
+  "description": "Слушайте короткие ситуации и понимайте, о каких числах идёт речь.",
+  "order": 12,
+  "level": "pre_intermediate",
+  "imageUrl": "assets/images/lessons/numerals.png",
+  "tasks": [
+    {
+      "id": "t12_01",
+      "audioText": "I have two sisters and one brother. My brother is twenty-five years old.",
+      "transcript": "My brother is twenty-five years old.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "My brother is 25 years old."
+        },
+        {
+          "id": "o2",
+          "text": "My brother is 15 years old."
+        },
+        {
+          "id": "o3",
+          "text": "My brother is 35 years old."
+        },
+        {
+          "id": "o4",
+          "text": "My sister is 25 years old."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says my brother is twenty-five years old.",
+      "mistakeTags": [
+        "family",
+        "cardinal_numbers"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_12_numerals/t12_01.mp3"
+    },
+    {
+      "id": "t12_02",
+      "audioText": "The bus number fourteen stops here. It comes every fifteen minutes.",
+      "transcript": "It comes every fifteen minutes.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Bus 14 comes every 15 minutes."
+        },
+        {
+          "id": "o2",
+          "text": "Bus 14 comes every 30 minutes."
+        },
+        {
+          "id": "o3",
+          "text": "Bus 40 comes every 15 minutes."
+        },
+        {
+          "id": "o4",
+          "text": "Bus 14 comes every hour."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence means bus 14 arrives every 15 minutes.",
+      "mistakeTags": [
+        "bus_station",
+        "cardinal_numbers"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_12_numerals/t12_02.mp3"
+    },
+    {
+      "id": "t12_03",
+      "audioText": "In the cafe, I order three coffees and two cakes. The cakes cost eight euros each.",
+      "transcript": "The cakes cost eight euros each.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Each cake costs 8 euros."
+        },
+        {
+          "id": "o2",
+          "text": "Each cake costs 5 euros."
+        },
+        {
+          "id": "o3",
+          "text": "Each cake costs 10 euros."
+        },
+        {
+          "id": "o4",
+          "text": "The coffees cost 8 euros each."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The target sentence tells the price of one cake.",
+      "mistakeTags": [
+        "cafe",
+        "prices"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_12_numerals/t12_03.mp3"
+    },
+    {
+      "id": "t12_04",
+      "audioText": "My hotel room is number two hundred and twelve.",
+      "transcript": "My hotel room is number two hundred and twelve.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "My room number is 212."
+        },
+        {
+          "id": "o2",
+          "text": "My room number is 312."
+        },
+        {
+          "id": "o3",
+          "text": "My room number is 112."
+        },
+        {
+          "id": "o4",
+          "text": "My room number is 200."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The room number is exactly 212.",
+      "mistakeTags": [
+        "hotel",
+        "room_numbers"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_12_numerals/t12_04.mp3"
+    },
+    {
+      "id": "t12_05",
+      "audioText": "She has four children. The youngest child is six years old.",
+      "transcript": "The youngest child is six years old.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Her youngest child is 6."
+        },
+        {
+          "id": "o2",
+          "text": "Her youngest child is 10."
+        },
+        {
+          "id": "o3",
+          "text": "Her oldest child is 6."
+        },
+        {
+          "id": "o4",
+          "text": "She has 6 children."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The youngest of her four children is 6 years old.",
+      "mistakeTags": [
+        "family",
+        "ages"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_12_numerals/t12_05.mp3"
+    },
+    {
+      "id": "t12_06",
+      "audioText": "The train to London leaves at nine forty-five.",
+      "transcript": "The train to London leaves at nine forty-five.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The train leaves at 9:45."
+        },
+        {
+          "id": "o2",
+          "text": "The train leaves at 9:15."
+        },
+        {
+          "id": "o3",
+          "text": "The train leaves at 10:45."
+        },
+        {
+          "id": "o4",
+          "text": "The train leaves at 8:45."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Nine forty-five means 9:45.",
+      "mistakeTags": [
+        "bus_station",
+        "time"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_12_numerals/t12_06.mp3"
+    },
+    {
+      "id": "t12_07",
+      "audioText": "I need seven apples and three oranges, please.",
+      "transcript": "I need seven apples and three oranges, please.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "I want 7 apples and 3 oranges."
+        },
+        {
+          "id": "o2",
+          "text": "I want 3 apples and 7 oranges."
+        },
+        {
+          "id": "o3",
+          "text": "I want 10 apples and oranges."
+        },
+        {
+          "id": "o4",
+          "text": "I want 7 apples only."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence clearly says seven apples and three oranges.",
+      "mistakeTags": [
+        "market",
+        "quantities"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_12_numerals/t12_07.mp3"
+    },
+    {
+      "id": "t12_08",
+      "audioText": "Our office opens at eight thirty in the morning.",
+      "transcript": "Our office opens at eight thirty in the morning.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The office opens at 8:30."
+        },
+        {
+          "id": "o2",
+          "text": "The office opens at 9:30."
+        },
+        {
+          "id": "o3",
+          "text": "The office opens at 7:30."
+        },
+        {
+          "id": "o4",
+          "text": "The office opens at 8:00."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Eight thirty means 8:30.",
+      "mistakeTags": [
+        "office",
+        "time"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_12_numerals/t12_08.mp3"
+    },
+    {
+      "id": "t12_09",
+      "audioText": "A ticket to Paris costs ninety-nine euros.",
+      "transcript": "A ticket to Paris costs ninety-nine euros.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The ticket costs 99 euros."
+        },
+        {
+          "id": "o2",
+          "text": "The ticket costs 199 euros."
+        },
+        {
+          "id": "o3",
+          "text": "The ticket costs 89 euros."
+        },
+        {
+          "id": "o4",
+          "text": "The ticket costs 999 euros."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Ninety-nine euros is exactly 99 euros.",
+      "mistakeTags": [
+        "airport",
+        "prices"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_12_numerals/t12_09.mp3"
+    },
+    {
+      "id": "t12_10",
+      "audioText": "There are thirty students in my English class.",
+      "transcript": "There are thirty students in my English class.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The class has 30 students."
+        },
+        {
+          "id": "o2",
+          "text": "The class has 20 students."
+        },
+        {
+          "id": "o3",
+          "text": "The class has 13 students."
+        },
+        {
+          "id": "o4",
+          "text": "The class has 33 students."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Thirty students means exactly 30.",
+      "mistakeTags": [
+        "school",
+        "quantities"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_12_numerals/t12_10.mp3"
+    },
+    {
+      "id": "t12_11",
+      "audioText": "My daughter is eleven years old today. It is her birthday.",
+      "transcript": "My daughter is eleven years old today.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "My daughter is 11 today."
+        },
+        {
+          "id": "o2",
+          "text": "My daughter is 10 today."
+        },
+        {
+          "id": "o3",
+          "text": "My daughter is 12 today."
+        },
+        {
+          "id": "o4",
+          "text": "My son is 11 today."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Eleven years old means she turns 11 today.",
+      "mistakeTags": [
+        "family",
+        "ages"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_12_numerals/t12_11.mp3"
+    },
+    {
+      "id": "t12_12",
+      "audioText": "The movie starts at seven fifteen in the evening.",
+      "transcript": "The movie starts at seven fifteen in the evening.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The movie starts at 7:15 pm."
+        },
+        {
+          "id": "o2",
+          "text": "The movie starts at 7:50 pm."
+        },
+        {
+          "id": "o3",
+          "text": "The movie starts at 6:15 pm."
+        },
+        {
+          "id": "o4",
+          "text": "The movie starts at 8:15 pm."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Seven fifteen means 7:15.",
+      "mistakeTags": [
+        "cafe",
+        "time"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_12_numerals/t12_12.mp3"
+    },
+    {
+      "id": "t12_13",
+      "audioText": "I live on the fifth floor, apartment number fifty-four.",
+      "transcript": "I live on the fifth floor, apartment number fifty-four.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "My apartment is number 54 on the 5th floor."
+        },
+        {
+          "id": "o2",
+          "text": "My apartment is number 45 on the 5th floor."
+        },
+        {
+          "id": "o3",
+          "text": "My apartment is number 54 on the 4th floor."
+        },
+        {
+          "id": "o4",
+          "text": "My apartment is number 55 on the 6th floor."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The apartment number is 54 and it is on the 5th floor.",
+      "mistakeTags": [
+        "home",
+        "addresses"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_12_numerals/t12_13.mp3"
+    },
+    {
+      "id": "t12_14",
+      "audioText": "We wait for table number nine. It is ready now.",
+      "transcript": "We wait for table number nine.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Our table is number 9."
+        },
+        {
+          "id": "o2",
+          "text": "Our table is number 6."
+        },
+        {
+          "id": "o3",
+          "text": "Our table is number 19."
+        },
+        {
+          "id": "o4",
+          "text": "Our table is number 90."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The table we are waiting for is number nine.",
+      "mistakeTags": [
+        "restaurant",
+        "numbers"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_12_numerals/t12_14.mp3"
+    },
+    {
+      "id": "t12_15",
+      "audioText": "The shop closes at ten o'clock tonight.",
+      "transcript": "The shop closes at ten o'clock tonight.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The shop closes at 10:00 pm."
+        },
+        {
+          "id": "o2",
+          "text": "The shop closes at 11:00 pm."
+        },
+        {
+          "id": "o3",
+          "text": "The shop closes at 9:00 pm."
+        },
+        {
+          "id": "o4",
+          "text": "The shop closes at 10:30 pm."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Ten o'clock means exactly 10:00.",
+      "mistakeTags": [
+        "shop",
+        "time"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_12_numerals/t12_15.mp3"
+    }
+  ],
+  "short_description": "Числа, возраст, время, цены и количества"
+}

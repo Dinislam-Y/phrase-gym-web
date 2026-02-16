@@ -1,0 +1,461 @@
+{
+  "id": "advanced_listening_11_emphasis_fronting",
+  "title": "Emphasis & Fronting",
+  "description": "Слушайте конструкции эмфатического выделения и вынесения.",
+  "order": 11,
+  "level": "advanced",
+  "imageUrl": "assets/images/lessons/emphasis_fronting.png",
+  "tasks": [
+    {
+      "id": "t11_01",
+      "audioText": "The negotiations had stalled for weeks. It was the junior diplomat who eventually broke the deadlock with a creative compromise.",
+      "transcript": "It was the junior diplomat who eventually broke the deadlock with a creative compromise.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "A senior official resolved the impasse."
+        },
+        {
+          "id": "o2",
+          "text": "The young diplomat was the one who finally resolved the stalemate through an inventive solution."
+        },
+        {
+          "id": "o3",
+          "text": "The negotiations ended without any agreement."
+        },
+        {
+          "id": "o4",
+          "text": "The deadlock was caused by the junior diplomat."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'It was X who...' is a cleft sentence that emphasizes the agent. The focus is on the junior diplomat as the person who resolved the situation.",
+      "mistakeTags": [
+        "emphasis_fronting",
+        "diplomacy"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_11_emphasis_fronting/t11_01.mp3"
+    },
+    {
+      "id": "t11_02",
+      "audioText": "Many dismissed her early research as impractical. What she actually discovered was a groundbreaking method for synthesizing renewable fuel.",
+      "transcript": "What she actually discovered was a groundbreaking method for synthesizing renewable fuel.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Her discovery turned out to be a revolutionary technique for producing sustainable fuel."
+        },
+        {
+          "id": "o2",
+          "text": "She never made any significant discoveries."
+        },
+        {
+          "id": "o3",
+          "text": "Her research was exactly as impractical as people thought."
+        },
+        {
+          "id": "o4",
+          "text": "She discovered a new type of fossil fuel."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'What she actually discovered was...' is a pseudo-cleft sentence that emphasizes the discovery. The focus is on the significance of the finding.",
+      "mistakeTags": [
+        "emphasis_fronting",
+        "science"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_11_emphasis_fronting/t11_02.mp3"
+    },
+    {
+      "id": "t11_03",
+      "audioText": "Critics claimed the director had lost his creative vision. He did produce his most acclaimed film just two years later.",
+      "transcript": "He did produce his most acclaimed film just two years later.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He never directed another successful film."
+        },
+        {
+          "id": "o2",
+          "text": "Contrary to criticism, he genuinely created his best-received movie shortly afterwards."
+        },
+        {
+          "id": "o3",
+          "text": "The critics were right about his decline."
+        },
+        {
+          "id": "o4",
+          "text": "He retired from filmmaking entirely."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Did produce' uses emphatic 'do' in past tense to contradict the critics' claim. Despite doubts, he achieved his greatest success.",
+      "mistakeTags": [
+        "emphasis_fronting",
+        "entertainment"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_11_emphasis_fronting/t11_03.mp3"
+    },
+    {
+      "id": "t11_04",
+      "audioText": "The company had strict security policies. Under no circumstances should employees share their access credentials with third parties.",
+      "transcript": "Under no circumstances should employees share their access credentials with third parties.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Employees are absolutely prohibited from giving their login details to outsiders."
+        },
+        {
+          "id": "o2",
+          "text": "Employees can share passwords in emergencies."
+        },
+        {
+          "id": "o3",
+          "text": "The security policy has been relaxed recently."
+        },
+        {
+          "id": "o4",
+          "text": "Third parties already have access to all credentials."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Under no circumstances' is a fronted negative adverbial causing subject-auxiliary inversion. It expresses an absolute prohibition.",
+      "mistakeTags": [
+        "emphasis_fronting",
+        "technology"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_11_emphasis_fronting/t11_04.mp3"
+    },
+    {
+      "id": "t11_05",
+      "audioText": "The author had been writing for decades without recognition. It was not until her seventh novel that she finally gained international acclaim.",
+      "transcript": "It was not until her seventh novel that she finally gained international acclaim.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She became famous with her very first book."
+        },
+        {
+          "id": "o2",
+          "text": "She only achieved worldwide recognition when she published her seventh book."
+        },
+        {
+          "id": "o3",
+          "text": "She never achieved any recognition at all."
+        },
+        {
+          "id": "o4",
+          "text": "Her seventh novel was a commercial failure."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'It was not until X that...' is a cleft construction emphasizing the timing. The seventh novel was the turning point for her career.",
+      "mistakeTags": [
+        "emphasis_fronting",
+        "literature"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_11_emphasis_fronting/t11_05.mp3"
+    },
+    {
+      "id": "t11_06",
+      "audioText": "The athletes had trained relentlessly for the championship. Never before had the team performed with such extraordinary precision and unity.",
+      "transcript": "Never before had the team performed with such extraordinary precision and unity.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The team always performed this well."
+        },
+        {
+          "id": "o2",
+          "text": "This was the team's worst performance ever."
+        },
+        {
+          "id": "o3",
+          "text": "The team achieved an unprecedented level of accuracy and teamwork."
+        },
+        {
+          "id": "o4",
+          "text": "The team decided not to compete in the championship."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Never before had...' fronts the negative adverb causing inversion. It emphasizes that this level of performance was historically unmatched.",
+      "mistakeTags": [
+        "emphasis_fronting",
+        "sports"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_11_emphasis_fronting/t11_06.mp3"
+    },
+    {
+      "id": "t11_07",
+      "audioText": "People assumed the merger would fail. What the CEO did was restructure the entire management hierarchy to ensure seamless integration.",
+      "transcript": "What the CEO did was restructure the entire management hierarchy to ensure seamless integration.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The CEO's action was to completely reorganize the leadership structure for smooth unification."
+        },
+        {
+          "id": "o2",
+          "text": "The CEO ignored the merger entirely."
+        },
+        {
+          "id": "o3",
+          "text": "The management hierarchy stayed exactly the same."
+        },
+        {
+          "id": "o4",
+          "text": "The merger failed as people predicted."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'What X did was...' is a pseudo-cleft emphasizing the action taken. The CEO's specific response was a comprehensive restructuring.",
+      "mistakeTags": [
+        "emphasis_fronting",
+        "business"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_11_emphasis_fronting/t11_07.mp3"
+    },
+    {
+      "id": "t11_08",
+      "audioText": "The historian challenged popular narratives about the revolution. Not only did the uprising lack popular support, but it was also funded by foreign interests.",
+      "transcript": "Not only did the uprising lack popular support, but it was also funded by foreign interests.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The revolution had both widespread support and domestic funding."
+        },
+        {
+          "id": "o2",
+          "text": "The revolution was popular but poorly funded."
+        },
+        {
+          "id": "o3",
+          "text": "The uprising was both unpopular and financially backed by foreign powers."
+        },
+        {
+          "id": "o4",
+          "text": "The historian praised the revolution enthusiastically."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Not only did X..., but also...' fronts the negative correlative conjunction causing inversion. It emphasizes two negative aspects of the uprising.",
+      "mistakeTags": [
+        "emphasis_fronting",
+        "history"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_11_emphasis_fronting/t11_08.mp3"
+    },
+    {
+      "id": "t11_09",
+      "audioText": "The orchestra rehearsed tirelessly before the premiere. Particularly impressive was the cellist's interpretation of the second movement.",
+      "transcript": "Particularly impressive was the cellist's interpretation of the second movement.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The cellist's performance of the second movement stood out as especially remarkable."
+        },
+        {
+          "id": "o2",
+          "text": "The cellist performed poorly during rehearsal."
+        },
+        {
+          "id": "o3",
+          "text": "The second movement was cut from the programme."
+        },
+        {
+          "id": "o4",
+          "text": "All musicians performed equally well."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Fronting the complement 'Particularly impressive' before 'was' emphasizes the exceptional quality of the cellist's performance.",
+      "mistakeTags": [
+        "emphasis_fronting",
+        "music"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_11_emphasis_fronting/t11_09.mp3"
+    },
+    {
+      "id": "t11_10",
+      "audioText": "Many doubted the new policy would succeed. The minister does believe that the reforms will yield measurable results within a year.",
+      "transcript": "The minister does believe that the reforms will yield measurable results within a year.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The minister has no confidence in the reforms."
+        },
+        {
+          "id": "o2",
+          "text": "Despite scepticism, the minister genuinely has faith that the changes will produce tangible outcomes soon."
+        },
+        {
+          "id": "o3",
+          "text": "The reforms have already failed."
+        },
+        {
+          "id": "o4",
+          "text": "Results are expected in ten years at the earliest."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Does believe' uses emphatic 'do' in present tense to counter the doubt. The minister's conviction is being stressed.",
+      "mistakeTags": [
+        "emphasis_fronting",
+        "politics"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_11_emphasis_fronting/t11_10.mp3"
+    },
+    {
+      "id": "t11_11",
+      "audioText": "The surgeon prepared meticulously for the complex procedure. Only after consulting three specialists did she proceed with the operation.",
+      "transcript": "Only after consulting three specialists did she proceed with the operation.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She began the surgery without consulting anyone."
+        },
+        {
+          "id": "o2",
+          "text": "She went ahead with the operation only once she had sought advice from three experts."
+        },
+        {
+          "id": "o3",
+          "text": "The specialists told her to cancel the surgery."
+        },
+        {
+          "id": "o4",
+          "text": "She consulted specialists after completing the operation."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Only after X did she...' fronts the restrictive adverbial causing inversion. The surgery happened only after triple consultation.",
+      "mistakeTags": [
+        "emphasis_fronting",
+        "medical"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_11_emphasis_fronting/t11_11.mp3"
+    },
+    {
+      "id": "t11_12",
+      "audioText": "The architect faced criticism for the unconventional design. It was the building's environmental efficiency that ultimately silenced the critics.",
+      "transcript": "It was the building's environmental efficiency that ultimately silenced the critics.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The critics continued to oppose the design."
+        },
+        {
+          "id": "o2",
+          "text": "The building's eco-friendly performance was what finally won over the doubters."
+        },
+        {
+          "id": "o3",
+          "text": "The building was demolished due to criticism."
+        },
+        {
+          "id": "o4",
+          "text": "The architect abandoned the unconventional design."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'It was X that...' is a cleft sentence emphasizing the specific quality that changed minds. Environmental efficiency was the deciding factor.",
+      "mistakeTags": [
+        "emphasis_fronting",
+        "architecture"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_11_emphasis_fronting/t11_12.mp3"
+    },
+    {
+      "id": "t11_13",
+      "audioText": "The company had invested heavily in cybersecurity. Rarely does a breach of this magnitude go undetected for so long.",
+      "transcript": "Rarely does a breach of this magnitude go undetected for so long.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Large security breaches are commonly missed for extended periods."
+        },
+        {
+          "id": "o2",
+          "text": "It is very uncommon for such a significant security breach to remain hidden for this duration."
+        },
+        {
+          "id": "o3",
+          "text": "The breach was detected immediately."
+        },
+        {
+          "id": "o4",
+          "text": "No security breach actually occurred."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Rarely does...' fronts the frequency adverb causing inversion. It emphasizes how unusual it is for such a major breach to evade detection.",
+      "mistakeTags": [
+        "emphasis_fronting",
+        "cybersecurity"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_11_emphasis_fronting/t11_13.mp3"
+    },
+    {
+      "id": "t11_14",
+      "audioText": "The volunteers worked through the night after the earthquake. So dedicated were they that not a single person left before every survivor had been rescued.",
+      "transcript": "So dedicated were they that not a single person left before every survivor had been rescued.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Most volunteers left early because they were exhausted."
+        },
+        {
+          "id": "o2",
+          "text": "No survivors were found after the earthquake."
+        },
+        {
+          "id": "o3",
+          "text": "Their commitment was so strong that every volunteer stayed until all survivors were saved."
+        },
+        {
+          "id": "o4",
+          "text": "The volunteers arrived the following morning."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'So dedicated were they that...' fronts the adjective complement with inversion for dramatic emphasis on their extraordinary devotion.",
+      "mistakeTags": [
+        "emphasis_fronting",
+        "humanitarian"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_11_emphasis_fronting/t11_14.mp3"
+    },
+    {
+      "id": "t11_15",
+      "audioText": "The experiment had failed repeatedly. Little did the researchers know that their next attempt would revolutionize the entire field of genetics.",
+      "transcript": "Little did the researchers know that their next attempt would revolutionize the entire field of genetics.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The researchers were fully aware of the upcoming breakthrough."
+        },
+        {
+          "id": "o2",
+          "text": "The researchers had no idea that their following experiment would transform genetics completely."
+        },
+        {
+          "id": "o3",
+          "text": "The researchers decided to abandon genetics altogether."
+        },
+        {
+          "id": "o4",
+          "text": "The experiment continued to fail without any progress."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Little did X know...' fronts the negative adverb for dramatic irony. The researchers were unaware of the historic significance of their next experiment.",
+      "mistakeTags": [
+        "emphasis_fronting",
+        "science"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_11_emphasis_fronting/t11_15.mp3"
+    }
+  ],
+  "short_description": "Эмфатические конструкции и вынесение."
+}

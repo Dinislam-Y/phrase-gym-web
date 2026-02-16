@@ -1,0 +1,1440 @@
+{
+  "id": "pre_18_much_many_a_lot",
+  "title": "Much / Many / A Lot Of",
+  "description": "Количественные слова: much water, many books, a lot of friends, a few, a little.",
+  "order": 11,
+  "level": "pre_intermediate",
+  "imageUrl": "assets/images/lessons/much_many_a_lot.png",
+  "vocabulary": [
+    {
+      "id": "v11_much",
+      "english": "much",
+      "russian": "много (неисчисляемое)",
+      "partOfSpeech": "pronoun",
+      "example": "How much water?",
+      "exampleTranslation": "Сколько воды?",
+      "audioPath": "assets/audio/vocabulary/v11_much.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_much.mp3"
+    },
+    {
+      "id": "v11_many",
+      "english": "many",
+      "russian": "много (исчисляемое)",
+      "partOfSpeech": "pronoun",
+      "example": "How many books?",
+      "exampleTranslation": "Сколько книг?",
+      "audioPath": "assets/audio/vocabulary/v11_many.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_many.mp3"
+    },
+    {
+      "id": "v11_a_lot_of",
+      "english": "a lot of",
+      "russian": "много (любое)",
+      "partOfSpeech": "phrase",
+      "example": "I have a lot of friends.",
+      "exampleTranslation": "У меня много друзей.",
+      "audioPath": "assets/audio/vocabulary/v11_a_lot_of.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_a_lot_of.mp3"
+    },
+    {
+      "id": "v11_a_few",
+      "english": "a few",
+      "russian": "несколько (исчисляемое)",
+      "partOfSpeech": "phrase",
+      "example": "I have a few books.",
+      "exampleTranslation": "У меня есть несколько книг.",
+      "audioPath": "assets/audio/vocabulary/v11_a_few.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_a_few.mp3"
+    },
+    {
+      "id": "v11_a_little",
+      "english": "a little",
+      "russian": "немного (неисчисляемое)",
+      "partOfSpeech": "phrase",
+      "example": "I have a little time.",
+      "exampleTranslation": "У меня есть немного времени.",
+      "audioPath": "assets/audio/vocabulary/v11_a_little.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_a_little.mp3"
+    },
+    {
+      "id": "v11_people",
+      "english": "people",
+      "russian": "люди",
+      "partOfSpeech": "noun",
+      "example": "Many people came.",
+      "exampleTranslation": "Пришло много людей.",
+      "audioPath": "assets/audio/vocabulary/v11_people.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_people.mp3"
+    },
+    {
+      "id": "v11_time",
+      "english": "time",
+      "russian": "время",
+      "partOfSpeech": "noun",
+      "example": "I have a little time.",
+      "exampleTranslation": "У меня есть немного времени.",
+      "audioPath": "assets/audio/vocabulary/v11_time.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_time.mp3"
+    },
+    {
+      "id": "v11_book",
+      "english": "book",
+      "russian": "книга",
+      "partOfSpeech": "noun",
+      "example": "She reads many books.",
+      "exampleTranslation": "Она читает много книг.",
+      "audioPath": "assets/audio/vocabulary/v11_book.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_book.mp3"
+    },
+    {
+      "id": "v11_money",
+      "english": "money",
+      "russian": "деньги",
+      "partOfSpeech": "noun",
+      "example": "How much money?",
+      "exampleTranslation": "Сколько денег?",
+      "audioPath": "assets/audio/vocabulary/v11_money.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_money.mp3"
+    },
+    {
+      "id": "v11_food",
+      "english": "food",
+      "russian": "еда",
+      "partOfSpeech": "noun",
+      "example": "We have a lot of food.",
+      "exampleTranslation": "У нас много еды.",
+      "audioPath": "assets/audio/vocabulary/v11_food.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_food.mp3"
+    },
+    {
+      "id": "v11_work",
+      "english": "work",
+      "russian": "работа",
+      "partOfSpeech": "noun",
+      "example": "I have much work.",
+      "exampleTranslation": "У меня много работы.",
+      "audioPath": "assets/audio/vocabulary/v11_work.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_work.mp3"
+    },
+    {
+      "id": "v11_friend",
+      "english": "friend",
+      "russian": "друг",
+      "partOfSpeech": "noun",
+      "example": "He has many friends.",
+      "exampleTranslation": "У него много друзей.",
+      "audioPath": "assets/audio/vocabulary/v11_friend.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_friend.mp3"
+    },
+    {
+      "id": "v11_child",
+      "english": "child",
+      "russian": "ребёнок",
+      "partOfSpeech": "noun",
+      "example": "Many children play here.",
+      "exampleTranslation": "Здесь играет много детей.",
+      "audioPath": "assets/audio/vocabulary/v11_child.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_child.mp3"
+    },
+    {
+      "id": "v11_sugar",
+      "english": "sugar",
+      "russian": "сахар",
+      "partOfSpeech": "noun",
+      "example": "A little sugar, please.",
+      "exampleTranslation": "Немного сахара, пожалуйста.",
+      "audioPath": "assets/audio/vocabulary/v11_sugar.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_sugar.mp3"
+    },
+    {
+      "id": "v11_tea",
+      "english": "tea",
+      "russian": "чай",
+      "partOfSpeech": "noun",
+      "example": "How much tea?",
+      "exampleTranslation": "Сколько чая?",
+      "audioPath": "assets/audio/vocabulary/v11_tea.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_tea.mp3"
+    },
+    {
+      "id": "v11_day",
+      "english": "day",
+      "russian": "день",
+      "partOfSpeech": "noun",
+      "example": "I have a few days.",
+      "exampleTranslation": "У меня есть несколько дней.",
+      "audioPath": "assets/audio/vocabulary/v11_day.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_day.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "Much / Many / A Lot Of",
+    "subtitle": "Слова для количества. Much — для воды и денег (нельзя посчитать), many — для книг и людей (можно посчитать), a lot of — для всего.",
+    "construction": {
+      "formula": "Much (uncountable) / Many (countable) / A lot of (any)",
+      "rules": [
+        {
+          "word": "much",
+          "description": "С неисчисляемыми (вода, время, деньги): How much water? Not much time."
+        },
+        {
+          "word": "many",
+          "description": "С исчисляемыми (книги, люди, дни): How many books? Many people came."
+        },
+        {
+          "word": "a lot of",
+          "description": "С любыми — в утверждениях: I have a lot of friends / a lot of time."
+        },
+        {
+          "word": "a few / a little",
+          "description": "A few + исчисляемое (a few books). A little + неисчисляемое (a little water)."
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "explore",
+        "color": "blue",
+        "title": "Спрашиваем о количестве",
+        "description": "How much (неисчисл.) / How many (исчисл.) — для вопросов.",
+        "example": {
+          "english": "How much water do you need?",
+          "russian": "Сколько воды тебе нужно?"
+        }
+      },
+      {
+        "icon": "check_circle",
+        "color": "green",
+        "title": "Говорим «много»",
+        "description": "A lot of — универсальное «много» для утверждений.",
+        "example": {
+          "english": "We have a lot of food.",
+          "russian": "У нас много еды."
+        }
+      },
+      {
+        "icon": "star",
+        "color": "orange",
+        "title": "Немного / Несколько",
+        "description": "A little (чуть-чуть) и a few (несколько) — для маленьких количеств.",
+        "example": {
+          "english": "I have a few friends here.",
+          "russian": "У меня есть несколько друзей здесь."
+        }
+      }
+    ],
+    "markers": [
+      "how much",
+      "how many",
+      "a lot of",
+      "a few",
+      "a little",
+      "much",
+      "many"
+    ]
+  },
+  "tasks": [
+    {
+      "id": "t11_1",
+      "type": "sentenceAssembly",
+      "question": "Сколько воды?",
+      "correctAnswer": "How much water",
+      "options": [],
+      "variants": [
+        [
+          "How",
+          "What",
+          "Where",
+          "Who"
+        ],
+        [
+          "much",
+          "many",
+          "lot",
+          "few"
+        ],
+        [
+          "water",
+          "books",
+          "people",
+          "friends"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_18_much_many_a_lot/000.mp3"
+    },
+    {
+      "id": "t11_2",
+      "type": "sentenceAssembly",
+      "question": "Сколько книг?",
+      "correctAnswer": "How many books",
+      "options": [],
+      "variants": [
+        [
+          "How",
+          "What",
+          "Where",
+          "Who"
+        ],
+        [
+          "many",
+          "much",
+          "lot",
+          "few"
+        ],
+        [
+          "books",
+          "water",
+          "money",
+          "time"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_18_much_many_a_lot/001.mp3"
+    },
+    {
+      "id": "t11_3",
+      "type": "sentenceAssembly",
+      "question": "У меня много друзей",
+      "correctAnswer": "I have many friends",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "We",
+          "Me"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        [
+          "many",
+          "much",
+          "a",
+          "few"
+        ],
+        [
+          "friends",
+          "money",
+          "time",
+          "water"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_18_much_many_a_lot/002.mp3"
+    },
+    {
+      "id": "t11_4",
+      "type": "sentenceAssembly",
+      "question": "Много людей пришло",
+      "correctAnswer": "Many people came",
+      "options": [],
+      "variants": [
+        [
+          "Many",
+          "Much",
+          "A",
+          "Few"
+        ],
+        [
+          "people",
+          "water",
+          "money",
+          "food"
+        ],
+        [
+          "came",
+          "come",
+          "comes",
+          "coming"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_18_much_many_a_lot/003.mp3"
+    },
+    {
+      "id": "t11_5",
+      "type": "sentenceAssembly",
+      "question": "Сколько денег?",
+      "correctAnswer": "How much money",
+      "options": [],
+      "variants": [
+        [
+          "How",
+          "What",
+          "Where",
+          "Who"
+        ],
+        [
+          "much",
+          "many",
+          "lot",
+          "few"
+        ],
+        [
+          "money",
+          "books",
+          "friends",
+          "people"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_18_much_many_a_lot/004.mp3"
+    },
+    {
+      "id": "t11_6",
+      "type": "sentenceAssembly",
+      "question": "У нас много еды",
+      "correctAnswer": "We have much food",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "I",
+          "Us"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        [
+          "much",
+          "many",
+          "a",
+          "few"
+        ],
+        [
+          "food",
+          "books",
+          "friends",
+          "people"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_18_much_many_a_lot/005.mp3"
+    },
+    {
+      "id": "t11_7",
+      "type": "sentenceAssembly",
+      "question": "У неё много книг",
+      "correctAnswer": "She has many books",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "They",
+          "Her"
+        ],
+        [
+          "has",
+          "have",
+          "had",
+          "having"
+        ],
+        [
+          "many",
+          "much",
+          "a",
+          "few"
+        ],
+        [
+          "books",
+          "water",
+          "money",
+          "time"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_18_much_many_a_lot/006.mp3"
+    },
+    {
+      "id": "t11_8",
+      "type": "sentenceAssembly",
+      "question": "Сколько чая?",
+      "correctAnswer": "How much tea",
+      "options": [],
+      "variants": [
+        [
+          "How",
+          "What",
+          "Where",
+          "Who"
+        ],
+        [
+          "much",
+          "many",
+          "lot",
+          "few"
+        ],
+        [
+          "tea",
+          "cups",
+          "books",
+          "friends"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_18_much_many_a_lot/007.mp3"
+    },
+    {
+      "id": "t11_9",
+      "type": "sentenceAssembly",
+      "question": "Сколько людей?",
+      "correctAnswer": "How many people",
+      "options": [],
+      "variants": [
+        [
+          "How",
+          "What",
+          "Where",
+          "Who"
+        ],
+        [
+          "many",
+          "much",
+          "lot",
+          "few"
+        ],
+        [
+          "people",
+          "water",
+          "money",
+          "food"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_18_much_many_a_lot/008.mp3"
+    },
+    {
+      "id": "t11_10",
+      "type": "sentenceAssembly",
+      "question": "У него много работы",
+      "correctAnswer": "He has much work",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "They",
+          "Him"
+        ],
+        [
+          "has",
+          "have",
+          "had",
+          "having"
+        ],
+        [
+          "much",
+          "many",
+          "a",
+          "few"
+        ],
+        [
+          "work",
+          "books",
+          "friends",
+          "people"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_18_much_many_a_lot/009.mp3"
+    },
+    {
+      "id": "t11_11",
+      "type": "sentenceAssembly",
+      "question": "У меня несколько книг",
+      "correctAnswer": "I have a few books",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "We",
+          "Me"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        [
+          "a",
+          "the",
+          "some",
+          "no"
+        ],
+        [
+          "few",
+          "little",
+          "lot",
+          "much"
+        ],
+        [
+          "books",
+          "water",
+          "money",
+          "time"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_18_much_many_a_lot/010.mp3"
+    },
+    {
+      "id": "t11_12",
+      "type": "sentenceAssembly",
+      "question": "У меня немного времени",
+      "correctAnswer": "I have a little time",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "We",
+          "Me"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        [
+          "a",
+          "the",
+          "some",
+          "no"
+        ],
+        [
+          "little",
+          "few",
+          "lot",
+          "much"
+        ],
+        [
+          "time",
+          "books",
+          "friends",
+          "days"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_18_much_many_a_lot/011.mp3"
+    },
+    {
+      "id": "t11_13",
+      "type": "sentenceAssembly",
+      "question": "У нас несколько дней",
+      "correctAnswer": "We have a few days",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "I",
+          "Us"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        [
+          "a",
+          "the",
+          "some",
+          "no"
+        ],
+        [
+          "few",
+          "little",
+          "lot",
+          "much"
+        ],
+        [
+          "days",
+          "water",
+          "money",
+          "time"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_18_much_many_a_lot/012.mp3"
+    },
+    {
+      "id": "t11_14",
+      "type": "sentenceAssembly",
+      "question": "Немного сахара",
+      "correctAnswer": "A little sugar",
+      "options": [],
+      "variants": [
+        [
+          "A",
+          "The",
+          "Some",
+          "No"
+        ],
+        [
+          "little",
+          "few",
+          "lot",
+          "much"
+        ],
+        [
+          "sugar",
+          "books",
+          "friends",
+          "cups"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_18_much_many_a_lot/013.mp3"
+    },
+    {
+      "id": "t11_15",
+      "type": "sentenceAssembly",
+      "question": "У неё несколько друзей",
+      "correctAnswer": "She has a few friends",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "They",
+          "Her"
+        ],
+        [
+          "has",
+          "have",
+          "had",
+          "having"
+        ],
+        [
+          "a",
+          "the",
+          "some",
+          "no"
+        ],
+        [
+          "few",
+          "little",
+          "lot",
+          "much"
+        ],
+        [
+          "friends",
+          "water",
+          "money",
+          "time"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_18_much_many_a_lot/014.mp3"
+    },
+    {
+      "id": "t11_16",
+      "type": "sentenceAssembly",
+      "question": "У них немного молока",
+      "correctAnswer": "They have a little milk",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "We",
+          "He",
+          "Them"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        [
+          "a",
+          "the",
+          "some",
+          "no"
+        ],
+        [
+          "little",
+          "few",
+          "lot",
+          "much"
+        ],
+        [
+          "milk",
+          "books",
+          "friends",
+          "cups"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_18_much_many_a_lot/015.mp3"
+    },
+    {
+      "id": "t11_17",
+      "type": "sentenceAssembly",
+      "question": "У нас несколько идей",
+      "correctAnswer": "We have a few ideas",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "I",
+          "Us"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        [
+          "a",
+          "the",
+          "some",
+          "no"
+        ],
+        [
+          "few",
+          "little",
+          "lot",
+          "much"
+        ],
+        [
+          "ideas",
+          "water",
+          "money",
+          "time"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_18_much_many_a_lot/016.mp3"
+    },
+    {
+      "id": "t11_18",
+      "type": "sentenceAssembly",
+      "question": "Немного воды",
+      "correctAnswer": "A little water",
+      "options": [],
+      "variants": [
+        [
+          "A",
+          "The",
+          "Some",
+          "No"
+        ],
+        [
+          "little",
+          "few",
+          "lot",
+          "much"
+        ],
+        [
+          "water",
+          "books",
+          "friends",
+          "cups"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_18_much_many_a_lot/017.mp3"
+    },
+    {
+      "id": "t11_19",
+      "type": "sentenceAssembly",
+      "question": "У него несколько вопросов",
+      "correctAnswer": "He has a few questions",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "They",
+          "Him"
+        ],
+        [
+          "has",
+          "have",
+          "had",
+          "having"
+        ],
+        [
+          "a",
+          "the",
+          "some",
+          "no"
+        ],
+        [
+          "few",
+          "little",
+          "lot",
+          "much"
+        ],
+        [
+          "questions",
+          "water",
+          "money",
+          "time"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_18_much_many_a_lot/018.mp3"
+    },
+    {
+      "id": "t11_20",
+      "type": "sentenceAssembly",
+      "question": "У них немного еды",
+      "correctAnswer": "They have a little food",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "We",
+          "He",
+          "Them"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        [
+          "a",
+          "the",
+          "some",
+          "no"
+        ],
+        [
+          "little",
+          "few",
+          "lot",
+          "much"
+        ],
+        [
+          "food",
+          "books",
+          "friends",
+          "cups"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_18_much_many_a_lot/019.mp3"
+    },
+    {
+      "id": "t11_21",
+      "type": "sentenceAssembly",
+      "question": "Не много времени",
+      "correctAnswer": "Not much time",
+      "options": [],
+      "variants": [
+        [
+          "Not",
+          "No",
+          "None",
+          "Never"
+        ],
+        [
+          "much",
+          "many",
+          "a",
+          "few"
+        ],
+        [
+          "time",
+          "books",
+          "friends",
+          "people"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_18_much_many_a_lot/020.mp3"
+    },
+    {
+      "id": "t11_22",
+      "type": "sentenceAssembly",
+      "question": "Не много людей",
+      "correctAnswer": "Not many people",
+      "options": [],
+      "variants": [
+        [
+          "Not",
+          "No",
+          "None",
+          "Never"
+        ],
+        [
+          "many",
+          "much",
+          "a",
+          "few"
+        ],
+        [
+          "people",
+          "water",
+          "money",
+          "food"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_18_much_many_a_lot/021.mp3"
+    },
+    {
+      "id": "t11_23",
+      "type": "sentenceAssembly",
+      "question": "Сколько у тебя денег?",
+      "correctAnswer": "How much money do you have",
+      "options": [],
+      "variants": [
+        [
+          "How",
+          "What",
+          "Where",
+          "Who"
+        ],
+        [
+          "much",
+          "many",
+          "lot",
+          "few"
+        ],
+        [
+          "money",
+          "books",
+          "friends",
+          "people"
+        ],
+        [
+          "do",
+          "does",
+          "is",
+          "are"
+        ],
+        [
+          "you",
+          "he",
+          "she",
+          "they"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "need"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_18_much_many_a_lot/022.mp3"
+    },
+    {
+      "id": "t11_24",
+      "type": "sentenceAssembly",
+      "question": "Сколько у неё друзей?",
+      "correctAnswer": "How many friends does she have",
+      "options": [],
+      "variants": [
+        [
+          "How",
+          "What",
+          "Where",
+          "Who"
+        ],
+        [
+          "many",
+          "much",
+          "lot",
+          "few"
+        ],
+        [
+          "friends",
+          "water",
+          "money",
+          "time"
+        ],
+        [
+          "does",
+          "do",
+          "is",
+          "are"
+        ],
+        [
+          "she",
+          "he",
+          "they",
+          "you"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "need"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_18_much_many_a_lot/023.mp3"
+    },
+    {
+      "id": "t11_25",
+      "type": "sentenceAssembly",
+      "question": "У тебя много работы?",
+      "correctAnswer": "Do you have much work",
+      "options": [],
+      "variants": [
+        [
+          "Do",
+          "Does",
+          "Did",
+          "Is"
+        ],
+        [
+          "you",
+          "he",
+          "she",
+          "they"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "need"
+        ],
+        [
+          "much",
+          "many",
+          "a",
+          "few"
+        ],
+        [
+          "work",
+          "books",
+          "friends",
+          "people"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_18_much_many_a_lot/024.mp3"
+    },
+    {
+      "id": "t11_26",
+      "type": "sentenceAssembly",
+      "question": "Здесь много детей?",
+      "correctAnswer": "Are there many children here",
+      "options": [],
+      "variants": [
+        [
+          "Are",
+          "Is",
+          "Do",
+          "Does"
+        ],
+        [
+          "there",
+          "here",
+          "it",
+          "they"
+        ],
+        [
+          "many",
+          "much",
+          "a",
+          "few"
+        ],
+        [
+          "children",
+          "water",
+          "money",
+          "food"
+        ],
+        [
+          "here",
+          "there",
+          "home",
+          "now"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_18_much_many_a_lot/025.mp3"
+    },
+    {
+      "id": "t11_27",
+      "type": "sentenceAssembly",
+      "question": "У тебя много книг?",
+      "correctAnswer": "Do you have many books",
+      "options": [],
+      "variants": [
+        [
+          "Do",
+          "Does",
+          "Did",
+          "Is"
+        ],
+        [
+          "you",
+          "he",
+          "she",
+          "they"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "need"
+        ],
+        [
+          "many",
+          "much",
+          "a",
+          "few"
+        ],
+        [
+          "books",
+          "water",
+          "money",
+          "time"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_18_much_many_a_lot/026.mp3"
+    },
+    {
+      "id": "t11_28",
+      "type": "sentenceAssembly",
+      "question": "Сколько у них еды?",
+      "correctAnswer": "How much food do they have",
+      "options": [],
+      "variants": [
+        [
+          "How",
+          "What",
+          "Where",
+          "Who"
+        ],
+        [
+          "much",
+          "many",
+          "lot",
+          "few"
+        ],
+        [
+          "food",
+          "books",
+          "friends",
+          "people"
+        ],
+        [
+          "do",
+          "does",
+          "is",
+          "are"
+        ],
+        [
+          "they",
+          "he",
+          "she",
+          "you"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "need"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_18_much_many_a_lot/027.mp3"
+    },
+    {
+      "id": "t11_29",
+      "type": "sentenceAssembly",
+      "question": "У неё не много времени",
+      "correctAnswer": "She has not much time",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "They",
+          "Her"
+        ],
+        [
+          "has",
+          "have",
+          "had",
+          "having"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "none"
+        ],
+        [
+          "much",
+          "many",
+          "a",
+          "few"
+        ],
+        [
+          "time",
+          "books",
+          "friends",
+          "people"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_18_much_many_a_lot/028.mp3"
+    },
+    {
+      "id": "t11_30",
+      "type": "sentenceAssembly",
+      "question": "У нас не много друзей",
+      "correctAnswer": "We have not many friends",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "I",
+          "Us"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "none"
+        ],
+        [
+          "many",
+          "much",
+          "a",
+          "few"
+        ],
+        [
+          "friends",
+          "water",
+          "money",
+          "time"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_18_much_many_a_lot/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionPreIntermediate11MuchManyALot",
+  "theoryQuiz": [
+    {
+      "id": "tq_11_01",
+      "type": "multipleChoice",
+      "question": "Какое слово используем с неисчисляемыми существительными (water, money)?",
+      "options": [
+        "many",
+        "much",
+        "a few",
+        "several"
+      ],
+      "correctIndex": 1,
+      "explanation": "Much используем с неисчисляемыми: much water, much money."
+    },
+    {
+      "id": "tq_11_02",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"How ___ books do you have?\"",
+      "options": [
+        "much",
+        "many",
+        "lot",
+        "little"
+      ],
+      "correctIndex": 1,
+      "explanation": "Books — исчисляемое, используем many: How many books?"
+    },
+    {
+      "id": "tq_11_03",
+      "type": "trueFalse",
+      "question": "\"How much people?\" — правильный вопрос.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "People — исчисляемое. Правильно: How many people?"
+    },
+    {
+      "id": "tq_11_04",
+      "type": "multipleChoice",
+      "question": "Какое выражение можно использовать и с исчисляемыми, и с неисчисляемыми?",
+      "options": [
+        "much",
+        "many",
+        "a lot of",
+        "a few"
+      ],
+      "correctIndex": 2,
+      "explanation": "A lot of — универсальное: a lot of books, a lot of water."
+    },
+    {
+      "id": "tq_11_05",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"I have ___ time.\" (немного)",
+      "options": [
+        "a few",
+        "a little",
+        "many",
+        "much"
+      ],
+      "correctIndex": 1,
+      "explanation": "Time — неисчисляемое, «немного» = a little: I have a little time."
+    },
+    {
+      "id": "tq_11_06",
+      "type": "trueFalse",
+      "question": "\"A few\" используется с исчисляемыми существительными.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "A few + исчисляемое: a few books, a few days, a few friends."
+    },
+    {
+      "id": "tq_11_07",
+      "type": "multipleChoice",
+      "question": "Как правильно: «Сколько денег?»",
+      "options": [
+        "How many money?",
+        "How much money?",
+        "How lot money?",
+        "How few money?"
+      ],
+      "correctIndex": 1,
+      "explanation": "Money — неисчисляемое: How much money?"
+    },
+    {
+      "id": "tq_11_08",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"She has ___ friends.\" (несколько)",
+      "options": [
+        "a little",
+        "a few",
+        "much",
+        "a lot"
+      ],
+      "correctIndex": 1,
+      "explanation": "Friends — исчисляемое, «несколько» = a few: She has a few friends."
+    },
+    {
+      "id": "tq_11_09",
+      "type": "trueFalse",
+      "question": "\"A little\" означает «немного» и используется с неисчисляемыми.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "A little + неисчисляемое: a little water, a little time, a little sugar."
+    },
+    {
+      "id": "tq_11_10",
+      "type": "multipleChoice",
+      "question": "Какое из этих существительных неисчисляемое?",
+      "options": [
+        "book",
+        "friend",
+        "water",
+        "day"
+      ],
+      "correctIndex": 2,
+      "explanation": "Water — неисчисляемое. Book, friend, day — исчисляемые."
+    }
+  ]
+}

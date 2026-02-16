@@ -1,0 +1,2108 @@
+{
+  "id": "intermediate_11_relative_clauses",
+  "title": "Relative Clauses",
+  "description": "Придаточные предложения. Слова Who, Which, That, Whose. Как уточнять информацию о людях и предметах.",
+  "order": 11,
+  "level": "intermediate",
+  "imageUrl": "assets/images/lessons/relative_clauses.png",
+  "vocabulary": [
+    {
+      "id": "v11_man",
+      "english": "man",
+      "russian": "мужчина (человек)",
+      "partOfSpeech": "noun",
+      "example": "The man who.",
+      "exampleTranslation": "Мужчина, который.",
+      "audioPath": "assets/audio/vocabulary/v11_man.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_man.mp3"
+    },
+    {
+      "id": "v11_help",
+      "english": "help",
+      "russian": "помогать",
+      "partOfSpeech": "verb",
+      "example": "Who helped me.",
+      "exampleTranslation": "Который помог мне.",
+      "audioPath": "assets/audio/vocabulary/v11_help.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_help.mp3"
+    },
+    {
+      "id": "v11_file",
+      "english": "file",
+      "russian": "файл (документ)",
+      "partOfSpeech": "noun",
+      "example": "Where is the file?",
+      "exampleTranslation": "Где файл?",
+      "audioPath": "assets/audio/vocabulary/v11_file.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_file.mp3"
+    },
+    {
+      "id": "v11_table",
+      "english": "table",
+      "russian": "стол",
+      "partOfSpeech": "noun",
+      "example": "On the table.",
+      "exampleTranslation": "На столе.",
+      "audioPath": "assets/audio/vocabulary/v11_table.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_table.mp3"
+    },
+    {
+      "id": "v11_house",
+      "english": "house",
+      "russian": "дом",
+      "partOfSpeech": "noun",
+      "example": "This is the house.",
+      "exampleTranslation": "Это дом.",
+      "audioPath": "assets/audio/vocabulary/v11_house.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_house.mp3"
+    },
+    {
+      "id": "v11_build",
+      "english": "build",
+      "russian": "строить",
+      "partOfSpeech": "verb",
+      "example": "Jack built.",
+      "exampleTranslation": "Джек построил.",
+      "audioPath": "assets/audio/vocabulary/v11_build.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_build.mp3"
+    },
+    {
+      "id": "v11_know",
+      "english": "know",
+      "russian": "знать",
+      "partOfSpeech": "verb",
+      "example": "I know a guy.",
+      "exampleTranslation": "Я знаю парня.",
+      "audioPath": "assets/audio/vocabulary/v11_know.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_know.mp3"
+    },
+    {
+      "id": "v11_guy",
+      "english": "guy",
+      "russian": "парень",
+      "partOfSpeech": "noun",
+      "example": "I know a guy.",
+      "exampleTranslation": "Я знаю парня.",
+      "audioPath": "assets/audio/vocabulary/v11_guy.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_guy.mp3"
+    },
+    {
+      "id": "v11_sister",
+      "english": "sister",
+      "russian": "сестра",
+      "partOfSpeech": "noun",
+      "example": "Whose sister.",
+      "exampleTranslation": "Чья сестра.",
+      "audioPath": "assets/audio/vocabulary/v11_sister.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_sister.mp3"
+    },
+    {
+      "id": "v11_actress",
+      "english": "actress",
+      "russian": "актриса",
+      "partOfSpeech": "noun",
+      "example": "Is an actress.",
+      "exampleTranslation": "Актриса.",
+      "audioPath": "assets/audio/vocabulary/v11_actress.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_actress.mp3"
+    },
+    {
+      "id": "v11_hotel",
+      "english": "hotel",
+      "russian": "отель",
+      "partOfSpeech": "noun",
+      "example": "The hotel.",
+      "exampleTranslation": "Отель.",
+      "audioPath": "assets/audio/vocabulary/v11_hotel.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_hotel.mp3"
+    },
+    {
+      "id": "v11_stay",
+      "english": "stay",
+      "russian": "останавливаться (жить)",
+      "partOfSpeech": "verb",
+      "example": "Where we stayed.",
+      "exampleTranslation": "Где мы останавливались.",
+      "audioPath": "assets/audio/vocabulary/v11_stay.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_stay.mp3"
+    },
+    {
+      "id": "v11_woman",
+      "english": "woman",
+      "russian": "женщина",
+      "partOfSpeech": "noun",
+      "example": "The woman.",
+      "exampleTranslation": "Женщина.",
+      "audioPath": "assets/audio/vocabulary/v11_woman.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_woman.mp3"
+    },
+    {
+      "id": "v11_live",
+      "english": "live",
+      "russian": "жить",
+      "partOfSpeech": "verb",
+      "example": "Who lives.",
+      "exampleTranslation": "Которая живет.",
+      "audioPath": "assets/audio/vocabulary/v11_live.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_live.mp3"
+    },
+    {
+      "id": "v11_door",
+      "english": "door",
+      "russian": "дверь",
+      "partOfSpeech": "noun",
+      "example": "Next door.",
+      "exampleTranslation": "По соседству (букв. следующая дверь).",
+      "audioPath": "assets/audio/vocabulary/v11_door.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_door.mp3"
+    },
+    {
+      "id": "v11_doctor",
+      "english": "doctor",
+      "russian": "врач",
+      "partOfSpeech": "noun",
+      "example": "Is a doctor.",
+      "exampleTranslation": "Врач.",
+      "audioPath": "assets/audio/vocabulary/v11_doctor.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_doctor.mp3"
+    },
+    {
+      "id": "v11_cake",
+      "english": "cake",
+      "russian": "торт",
+      "partOfSpeech": "noun",
+      "example": "The cake.",
+      "exampleTranslation": "Торт.",
+      "audioPath": "assets/audio/vocabulary/v11_cake.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_cake.mp3"
+    },
+    {
+      "id": "v11_bake",
+      "english": "bake",
+      "russian": "печь",
+      "partOfSpeech": "verb",
+      "example": "You baked.",
+      "exampleTranslation": "Ты испекла.",
+      "audioPath": "assets/audio/vocabulary/v11_bake.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_bake.mp3"
+    },
+    {
+      "id": "v11_delicious",
+      "english": "delicious",
+      "russian": "вкусный",
+      "partOfSpeech": "adjective",
+      "example": "Is delicious.",
+      "exampleTranslation": "Вкусный.",
+      "audioPath": "assets/audio/vocabulary/v11_delicious.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_delicious.mp3"
+    },
+    {
+      "id": "v11_people",
+      "english": "people",
+      "russian": "люди",
+      "partOfSpeech": "noun",
+      "example": "The people.",
+      "exampleTranslation": "Люди.",
+      "audioPath": "assets/audio/vocabulary/v11_people.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_people.mp3"
+    },
+    {
+      "id": "v11_friend",
+      "english": "friend",
+      "russian": "друг (дружелюбный)",
+      "partOfSpeech": "noun",
+      "example": "Friendly.",
+      "exampleTranslation": "Дружелюбный.",
+      "audioPath": "assets/audio/vocabulary/v11_friend.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_friend.mp3"
+    },
+    {
+      "id": "v11_bike",
+      "english": "bike",
+      "russian": "велосипед",
+      "partOfSpeech": "noun",
+      "example": "The bike.",
+      "exampleTranslation": "Велосипед.",
+      "audioPath": "assets/audio/vocabulary/v11_bike.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_bike.mp3"
+    },
+    {
+      "id": "v11_choose",
+      "english": "choose",
+      "russian": "выбирать",
+      "partOfSpeech": "verb",
+      "example": "I chose.",
+      "exampleTranslation": "Я выбрал.",
+      "audioPath": "assets/audio/vocabulary/v11_choose.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_choose.mp3"
+    },
+    {
+      "id": "v11_girl",
+      "english": "girl",
+      "russian": "девушка (девочка)",
+      "partOfSpeech": "noun",
+      "example": "The girl.",
+      "exampleTranslation": "Девушка.",
+      "audioPath": "assets/audio/vocabulary/v11_girl.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_girl.mp3"
+    },
+    {
+      "id": "v11_phone",
+      "english": "phone",
+      "russian": "телефон",
+      "partOfSpeech": "noun",
+      "example": "Whose phone.",
+      "exampleTranslation": "Чей телефон.",
+      "audioPath": "assets/audio/vocabulary/v11_phone.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_phone.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "Relative Clauses",
+    "subtitle": "Это «GPS-навигатор» в предложении. Он уточняет: «Какой именно человек?» или «Какая именно вещь?», чтобы собеседник не заблудился.",
+    "construction": {
+      "formula": "Noun + Who/Which/That + ...",
+      "rules": [
+        {
+          "word": "Who",
+          "description": "Только для людей. The man who called me (Человек, который позвонил мне)."
+        },
+        {
+          "word": "Which",
+          "description": "Для вещей и животных. The car which I bought (Машина, которую я купил)."
+        },
+        {
+          "word": "That",
+          "description": "Универсальный солдат. Можно использовать вместо Who и Which в простых предложениях. The man that called..."
+        },
+        {
+          "word": "Whose",
+          "description": "Принадлежность (Чей). The girl whose cat is lost (Девочка, чей кот потерялся)."
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "groups",
+        "color": "blue",
+        "title": "Люди (Who / That)",
+        "description": "Уточняем, кто это.",
+        "example": {
+          "english": "I met a girl who speaks Japanese.",
+          "russian": "Я встретил девушку, которая говорит по-японски."
+        }
+      },
+      {
+        "icon": "star",
+        "color": "green",
+        "title": "Вещи (Which / That)",
+        "description": "Уточняем характеристики предмета.",
+        "example": {
+          "english": "It is a book which changed my life.",
+          "russian": "Это книга, которая изменила мою жизнь."
+        }
+      },
+      {
+        "icon": "handshake",
+        "color": "purple",
+        "title": "Связь (Whose)",
+        "description": "Указываем на владельца.",
+        "example": {
+          "english": "He is the man whose car was stolen.",
+          "russian": "Он тот мужчина, чью машину украли."
+        }
+      }
+    ],
+    "markers": [
+      "who",
+      "which",
+      "that",
+      "whose",
+      "where"
+    ]
+  },
+  "tasks": [
+    {
+      "id": "t11_1",
+      "type": "sentenceAssembly",
+      "question": "Это человек, который помог мне",
+      "correctAnswer": "This is the man who helped me",
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "That",
+          "It",
+          "which"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "were"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "some"
+        ],
+        [
+          "man",
+          "person",
+          "boy",
+          "make"
+        ],
+        [
+          "who",
+          "which",
+          "whose",
+          "what"
+        ],
+        [
+          "helped",
+          "help",
+          "helping",
+          "wanted"
+        ],
+        [
+          "me",
+          "I",
+          "my",
+          "us"
+        ]
+      ],
+      "mistakeTags": [
+        "relative_clauses",
+        "who_which_that"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_11_relative_clauses/000.mp3"
+    },
+    {
+      "id": "t11_2",
+      "type": "sentenceAssembly",
+      "question": "Где файл который был здесь?",
+      "correctAnswer": "Where is the file which was here?",
+      "options": [],
+      "variants": [
+        [
+          "Where",
+          "What",
+          "When",
+          "How"
+        ],
+        [
+          "is",
+          "was",
+          "are",
+          "were"
+        ],
+        [
+          "the",
+          "a",
+          "my",
+          "this"
+        ],
+        [
+          "file",
+          "book",
+          "pen",
+          "bag"
+        ],
+        [
+          "which",
+          "that",
+          "who",
+          "where"
+        ],
+        [
+          "was",
+          "is",
+          "sat",
+          "went"
+        ],
+        [
+          "here",
+          "there",
+          "lost",
+          "new"
+        ]
+      ],
+      "mistakeTags": [
+        "relative_clauses",
+        "who_which_that"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_11_relative_clauses/001.mp3"
+    },
+    {
+      "id": "t11_3",
+      "type": "sentenceAssembly",
+      "question": "Это дом, который построил Джек",
+      "correctAnswer": "This is the house that Jack built",
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "It",
+          "They",
+          "I"
+        ],
+        [
+          "is",
+          "was",
+          "did",
+          "do"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "an"
+        ],
+        [
+          "house",
+          "home",
+          "first",
+          "long"
+        ],
+        [
+          "that",
+          "who",
+          "what",
+          "where"
+        ],
+        [
+          "Jack",
+          "John",
+          "come",
+          "want"
+        ],
+        [
+          "built",
+          "build",
+          "made",
+          "told"
+        ]
+      ],
+      "mistakeTags": [
+        "relative_clauses",
+        "who_which_that"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_11_relative_clauses/002.mp3"
+    },
+    {
+      "id": "t11_4",
+      "type": "sentenceAssembly",
+      "question": "Я знаю парня чья сестра поёт",
+      "correctAnswer": "I know a guy whose sister sings",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "know",
+          "met",
+          "saw",
+          "like"
+        ],
+        [
+          "a",
+          "the",
+          "my",
+          "one"
+        ],
+        [
+          "guy",
+          "man",
+          "girl",
+          "woman"
+        ],
+        [
+          "whose",
+          "who",
+          "which",
+          "that"
+        ],
+        [
+          "sister",
+          "brother",
+          "mother",
+          "friend"
+        ],
+        [
+          "sings",
+          "dances",
+          "cooks",
+          "paints"
+        ]
+      ],
+      "mistakeTags": [
+        "relative_clauses",
+        "who_which_that"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_11_relative_clauses/003.mp3"
+    },
+    {
+      "id": "t11_5",
+      "type": "sentenceAssembly",
+      "question": "Это отель, где мы останавливались",
+      "correctAnswer": "This is the hotel where we stayed",
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "It",
+          "He",
+          "You"
+        ],
+        [
+          "is",
+          "was",
+          "has",
+          "does"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "some"
+        ],
+        [
+          "hotel",
+          "room",
+          "house",
+          "small"
+        ],
+        [
+          "where",
+          "which",
+          "that",
+          "who"
+        ],
+        [
+          "we",
+          "us",
+          "She",
+          "You"
+        ],
+        [
+          "stayed",
+          "lived",
+          "stopped",
+          "said"
+        ]
+      ],
+      "mistakeTags": [
+        "relative_clauses",
+        "who_which_that"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_11_relative_clauses/004.mp3"
+    },
+    {
+      "id": "t11_6",
+      "type": "sentenceAssembly",
+      "question": "Женщина которая живёт здесь добрая",
+      "correctAnswer": "The woman who lives here is kind",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "This",
+          "That"
+        ],
+        [
+          "woman",
+          "man",
+          "girl",
+          "boy"
+        ],
+        [
+          "who",
+          "which",
+          "that",
+          "whom"
+        ],
+        [
+          "lives",
+          "works",
+          "stays",
+          "sits"
+        ],
+        [
+          "here",
+          "there",
+          "near",
+          "alone"
+        ],
+        [
+          "is",
+          "was",
+          "seems",
+          "looks"
+        ],
+        [
+          "kind",
+          "nice",
+          "smart",
+          "quiet"
+        ]
+      ],
+      "mistakeTags": [
+        "relative_clauses",
+        "who_which_that"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_11_relative_clauses/005.mp3"
+    },
+    {
+      "id": "t11_7",
+      "type": "sentenceAssembly",
+      "question": "Торт, который ты испекла, вкусный",
+      "correctAnswer": "The cake which you baked is delicious",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "some",
+          "an"
+        ],
+        [
+          "cake",
+          "food",
+          "bread",
+          "time"
+        ],
+        [
+          "which",
+          "who",
+          "what",
+          "where"
+        ],
+        [
+          "you",
+          "your",
+          "He",
+          "I"
+        ],
+        [
+          "baked",
+          "cook",
+          "made",
+          "said"
+        ],
+        [
+          "is",
+          "are",
+          "will",
+          "was"
+        ],
+        [
+          "delicious",
+          "tasty",
+          "good",
+          "thing"
+        ]
+      ],
+      "mistakeTags": [
+        "relative_clauses",
+        "who_which_that"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_11_relative_clauses/006.mp3"
+    },
+    {
+      "id": "t11_8",
+      "type": "sentenceAssembly",
+      "question": "Люди, которые живут здесь, дружелюбные",
+      "correctAnswer": "The people who live here are friendly",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "an",
+          "some"
+        ],
+        [
+          "people",
+          "person",
+          "humans",
+          "high"
+        ],
+        [
+          "who",
+          "which",
+          "that",
+          "where"
+        ],
+        [
+          "live",
+          "lives",
+          "living",
+          "doing"
+        ],
+        [
+          "here",
+          "there",
+          "now",
+          "often"
+        ],
+        [
+          "are",
+          "is",
+          "were",
+          "have"
+        ],
+        [
+          "friendly",
+          "kind",
+          "nice",
+          "way"
+        ]
+      ],
+      "mistakeTags": [
+        "relative_clauses",
+        "who_which_that"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_11_relative_clauses/007.mp3"
+    },
+    {
+      "id": "t11_9",
+      "type": "sentenceAssembly",
+      "question": "Велосипед который я выбрал быстрый",
+      "correctAnswer": "The bike which I chose is fast",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "This",
+          "That"
+        ],
+        [
+          "bike",
+          "car",
+          "phone",
+          "book"
+        ],
+        [
+          "which",
+          "that",
+          "who",
+          "whom"
+        ],
+        [
+          "I",
+          "he",
+          "she",
+          "we"
+        ],
+        [
+          "chose",
+          "bought",
+          "found",
+          "liked"
+        ],
+        [
+          "is",
+          "was",
+          "looks",
+          "seems"
+        ],
+        [
+          "fast",
+          "new",
+          "nice",
+          "red"
+        ]
+      ],
+      "mistakeTags": [
+        "relative_clauses",
+        "who_which_that"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_11_relative_clauses/008.mp3"
+    },
+    {
+      "id": "t11_10",
+      "type": "sentenceAssembly",
+      "question": "Девушка, чей телефон зазвонил, вышла",
+      "correctAnswer": "The girl whose phone rang left",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "an",
+          "some"
+        ],
+        [
+          "girl",
+          "woman",
+          "lady",
+          "early"
+        ],
+        [
+          "whose",
+          "who",
+          "which",
+          "that"
+        ],
+        [
+          "phone",
+          "cell",
+          "mobile",
+          "new"
+        ],
+        [
+          "rang",
+          "ring",
+          "rung",
+          "seeing"
+        ],
+        [
+          "left",
+          "leave",
+          "leaving",
+          "knowing"
+        ]
+      ],
+      "mistakeTags": [
+        "relative_clauses",
+        "who_which_that"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_11_relative_clauses/009.mp3"
+    },
+    {
+      "id": "t11_11",
+      "type": "sentenceAssembly",
+      "question": "Это клуб, где я танцую",
+      "correctAnswer": "This is the club where I dance",
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "That",
+          "It",
+          "whose"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "does"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "an"
+        ],
+        [
+          "club",
+          "cafe",
+          "place",
+          "make"
+        ],
+        [
+          "where",
+          "which",
+          "that",
+          "whom"
+        ],
+        [
+          "I",
+          "me",
+          "my",
+          "He"
+        ],
+        [
+          "dance",
+          "dances",
+          "dancing",
+          "wanting"
+        ]
+      ],
+      "mistakeTags": [
+        "relative_clauses",
+        "who_which_that"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_11_relative_clauses/010.mp3"
+    },
+    {
+      "id": "t11_12",
+      "type": "sentenceAssembly",
+      "question": "Фильм, который мы смотрели, был скучным",
+      "correctAnswer": "The film that we watched was boring",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "an",
+          "some"
+        ],
+        [
+          "film",
+          "movie",
+          "show",
+          "different"
+        ],
+        [
+          "that",
+          "who",
+          "what",
+          "which"
+        ],
+        [
+          "we",
+          "us",
+          "they",
+          "You"
+        ],
+        [
+          "watched",
+          "watch",
+          "watching",
+          "made"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "did"
+        ],
+        [
+          "boring",
+          "bored",
+          "dull",
+          "seeing"
+        ]
+      ],
+      "mistakeTags": [
+        "relative_clauses",
+        "who_which_that"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_11_relative_clauses/011.mp3"
+    },
+    {
+      "id": "t11_13",
+      "type": "sentenceAssembly",
+      "question": "Учитель, который преподает математику, строгий",
+      "correctAnswer": "The teacher who teaches maths is strict",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "an",
+          "some"
+        ],
+        [
+          "teacher",
+          "professor",
+          "tutor",
+          "first"
+        ],
+        [
+          "who",
+          "which",
+          "that",
+          "whose"
+        ],
+        [
+          "teaches",
+          "teach",
+          "teaching",
+          "thinking"
+        ],
+        [
+          "maths",
+          "math",
+          "mathematics",
+          "way"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "had"
+        ],
+        [
+          "strict",
+          "tough",
+          "hard",
+          "thing"
+        ]
+      ],
+      "mistakeTags": [
+        "relative_clauses",
+        "who_which_that"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_11_relative_clauses/012.mp3"
+    },
+    {
+      "id": "t11_14",
+      "type": "sentenceAssembly",
+      "question": "Песня, которую ты пела, красивая",
+      "correctAnswer": "The song which you sang is beautiful",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "some",
+          "an"
+        ],
+        [
+          "song",
+          "music",
+          "tune",
+          "know"
+        ],
+        [
+          "which",
+          "who",
+          "that",
+          "where"
+        ],
+        [
+          "you",
+          "your",
+          "she",
+          "They"
+        ],
+        [
+          "sang",
+          "sing",
+          "sung",
+          "saying"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "has"
+        ],
+        [
+          "beautiful",
+          "pretty",
+          "nice",
+          "life"
+        ]
+      ],
+      "mistakeTags": [
+        "relative_clauses",
+        "who_which_that"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_11_relative_clauses/013.mp3"
+    },
+    {
+      "id": "t11_15",
+      "type": "sentenceAssembly",
+      "question": "Мужчина чьи очки сломались был грустен",
+      "correctAnswer": "The man whose glasses broke was sad",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "This",
+          "That"
+        ],
+        [
+          "man",
+          "boy",
+          "woman",
+          "girl"
+        ],
+        [
+          "whose",
+          "who",
+          "which",
+          "that"
+        ],
+        [
+          "glasses",
+          "keys",
+          "phone",
+          "bag"
+        ],
+        [
+          "broke",
+          "fell",
+          "moved",
+          "changed"
+        ],
+        [
+          "was",
+          "is",
+          "felt",
+          "seemed"
+        ],
+        [
+          "sad",
+          "angry",
+          "upset",
+          "quiet"
+        ]
+      ],
+      "mistakeTags": [
+        "relative_clauses",
+        "who_which_that"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_11_relative_clauses/014.mp3"
+    },
+    {
+      "id": "t11_16",
+      "type": "sentenceAssembly",
+      "question": "Файлы, которые я читал, интересные",
+      "correctAnswer": "The files which I read are interesting",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "an",
+          "some"
+        ],
+        [
+          "files",
+          "file",
+          "novels",
+          "wrong"
+        ],
+        [
+          "which",
+          "who",
+          "that",
+          "where"
+        ],
+        [
+          "I",
+          "me",
+          "my",
+          "They"
+        ],
+        [
+          "read",
+          "reads",
+          "reading",
+          "using"
+        ],
+        [
+          "are",
+          "is",
+          "were",
+          "have"
+        ],
+        [
+          "interesting",
+          "interested",
+          "good",
+          "telling"
+        ]
+      ],
+      "mistakeTags": [
+        "relative_clauses",
+        "who_which_that"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_11_relative_clauses/015.mp3"
+    },
+    {
+      "id": "t11_17",
+      "type": "sentenceAssembly",
+      "question": "Она нашла ключи которые потерялись",
+      "correctAnswer": "She found the keys which were lost",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "They"
+        ],
+        [
+          "found",
+          "lost",
+          "saw",
+          "took"
+        ],
+        [
+          "the",
+          "my",
+          "her",
+          "some"
+        ],
+        [
+          "keys",
+          "books",
+          "bags",
+          "shoes"
+        ],
+        [
+          "which",
+          "that",
+          "who",
+          "whom"
+        ],
+        [
+          "were",
+          "was",
+          "are",
+          "got"
+        ],
+        [
+          "lost",
+          "broken",
+          "new",
+          "old"
+        ]
+      ],
+      "mistakeTags": [
+        "relative_clauses",
+        "who_which_that"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_11_relative_clauses/016.mp3"
+    },
+    {
+      "id": "t11_18",
+      "type": "sentenceAssembly",
+      "question": "Это место, где мы познакомились",
+      "correctAnswer": "This is the place where we met",
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "That",
+          "It",
+          "when"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "will"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "an"
+        ],
+        [
+          "place",
+          "spot",
+          "location",
+          "old"
+        ],
+        [
+          "where",
+          "which",
+          "that",
+          "when"
+        ],
+        [
+          "we",
+          "us",
+          "they",
+          "You"
+        ],
+        [
+          "met",
+          "meet",
+          "meeting",
+          "telling"
+        ]
+      ],
+      "mistakeTags": [
+        "relative_clauses",
+        "who_which_that"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_11_relative_clauses/017.mp3"
+    },
+    {
+      "id": "t11_19",
+      "type": "sentenceAssembly",
+      "question": "Компьютер, который сломался, был новым",
+      "correctAnswer": "The computer which broke was new",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "an",
+          "some"
+        ],
+        [
+          "computer",
+          "laptop",
+          "PC",
+          "high"
+        ],
+        [
+          "which",
+          "who",
+          "that",
+          "where"
+        ],
+        [
+          "broke",
+          "break",
+          "broken",
+          "know"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "should"
+        ],
+        [
+          "new",
+          "old",
+          "modern",
+          "way"
+        ]
+      ],
+      "mistakeTags": [
+        "relative_clauses",
+        "who_which_that"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_11_relative_clauses/018.mp3"
+    },
+    {
+      "id": "t11_20",
+      "type": "sentenceAssembly",
+      "question": "Город где я родился",
+      "correctAnswer": "The town where I was born",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "This",
+          "That"
+        ],
+        [
+          "town",
+          "city",
+          "place",
+          "village"
+        ],
+        [
+          "where",
+          "which",
+          "that",
+          "who"
+        ],
+        [
+          "I",
+          "he",
+          "she",
+          "we"
+        ],
+        [
+          "was",
+          "were",
+          "am",
+          "got"
+        ],
+        [
+          "born",
+          "raised",
+          "lost",
+          "found"
+        ]
+      ],
+      "mistakeTags": [
+        "relative_clauses",
+        "who_which_that"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_11_relative_clauses/019.mp3"
+    },
+    {
+      "id": "t11_21",
+      "type": "sentenceAssembly",
+      "question": "Собака, чей хозяин ушел, грустит",
+      "correctAnswer": "The dog whose owner left is sad",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "an",
+          "some"
+        ],
+        [
+          "dog",
+          "cat",
+          "pet",
+          "come"
+        ],
+        [
+          "whose",
+          "who",
+          "which",
+          "where"
+        ],
+        [
+          "owner",
+          "master",
+          "boss",
+          "get"
+        ],
+        [
+          "left",
+          "leave",
+          "leaving",
+          "wanting"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "did"
+        ],
+        [
+          "sad",
+          "upset",
+          "lonely",
+          "year"
+        ]
+      ],
+      "mistakeTags": [
+        "relative_clauses",
+        "who_which_that"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_11_relative_clauses/020.mp3"
+    },
+    {
+      "id": "t11_22",
+      "type": "sentenceAssembly",
+      "question": "Мне нравится еда которую мама готовит",
+      "correctAnswer": "I like the food that mom cooks",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "like",
+          "love",
+          "eat",
+          "want"
+        ],
+        [
+          "the",
+          "my",
+          "her",
+          "this"
+        ],
+        [
+          "food",
+          "cake",
+          "soup",
+          "bread"
+        ],
+        [
+          "that",
+          "which",
+          "who",
+          "whom"
+        ],
+        [
+          "mom",
+          "she",
+          "dad",
+          "he"
+        ],
+        [
+          "cooks",
+          "makes",
+          "bakes",
+          "brings"
+        ]
+      ],
+      "mistakeTags": [
+        "relative_clauses",
+        "who_which_that"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_11_relative_clauses/021.mp3"
+    },
+    {
+      "id": "t11_23",
+      "type": "sentenceAssembly",
+      "question": "Девочка, которая выиграла, очень талантливая",
+      "correctAnswer": "The girl who won is very talented",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "some",
+          "an"
+        ],
+        [
+          "girl",
+          "woman",
+          "lady",
+          "want"
+        ],
+        [
+          "who",
+          "which",
+          "that",
+          "when"
+        ],
+        [
+          "won",
+          "win",
+          "wins",
+          "week"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "should"
+        ],
+        [
+          "very",
+          "so",
+          "too",
+          "though"
+        ],
+        [
+          "talented",
+          "gifted",
+          "skilled",
+          "went"
+        ]
+      ],
+      "mistakeTags": [
+        "relative_clauses",
+        "who_which_that"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_11_relative_clauses/022.mp3"
+    },
+    {
+      "id": "t11_24",
+      "type": "sentenceAssembly",
+      "question": "Парк, где мы гуляли, красивый",
+      "correctAnswer": "The park where we walked is beautiful",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "an",
+          "some"
+        ],
+        [
+          "park",
+          "garden",
+          "square",
+          "get"
+        ],
+        [
+          "where",
+          "which",
+          "that",
+          "when"
+        ],
+        [
+          "we",
+          "us",
+          "they",
+          "He"
+        ],
+        [
+          "walked",
+          "walk",
+          "walking",
+          "saw"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "does"
+        ],
+        [
+          "beautiful",
+          "pretty",
+          "nice",
+          "say"
+        ]
+      ],
+      "mistakeTags": [
+        "relative_clauses",
+        "who_which_that"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_11_relative_clauses/023.mp3"
+    },
+    {
+      "id": "t11_25",
+      "type": "sentenceAssembly",
+      "question": "Идея, которую ты предложил, гениальная",
+      "correctAnswer": "The idea which you suggested is brilliant",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "An",
+          "some"
+        ],
+        [
+          "idea",
+          "plan",
+          "thought",
+          "took"
+        ],
+        [
+          "which",
+          "who",
+          "that",
+          "whom"
+        ],
+        [
+          "you",
+          "your",
+          "he",
+          "We"
+        ],
+        [
+          "suggested",
+          "suggest",
+          "suggesting",
+          "told"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "would"
+        ],
+        [
+          "brilliant",
+          "great",
+          "genius",
+          "different"
+        ]
+      ],
+      "mistakeTags": [
+        "relative_clauses",
+        "who_which_that"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_11_relative_clauses/024.mp3"
+    },
+    {
+      "id": "t11_26",
+      "type": "sentenceAssembly",
+      "question": "Отель где мы остановились был хороший",
+      "correctAnswer": "The hotel where we stayed was nice",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "This",
+          "That"
+        ],
+        [
+          "hotel",
+          "house",
+          "place",
+          "room"
+        ],
+        [
+          "where",
+          "which",
+          "that",
+          "who"
+        ],
+        [
+          "we",
+          "I",
+          "they",
+          "she"
+        ],
+        [
+          "stayed",
+          "lived",
+          "slept",
+          "worked"
+        ],
+        [
+          "was",
+          "is",
+          "seemed",
+          "looked"
+        ],
+        [
+          "nice",
+          "clean",
+          "big",
+          "old"
+        ]
+      ],
+      "mistakeTags": [
+        "relative_clauses",
+        "who_which_that"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_11_relative_clauses/025.mp3"
+    },
+    {
+      "id": "t11_27",
+      "type": "sentenceAssembly",
+      "question": "Магазин, который открылся, продает одежду",
+      "correctAnswer": "The shop that opened sells clothes",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "some",
+          "an"
+        ],
+        [
+          "shop",
+          "store",
+          "market",
+          "first"
+        ],
+        [
+          "that",
+          "who",
+          "which",
+          "where"
+        ],
+        [
+          "opened",
+          "open",
+          "opening",
+          "thought"
+        ],
+        [
+          "sells",
+          "sell",
+          "selling",
+          "going"
+        ],
+        [
+          "clothes",
+          "clothing",
+          "dress",
+          "finding"
+        ]
+      ],
+      "mistakeTags": [
+        "relative_clauses",
+        "who_which_that"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_11_relative_clauses/026.mp3"
+    },
+    {
+      "id": "t11_28",
+      "type": "sentenceAssembly",
+      "question": "Письмо, которое я получил, было важным",
+      "correctAnswer": "The letter which I received was important",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "an",
+          "some"
+        ],
+        [
+          "letter",
+          "mail",
+          "message",
+          "day"
+        ],
+        [
+          "which",
+          "who",
+          "that",
+          "whom"
+        ],
+        [
+          "I",
+          "me",
+          "my",
+          "He"
+        ],
+        [
+          "received",
+          "receive",
+          "got",
+          "told"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "did"
+        ],
+        [
+          "important",
+          "urgent",
+          "serious",
+          "hand"
+        ]
+      ],
+      "mistakeTags": [
+        "relative_clauses",
+        "who_which_that"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_11_relative_clauses/027.mp3"
+    },
+    {
+      "id": "t11_29",
+      "type": "sentenceAssembly",
+      "question": "Врач, который меня лечил, опытный",
+      "correctAnswer": "The doctor who treated me is experienced",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "some",
+          "an"
+        ],
+        [
+          "doctor",
+          "physician",
+          "nurse",
+          "great"
+        ],
+        [
+          "who",
+          "which",
+          "that",
+          "when"
+        ],
+        [
+          "treated",
+          "treat",
+          "treating",
+          "knew"
+        ],
+        [
+          "me",
+          "I",
+          "my",
+          "him"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "did"
+        ],
+        [
+          "experienced",
+          "expert",
+          "skilled",
+          "wanted"
+        ]
+      ],
+      "mistakeTags": [
+        "relative_clauses",
+        "who_which_that"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_11_relative_clauses/028.mp3"
+    },
+    {
+      "id": "t11_30",
+      "type": "sentenceAssembly",
+      "question": "Собака которую я нашёл дружелюбная",
+      "correctAnswer": "The dog which I found is friendly",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "This",
+          "That"
+        ],
+        [
+          "dog",
+          "cat",
+          "bird",
+          "horse"
+        ],
+        [
+          "which",
+          "that",
+          "who",
+          "whom"
+        ],
+        [
+          "I",
+          "he",
+          "she",
+          "we"
+        ],
+        [
+          "found",
+          "saw",
+          "chose",
+          "liked"
+        ],
+        [
+          "is",
+          "was",
+          "seems",
+          "looks"
+        ],
+        [
+          "friendly",
+          "cute",
+          "small",
+          "smart"
+        ]
+      ],
+      "mistakeTags": [
+        "relative_clauses",
+        "who_which_that"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_11_relative_clauses/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionIntermediate11RelativeClauses",
+  "theoryQuiz": [
+    {
+      "id": "tq_01",
+      "type": "trueFalse",
+      "question": "'Who' используется для людей в relative clauses.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Who относится к людям: The man who called you is here."
+    },
+    {
+      "id": "tq_02",
+      "type": "multipleChoice",
+      "question": "Какое слово используется для вещей и животных?",
+      "options": [
+        "who",
+        "which",
+        "when",
+        "where"
+      ],
+      "correctIndex": 1,
+      "explanation": "Which используется для вещей и животных: The book which I read was great."
+    },
+    {
+      "id": "tq_03",
+      "type": "multipleChoice",
+      "question": "Какое слово можно использовать и для людей, и для вещей?",
+      "options": [
+        "who",
+        "which",
+        "that",
+        "where"
+      ],
+      "correctIndex": 2,
+      "explanation": "That — универсальное слово для людей и вещей в defining clauses."
+    },
+    {
+      "id": "tq_04",
+      "type": "trueFalse",
+      "question": "'Where' используется для мест в relative clauses.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Where относится к местам: The city where I was born is beautiful."
+    },
+    {
+      "id": "tq_05",
+      "type": "multipleChoice",
+      "question": "Что такое defining relative clause?",
+      "options": [
+        "Добавляет информацию, с запятыми",
+        "Уточняет кто/что, без запятых",
+        "Всегда начинается с that",
+        "Всегда в конце предложения"
+      ],
+      "correctIndex": 1,
+      "explanation": "Defining clause уточняет, о ком/чём речь, и не выделяется запятыми."
+    },
+    {
+      "id": "tq_06",
+      "type": "trueFalse",
+      "question": "В non-defining relative clauses можно использовать 'that'.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "В non-defining clauses that не используется — только who, which и др."
+    },
+    {
+      "id": "tq_07",
+      "type": "multipleChoice",
+      "question": "Какое предложение содержит non-defining relative clause?",
+      "options": [
+        "The man who lives here is kind.",
+        "The book that I read was good.",
+        "My sister, who lives in London, is a doctor.",
+        "I know the place where he works."
+      ],
+      "correctIndex": 2,
+      "explanation": "Запятые вокруг 'who lives in London' указывают на non-defining clause."
+    },
+    {
+      "id": "tq_08",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: The day ___ we met was special.",
+      "options": [
+        "who",
+        "which",
+        "where",
+        "when"
+      ],
+      "correctIndex": 3,
+      "explanation": "When используется для времени: The day when we met."
+    },
+    {
+      "id": "tq_09",
+      "type": "trueFalse",
+      "question": "Non-defining relative clauses выделяются запятыми.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Non-defining clauses добавляют дополнительную информацию и всегда выделяются запятыми."
+    },
+    {
+      "id": "tq_10",
+      "type": "multipleChoice",
+      "question": "Какое предложение содержит ошибку?",
+      "options": [
+        "The girl who sings is my friend.",
+        "The car which I bought is red.",
+        "My brother, that lives abroad, called me.",
+        "The park where we play is big."
+      ],
+      "correctIndex": 2,
+      "explanation": "В non-defining clause нельзя использовать that: правильно — who lives abroad."
+    }
+  ]
+}

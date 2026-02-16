@@ -1,0 +1,15 @@
+{
+  "type": "binary_choice",
+  "lessons": [
+    {"id": "upper_bc_01_past_perfect", "file": "had_vs_has.json", "order": 1},
+    {"id": "upper_bc_02_future_perfect", "file": "will_have_vs_will.json", "order": 2},
+    {"id": "upper_bc_03_conditionals_0_1", "file": "unless_vs_if.json", "order": 3},
+    {"id": "upper_bc_04_conditionals_2_3", "file": "would_vs_would_have.json", "order": 4},
+    {"id": "upper_bc_05_passive_simple", "file": "was_vs_were.json", "order": 5},
+    {"id": "upper_bc_06_passive_continuous_perfect", "file": "being_vs_been.json", "order": 6},
+    {"id": "upper_bc_07_phrasal_verbs", "file": "up_vs_out.json", "order": 7},
+    {"id": "upper_bc_08_modal_may_might_could", "file": "may_vs_might.json", "order": 8},
+    {"id": "upper_bc_09_gerund_infinitive", "file": "doing_vs_to_do.json", "order": 9},
+    {"id": "upper_bc_10_future_in_the_past", "file": "would_vs_will.json", "order": 10}
+  ]
+}

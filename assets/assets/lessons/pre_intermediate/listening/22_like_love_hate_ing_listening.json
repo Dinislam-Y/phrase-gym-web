@@ -1,0 +1,476 @@
+{
+  "id": "pre_listening_22_like_love_hate_ing",
+  "title": "Like / Love / Hate + -ing",
+  "description": "Слушайте, что люди любят или не любят делать.",
+  "order": 22,
+  "level": "pre_intermediate",
+  "imageUrl": "assets/images/lessons/like_love_hate_ing.png",
+  "tasks": [
+    {
+      "id": "t22_01",
+      "audioText": "Tell me about your hobbies. I love swimming in the sea.",
+      "transcript": "I love swimming in the sea.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The person really enjoys sea swimming."
+        },
+        {
+          "id": "o2",
+          "text": "The person hates swimming."
+        },
+        {
+          "id": "o3",
+          "text": "The person swims in a pool only."
+        },
+        {
+          "id": "o4",
+          "text": "The person is afraid of water."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Love swimming' means the person really enjoys this activity.",
+      "mistakeTags": [
+        "outdoor",
+        "like_love_hate_ing",
+        "gerund"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_22_like_love_hate_ing/t22_01.mp3"
+    },
+    {
+      "id": "t22_02",
+      "audioText": "My brother is very different from me. He hates getting up early in the morning.",
+      "transcript": "He hates getting up early in the morning.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He enjoys waking up early."
+        },
+        {
+          "id": "o2",
+          "text": "He really dislikes waking up early."
+        },
+        {
+          "id": "o3",
+          "text": "He always gets up early."
+        },
+        {
+          "id": "o4",
+          "text": "He wakes up late every day by choice."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Hates getting up early' means he strongly dislikes it.",
+      "mistakeTags": [
+        "home",
+        "like_love_hate_ing",
+        "gerund"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_22_like_love_hate_ing/t22_02.mp3"
+    },
+    {
+      "id": "t22_03",
+      "audioText": "We do many things on weekends. We like playing board games together.",
+      "transcript": "We like playing board games together.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "They do not enjoy board games."
+        },
+        {
+          "id": "o2",
+          "text": "They play video games, not board games."
+        },
+        {
+          "id": "o3",
+          "text": "They enjoy playing board games as a group."
+        },
+        {
+          "id": "o4",
+          "text": "They play board games alone."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Like playing' means they enjoy doing this activity.",
+      "mistakeTags": [
+        "home",
+        "like_love_hate_ing",
+        "gerund"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_22_like_love_hate_ing/t22_03.mp3"
+    },
+    {
+      "id": "t22_04",
+      "audioText": "My daughter is very creative. She enjoys painting pictures after school.",
+      "transcript": "She enjoys painting pictures after school.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She likes to paint after school."
+        },
+        {
+          "id": "o2",
+          "text": "She dislikes painting."
+        },
+        {
+          "id": "o3",
+          "text": "She paints before school."
+        },
+        {
+          "id": "o4",
+          "text": "She takes photos after school."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Enjoys painting' means she gets pleasure from this activity.",
+      "mistakeTags": [
+        "home",
+        "like_love_hate_ing",
+        "gerund"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_22_like_love_hate_ing/t22_04.mp3"
+    },
+    {
+      "id": "t22_05",
+      "audioText": "I feel stressed at work every day. I hate sitting at a desk for eight hours.",
+      "transcript": "I hate sitting at a desk for eight hours.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The person likes sitting at a desk."
+        },
+        {
+          "id": "o2",
+          "text": "The person strongly dislikes sitting all day."
+        },
+        {
+          "id": "o3",
+          "text": "The person sits for only two hours."
+        },
+        {
+          "id": "o4",
+          "text": "The person works standing up."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Hate sitting' means the person strongly dislikes this activity.",
+      "mistakeTags": [
+        "office",
+        "like_love_hate_ing",
+        "gerund"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_22_like_love_hate_ing/t22_05.mp3"
+    },
+    {
+      "id": "t22_06",
+      "audioText": "My grandmother is a good cook. She loves baking cakes for the family.",
+      "transcript": "She loves baking cakes for the family.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Grandmother really enjoys making cakes."
+        },
+        {
+          "id": "o2",
+          "text": "Grandmother dislikes baking."
+        },
+        {
+          "id": "o3",
+          "text": "Grandmother buys cakes from a shop."
+        },
+        {
+          "id": "o4",
+          "text": "Grandmother bakes bread, not cakes."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Loves baking' means she gets great pleasure from making cakes.",
+      "mistakeTags": [
+        "home",
+        "like_love_hate_ing",
+        "gerund"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_22_like_love_hate_ing/t22_06.mp3"
+    },
+    {
+      "id": "t22_07",
+      "audioText": "I go to the gym after work. I like running on the treadmill.",
+      "transcript": "I like running on the treadmill.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The person enjoys using the treadmill."
+        },
+        {
+          "id": "o2",
+          "text": "The person hates the treadmill."
+        },
+        {
+          "id": "o3",
+          "text": "The person runs outside, not on a treadmill."
+        },
+        {
+          "id": "o4",
+          "text": "The person lifts weights only."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Like running' means the person enjoys this exercise.",
+      "mistakeTags": [
+        "gym",
+        "like_love_hate_ing",
+        "gerund"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_22_like_love_hate_ing/t22_07.mp3"
+    },
+    {
+      "id": "t22_08",
+      "audioText": "We all have different tastes. My husband hates watching romantic films.",
+      "transcript": "My husband hates watching romantic films.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Her husband loves romantic films."
+        },
+        {
+          "id": "o2",
+          "text": "Her husband really dislikes romantic movies."
+        },
+        {
+          "id": "o3",
+          "text": "Her husband watches romantic films every day."
+        },
+        {
+          "id": "o4",
+          "text": "Her husband likes all types of films."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Hates watching' means he strongly dislikes this type of film.",
+      "mistakeTags": [
+        "home",
+        "like_love_hate_ing",
+        "gerund"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_22_like_love_hate_ing/t22_08.mp3"
+    },
+    {
+      "id": "t22_09",
+      "audioText": "My cat is very playful. She enjoys chasing butterflies in the garden.",
+      "transcript": "She enjoys chasing butterflies in the garden.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The cat likes running after butterflies."
+        },
+        {
+          "id": "o2",
+          "text": "The cat sleeps in the garden."
+        },
+        {
+          "id": "o3",
+          "text": "The cat is afraid of butterflies."
+        },
+        {
+          "id": "o4",
+          "text": "The cat stays inside the house."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Enjoys chasing' means the cat likes this activity.",
+      "mistakeTags": [
+        "home",
+        "like_love_hate_ing",
+        "gerund"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_22_like_love_hate_ing/t22_09.mp3"
+    },
+    {
+      "id": "t22_10",
+      "audioText": "I stay home on rainy days. I love reading books with a cup of tea.",
+      "transcript": "I love reading books with a cup of tea.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The person dislikes reading."
+        },
+        {
+          "id": "o2",
+          "text": "The person really enjoys reading and drinking tea."
+        },
+        {
+          "id": "o3",
+          "text": "The person reads books at a cafe."
+        },
+        {
+          "id": "o4",
+          "text": "The person prefers coffee over tea."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Love reading' means the person gets great enjoyment from books.",
+      "mistakeTags": [
+        "home",
+        "like_love_hate_ing",
+        "gerund"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_22_like_love_hate_ing/t22_10.mp3"
+    },
+    {
+      "id": "t22_11",
+      "audioText": "Traffic is terrible in this city. I hate driving during rush hour.",
+      "transcript": "I hate driving during rush hour.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The person enjoys driving in traffic."
+        },
+        {
+          "id": "o2",
+          "text": "The person strongly dislikes driving in busy traffic."
+        },
+        {
+          "id": "o3",
+          "text": "The person takes the bus during rush hour."
+        },
+        {
+          "id": "o4",
+          "text": "There is no traffic in this city."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Hate driving during rush hour' means the person strongly dislikes it.",
+      "mistakeTags": [
+        "street",
+        "like_love_hate_ing",
+        "gerund"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_22_like_love_hate_ing/t22_11.mp3"
+    },
+    {
+      "id": "t22_12",
+      "audioText": "My son is always on his phone. He likes playing video games online.",
+      "transcript": "He likes playing video games online.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He enjoys online video games."
+        },
+        {
+          "id": "o2",
+          "text": "He dislikes video games."
+        },
+        {
+          "id": "o3",
+          "text": "He plays board games instead."
+        },
+        {
+          "id": "o4",
+          "text": "He reads books on his phone."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Likes playing' means the boy enjoys this activity.",
+      "mistakeTags": [
+        "home",
+        "like_love_hate_ing",
+        "gerund"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_22_like_love_hate_ing/t22_12.mp3"
+    },
+    {
+      "id": "t22_13",
+      "audioText": "We have different morning routines. My wife loves listening to music while cooking.",
+      "transcript": "My wife loves listening to music while cooking.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "His wife really enjoys music during cooking."
+        },
+        {
+          "id": "o2",
+          "text": "His wife hates music in the kitchen."
+        },
+        {
+          "id": "o3",
+          "text": "His wife listens to music at work."
+        },
+        {
+          "id": "o4",
+          "text": "His wife watches TV while cooking."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Loves listening to music' means she gets great pleasure from it.",
+      "mistakeTags": [
+        "home",
+        "like_love_hate_ing",
+        "gerund"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_22_like_love_hate_ing/t22_13.mp3"
+    },
+    {
+      "id": "t22_14",
+      "audioText": "The weekend is here at last. I enjoy walking in the park on Sundays.",
+      "transcript": "I enjoy walking in the park on Sundays.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The person likes park walks on Sundays."
+        },
+        {
+          "id": "o2",
+          "text": "The person dislikes the park."
+        },
+        {
+          "id": "o3",
+          "text": "The person walks in the park on Mondays."
+        },
+        {
+          "id": "o4",
+          "text": "The person drives through the park."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Enjoy walking' means the person likes this weekend activity.",
+      "mistakeTags": [
+        "park",
+        "like_love_hate_ing",
+        "gerund"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_22_like_love_hate_ing/t22_14.mp3"
+    },
+    {
+      "id": "t22_15",
+      "audioText": "My boss is very strict about reports. I don't like writing long reports every week.",
+      "transcript": "I don't like writing long reports every week.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The person loves writing reports."
+        },
+        {
+          "id": "o2",
+          "text": "The person writes reports once a month."
+        },
+        {
+          "id": "o3",
+          "text": "The person does not enjoy weekly report writing."
+        },
+        {
+          "id": "o4",
+          "text": "The boss writes the reports."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Don't like writing' means the person does not enjoy this task.",
+      "mistakeTags": [
+        "office",
+        "like_love_hate_ing",
+        "gerund"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_22_like_love_hate_ing/t22_15.mp3"
+    }
+  ],
+  "short_description": "Like / Love / Hate + -ing: что нравится и не нравится делать"
+}

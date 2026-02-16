@@ -1,0 +1,1371 @@
+{
+  "id": "pre_16_wh_questions",
+  "title": "Wh- Questions",
+  "description": "Вопросительные слова: What, Where, When, Who, Why, How. Открытые вопросы в разных временах.",
+  "order": 9,
+  "level": "pre_intermediate",
+  "imageUrl": "assets/images/lessons/wh_questions.png",
+  "vocabulary": [
+    {
+      "id": "v9_what",
+      "english": "what",
+      "russian": "что, какой",
+      "partOfSpeech": "pronoun",
+      "example": "What is your name?",
+      "exampleTranslation": "Как тебя зовут?",
+      "audioPath": "assets/audio/vocabulary/v9_what.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_what.mp3"
+    },
+    {
+      "id": "v9_where",
+      "english": "where",
+      "russian": "где, куда",
+      "partOfSpeech": "adverb",
+      "example": "Where do you live?",
+      "exampleTranslation": "Где ты живёшь?",
+      "audioPath": "assets/audio/vocabulary/v9_where.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_where.mp3"
+    },
+    {
+      "id": "v9_when",
+      "english": "when",
+      "russian": "когда",
+      "partOfSpeech": "adverb",
+      "example": "When do you work?",
+      "exampleTranslation": "Когда ты работаешь?",
+      "audioPath": "assets/audio/vocabulary/v9_when.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_when.mp3"
+    },
+    {
+      "id": "v9_who",
+      "english": "who",
+      "russian": "кто",
+      "partOfSpeech": "pronoun",
+      "example": "Who is he?",
+      "exampleTranslation": "Кто он?",
+      "audioPath": "assets/audio/vocabulary/v9_who.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_who.mp3"
+    },
+    {
+      "id": "v9_why",
+      "english": "why",
+      "russian": "почему",
+      "partOfSpeech": "adverb",
+      "example": "Why are you sad?",
+      "exampleTranslation": "Почему тебе грустно?",
+      "audioPath": "assets/audio/vocabulary/v9_why.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_why.mp3"
+    },
+    {
+      "id": "v9_how",
+      "english": "how",
+      "russian": "как",
+      "partOfSpeech": "adverb",
+      "example": "How are you?",
+      "exampleTranslation": "Как дела?",
+      "audioPath": "assets/audio/vocabulary/v9_how.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_how.mp3"
+    },
+    {
+      "id": "v9_name",
+      "english": "name",
+      "russian": "имя",
+      "partOfSpeech": "noun",
+      "example": "What is your name?",
+      "exampleTranslation": "Как тебя зовут?",
+      "audioPath": "assets/audio/vocabulary/v9_name.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_name.mp3"
+    },
+    {
+      "id": "v9_old",
+      "english": "old",
+      "russian": "старый (о возрасте)",
+      "partOfSpeech": "adjective",
+      "example": "How old are you?",
+      "exampleTranslation": "Сколько тебе лет?",
+      "audioPath": "assets/audio/vocabulary/v9_old.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_old.mp3"
+    },
+    {
+      "id": "v9_time",
+      "english": "time",
+      "russian": "время",
+      "partOfSpeech": "noun",
+      "example": "What time is it?",
+      "exampleTranslation": "Который час?",
+      "audioPath": "assets/audio/vocabulary/v9_time.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_time.mp3"
+    },
+    {
+      "id": "v9_come",
+      "english": "come",
+      "russian": "приходить",
+      "partOfSpeech": "verb",
+      "example": "When does he come?",
+      "exampleTranslation": "Когда он приходит?",
+      "audioPath": "assets/audio/vocabulary/v9_come.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_come.mp3"
+    },
+    {
+      "id": "v9_start",
+      "english": "start",
+      "russian": "начинать",
+      "partOfSpeech": "verb",
+      "example": "When does it start?",
+      "exampleTranslation": "Когда это начинается?",
+      "audioPath": "assets/audio/vocabulary/v9_start.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_start.mp3"
+    },
+    {
+      "id": "v9_call",
+      "english": "call",
+      "russian": "звонить, называть",
+      "partOfSpeech": "verb",
+      "example": "Who do you call?",
+      "exampleTranslation": "Кому ты звонишь?",
+      "audioPath": "assets/audio/vocabulary/v9_call.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_call.mp3"
+    },
+    {
+      "id": "v9_cost",
+      "english": "cost",
+      "russian": "стоить",
+      "partOfSpeech": "verb",
+      "example": "How much does it cost?",
+      "exampleTranslation": "Сколько это стоит?",
+      "audioPath": "assets/audio/vocabulary/v9_cost.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_cost.mp3"
+    },
+    {
+      "id": "v9_favorite",
+      "english": "favorite",
+      "russian": "любимый",
+      "partOfSpeech": "adjective",
+      "example": "What is your favorite color?",
+      "exampleTranslation": "Какой твой любимый цвет?",
+      "audioPath": "assets/audio/vocabulary/v9_favorite.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_favorite.mp3"
+    },
+    {
+      "id": "v9_color",
+      "english": "color",
+      "russian": "цвет",
+      "partOfSpeech": "noun",
+      "example": "What color is it?",
+      "exampleTranslation": "Какого это цвета?",
+      "audioPath": "assets/audio/vocabulary/v9_color.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_color.mp3"
+    },
+    {
+      "id": "v9_mean",
+      "english": "mean",
+      "russian": "значить, означать",
+      "partOfSpeech": "verb",
+      "example": "What does it mean?",
+      "exampleTranslation": "Что это значит?",
+      "audioPath": "assets/audio/vocabulary/v9_mean.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_mean.mp3"
+    },
+    {
+      "id": "v9_happen",
+      "english": "happen",
+      "russian": "происходить, случаться",
+      "partOfSpeech": "verb",
+      "example": "What happened?",
+      "exampleTranslation": "Что случилось?",
+      "audioPath": "assets/audio/vocabulary/v9_happen.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_happen.mp3"
+    },
+    {
+      "id": "v9_far",
+      "english": "far",
+      "russian": "далеко",
+      "partOfSpeech": "adverb",
+      "example": "How far is it?",
+      "exampleTranslation": "Как далеко это?",
+      "audioPath": "assets/audio/vocabulary/v9_far.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_far.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "Wh- Questions",
+    "subtitle": "Вопросительные слова открывают двери к информации. С ними вы задаёте открытые вопросы — не просто «да/нет», а конкретные.",
+    "construction": {
+      "formula": "Wh- + do/does/is/are/was/were + S + V",
+      "rules": [
+        {
+          "word": "What",
+          "description": "Что? Какой? — What do you want? What is your name?"
+        },
+        {
+          "word": "Where",
+          "description": "Где? Куда? — Where do you live? Where is the shop?"
+        },
+        {
+          "word": "When",
+          "description": "Когда? — When do you work? When is the meeting?"
+        },
+        {
+          "word": "Who",
+          "description": "Кто? — Who is he? Who called you?"
+        },
+        {
+          "word": "Why",
+          "description": "Почему? — Why are you late? Why do you study?"
+        },
+        {
+          "word": "How",
+          "description": "Как? — How are you? How do you cook this?"
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "explore",
+        "color": "blue",
+        "title": "Узнаём информацию",
+        "description": "Задаём открытые вопросы, чтобы получить конкретный ответ.",
+        "example": {
+          "english": "Where do you work?",
+          "russian": "Где ты работаешь?"
+        }
+      },
+      {
+        "icon": "groups",
+        "color": "purple",
+        "title": "Знакомство и общение",
+        "description": "Спрашиваем имя, возраст, место жительства.",
+        "example": {
+          "english": "What is your name?",
+          "russian": "Как тебя зовут?"
+        }
+      },
+      {
+        "icon": "schedule",
+        "color": "orange",
+        "title": "Время и расписание",
+        "description": "Уточняем, когда что-то происходит.",
+        "example": {
+          "english": "When does the train leave?",
+          "russian": "Когда уходит поезд?"
+        }
+      }
+    ],
+    "markers": [
+      "what",
+      "where",
+      "when",
+      "who",
+      "why",
+      "how"
+    ]
+  },
+  "tasks": [
+    {
+      "id": "t9_1",
+      "type": "sentenceAssembly",
+      "question": "Где ты живёшь?",
+      "correctAnswer": "Where do you live",
+      "options": [],
+      "variants": [
+        [
+          "Where",
+          "What",
+          "When",
+          "Who"
+        ],
+        [
+          "do",
+          "does",
+          "is",
+          "are"
+        ],
+        [
+          "you",
+          "he",
+          "she",
+          "they"
+        ],
+        [
+          "live",
+          "lives",
+          "living",
+          "work"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_16_wh_questions/000.mp3"
+    },
+    {
+      "id": "t9_2",
+      "type": "sentenceAssembly",
+      "question": "Что это?",
+      "correctAnswer": "What is this",
+      "options": [],
+      "variants": [
+        [
+          "What",
+          "Where",
+          "Who",
+          "When"
+        ],
+        [
+          "is",
+          "are",
+          "do",
+          "does"
+        ],
+        [
+          "this",
+          "that",
+          "these",
+          "it"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_16_wh_questions/001.mp3"
+    },
+    {
+      "id": "t9_3",
+      "type": "sentenceAssembly",
+      "question": "Кто он?",
+      "correctAnswer": "Who is he",
+      "options": [],
+      "variants": [
+        [
+          "Who",
+          "What",
+          "Where",
+          "Why"
+        ],
+        [
+          "is",
+          "are",
+          "do",
+          "does"
+        ],
+        [
+          "he",
+          "she",
+          "they",
+          "him"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_16_wh_questions/002.mp3"
+    },
+    {
+      "id": "t9_4",
+      "type": "sentenceAssembly",
+      "question": "Когда ты работаешь?",
+      "correctAnswer": "When do you work",
+      "options": [],
+      "variants": [
+        [
+          "When",
+          "Where",
+          "What",
+          "Why"
+        ],
+        [
+          "do",
+          "does",
+          "is",
+          "are"
+        ],
+        [
+          "you",
+          "he",
+          "she",
+          "they"
+        ],
+        [
+          "work",
+          "works",
+          "working",
+          "live"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_16_wh_questions/003.mp3"
+    },
+    {
+      "id": "t9_5",
+      "type": "sentenceAssembly",
+      "question": "Как дела?",
+      "correctAnswer": "How are you",
+      "options": [],
+      "variants": [
+        [
+          "How",
+          "What",
+          "Where",
+          "Who"
+        ],
+        [
+          "are",
+          "is",
+          "do",
+          "does"
+        ],
+        [
+          "you",
+          "he",
+          "she",
+          "they"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_16_wh_questions/004.mp3"
+    },
+    {
+      "id": "t9_6",
+      "type": "sentenceAssembly",
+      "question": "Почему он грустный?",
+      "correctAnswer": "Why is he sad",
+      "options": [],
+      "variants": [
+        [
+          "Why",
+          "What",
+          "Where",
+          "How"
+        ],
+        [
+          "is",
+          "are",
+          "do",
+          "does"
+        ],
+        [
+          "he",
+          "she",
+          "they",
+          "him"
+        ],
+        [
+          "sad",
+          "happy",
+          "tired",
+          "angry"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_16_wh_questions/005.mp3"
+    },
+    {
+      "id": "t9_7",
+      "type": "sentenceAssembly",
+      "question": "Как тебя зовут?",
+      "correctAnswer": "What is your name",
+      "options": [],
+      "variants": [
+        [
+          "What",
+          "Where",
+          "Who",
+          "How"
+        ],
+        [
+          "is",
+          "are",
+          "do",
+          "does"
+        ],
+        [
+          "your",
+          "my",
+          "his",
+          "her"
+        ],
+        [
+          "name",
+          "age",
+          "job",
+          "color"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_16_wh_questions/006.mp3"
+    },
+    {
+      "id": "t9_8",
+      "type": "sentenceAssembly",
+      "question": "Где магазин?",
+      "correctAnswer": "Where is the shop",
+      "options": [],
+      "variants": [
+        [
+          "Where",
+          "What",
+          "When",
+          "Who"
+        ],
+        [
+          "is",
+          "are",
+          "do",
+          "does"
+        ],
+        [
+          "the",
+          "a",
+          "this",
+          "my"
+        ],
+        [
+          "shop",
+          "park",
+          "school",
+          "house"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_16_wh_questions/007.mp3"
+    },
+    {
+      "id": "t9_9",
+      "type": "sentenceAssembly",
+      "question": "Что ты хочешь?",
+      "correctAnswer": "What do you want",
+      "options": [],
+      "variants": [
+        [
+          "What",
+          "Where",
+          "When",
+          "Who"
+        ],
+        [
+          "do",
+          "does",
+          "is",
+          "are"
+        ],
+        [
+          "you",
+          "he",
+          "she",
+          "they"
+        ],
+        [
+          "want",
+          "wants",
+          "need",
+          "like"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_16_wh_questions/008.mp3"
+    },
+    {
+      "id": "t9_10",
+      "type": "sentenceAssembly",
+      "question": "Кто она?",
+      "correctAnswer": "Who is she",
+      "options": [],
+      "variants": [
+        [
+          "Who",
+          "What",
+          "Where",
+          "Why"
+        ],
+        [
+          "is",
+          "are",
+          "do",
+          "does"
+        ],
+        [
+          "she",
+          "he",
+          "they",
+          "her"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_16_wh_questions/009.mp3"
+    },
+    {
+      "id": "t9_11",
+      "type": "sentenceAssembly",
+      "question": "Что он делает?",
+      "correctAnswer": "What does he do",
+      "options": [],
+      "variants": [
+        [
+          "What",
+          "Where",
+          "When",
+          "Who"
+        ],
+        [
+          "does",
+          "do",
+          "is",
+          "are"
+        ],
+        [
+          "he",
+          "she",
+          "they",
+          "you"
+        ],
+        [
+          "do",
+          "does",
+          "make",
+          "work"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_16_wh_questions/010.mp3"
+    },
+    {
+      "id": "t9_12",
+      "type": "sentenceAssembly",
+      "question": "Где они работают?",
+      "correctAnswer": "Where do they work",
+      "options": [],
+      "variants": [
+        [
+          "Where",
+          "What",
+          "When",
+          "Who"
+        ],
+        [
+          "do",
+          "does",
+          "is",
+          "are"
+        ],
+        [
+          "they",
+          "he",
+          "she",
+          "we"
+        ],
+        [
+          "work",
+          "works",
+          "live",
+          "go"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_16_wh_questions/011.mp3"
+    },
+    {
+      "id": "t9_13",
+      "type": "sentenceAssembly",
+      "question": "Сколько тебе лет?",
+      "correctAnswer": "How old are you",
+      "options": [],
+      "variants": [
+        [
+          "How",
+          "What",
+          "Where",
+          "Who"
+        ],
+        [
+          "old",
+          "much",
+          "many",
+          "far"
+        ],
+        [
+          "are",
+          "is",
+          "do",
+          "does"
+        ],
+        [
+          "you",
+          "he",
+          "she",
+          "they"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_16_wh_questions/012.mp3"
+    },
+    {
+      "id": "t9_14",
+      "type": "sentenceAssembly",
+      "question": "Когда это начинается?",
+      "correctAnswer": "When does it start",
+      "options": [],
+      "variants": [
+        [
+          "When",
+          "Where",
+          "What",
+          "Why"
+        ],
+        [
+          "does",
+          "do",
+          "is",
+          "are"
+        ],
+        [
+          "it",
+          "he",
+          "she",
+          "they"
+        ],
+        [
+          "start",
+          "starts",
+          "begin",
+          "end"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_16_wh_questions/013.mp3"
+    },
+    {
+      "id": "t9_15",
+      "type": "sentenceAssembly",
+      "question": "Почему ты здесь?",
+      "correctAnswer": "Why are you here",
+      "options": [],
+      "variants": [
+        [
+          "Why",
+          "What",
+          "Where",
+          "How"
+        ],
+        [
+          "are",
+          "is",
+          "do",
+          "does"
+        ],
+        [
+          "you",
+          "he",
+          "she",
+          "they"
+        ],
+        [
+          "here",
+          "there",
+          "home",
+          "late"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_16_wh_questions/014.mp3"
+    },
+    {
+      "id": "t9_16",
+      "type": "sentenceAssembly",
+      "question": "Что это значит?",
+      "correctAnswer": "What does it mean",
+      "options": [],
+      "variants": [
+        [
+          "What",
+          "Where",
+          "When",
+          "Who"
+        ],
+        [
+          "does",
+          "do",
+          "is",
+          "are"
+        ],
+        [
+          "it",
+          "he",
+          "she",
+          "they"
+        ],
+        [
+          "mean",
+          "means",
+          "say",
+          "tell"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_16_wh_questions/015.mp3"
+    },
+    {
+      "id": "t9_17",
+      "type": "sentenceAssembly",
+      "question": "Где ты работаешь?",
+      "correctAnswer": "Where do you work",
+      "options": [],
+      "variants": [
+        [
+          "Where",
+          "What",
+          "When",
+          "Who"
+        ],
+        [
+          "do",
+          "does",
+          "is",
+          "are"
+        ],
+        [
+          "you",
+          "he",
+          "she",
+          "they"
+        ],
+        [
+          "work",
+          "works",
+          "live",
+          "study"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_16_wh_questions/016.mp3"
+    },
+    {
+      "id": "t9_18",
+      "type": "sentenceAssembly",
+      "question": "Кому ты звонишь?",
+      "correctAnswer": "Who do you call",
+      "options": [],
+      "variants": [
+        [
+          "Who",
+          "What",
+          "Where",
+          "When"
+        ],
+        [
+          "do",
+          "does",
+          "is",
+          "are"
+        ],
+        [
+          "you",
+          "he",
+          "she",
+          "they"
+        ],
+        [
+          "call",
+          "calls",
+          "phone",
+          "tell"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_16_wh_questions/017.mp3"
+    },
+    {
+      "id": "t9_19",
+      "type": "sentenceAssembly",
+      "question": "Как далеко это?",
+      "correctAnswer": "How far is it",
+      "options": [],
+      "variants": [
+        [
+          "How",
+          "What",
+          "Where",
+          "Who"
+        ],
+        [
+          "far",
+          "much",
+          "old",
+          "long"
+        ],
+        [
+          "is",
+          "are",
+          "do",
+          "does"
+        ],
+        [
+          "it",
+          "he",
+          "she",
+          "they"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_16_wh_questions/018.mp3"
+    },
+    {
+      "id": "t9_20",
+      "type": "sentenceAssembly",
+      "question": "Когда он приходит?",
+      "correctAnswer": "When does he come",
+      "options": [],
+      "variants": [
+        [
+          "When",
+          "Where",
+          "What",
+          "Why"
+        ],
+        [
+          "does",
+          "do",
+          "is",
+          "are"
+        ],
+        [
+          "he",
+          "she",
+          "they",
+          "you"
+        ],
+        [
+          "come",
+          "comes",
+          "go",
+          "leave"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_16_wh_questions/019.mp3"
+    },
+    {
+      "id": "t9_21",
+      "type": "sentenceAssembly",
+      "question": "Почему она устала?",
+      "correctAnswer": "Why is she tired",
+      "options": [],
+      "variants": [
+        [
+          "Why",
+          "What",
+          "Where",
+          "How"
+        ],
+        [
+          "is",
+          "are",
+          "do",
+          "does"
+        ],
+        [
+          "she",
+          "he",
+          "they",
+          "her"
+        ],
+        [
+          "tired",
+          "happy",
+          "busy",
+          "late"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_16_wh_questions/020.mp3"
+    },
+    {
+      "id": "t9_22",
+      "type": "sentenceAssembly",
+      "question": "Что ты читаешь?",
+      "correctAnswer": "What do you read",
+      "options": [],
+      "variants": [
+        [
+          "What",
+          "Where",
+          "When",
+          "Who"
+        ],
+        [
+          "do",
+          "does",
+          "is",
+          "are"
+        ],
+        [
+          "you",
+          "he",
+          "she",
+          "they"
+        ],
+        [
+          "read",
+          "reads",
+          "write",
+          "watch"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_16_wh_questions/021.mp3"
+    },
+    {
+      "id": "t9_23",
+      "type": "sentenceAssembly",
+      "question": "Где она живёт?",
+      "correctAnswer": "Where does she live",
+      "options": [],
+      "variants": [
+        [
+          "Where",
+          "What",
+          "When",
+          "Who"
+        ],
+        [
+          "does",
+          "do",
+          "is",
+          "are"
+        ],
+        [
+          "she",
+          "he",
+          "they",
+          "you"
+        ],
+        [
+          "live",
+          "lives",
+          "work",
+          "go"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_16_wh_questions/022.mp3"
+    },
+    {
+      "id": "t9_24",
+      "type": "sentenceAssembly",
+      "question": "Когда вы едите?",
+      "correctAnswer": "When do you eat",
+      "options": [],
+      "variants": [
+        [
+          "When",
+          "Where",
+          "What",
+          "Why"
+        ],
+        [
+          "do",
+          "does",
+          "is",
+          "are"
+        ],
+        [
+          "you",
+          "he",
+          "she",
+          "they"
+        ],
+        [
+          "eat",
+          "eats",
+          "drink",
+          "cook"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_16_wh_questions/023.mp3"
+    },
+    {
+      "id": "t9_25",
+      "type": "sentenceAssembly",
+      "question": "Почему он был злой?",
+      "correctAnswer": "Why was he angry",
+      "options": [],
+      "variants": [
+        [
+          "Why",
+          "What",
+          "Where",
+          "How"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "does"
+        ],
+        [
+          "he",
+          "she",
+          "they",
+          "him"
+        ],
+        [
+          "angry",
+          "happy",
+          "tired",
+          "sad"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_16_wh_questions/024.mp3"
+    },
+    {
+      "id": "t9_26",
+      "type": "sentenceAssembly",
+      "question": "Где они были?",
+      "correctAnswer": "Where were they",
+      "options": [],
+      "variants": [
+        [
+          "Where",
+          "What",
+          "When",
+          "Who"
+        ],
+        [
+          "were",
+          "was",
+          "are",
+          "do"
+        ],
+        [
+          "they",
+          "he",
+          "she",
+          "we"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_16_wh_questions/025.mp3"
+    },
+    {
+      "id": "t9_27",
+      "type": "sentenceAssembly",
+      "question": "Когда он был дома?",
+      "correctAnswer": "When was he home",
+      "options": [],
+      "variants": [
+        [
+          "When",
+          "Where",
+          "What",
+          "Why"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "does"
+        ],
+        [
+          "he",
+          "she",
+          "they",
+          "him"
+        ],
+        [
+          "home",
+          "here",
+          "there",
+          "late"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_16_wh_questions/026.mp3"
+    },
+    {
+      "id": "t9_28",
+      "type": "sentenceAssembly",
+      "question": "Кто был там?",
+      "correctAnswer": "Who was there",
+      "options": [],
+      "variants": [
+        [
+          "Who",
+          "What",
+          "Where",
+          "When"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "do"
+        ],
+        [
+          "there",
+          "here",
+          "home",
+          "late"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_16_wh_questions/027.mp3"
+    },
+    {
+      "id": "t9_29",
+      "type": "sentenceAssembly",
+      "question": "Почему ты опоздал?",
+      "correctAnswer": "Why were you late",
+      "options": [],
+      "variants": [
+        [
+          "Why",
+          "What",
+          "Where",
+          "How"
+        ],
+        [
+          "were",
+          "was",
+          "are",
+          "do"
+        ],
+        [
+          "you",
+          "he",
+          "she",
+          "they"
+        ],
+        [
+          "late",
+          "early",
+          "busy",
+          "tired"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_16_wh_questions/028.mp3"
+    },
+    {
+      "id": "t9_30",
+      "type": "sentenceAssembly",
+      "question": "Как она была?",
+      "correctAnswer": "How was she",
+      "options": [],
+      "variants": [
+        [
+          "How",
+          "What",
+          "Where",
+          "Who"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "does"
+        ],
+        [
+          "she",
+          "he",
+          "they",
+          "her"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_16_wh_questions/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionPreIntermediate9WhQuestions",
+  "theoryQuiz": [
+    {
+      "id": "tq_9_01",
+      "type": "multipleChoice",
+      "question": "Какое вопросительное слово означает «где»?",
+      "options": [
+        "What",
+        "When",
+        "Where",
+        "Who"
+      ],
+      "correctIndex": 2,
+      "explanation": "Where = где, куда. What = что, When = когда, Who = кто."
+    },
+    {
+      "id": "tq_9_02",
+      "type": "multipleChoice",
+      "question": "Выберите правильный порядок слов: «Где ты живёшь?»",
+      "options": [
+        "Where you do live?",
+        "Where do you live?",
+        "Where live you do?",
+        "Do where you live?"
+      ],
+      "correctIndex": 1,
+      "explanation": "Порядок: Wh-слово + do/does + подлежащее + глагол."
+    },
+    {
+      "id": "tq_9_03",
+      "type": "trueFalse",
+      "question": "\"What does he wants?\" — предложение составлено правильно.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "После does глагол стоит без -s: What does he want?"
+    },
+    {
+      "id": "tq_9_04",
+      "type": "multipleChoice",
+      "question": "Какой вспомогательный глагол используем с he/she/it в Present Simple?",
+      "options": [
+        "do",
+        "does",
+        "is",
+        "was"
+      ],
+      "correctIndex": 1,
+      "explanation": "С he/she/it в вопросах Present Simple используем does."
+    },
+    {
+      "id": "tq_9_05",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"___ is your name?\"",
+      "options": [
+        "Where",
+        "When",
+        "What",
+        "Why"
+      ],
+      "correctIndex": 2,
+      "explanation": "What is your name? — Как тебя зовут? (Что = What)"
+    },
+    {
+      "id": "tq_9_06",
+      "type": "trueFalse",
+      "question": "\"Who is she?\" — правильный вопрос о человеке.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Who = кто. Who is she? — Кто она? Верно."
+    },
+    {
+      "id": "tq_9_07",
+      "type": "multipleChoice",
+      "question": "Какое Wh-слово означает «почему»?",
+      "options": [
+        "How",
+        "What",
+        "When",
+        "Why"
+      ],
+      "correctIndex": 3,
+      "explanation": "Why = почему. How = как, What = что, When = когда."
+    },
+    {
+      "id": "tq_9_08",
+      "type": "multipleChoice",
+      "question": "Как правильно спросить «Когда это начинается?»",
+      "options": [
+        "When it does start?",
+        "When does it start?",
+        "When it start does?",
+        "Does when it start?"
+      ],
+      "correctIndex": 1,
+      "explanation": "Правильный порядок: When + does + it + start?"
+    },
+    {
+      "id": "tq_9_09",
+      "type": "trueFalse",
+      "question": "Слово How можно комбинировать с другими словами: How old, How far, How much.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "How + прилагательное/наречие: How old (сколько лет), How far (как далеко), How much (сколько)."
+    },
+    {
+      "id": "tq_9_10",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"Why ___ he late?\"",
+      "options": [
+        "does",
+        "do",
+        "was",
+        "were"
+      ],
+      "correctIndex": 2,
+      "explanation": "Late — прилагательное, используем was/were (to be): Why was he late?"
+    }
+  ]
+}

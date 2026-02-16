@@ -1,0 +1,461 @@
+{
+  "id": "pre_listening_11_articles",
+  "title": "Articles (a/an/the)",
+  "description": "Слушайте короткие истории и понимайте, когда используется a, an или the.",
+  "order": 11,
+  "level": "pre_intermediate",
+  "imageUrl": "assets/images/lessons/articles.png",
+  "tasks": [
+    {
+      "id": "t11_01",
+      "audioText": "I have a new phone. The phone is black.",
+      "transcript": "The phone is black.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "My new phone is black."
+        },
+        {
+          "id": "o2",
+          "text": "My new phone is white."
+        },
+        {
+          "id": "o3",
+          "text": "A phone is black."
+        },
+        {
+          "id": "o4",
+          "text": "The old phone is black."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "We say 'the phone' because we already talked about this specific phone.",
+      "mistakeTags": [
+        "shop",
+        "definite_article"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_11_articles/t11_01.mp3"
+    },
+    {
+      "id": "t11_02",
+      "audioText": "Anna wants to be a doctor. A doctor helps people.",
+      "transcript": "A doctor helps people.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Any doctor helps people."
+        },
+        {
+          "id": "o2",
+          "text": "The doctor helps people."
+        },
+        {
+          "id": "o3",
+          "text": "Doctors don't help people."
+        },
+        {
+          "id": "o4",
+          "text": "Anna helps people."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "We use 'a doctor' when we talk about the job in general.",
+      "mistakeTags": [
+        "hospital",
+        "indefinite_article"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_11_articles/t11_02.mp3"
+    },
+    {
+      "id": "t11_03",
+      "audioText": "There is a cat on the sofa. The cat is sleeping.",
+      "transcript": "The cat is sleeping.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "That specific cat is sleeping."
+        },
+        {
+          "id": "o2",
+          "text": "All cats are sleeping."
+        },
+        {
+          "id": "o3",
+          "text": "A cat is sleeping."
+        },
+        {
+          "id": "o4",
+          "text": "The dog is sleeping."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "We use 'the cat' because we know which cat we are talking about.",
+      "mistakeTags": [
+        "home",
+        "definite_article"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_11_articles/t11_03.mp3"
+    },
+    {
+      "id": "t11_04",
+      "audioText": "I need an umbrella. It is raining.",
+      "transcript": "I need an umbrella.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "I need any umbrella."
+        },
+        {
+          "id": "o2",
+          "text": "I need the umbrella."
+        },
+        {
+          "id": "o3",
+          "text": "I don't need an umbrella."
+        },
+        {
+          "id": "o4",
+          "text": "I need a hat."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "We use 'an umbrella' because we talk about one umbrella for the first time.",
+      "mistakeTags": [
+        "street",
+        "indefinite_article"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_11_articles/t11_04.mp3"
+    },
+    {
+      "id": "t11_05",
+      "audioText": "This is the best cafe in the city. The coffee is great.",
+      "transcript": "The coffee is great.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Coffee in this cafe is great."
+        },
+        {
+          "id": "o2",
+          "text": "All coffee is great."
+        },
+        {
+          "id": "o3",
+          "text": "A coffee is great."
+        },
+        {
+          "id": "o4",
+          "text": "The tea is great."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "We use 'the coffee' because we mean the coffee in this specific cafe.",
+      "mistakeTags": [
+        "cafe",
+        "definite_article"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_11_articles/t11_05.mp3"
+    },
+    {
+      "id": "t11_06",
+      "audioText": "He is an engineer. The engineer works in our office.",
+      "transcript": "The engineer works in our office.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "This specific engineer works in our office."
+        },
+        {
+          "id": "o2",
+          "text": "All engineers work here."
+        },
+        {
+          "id": "o3",
+          "text": "An engineer doesn't work here."
+        },
+        {
+          "id": "o4",
+          "text": "The doctor works here."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "We use 'the engineer' because we already mentioned him.",
+      "mistakeTags": [
+        "office",
+        "definite_article"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_11_articles/t11_06.mp3"
+    },
+    {
+      "id": "t11_07",
+      "audioText": "I see a big dog in the park. The dog is friendly.",
+      "transcript": "The dog is friendly.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "That big dog is friendly."
+        },
+        {
+          "id": "o2",
+          "text": "All dogs are friendly."
+        },
+        {
+          "id": "o3",
+          "text": "A dog is angry."
+        },
+        {
+          "id": "o4",
+          "text": "The cat is friendly."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "We use 'the dog' because we know exactly which dog.",
+      "mistakeTags": [
+        "park",
+        "definite_article"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_11_articles/t11_07.mp3"
+    },
+    {
+      "id": "t11_08",
+      "audioText": "She buys an apple every day. The apple is red.",
+      "transcript": "The apple is red.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Today's apple is red."
+        },
+        {
+          "id": "o2",
+          "text": "All apples are green."
+        },
+        {
+          "id": "o3",
+          "text": "An apple is green."
+        },
+        {
+          "id": "o4",
+          "text": "The banana is red."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "We use 'the apple' for the specific apple she bought today.",
+      "mistakeTags": [
+        "market",
+        "definite_article"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_11_articles/t11_08.mp3"
+    },
+    {
+      "id": "t11_09",
+      "audioText": "I want a sandwich and an orange juice.",
+      "transcript": "I want a sandwich and an orange juice.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "I want one sandwich and one orange juice."
+        },
+        {
+          "id": "o2",
+          "text": "I want the sandwich and the juice."
+        },
+        {
+          "id": "o3",
+          "text": "I don't want anything."
+        },
+        {
+          "id": "o4",
+          "text": "I want two sandwiches."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "We use 'a' and 'an' when we mention things for the first time.",
+      "mistakeTags": [
+        "cafe",
+        "indefinite_article"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_11_articles/t11_09.mp3"
+    },
+    {
+      "id": "t11_10",
+      "audioText": "Look at the moon! The moon is full tonight.",
+      "transcript": "The moon is full tonight.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The moon is completely round tonight."
+        },
+        {
+          "id": "o2",
+          "text": "A moon is full tonight."
+        },
+        {
+          "id": "o3",
+          "text": "The sun is full tonight."
+        },
+        {
+          "id": "o4",
+          "text": "The moon is small tonight."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "There is only one moon, so we always use 'the moon'.",
+      "mistakeTags": [
+        "street",
+        "definite_article"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_11_articles/t11_10.mp3"
+    },
+    {
+      "id": "t11_11",
+      "audioText": "My brother has a car. The car is very fast.",
+      "transcript": "The car is very fast.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "My brother's car is very fast."
+        },
+        {
+          "id": "o2",
+          "text": "My brother's car is very slow."
+        },
+        {
+          "id": "o3",
+          "text": "A car is very fast."
+        },
+        {
+          "id": "o4",
+          "text": "The bus is very fast."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "We use 'the car' because we already know which car.",
+      "mistakeTags": [
+        "home",
+        "definite_article"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_11_articles/t11_11.mp3"
+    },
+    {
+      "id": "t11_12",
+      "audioText": "In the hotel there is a restaurant. The restaurant opens at seven.",
+      "transcript": "The restaurant opens at seven.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The restaurant in this hotel opens at 7."
+        },
+        {
+          "id": "o2",
+          "text": "A restaurant opens at seven."
+        },
+        {
+          "id": "o3",
+          "text": "The restaurant opens at eight."
+        },
+        {
+          "id": "o4",
+          "text": "All restaurants open at seven."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "We use 'the restaurant' because we mentioned it before.",
+      "mistakeTags": [
+        "hotel",
+        "definite_article"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_11_articles/t11_12.mp3"
+    },
+    {
+      "id": "t11_13",
+      "audioText": "I need a new bag. An old bag is broken.",
+      "transcript": "An old bag is broken.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "One of my old bags is broken."
+        },
+        {
+          "id": "o2",
+          "text": "The old bag is broken."
+        },
+        {
+          "id": "o3",
+          "text": "All old bags are broken."
+        },
+        {
+          "id": "o4",
+          "text": "A new bag is broken."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "We use 'an old bag' because we mention it for the first time.",
+      "mistakeTags": [
+        "home",
+        "indefinite_article"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_11_articles/t11_13.mp3"
+    },
+    {
+      "id": "t11_14",
+      "audioText": "She works in a bank. The bank is near the station.",
+      "transcript": "The bank is near the station.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Her bank is near the station."
+        },
+        {
+          "id": "o2",
+          "text": "A bank is near the station."
+        },
+        {
+          "id": "o3",
+          "text": "The bank is far from the station."
+        },
+        {
+          "id": "o4",
+          "text": "The shop is near the station."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "We use 'the bank' because we know which bank she works in.",
+      "mistakeTags": [
+        "bank",
+        "definite_article"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_11_articles/t11_14.mp3"
+    },
+    {
+      "id": "t11_15",
+      "audioText": "I drink a cup of tea every morning. The tea is hot.",
+      "transcript": "The tea is hot.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "My morning tea is hot."
+        },
+        {
+          "id": "o2",
+          "text": "All tea is hot."
+        },
+        {
+          "id": "o3",
+          "text": "A tea is cold."
+        },
+        {
+          "id": "o4",
+          "text": "The coffee is hot."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "We use 'the tea' for the specific tea I drink every morning.",
+      "mistakeTags": [
+        "home",
+        "definite_article"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_11_articles/t11_15.mp3"
+    }
+  ],
+  "short_description": "Артикли a/an/the в повседневных ситуациях"
+}

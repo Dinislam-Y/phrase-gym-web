@@ -1,0 +1,2283 @@
+{
+  "id": "upper_03_conditionals_0_1",
+  "title": "Conditionals: Zero & First",
+  "description": "Условные предложения нулевого и первого типа — факты и реальные планы.",
+  "order": 3,
+  "level": "upper_intermediate",
+  "imageUrl": "assets/images/lessons/conditionals_0_1.png",
+  "vocabulary": [
+    {
+      "id": "v3_snow",
+      "english": "snow",
+      "russian": "идти снегу",
+      "partOfSpeech": "verb",
+      "example": "If it snows.",
+      "exampleTranslation": "Если пойдет снег.",
+      "audioPath": "assets/audio/vocabulary/v3_snow.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_snow.mp3"
+    },
+    {
+      "id": "v3_stay",
+      "english": "stay",
+      "russian": "оставаться",
+      "partOfSpeech": "verb",
+      "example": "I will stay home.",
+      "exampleTranslation": "Я останусь дома.",
+      "audioPath": "assets/audio/vocabulary/v3_stay.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_stay.mp3"
+    },
+    {
+      "id": "v3_home",
+      "english": "home",
+      "russian": "дом (домой)",
+      "partOfSpeech": "noun",
+      "example": "Stay home.",
+      "exampleTranslation": "Остаться дома.",
+      "audioPath": "assets/audio/vocabulary/v3_home.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_home.mp3"
+    },
+    {
+      "id": "v3_heat",
+      "english": "heat",
+      "russian": "нагревать",
+      "partOfSpeech": "verb",
+      "example": "If you heat water.",
+      "exampleTranslation": "Если нагреть воду.",
+      "audioPath": "assets/audio/vocabulary/v3_heat.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_heat.mp3"
+    },
+    {
+      "id": "v3_ice",
+      "english": "ice",
+      "russian": "лед",
+      "partOfSpeech": "noun",
+      "example": "Heat ice.",
+      "exampleTranslation": "Нагреть лед.",
+      "audioPath": "assets/audio/vocabulary/v3_ice.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_ice.mp3"
+    },
+    {
+      "id": "v3_melt",
+      "english": "melt",
+      "russian": "таять",
+      "partOfSpeech": "verb",
+      "example": "It melts.",
+      "exampleTranslation": "Он тает.",
+      "audioPath": "assets/audio/vocabulary/v3_melt.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_melt.mp3"
+    },
+    {
+      "id": "v3_mix",
+      "english": "mix",
+      "russian": "смешивать",
+      "partOfSpeech": "verb",
+      "example": "If you mix colors.",
+      "exampleTranslation": "Если смешать цвета.",
+      "audioPath": "assets/audio/vocabulary/v3_mix.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_mix.mp3"
+    },
+    {
+      "id": "v3_purple",
+      "english": "purple",
+      "russian": "фиолетовый",
+      "partOfSpeech": "adjective",
+      "example": "You get purple.",
+      "exampleTranslation": "Получится фиолетовый.",
+      "audioPath": "assets/audio/vocabulary/v3_purple.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_purple.mp3"
+    },
+    {
+      "id": "v3_freeze",
+      "english": "freeze",
+      "russian": "замораживать",
+      "partOfSpeech": "verb",
+      "example": "If you freeze water.",
+      "exampleTranslation": "Если заморозить воду.",
+      "audioPath": "assets/audio/vocabulary/v3_freeze.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_freeze.mp3"
+    },
+    {
+      "id": "v3_touch",
+      "english": "touch",
+      "russian": "трогать",
+      "partOfSpeech": "verb",
+      "example": "If you touch fire.",
+      "exampleTranslation": "Если дотронуться до огня.",
+      "audioPath": "assets/audio/vocabulary/v3_touch.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_touch.mp3"
+    },
+    {
+      "id": "v3_tired",
+      "english": "tired",
+      "russian": "усталый",
+      "partOfSpeech": "adjective",
+      "example": "If she becomes tired.",
+      "exampleTranslation": "Если она устанет.",
+      "audioPath": "assets/audio/vocabulary/v3_tired.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_tired.mp3"
+    },
+    {
+      "id": "v3_without",
+      "english": "without",
+      "russian": "без",
+      "partOfSpeech": "preposition",
+      "example": "Without her.",
+      "exampleTranslation": "Без нее.",
+      "audioPath": "assets/audio/vocabulary/v3_without.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_without.mp3"
+    },
+    {
+      "id": "v3_burn",
+      "english": "burn",
+      "russian": "гореть / обжигать",
+      "partOfSpeech": "verb",
+      "example": "Fire burns your hand.",
+      "exampleTranslation": "Огонь обжигает руку.",
+      "audioPath": "assets/audio/vocabulary/v3_burn.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_burn.mp3"
+    },
+    {
+      "id": "v3_celebrate",
+      "english": "celebrate",
+      "russian": "праздновать",
+      "partOfSpeech": "verb",
+      "example": "We will celebrate.",
+      "exampleTranslation": "Мы отпразднуем.",
+      "audioPath": "assets/audio/vocabulary/v3_celebrate.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_celebrate.mp3"
+    },
+    {
+      "id": "v3_hurry",
+      "english": "hurry",
+      "russian": "торопиться",
+      "partOfSpeech": "verb",
+      "example": "If you do not hurry.",
+      "exampleTranslation": "Если ты не поторопишься.",
+      "audioPath": "assets/audio/vocabulary/v3_hurry.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_hurry.mp3"
+    },
+    {
+      "id": "v3_miss",
+      "english": "miss",
+      "russian": "пропускать",
+      "partOfSpeech": "verb",
+      "example": "Miss the bus.",
+      "exampleTranslation": "Пропустить автобус.",
+      "audioPath": "assets/audio/vocabulary/v3_miss.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_miss.mp3"
+    },
+    {
+      "id": "v3_bus",
+      "english": "bus",
+      "russian": "автобус",
+      "partOfSpeech": "noun",
+      "example": "The bus.",
+      "exampleTranslation": "Автобус.",
+      "audioPath": "assets/audio/vocabulary/v3_bus.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_bus.mp3"
+    },
+    {
+      "id": "v3_press",
+      "english": "press",
+      "russian": "нажимать",
+      "partOfSpeech": "verb",
+      "example": "Press the button.",
+      "exampleTranslation": "Нажать кнопку.",
+      "audioPath": "assets/audio/vocabulary/v3_press.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_press.mp3"
+    },
+    {
+      "id": "v3_button",
+      "english": "button",
+      "russian": "кнопка",
+      "partOfSpeech": "noun",
+      "example": "The button.",
+      "exampleTranslation": "Кнопка.",
+      "audioPath": "assets/audio/vocabulary/v3_button.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_button.mp3"
+    },
+    {
+      "id": "v3_screen",
+      "english": "screen",
+      "russian": "экран",
+      "partOfSpeech": "noun",
+      "example": "The screen.",
+      "exampleTranslation": "Экран.",
+      "audioPath": "assets/audio/vocabulary/v3_screen.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_screen.mp3"
+    },
+    {
+      "id": "v3_light",
+      "english": "light",
+      "russian": "свет (загораться)",
+      "partOfSpeech": "verb",
+      "example": "Lights up.",
+      "exampleTranslation": "Загорается.",
+      "audioPath": "assets/audio/vocabulary/v3_light.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_light.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "Conditionals",
+    "subtitle": "Два базовых типа условий: факты природы (Zero) и реальные планы на будущее (First).",
+    "construction": {
+      "formula": "If + Condition, Result",
+      "rules": [
+        {
+          "word": "Zero (Факт)",
+          "description": "Всегда правда. Если греть лед, он тает. (If + Present, + Present)."
+        },
+        {
+          "word": "First (План)",
+          "description": "Реальное будущее. Если будет дождь, я возьму зонт. (If + Present, + Will)."
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "explore",
+        "color": "blue",
+        "title": "Закон природы (Zero)",
+        "description": "Если смешать синий и желтый, получится зеленый.",
+        "example": {
+          "english": "If you heat ice, it melts.",
+          "russian": "Если нагреть лед, он тает."
+        }
+      },
+      {
+        "icon": "schedule",
+        "color": "green",
+        "title": "Реальная ситуация (1st)",
+        "description": "Вполне может случиться завтра.",
+        "example": {
+          "english": "If you study, you will pass.",
+          "russian": "Если будешь учиться, ты сдашь."
+        }
+      }
+    ],
+    "markers": [
+      "If",
+      "Unless",
+      "Will",
+      "When"
+    ]
+  },
+  "tasks": [
+    {
+      "id": "t3_1",
+      "type": "sentenceAssembly",
+      "question": "Если рынок упадёт, инвесторы потеряют деньги",
+      "correctAnswer": "If the market drops investors will lose money",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "What",
+          "Why"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "market",
+          "stock",
+          "trade",
+          "price"
+        ],
+        [
+          "drops",
+          "drop",
+          "falls",
+          "crashes"
+        ],
+        [
+          "investors",
+          "traders",
+          "banks",
+          "people"
+        ],
+        [
+          "will",
+          "would",
+          "do",
+          "am"
+        ],
+        [
+          "lose",
+          "lost",
+          "gain",
+          "spend"
+        ],
+        [
+          "money",
+          "cash",
+          "funds",
+          "profit"
+        ]
+      ],
+      "mistakeTags": [
+        "conditionals",
+        "zero_first_conditional"
+      ],
+      "audioPath": "assets/audio/grammar/upper_03_conditionals_0_1/000.mp3"
+    },
+    {
+      "id": "t3_2",
+      "type": "sentenceAssembly",
+      "question": "Если нагреть лед, он тает (Zero)",
+      "correctAnswer": "If you heat ice it melts",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "What",
+          "Why"
+        ],
+        [
+          "you",
+          "your",
+          "she",
+          "he"
+        ],
+        [
+          "heat",
+          "hot",
+          "warm",
+          "fire"
+        ],
+        [
+          "ice",
+          "water",
+          "cold",
+          "snow"
+        ],
+        [
+          "it",
+          "this",
+          "she",
+          "he"
+        ],
+        [
+          "melts",
+          "melt",
+          "boil",
+          "hot"
+        ]
+      ],
+      "mistakeTags": [
+        "conditionals",
+        "zero_first_conditional"
+      ],
+      "audioPath": "assets/audio/grammar/upper_03_conditionals_0_1/001.mp3"
+    },
+    {
+      "id": "t3_3",
+      "type": "sentenceAssembly",
+      "question": "Если смешать красный и синий получится фиолетовый",
+      "correctAnswer": "If you mix red and blue you get purple",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "What",
+          "Where"
+        ],
+        [
+          "you",
+          "your",
+          "she",
+          "he"
+        ],
+        [
+          "mix",
+          "melt",
+          "heat",
+          "press"
+        ],
+        [
+          "red",
+          "big",
+          "hot",
+          "old"
+        ],
+        [
+          "and",
+          "or",
+          "but",
+          "with"
+        ],
+        [
+          "blue",
+          "black",
+          "white",
+          "green"
+        ],
+        [
+          "you",
+          "it",
+          "she",
+          "we"
+        ],
+        [
+          "get",
+          "got",
+          "gets",
+          "make"
+        ],
+        [
+          "purple",
+          "yellow",
+          "orange",
+          "brown"
+        ]
+      ],
+      "mistakeTags": [
+        "conditional",
+        "zero_first_conditional"
+      ],
+      "audioPath": "assets/audio/grammar/upper_03_conditionals_0_1/002.mp3"
+    },
+    {
+      "id": "t3_4",
+      "type": "sentenceAssembly",
+      "question": "Если он позвонит мне я отвечу",
+      "correctAnswer": "If he calls me I will answer him",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "What",
+          "Where"
+        ],
+        [
+          "he",
+          "him",
+          "his",
+          "she"
+        ],
+        [
+          "calls",
+          "call",
+          "called",
+          "calling"
+        ],
+        [
+          "me",
+          "my",
+          "I",
+          "us"
+        ],
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "will",
+          "would",
+          "do",
+          "am"
+        ],
+        [
+          "answer",
+          "call",
+          "tell",
+          "ask"
+        ],
+        [
+          "him",
+          "he",
+          "his",
+          "her"
+        ]
+      ],
+      "mistakeTags": [
+        "conditional",
+        "zero_first_conditional"
+      ],
+      "audioPath": "assets/audio/grammar/upper_03_conditionals_0_1/003.mp3"
+    },
+    {
+      "id": "t3_5",
+      "type": "sentenceAssembly",
+      "question": "Если сервер перегрузится, мы переключимся на резервный",
+      "correctAnswer": "If the server overloads we will switch to backup",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "Where",
+          "Why"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "server",
+          "system",
+          "network",
+          "cloud"
+        ],
+        [
+          "overloads",
+          "crashes",
+          "fails",
+          "stops"
+        ],
+        [
+          "we",
+          "us",
+          "our",
+          "they"
+        ],
+        [
+          "will",
+          "could",
+          "might",
+          "should"
+        ],
+        [
+          "switch",
+          "move",
+          "go",
+          "turn"
+        ],
+        [
+          "to",
+          "with",
+          "from",
+          "by"
+        ],
+        [
+          "backup",
+          "reserve",
+          "spare",
+          "extra"
+        ]
+      ],
+      "mistakeTags": [
+        "conditionals",
+        "zero_first_conditional"
+      ],
+      "audioPath": "assets/audio/grammar/upper_03_conditionals_0_1/004.mp3"
+    },
+    {
+      "id": "t3_6",
+      "type": "sentenceAssembly",
+      "question": "Если заморозить воду она становится твёрдой",
+      "correctAnswer": "If you freeze water it becomes solid",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "What",
+          "Where"
+        ],
+        [
+          "you",
+          "your",
+          "she",
+          "he"
+        ],
+        [
+          "freeze",
+          "heat",
+          "melt",
+          "boil"
+        ],
+        [
+          "water",
+          "ice",
+          "snow",
+          "milk"
+        ],
+        [
+          "it",
+          "this",
+          "she",
+          "he"
+        ],
+        [
+          "becomes",
+          "become",
+          "became",
+          "gets"
+        ],
+        [
+          "solid",
+          "cold",
+          "hard",
+          "wet"
+        ]
+      ],
+      "mistakeTags": [
+        "conditional",
+        "zero_first_conditional"
+      ],
+      "audioPath": "assets/audio/grammar/upper_03_conditionals_0_1/005.mp3"
+    },
+    {
+      "id": "t3_7",
+      "type": "sentenceAssembly",
+      "question": "Если ты не поторопишься, мы опоздаем",
+      "correctAnswer": "If you do not hurry we will be late",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "What",
+          "Where"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "she"
+        ],
+        [
+          "do",
+          "does",
+          "did",
+          "are"
+        ],
+        [
+          "not",
+          "no",
+          "don't",
+          "never"
+        ],
+        [
+          "hurry",
+          "fast",
+          "quick",
+          "run"
+        ],
+        [
+          "we",
+          "us",
+          "our",
+          "they"
+        ],
+        [
+          "will",
+          "would",
+          "are",
+          "do"
+        ],
+        [
+          "be",
+          "been",
+          "is",
+          "was"
+        ],
+        [
+          "late",
+          "later",
+          "slow",
+          "time"
+        ]
+      ],
+      "mistakeTags": [
+        "conditionals",
+        "zero_first_conditional"
+      ],
+      "audioPath": "assets/audio/grammar/upper_03_conditionals_0_1/006.mp3"
+    },
+    {
+      "id": "t3_8",
+      "type": "sentenceAssembly",
+      "question": "Что ты будешь делать, если он вдруг не придёт?",
+      "correctAnswer": "What will you do if he does not come?",
+      "options": [],
+      "variants": [
+        [
+          "What",
+          "Where",
+          "When",
+          "Why"
+        ],
+        [
+          "will",
+          "could",
+          "might",
+          "should"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "she"
+        ],
+        [
+          "do",
+          "make",
+          "did",
+          "done"
+        ],
+        [
+          "if",
+          "when",
+          "that",
+          "what"
+        ],
+        [
+          "he",
+          "him",
+          "his",
+          "she"
+        ],
+        [
+          "does",
+          "do",
+          "did",
+          "will"
+        ],
+        [
+          "not",
+          "no",
+          "don't",
+          "never"
+        ],
+        [
+          "come",
+          "came",
+          "coming",
+          "go"
+        ]
+      ],
+      "mistakeTags": [
+        "conditionals",
+        "zero_first_conditional"
+      ],
+      "audioPath": "assets/audio/grammar/upper_03_conditionals_0_1/007.mp3"
+    },
+    {
+      "id": "t3_9",
+      "type": "sentenceAssembly",
+      "question": "Если она сдаст сертификацию мы повысим её",
+      "correctAnswer": "If she passes the certification we will promote her",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "What",
+          "Where"
+        ],
+        [
+          "she",
+          "her",
+          "he",
+          "they"
+        ],
+        [
+          "passes",
+          "pass",
+          "passed",
+          "passing"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "certification",
+          "exam",
+          "test",
+          "course"
+        ],
+        [
+          "we",
+          "us",
+          "our",
+          "they"
+        ],
+        [
+          "will",
+          "may",
+          "shall",
+          "must"
+        ],
+        [
+          "promote",
+          "raise",
+          "advance",
+          "support"
+        ],
+        [
+          "her",
+          "him",
+          "them",
+          "us"
+        ]
+      ],
+      "mistakeTags": [
+        "conditional",
+        "zero_first_conditional"
+      ],
+      "audioPath": "assets/audio/grammar/upper_03_conditionals_0_1/008.mp3"
+    },
+    {
+      "id": "t3_10",
+      "type": "sentenceAssembly",
+      "question": "Если мы уйдём сейчас мы не опоздаем",
+      "correctAnswer": "If we leave now we won't miss it",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "Unless",
+          "Although"
+        ],
+        [
+          "we",
+          "I",
+          "they",
+          "you"
+        ],
+        [
+          "leave",
+          "go",
+          "start",
+          "hurry"
+        ],
+        [
+          "now",
+          "soon",
+          "early",
+          "first"
+        ],
+        [
+          "we",
+          "I",
+          "they",
+          "you"
+        ],
+        [
+          "won't",
+          "will",
+          "did",
+          "can"
+        ],
+        [
+          "miss",
+          "lose",
+          "forget",
+          "drop"
+        ],
+        [
+          "it",
+          "this",
+          "that",
+          "them"
+        ]
+      ],
+      "mistakeTags": [
+        "conditionals",
+        "zero_first_conditional"
+      ],
+      "audioPath": "assets/audio/grammar/upper_03_conditionals_0_1/009.mp3"
+    },
+    {
+      "id": "t3_11",
+      "type": "sentenceAssembly",
+      "question": "Если дотронуться до огня он обожжёт руку",
+      "correctAnswer": "If you touch fire it burns your hand",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "What",
+          "Where"
+        ],
+        [
+          "you",
+          "your",
+          "she",
+          "he"
+        ],
+        [
+          "touch",
+          "hold",
+          "press",
+          "grab"
+        ],
+        [
+          "fire",
+          "flame",
+          "heat",
+          "light"
+        ],
+        [
+          "it",
+          "this",
+          "that",
+          "he"
+        ],
+        [
+          "burns",
+          "burn",
+          "burned",
+          "heats"
+        ],
+        [
+          "your",
+          "you",
+          "my",
+          "the"
+        ],
+        [
+          "hand",
+          "skin",
+          "arm",
+          "face"
+        ]
+      ],
+      "mistakeTags": [
+        "conditional",
+        "zero_first_conditional"
+      ],
+      "audioPath": "assets/audio/grammar/upper_03_conditionals_0_1/010.mp3"
+    },
+    {
+      "id": "t3_12",
+      "type": "sentenceAssembly",
+      "question": "Если ты нажмешь эту кнопку, экран загорится (Zero)",
+      "correctAnswer": "If you press this button the screen lights up",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "What",
+          "Where"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "she"
+        ],
+        [
+          "press",
+          "push",
+          "touch",
+          "click"
+        ],
+        [
+          "this",
+          "the",
+          "a",
+          "that"
+        ],
+        [
+          "button",
+          "key",
+          "switch",
+          "part"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "screen",
+          "monitor",
+          "view",
+          "glass"
+        ],
+        [
+          "lights",
+          "light",
+          "shine",
+          "bright"
+        ],
+        [
+          "up",
+          "on",
+          "off",
+          "down"
+        ]
+      ],
+      "mistakeTags": [
+        "conditionals",
+        "zero_first_conditional"
+      ],
+      "audioPath": "assets/audio/grammar/upper_03_conditionals_0_1/011.mp3"
+    },
+    {
+      "id": "t3_13",
+      "type": "sentenceAssembly",
+      "question": "Я инвестирую в акции, если рынок стабилизируется",
+      "correctAnswer": "I will invest in stocks if the market stabilizes",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "will",
+          "would",
+          "do",
+          "am"
+        ],
+        [
+          "invest",
+          "spend",
+          "put",
+          "save"
+        ],
+        [
+          "in",
+          "to",
+          "for",
+          "at"
+        ],
+        [
+          "stocks",
+          "shares",
+          "bonds",
+          "funds"
+        ],
+        [
+          "if",
+          "when",
+          "that",
+          "what"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "market",
+          "economy",
+          "trade",
+          "bank"
+        ],
+        [
+          "stabilizes",
+          "grows",
+          "falls",
+          "changes"
+        ]
+      ],
+      "mistakeTags": [
+        "conditionals",
+        "zero_first_conditional"
+      ],
+      "audioPath": "assets/audio/grammar/upper_03_conditionals_0_1/012.mp3"
+    },
+    {
+      "id": "t3_14",
+      "type": "sentenceAssembly",
+      "question": "Если я закончу рано я позвоню тебе",
+      "correctAnswer": "If I finish early I will call you",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "What",
+          "Where"
+        ],
+        [
+          "I",
+          "They",
+          "You",
+          "One"
+        ],
+        [
+          "finish",
+          "finished",
+          "start",
+          "stop"
+        ],
+        [
+          "early",
+          "late",
+          "soon",
+          "first"
+        ],
+        [
+          "I",
+          "They",
+          "You",
+          "One"
+        ],
+        [
+          "will",
+          "would",
+          "do",
+          "am"
+        ],
+        [
+          "call",
+          "called",
+          "ring",
+          "tell"
+        ],
+        [
+          "you",
+          "your",
+          "him",
+          "her"
+        ]
+      ],
+      "mistakeTags": [
+        "conditional",
+        "zero_first_conditional"
+      ],
+      "audioPath": "assets/audio/grammar/upper_03_conditionals_0_1/013.mp3"
+    },
+    {
+      "id": "t3_15",
+      "type": "sentenceAssembly",
+      "question": "Если пойдет снег, мы будем кататься на лыжах",
+      "correctAnswer": "If it snows we will ski",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "What",
+          "Why"
+        ],
+        [
+          "it",
+          "this",
+          "that",
+          "there"
+        ],
+        [
+          "snows",
+          "snow",
+          "cold",
+          "ice"
+        ],
+        [
+          "we",
+          "us",
+          "our",
+          "they"
+        ],
+        [
+          "will",
+          "would",
+          "are",
+          "do"
+        ],
+        [
+          "ski",
+          "skate",
+          "play",
+          "run"
+        ]
+      ],
+      "mistakeTags": [
+        "conditionals",
+        "zero_first_conditional"
+      ],
+      "audioPath": "assets/audio/grammar/upper_03_conditionals_0_1/014.mp3"
+    },
+    {
+      "id": "t3_16",
+      "type": "sentenceAssembly",
+      "question": "Если автобус опоздает мы пойдём пешком",
+      "correctAnswer": "If the bus is late we will walk",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "What",
+          "Where"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "bus",
+          "car",
+          "train",
+          "taxi"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "were"
+        ],
+        [
+          "late",
+          "early",
+          "slow",
+          "fast"
+        ],
+        [
+          "we",
+          "us",
+          "our",
+          "they"
+        ],
+        [
+          "will",
+          "would",
+          "do",
+          "are"
+        ],
+        [
+          "walk",
+          "run",
+          "wait",
+          "stay"
+        ]
+      ],
+      "mistakeTags": [
+        "conditional",
+        "zero_first_conditional"
+      ],
+      "audioPath": "assets/audio/grammar/upper_03_conditionals_0_1/015.mp3"
+    },
+    {
+      "id": "t3_17",
+      "type": "sentenceAssembly",
+      "question": "Если ты устал, иди спать (Imperative)",
+      "correctAnswer": "If you are tired go to sleep",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "What",
+          "Why"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "she"
+        ],
+        [
+          "are",
+          "is",
+          "were",
+          "be"
+        ],
+        [
+          "tired",
+          "sleepy",
+          "sad",
+          "bad"
+        ],
+        [
+          "go",
+          "went",
+          "gone",
+          "walk"
+        ],
+        [
+          "to",
+          "with",
+          "from",
+          "by"
+        ],
+        [
+          "sleep",
+          "bed",
+          "rest",
+          "nap"
+        ]
+      ],
+      "mistakeTags": [
+        "conditionals",
+        "zero_first_conditional"
+      ],
+      "audioPath": "assets/audio/grammar/upper_03_conditionals_0_1/016.mp3"
+    },
+    {
+      "id": "t3_18",
+      "type": "sentenceAssembly",
+      "question": "Если не спать долго чувствуешь усталость",
+      "correctAnswer": "If you do not sleep you feel tired",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "What",
+          "Where"
+        ],
+        [
+          "you",
+          "your",
+          "she",
+          "he"
+        ],
+        [
+          "do",
+          "does",
+          "did",
+          "are"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "just"
+        ],
+        [
+          "sleep",
+          "rest",
+          "nap",
+          "stop"
+        ],
+        [
+          "you",
+          "your",
+          "she",
+          "we"
+        ],
+        [
+          "feel",
+          "felt",
+          "feels",
+          "get"
+        ],
+        [
+          "tired",
+          "sleepy",
+          "sick",
+          "weak"
+        ]
+      ],
+      "mistakeTags": [
+        "conditional",
+        "zero_first_conditional"
+      ],
+      "audioPath": "assets/audio/grammar/upper_03_conditionals_0_1/017.mp3"
+    },
+    {
+      "id": "t3_19",
+      "type": "sentenceAssembly",
+      "question": "Если ты не польешь цветы, они умрут",
+      "correctAnswer": "If you do not water flowers they die",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "What",
+          "Why"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "she"
+        ],
+        [
+          "do",
+          "does",
+          "did",
+          "are"
+        ],
+        [
+          "not",
+          "no",
+          "don't",
+          "never"
+        ],
+        [
+          "water",
+          "drink",
+          "wet",
+          "pour"
+        ],
+        [
+          "flowers",
+          "plants",
+          "tree",
+          "grass"
+        ],
+        [
+          "they",
+          "them",
+          "their",
+          "it"
+        ],
+        [
+          "die",
+          "dead",
+          "kill",
+          "end"
+        ]
+      ],
+      "mistakeTags": [
+        "conditionals",
+        "zero_first_conditional"
+      ],
+      "audioPath": "assets/audio/grammar/upper_03_conditionals_0_1/018.mp3"
+    },
+    {
+      "id": "t3_20",
+      "type": "sentenceAssembly",
+      "question": "Мы промокнем если начнётся дождь на улице",
+      "correctAnswer": "We will get wet if it starts raining",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "I",
+          "They",
+          "You"
+        ],
+        [
+          "will",
+          "would",
+          "do",
+          "are"
+        ],
+        [
+          "get",
+          "got",
+          "become",
+          "go"
+        ],
+        [
+          "wet",
+          "cold",
+          "sick",
+          "lost"
+        ],
+        [
+          "if",
+          "when",
+          "that",
+          "what"
+        ],
+        [
+          "it",
+          "this",
+          "rain",
+          "sky"
+        ],
+        [
+          "starts",
+          "start",
+          "started",
+          "stops"
+        ],
+        [
+          "raining",
+          "snowing",
+          "pouring",
+          "falling"
+        ]
+      ],
+      "mistakeTags": [
+        "conditional",
+        "zero_first_conditional"
+      ],
+      "audioPath": "assets/audio/grammar/upper_03_conditionals_0_1/019.mp3"
+    },
+    {
+      "id": "t3_21",
+      "type": "sentenceAssembly",
+      "question": "Что случится, если я нажму это?",
+      "correctAnswer": "What will happen if I press this?",
+      "options": [],
+      "variants": [
+        [
+          "What",
+          "Where",
+          "When",
+          "Why"
+        ],
+        [
+          "will",
+          "may",
+          "shall",
+          "must"
+        ],
+        [
+          "happen",
+          "happens",
+          "happening",
+          "go"
+        ],
+        [
+          "if",
+          "when",
+          "that",
+          "what"
+        ],
+        [
+          "I",
+          "She",
+          "He",
+          "It"
+        ],
+        [
+          "press",
+          "push",
+          "touch",
+          "click"
+        ],
+        [
+          "this",
+          "that",
+          "it",
+          "here"
+        ]
+      ],
+      "mistakeTags": [
+        "conditionals",
+        "zero_first_conditional"
+      ],
+      "audioPath": "assets/audio/grammar/upper_03_conditionals_0_1/020.mp3"
+    },
+    {
+      "id": "t3_22",
+      "type": "sentenceAssembly",
+      "question": "Если ты представишь доказательства я одобрю проект",
+      "correctAnswer": "If you present evidence I will approve the project",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "What",
+          "Where"
+        ],
+        [
+          "you",
+          "your",
+          "she",
+          "he"
+        ],
+        [
+          "present",
+          "show",
+          "give",
+          "send"
+        ],
+        [
+          "evidence",
+          "proof",
+          "data",
+          "facts"
+        ],
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "will",
+          "shall",
+          "did",
+          "can"
+        ],
+        [
+          "approve",
+          "accept",
+          "reject",
+          "review"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "project",
+          "plan",
+          "deal",
+          "proposal"
+        ]
+      ],
+      "mistakeTags": [
+        "conditional",
+        "zero_first_conditional"
+      ],
+      "audioPath": "assets/audio/grammar/upper_03_conditionals_0_1/021.mp3"
+    },
+    {
+      "id": "t3_23",
+      "type": "sentenceAssembly",
+      "question": "Если погода будет хорошей мы пойдём гулять",
+      "correctAnswer": "If the weather is good we will walk",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "Unless",
+          "Although"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "weather",
+          "day",
+          "morning",
+          "evening"
+        ],
+        [
+          "is",
+          "was",
+          "gets",
+          "seems"
+        ],
+        [
+          "good",
+          "nice",
+          "warm",
+          "fine"
+        ],
+        [
+          "we",
+          "I",
+          "they",
+          "she"
+        ],
+        [
+          "will",
+          "could",
+          "might",
+          "should"
+        ],
+        [
+          "walk",
+          "swim",
+          "play",
+          "run"
+        ]
+      ],
+      "mistakeTags": [
+        "conditionals",
+        "zero_first_conditional"
+      ],
+      "audioPath": "assets/audio/grammar/upper_03_conditionals_0_1/022.mp3"
+    },
+    {
+      "id": "t3_24",
+      "type": "sentenceAssembly",
+      "question": "Если нагреть металл он расширяется быстро",
+      "correctAnswer": "If you heat metal it expands very fast",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "What",
+          "Where"
+        ],
+        [
+          "you",
+          "your",
+          "she",
+          "he"
+        ],
+        [
+          "heat",
+          "melt",
+          "burn",
+          "cool"
+        ],
+        [
+          "metal",
+          "water",
+          "glass",
+          "wood"
+        ],
+        [
+          "it",
+          "this",
+          "that",
+          "he"
+        ],
+        [
+          "expands",
+          "expand",
+          "melts",
+          "breaks"
+        ],
+        [
+          "very",
+          "so",
+          "too",
+          "more"
+        ],
+        [
+          "fast",
+          "slow",
+          "quick",
+          "hard"
+        ]
+      ],
+      "mistakeTags": [
+        "conditional",
+        "zero_first_conditional"
+      ],
+      "audioPath": "assets/audio/grammar/upper_03_conditionals_0_1/023.mp3"
+    },
+    {
+      "id": "t3_25",
+      "type": "sentenceAssembly",
+      "question": "Я буду доволен, если команда выполнит план",
+      "correctAnswer": "I will be satisfied if the team meets the target",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "will",
+          "shall",
+          "did",
+          "can"
+        ],
+        [
+          "be",
+          "been",
+          "is",
+          "was"
+        ],
+        [
+          "satisfied",
+          "happy",
+          "glad",
+          "proud"
+        ],
+        [
+          "if",
+          "when",
+          "that",
+          "what"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "team",
+          "group",
+          "staff",
+          "crew"
+        ],
+        [
+          "meets",
+          "meet",
+          "reaches",
+          "hits"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "target",
+          "goal",
+          "plan",
+          "deadline"
+        ]
+      ],
+      "mistakeTags": [
+        "conditionals",
+        "zero_first_conditional"
+      ],
+      "audioPath": "assets/audio/grammar/upper_03_conditionals_0_1/024.mp3"
+    },
+    {
+      "id": "t3_26",
+      "type": "sentenceAssembly",
+      "question": "Если мы опоздаем они начнут без нас",
+      "correctAnswer": "If we are late they will start without us",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "What",
+          "Where"
+        ],
+        [
+          "we",
+          "us",
+          "our",
+          "they"
+        ],
+        [
+          "are",
+          "is",
+          "were",
+          "was"
+        ],
+        [
+          "late",
+          "early",
+          "slow",
+          "fast"
+        ],
+        [
+          "they",
+          "them",
+          "their",
+          "she"
+        ],
+        [
+          "will",
+          "would",
+          "do",
+          "are"
+        ],
+        [
+          "start",
+          "begin",
+          "go",
+          "leave"
+        ],
+        [
+          "without",
+          "with",
+          "before",
+          "after"
+        ],
+        [
+          "us",
+          "we",
+          "our",
+          "me"
+        ]
+      ],
+      "mistakeTags": [
+        "conditional",
+        "zero_first_conditional"
+      ],
+      "audioPath": "assets/audio/grammar/upper_03_conditionals_0_1/025.mp3"
+    },
+    {
+      "id": "t3_27",
+      "type": "sentenceAssembly",
+      "question": "Если пойдёт дождь мы останемся дома",
+      "correctAnswer": "If it rains we will stay at home",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "Unless",
+          "Although"
+        ],
+        [
+          "it",
+          "he",
+          "she",
+          "they"
+        ],
+        [
+          "rains",
+          "snows",
+          "storms",
+          "stops"
+        ],
+        [
+          "we",
+          "I",
+          "they",
+          "she"
+        ],
+        [
+          "will",
+          "may",
+          "shall",
+          "must"
+        ],
+        [
+          "stay",
+          "go",
+          "come",
+          "sit"
+        ],
+        [
+          "at",
+          "to",
+          "about",
+          "through"
+        ],
+        [
+          "home",
+          "work",
+          "school",
+          "here"
+        ]
+      ],
+      "mistakeTags": [
+        "conditionals",
+        "zero_first_conditional"
+      ],
+      "audioPath": "assets/audio/grammar/upper_03_conditionals_0_1/026.mp3"
+    },
+    {
+      "id": "t3_28",
+      "type": "sentenceAssembly",
+      "question": "Если ты увидишь Тома, скажи ему привет",
+      "correctAnswer": "If you see Tom say hello to him",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "What",
+          "Why"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "she"
+        ],
+        [
+          "see",
+          "saw",
+          "look",
+          "watch"
+        ],
+        [
+          "Tom",
+          "him",
+          "he",
+          "man"
+        ],
+        [
+          "say",
+          "tell",
+          "speak",
+          "talk"
+        ],
+        [
+          "hello",
+          "hi",
+          "good",
+          "bye"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "him",
+          "he",
+          "his",
+          "her"
+        ]
+      ],
+      "mistakeTags": [
+        "conditionals",
+        "zero_first_conditional"
+      ],
+      "audioPath": "assets/audio/grammar/upper_03_conditionals_0_1/027.mp3"
+    },
+    {
+      "id": "t3_29",
+      "type": "sentenceAssembly",
+      "question": "Если ты не наденешь куртку тебе станет холодно",
+      "correctAnswer": "You will feel cold if you skip the jacket",
+      "options": [],
+      "variants": [
+        [
+          "You",
+          "I",
+          "They",
+          "One"
+        ],
+        [
+          "will",
+          "would",
+          "do",
+          "are"
+        ],
+        [
+          "feel",
+          "felt",
+          "be",
+          "get"
+        ],
+        [
+          "cold",
+          "warm",
+          "sick",
+          "wet"
+        ],
+        [
+          "if",
+          "when",
+          "that",
+          "what"
+        ],
+        [
+          "you",
+          "your",
+          "she",
+          "he"
+        ],
+        [
+          "skip",
+          "wear",
+          "take",
+          "lose"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "jacket",
+          "coat",
+          "hat",
+          "shirt"
+        ]
+      ],
+      "mistakeTags": [
+        "conditional",
+        "zero_first_conditional"
+      ],
+      "audioPath": "assets/audio/grammar/upper_03_conditionals_0_1/028.mp3"
+    },
+    {
+      "id": "t3_30",
+      "type": "sentenceAssembly",
+      "question": "Если ты ешь слишком много, ты толстеешь (Zero)",
+      "correctAnswer": "If you eat too much you get fat",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "What",
+          "Why"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "she"
+        ],
+        [
+          "eat",
+          "ate",
+          "food",
+          "meal"
+        ],
+        [
+          "too",
+          "so",
+          "very",
+          "much"
+        ],
+        [
+          "much",
+          "many",
+          "lot",
+          "more"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "she"
+        ],
+        [
+          "get",
+          "become",
+          "go",
+          "make"
+        ],
+        [
+          "fat",
+          "big",
+          "heavy",
+          "large"
+        ]
+      ],
+      "mistakeTags": [
+        "conditionals",
+        "zero_first_conditional"
+      ],
+      "audioPath": "assets/audio/grammar/upper_03_conditionals_0_1/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionUpper03Conditionals01",
+  "theoryQuiz": [
+    {
+      "id": "tq_01",
+      "type": "multipleChoice",
+      "question": "Какая структура Zero Conditional?",
+      "options": [
+        "If + Past Simple, would + V1",
+        "If + Present Simple, Present Simple",
+        "If + Present Simple, will + V1",
+        "If + Past Perfect, would have + V3"
+      ],
+      "correctIndex": 1,
+      "explanation": "Zero Conditional: If + Present Simple, Present Simple. Используется для фактов и законов природы."
+    },
+    {
+      "id": "tq_02",
+      "type": "trueFalse",
+      "question": "Zero Conditional используется для описания общих фактов и законов природы.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Верно. Zero Conditional описывает вещи, которые всегда истинны: If you heat water, it boils."
+    },
+    {
+      "id": "tq_03",
+      "type": "multipleChoice",
+      "question": "Выберите правильный пример First Conditional:",
+      "options": [
+        "If it rains, I stay home.",
+        "If it rained, I would stay home.",
+        "If it rains, I will stay home.",
+        "If it had rained, I would have stayed home."
+      ],
+      "correctIndex": 2,
+      "explanation": "First Conditional: If + Present Simple, will + V1. If it rains, I will stay home."
+    },
+    {
+      "id": "tq_04",
+      "type": "trueFalse",
+      "question": "В First Conditional в части с 'if' используется будущее время (will).",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "Неверно. После if используется Present Simple, НЕ will: If it rains (не: If it will rain)."
+    },
+    {
+      "id": "tq_05",
+      "type": "multipleChoice",
+      "question": "Что означает 'unless' в условных предложениях?",
+      "options": [
+        "if also",
+        "if not",
+        "even if",
+        "only if"
+      ],
+      "correctIndex": 1,
+      "explanation": "Unless = if not. Unless you hurry = If you don't hurry."
+    },
+    {
+      "id": "tq_06",
+      "type": "multipleChoice",
+      "question": "Какое предложение является примером Zero Conditional?",
+      "options": [
+        "If I win, I will celebrate.",
+        "If you heat ice, it melts.",
+        "If I were you, I would go.",
+        "If I had known, I would have called."
+      ],
+      "correctIndex": 1,
+      "explanation": "If you heat ice, it melts — это факт (всегда истина), поэтому Zero Conditional."
+    },
+    {
+      "id": "tq_07",
+      "type": "trueFalse",
+      "question": "First Conditional описывает реальные, вероятные ситуации в будущем.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Верно. First Conditional — для реальных условий: If it rains tomorrow, I will take an umbrella."
+    },
+    {
+      "id": "tq_08",
+      "type": "multipleChoice",
+      "question": "Выберите правильное предложение:",
+      "options": [
+        "If you will study, you pass.",
+        "If you study, you will pass.",
+        "If you studied, you will pass.",
+        "If you study, you would pass."
+      ],
+      "correctIndex": 1,
+      "explanation": "First Conditional: If + Present Simple (study), will + V1 (will pass)."
+    },
+    {
+      "id": "tq_09",
+      "type": "trueFalse",
+      "question": "'If water reaches 100°C, it will boil' — это правильный Zero Conditional.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "Неверно. В Zero Conditional обе части в Present Simple: If water reaches 100°C, it boils (без will)."
+    },
+    {
+      "id": "tq_10",
+      "type": "multipleChoice",
+      "question": "Какая разница между Zero и First Conditional?",
+      "options": [
+        "Zero — о прошлом, First — о будущем",
+        "Zero — о фактах, First — о реальных условиях в будущем",
+        "Zero — нереальные условия, First — реальные",
+        "Разницы нет, они взаимозаменяемы"
+      ],
+      "correctIndex": 1,
+      "explanation": "Zero — общие истины и факты. First — реальные возможные ситуации в будущем."
+    }
+  ]
+}

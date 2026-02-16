@@ -1,0 +1,80 @@
+{
+    "level": "advanced",
+    "lessons": [
+        {
+            "id": "advanced_01_reported_speech",
+            "file": "01_reported_speech.json",
+            "order": 1
+        },
+        {
+            "id": "advanced_02_participles",
+            "file": "02_participles.json",
+            "order": 2
+        },
+        {
+            "id": "advanced_03_modal_perfects",
+            "file": "03_modal_perfects.json",
+            "order": 3
+        },
+        {
+            "id": "advanced_04_mixed_conditionals",
+            "file": "04_mixed_conditionals.json",
+            "order": 4
+        },
+        {
+            "id": "advanced_05_inversion",
+            "file": "05_inversion.json",
+            "order": 5
+        },
+        {
+            "id": "advanced_06_ellipsis_substitution",
+            "file": "06_ellipsis_substitution.json",
+            "order": 6
+        },
+        {
+            "id": "advanced_07_cleft_sentences",
+            "file": "07_cleft_sentences.json",
+            "order": 7
+        },
+        {
+            "id": "advanced_08_advanced_connectors",
+            "file": "08_advanced_connectors.json",
+            "order": 8
+        },
+        {
+            "id": "advanced_09_subjunctive",
+            "file": "09_subjunctive.json",
+            "order": 9
+        },
+        {
+            "id": "advanced_10_nominal_clauses",
+            "file": "10_nominal_clauses.json",
+            "order": 10
+        },
+        {
+            "id": "advanced_11_emphasis_fronting",
+            "file": "11_emphasis_fronting.json",
+            "order": 11
+        },
+        {
+            "id": "advanced_12_advanced_passive",
+            "file": "12_advanced_passive.json",
+            "order": 12
+        },
+        {
+            "id": "advanced_13_hedging_vague",
+            "file": "13_hedging_vague.json",
+            "order": 13
+        },
+        {
+            "id": "advanced_14_unreal_past",
+            "file": "14_unreal_past.json",
+            "order": 14
+        },
+        {
+            "id": "advanced_15_register",
+            "file": "15_register.json",
+            "order": 15
+        }
+    ]
+}

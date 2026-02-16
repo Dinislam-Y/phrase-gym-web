@@ -1,0 +1,476 @@
+{
+  "id": "upper_listening_03_conditionals_0_1",
+  "title": "Conditionals: Zero & First",
+  "description": "Слушайте условные предложения нулевого и первого типа.",
+  "order": 3,
+  "level": "upper_intermediate",
+  "imageUrl": "assets/images/lessons/conditionals_0_1.png",
+  "tasks": [
+    {
+      "id": "t3_01",
+      "audioText": "Our chemistry teacher always reminds us about safety. If you heat water to a hundred degrees, it boils.",
+      "transcript": "If you heat water to a hundred degrees, it boils.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Water always reaches boiling point at a hundred degrees."
+        },
+        {
+          "id": "o2",
+          "text": "Water might boil at a hundred degrees sometimes."
+        },
+        {
+          "id": "o3",
+          "text": "Water will boil only if you heat it very slowly."
+        },
+        {
+          "id": "o4",
+          "text": "Water never boils at a hundred degrees."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Zero conditional states a scientific fact — if + present, present. Heating to 100°C always causes boiling.",
+      "mistakeTags": [
+        "science",
+        "conditionals_0_1",
+        "conditional"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_03_conditionals_0_1/t3_01.mp3"
+    },
+    {
+      "id": "t3_02",
+      "audioText": "The weather forecast looks promising for the weekend. If it stays sunny, we will have a barbecue in the garden.",
+      "transcript": "If it stays sunny, we will have a barbecue in the garden.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "We had a barbecue last weekend."
+        },
+        {
+          "id": "o2",
+          "text": "We plan to barbecue outdoors on the condition that the weather is good."
+        },
+        {
+          "id": "o3",
+          "text": "We will have a barbecue regardless of the weather."
+        },
+        {
+          "id": "o4",
+          "text": "We never have barbecues in the garden."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "First conditional: if + present simple, will + base verb. A real future possibility depending on weather.",
+      "mistakeTags": [
+        "leisure",
+        "conditionals_0_1",
+        "conditional"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_03_conditionals_0_1/t3_02.mp3"
+    },
+    {
+      "id": "t3_03",
+      "audioText": "The doctor gave me strict instructions. If you don't take antibiotics regularly, the infection returns.",
+      "transcript": "If you don't take antibiotics regularly, the infection returns.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Skipping antibiotics always leads to the infection coming back."
+        },
+        {
+          "id": "o2",
+          "text": "The infection might return if you take antibiotics."
+        },
+        {
+          "id": "o3",
+          "text": "Antibiotics cause infections to return."
+        },
+        {
+          "id": "o4",
+          "text": "The infection will never return."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Zero conditional for a medical fact — missing antibiotics consistently leads to infection recurrence.",
+      "mistakeTags": [
+        "health",
+        "conditionals_0_1",
+        "conditional"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_03_conditionals_0_1/t3_03.mp3"
+    },
+    {
+      "id": "t3_04",
+      "audioText": "My manager mentioned a possible promotion at our last meeting. If I complete this project successfully, I will get promoted to team lead.",
+      "transcript": "If I complete this project successfully, I will get promoted to team lead.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "I was promoted to team lead last month."
+        },
+        {
+          "id": "o2",
+          "text": "I will be promoted no matter what happens with the project."
+        },
+        {
+          "id": "o3",
+          "text": "A successful project completion will result in my promotion."
+        },
+        {
+          "id": "o4",
+          "text": "I will complete the project after getting promoted."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "First conditional with a real future outcome: completing the project leads to the promotion.",
+      "mistakeTags": [
+        "work",
+        "conditionals_0_1",
+        "conditional"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_03_conditionals_0_1/t3_04.mp3"
+    },
+    {
+      "id": "t3_05",
+      "audioText": "The driving instructor explained the basic rules again. If you press the brake pedal, the car slows down.",
+      "transcript": "If you press the brake pedal, the car slows down.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Pressing the brake always makes the car decelerate."
+        },
+        {
+          "id": "o2",
+          "text": "The car speeds up when you press the brake."
+        },
+        {
+          "id": "o3",
+          "text": "You should never press the brake pedal."
+        },
+        {
+          "id": "o4",
+          "text": "The car might slow down if the brake works."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Zero conditional for a general mechanical fact — braking always causes deceleration.",
+      "mistakeTags": [
+        "transport",
+        "conditionals_0_1",
+        "conditional"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_03_conditionals_0_1/t3_05.mp3"
+    },
+    {
+      "id": "t3_06",
+      "audioText": "I'm worried about the final exam next week. If I don't pass the exam, I will have to retake the entire course.",
+      "transcript": "If I don't pass the exam, I will have to retake the entire course.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Failing the exam will force me to repeat the whole course."
+        },
+        {
+          "id": "o2",
+          "text": "I already failed and retook the course."
+        },
+        {
+          "id": "o3",
+          "text": "I will retake the course even if I pass."
+        },
+        {
+          "id": "o4",
+          "text": "Passing the exam has no effect on the course."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "First conditional with a negative condition: not passing leads to the consequence of retaking the course.",
+      "mistakeTags": [
+        "education",
+        "conditionals_0_1",
+        "conditional"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_03_conditionals_0_1/t3_06.mp3"
+    },
+    {
+      "id": "t3_07",
+      "audioText": "The gardener shared a useful tip with us. If you water plants in the evening, they absorb moisture more efficiently.",
+      "transcript": "If you water plants in the evening, they absorb moisture more efficiently.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Evening watering helps plants take in water better."
+        },
+        {
+          "id": "o2",
+          "text": "Plants should only be watered in the morning."
+        },
+        {
+          "id": "o3",
+          "text": "Watering in the evening kills the plants."
+        },
+        {
+          "id": "o4",
+          "text": "Plants never need to be watered."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Zero conditional for a general truth about gardening — evening watering consistently improves absorption.",
+      "mistakeTags": [
+        "nature",
+        "conditionals_0_1",
+        "conditional"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_03_conditionals_0_1/t3_07.mp3"
+    },
+    {
+      "id": "t3_08",
+      "audioText": "The travel agent offered us a deal this morning. If we book the trip before Wednesday, we will receive a fifteen percent discount.",
+      "transcript": "If we book the trip before Wednesday, we will receive a fifteen percent discount.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "We received the discount last Wednesday."
+        },
+        {
+          "id": "o2",
+          "text": "Booking before Wednesday guarantees us a fifteen percent price reduction."
+        },
+        {
+          "id": "o3",
+          "text": "The discount applies only after Wednesday."
+        },
+        {
+          "id": "o4",
+          "text": "There is no discount available for this trip."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "First conditional: a real, time-limited offer — booking before the deadline leads to the discount.",
+      "mistakeTags": [
+        "travel",
+        "conditionals_0_1",
+        "conditional"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_03_conditionals_0_1/t3_08.mp3"
+    },
+    {
+      "id": "t3_09",
+      "audioText": "The biology textbook explains this clearly. If an animal loses its habitat, it migrates to a new area or faces extinction.",
+      "transcript": "If an animal loses its habitat, it migrates to a new area or faces extinction.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Habitat loss forces animals to either relocate or risk dying out."
+        },
+        {
+          "id": "o2",
+          "text": "Animals always adapt perfectly to habitat loss."
+        },
+        {
+          "id": "o3",
+          "text": "Animals choose to lose their habitat voluntarily."
+        },
+        {
+          "id": "o4",
+          "text": "Habitat loss only affects plants, not animals."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Zero conditional for a biological principle — habitat loss consistently results in migration or extinction.",
+      "mistakeTags": [
+        "nature",
+        "conditionals_0_1",
+        "conditional"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_03_conditionals_0_1/t3_09.mp3"
+    },
+    {
+      "id": "t3_10",
+      "audioText": "My colleague is thinking about applying for a grant. If she submits the application on time, she will probably receive funding.",
+      "transcript": "If she submits the application on time, she will probably receive funding.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She already received the funding."
+        },
+        {
+          "id": "o2",
+          "text": "She will likely get funding if her application is submitted by the deadline."
+        },
+        {
+          "id": "o3",
+          "text": "She will receive funding even without applying."
+        },
+        {
+          "id": "o4",
+          "text": "She decided not to apply for the grant."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "First conditional with 'probably' — a likely outcome if the real condition of timely submission is met.",
+      "mistakeTags": [
+        "work",
+        "conditionals_0_1",
+        "conditional"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_03_conditionals_0_1/t3_10.mp3"
+    },
+    {
+      "id": "t3_11",
+      "audioText": "The nutritionist gave a clear warning during the seminar. If you consume too much sugar, your body stores it as fat.",
+      "transcript": "If you consume too much sugar, your body stores it as fat.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Excess sugar consumption always leads to fat storage in the body."
+        },
+        {
+          "id": "o2",
+          "text": "Sugar is converted into muscle, not fat."
+        },
+        {
+          "id": "o3",
+          "text": "Eating sugar has no effect on the body."
+        },
+        {
+          "id": "o4",
+          "text": "Your body only stores fat from protein."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Zero conditional for a nutritional fact — overconsumption of sugar invariably results in fat storage.",
+      "mistakeTags": [
+        "health",
+        "conditionals_0_1",
+        "conditional"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_03_conditionals_0_1/t3_11.mp3"
+    },
+    {
+      "id": "t3_12",
+      "audioText": "The landlord called about the lease renewal. If we sign the new contract this week, we will keep the same rental price for another year.",
+      "transcript": "If we sign the new contract this week, we will keep the same rental price for another year.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "We signed the contract last year."
+        },
+        {
+          "id": "o2",
+          "text": "The rent will increase no matter what."
+        },
+        {
+          "id": "o3",
+          "text": "Signing this week will lock in our current rent for one more year."
+        },
+        {
+          "id": "o4",
+          "text": "We already moved out of the flat."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "First conditional: a real, time-sensitive condition — signing this week secures the unchanged rent.",
+      "mistakeTags": [
+        "home",
+        "conditionals_0_1",
+        "conditional"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_03_conditionals_0_1/t3_12.mp3"
+    },
+    {
+      "id": "t3_13",
+      "audioText": "The IT technician explained the problem clearly. If you restart the router, the connection resets automatically.",
+      "transcript": "If you restart the router, the connection resets automatically.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Restarting the router always causes the connection to reset on its own."
+        },
+        {
+          "id": "o2",
+          "text": "The connection resets only when the router breaks."
+        },
+        {
+          "id": "o3",
+          "text": "You should never restart the router."
+        },
+        {
+          "id": "o4",
+          "text": "Restarting the router deletes all your files."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Zero conditional for a technical fact — restarting the router consistently resets the connection.",
+      "mistakeTags": [
+        "technology",
+        "conditionals_0_1",
+        "conditional"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_03_conditionals_0_1/t3_13.mp3"
+    },
+    {
+      "id": "t3_14",
+      "audioText": "The fitness coach gave us an important reminder before the session. If you stretch properly before exercising, you will avoid muscle injuries.",
+      "transcript": "If you stretch properly before exercising, you will avoid muscle injuries.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Proper stretching before a workout will help prevent muscle damage."
+        },
+        {
+          "id": "o2",
+          "text": "Stretching causes muscle injuries."
+        },
+        {
+          "id": "o3",
+          "text": "You should never stretch before exercise."
+        },
+        {
+          "id": "o4",
+          "text": "Injuries happen regardless of stretching."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "First conditional with advice — proper stretching leads to the positive result of avoiding injuries.",
+      "mistakeTags": [
+        "sports",
+        "conditionals_0_1",
+        "conditional"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_03_conditionals_0_1/t3_14.mp3"
+    },
+    {
+      "id": "t3_15",
+      "audioText": "The shop assistant explained the return policy. If a customer returns a product within thirty days, they receive a full refund.",
+      "transcript": "If a customer returns a product within thirty days, they receive a full refund.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Returning a product within a month always results in a complete refund."
+        },
+        {
+          "id": "o2",
+          "text": "Customers can only get a partial refund."
+        },
+        {
+          "id": "o3",
+          "text": "Products cannot be returned under any circumstances."
+        },
+        {
+          "id": "o4",
+          "text": "The refund takes sixty days to process."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Zero conditional for a store policy — returning within the time frame consistently guarantees a full refund.",
+      "mistakeTags": [
+        "shopping",
+        "conditionals_0_1",
+        "conditional"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_03_conditionals_0_1/t3_15.mp3"
+    }
+  ],
+  "short_description": "Условные: нулевой и первый тип."
+}

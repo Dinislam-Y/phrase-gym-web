@@ -1,0 +1,400 @@
+{
+  "id": "beginner_bc_02_this_that",
+  "title": "This vs That",
+  "description": "This или That? Учимся различать «это» рядом и «то» далеко.",
+  "order": 2,
+  "level": "beginner",
+  "imageUrl": null,
+  "tasks": [
+    {
+      "id": "tvt_1",
+      "question": "___ is my book (here).",
+      "optionA": "THIS",
+      "optionB": "THAT",
+      "correctIndex": 0,
+      "explanation": "Книга рядом (here), поэтому this.",
+      "tags": [
+        "this_vs_that",
+        "this",
+        "home"
+      ]
+    },
+    {
+      "id": "tvt_2",
+      "question": "___ car is fast (over there).",
+      "optionA": "THIS",
+      "optionB": "THAT",
+      "correctIndex": 1,
+      "explanation": "Машина далеко (over there), поэтому that.",
+      "tags": [
+        "this_vs_that",
+        "that",
+        "street"
+      ]
+    },
+    {
+      "id": "tvt_3",
+      "question": "___ is my coffee (in my hand).",
+      "optionA": "THIS",
+      "optionB": "THAT",
+      "correctIndex": 0,
+      "explanation": "Кофе в руке, близко, поэтому this.",
+      "tags": [
+        "this_vs_that",
+        "this",
+        "food"
+      ]
+    },
+    {
+      "id": "tvt_4",
+      "question": "___ building is tall (far away).",
+      "optionA": "THIS",
+      "optionB": "THAT",
+      "correctIndex": 1,
+      "explanation": "Здание далеко (far away), поэтому that.",
+      "tags": [
+        "this_vs_that",
+        "that",
+        "city"
+      ]
+    },
+    {
+      "id": "tvt_5",
+      "question": "___ pen is blue (here).",
+      "optionA": "THIS",
+      "optionB": "THAT",
+      "correctIndex": 0,
+      "explanation": "Ручка здесь (here), рядом, поэтому this.",
+      "tags": [
+        "this_vs_that",
+        "this",
+        "work"
+      ]
+    },
+    {
+      "id": "tvt_6",
+      "question": "___ store is closed (across the street).",
+      "optionA": "THIS",
+      "optionB": "THAT",
+      "correctIndex": 1,
+      "explanation": "Магазин через дорогу, далеко, поэтому that.",
+      "tags": [
+        "this_vs_that",
+        "that",
+        "shopping"
+      ]
+    },
+    {
+      "id": "tvt_7",
+      "question": "___ apple is sweet (in my hand).",
+      "optionA": "THIS",
+      "optionB": "THAT",
+      "correctIndex": 0,
+      "explanation": "Яблоко в руке, близко, поэтому this.",
+      "tags": [
+        "this_vs_that",
+        "this",
+        "food"
+      ]
+    },
+    {
+      "id": "tvt_8",
+      "question": "___ dog is big (over there).",
+      "optionA": "THIS",
+      "optionB": "THAT",
+      "correctIndex": 1,
+      "explanation": "Собака там (over there), далеко, поэтому that.",
+      "tags": [
+        "this_vs_that",
+        "that",
+        "animals"
+      ]
+    },
+    {
+      "id": "tvt_9",
+      "question": "___ is my phone (here).",
+      "optionA": "THIS",
+      "optionB": "THAT",
+      "correctIndex": 0,
+      "explanation": "Телефон здесь (here), рядом, поэтому this.",
+      "tags": [
+        "this_vs_that",
+        "this",
+        "daily"
+      ]
+    },
+    {
+      "id": "tvt_10",
+      "question": "___ house is old (far away).",
+      "optionA": "THIS",
+      "optionB": "THAT",
+      "correctIndex": 1,
+      "explanation": "Дом далеко (far away), поэтому that.",
+      "tags": [
+        "this_vs_that",
+        "that",
+        "home"
+      ]
+    },
+    {
+      "id": "tvt_11",
+      "question": "___ chair is comfortable (I'm sitting).",
+      "optionA": "THIS",
+      "optionB": "THAT",
+      "correctIndex": 0,
+      "explanation": "Я сижу на стуле, он рядом, поэтому this.",
+      "tags": [
+        "this_vs_that",
+        "this",
+        "home"
+      ]
+    },
+    {
+      "id": "tvt_12",
+      "question": "___ tree is beautiful (across the park).",
+      "optionA": "THIS",
+      "optionB": "THAT",
+      "correctIndex": 1,
+      "explanation": "Дерево через парк, далеко, поэтому that.",
+      "tags": [
+        "this_vs_that",
+        "that",
+        "nature"
+      ]
+    },
+    {
+      "id": "tvt_13",
+      "question": "___ sandwich is delicious (eating now).",
+      "optionA": "THIS",
+      "optionB": "THAT",
+      "correctIndex": 0,
+      "explanation": "Я ем сейчас, сэндвич рядом, поэтому this.",
+      "tags": [
+        "this_vs_that",
+        "this",
+        "food"
+      ]
+    },
+    {
+      "id": "tvt_14",
+      "question": "___ restaurant is expensive (on the hill).",
+      "optionA": "THIS",
+      "optionB": "THAT",
+      "correctIndex": 1,
+      "explanation": "Ресторан на холме, далеко, поэтому that.",
+      "tags": [
+        "this_vs_that",
+        "that",
+        "food"
+      ]
+    },
+    {
+      "id": "tvt_15",
+      "question": "___ room is clean (we're in it).",
+      "optionA": "THIS",
+      "optionB": "THAT",
+      "correctIndex": 0,
+      "explanation": "Мы в комнате, она рядом, поэтому this.",
+      "tags": [
+        "this_vs_that",
+        "this",
+        "home"
+      ]
+    },
+    {
+      "id": "tvt_16",
+      "question": "___ mountain is high (in the distance).",
+      "optionA": "THIS",
+      "optionB": "THAT",
+      "correctIndex": 1,
+      "explanation": "Гора вдали, далеко, поэтому that.",
+      "tags": [
+        "this_vs_that",
+        "that",
+        "nature"
+      ]
+    },
+    {
+      "id": "tvt_17",
+      "question": "___ water is cold (drinking now).",
+      "optionA": "THIS",
+      "optionB": "THAT",
+      "correctIndex": 0,
+      "explanation": "Я пью сейчас, вода рядом, поэтому this.",
+      "tags": [
+        "this_vs_that",
+        "this",
+        "food"
+      ]
+    },
+    {
+      "id": "tvt_18",
+      "question": "___ office is modern (next building).",
+      "optionA": "THIS",
+      "optionB": "THAT",
+      "correctIndex": 1,
+      "explanation": "Офис в соседнем здании, далеко, поэтому that.",
+      "tags": [
+        "this_vs_that",
+        "that",
+        "work"
+      ]
+    },
+    {
+      "id": "tvt_19",
+      "question": "___ laptop is new (using it).",
+      "optionA": "THIS",
+      "optionB": "THAT",
+      "correctIndex": 0,
+      "explanation": "Я пользуюсь ноутбуком, он рядом, поэтому this.",
+      "tags": [
+        "this_vs_that",
+        "this",
+        "work"
+      ]
+    },
+    {
+      "id": "tvt_20",
+      "question": "___ cloud is dark (above the sea).",
+      "optionA": "THIS",
+      "optionB": "THAT",
+      "correctIndex": 1,
+      "explanation": "Облако над морем, далеко, поэтому that.",
+      "tags": [
+        "this_vs_that",
+        "that",
+        "nature"
+      ]
+    },
+    {
+      "id": "tvt_21",
+      "question": "Is ___ Tom? (phone call)",
+      "optionA": "THIS",
+      "optionB": "THAT",
+      "correctIndex": 0,
+      "explanation": "По телефону спрашиваем о себе через this.",
+      "tags": [
+        "this_vs_that",
+        "this",
+        "phone"
+      ]
+    },
+    {
+      "id": "tvt_22",
+      "question": "___ was a great day! (yesterday)",
+      "optionA": "THIS",
+      "optionB": "THAT",
+      "correctIndex": 1,
+      "explanation": "Вчерашний день уже далеко во времени, поэтому that.",
+      "tags": [
+        "this_vs_that",
+        "that",
+        "time"
+      ]
+    },
+    {
+      "id": "tvt_23",
+      "question": "___ is my friend Sarah (introducing).",
+      "optionA": "THIS",
+      "optionB": "THAT",
+      "correctIndex": 0,
+      "explanation": "При представлении человека рядом используем this.",
+      "tags": [
+        "this_vs_that",
+        "this",
+        "social"
+      ]
+    },
+    {
+      "id": "tvt_24",
+      "question": "___ was my old school (pointing far).",
+      "optionA": "THIS",
+      "optionB": "THAT",
+      "correctIndex": 1,
+      "explanation": "Показываю на далекое здание, поэтому that.",
+      "tags": [
+        "this_vs_that",
+        "that",
+        "education"
+      ]
+    },
+    {
+      "id": "tvt_25",
+      "question": "___ moment is perfect (right now).",
+      "optionA": "THIS",
+      "optionB": "THAT",
+      "correctIndex": 0,
+      "explanation": "Настоящий момент (right now) близко, поэтому this.",
+      "tags": [
+        "this_vs_that",
+        "this",
+        "time"
+      ]
+    },
+    {
+      "id": "tvt_26",
+      "question": "Who said ___? (someone far away)",
+      "optionA": "THIS",
+      "optionB": "THAT",
+      "correctIndex": 1,
+      "explanation": "Говорящий далеко, поэтому that.",
+      "tags": [
+        "this_vs_that",
+        "that",
+        "conversation"
+      ]
+    },
+    {
+      "id": "tvt_27",
+      "question": "___ is Anna speaking (answering phone).",
+      "optionA": "THIS",
+      "optionB": "THAT",
+      "correctIndex": 0,
+      "explanation": "Отвечаем по телефону о себе через this.",
+      "tags": [
+        "this_vs_that",
+        "this",
+        "phone"
+      ]
+    },
+    {
+      "id": "tvt_28",
+      "question": "___ movie was boring (last week).",
+      "optionA": "THIS",
+      "optionB": "THAT",
+      "correctIndex": 1,
+      "explanation": "Фильм на прошлой неделе далеко во времени, поэтому that.",
+      "tags": [
+        "this_vs_that",
+        "that",
+        "entertainment"
+      ]
+    },
+    {
+      "id": "tvt_29",
+      "question": "___ is how we do it.",
+      "optionA": "THIS",
+      "optionB": "THAT",
+      "correctIndex": 0,
+      "explanation": "Объясняем текущий процесс, близкий по времени, поэтому this.",
+      "tags": [
+        "this_vs_that",
+        "this",
+        "explanation"
+      ]
+    },
+    {
+      "id": "tvt_30",
+      "question": "Remember ___ time in Paris? (long ago)",
+      "optionA": "THIS",
+      "optionB": "THAT",
+      "correctIndex": 1,
+      "explanation": "Воспоминание из прошлого далеко во времени, поэтому that.",
+      "tags": [
+        "this_vs_that",
+        "that",
+        "memory"
+      ]
+    }
+  ]
+}

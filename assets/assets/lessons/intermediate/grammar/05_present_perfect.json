@@ -1,0 +1,1708 @@
+{
+  "id": "intermediate_05_present_perfect",
+  "title": "Present Perfect",
+  "description": "Present Perfect — это ваш рюкзак с опытом и результатами. Неважно, КОГДА это случилось. Важно, что у вас есть это СЕЙЧАС.",
+  "order": 5,
+  "level": "intermediate",
+  "imageUrl": "assets/images/lessons/present_perfect.png",
+  "vocabulary": [
+    {
+      "id": "v5_finish",
+      "english": "finish",
+      "russian": "заканчивать",
+      "partOfSpeech": "verb",
+      "example": "I have finished my work.",
+      "exampleTranslation": "Я закончил работу.",
+      "audioPath": "assets/audio/vocabulary/v5_finish.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_finish.mp3"
+    },
+    {
+      "id": "v5_go",
+      "english": "go",
+      "russian": "уходить, идти",
+      "partOfSpeech": "verb",
+      "example": "She has gone.",
+      "exampleTranslation": "Она ушла (уехала).",
+      "audioPath": "assets/audio/vocabulary/v5_go.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_go.mp3"
+    },
+    {
+      "id": "v5_already",
+      "english": "already",
+      "russian": "уже",
+      "partOfSpeech": "adverb",
+      "example": "We have already seen this.",
+      "exampleTranslation": "Мы уже видели это.",
+      "audioPath": "assets/audio/vocabulary/v5_already.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_already.mp3"
+    },
+    {
+      "id": "v5_ever",
+      "english": "ever",
+      "russian": "когда-либо",
+      "partOfSpeech": "adverb",
+      "example": "Have you ever been to Paris?",
+      "exampleTranslation": "Ты когда-нибудь был в Париже?",
+      "audioPath": "assets/audio/vocabulary/v5_ever.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_ever.mp3"
+    },
+    {
+      "id": "v5_lose",
+      "english": "lose",
+      "russian": "терять",
+      "partOfSpeech": "verb",
+      "example": "I have lost my passport.",
+      "exampleTranslation": "Я потерял свой паспорт.",
+      "audioPath": "assets/audio/vocabulary/v5_lose.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_lose.mp3"
+    },
+    {
+      "id": "v5_passport",
+      "english": "passport",
+      "russian": "паспорт",
+      "partOfSpeech": "noun",
+      "example": "I have lost my passport.",
+      "exampleTranslation": "Я потерял свой паспорт.",
+      "audioPath": "assets/audio/vocabulary/v5_passport.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_passport.mp3"
+    },
+    {
+      "id": "v5_buy",
+      "english": "buy",
+      "russian": "покупать",
+      "partOfSpeech": "verb",
+      "example": "He has bought a car.",
+      "exampleTranslation": "Он купил машину.",
+      "audioPath": "assets/audio/vocabulary/v5_buy.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_buy.mp3"
+    },
+    {
+      "id": "v5_arrive",
+      "english": "arrive",
+      "russian": "прибывать",
+      "partOfSpeech": "verb",
+      "example": "They haven't arrived yet.",
+      "exampleTranslation": "Они еще не приехали.",
+      "audioPath": "assets/audio/vocabulary/v5_arrive.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_arrive.mp3"
+    },
+    {
+      "id": "v5_yet",
+      "english": "yet",
+      "russian": "еще (в отрицаниях)",
+      "partOfSpeech": "adverb",
+      "example": "Not yet.",
+      "exampleTranslation": "Еще нет.",
+      "audioPath": "assets/audio/vocabulary/v5_yet.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_yet.mp3"
+    },
+    {
+      "id": "v5_do",
+      "english": "do",
+      "russian": "делать",
+      "partOfSpeech": "verb",
+      "example": "I have done my homework.",
+      "exampleTranslation": "Я сделал домашнюю работу.",
+      "audioPath": "assets/audio/vocabulary/v5_do.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_do.mp3"
+    },
+    {
+      "id": "v5_homework",
+      "english": "homework",
+      "russian": "домашняя работа",
+      "partOfSpeech": "noun",
+      "example": "I have done my homework.",
+      "exampleTranslation": "Я сделал домашнюю работу.",
+      "audioPath": "assets/audio/vocabulary/v5_homework.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_homework.mp3"
+    },
+    {
+      "id": "v5_break",
+      "english": "break",
+      "russian": "ломать",
+      "partOfSpeech": "verb",
+      "example": "She has broken her leg.",
+      "exampleTranslation": "Она сломала ногу.",
+      "audioPath": "assets/audio/vocabulary/v5_break.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_break.mp3"
+    },
+    {
+      "id": "v5_leg",
+      "english": "leg",
+      "russian": "нога",
+      "partOfSpeech": "noun",
+      "example": "She has broken her leg.",
+      "exampleTranslation": "Она сломала ногу.",
+      "audioPath": "assets/audio/vocabulary/v5_leg.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_leg.mp3"
+    },
+    {
+      "id": "v5_shop",
+      "english": "shop",
+      "russian": "магазин",
+      "partOfSpeech": "noun",
+      "example": "The shop has closed.",
+      "exampleTranslation": "Магазин закрылся.",
+      "audioPath": "assets/audio/vocabulary/v5_shop.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_shop.mp3"
+    },
+    {
+      "id": "v5_close",
+      "english": "close",
+      "russian": "закрывать",
+      "partOfSpeech": "verb",
+      "example": "The shop has closed.",
+      "exampleTranslation": "Магазин закрылся.",
+      "audioPath": "assets/audio/vocabulary/v5_close.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_close.mp3"
+    },
+    {
+      "id": "v5_never",
+      "english": "never",
+      "russian": "никогда",
+      "partOfSpeech": "adverb",
+      "example": "I have never eaten sushi.",
+      "exampleTranslation": "Я никогда не ел суши.",
+      "audioPath": "assets/audio/vocabulary/v5_never.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_never.mp3"
+    },
+    {
+      "id": "v5_just",
+      "english": "just",
+      "russian": "только что",
+      "partOfSpeech": "adverb",
+      "example": "We have just finished.",
+      "exampleTranslation": "Мы только что закончили.",
+      "audioPath": "assets/audio/vocabulary/v5_just.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_just.mp3"
+    },
+    {
+      "id": "v5_paint",
+      "english": "paint",
+      "russian": "красить (рисовать)",
+      "partOfSpeech": "verb",
+      "example": "She has painted a picture.",
+      "exampleTranslation": "Она нарисовала картину.",
+      "audioPath": "assets/audio/vocabulary/v5_paint.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_paint.mp3"
+    },
+    {
+      "id": "v5_choose",
+      "english": "choose",
+      "russian": "выбирать",
+      "partOfSpeech": "verb",
+      "example": "They have chosen a gift.",
+      "exampleTranslation": "Они выбрали подарок.",
+      "audioPath": "assets/audio/vocabulary/v5_choose.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_choose.mp3"
+    },
+    {
+      "id": "v5_read",
+      "english": "read",
+      "russian": "читать",
+      "partOfSpeech": "verb",
+      "example": "I have read this book.",
+      "exampleTranslation": "Я прочитал эту книгу.",
+      "audioPath": "assets/audio/vocabulary/v5_read.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_read.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "Present Perfect",
+    "subtitle": "Представьте себе чек из магазина. Неважно, купили вы хлеб минуту назад или час назад. Главное — хлеб у вас в руках (или в животе). Present Perfect фокусируется на РЕЗУЛЬТАТЕ в настоящем, а не на времени в прошлом.",
+    "construction": {
+      "formula": "Have/Has + V3 (3-я форма)",
+      "rules": [
+        {
+          "word": "Have / Has",
+          "description": "Вспомогательный глагол, как «иметь». I have (я имею), She has (она имеет)."
+        },
+        {
+          "word": "V3 (Сделанный)",
+          "description": "Done, Seen, Gone. Это причастие. Буквально: «Я имею сделанным»."
+        },
+        {
+          "word": "Отличие от Simple",
+          "description": "Simple говорит про ДАТУ (Вчера). Perfect говорит про СТАТУС (Уже сделано)."
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "check_circle",
+        "color": "green",
+        "title": "Результат налицо",
+        "description": "Что-то сломалось, потерялось, купилось. Мы видим последствия сейчас. (Я потерял ключи = Я сейчас стою без ключей).",
+        "example": {
+          "english": "I have lost my keys.",
+          "russian": "Я потерял ключи (и их сейчас нет)."
+        }
+      },
+      {
+        "icon": "explore",
+        "color": "blue",
+        "title": "Жизненный опыт",
+        "description": "Ваши достижения «в копилку». Я был там, я пробовал это.",
+        "example": {
+          "english": "I have been to London.",
+          "russian": "Я (уже) бывал в Лондоне."
+        }
+      },
+      {
+        "icon": "schedule",
+        "color": "purple",
+        "title": "Новости",
+        "description": "Свежие события без указания времени. Just happened.",
+        "example": {
+          "english": "He has just arrived.",
+          "russian": "Он только что приехал."
+        }
+      }
+    ],
+    "markers": [
+      "just",
+      "already",
+      "yet",
+      "ever",
+      "never",
+      "recently",
+      "lately"
+    ]
+  },
+  "tasks": [
+    {
+      "id": "t5_1",
+      "type": "sentenceAssembly",
+      "question": "Я закончил работу",
+      "correctAnswer": "I have finished my work",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "My",
+          "Am"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "am"
+        ],
+        [
+          "finished",
+          "finish",
+          "finishing",
+          "done"
+        ],
+        [
+          "my",
+          "me",
+          "mine",
+          "the"
+        ],
+        [
+          "work",
+          "job",
+          "task",
+          "working"
+        ]
+      ],
+      "mistakeTags": [
+        "present_perfect",
+        "have_has_done"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_05_present_perfect/000.mp3"
+    },
+    {
+      "id": "t5_2",
+      "type": "sentenceAssembly",
+      "question": "Она уже ушла",
+      "correctAnswer": "She has gone away already",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "They"
+        ],
+        [
+          "has",
+          "have",
+          "had",
+          "is"
+        ],
+        [
+          "gone",
+          "come",
+          "left",
+          "moved"
+        ],
+        [
+          "away",
+          "home",
+          "out",
+          "back"
+        ],
+        [
+          "already",
+          "just",
+          "never",
+          "always"
+        ]
+      ],
+      "mistakeTags": [
+        "present_perfect",
+        "have_has_done"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_05_present_perfect/001.mp3"
+    },
+    {
+      "id": "t5_3",
+      "type": "sentenceAssembly",
+      "question": "Мы уже видели этот фильм",
+      "correctAnswer": "We have already seen this movie",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "Us",
+          "Our",
+          "They"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "were"
+        ],
+        [
+          "already",
+          "just",
+          "yet",
+          "now"
+        ],
+        [
+          "seen",
+          "see",
+          "saw",
+          "watch"
+        ],
+        [
+          "this",
+          "that",
+          "it",
+          "the"
+        ],
+        [
+          "movie",
+          "film",
+          "cinema",
+          "video"
+        ]
+      ],
+      "mistakeTags": [
+        "present_perfect",
+        "have_has_done"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_05_present_perfect/002.mp3"
+    },
+    {
+      "id": "t5_4",
+      "type": "sentenceAssembly",
+      "question": "Ты когда-нибудь был в Париже?",
+      "correctAnswer": "Have you ever been to Paris?",
+      "options": [],
+      "variants": [
+        [
+          "Have",
+          "Has",
+          "Did",
+          "Do"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "she"
+        ],
+        [
+          "ever",
+          "never",
+          "always",
+          "just"
+        ],
+        [
+          "been",
+          "be",
+          "was",
+          "were"
+        ],
+        [
+          "to",
+          "in",
+          "at",
+          "for"
+        ],
+        [
+          "Paris",
+          "France",
+          "London",
+          "city"
+        ]
+      ],
+      "mistakeTags": [
+        "present_perfect",
+        "have_has_done"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_05_present_perfect/003.mp3"
+    },
+    {
+      "id": "t5_5",
+      "type": "sentenceAssembly",
+      "question": "Я потерял свой паспорт",
+      "correctAnswer": "I have lost my passport",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "My",
+          "Am"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "was"
+        ],
+        [
+          "lost",
+          "lose",
+          "losing",
+          "missed"
+        ],
+        [
+          "my",
+          "me",
+          "mine",
+          "the"
+        ],
+        [
+          "passport",
+          "folder",
+          "paper",
+          "card"
+        ]
+      ],
+      "mistakeTags": [
+        "present_perfect",
+        "have_has_done"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_05_present_perfect/004.mp3"
+    },
+    {
+      "id": "t5_6",
+      "type": "sentenceAssembly",
+      "question": "Он купил новую машину",
+      "correctAnswer": "He has bought a new car",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "Him",
+          "His",
+          "She"
+        ],
+        [
+          "has",
+          "have",
+          "had",
+          "is"
+        ],
+        [
+          "bought",
+          "buy",
+          "buying",
+          "brought"
+        ],
+        [
+          "a",
+          "the",
+          "an",
+          "one"
+        ],
+        [
+          "new",
+          "news",
+          "now",
+          "know"
+        ],
+        [
+          "car",
+          "bus",
+          "auto",
+          "road"
+        ]
+      ],
+      "mistakeTags": [
+        "present_perfect",
+        "have_has_done"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_05_present_perfect/005.mp3"
+    },
+    {
+      "id": "t5_7",
+      "type": "sentenceAssembly",
+      "question": "Они еще не приехали (пока)",
+      "correctAnswer": "They haven't arrived yet",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "Them",
+          "Their",
+          "We"
+        ],
+        [
+          "haven't",
+          "hasn't",
+          "don't",
+          "didn't"
+        ],
+        [
+          "arrived",
+          "arrive",
+          "come",
+          "came"
+        ],
+        [
+          "yet",
+          "already",
+          "just",
+          "now"
+        ]
+      ],
+      "mistakeTags": [
+        "present_perfect",
+        "have_has_done"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_05_present_perfect/006.mp3"
+    },
+    {
+      "id": "t5_8",
+      "type": "sentenceAssembly",
+      "question": "Я сделал домашнюю работу",
+      "correctAnswer": "I have done my homework",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "My",
+          "Am"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "was"
+        ],
+        [
+          "done",
+          "do",
+          "did",
+          "make"
+        ],
+        [
+          "my",
+          "me",
+          "mine",
+          "the"
+        ],
+        [
+          "homework",
+          "history",
+          "test",
+          "task"
+        ]
+      ],
+      "mistakeTags": [
+        "present_perfect",
+        "have_has_done"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_05_present_perfect/007.mp3"
+    },
+    {
+      "id": "t5_9",
+      "type": "sentenceAssembly",
+      "question": "Она сломала ногу",
+      "correctAnswer": "She has broken her leg",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "Her",
+          "Hers",
+          "He"
+        ],
+        [
+          "has",
+          "have",
+          "had",
+          "is"
+        ],
+        [
+          "broken",
+          "break",
+          "broke",
+          "breaking"
+        ],
+        [
+          "her",
+          "she",
+          "hers",
+          "my"
+        ],
+        [
+          "leg",
+          "arm",
+          "hand",
+          "foot"
+        ]
+      ],
+      "mistakeTags": [
+        "present_perfect",
+        "have_has_done"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_05_present_perfect/008.mp3"
+    },
+    {
+      "id": "t5_10",
+      "type": "sentenceAssembly",
+      "question": "Магазин закрылся",
+      "correctAnswer": "The shop has closed",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "This",
+          "my"
+        ],
+        [
+          "shop",
+          "store",
+          "market",
+          "place"
+        ],
+        [
+          "has",
+          "have",
+          "had",
+          "is"
+        ],
+        [
+          "closed",
+          "close",
+          "closing",
+          "shut"
+        ]
+      ],
+      "mistakeTags": [
+        "present_perfect",
+        "have_has_done"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_05_present_perfect/009.mp3"
+    },
+    {
+      "id": "t5_11",
+      "type": "sentenceAssembly",
+      "question": "Где ты был?",
+      "correctAnswer": "Where have you been?",
+      "options": [],
+      "variants": [
+        [
+          "Where",
+          "What",
+          "When",
+          "Who"
+        ],
+        [
+          "have",
+          "has",
+          "did",
+          "do"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "she"
+        ],
+        [
+          "been",
+          "be",
+          "was",
+          "were"
+        ]
+      ],
+      "mistakeTags": [
+        "present_perfect",
+        "have_has_done"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_05_present_perfect/010.mp3"
+    },
+    {
+      "id": "t5_12",
+      "type": "sentenceAssembly",
+      "question": "Я никогда не ел суши",
+      "correctAnswer": "I have never eaten sushi",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "My",
+          "Am"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "did"
+        ],
+        [
+          "never",
+          "ever",
+          "not",
+          "no"
+        ],
+        [
+          "eaten",
+          "ate",
+          "eat",
+          "eating"
+        ],
+        [
+          "sushi",
+          "fish",
+          "food",
+          "rolls"
+        ]
+      ],
+      "mistakeTags": [
+        "present_perfect",
+        "have_has_done"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_05_present_perfect/011.mp3"
+    },
+    {
+      "id": "t5_13",
+      "type": "sentenceAssembly",
+      "question": "Мы только что закончили",
+      "correctAnswer": "We have just finished",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "Us",
+          "Our",
+          "They"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "did"
+        ],
+        [
+          "just",
+          "already",
+          "yet",
+          "now"
+        ],
+        [
+          "finished",
+          "finish",
+          "done",
+          "end"
+        ]
+      ],
+      "mistakeTags": [
+        "present_perfect",
+        "have_has_done"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_05_present_perfect/012.mp3"
+    },
+    {
+      "id": "t5_14",
+      "type": "sentenceAssembly",
+      "question": "Он не видел ее",
+      "correctAnswer": "He hasn't seen her",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "Him",
+          "His",
+          "She"
+        ],
+        [
+          "hasn't",
+          "haven't",
+          "didn't",
+          "doesn't"
+        ],
+        [
+          "seen",
+          "saw",
+          "see",
+          "watch"
+        ],
+        [
+          "her",
+          "she",
+          "hers",
+          "him"
+        ]
+      ],
+      "mistakeTags": [
+        "present_perfect",
+        "have_has_done"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_05_present_perfect/013.mp3"
+    },
+    {
+      "id": "t5_15",
+      "type": "sentenceAssembly",
+      "question": "Что ты сделал?",
+      "correctAnswer": "What have you done?",
+      "options": [],
+      "variants": [
+        [
+          "What",
+          "Where",
+          "Why",
+          "When"
+        ],
+        [
+          "have",
+          "has",
+          "did",
+          "do"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "she"
+        ],
+        [
+          "done",
+          "do",
+          "did",
+          "make"
+        ]
+      ],
+      "mistakeTags": [
+        "present_perfect",
+        "have_has_done"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_05_present_perfect/014.mp3"
+    },
+    {
+      "id": "t5_16",
+      "type": "sentenceAssembly",
+      "question": "Я забыл твое имя",
+      "correctAnswer": "I have forgotten your name",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "My",
+          "Am"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "did"
+        ],
+        [
+          "forgotten",
+          "forgot",
+          "forget",
+          "forgetting"
+        ],
+        [
+          "your",
+          "you",
+          "my",
+          "the"
+        ],
+        [
+          "name",
+          "word",
+          "text",
+          "names"
+        ]
+      ],
+      "mistakeTags": [
+        "present_perfect",
+        "have_has_done"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_05_present_perfect/015.mp3"
+    },
+    {
+      "id": "t5_17",
+      "type": "sentenceAssembly",
+      "question": "Она нарисовала картину",
+      "correctAnswer": "She has painted a picture",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "Her",
+          "Hers",
+          "He"
+        ],
+        [
+          "has",
+          "have",
+          "had",
+          "is"
+        ],
+        [
+          "painted",
+          "paint",
+          "painting",
+          "draw"
+        ],
+        [
+          "a",
+          "the",
+          "an",
+          "one"
+        ],
+        [
+          "picture",
+          "photo",
+          "image",
+          "art"
+        ]
+      ],
+      "mistakeTags": [
+        "present_perfect",
+        "have_has_done"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_05_present_perfect/016.mp3"
+    },
+    {
+      "id": "t5_18",
+      "type": "sentenceAssembly",
+      "question": "Они выбрали подарок",
+      "correctAnswer": "They have chosen a gift",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "Them",
+          "Their",
+          "We"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "did"
+        ],
+        [
+          "chosen",
+          "choose",
+          "chose",
+          "choice"
+        ],
+        [
+          "a",
+          "the",
+          "an",
+          "one"
+        ],
+        [
+          "gift",
+          "present",
+          "prize",
+          "box"
+        ]
+      ],
+      "mistakeTags": [
+        "present_perfect",
+        "have_has_done"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_05_present_perfect/017.mp3"
+    },
+    {
+      "id": "t5_19",
+      "type": "sentenceAssembly",
+      "question": "Я прочитал эту книгу",
+      "correctAnswer": "I have read this book",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "My",
+          "Am"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "did"
+        ],
+        [
+          "read",
+          "reading",
+          "red",
+          "reader"
+        ],
+        [
+          "this",
+          "that",
+          "the",
+          "a"
+        ],
+        [
+          "book",
+          "text",
+          "novel",
+          "paper"
+        ]
+      ],
+      "mistakeTags": [
+        "present_perfect",
+        "have_has_done"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_05_present_perfect/018.mp3"
+    },
+    {
+      "id": "t5_20",
+      "type": "sentenceAssembly",
+      "question": "Ты нашел ключи?",
+      "correctAnswer": "Have you found the keys?",
+      "options": [],
+      "variants": [
+        [
+          "Have",
+          "Has",
+          "Did",
+          "Do"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "she"
+        ],
+        [
+          "found",
+          "find",
+          "finding",
+          "finded"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "my"
+        ],
+        [
+          "keys",
+          "key",
+          "lock",
+          "car"
+        ]
+      ],
+      "mistakeTags": [
+        "present_perfect",
+        "have_has_done"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_05_present_perfect/019.mp3"
+    },
+    {
+      "id": "t5_21",
+      "type": "sentenceAssembly",
+      "question": "Он ушел на работу",
+      "correctAnswer": "He has gone to work",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "Him",
+          "His",
+          "She"
+        ],
+        [
+          "has",
+          "have",
+          "had",
+          "is"
+        ],
+        [
+          "gone",
+          "go",
+          "went",
+          "going"
+        ],
+        [
+          "to",
+          "at",
+          "in",
+          "for"
+        ],
+        [
+          "work",
+          "job",
+          "office",
+          "working"
+        ]
+      ],
+      "mistakeTags": [
+        "present_perfect",
+        "have_has_done"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_05_present_perfect/020.mp3"
+    },
+    {
+      "id": "t5_22",
+      "type": "sentenceAssembly",
+      "question": "Я получил твое письмо",
+      "correctAnswer": "I have received your letter",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "My",
+          "Am"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "did"
+        ],
+        [
+          "received",
+          "receive",
+          "got",
+          "get"
+        ],
+        [
+          "your",
+          "you",
+          "my",
+          "the"
+        ],
+        [
+          "letter",
+          "mail",
+          "message",
+          "text"
+        ]
+      ],
+      "mistakeTags": [
+        "present_perfect",
+        "have_has_done"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_05_present_perfect/021.mp3"
+    },
+    {
+      "id": "t5_23",
+      "type": "sentenceAssembly",
+      "question": "Мы жили здесь много лет (и живем)",
+      "correctAnswer": "We have lived here for many years",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "Us",
+          "Our",
+          "They"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "are"
+        ],
+        [
+          "lived",
+          "live",
+          "living",
+          "life"
+        ],
+        [
+          "here",
+          "there",
+          "place",
+          "home"
+        ],
+        [
+          "for",
+          "since",
+          "in",
+          "at"
+        ],
+        [
+          "many",
+          "much",
+          "lot",
+          "plenty"
+        ],
+        [
+          "years",
+          "year",
+          "time",
+          "days"
+        ]
+      ],
+      "mistakeTags": [
+        "present_perfect",
+        "have_has_done"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_05_present_perfect/022.mp3"
+    },
+    {
+      "id": "t5_24",
+      "type": "sentenceAssembly",
+      "question": "Она сильно изменилась",
+      "correctAnswer": "She has changed a lot",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "It"
+        ],
+        [
+          "has",
+          "have",
+          "had",
+          "is"
+        ],
+        [
+          "changed",
+          "moved",
+          "grown",
+          "improved"
+        ],
+        [
+          "a",
+          "the",
+          "so",
+          "very"
+        ],
+        [
+          "lot",
+          "much",
+          "bit",
+          "little"
+        ]
+      ],
+      "mistakeTags": [
+        "present_perfect",
+        "have_has_done"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_05_present_perfect/023.mp3"
+    },
+    {
+      "id": "t5_25",
+      "type": "sentenceAssembly",
+      "question": "Это случилось снова",
+      "correctAnswer": "It has happened again",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "This",
+          "That",
+          "There"
+        ],
+        [
+          "has",
+          "have",
+          "had",
+          "is"
+        ],
+        [
+          "happened",
+          "happen",
+          "happening",
+          "occurs"
+        ],
+        [
+          "again",
+          "more",
+          "once",
+          "repeat"
+        ]
+      ],
+      "mistakeTags": [
+        "present_perfect",
+        "have_has_done"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_05_present_perfect/024.mp3"
+    },
+    {
+      "id": "t5_26",
+      "type": "sentenceAssembly",
+      "question": "Я не видел этот фильм еще",
+      "correctAnswer": "I haven't seen this movie yet",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "My",
+          "Am"
+        ],
+        [
+          "haven't",
+          "hasn't",
+          "didn't",
+          "don't"
+        ],
+        [
+          "seen",
+          "see",
+          "saw",
+          "watch"
+        ],
+        [
+          "this",
+          "that",
+          "the",
+          "a"
+        ],
+        [
+          "movie",
+          "film",
+          "cinema",
+          "video"
+        ],
+        [
+          "yet",
+          "already",
+          "just",
+          "now"
+        ]
+      ],
+      "mistakeTags": [
+        "present_perfect",
+        "have_has_done"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_05_present_perfect/025.mp3"
+    },
+    {
+      "id": "t5_27",
+      "type": "sentenceAssembly",
+      "question": "Кто взял мою ручку?",
+      "correctAnswer": "Who has taken my pen?",
+      "options": [],
+      "variants": [
+        [
+          "Who",
+          "What",
+          "Where",
+          "When"
+        ],
+        [
+          "has",
+          "have",
+          "did",
+          "is"
+        ],
+        [
+          "taken",
+          "took",
+          "take",
+          "taking"
+        ],
+        [
+          "my",
+          "me",
+          "mine",
+          "the"
+        ],
+        [
+          "pen",
+          "pencil",
+          "paper",
+          "book"
+        ]
+      ],
+      "mistakeTags": [
+        "present_perfect",
+        "have_has_done"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_05_present_perfect/026.mp3"
+    },
+    {
+      "id": "t5_28",
+      "type": "sentenceAssembly",
+      "question": "Они выучили урок",
+      "correctAnswer": "They have learned the lesson",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "Them",
+          "Their",
+          "We"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "did"
+        ],
+        [
+          "learned",
+          "learn",
+          "learning",
+          "learnt"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "lesson",
+          "class",
+          "text",
+          "school"
+        ]
+      ],
+      "mistakeTags": [
+        "present_perfect",
+        "have_has_done"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_05_present_perfect/027.mp3"
+    },
+    {
+      "id": "t5_29",
+      "type": "sentenceAssembly",
+      "question": "Поезд ушел",
+      "correctAnswer": "The train has left",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "This",
+          "My"
+        ],
+        [
+          "train",
+          "bus",
+          "car",
+          "plane"
+        ],
+        [
+          "has",
+          "have",
+          "had",
+          "is"
+        ],
+        [
+          "left",
+          "leave",
+          "leaving",
+          "gone"
+        ]
+      ],
+      "mistakeTags": [
+        "present_perfect",
+        "have_has_done"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_05_present_perfect/028.mp3"
+    },
+    {
+      "id": "t5_30",
+      "type": "sentenceAssembly",
+      "question": "Мы решили проблему",
+      "correctAnswer": "We have solved the problem",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "Us",
+          "Our",
+          "They"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "did"
+        ],
+        [
+          "solved",
+          "solve",
+          "solving",
+          "solution"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "problem",
+          "issue",
+          "trouble",
+          "question"
+        ]
+      ],
+      "mistakeTags": [
+        "present_perfect",
+        "have_has_done"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_05_present_perfect/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionIntermediate05PresentPerfect",
+  "theoryQuiz": [
+    {
+      "id": "tq_01",
+      "type": "trueFalse",
+      "question": "Present Perfect образуется: have/has + V3 (Past Participle).",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Формула Present Perfect: have/has + третья форма глагола."
+    },
+    {
+      "id": "tq_02",
+      "type": "multipleChoice",
+      "question": "Когда используется 'has' в Present Perfect?",
+      "options": [
+        "с I, you, we, they",
+        "с he, she, it",
+        "со всеми местоимениями",
+        "только с I"
+      ],
+      "correctIndex": 1,
+      "explanation": "Has используется с третьим лицом единственного числа: he, she, it."
+    },
+    {
+      "id": "tq_03",
+      "type": "multipleChoice",
+      "question": "Какое слово является маркером Present Perfect?",
+      "options": [
+        "yesterday",
+        "last week",
+        "already",
+        "ago"
+      ],
+      "correctIndex": 2,
+      "explanation": "Already — типичный маркер Present Perfect. Yesterday и ago — маркеры Past Simple."
+    },
+    {
+      "id": "tq_04",
+      "type": "trueFalse",
+      "question": "Можно сказать: 'I have finished yesterday.'",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "Present Perfect нельзя использовать с точным временем в прошлом (yesterday). Правильно: I finished yesterday."
+    },
+    {
+      "id": "tq_05",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: She ___ to Paris.",
+      "options": [
+        "has go",
+        "have gone",
+        "has gone",
+        "has went"
+      ],
+      "correctIndex": 2,
+      "explanation": "She + has + V3: She has gone (go → went → gone)."
+    },
+    {
+      "id": "tq_06",
+      "type": "trueFalse",
+      "question": "Маркер 'never' используется с Present Perfect.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Never — маркер Present Perfect: I have never been to Japan."
+    },
+    {
+      "id": "tq_07",
+      "type": "multipleChoice",
+      "question": "Какая разница между 'since' и 'for'?",
+      "options": [
+        "since — период, for — точка",
+        "since — точка начала, for — период",
+        "нет разницы",
+        "since — будущее, for — прошлое"
+      ],
+      "correctIndex": 1,
+      "explanation": "Since указывает на точку начала (since 2020), for — на период (for 3 years)."
+    },
+    {
+      "id": "tq_08",
+      "type": "multipleChoice",
+      "question": "Какое предложение построено правильно?",
+      "options": [
+        "I have saw this film.",
+        "She has already eaten.",
+        "They has finished.",
+        "He have gone home."
+      ],
+      "correctIndex": 1,
+      "explanation": "She + has + V3 (eaten) + маркер already — верная конструкция."
+    },
+    {
+      "id": "tq_09",
+      "type": "trueFalse",
+      "question": "В Present Perfect важен результат действия в настоящем, а не время его совершения.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Present Perfect подчёркивает связь прошлого действия с настоящим моментом."
+    },
+    {
+      "id": "tq_10",
+      "type": "multipleChoice",
+      "question": "Какое предложение содержит ошибку?",
+      "options": [
+        "I have just arrived.",
+        "Have you ever been to London?",
+        "She has wrote a letter.",
+        "We haven't finished yet."
+      ],
+      "correctIndex": 2,
+      "explanation": "Правильно: has written (V3), а не has wrote (V2)."
+    }
+  ]
+}

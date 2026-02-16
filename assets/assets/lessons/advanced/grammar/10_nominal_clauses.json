@@ -1,0 +1,2265 @@
+{
+  "id": "advanced_10_nominal_clauses",
+  "title": "Nominal Clauses",
+  "description": "Именные придаточные: What he said was surprising. That she left is obvious. Сложные предложения.",
+  "order": 10,
+  "level": "advanced",
+  "imageUrl": "assets/images/lessons/nominal_clauses.png",
+  "vocabulary": [
+    {
+      "id": "v10_whatever",
+      "english": "whatever",
+      "russian": "что бы ни, всё что",
+      "partOfSpeech": "pronoun",
+      "example": "Whatever you decide is fine with me.",
+      "exampleTranslation": "Что бы ты ни решил, меня это устраивает.",
+      "audioPath": "assets/audio/vocabulary/v10_whatever.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_whatever.mp3"
+    },
+    {
+      "id": "v10_whether",
+      "english": "whether",
+      "russian": "ли (в косвенном вопросе)",
+      "partOfSpeech": "conjunction",
+      "example": "Whether he agrees remains to be seen.",
+      "exampleTranslation": "Согласится ли он — ещё предстоит увидеть.",
+      "audioPath": "assets/audio/vocabulary/v10_whether.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_whether.mp3"
+    },
+    {
+      "id": "v10_obvious",
+      "english": "obvious",
+      "russian": "очевидный",
+      "partOfSpeech": "adjective",
+      "example": "That she was lying was obvious.",
+      "exampleTranslation": "То, что она лгала, было очевидно.",
+      "audioPath": "assets/audio/vocabulary/v10_obvious.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_obvious.mp3"
+    },
+    {
+      "id": "v10_apparent",
+      "english": "apparent",
+      "russian": "очевидный, явный",
+      "partOfSpeech": "adjective",
+      "example": "It is apparent that the plan has failed.",
+      "exampleTranslation": "Очевидно, что план провалился.",
+      "audioPath": "assets/audio/vocabulary/v10_apparent.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_apparent.mp3"
+    },
+    {
+      "id": "v10_claim",
+      "english": "claim",
+      "russian": "утверждать, заявлять",
+      "partOfSpeech": "verb",
+      "example": "He claims that he is innocent.",
+      "exampleTranslation": "Он утверждает, что он невиновен.",
+      "audioPath": "assets/audio/vocabulary/v10_claim.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_claim.mp3"
+    },
+    {
+      "id": "v10_acknowledge",
+      "english": "acknowledge",
+      "russian": "признавать",
+      "partOfSpeech": "verb",
+      "example": "She acknowledged that mistakes were made.",
+      "exampleTranslation": "Она признала, что были допущены ошибки.",
+      "audioPath": "assets/audio/vocabulary/v10_acknowledge.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_acknowledge.mp3"
+    },
+    {
+      "id": "v10_concerning",
+      "english": "concerning",
+      "russian": "относительно, касающийся",
+      "partOfSpeech": "preposition",
+      "example": "The question concerning what happened remains unanswered.",
+      "exampleTranslation": "Вопрос о том, что произошло, остаётся без ответа.",
+      "audioPath": "assets/audio/vocabulary/v10_concerning.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_concerning.mp3"
+    },
+    {
+      "id": "v10_evident",
+      "english": "evident",
+      "russian": "очевидный, явный",
+      "partOfSpeech": "adjective",
+      "example": "It is evident that changes are needed.",
+      "exampleTranslation": "Очевидно, что нужны перемены.",
+      "audioPath": "assets/audio/vocabulary/v10_evident.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_evident.mp3"
+    },
+    {
+      "id": "v10_dispute",
+      "english": "dispute",
+      "russian": "оспаривать, спор",
+      "partOfSpeech": "verb",
+      "example": "Nobody disputes that the economy is struggling.",
+      "exampleTranslation": "Никто не оспаривает, что экономика испытывает трудности.",
+      "audioPath": "assets/audio/vocabulary/v10_dispute.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_dispute.mp3"
+    },
+    {
+      "id": "v10_remarkable",
+      "english": "remarkable",
+      "russian": "замечательный, примечательный",
+      "partOfSpeech": "adjective",
+      "example": "What she achieved was remarkable.",
+      "exampleTranslation": "То, чего она достигла, было замечательным.",
+      "audioPath": "assets/audio/vocabulary/v10_remarkable.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_remarkable.mp3"
+    },
+    {
+      "id": "v10_assumption",
+      "english": "assumption",
+      "russian": "предположение, допущение",
+      "partOfSpeech": "noun",
+      "example": "The assumption that everyone agrees is wrong.",
+      "exampleTranslation": "Предположение, что все согласны, ошибочно.",
+      "audioPath": "assets/audio/vocabulary/v10_assumption.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_assumption.mp3"
+    },
+    {
+      "id": "v10_reveal",
+      "english": "reveal",
+      "russian": "раскрывать, обнаруживать",
+      "partOfSpeech": "verb",
+      "example": "The report reveals what went wrong.",
+      "exampleTranslation": "Отчёт раскрывает, что пошло не так.",
+      "audioPath": "assets/audio/vocabulary/v10_reveal.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_reveal.mp3"
+    },
+    {
+      "id": "v10_doubtful",
+      "english": "doubtful",
+      "russian": "сомнительный",
+      "partOfSpeech": "adjective",
+      "example": "It is doubtful whether they will succeed.",
+      "exampleTranslation": "Сомнительно, преуспеют ли они.",
+      "audioPath": "assets/audio/vocabulary/v10_doubtful.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_doubtful.mp3"
+    },
+    {
+      "id": "v10_imply",
+      "english": "imply",
+      "russian": "подразумевать, намекать",
+      "partOfSpeech": "verb",
+      "example": "What he implied was quite different.",
+      "exampleTranslation": "То, на что он намекал, было совсем другим.",
+      "audioPath": "assets/audio/vocabulary/v10_imply.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_imply.mp3"
+    },
+    {
+      "id": "v10_undeniable",
+      "english": "undeniable",
+      "russian": "неоспоримый",
+      "partOfSpeech": "adjective",
+      "example": "That progress has been made is undeniable.",
+      "exampleTranslation": "То, что прогресс был достигнут, неоспоримо.",
+      "audioPath": "assets/audio/vocabulary/v10_undeniable.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_undeniable.mp3"
+    },
+    {
+      "id": "v10_perceive",
+      "english": "perceive",
+      "russian": "воспринимать, осознавать",
+      "partOfSpeech": "verb",
+      "example": "How others perceive you matters.",
+      "exampleTranslation": "То, как другие вас воспринимают, имеет значение.",
+      "audioPath": "assets/audio/vocabulary/v10_perceive.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_perceive.mp3"
+    },
+    {
+      "id": "v10_assertion",
+      "english": "assertion",
+      "russian": "утверждение, заявление",
+      "partOfSpeech": "noun",
+      "example": "His assertion that he was right proved true.",
+      "exampleTranslation": "Его утверждение, что он был прав, оказалось верным.",
+      "audioPath": "assets/audio/vocabulary/v10_assertion.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_assertion.mp3"
+    },
+    {
+      "id": "v10_likelihood",
+      "english": "likelihood",
+      "russian": "вероятность",
+      "partOfSpeech": "noun",
+      "example": "The likelihood that they will come is low.",
+      "exampleTranslation": "Вероятность того, что они придут, мала.",
+      "audioPath": "assets/audio/vocabulary/v10_likelihood.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_likelihood.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "Nominal Clauses",
+    "subtitle": "Именные придаточные предложения — это целые предложения, которые выполняют функцию существительного: подлежащего, дополнения или именной части сказуемого. Они делают речь сложной и академичной.",
+    "construction": {
+      "formula": "What/That/Whether/How + clause → функция существительного",
+      "rules": [
+        {
+          "word": "That-clause",
+          "description": "That + предложение → подлежащее или дополнение: That she left surprised everyone."
+        },
+        {
+          "word": "What-clause",
+          "description": "What + предложение → «то, что»: What he said was true."
+        },
+        {
+          "word": "Whether-clause",
+          "description": "Whether + предложение → «ли»: Whether they agree is uncertain."
+        },
+        {
+          "word": "How/Where/Why-clause",
+          "description": "Вопросительное слово + предложение: How he managed is a mystery."
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "star",
+        "color": "blue",
+        "title": "Подлежащее",
+        "description": "Именное придаточное стоит на месте подлежащего в предложении.",
+        "example": {
+          "english": "What he said was surprising.",
+          "russian": "То, что он сказал, было удивительным."
+        }
+      },
+      {
+        "icon": "visibility",
+        "color": "purple",
+        "title": "Дополнение",
+        "description": "Именное придаточное стоит на месте дополнения после глагола.",
+        "example": {
+          "english": "I believe that she is right.",
+          "russian": "Я считаю, что она права."
+        }
+      },
+      {
+        "icon": "check_circle",
+        "color": "orange",
+        "title": "Именная часть сказуемого",
+        "description": "Именное придаточное стоит после глагола-связки (is, was).",
+        "example": {
+          "english": "The problem is that nobody listened.",
+          "russian": "Проблема в том, что никто не слушал."
+        }
+      },
+      {
+        "icon": "explore",
+        "color": "green",
+        "title": "Аппозиция (пояснение к существительному)",
+        "description": "Именное придаточное поясняет абстрактное существительное.",
+        "example": {
+          "english": "The fact that he lied changes everything.",
+          "russian": "Тот факт, что он солгал, всё меняет."
+        }
+      }
+    ],
+    "markers": [
+      "that",
+      "what",
+      "whether",
+      "how",
+      "where",
+      "why",
+      "whoever",
+      "whatever",
+      "the fact that"
+    ]
+  },
+  "theoryQuiz": [
+    {
+      "id": "tq_10_01",
+      "type": "multipleChoice",
+      "question": "Какую функцию выполняет выделенная часть: \"WHAT HE SAID was surprising\"?",
+      "options": [
+        "Дополнение",
+        "Подлежащее",
+        "Обстоятельство",
+        "Определение"
+      ],
+      "correctIndex": 1,
+      "explanation": "What he said — именное придаточное в роли подлежащего. Оно отвечает на вопрос «что?» и стоит перед глаголом was."
+    },
+    {
+      "id": "tq_10_02",
+      "type": "multipleChoice",
+      "question": "Выберите правильное слово: \"___ she left early is obvious to everyone.\"",
+      "options": [
+        "What",
+        "That",
+        "Which",
+        "Who"
+      ],
+      "correctIndex": 1,
+      "explanation": "That she left early — факт (что она ушла рано). What используется для «то, что» (вещь/действие), That — для факта."
+    },
+    {
+      "id": "tq_10_03",
+      "type": "trueFalse",
+      "question": "\"What she achieved was remarkable\" — здесь what = that (можно заменить).",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "What = «то, что» (the thing that). That = «тот факт, что». What she achieved = The thing that she achieved."
+    },
+    {
+      "id": "tq_10_04",
+      "type": "multipleChoice",
+      "question": "В каком предложении именное придаточное — дополнение?",
+      "options": [
+        "What he wants is unclear.",
+        "I know what he wants.",
+        "What he wants matters.",
+        "What he wants surprised me."
+      ],
+      "correctIndex": 1,
+      "explanation": "В предложении I know what he wants придаточное what he wants — дополнение к глаголу know."
+    },
+    {
+      "id": "tq_10_05",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"___ they will agree remains to be seen.\"",
+      "options": [
+        "That",
+        "What",
+        "Whether",
+        "Which"
+      ],
+      "correctIndex": 2,
+      "explanation": "Whether = «ли». Согласятся ли они — вопрос с неизвестным ответом, поэтому whether."
+    },
+    {
+      "id": "tq_10_06",
+      "type": "trueFalse",
+      "question": "\"The fact that he lied changes everything\" содержит именное придаточное в аппозиции.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "That he lied — именное придаточное, которое поясняет существительное fact (стоит в аппозиции)."
+    },
+    {
+      "id": "tq_10_07",
+      "type": "multipleChoice",
+      "question": "Какое предложение грамматически правильное?",
+      "options": [
+        "That is obvious she left.",
+        "That she left is obvious.",
+        "She left that is obvious.",
+        "Is obvious that she left."
+      ],
+      "correctIndex": 1,
+      "explanation": "That she left is obvious — придаточное That she left стоит на месте подлежащего перед is obvious."
+    },
+    {
+      "id": "tq_10_08",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"The problem is ___ nobody took responsibility.\"",
+      "options": [
+        "what",
+        "that",
+        "which",
+        "who"
+      ],
+      "correctIndex": 1,
+      "explanation": "After is в роли именной части сказуемого используется that для обозначения факта."
+    },
+    {
+      "id": "tq_10_09",
+      "type": "trueFalse",
+      "question": "\"How he managed to escape is a mystery\" — правильное предложение с именным придаточным.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "How he managed to escape — именное придаточное в роли подлежащего. How + clause = «то, как»."
+    },
+    {
+      "id": "tq_10_10",
+      "type": "multipleChoice",
+      "question": "В чём разница между whether и if в именных придаточных?",
+      "options": [
+        "Разницы нет",
+        "Whether используется в начале предложения (подлежащее), if — нет",
+        "If формальнее",
+        "Whether только в вопросах"
+      ],
+      "correctIndex": 1,
+      "explanation": "Whether может стоять в позиции подлежащего: Whether he comes is unclear. If в этой позиции не используется."
+    }
+  ],
+  "tasks": [
+    {
+      "id": "t10_1",
+      "type": "sentenceAssembly",
+      "question": "То, что он сказал, было удивительным",
+      "correctAnswer": "What he said was surprising to everyone",
+      "options": [],
+      "variants": [
+        [
+          "What",
+          "That",
+          "Which",
+          "Who",
+          "How"
+        ],
+        [
+          "he",
+          "him",
+          "his",
+          "himself"
+        ],
+        [
+          "said",
+          "says",
+          "saying",
+          "told"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "been"
+        ],
+        [
+          "surprising",
+          "surprised",
+          "surprise",
+          "surprisingly"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "by"
+        ],
+        [
+          "everyone",
+          "everybody",
+          "anyone",
+          "someone"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_10_nominal_clauses/000.mp3"
+    },
+    {
+      "id": "t10_2",
+      "type": "sentenceAssembly",
+      "question": "Тот факт, что она ушла, очевиден",
+      "correctAnswer": "That she left is obvious to all of us",
+      "options": [],
+      "variants": [
+        [
+          "That",
+          "What",
+          "Which",
+          "How",
+          "Whether"
+        ],
+        [
+          "she",
+          "her",
+          "hers",
+          "herself"
+        ],
+        [
+          "left",
+          "leaves",
+          "leaving",
+          "leave"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "obvious",
+          "obviously",
+          "oblivious",
+          "obscure"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "by"
+        ],
+        [
+          "all",
+          "every",
+          "each",
+          "some"
+        ],
+        [
+          "of",
+          "for",
+          "from",
+          "to"
+        ],
+        [
+          "us",
+          "we",
+          "our",
+          "ours"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_10_nominal_clauses/001.mp3"
+    },
+    {
+      "id": "t10_3",
+      "type": "sentenceAssembly",
+      "question": "Я считаю, что она права",
+      "correctAnswer": "I believe that she is absolutely right",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "We",
+          "He",
+          "Me"
+        ],
+        [
+          "believe",
+          "believes",
+          "believed",
+          "believing"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "how"
+        ],
+        [
+          "she",
+          "her",
+          "hers",
+          "herself"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "absolutely",
+          "absolute",
+          "absurdly",
+          "obviously"
+        ],
+        [
+          "right",
+          "rights",
+          "rightly",
+          "wrong"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_10_nominal_clauses/002.mp3"
+    },
+    {
+      "id": "t10_4",
+      "type": "sentenceAssembly",
+      "question": "Согласятся ли они, ещё предстоит увидеть",
+      "correctAnswer": "Whether they will agree remains to be seen",
+      "options": [],
+      "variants": [
+        [
+          "Whether",
+          "If",
+          "That",
+          "What",
+          "How"
+        ],
+        [
+          "they",
+          "them",
+          "their",
+          "themselves"
+        ],
+        [
+          "will",
+          "would",
+          "shall",
+          "should"
+        ],
+        [
+          "agree",
+          "agrees",
+          "agreed",
+          "agreeing"
+        ],
+        [
+          "remains",
+          "remain",
+          "remained",
+          "remaining"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "be",
+          "is",
+          "was",
+          "been"
+        ],
+        [
+          "seen",
+          "see",
+          "seeing",
+          "saw"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_10_nominal_clauses/003.mp3"
+    },
+    {
+      "id": "t10_5",
+      "type": "sentenceAssembly",
+      "question": "Проблема в том, что никто не слушал",
+      "correctAnswer": "The problem is that nobody listened carefully enough",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "This",
+          "That"
+        ],
+        [
+          "problem",
+          "problems",
+          "trouble",
+          "issue"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "how"
+        ],
+        [
+          "nobody",
+          "no one",
+          "anyone",
+          "somebody"
+        ],
+        [
+          "listened",
+          "listen",
+          "listens",
+          "listening"
+        ],
+        [
+          "carefully",
+          "careful",
+          "careless",
+          "care"
+        ],
+        [
+          "enough",
+          "much",
+          "well",
+          "hardly"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_10_nominal_clauses/004.mp3"
+    },
+    {
+      "id": "t10_6",
+      "type": "sentenceAssembly",
+      "question": "То, чего она достигла, поистине замечательно",
+      "correctAnswer": "What she has achieved is truly remarkable",
+      "options": [],
+      "variants": [
+        [
+          "What",
+          "That",
+          "Which",
+          "How",
+          "Who"
+        ],
+        [
+          "she",
+          "her",
+          "hers",
+          "herself"
+        ],
+        [
+          "has",
+          "had",
+          "have",
+          "having"
+        ],
+        [
+          "achieved",
+          "achieves",
+          "achieving",
+          "achieve"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "truly",
+          "true",
+          "truthfully",
+          "real"
+        ],
+        [
+          "remarkable",
+          "remarkably",
+          "marked",
+          "notable"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_10_nominal_clauses/005.mp3"
+    },
+    {
+      "id": "t10_7",
+      "type": "sentenceAssembly",
+      "question": "Тот факт, что он солгал, всё меняет",
+      "correctAnswer": "The fact that he lied changes everything completely",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "This",
+          "That"
+        ],
+        [
+          "fact",
+          "facts",
+          "factor",
+          "factory"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "how"
+        ],
+        [
+          "he",
+          "him",
+          "his",
+          "himself"
+        ],
+        [
+          "lied",
+          "lies",
+          "lying",
+          "lay"
+        ],
+        [
+          "changes",
+          "change",
+          "changed",
+          "changing"
+        ],
+        [
+          "everything",
+          "everyone",
+          "anything",
+          "something"
+        ],
+        [
+          "completely",
+          "complete",
+          "complex",
+          "fully"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_10_nominal_clauses/006.mp3"
+    },
+    {
+      "id": "t10_8",
+      "type": "sentenceAssembly",
+      "question": "Как он это сделал — загадка",
+      "correctAnswer": "How he managed to do it is a mystery",
+      "options": [],
+      "variants": [
+        [
+          "How",
+          "What",
+          "That",
+          "Why",
+          "Where"
+        ],
+        [
+          "he",
+          "him",
+          "his",
+          "himself"
+        ],
+        [
+          "managed",
+          "manages",
+          "managing",
+          "manage"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "do",
+          "does",
+          "did",
+          "doing"
+        ],
+        [
+          "it",
+          "that",
+          "this",
+          "them"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "a",
+          "the",
+          "an",
+          "this"
+        ],
+        [
+          "mystery",
+          "mysteries",
+          "mysterious",
+          "misery"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_10_nominal_clauses/007.mp3"
+    },
+    {
+      "id": "t10_9",
+      "type": "sentenceAssembly",
+      "question": "Очевидно, что план провалился",
+      "correctAnswer": "It is apparent that the plan has failed",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "There",
+          "That",
+          "This"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "apparent",
+          "apparently",
+          "appear",
+          "appearing"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "how"
+        ],
+        [
+          "the",
+          "a",
+          "this",
+          "our"
+        ],
+        [
+          "plan",
+          "plans",
+          "planning",
+          "planned"
+        ],
+        [
+          "has",
+          "had",
+          "have",
+          "having"
+        ],
+        [
+          "failed",
+          "fails",
+          "failing",
+          "failure"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_10_nominal_clauses/008.mp3"
+    },
+    {
+      "id": "t10_10",
+      "type": "sentenceAssembly",
+      "question": "Он утверждает, что он невиновен",
+      "correctAnswer": "He claims that he is completely innocent",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "Him",
+          "They"
+        ],
+        [
+          "claims",
+          "claim",
+          "claimed",
+          "claiming"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "how"
+        ],
+        [
+          "he",
+          "him",
+          "his",
+          "himself"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "completely",
+          "complete",
+          "totally",
+          "absolutely"
+        ],
+        [
+          "innocent",
+          "innocence",
+          "innocently",
+          "guilty"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_10_nominal_clauses/009.mp3"
+    },
+    {
+      "id": "t10_11",
+      "type": "sentenceAssembly",
+      "question": "Что бы ты ни решил, я тебя поддержу",
+      "correctAnswer": "Whatever you decide I will support you fully",
+      "options": [],
+      "variants": [
+        [
+          "Whatever",
+          "Wherever",
+          "Whenever",
+          "However",
+          "Whichever"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "yourself"
+        ],
+        [
+          "decide",
+          "decides",
+          "decided",
+          "deciding"
+        ],
+        [
+          "I",
+          "we",
+          "me",
+          "he"
+        ],
+        [
+          "will",
+          "would",
+          "shall",
+          "should"
+        ],
+        [
+          "support",
+          "supports",
+          "supported",
+          "supporting"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "yourself"
+        ],
+        [
+          "fully",
+          "full",
+          "fill",
+          "completely"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_10_nominal_clauses/010.mp3"
+    },
+    {
+      "id": "t10_12",
+      "type": "sentenceAssembly",
+      "question": "Никто не оспаривает, что экономика испытывает трудности",
+      "correctAnswer": "Nobody disputes that the economy is currently struggling",
+      "options": [],
+      "variants": [
+        [
+          "Nobody",
+          "Anybody",
+          "Somebody",
+          "Everybody"
+        ],
+        [
+          "disputes",
+          "dispute",
+          "disputed",
+          "disputing"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "how"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "economy",
+          "economies",
+          "economic",
+          "economically"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "has"
+        ],
+        [
+          "currently",
+          "current",
+          "presently",
+          "curiously"
+        ],
+        [
+          "struggling",
+          "struggle",
+          "struggles",
+          "struggled"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_10_nominal_clauses/011.mp3"
+    },
+    {
+      "id": "t10_13",
+      "type": "sentenceAssembly",
+      "question": "Она признала, что были допущены ошибки",
+      "correctAnswer": "She acknowledged that serious mistakes had been made",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "Her",
+          "They"
+        ],
+        [
+          "acknowledged",
+          "acknowledges",
+          "acknowledging",
+          "acknowledge"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "how"
+        ],
+        [
+          "serious",
+          "seriously",
+          "severe",
+          "several"
+        ],
+        [
+          "mistakes",
+          "mistake",
+          "mistaken",
+          "mistaking"
+        ],
+        [
+          "had",
+          "has",
+          "have",
+          "having"
+        ],
+        [
+          "been",
+          "being",
+          "be",
+          "was"
+        ],
+        [
+          "made",
+          "make",
+          "making",
+          "makes"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_10_nominal_clauses/012.mp3"
+    },
+    {
+      "id": "t10_14",
+      "type": "sentenceAssembly",
+      "question": "Сомнительно, преуспеют ли они в этом проекте",
+      "correctAnswer": "It is doubtful whether they will succeed in this project",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "There",
+          "That",
+          "This"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "doubtful",
+          "doubtfully",
+          "doubt",
+          "doubted"
+        ],
+        [
+          "whether",
+          "if",
+          "that",
+          "what"
+        ],
+        [
+          "they",
+          "them",
+          "their",
+          "themselves"
+        ],
+        [
+          "will",
+          "would",
+          "shall",
+          "should"
+        ],
+        [
+          "succeed",
+          "succeeds",
+          "succeeded",
+          "succeeding"
+        ],
+        [
+          "in",
+          "on",
+          "at",
+          "for"
+        ],
+        [
+          "this",
+          "that",
+          "the",
+          "a"
+        ],
+        [
+          "project",
+          "projects",
+          "projected",
+          "projecting"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_10_nominal_clauses/013.mp3"
+    },
+    {
+      "id": "t10_15",
+      "type": "sentenceAssembly",
+      "question": "То, на что он намекал, было совсем другим",
+      "correctAnswer": "What he implied was quite different from reality",
+      "options": [],
+      "variants": [
+        [
+          "What",
+          "That",
+          "Which",
+          "How",
+          "Who"
+        ],
+        [
+          "he",
+          "him",
+          "his",
+          "himself"
+        ],
+        [
+          "implied",
+          "implies",
+          "implying",
+          "imply"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "be"
+        ],
+        [
+          "quite",
+          "quiet",
+          "quit",
+          "quietly"
+        ],
+        [
+          "different",
+          "differently",
+          "differ",
+          "difference"
+        ],
+        [
+          "from",
+          "of",
+          "to",
+          "than"
+        ],
+        [
+          "reality",
+          "real",
+          "really",
+          "realities"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_10_nominal_clauses/014.mp3"
+    },
+    {
+      "id": "t10_16",
+      "type": "sentenceAssembly",
+      "question": "Предположение, что все согласны, ошибочно",
+      "correctAnswer": "The assumption that everyone agrees is fundamentally wrong",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "This",
+          "That"
+        ],
+        [
+          "assumption",
+          "assumptions",
+          "assuming",
+          "assumed"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "how"
+        ],
+        [
+          "everyone",
+          "everybody",
+          "anyone",
+          "someone"
+        ],
+        [
+          "agrees",
+          "agree",
+          "agreed",
+          "agreeing"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "fundamentally",
+          "fundamental",
+          "basically",
+          "foundational"
+        ],
+        [
+          "wrong",
+          "right",
+          "false",
+          "incorrect"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_10_nominal_clauses/015.mp3"
+    },
+    {
+      "id": "t10_17",
+      "type": "sentenceAssembly",
+      "question": "Отчёт раскрывает, что именно пошло не так",
+      "correctAnswer": "The report reveals what exactly went wrong last year",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "This",
+          "That"
+        ],
+        [
+          "report",
+          "reports",
+          "reporting",
+          "reported"
+        ],
+        [
+          "reveals",
+          "reveal",
+          "revealed",
+          "revealing"
+        ],
+        [
+          "what",
+          "that",
+          "which",
+          "how"
+        ],
+        [
+          "exactly",
+          "exact",
+          "precisely",
+          "accurately"
+        ],
+        [
+          "went",
+          "goes",
+          "going",
+          "gone"
+        ],
+        [
+          "wrong",
+          "right",
+          "bad",
+          "badly"
+        ],
+        [
+          "last",
+          "past",
+          "previous",
+          "latest"
+        ],
+        [
+          "year",
+          "years",
+          "month",
+          "time"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_10_nominal_clauses/016.mp3"
+    },
+    {
+      "id": "t10_18",
+      "type": "sentenceAssembly",
+      "question": "То, что прогресс был достигнут, неоспоримо",
+      "correctAnswer": "That significant progress has been made is undeniable",
+      "options": [],
+      "variants": [
+        [
+          "That",
+          "What",
+          "Which",
+          "How",
+          "Whether"
+        ],
+        [
+          "significant",
+          "significantly",
+          "signify",
+          "signal"
+        ],
+        [
+          "progress",
+          "progressive",
+          "progressing",
+          "progressed"
+        ],
+        [
+          "has",
+          "had",
+          "have",
+          "having"
+        ],
+        [
+          "been",
+          "being",
+          "be",
+          "was"
+        ],
+        [
+          "made",
+          "make",
+          "making",
+          "makes"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "undeniable",
+          "undeniably",
+          "deniable",
+          "denied"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_10_nominal_clauses/017.mp3"
+    },
+    {
+      "id": "t10_19",
+      "type": "sentenceAssembly",
+      "question": "То, как другие вас воспринимают, имеет значение",
+      "correctAnswer": "How others perceive you matters more than you think",
+      "options": [],
+      "variants": [
+        [
+          "How",
+          "What",
+          "That",
+          "Why",
+          "Where"
+        ],
+        [
+          "others",
+          "other",
+          "another",
+          "else"
+        ],
+        [
+          "perceive",
+          "perceives",
+          "perceived",
+          "perceiving"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "yourself"
+        ],
+        [
+          "matters",
+          "matter",
+          "mattered",
+          "mattering"
+        ],
+        [
+          "more",
+          "much",
+          "most",
+          "many"
+        ],
+        [
+          "than",
+          "then",
+          "that",
+          "this"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "yourself"
+        ],
+        [
+          "think",
+          "thinks",
+          "thought",
+          "thinking"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_10_nominal_clauses/018.mp3"
+    },
+    {
+      "id": "t10_20",
+      "type": "sentenceAssembly",
+      "question": "Его утверждение, что он был прав, оказалось верным",
+      "correctAnswer": "His assertion that he was right proved to be true",
+      "options": [],
+      "variants": [
+        [
+          "His",
+          "He",
+          "Him",
+          "Her"
+        ],
+        [
+          "assertion",
+          "assertions",
+          "asserting",
+          "asserted"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "how"
+        ],
+        [
+          "he",
+          "him",
+          "his",
+          "himself"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "be"
+        ],
+        [
+          "right",
+          "rights",
+          "rightly",
+          "wrong"
+        ],
+        [
+          "proved",
+          "proves",
+          "proving",
+          "proof"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "be",
+          "is",
+          "was",
+          "been"
+        ],
+        [
+          "true",
+          "truth",
+          "truly",
+          "false"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_10_nominal_clauses/019.mp3"
+    },
+    {
+      "id": "t10_21",
+      "type": "sentenceAssembly",
+      "question": "Вероятность того, что они придут, крайне мала",
+      "correctAnswer": "The likelihood that they will come is extremely low",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "This",
+          "That"
+        ],
+        [
+          "likelihood",
+          "likelihoods",
+          "likely",
+          "likeness"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "how"
+        ],
+        [
+          "they",
+          "them",
+          "their",
+          "themselves"
+        ],
+        [
+          "will",
+          "would",
+          "shall",
+          "should"
+        ],
+        [
+          "come",
+          "comes",
+          "came",
+          "coming"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "extremely",
+          "extreme",
+          "excessively",
+          "entirely"
+        ],
+        [
+          "low",
+          "high",
+          "lower",
+          "lowest"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_10_nominal_clauses/020.mp3"
+    },
+    {
+      "id": "t10_22",
+      "type": "sentenceAssembly",
+      "question": "Неясно, почему он принял это решение",
+      "correctAnswer": "It is unclear why he made that particular decision",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "There",
+          "That",
+          "This"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "unclear",
+          "clear",
+          "unclearly",
+          "unclean"
+        ],
+        [
+          "why",
+          "how",
+          "what",
+          "when"
+        ],
+        [
+          "he",
+          "him",
+          "his",
+          "himself"
+        ],
+        [
+          "made",
+          "makes",
+          "make",
+          "making"
+        ],
+        [
+          "that",
+          "this",
+          "the",
+          "a"
+        ],
+        [
+          "particular",
+          "particularly",
+          "partial",
+          "peculiar"
+        ],
+        [
+          "decision",
+          "decisions",
+          "decisive",
+          "decided"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_10_nominal_clauses/021.mp3"
+    },
+    {
+      "id": "t10_23",
+      "type": "sentenceAssembly",
+      "question": "Где они спрятали деньги, так и осталось загадкой",
+      "correctAnswer": "Where they hid the money has remained a complete mystery",
+      "options": [],
+      "variants": [
+        [
+          "Where",
+          "When",
+          "What",
+          "How",
+          "Why"
+        ],
+        [
+          "they",
+          "them",
+          "their",
+          "themselves"
+        ],
+        [
+          "hid",
+          "hide",
+          "hides",
+          "hiding"
+        ],
+        [
+          "the",
+          "a",
+          "this",
+          "that"
+        ],
+        [
+          "money",
+          "moneys",
+          "monetary",
+          "monies"
+        ],
+        [
+          "has",
+          "had",
+          "have",
+          "having"
+        ],
+        [
+          "remained",
+          "remains",
+          "remaining",
+          "remain"
+        ],
+        [
+          "a",
+          "the",
+          "an",
+          "this"
+        ],
+        [
+          "complete",
+          "completely",
+          "completed",
+          "completing"
+        ],
+        [
+          "mystery",
+          "mysteries",
+          "mysterious",
+          "misery"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_10_nominal_clauses/022.mp3"
+    },
+    {
+      "id": "t10_24",
+      "type": "sentenceAssembly",
+      "question": "Очевидно, что изменения необходимы в этой организации",
+      "correctAnswer": "It is evident that changes are necessary in this organization",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "There",
+          "That",
+          "This"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "evident",
+          "evidently",
+          "evidence",
+          "eventual"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "how"
+        ],
+        [
+          "changes",
+          "change",
+          "changing",
+          "changed"
+        ],
+        [
+          "are",
+          "is",
+          "was",
+          "were"
+        ],
+        [
+          "necessary",
+          "necessarily",
+          "necessity",
+          "needless"
+        ],
+        [
+          "in",
+          "on",
+          "at",
+          "for"
+        ],
+        [
+          "this",
+          "that",
+          "the",
+          "a"
+        ],
+        [
+          "organization",
+          "organizations",
+          "organize",
+          "organized"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_10_nominal_clauses/023.mp3"
+    },
+    {
+      "id": "t10_25",
+      "type": "sentenceAssembly",
+      "question": "Вопрос о том, был ли он виноват, остаётся открытым",
+      "correctAnswer": "The question of whether he was guilty remains open",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "This",
+          "That"
+        ],
+        [
+          "question",
+          "questions",
+          "questioning",
+          "quest"
+        ],
+        [
+          "of",
+          "for",
+          "about",
+          "on"
+        ],
+        [
+          "whether",
+          "if",
+          "that",
+          "what"
+        ],
+        [
+          "he",
+          "him",
+          "his",
+          "himself"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "be"
+        ],
+        [
+          "guilty",
+          "guilt",
+          "guiltily",
+          "innocent"
+        ],
+        [
+          "remains",
+          "remain",
+          "remained",
+          "remaining"
+        ],
+        [
+          "open",
+          "opened",
+          "opening",
+          "openly"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_10_nominal_clauses/024.mp3"
+    },
+    {
+      "id": "t10_26",
+      "type": "sentenceAssembly",
+      "question": "Кто бы ни пришёл первым, получит приз",
+      "correctAnswer": "Whoever arrives first will receive the grand prize",
+      "options": [],
+      "variants": [
+        [
+          "Whoever",
+          "Whatever",
+          "Wherever",
+          "Whenever",
+          "Who"
+        ],
+        [
+          "arrives",
+          "arrive",
+          "arrived",
+          "arriving"
+        ],
+        [
+          "first",
+          "firstly",
+          "last",
+          "next"
+        ],
+        [
+          "will",
+          "would",
+          "shall",
+          "should"
+        ],
+        [
+          "receive",
+          "receives",
+          "received",
+          "receiving"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "grand",
+          "great",
+          "large",
+          "big"
+        ],
+        [
+          "prize",
+          "prizes",
+          "price",
+          "praise"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_10_nominal_clauses/025.mp3"
+    },
+    {
+      "id": "t10_27",
+      "type": "sentenceAssembly",
+      "question": "Меня беспокоит то, что он не ответил на письмо",
+      "correctAnswer": "What concerns me is that he has not replied yet",
+      "options": [],
+      "variants": [
+        [
+          "What",
+          "That",
+          "Which",
+          "How",
+          "Why"
+        ],
+        [
+          "concerns",
+          "concern",
+          "concerned",
+          "concerning"
+        ],
+        [
+          "me",
+          "I",
+          "my",
+          "mine"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "how"
+        ],
+        [
+          "he",
+          "him",
+          "his",
+          "himself"
+        ],
+        [
+          "has",
+          "had",
+          "have",
+          "having"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "neither"
+        ],
+        [
+          "replied",
+          "reply",
+          "replies",
+          "replying"
+        ],
+        [
+          "yet",
+          "still",
+          "already",
+          "just"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_10_nominal_clauses/026.mp3"
+    },
+    {
+      "id": "t10_28",
+      "type": "sentenceAssembly",
+      "question": "Все знают, что он лучший кандидат на эту должность",
+      "correctAnswer": "Everyone knows that he is the best candidate for this position",
+      "options": [],
+      "variants": [
+        [
+          "Everyone",
+          "Everybody",
+          "Anyone",
+          "Someone"
+        ],
+        [
+          "knows",
+          "know",
+          "knew",
+          "knowing"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "how"
+        ],
+        [
+          "he",
+          "him",
+          "his",
+          "himself"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "best",
+          "better",
+          "good",
+          "greatest"
+        ],
+        [
+          "candidate",
+          "candidates",
+          "candidacy",
+          "candid"
+        ],
+        [
+          "for",
+          "of",
+          "to",
+          "in"
+        ],
+        [
+          "this",
+          "that",
+          "the",
+          "a"
+        ],
+        [
+          "position",
+          "positions",
+          "post",
+          "placed"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_10_nominal_clauses/027.mp3"
+    },
+    {
+      "id": "t10_29",
+      "type": "sentenceAssembly",
+      "question": "Почему она отказалась от предложения, никто не понимает",
+      "correctAnswer": "Why she declined the offer is something nobody understands",
+      "options": [],
+      "variants": [
+        [
+          "Why",
+          "How",
+          "What",
+          "When",
+          "Where"
+        ],
+        [
+          "she",
+          "her",
+          "hers",
+          "herself"
+        ],
+        [
+          "declined",
+          "declines",
+          "declining",
+          "decline"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "offer",
+          "offers",
+          "offered",
+          "offering"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "something",
+          "anything",
+          "nothing",
+          "everything"
+        ],
+        [
+          "nobody",
+          "no one",
+          "anybody",
+          "somebody"
+        ],
+        [
+          "understands",
+          "understand",
+          "understood",
+          "understanding"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_10_nominal_clauses/028.mp3"
+    },
+    {
+      "id": "t10_30",
+      "type": "sentenceAssembly",
+      "question": "Независимо от того, что случится, мы готовы действовать",
+      "correctAnswer": "Regardless of what happens we are fully prepared to act",
+      "options": [],
+      "variants": [
+        [
+          "Regardless",
+          "Despite",
+          "Although",
+          "Nevertheless"
+        ],
+        [
+          "of",
+          "for",
+          "from",
+          "to"
+        ],
+        [
+          "what",
+          "that",
+          "which",
+          "how"
+        ],
+        [
+          "happens",
+          "happen",
+          "happened",
+          "happening"
+        ],
+        [
+          "we",
+          "us",
+          "our",
+          "ours"
+        ],
+        [
+          "are",
+          "is",
+          "was",
+          "were"
+        ],
+        [
+          "fully",
+          "full",
+          "fill",
+          "completely"
+        ],
+        [
+          "prepared",
+          "prepare",
+          "preparing",
+          "preparation"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "act",
+          "acts",
+          "acted",
+          "acting"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_10_nominal_clauses/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionAdvanced10NominalClauses"
+}

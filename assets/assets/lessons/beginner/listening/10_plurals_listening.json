@@ -1,0 +1,476 @@
+{
+  "id": "beginner_listening_10_plurals",
+  "title": "Plurals: one or many",
+  "description": "Слушайте и различайте единственное и множественное число.",
+  "order": 10,
+  "level": "beginner",
+  "imageUrl": "assets/images/lessons/plurals.png",
+  "tasks": [
+    {
+      "id": "t10_01",
+      "audioText": "A woman is at a fruit shop. She looks at the shelf. I need three apples, please.",
+      "transcript": "I need three apples, please.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She wants one apple."
+        },
+        {
+          "id": "o2",
+          "text": "She wants three apples."
+        },
+        {
+          "id": "o3",
+          "text": "She wants three oranges."
+        },
+        {
+          "id": "o4",
+          "text": "She wants two apples."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Three apples' is a plural noun with a specific number. Option 2 is correct.",
+      "mistakeTags": [
+        "plurals",
+        "regular_plural_s",
+        "shopping"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_10_plurals/t10_01.mp3"
+    },
+    {
+      "id": "t10_02",
+      "audioText": "A boy looks out the window. It is raining. There is one bird on the tree.",
+      "transcript": "There is one bird on the tree.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "There are many birds on the tree."
+        },
+        {
+          "id": "o2",
+          "text": "There are two birds on the tree."
+        },
+        {
+          "id": "o3",
+          "text": "There is a single bird on the tree."
+        },
+        {
+          "id": "o4",
+          "text": "There are no birds on the tree."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'One bird' is singular — just one. Option 3 says the same with 'a single bird.'",
+      "mistakeTags": [
+        "plurals",
+        "singular",
+        "nature"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_10_plurals/t10_02.mp3"
+    },
+    {
+      "id": "t10_03",
+      "audioText": "A teacher counts the students in the classroom. She writes a number. There are twenty children here today.",
+      "transcript": "There are twenty children here today.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "There is one child in the classroom."
+        },
+        {
+          "id": "o2",
+          "text": "There are twelve children in the classroom."
+        },
+        {
+          "id": "o3",
+          "text": "There are twenty children in the classroom."
+        },
+        {
+          "id": "o4",
+          "text": "There are thirty children in the classroom."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Twenty children' uses the irregular plural of 'child.' Option 3 matches the number.",
+      "mistakeTags": [
+        "plurals",
+        "irregular_plural",
+        "school"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_10_plurals/t10_03.mp3"
+    },
+    {
+      "id": "t10_04",
+      "audioText": "A man sets the table for dinner. He puts plates down. We need five forks.",
+      "transcript": "We need five forks.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He needs one fork."
+        },
+        {
+          "id": "o2",
+          "text": "He needs five spoons."
+        },
+        {
+          "id": "o3",
+          "text": "He needs five knives."
+        },
+        {
+          "id": "o4",
+          "text": "He needs five forks."
+        }
+      ],
+      "correctIndex": 3,
+      "explanation": "'Five forks' is plural. Option 4 matches both the number and the item.",
+      "mistakeTags": [
+        "plurals",
+        "regular_plural_s",
+        "home"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_10_plurals/t10_04.mp3"
+    },
+    {
+      "id": "t10_05",
+      "audioText": "A girl goes to the shoe store. She tries on many pairs. These shoes are too big.",
+      "transcript": "These shoes are too big.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The shoes are too small."
+        },
+        {
+          "id": "o2",
+          "text": "The shoe is the right size."
+        },
+        {
+          "id": "o3",
+          "text": "The shoes are too big."
+        },
+        {
+          "id": "o4",
+          "text": "The shoes are very cheap."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Shoes' is plural, and they are 'too big.' Option 3 matches exactly.",
+      "mistakeTags": [
+        "plurals",
+        "regular_plural_s",
+        "shopping"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_10_plurals/t10_05.mp3"
+    },
+    {
+      "id": "t10_06",
+      "audioText": "A family visits a farm. The children are excited. There are six sheep in the field.",
+      "transcript": "There are six sheep in the field.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "There is one sheep in the field."
+        },
+        {
+          "id": "o2",
+          "text": "There are six cows in the field."
+        },
+        {
+          "id": "o3",
+          "text": "There are six sheep in the field."
+        },
+        {
+          "id": "o4",
+          "text": "There are six horses in the field."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Sheep' is the same in singular and plural. Six sheep means many. Option 3 is correct.",
+      "mistakeTags": [
+        "plurals",
+        "irregular_plural",
+        "farm"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_10_plurals/t10_06.mp3"
+    },
+    {
+      "id": "t10_07",
+      "audioText": "A man is at the dentist. He opens his mouth wide. Two teeth need fixing.",
+      "transcript": "Two teeth need fixing.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "One tooth needs fixing."
+        },
+        {
+          "id": "o2",
+          "text": "Two teeth need fixing."
+        },
+        {
+          "id": "o3",
+          "text": "All teeth need fixing."
+        },
+        {
+          "id": "o4",
+          "text": "No teeth need fixing."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Two teeth' is the irregular plural of 'tooth.' Option 2 is correct.",
+      "mistakeTags": [
+        "plurals",
+        "irregular_plural",
+        "hospital"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_10_plurals/t10_07.mp3"
+    },
+    {
+      "id": "t10_08",
+      "audioText": "A boy opens his birthday gifts. He is very happy. I got four new books!",
+      "transcript": "I got four new books!",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He got one new book."
+        },
+        {
+          "id": "o2",
+          "text": "He got four new toys."
+        },
+        {
+          "id": "o3",
+          "text": "He got four new books."
+        },
+        {
+          "id": "o4",
+          "text": "He got four old books."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Four new books' — plural, with 'new' as the adjective. Option 3 matches.",
+      "mistakeTags": [
+        "plurals",
+        "regular_plural_s",
+        "home"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_10_plurals/t10_08.mp3"
+    },
+    {
+      "id": "t10_09",
+      "audioText": "A woman walks in the park. She sits on a bench. Many people are walking today.",
+      "transcript": "Many people are walking today.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "One person is walking."
+        },
+        {
+          "id": "o2",
+          "text": "Nobody is walking today."
+        },
+        {
+          "id": "o3",
+          "text": "A few people are running today."
+        },
+        {
+          "id": "o4",
+          "text": "A lot of people are walking today."
+        }
+      ],
+      "correctIndex": 3,
+      "explanation": "'Many people' is an irregular plural. 'A lot of' means the same as 'many.' Option 4 is correct.",
+      "mistakeTags": [
+        "plurals",
+        "irregular_plural",
+        "park"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_10_plurals/t10_09.mp3"
+    },
+    {
+      "id": "t10_10",
+      "audioText": "A chef works in the kitchen. He cuts vegetables. I need two tomatoes for the salad.",
+      "transcript": "I need two tomatoes for the salad.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He needs two potatoes for the salad."
+        },
+        {
+          "id": "o2",
+          "text": "He needs one tomato for the salad."
+        },
+        {
+          "id": "o3",
+          "text": "He needs two tomatoes for the soup."
+        },
+        {
+          "id": "o4",
+          "text": "He needs two tomatoes for the salad."
+        }
+      ],
+      "correctIndex": 3,
+      "explanation": "'Two tomatoes' uses the -es plural. Option 4 matches the item, number, and dish.",
+      "mistakeTags": [
+        "plurals",
+        "plural_es",
+        "restaurant"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_10_plurals/t10_10.mp3"
+    },
+    {
+      "id": "t10_11",
+      "audioText": "A girl plays in the garden. She finds something. There are three butterflies on the flower.",
+      "transcript": "There are three butterflies on the flower.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "There is one butterfly on the flower."
+        },
+        {
+          "id": "o2",
+          "text": "There are three bees on the flower."
+        },
+        {
+          "id": "o3",
+          "text": "There are three butterflies on the flower."
+        },
+        {
+          "id": "o4",
+          "text": "There are three butterflies on the tree."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Three butterflies' uses the -ies plural ending. Option 3 is correct.",
+      "mistakeTags": [
+        "plurals",
+        "plural_ies",
+        "nature"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_10_plurals/t10_11.mp3"
+    },
+    {
+      "id": "t10_12",
+      "audioText": "A mother packs lunch for school. She puts fruit in the box. There is one banana inside.",
+      "transcript": "There is one banana inside.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "There is one banana in the box."
+        },
+        {
+          "id": "o2",
+          "text": "There are two bananas in the box."
+        },
+        {
+          "id": "o3",
+          "text": "There is one apple in the box."
+        },
+        {
+          "id": "o4",
+          "text": "There are many bananas in the box."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'One banana' is singular. Option 1 correctly identifies one banana.",
+      "mistakeTags": [
+        "plurals",
+        "singular",
+        "home"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_10_plurals/t10_12.mp3"
+    },
+    {
+      "id": "t10_13",
+      "audioText": "A man goes to the pet shop. He looks at the fish tanks. There are ten fish in this tank.",
+      "transcript": "There are ten fish in this tank.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "There is one fish in the tank."
+        },
+        {
+          "id": "o2",
+          "text": "There are ten birds in the tank."
+        },
+        {
+          "id": "o3",
+          "text": "There are ten fish in the tank."
+        },
+        {
+          "id": "o4",
+          "text": "There are twenty fish in the tank."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Fish' stays the same in plural. Ten fish means many. Option 3 is correct.",
+      "mistakeTags": [
+        "plurals",
+        "irregular_plural",
+        "shopping"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_10_plurals/t10_13.mp3"
+    },
+    {
+      "id": "t10_14",
+      "audioText": "A boy is at the beach. He builds a sandcastle. I found two beautiful shells.",
+      "transcript": "I found two beautiful shells.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He found one beautiful shell."
+        },
+        {
+          "id": "o2",
+          "text": "He found two beautiful stones."
+        },
+        {
+          "id": "o3",
+          "text": "He found two ugly shells."
+        },
+        {
+          "id": "o4",
+          "text": "He found two beautiful shells."
+        }
+      ],
+      "correctIndex": 3,
+      "explanation": "'Two beautiful shells' — plural with -s ending. Option 4 matches perfectly.",
+      "mistakeTags": [
+        "plurals",
+        "regular_plural_s",
+        "beach"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_10_plurals/t10_14.mp3"
+    },
+    {
+      "id": "t10_15",
+      "audioText": "A woman works at a bakery. She counts the bread. We have eight loaves of bread left.",
+      "transcript": "We have eight loaves of bread left.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "They have one loaf of bread left."
+        },
+        {
+          "id": "o2",
+          "text": "They have eight loaves of bread left."
+        },
+        {
+          "id": "o3",
+          "text": "They have eight cakes left."
+        },
+        {
+          "id": "o4",
+          "text": "They have no bread left."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Eight loaves' uses the irregular plural of 'loaf.' Option 2 is correct.",
+      "mistakeTags": [
+        "plurals",
+        "irregular_plural",
+        "shopping"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_10_plurals/t10_15.mp3"
+    }
+  ],
+  "short_description": "Тренируйте различение единственного и множественного числа на слух."
+}

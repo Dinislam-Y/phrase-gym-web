@@ -1,0 +1,1408 @@
+{
+  "id": "beginner_07_imperative_mood",
+  "title": "Imperative Mood",
+  "description": "Imperative Mood — это пульт управления. Самый короткий путь от слов к делу: «Иди», «Смотри», «Не делай».",
+  "order": 7,
+  "level": "beginner",
+  "imageUrl": "assets/images/lessons/imperative_mood.png",
+  "vocabulary": [
+    {
+      "id": "v7_open",
+      "english": "open",
+      "russian": "открывать",
+      "partOfSpeech": "verb",
+      "example": "Open the window.",
+      "exampleTranslation": "Открой окно.",
+      "audioPath": "assets/audio/vocabulary/v7_open.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_open.mp3"
+    },
+    {
+      "id": "v7_stop",
+      "english": "stop",
+      "russian": "останавливаться (хватит)",
+      "partOfSpeech": "verb",
+      "example": "Stop right there!",
+      "exampleTranslation": "Стой на месте!",
+      "audioPath": "assets/audio/vocabulary/v7_stop.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_stop.mp3"
+    },
+    {
+      "id": "v7_help",
+      "english": "help",
+      "russian": "помогать",
+      "partOfSpeech": "verb",
+      "example": "Please help me.",
+      "exampleTranslation": "Пожалуйста, помоги мне.",
+      "audioPath": "assets/audio/vocabulary/v7_help.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_help.mp3"
+    },
+    {
+      "id": "v7_careful",
+      "english": "careful",
+      "russian": "осторожный",
+      "partOfSpeech": "adjective",
+      "example": "Be careful.",
+      "exampleTranslation": "Будь осторожен.",
+      "audioPath": "assets/audio/vocabulary/v7_careful.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_careful.mp3"
+    },
+    {
+      "id": "v7_touch",
+      "english": "touch",
+      "russian": "трогать",
+      "partOfSpeech": "verb",
+      "example": "Don't touch this.",
+      "exampleTranslation": "Не трогай это.",
+      "audioPath": "assets/audio/vocabulary/v7_touch.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_touch.mp3"
+    },
+    {
+      "id": "v7_listen",
+      "english": "listen",
+      "russian": "слушать",
+      "partOfSpeech": "verb",
+      "example": "Listen to me.",
+      "exampleTranslation": "Слушай меня.",
+      "audioPath": "assets/audio/vocabulary/v7_listen.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_listen.mp3"
+    },
+    {
+      "id": "v7_close",
+      "english": "close",
+      "russian": "закрывать",
+      "partOfSpeech": "verb",
+      "example": "Close the door please.",
+      "exampleTranslation": "Закрой дверь, пожалуйста.",
+      "audioPath": "assets/audio/vocabulary/v7_close.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_close.mp3"
+    },
+    {
+      "id": "v7_late",
+      "english": "late",
+      "russian": "поздно (опаздывать)",
+      "partOfSpeech": "adjective",
+      "example": "Don't be late.",
+      "exampleTranslation": "Не опаздывай.",
+      "audioPath": "assets/audio/vocabulary/v7_late.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_late.mp3"
+    },
+    {
+      "id": "v7_look",
+      "english": "look",
+      "russian": "смотреть",
+      "partOfSpeech": "verb",
+      "example": "Look at this.",
+      "exampleTranslation": "Посмотри на это.",
+      "audioPath": "assets/audio/vocabulary/v7_look.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_look.mp3"
+    },
+    {
+      "id": "v7_break",
+      "english": "break",
+      "russian": "перерыв",
+      "partOfSpeech": "noun",
+      "example": "Let's take a break.",
+      "exampleTranslation": "Давай сделаем перерыв.",
+      "audioPath": "assets/audio/vocabulary/v7_break.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_break.mp3"
+    },
+    {
+      "id": "v7_forget",
+      "english": "forget",
+      "russian": "забывать",
+      "partOfSpeech": "verb",
+      "example": "Don't forget to call.",
+      "exampleTranslation": "Не забудь позвонить.",
+      "audioPath": "assets/audio/vocabulary/v7_forget.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_forget.mp3"
+    },
+    {
+      "id": "v7_bring",
+      "english": "bring",
+      "russian": "приносить",
+      "partOfSpeech": "verb",
+      "example": "Bring me some water.",
+      "exampleTranslation": "Принеси мне воды.",
+      "audioPath": "assets/audio/vocabulary/v7_bring.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_bring.mp3"
+    },
+    {
+      "id": "v7_afraid",
+      "english": "afraid",
+      "russian": "испуганный (бояться)",
+      "partOfSpeech": "adjective",
+      "example": "Don't be afraid.",
+      "exampleTranslation": "Не бойся.",
+      "audioPath": "assets/audio/vocabulary/v7_afraid.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_afraid.mp3"
+    },
+    {
+      "id": "v7_turn",
+      "english": "turn",
+      "russian": "повернуть",
+      "partOfSpeech": "verb",
+      "example": "Turn right.",
+      "exampleTranslation": "Поверните направо.",
+      "audioPath": "assets/audio/vocabulary/v7_turn.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_turn.mp3"
+    },
+    {
+      "id": "v7_leave",
+      "english": "leave",
+      "russian": "оставлять",
+      "partOfSpeech": "verb",
+      "example": "Leave me alone.",
+      "exampleTranslation": "Оставь меня в покое.",
+      "audioPath": "assets/audio/vocabulary/v7_leave.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_leave.mp3"
+    },
+    {
+      "id": "v7_alone",
+      "english": "alone",
+      "russian": "один (в покое)",
+      "partOfSpeech": "adverb",
+      "example": "Leave me alone.",
+      "exampleTranslation": "Оставь меня в покое.",
+      "audioPath": "assets/audio/vocabulary/v7_alone.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_alone.mp3"
+    },
+    {
+      "id": "v7_wash",
+      "english": "wash",
+      "russian": "мыть",
+      "partOfSpeech": "verb",
+      "example": "Wash your hands.",
+      "exampleTranslation": "Помой руки.",
+      "audioPath": "assets/audio/vocabulary/v7_wash.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_wash.mp3"
+    },
+    {
+      "id": "v7_try",
+      "english": "try",
+      "russian": "пробовать, пытаться",
+      "partOfSpeech": "verb",
+      "example": "Try again.",
+      "exampleTranslation": "Попробуй еще раз.",
+      "audioPath": "assets/audio/vocabulary/v7_try.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_try.mp3"
+    },
+    {
+      "id": "v7_worry",
+      "english": "worry",
+      "russian": "волноваться, беспокоиться",
+      "partOfSpeech": "verb",
+      "example": "Don't worry.",
+      "exampleTranslation": "Не переживай.",
+      "audioPath": "assets/audio/vocabulary/v7_worry.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_worry.mp3"
+    },
+    {
+      "id": "v7_quiet",
+      "english": "quiet",
+      "russian": "тихий",
+      "partOfSpeech": "adjective",
+      "example": "Be quiet.",
+      "exampleTranslation": "Будь тише.",
+      "audioPath": "assets/audio/vocabulary/v7_quiet.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_quiet.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "Imperative Mood",
+    "subtitle": "Все фразы в английском обычно начинаются с «Кто?» (I go, She goes). Но когда вы включаете режим Командира, «Кто» не нужен. Вы просто бросаете глагол: «Go!». Это самый прямой и быстрый способ заставить что-то случиться.",
+    "construction": {
+      "formula": "V1 (Глагол без всего)",
+      "rules": [
+        {
+          "word": "Команда",
+          "description": "Просто глагол. Никаких to, никаких окончаний. Open! Stop! Run!"
+        },
+        {
+          "word": "Запрет (Don't)",
+          "description": "Чтобы остановить действие, поставьте Don't перед глаголом. Don't go! Don't touch!"
+        },
+        {
+          "word": "Вежливость (Please)",
+          "description": "Чтобы не звучать грубо, добавьте «волшебное слово» в начало или конец. Please help me."
+        },
+        {
+          "word": "Let's (Давай)",
+          "description": "Команда для нас двоих. «Давай сделаем это». Let's go! Let's eat."
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "star",
+        "color": "orange",
+        "title": "Прямые приказы",
+        "description": "Когда нет времени на вежливость. «Стой!», «Беги!», «Смотри!».",
+        "example": {
+          "english": "Stop right there!",
+          "russian": "Стой на месте!"
+        }
+      },
+      {
+        "icon": "schedule",
+        "color": "blue",
+        "title": "Инструкции",
+        "description": "Рецепты, указания дороги, мануалы. Делай раз, делай два.",
+        "example": {
+          "english": "Turn left and go straight.",
+          "russian": "Поверните налево и идите прямо."
+        }
+      },
+      {
+        "icon": "favorite",
+        "color": "green",
+        "title": "Просьбы и советы",
+        "description": "Мягкое побуждение к действию. «Пожалуйста, помоги», «Попробуй это».",
+        "example": {
+          "english": "Please send me the photo.",
+          "russian": "Пожалуйста, пришли мне фото."
+        }
+      }
+    ],
+    "markers": [
+      "Please",
+      "Don't",
+      "Do not",
+      "Let's",
+      "Always",
+      "Never",
+      "Be careful",
+      "Just do it"
+    ]
+  },
+  "tasks": [
+    {
+      "id": "t7_1",
+      "type": "sentenceAssembly",
+      "question": "Открой окно",
+      "correctAnswer": "Open the window",
+      "mistakeTags": [
+        "imperative",
+        "imperative_positive"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "Open",
+          "Opens",
+          "Opening",
+          "To open"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "window",
+          "door",
+          "room",
+          "house"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_07_imperative_mood/000.mp3"
+    },
+    {
+      "id": "t7_2",
+      "type": "sentenceAssembly",
+      "question": "Не ходи туда",
+      "correctAnswer": "Don't go there",
+      "mistakeTags": [
+        "imperative",
+        "imperative_negative"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "Don't",
+          "Not",
+          "No",
+          "Doesn't"
+        ],
+        [
+          "go",
+          "went",
+          "going",
+          "come"
+        ],
+        [
+          "there",
+          "here",
+          "where",
+          "place"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_07_imperative_mood/001.mp3"
+    },
+    {
+      "id": "t7_3",
+      "type": "sentenceAssembly",
+      "question": "Пожалуйста, помоги мне",
+      "correctAnswer": "Please help me",
+      "mistakeTags": [
+        "imperative",
+        "imperative_polite"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "Please",
+          "Sorry",
+          "Excuse",
+          "Thanks"
+        ],
+        [
+          "help",
+          "helps",
+          "helping",
+          "to help"
+        ],
+        [
+          "me",
+          "I",
+          "my",
+          "mine"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_07_imperative_mood/002.mp3"
+    },
+    {
+      "id": "t7_4",
+      "type": "sentenceAssembly",
+      "question": "Давай пойдем домой",
+      "correctAnswer": "Let's go home",
+      "mistakeTags": [
+        "imperative",
+        "imperative_positive"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "Let's",
+          "Lets",
+          "Let",
+          "Go"
+        ],
+        [
+          "go",
+          "goes",
+          "going",
+          "come"
+        ],
+        [
+          "home",
+          "house",
+          "back",
+          "place"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_07_imperative_mood/003.mp3"
+    },
+    {
+      "id": "t7_5",
+      "type": "sentenceAssembly",
+      "question": "Будь осторожен здесь",
+      "correctAnswer": "Be careful here",
+      "mistakeTags": [
+        "imperative",
+        "imperative_positive"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "Be",
+          "Stay",
+          "Look",
+          "Feel"
+        ],
+        [
+          "careful",
+          "quiet",
+          "ready",
+          "nice"
+        ],
+        [
+          "here",
+          "now",
+          "there",
+          "please"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_07_imperative_mood/004.mp3"
+    },
+    {
+      "id": "t7_6",
+      "type": "sentenceAssembly",
+      "question": "Не трогай это",
+      "correctAnswer": "Don't touch this",
+      "mistakeTags": [
+        "imperative",
+        "imperative_negative"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "Don't",
+          "Doesn't",
+          "No",
+          "Not"
+        ],
+        [
+          "touch",
+          "touches",
+          "touching",
+          "feel"
+        ],
+        [
+          "this",
+          "that",
+          "it",
+          "these"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_07_imperative_mood/005.mp3"
+    },
+    {
+      "id": "t7_7",
+      "type": "sentenceAssembly",
+      "question": "Слушай меня",
+      "correctAnswer": "Listen to me",
+      "mistakeTags": [
+        "imperative",
+        "imperative_positive"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "Listen",
+          "Listens",
+          "Listening",
+          "Hear"
+        ],
+        [
+          "to",
+          "at",
+          "in",
+          "on"
+        ],
+        [
+          "me",
+          "I",
+          "my",
+          "mine"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_07_imperative_mood/006.mp3"
+    },
+    {
+      "id": "t7_8",
+      "type": "sentenceAssembly",
+      "question": "Закрой дверь, пожалуйста",
+      "correctAnswer": "Close the door please",
+      "mistakeTags": [
+        "imperative",
+        "imperative_positive",
+        "imperative_polite"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "Close",
+          "Closes",
+          "Closing",
+          "Open"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "door",
+          "window",
+          "gate",
+          "room"
+        ],
+        [
+          "please",
+          "thanks",
+          "sorry",
+          "excuse"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_07_imperative_mood/007.mp3"
+    },
+    {
+      "id": "t7_9",
+      "type": "sentenceAssembly",
+      "question": "Не опаздывай",
+      "correctAnswer": "Don't be late",
+      "mistakeTags": [
+        "imperative",
+        "imperative_negative"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "Don't",
+          "Not",
+          "No",
+          "Doesn't"
+        ],
+        [
+          "be",
+          "is",
+          "are",
+          "am"
+        ],
+        [
+          "late",
+          "later",
+          "lately",
+          "wait"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_07_imperative_mood/008.mp3"
+    },
+    {
+      "id": "t7_10",
+      "type": "sentenceAssembly",
+      "question": "Посмотри на это",
+      "correctAnswer": "Look at this",
+      "mistakeTags": [
+        "imperative",
+        "imperative_positive"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "Look",
+          "Looks",
+          "Looking",
+          "See"
+        ],
+        [
+          "at",
+          "on",
+          "in",
+          "to"
+        ],
+        [
+          "this",
+          "that",
+          "it",
+          "these"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_07_imperative_mood/009.mp3"
+    },
+    {
+      "id": "t7_11",
+      "type": "sentenceAssembly",
+      "question": "Давай сделаем перерыв",
+      "correctAnswer": "Let's take a break",
+      "mistakeTags": [
+        "imperative",
+        "imperative_positive"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "Let's",
+          "Lets",
+          "Let",
+          "Go"
+        ],
+        [
+          "take",
+          "takes",
+          "taking",
+          "took"
+        ],
+        [
+          "a",
+          "the",
+          "one",
+          "an"
+        ],
+        [
+          "break",
+          "rest",
+          "stop",
+          "pause"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_07_imperative_mood/010.mp3"
+    },
+    {
+      "id": "t7_12",
+      "type": "sentenceAssembly",
+      "question": "Не забудь позвонить маме",
+      "correctAnswer": "Don't forget to call mom",
+      "mistakeTags": [
+        "imperative",
+        "imperative_negative"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "Don't",
+          "Not",
+          "No",
+          "Doesn't"
+        ],
+        [
+          "forget",
+          "forgot",
+          "forgetting",
+          "remember"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "on"
+        ],
+        [
+          "call",
+          "calls",
+          "calling",
+          "phone"
+        ],
+        [
+          "mom",
+          "mother",
+          "mum",
+          "family"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_07_imperative_mood/011.mp3"
+    },
+    {
+      "id": "t7_13",
+      "type": "sentenceAssembly",
+      "question": "Скажи мне правду",
+      "correctAnswer": "Tell me the truth",
+      "mistakeTags": [
+        "imperative",
+        "imperative_positive"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "Tell",
+          "Say",
+          "Speak",
+          "Talk"
+        ],
+        [
+          "me",
+          "I",
+          "my",
+          "to me"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "truth",
+          "true",
+          "right",
+          "lie"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_07_imperative_mood/012.mp3"
+    },
+    {
+      "id": "t7_14",
+      "type": "sentenceAssembly",
+      "question": "Никогда не говори никогда",
+      "correctAnswer": "Never say never",
+      "mistakeTags": [
+        "imperative",
+        "imperative_negative"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "Never",
+          "No",
+          "Not",
+          "Don't"
+        ],
+        [
+          "say",
+          "tell",
+          "speak",
+          "says"
+        ],
+        [
+          "never",
+          "ever",
+          "always",
+          "no"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_07_imperative_mood/013.mp3"
+    },
+    {
+      "id": "t7_15",
+      "type": "sentenceAssembly",
+      "question": "Принеси мне воды",
+      "correctAnswer": "Bring me some water",
+      "mistakeTags": [
+        "imperative",
+        "imperative_positive"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "Bring",
+          "Take",
+          "Give",
+          "Get"
+        ],
+        [
+          "me",
+          "I",
+          "my",
+          "for me"
+        ],
+        [
+          "some",
+          "any",
+          "a",
+          "no"
+        ],
+        [
+          "water",
+          "drink",
+          "juice",
+          "liquid"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_07_imperative_mood/014.mp3"
+    },
+    {
+      "id": "t7_16",
+      "type": "sentenceAssembly",
+      "question": "Не бойся",
+      "correctAnswer": "Don't be afraid",
+      "mistakeTags": [
+        "imperative",
+        "imperative_negative"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "Don't",
+          "Not",
+          "No",
+          "Doesn't"
+        ],
+        [
+          "be",
+          "is",
+          "are",
+          "am"
+        ],
+        [
+          "afraid",
+          "scared",
+          "fear",
+          "fright"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_07_imperative_mood/015.mp3"
+    },
+    {
+      "id": "t7_17",
+      "type": "sentenceAssembly",
+      "question": "Поверни направо сейчас",
+      "correctAnswer": "Turn right now",
+      "mistakeTags": [
+        "imperative",
+        "imperative_positive"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "Turn",
+          "Go",
+          "Look",
+          "Move"
+        ],
+        [
+          "right",
+          "left",
+          "back",
+          "away"
+        ],
+        [
+          "now",
+          "here",
+          "there",
+          "please"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_07_imperative_mood/016.mp3"
+    },
+    {
+      "id": "t7_18",
+      "type": "sentenceAssembly",
+      "question": "Пойдем со мной",
+      "correctAnswer": "Come with me",
+      "mistakeTags": [
+        "imperative",
+        "imperative_positive"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "Come",
+          "Go",
+          "Coming",
+          "Went"
+        ],
+        [
+          "with",
+          "to",
+          "for",
+          "at"
+        ],
+        [
+          "me",
+          "I",
+          "my",
+          "mine"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_07_imperative_mood/017.mp3"
+    },
+    {
+      "id": "t7_19",
+      "type": "sentenceAssembly",
+      "question": "Не останавливайся сейчас",
+      "correctAnswer": "Don't stop now",
+      "mistakeTags": [
+        "imperative",
+        "imperative_negative"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "Don't",
+          "Do",
+          "Please",
+          "Always"
+        ],
+        [
+          "stop",
+          "go",
+          "run",
+          "wait"
+        ],
+        [
+          "now",
+          "here",
+          "there",
+          "yet"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_07_imperative_mood/018.mp3"
+    },
+    {
+      "id": "t7_20",
+      "type": "sentenceAssembly",
+      "question": "Оставь меня в покое",
+      "correctAnswer": "Leave me alone",
+      "options": [],
+      "variants": [
+        [
+          "Leave",
+          "Live",
+          "Left",
+          "Let"
+        ],
+        [
+          "me",
+          "I",
+          "my",
+          "mine"
+        ],
+        [
+          "alone",
+          "loan",
+          "lonely",
+          "one"
+        ]
+      ],
+      "mistakeTags": [
+        "imperative",
+        "imperative_positive"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_07_imperative_mood/019.mp3"
+    },
+    {
+      "id": "t7_21",
+      "type": "sentenceAssembly",
+      "question": "Помой руки",
+      "correctAnswer": "Wash your hands",
+      "options": [],
+      "variants": [
+        [
+          "Wash",
+          "Clean",
+          "Washes",
+          "Water"
+        ],
+        [
+          "your",
+          "you",
+          "my",
+          "the"
+        ],
+        [
+          "hands",
+          "hand",
+          "arms",
+          "fingers"
+        ]
+      ],
+      "mistakeTags": [
+        "imperative",
+        "imperative_positive"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_07_imperative_mood/020.mp3"
+    },
+    {
+      "id": "t7_22",
+      "type": "sentenceAssembly",
+      "question": "Давай начнём игру",
+      "correctAnswer": "Let's start the game",
+      "options": [],
+      "variants": [
+        [
+          "Let's",
+          "Please",
+          "Don't",
+          "We"
+        ],
+        [
+          "start",
+          "play",
+          "open",
+          "try"
+        ],
+        [
+          "the",
+          "a",
+          "this",
+          "our"
+        ],
+        [
+          "game",
+          "lesson",
+          "task",
+          "song"
+        ]
+      ],
+      "mistakeTags": [
+        "imperative",
+        "imperative_positive"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_07_imperative_mood/021.mp3"
+    },
+    {
+      "id": "t7_23",
+      "type": "sentenceAssembly",
+      "question": "Попробуй ещё раз, пожалуйста",
+      "correctAnswer": "Try again please",
+      "options": [],
+      "variants": [
+        [
+          "Try",
+          "Start",
+          "Come",
+          "Look"
+        ],
+        [
+          "again",
+          "here",
+          "now",
+          "there"
+        ],
+        [
+          "please",
+          "now",
+          "soon",
+          "today"
+        ]
+      ],
+      "mistakeTags": [
+        "imperative",
+        "imperative_positive"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_07_imperative_mood/022.mp3"
+    },
+    {
+      "id": "t7_24",
+      "type": "sentenceAssembly",
+      "question": "Иди сюда сейчас",
+      "correctAnswer": "Come here now",
+      "options": [],
+      "variants": [
+        [
+          "Come",
+          "Go",
+          "Look",
+          "Stay"
+        ],
+        [
+          "here",
+          "there",
+          "back",
+          "out"
+        ],
+        [
+          "now",
+          "please",
+          "soon",
+          "today"
+        ]
+      ],
+      "mistakeTags": [
+        "imperative",
+        "imperative_negative"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_07_imperative_mood/023.mp3"
+    },
+    {
+      "id": "t7_25",
+      "type": "sentenceAssembly",
+      "question": "Напиши свое имя",
+      "correctAnswer": "Write your name",
+      "options": [],
+      "variants": [
+        [
+          "Write",
+          "Writes",
+          "Writing",
+          "Read"
+        ],
+        [
+          "your",
+          "you",
+          "my",
+          "the"
+        ],
+        [
+          "name",
+          "names",
+          "word",
+          "text"
+        ]
+      ],
+      "mistakeTags": [
+        "imperative",
+        "imperative_positive"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_07_imperative_mood/024.mp3"
+    },
+    {
+      "id": "t7_26",
+      "type": "sentenceAssembly",
+      "question": "Сядь пожалуйста",
+      "correctAnswer": "Sit down please",
+      "options": [],
+      "variants": [
+        [
+          "Sit",
+          "Stand",
+          "Come",
+          "Look"
+        ],
+        [
+          "down",
+          "up",
+          "here",
+          "there"
+        ],
+        [
+          "please",
+          "now",
+          "quietly",
+          "slowly"
+        ]
+      ],
+      "mistakeTags": [
+        "imperative",
+        "imperative_positive"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_07_imperative_mood/025.mp3"
+    },
+    {
+      "id": "t7_27",
+      "type": "sentenceAssembly",
+      "question": "Не кури здесь",
+      "correctAnswer": "Don't smoke here",
+      "options": [],
+      "variants": [
+        [
+          "Don't",
+          "No",
+          "Not",
+          "Stop"
+        ],
+        [
+          "smoke",
+          "smokes",
+          "smoking",
+          "fire"
+        ],
+        [
+          "here",
+          "there",
+          "near",
+          "place"
+        ]
+      ],
+      "mistakeTags": [
+        "imperative",
+        "imperative_negative"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_07_imperative_mood/026.mp3"
+    },
+    {
+      "id": "t7_28",
+      "type": "sentenceAssembly",
+      "question": "Приятного аппетита",
+      "correctAnswer": "Enjoy your meal",
+      "options": [],
+      "variants": [
+        [
+          "Enjoy",
+          "Like",
+          "Love",
+          "Eat"
+        ],
+        [
+          "your",
+          "you",
+          "my",
+          "the"
+        ],
+        [
+          "meal",
+          "food",
+          "lunch",
+          "dinner"
+        ]
+      ],
+      "mistakeTags": [
+        "imperative",
+        "imperative_positive"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_07_imperative_mood/027.mp3"
+    },
+    {
+      "id": "t7_29",
+      "type": "sentenceAssembly",
+      "question": "Проснись сейчас",
+      "correctAnswer": "Wake up now",
+      "options": [],
+      "variants": [
+        [
+          "Wake",
+          "Stand",
+          "Get",
+          "Look"
+        ],
+        [
+          "up",
+          "out",
+          "in",
+          "down"
+        ],
+        [
+          "now",
+          "please",
+          "soon",
+          "here"
+        ]
+      ],
+      "mistakeTags": [
+        "imperative",
+        "imperative_positive"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_07_imperative_mood/028.mp3"
+    },
+    {
+      "id": "t7_30",
+      "type": "sentenceAssembly",
+      "question": "Послушай его",
+      "correctAnswer": "Listen to him",
+      "options": [],
+      "variants": [
+        [
+          "Listen",
+          "Come",
+          "Talk",
+          "Look"
+        ],
+        [
+          "to",
+          "at",
+          "for",
+          "with"
+        ],
+        [
+          "him",
+          "me",
+          "her",
+          "them"
+        ]
+      ],
+      "mistakeTags": [
+        "imperative",
+        "imperative_positive"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_07_imperative_mood/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionBeginner07ImperativeMood",
+  "theoryQuiz": [
+    {
+      "id": "tq_01",
+      "type": "trueFalse",
+      "question": "Повелительное наклонение начинается с глагола без подлежащего.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "В Imperative Mood предложение начинается сразу с глагола: Go! Listen! Stop!"
+    },
+    {
+      "id": "tq_02",
+      "type": "multipleChoice",
+      "question": "Какое предложение является примером Imperative Mood?",
+      "options": [
+        "She opens the door.",
+        "Open the door!",
+        "He is opening the door.",
+        "They opened the door."
+      ],
+      "correctIndex": 1,
+      "explanation": "Open the door! — команда, начинается с глагола без подлежащего."
+    },
+    {
+      "id": "tq_03",
+      "type": "multipleChoice",
+      "question": "Как образуется отрицание в повелительном наклонении?",
+      "options": [
+        "Not + V1",
+        "Don't + V1",
+        "No + V1",
+        "Doesn't + V1"
+      ],
+      "correctIndex": 1,
+      "explanation": "Отрицательная форма: Don't + глагол: Don't go! Don't worry!"
+    },
+    {
+      "id": "tq_04",
+      "type": "trueFalse",
+      "question": "\"Don't worry!\" — это отрицательная форма повелительного наклонения.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Don't + worry — отрицательный Imperative: «Не волнуйся!»"
+    },
+    {
+      "id": "tq_05",
+      "type": "multipleChoice",
+      "question": "Какое слово добавляют для вежливости в Imperative Mood?",
+      "options": [
+        "sorry",
+        "please",
+        "thank you",
+        "excuse me"
+      ],
+      "correctIndex": 1,
+      "explanation": "Please делает команду вежливой: Please sit down. Close the window, please."
+    },
+    {
+      "id": "tq_06",
+      "type": "trueFalse",
+      "question": "\"You close the window!\" — это правильная форма повелительного наклонения.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "В Imperative Mood подлежащее не используется: Close the window!"
+    },
+    {
+      "id": "tq_07",
+      "type": "multipleChoice",
+      "question": "Выберите правильную отрицательную команду:",
+      "options": [
+        "No touch that!",
+        "Not touch that!",
+        "Don't touch that!",
+        "Doesn't touch that!"
+      ],
+      "correctIndex": 2,
+      "explanation": "Отрицательный Imperative: Don't + V1: Don't touch that!"
+    },
+    {
+      "id": "tq_08",
+      "type": "multipleChoice",
+      "question": "Для чего используется Imperative Mood?",
+      "options": [
+        "Для описания прошлых событий",
+        "Для команд, просьб и инструкций",
+        "Для вопросов",
+        "Для описания будущего"
+      ],
+      "correctIndex": 1,
+      "explanation": "Повелительное наклонение используется для команд, просьб, инструкций и советов."
+    },
+    {
+      "id": "tq_09",
+      "type": "trueFalse",
+      "question": "\"Please turn off the light.\" — это вежливая форма повелительного наклонения.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Please + глагол — вежливая форма Imperative Mood."
+    },
+    {
+      "id": "tq_10",
+      "type": "multipleChoice",
+      "question": "Какое предложение НЕ является Imperative Mood?",
+      "options": [
+        "Listen to me!",
+        "Don't be late!",
+        "She goes to school.",
+        "Please help me."
+      ],
+      "correctIndex": 2,
+      "explanation": "She goes to school — это обычное утвердительное предложение с подлежащим, не повелительное наклонение."
+    }
+  ]
+}

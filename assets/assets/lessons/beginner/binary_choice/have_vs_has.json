@@ -1,0 +1,400 @@
+{
+  "id": "beginner_bc_03_have_has",
+  "title": "Have vs Has",
+  "description": "Have или Has? Запоминаем, кто что имеет.",
+  "order": 3,
+  "level": "beginner",
+  "imageUrl": null,
+  "tasks": [
+    {
+      "id": "hvh_1",
+      "question": "She ___ a dog.",
+      "optionA": "HAVE",
+      "optionB": "HAS",
+      "correctIndex": 1,
+      "explanation": "She — третье лицо, поэтому has.",
+      "tags": [
+        "have_vs_has",
+        "has",
+        "pets"
+      ]
+    },
+    {
+      "id": "hvh_2",
+      "question": "I ___ a cat.",
+      "optionA": "HAVE",
+      "optionB": "HAS",
+      "correctIndex": 0,
+      "explanation": "I всегда используется с have.",
+      "tags": [
+        "have_vs_has",
+        "have",
+        "pets"
+      ]
+    },
+    {
+      "id": "hvh_3",
+      "question": "They ___ two cars.",
+      "optionA": "HAVE",
+      "optionB": "HAS",
+      "correctIndex": 0,
+      "explanation": "They — множественное число, используем have.",
+      "tags": [
+        "have_vs_has",
+        "have",
+        "home"
+      ]
+    },
+    {
+      "id": "hvh_4",
+      "question": "He ___ a new phone.",
+      "optionA": "HAVE",
+      "optionB": "HAS",
+      "correctIndex": 1,
+      "explanation": "He — третье лицо единственного числа, нужен has.",
+      "tags": [
+        "have_vs_has",
+        "has",
+        "daily_life"
+      ]
+    },
+    {
+      "id": "hvh_5",
+      "question": "We ___ a big house.",
+      "optionA": "HAVE",
+      "optionB": "HAS",
+      "correctIndex": 0,
+      "explanation": "We — множественное число, требует have.",
+      "tags": [
+        "have_vs_has",
+        "have",
+        "home"
+      ]
+    },
+    {
+      "id": "hvh_6",
+      "question": "You ___ good friends.",
+      "optionA": "HAVE",
+      "optionB": "HAS",
+      "correctIndex": 0,
+      "explanation": "You всегда с have, даже для одного человека.",
+      "tags": [
+        "have_vs_has",
+        "have",
+        "social"
+      ]
+    },
+    {
+      "id": "hvh_7",
+      "question": "It ___ four legs.",
+      "optionA": "HAVE",
+      "optionB": "HAS",
+      "correctIndex": 1,
+      "explanation": "It — третье лицо, используем has.",
+      "tags": [
+        "have_vs_has",
+        "has",
+        "animals"
+      ]
+    },
+    {
+      "id": "hvh_8",
+      "question": "I ___ two brothers.",
+      "optionA": "HAVE",
+      "optionB": "HAS",
+      "correctIndex": 0,
+      "explanation": "С I всегда идёт have.",
+      "tags": [
+        "have_vs_has",
+        "have",
+        "family"
+      ]
+    },
+    {
+      "id": "hvh_9",
+      "question": "She ___ brown eyes.",
+      "optionA": "HAVE",
+      "optionB": "HAS",
+      "correctIndex": 1,
+      "explanation": "She требует has в третьем лице.",
+      "tags": [
+        "have_vs_has",
+        "has",
+        "appearance"
+      ]
+    },
+    {
+      "id": "hvh_10",
+      "question": "They ___ many books.",
+      "optionA": "HAVE",
+      "optionB": "HAS",
+      "correctIndex": 0,
+      "explanation": "They — множественное число, нужно have.",
+      "tags": [
+        "have_vs_has",
+        "have",
+        "education"
+      ]
+    },
+    {
+      "id": "hvh_11",
+      "question": "Tom ___ a red bike.",
+      "optionA": "HAVE",
+      "optionB": "HAS",
+      "correctIndex": 1,
+      "explanation": "Tom — одно лицо, третье лицо, нужен has.",
+      "tags": [
+        "have_vs_has",
+        "has",
+        "daily_life"
+      ]
+    },
+    {
+      "id": "hvh_12",
+      "question": "My sister ___ long hair.",
+      "optionA": "HAVE",
+      "optionB": "HAS",
+      "correctIndex": 1,
+      "explanation": "My sister — она, третье лицо, используем has.",
+      "tags": [
+        "have_vs_has",
+        "has",
+        "appearance"
+      ]
+    },
+    {
+      "id": "hvh_13",
+      "question": "The children ___ toys.",
+      "optionA": "HAVE",
+      "optionB": "HAS",
+      "correctIndex": 0,
+      "explanation": "Children — множественное число, требует have.",
+      "tags": [
+        "have_vs_has",
+        "have",
+        "daily_life"
+      ]
+    },
+    {
+      "id": "hvh_14",
+      "question": "My parents ___ a garden.",
+      "optionA": "HAVE",
+      "optionB": "HAS",
+      "correctIndex": 0,
+      "explanation": "Parents — множественное число, нужно have.",
+      "tags": [
+        "have_vs_has",
+        "have",
+        "home"
+      ]
+    },
+    {
+      "id": "hvh_15",
+      "question": "The cat ___ white fur.",
+      "optionA": "HAVE",
+      "optionB": "HAS",
+      "correctIndex": 1,
+      "explanation": "The cat — одно животное, третье лицо, has.",
+      "tags": [
+        "have_vs_has",
+        "has",
+        "pets"
+      ]
+    },
+    {
+      "id": "hvh_16",
+      "question": "Anna ___ a job.",
+      "optionA": "HAVE",
+      "optionB": "HAS",
+      "correctIndex": 1,
+      "explanation": "Anna — одно лицо, третье лицо, нужен has.",
+      "tags": [
+        "have_vs_has",
+        "has",
+        "work"
+      ]
+    },
+    {
+      "id": "hvh_17",
+      "question": "My friends ___ free time.",
+      "optionA": "HAVE",
+      "optionB": "HAS",
+      "correctIndex": 0,
+      "explanation": "Friends — множественное число, используем have.",
+      "tags": [
+        "have_vs_has",
+        "have",
+        "daily_life"
+      ]
+    },
+    {
+      "id": "hvh_18",
+      "question": "The dog ___ a ball.",
+      "optionA": "HAVE",
+      "optionB": "HAS",
+      "correctIndex": 1,
+      "explanation": "The dog — одно животное, третье лицо, has.",
+      "tags": [
+        "have_vs_has",
+        "has",
+        "pets"
+      ]
+    },
+    {
+      "id": "hvh_19",
+      "question": "John and Mary ___ lunch.",
+      "optionA": "HAVE",
+      "optionB": "HAS",
+      "correctIndex": 0,
+      "explanation": "John and Mary — два человека, множественное число, have.",
+      "tags": [
+        "have_vs_has",
+        "have",
+        "food"
+      ]
+    },
+    {
+      "id": "hvh_20",
+      "question": "My mom ___ a car.",
+      "optionA": "HAVE",
+      "optionB": "HAS",
+      "correctIndex": 1,
+      "explanation": "My mom — она, третье лицо, нужен has.",
+      "tags": [
+        "have_vs_has",
+        "has",
+        "daily_life"
+      ]
+    },
+    {
+      "id": "hvh_21",
+      "question": "Everyone ___ a phone.",
+      "optionA": "HAVE",
+      "optionB": "HAS",
+      "correctIndex": 1,
+      "explanation": "Everyone — единственное число, третье лицо, has.",
+      "tags": [
+        "have_vs_has",
+        "has",
+        "daily_life"
+      ]
+    },
+    {
+      "id": "hvh_22",
+      "question": "My brothers ___ a bike.",
+      "optionA": "HAVE",
+      "optionB": "HAS",
+      "correctIndex": 0,
+      "explanation": "Brothers — множественное число, поэтому have.",
+      "tags": [
+        "have_vs_has",
+        "have",
+        "home"
+      ]
+    },
+    {
+      "id": "hvh_23",
+      "question": "Each student ___ a book.",
+      "optionA": "HAVE",
+      "optionB": "HAS",
+      "correctIndex": 1,
+      "explanation": "Each student — каждый один, единственное число, has.",
+      "tags": [
+        "have_vs_has",
+        "has",
+        "education"
+      ]
+    },
+    {
+      "id": "hvh_24",
+      "question": "Both girls ___ blue eyes.",
+      "optionA": "HAVE",
+      "optionB": "HAS",
+      "correctIndex": 0,
+      "explanation": "Both girls — две девочки, множественное число, have.",
+      "tags": [
+        "have_vs_has",
+        "have",
+        "appearance"
+      ]
+    },
+    {
+      "id": "hvh_25",
+      "question": "Nobody ___ the answer.",
+      "optionA": "HAVE",
+      "optionB": "HAS",
+      "correctIndex": 1,
+      "explanation": "Nobody — единственное число, третье лицо, has.",
+      "tags": [
+        "have_vs_has",
+        "has",
+        "education"
+      ]
+    },
+    {
+      "id": "hvh_26",
+      "question": "The students ___ homework.",
+      "optionA": "HAVE",
+      "optionB": "HAS",
+      "correctIndex": 0,
+      "explanation": "Students — множественное число, требует have.",
+      "tags": [
+        "have_vs_has",
+        "have",
+        "education"
+      ]
+    },
+    {
+      "id": "hvh_27",
+      "question": "Someone ___ my pen.",
+      "optionA": "HAVE",
+      "optionB": "HAS",
+      "correctIndex": 1,
+      "explanation": "Someone — кто-то один, единственное число, has.",
+      "tags": [
+        "have_vs_has",
+        "has",
+        "daily_life"
+      ]
+    },
+    {
+      "id": "hvh_28",
+      "question": "The people ___ questions.",
+      "optionA": "HAVE",
+      "optionB": "HAS",
+      "correctIndex": 0,
+      "explanation": "People — множественное число, используем have.",
+      "tags": [
+        "have_vs_has",
+        "have",
+        "social"
+      ]
+    },
+    {
+      "id": "hvh_29",
+      "question": "Everything ___ a price.",
+      "optionA": "HAVE",
+      "optionB": "HAS",
+      "correctIndex": 1,
+      "explanation": "Everything — единственное число, третье лицо, has.",
+      "tags": [
+        "have_vs_has",
+        "has",
+        "daily_life"
+      ]
+    },
+    {
+      "id": "hvh_30",
+      "question": "All teachers ___ experience.",
+      "optionA": "HAVE",
+      "optionB": "HAS",
+      "correctIndex": 0,
+      "explanation": "Teachers — множественное число, нужно have.",
+      "tags": [
+        "have_vs_has",
+        "have",
+        "work"
+      ]
+    }
+  ]
+}

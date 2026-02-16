@@ -1,0 +1,1644 @@
+{
+  "id": "intermediate_01_past_simple_regular",
+  "title": "Past Simple",
+  "description": "Past Simple — это ваш архив завершённых дел. Закрытая глава. Используйте его для фактов, которые навсегда остались в прошлом.",
+  "order": 1,
+  "level": "intermediate",
+  "imageUrl": "assets/images/lessons/past_simple_regular.png",
+  "vocabulary": [
+    {
+      "id": "v1_work",
+      "english": "work",
+      "russian": "работать",
+      "partOfSpeech": "verb",
+      "example": "I worked yesterday.",
+      "exampleTranslation": "Я работал вчера.",
+      "audioPath": "assets/audio/vocabulary/v1_work.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_work.mp3"
+    },
+    {
+      "id": "v1_visit",
+      "english": "visit",
+      "russian": "навещать",
+      "partOfSpeech": "verb",
+      "example": "I visited my friend.",
+      "exampleTranslation": "Я навестил друга.",
+      "audioPath": "assets/audio/vocabulary/v1_visit.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_visit.mp3"
+    },
+    {
+      "id": "v1_yesterday",
+      "english": "yesterday",
+      "russian": "вчера",
+      "partOfSpeech": "adverb",
+      "example": "He arrived yesterday.",
+      "exampleTranslation": "Он приехал вчера.",
+      "audioPath": "assets/audio/vocabulary/v1_yesterday.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_yesterday.mp3"
+    },
+    {
+      "id": "v1_live",
+      "english": "live",
+      "russian": "жить",
+      "partOfSpeech": "verb",
+      "example": "She lived in London.",
+      "exampleTranslation": "Она жила в Лондоне.",
+      "audioPath": "assets/audio/vocabulary/v1_live.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_live.mp3"
+    },
+    {
+      "id": "v1_play",
+      "english": "play",
+      "russian": "играть",
+      "partOfSpeech": "verb",
+      "example": "We played football.",
+      "exampleTranslation": "Мы играли в футбол.",
+      "audioPath": "assets/audio/vocabulary/v1_play.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_play.mp3"
+    },
+    {
+      "id": "v1_finish",
+      "english": "finish",
+      "russian": "заканчивать",
+      "partOfSpeech": "verb",
+      "example": "He finished his work.",
+      "exampleTranslation": "Он закончил свою работу.",
+      "audioPath": "assets/audio/vocabulary/v1_finish.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_finish.mp3"
+    },
+    {
+      "id": "v1_order",
+      "english": "order",
+      "russian": "заказывать",
+      "partOfSpeech": "verb",
+      "example": "She ordered a dress.",
+      "exampleTranslation": "Она заказала платье.",
+      "audioPath": "assets/audio/vocabulary/v1_order.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_order.mp3"
+    },
+    {
+      "id": "v1_clean",
+      "english": "clean",
+      "russian": "убирать",
+      "partOfSpeech": "verb",
+      "example": "He cleaned his room.",
+      "exampleTranslation": "Он убрал свою комнату.",
+      "audioPath": "assets/audio/vocabulary/v1_clean.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_clean.mp3"
+    },
+    {
+      "id": "v1_watch",
+      "english": "watch",
+      "russian": "смотреть",
+      "partOfSpeech": "verb",
+      "example": "I watched a movie.",
+      "exampleTranslation": "Я посмотрел фильм.",
+      "audioPath": "assets/audio/vocabulary/v1_watch.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_watch.mp3"
+    },
+    {
+      "id": "v1_arrive",
+      "english": "arrive",
+      "russian": "прибывать",
+      "partOfSpeech": "verb",
+      "example": "She arrived at the party.",
+      "exampleTranslation": "Она приехала на вечеринку.",
+      "audioPath": "assets/audio/vocabulary/v1_arrive.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_arrive.mp3"
+    },
+    {
+      "id": "v1_notice",
+      "english": "notice",
+      "russian": "замечать",
+      "partOfSpeech": "verb",
+      "example": "We didn't notice.",
+      "exampleTranslation": "Мы не заметили.",
+      "audioPath": "assets/audio/vocabulary/v1_notice.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_notice.mp3"
+    },
+    {
+      "id": "v1_help",
+      "english": "help",
+      "russian": "помогать",
+      "partOfSpeech": "verb",
+      "example": "He didn't help us.",
+      "exampleTranslation": "Он не помог нам.",
+      "audioPath": "assets/audio/vocabulary/v1_help.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_help.mp3"
+    },
+    {
+      "id": "v1_cook",
+      "english": "cook",
+      "russian": "готовить",
+      "partOfSpeech": "verb",
+      "example": "I cooked dinner.",
+      "exampleTranslation": "Я приготовил ужин.",
+      "audioPath": "assets/audio/vocabulary/v1_cook.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_cook.mp3"
+    },
+    {
+      "id": "v1_rain",
+      "english": "rain",
+      "russian": "идти (о дожде)",
+      "partOfSpeech": "verb",
+      "example": "It didn't rain.",
+      "exampleTranslation": "Дождь не шел.",
+      "audioPath": "assets/audio/vocabulary/v1_rain.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_rain.mp3"
+    },
+    {
+      "id": "v1_last",
+      "english": "last",
+      "russian": "прошлый",
+      "partOfSpeech": "adjective",
+      "example": "Last night was cold.",
+      "exampleTranslation": "Прошлая ночь была холодной.",
+      "audioPath": "assets/audio/vocabulary/v1_last.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_last.mp3"
+    },
+    {
+      "id": "v1_explain",
+      "english": "explain",
+      "russian": "объяснять",
+      "partOfSpeech": "verb",
+      "example": "She explained everything.",
+      "exampleTranslation": "Она всё объяснила.",
+      "audioPath": "assets/audio/vocabulary/v1_explain.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_explain.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "Past Simple",
+    "subtitle": "Представьте коробку, куда вы складываете старые вещи и пишете на ней дату. Past Simple — это такая коробка. Действие случилось, закончилось, и мы точно знаем когда. Никакой связи с настоящим — это уже история.",
+    "construction": {
+      "formula": "Subject + V2 (ed / 2-я форма)",
+      "rules": [
+        {
+          "word": "V2 (Правильные)",
+          "description": "Просто добавляем -ed, как клеим бирку «прошлое»: work → worked, play → played."
+        },
+        {
+          "word": "V2 (Неправильные)",
+          "description": "Бунтари, меняющиеся полностью. Их нужно знать в лицо: go → went, see → saw, be → was/were."
+        },
+        {
+          "word": "Did / Didn't",
+          "description": "Специальный помощник для вопросов и отрицаний. Он «крадет» прошедшее время у глагола, поэтому глагол возвращается в начало (V1): I didn't go (не went)."
+        },
+        {
+          "word": "Was / Were",
+          "description": "У глагола to be свои правила. Was для одного (I/he/she/it), Were для многих (you/we/they). Помощник did ему не нужен."
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "check_circle",
+        "color": "green",
+        "title": "Завершенные факты",
+        "description": "Одиночные события, у которых нет продолжения. Случилось — и всё.",
+        "example": {
+          "english": "I bought a car yesterday.",
+          "russian": "Я купил машину вчера."
+        }
+      },
+      {
+        "icon": "schedule",
+        "color": "blue",
+        "title": "Точное время в прошлом",
+        "description": "Когда мы четко указываем маркер времени: вчера, в 2010 году, 5 минут назад.",
+        "example": {
+          "english": "They arrived at 5 PM.",
+          "russian": "Они приехали в 5 вечера."
+        }
+      },
+      {
+        "icon": "explore",
+        "color": "orange",
+        "title": "Истории и перечисления",
+        "description": "Цепочка событий, идущих друг за другом, как кадры в фильме.",
+        "example": {
+          "english": "He woke up, washed his face and went out.",
+          "russian": "Он проснулся, умылся и вышел."
+        }
+      }
+    ],
+    "markers": [
+      "yesterday",
+      "last week",
+      "last month",
+      "last year",
+      "ago",
+      "two days ago",
+      "in 1999",
+      "in 2020",
+      "when I was..."
+    ]
+  },
+  "tasks": [
+    {
+      "id": "t1_1",
+      "type": "sentenceAssembly",
+      "question": "Я вчера усердно работал",
+      "correctAnswer": "I worked hard yesterday",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "worked",
+          "played",
+          "walked",
+          "talked"
+        ],
+        [
+          "hard",
+          "late",
+          "well",
+          "long"
+        ],
+        [
+          "yesterday",
+          "today",
+          "always",
+          "there"
+        ]
+      ],
+      "mistakeTags": [
+        "past_simple",
+        "regular_verbs",
+        "ed_ending"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_01_past_simple_regular/000.mp3"
+    },
+    {
+      "id": "t1_2",
+      "type": "sentenceAssembly",
+      "question": "Она жила в Лондоне",
+      "correctAnswer": "She lived in London",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "Her",
+          "He",
+          "Hers"
+        ],
+        [
+          "lived",
+          "live",
+          "living",
+          "lives"
+        ],
+        [
+          "in",
+          "at",
+          "on",
+          "to"
+        ],
+        [
+          "London",
+          "City",
+          "England",
+          "UK"
+        ]
+      ],
+      "mistakeTags": [
+        "past_simple",
+        "regular_verbs",
+        "ed_ending"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_01_past_simple_regular/001.mp3"
+    },
+    {
+      "id": "t1_3",
+      "type": "sentenceAssembly",
+      "question": "Мы вчера играли в футбол",
+      "correctAnswer": "We played football yesterday",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "I",
+          "He"
+        ],
+        [
+          "played",
+          "watched",
+          "wanted",
+          "liked"
+        ],
+        [
+          "football",
+          "tennis",
+          "chess",
+          "music"
+        ],
+        [
+          "yesterday",
+          "today",
+          "outside",
+          "together"
+        ]
+      ],
+      "mistakeTags": [
+        "past_simple",
+        "regular_verbs",
+        "ed_ending"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_01_past_simple_regular/002.mp3"
+    },
+    {
+      "id": "t1_4",
+      "type": "sentenceAssembly",
+      "question": "Он закончил свою работу",
+      "correctAnswer": "He finished his work",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "Him",
+          "His",
+          "She"
+        ],
+        [
+          "finished",
+          "finish",
+          "finishing",
+          "fine"
+        ],
+        [
+          "his",
+          "him",
+          "he",
+          "her"
+        ],
+        [
+          "work",
+          "job",
+          "working",
+          "task"
+        ]
+      ],
+      "mistakeTags": [
+        "past_simple",
+        "regular_verbs",
+        "ed_ending"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_01_past_simple_regular/003.mp3"
+    },
+    {
+      "id": "t1_5",
+      "type": "sentenceAssembly",
+      "question": "Мне понравился фильм",
+      "correctAnswer": "I liked the movie",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "My",
+          "To me"
+        ],
+        [
+          "liked",
+          "like",
+          "liking",
+          "love"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "movie",
+          "film",
+          "cinema",
+          "move"
+        ]
+      ],
+      "mistakeTags": [
+        "past_simple",
+        "regular_verbs",
+        "ed_ending"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_01_past_simple_regular/004.mp3"
+    },
+    {
+      "id": "t1_6",
+      "type": "sentenceAssembly",
+      "question": "Я навестил друга вчера",
+      "correctAnswer": "I visited my friend yesterday",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "visited",
+          "visit",
+          "visiting",
+          "visits"
+        ],
+        [
+          "my",
+          "me",
+          "mine",
+          "his"
+        ],
+        [
+          "friend",
+          "family",
+          "brother",
+          "teacher"
+        ],
+        [
+          "yesterday",
+          "tomorrow",
+          "today",
+          "always"
+        ]
+      ],
+      "mistakeTags": [
+        "past_simple",
+        "regular_verbs",
+        "ed_ending"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_01_past_simple_regular/005.mp3"
+    },
+    {
+      "id": "t1_7",
+      "type": "sentenceAssembly",
+      "question": "Они гуляли в парке",
+      "correctAnswer": "They walked to the park",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "Them",
+          "Their",
+          "We"
+        ],
+        [
+          "walked",
+          "walk",
+          "walking",
+          "walks"
+        ],
+        [
+          "to",
+          "in",
+          "at",
+          "on"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "park",
+          "place",
+          "garden",
+          "street"
+        ]
+      ],
+      "mistakeTags": [
+        "past_simple",
+        "regular_verbs",
+        "ed_ending"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_01_past_simple_regular/006.mp3"
+    },
+    {
+      "id": "t1_8",
+      "type": "sentenceAssembly",
+      "question": "Она заказала новое платье",
+      "correctAnswer": "She ordered a new dress",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "Her",
+          "Hers",
+          "He"
+        ],
+        [
+          "ordered",
+          "order",
+          "ordering",
+          "orders"
+        ],
+        [
+          "a",
+          "the",
+          "one",
+          "an"
+        ],
+        [
+          "new",
+          "news",
+          "now",
+          "know"
+        ],
+        [
+          "dress",
+          "clothes",
+          "address",
+          "skirt"
+        ]
+      ],
+      "mistakeTags": [
+        "past_simple",
+        "regular_verbs",
+        "ed_ending"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_01_past_simple_regular/007.mp3"
+    },
+    {
+      "id": "t1_9",
+      "type": "sentenceAssembly",
+      "question": "Он убрал свою комнату",
+      "correctAnswer": "He cleaned his room",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "Him",
+          "His",
+          "She"
+        ],
+        [
+          "cleaned",
+          "clean",
+          "cleaning",
+          "cleans"
+        ],
+        [
+          "his",
+          "him",
+          "he",
+          "her"
+        ],
+        [
+          "room",
+          "house",
+          "flat",
+          "kitchen"
+        ]
+      ],
+      "mistakeTags": [
+        "past_simple",
+        "regular_verbs",
+        "ed_ending"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_01_past_simple_regular/008.mp3"
+    },
+    {
+      "id": "t1_10",
+      "type": "sentenceAssembly",
+      "question": "Я посмотрел хороший фильм",
+      "correctAnswer": "I watched a good movie",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "watched",
+          "watch",
+          "watching",
+          "watches"
+        ],
+        [
+          "a",
+          "the",
+          "an",
+          "one"
+        ],
+        [
+          "good",
+          "well",
+          "nice",
+          "great"
+        ],
+        [
+          "movie",
+          "film",
+          "show",
+          "video"
+        ]
+      ],
+      "mistakeTags": [
+        "past_simple",
+        "regular_verbs",
+        "ed_ending"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_01_past_simple_regular/009.mp3"
+    },
+    {
+      "id": "t1_11",
+      "type": "sentenceAssembly",
+      "question": "Я не позвонил ему",
+      "correctAnswer": "I did not call him",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "did",
+          "do",
+          "does",
+          "was"
+        ],
+        [
+          "not",
+          "no",
+          "none",
+          "never"
+        ],
+        [
+          "call",
+          "called",
+          "calling",
+          "calls"
+        ],
+        [
+          "him",
+          "he",
+          "his",
+          "her"
+        ]
+      ],
+      "mistakeTags": [
+        "past_simple",
+        "regular_verbs",
+        "ed_ending"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_01_past_simple_regular/010.mp3"
+    },
+    {
+      "id": "t1_12",
+      "type": "sentenceAssembly",
+      "question": "Она не приехала на вечеринку",
+      "correctAnswer": "She didn't arrive at the party",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "Her",
+          "Hers",
+          "He"
+        ],
+        [
+          "didn't",
+          "don't",
+          "doesn't",
+          "not"
+        ],
+        [
+          "arrive",
+          "arrived",
+          "arriving",
+          "arrives"
+        ],
+        [
+          "at",
+          "to",
+          "in",
+          "on"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "party",
+          "meeting",
+          "event",
+          "dinner"
+        ]
+      ],
+      "mistakeTags": [
+        "past_simple",
+        "regular_verbs",
+        "ed_ending"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_01_past_simple_regular/011.mp3"
+    },
+    {
+      "id": "t1_13",
+      "type": "sentenceAssembly",
+      "question": "Мы не заметили ответ",
+      "correctAnswer": "We didn't notice the answer",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "Us",
+          "Our",
+          "They"
+        ],
+        [
+          "didn't",
+          "don't",
+          "did",
+          "no"
+        ],
+        [
+          "notice",
+          "noticed",
+          "noticing",
+          "notices"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "answer",
+          "question",
+          "reply",
+          "problem"
+        ]
+      ],
+      "mistakeTags": [
+        "past_simple",
+        "regular_verbs",
+        "ed_ending"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_01_past_simple_regular/012.mp3"
+    },
+    {
+      "id": "t1_14",
+      "type": "sentenceAssembly",
+      "question": "Он не помог нам",
+      "correctAnswer": "He didn't help us",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "Him",
+          "His",
+          "She"
+        ],
+        [
+          "didn't",
+          "don't",
+          "doesn't",
+          "did"
+        ],
+        [
+          "help",
+          "helped",
+          "helping",
+          "helps"
+        ],
+        [
+          "us",
+          "we",
+          "our",
+          "ours"
+        ]
+      ],
+      "mistakeTags": [
+        "past_simple",
+        "regular_verbs",
+        "ed_ending"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_01_past_simple_regular/013.mp3"
+    },
+    {
+      "id": "t1_15",
+      "type": "sentenceAssembly",
+      "question": "Я не спал хорошо прошлой ночью",
+      "correctAnswer": "I didn't sleep well last night",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "My",
+          "Sleep"
+        ],
+        [
+          "didn't",
+          "not",
+          "don't",
+          "wasn't"
+        ],
+        [
+          "sleep",
+          "slept",
+          "sleeping",
+          "bed"
+        ],
+        [
+          "well",
+          "good",
+          "nice",
+          "fine"
+        ],
+        [
+          "last",
+          "past",
+          "yesterday",
+          "ago"
+        ],
+        [
+          "night",
+          "evening",
+          "time",
+          "day"
+        ]
+      ],
+      "mistakeTags": [
+        "past_simple",
+        "regular_verbs",
+        "ed_ending"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_01_past_simple_regular/014.mp3"
+    },
+    {
+      "id": "t1_16",
+      "type": "sentenceAssembly",
+      "question": "Они не арендовали дом",
+      "correctAnswer": "They didn't rent the house",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "Them",
+          "Their",
+          "We"
+        ],
+        [
+          "didn't",
+          "don't",
+          "did",
+          "not"
+        ],
+        [
+          "rent",
+          "rented",
+          "renting",
+          "rents"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "house",
+          "flat",
+          "apartment",
+          "place"
+        ]
+      ],
+      "mistakeTags": [
+        "past_simple",
+        "regular_verbs",
+        "ed_ending"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_01_past_simple_regular/015.mp3"
+    },
+    {
+      "id": "t1_17",
+      "type": "sentenceAssembly",
+      "question": "Ты не позвонил мне",
+      "correctAnswer": "You didn't call me",
+      "options": [],
+      "variants": [
+        [
+          "You",
+          "Your",
+          "Yours",
+          "He"
+        ],
+        [
+          "didn't",
+          "don't",
+          "not",
+          "did"
+        ],
+        [
+          "call",
+          "called",
+          "calling",
+          "phone"
+        ],
+        [
+          "me",
+          "I",
+          "my",
+          "mine"
+        ]
+      ],
+      "mistakeTags": [
+        "past_simple",
+        "regular_verbs",
+        "ed_ending"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_01_past_simple_regular/016.mp3"
+    },
+    {
+      "id": "t1_18",
+      "type": "sentenceAssembly",
+      "question": "Вчера не шёл дождь",
+      "correctAnswer": "It didn't rain yesterday",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "This",
+          "That",
+          "He"
+        ],
+        [
+          "didn't",
+          "don't",
+          "wasn't",
+          "not"
+        ],
+        [
+          "rain",
+          "rained",
+          "raining",
+          "rains"
+        ],
+        [
+          "yesterday",
+          "tomorrow",
+          "today",
+          "now"
+        ]
+      ],
+      "mistakeTags": [
+        "past_simple",
+        "regular_verbs",
+        "ed_ending"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_01_past_simple_regular/017.mp3"
+    },
+    {
+      "id": "t1_19",
+      "type": "sentenceAssembly",
+      "question": "Я не готовил завтрак",
+      "correctAnswer": "I didn't cook breakfast",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "didn't",
+          "don't",
+          "did",
+          "no"
+        ],
+        [
+          "cook",
+          "cooked",
+          "cooking",
+          "cooks"
+        ],
+        [
+          "breakfast",
+          "lunch",
+          "dinner",
+          "food"
+        ]
+      ],
+      "mistakeTags": [
+        "past_simple",
+        "regular_verbs",
+        "ed_ending"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_01_past_simple_regular/018.mp3"
+    },
+    {
+      "id": "t1_20",
+      "type": "sentenceAssembly",
+      "question": "Она ничего не объяснила",
+      "correctAnswer": "She didn't explain anything",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "Her",
+          "Hers",
+          "He"
+        ],
+        [
+          "didn't",
+          "don't",
+          "did",
+          "not"
+        ],
+        [
+          "explain",
+          "explained",
+          "explaining",
+          "explains"
+        ],
+        [
+          "anything",
+          "something",
+          "nothing",
+          "everything"
+        ]
+      ],
+      "mistakeTags": [
+        "past_simple",
+        "regular_verbs",
+        "ed_ending"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_01_past_simple_regular/019.mp3"
+    },
+    {
+      "id": "t1_21",
+      "type": "sentenceAssembly",
+      "question": "Ты смотрел это?",
+      "correctAnswer": "Did you watch that?",
+      "options": [],
+      "variants": [
+        [
+          "Did",
+          "Do",
+          "Does",
+          "Were"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "she"
+        ],
+        [
+          "watch",
+          "watched",
+          "watching",
+          "watches"
+        ],
+        [
+          "that",
+          "this",
+          "it",
+          "those"
+        ]
+      ],
+      "mistakeTags": [
+        "past_simple",
+        "regular_verbs",
+        "ed_ending"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_01_past_simple_regular/020.mp3"
+    },
+    {
+      "id": "t1_22",
+      "type": "sentenceAssembly",
+      "question": "Куда ты путешествовал?",
+      "correctAnswer": "Where did you travel?",
+      "options": [],
+      "variants": [
+        [
+          "Where",
+          "What",
+          "When",
+          "Who"
+        ],
+        [
+          "did",
+          "do",
+          "does",
+          "was"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "she"
+        ],
+        [
+          "travel",
+          "traveled",
+          "traveling",
+          "travels"
+        ]
+      ],
+      "mistakeTags": [
+        "past_simple",
+        "regular_verbs",
+        "ed_ending"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_01_past_simple_regular/021.mp3"
+    },
+    {
+      "id": "t1_23",
+      "type": "sentenceAssembly",
+      "question": "Что она объяснила?",
+      "correctAnswer": "What did she explain?",
+      "options": [],
+      "variants": [
+        [
+          "What",
+          "Where",
+          "When",
+          "Why"
+        ],
+        [
+          "did",
+          "does",
+          "do",
+          "was"
+        ],
+        [
+          "she",
+          "her",
+          "he",
+          "it"
+        ],
+        [
+          "explain",
+          "explained",
+          "explaining",
+          "explains"
+        ]
+      ],
+      "mistakeTags": [
+        "past_simple",
+        "regular_verbs",
+        "ed_ending"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_01_past_simple_regular/022.mp3"
+    },
+    {
+      "id": "t1_24",
+      "type": "sentenceAssembly",
+      "question": "Когда они приехали?",
+      "correctAnswer": "When did they arrive?",
+      "options": [],
+      "variants": [
+        [
+          "When",
+          "Where",
+          "What",
+          "Why"
+        ],
+        [
+          "did",
+          "do",
+          "does",
+          "were"
+        ],
+        [
+          "they",
+          "them",
+          "their",
+          "we"
+        ],
+        [
+          "arrive",
+          "arrived",
+          "coming",
+          "go"
+        ]
+      ],
+      "mistakeTags": [
+        "past_simple",
+        "regular_verbs",
+        "ed_ending"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_01_past_simple_regular/023.mp3"
+    },
+    {
+      "id": "t1_25",
+      "type": "sentenceAssembly",
+      "question": "Тебе понравилась книга?",
+      "correctAnswer": "Did you like the book?",
+      "options": [],
+      "variants": [
+        [
+          "Did",
+          "Do",
+          "Does",
+          "Have"
+        ],
+        [
+          "you",
+          "your",
+          "she",
+          "he"
+        ],
+        [
+          "like",
+          "liked",
+          "love",
+          "likes"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "book",
+          "text",
+          "read",
+          "paper"
+        ]
+      ],
+      "mistakeTags": [
+        "past_simple",
+        "regular_verbs",
+        "ed_ending"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_01_past_simple_regular/024.mp3"
+    },
+    {
+      "id": "t1_26",
+      "type": "sentenceAssembly",
+      "question": "Я был дома вчера",
+      "correctAnswer": "I was at home yesterday",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "My",
+          "Am"
+        ],
+        [
+          "was",
+          "were",
+          "am",
+          "been"
+        ],
+        [
+          "at",
+          "in",
+          "on",
+          "to"
+        ],
+        [
+          "home",
+          "house",
+          "room",
+          "place"
+        ],
+        [
+          "yesterday",
+          "tomorrow",
+          "today",
+          "now"
+        ]
+      ],
+      "mistakeTags": [
+        "past_simple",
+        "regular_verbs",
+        "ed_ending"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_01_past_simple_regular/025.mp3"
+    },
+    {
+      "id": "t1_27",
+      "type": "sentenceAssembly",
+      "question": "Они были счастливы вчера",
+      "correctAnswer": "They were happy yesterday",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "We",
+          "You",
+          "I"
+        ],
+        [
+          "were",
+          "was",
+          "are",
+          "is"
+        ],
+        [
+          "happy",
+          "tired",
+          "busy",
+          "sad"
+        ],
+        [
+          "yesterday",
+          "today",
+          "always",
+          "then"
+        ]
+      ],
+      "mistakeTags": [
+        "past_simple",
+        "regular_verbs",
+        "ed_ending"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_01_past_simple_regular/026.mp3"
+    },
+    {
+      "id": "t1_28",
+      "type": "sentenceAssembly",
+      "question": "Мы жили здесь два года назад",
+      "correctAnswer": "We lived here two years ago",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "Us",
+          "Our",
+          "They"
+        ],
+        [
+          "lived",
+          "live",
+          "living",
+          "lives"
+        ],
+        [
+          "here",
+          "there",
+          "place",
+          "hear"
+        ],
+        [
+          "two",
+          "to",
+          "too",
+          "second"
+        ],
+        [
+          "years",
+          "year",
+          "days",
+          "time"
+        ],
+        [
+          "ago",
+          "before",
+          "last",
+          "past"
+        ]
+      ],
+      "mistakeTags": [
+        "past_simple",
+        "regular_verbs",
+        "ed_ending"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_01_past_simple_regular/027.mp3"
+    },
+    {
+      "id": "t1_29",
+      "type": "sentenceAssembly",
+      "question": "Он начал новую работу на прошлой неделе",
+      "correctAnswer": "He started a new job last week",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "Him",
+          "His",
+          "She"
+        ],
+        [
+          "started",
+          "start",
+          "starting",
+          "began"
+        ],
+        [
+          "a",
+          "the",
+          "an",
+          "one"
+        ],
+        [
+          "new",
+          "news",
+          "now",
+          "know"
+        ],
+        [
+          "job",
+          "work",
+          "career",
+          "business"
+        ],
+        [
+          "last",
+          "past",
+          "next",
+          "this"
+        ],
+        [
+          "week",
+          "weak",
+          "month",
+          "day"
+        ]
+      ],
+      "mistakeTags": [
+        "past_simple",
+        "regular_verbs",
+        "ed_ending"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_01_past_simple_regular/028.mp3"
+    },
+    {
+      "id": "t1_30",
+      "type": "sentenceAssembly",
+      "question": "Почему ты не позвонил?",
+      "correctAnswer": "Why didn't you call?",
+      "options": [],
+      "variants": [
+        [
+          "Why",
+          "What",
+          "Where",
+          "When"
+        ],
+        [
+          "didn't",
+          "don't",
+          "did",
+          "not"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "he"
+        ],
+        [
+          "call",
+          "called",
+          "calling",
+          "calls"
+        ]
+      ],
+      "mistakeTags": [
+        "past_simple",
+        "regular_verbs",
+        "ed_ending"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_01_past_simple_regular/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionIntermediate01PastSimpleRegular",
+  "theoryQuiz": [
+    {
+      "id": "tq_01",
+      "type": "trueFalse",
+      "question": "Past Simple используется для действий, которые случились и закончились в прошлом.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Past Simple описывает завершённые действия в прошлом."
+    },
+    {
+      "id": "tq_02",
+      "type": "multipleChoice",
+      "question": "Как образуется Past Simple для правильных глаголов?",
+      "options": [
+        "V1 + -ing",
+        "V1 + -ed",
+        "will + V1",
+        "have + V3"
+      ],
+      "correctIndex": 1,
+      "explanation": "Правильные глаголы в Past Simple образуются добавлением -ed к базовой форме."
+    },
+    {
+      "id": "tq_03",
+      "type": "multipleChoice",
+      "question": "Какое слово является маркером Past Simple?",
+      "options": [
+        "tomorrow",
+        "now",
+        "yesterday",
+        "always"
+      ],
+      "correctIndex": 2,
+      "explanation": "Yesterday — типичный маркер Past Simple, указывающий на прошлое."
+    },
+    {
+      "id": "tq_04",
+      "type": "trueFalse",
+      "question": "В отрицании Past Simple используется: didn't + V2 (например, didn't walked).",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "После didn't используется базовая форма V1: didn't walk."
+    },
+    {
+      "id": "tq_05",
+      "type": "multipleChoice",
+      "question": "Выберите правильное отрицание: She ___ the door.",
+      "options": [
+        "didn't opened",
+        "didn't open",
+        "not opened",
+        "doesn't opened"
+      ],
+      "correctIndex": 1,
+      "explanation": "После didn't всегда идёт V1: didn't open."
+    },
+    {
+      "id": "tq_06",
+      "type": "multipleChoice",
+      "question": "Как построить вопрос в Past Simple?",
+      "options": [
+        "Do + S + V1?",
+        "Did + S + V1?",
+        "Did + S + V2?",
+        "Was + S + V1?"
+      ],
+      "correctIndex": 1,
+      "explanation": "Вопрос в Past Simple: Did + подлежащее + V1."
+    },
+    {
+      "id": "tq_07",
+      "type": "trueFalse",
+      "question": "Слово 'ago' является маркером Past Simple.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ago (например, two days ago) указывает на прошлое и является маркером Past Simple."
+    },
+    {
+      "id": "tq_08",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: ___ you visit London last year?",
+      "options": [
+        "Do",
+        "Are",
+        "Did",
+        "Were"
+      ],
+      "correctIndex": 2,
+      "explanation": "Вопросы в Past Simple строятся с помощью Did."
+    },
+    {
+      "id": "tq_09",
+      "type": "trueFalse",
+      "question": "Предложение 'I played football yesterday' построено правильно.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Утверждение в Past Simple: подлежащее + V2 (played) + маркер (yesterday)."
+    },
+    {
+      "id": "tq_10",
+      "type": "multipleChoice",
+      "question": "Какое предложение содержит ошибку?",
+      "options": [
+        "She worked hard.",
+        "Did they finish?",
+        "He didn't liked it.",
+        "I called you ago two days."
+      ],
+      "correctIndex": 2,
+      "explanation": "После didn't нужна базовая форма: didn't like (не didn't liked)."
+    }
+  ]
+}

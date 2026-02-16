@@ -1,0 +1,1391 @@
+{
+  "id": "beginner_01_to_be",
+  "title": "To Be: Am / Is / Are",
+  "description": "Глагол to be — самый первый и важный глагол в английском. Он означает «быть, являться, находиться».",
+  "order": 1,
+  "level": "beginner",
+  "imageUrl": "assets/images/lessons/to_be.png",
+  "vocabulary": [
+    {
+      "id": "v1_happy",
+      "english": "happy",
+      "russian": "счастливый",
+      "partOfSpeech": "adjective",
+      "example": "I am happy.",
+      "exampleTranslation": "Я счастлив.",
+      "audioPath": "assets/audio/vocabulary/v1_happy.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_happy.mp3"
+    },
+    {
+      "id": "v1_tired",
+      "english": "tired",
+      "russian": "уставший",
+      "partOfSpeech": "adjective",
+      "example": "I am tired.",
+      "exampleTranslation": "Я устал.",
+      "audioPath": "assets/audio/vocabulary/v1_tired.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_tired.mp3"
+    },
+    {
+      "id": "v1_tall",
+      "english": "tall",
+      "russian": "высокий",
+      "partOfSpeech": "adjective",
+      "example": "He is tall.",
+      "exampleTranslation": "Он высокий.",
+      "audioPath": "assets/audio/vocabulary/v1_tall.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_tall.mp3"
+    },
+    {
+      "id": "v1_busy",
+      "english": "busy",
+      "russian": "занятый",
+      "partOfSpeech": "adjective",
+      "example": "She is busy.",
+      "exampleTranslation": "Она занята.",
+      "audioPath": "assets/audio/vocabulary/v1_busy.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_busy.mp3"
+    },
+    {
+      "id": "v1_smart",
+      "english": "smart",
+      "russian": "умный",
+      "partOfSpeech": "adjective",
+      "example": "She is smart.",
+      "exampleTranslation": "Она умная.",
+      "audioPath": "assets/audio/vocabulary/v1_smart.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_smart.mp3"
+    },
+    {
+      "id": "v1_kind",
+      "english": "kind",
+      "russian": "добрый",
+      "partOfSpeech": "adjective",
+      "example": "He is kind.",
+      "exampleTranslation": "Он добрый.",
+      "audioPath": "assets/audio/vocabulary/v1_kind.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_kind.mp3"
+    },
+    {
+      "id": "v1_cold",
+      "english": "cold",
+      "russian": "холодный",
+      "partOfSpeech": "adjective",
+      "example": "It is cold.",
+      "exampleTranslation": "Холодно.",
+      "audioPath": "assets/audio/vocabulary/v1_cold.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_cold.mp3"
+    },
+    {
+      "id": "v1_hot",
+      "english": "hot",
+      "russian": "жаркий",
+      "partOfSpeech": "adjective",
+      "example": "It is hot.",
+      "exampleTranslation": "Жарко.",
+      "audioPath": "assets/audio/vocabulary/v1_hot.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_hot.mp3"
+    },
+    {
+      "id": "v1_big",
+      "english": "big",
+      "russian": "большой",
+      "partOfSpeech": "adjective",
+      "example": "It is big.",
+      "exampleTranslation": "Это большое.",
+      "audioPath": "assets/audio/vocabulary/v1_big.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_big.mp3"
+    },
+    {
+      "id": "v1_ready",
+      "english": "ready",
+      "russian": "готовый",
+      "partOfSpeech": "adjective",
+      "example": "We are ready.",
+      "exampleTranslation": "Мы готовы.",
+      "audioPath": "assets/audio/vocabulary/v1_ready.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_ready.mp3"
+    },
+    {
+      "id": "v1_nice",
+      "english": "nice",
+      "russian": "милый, приятный",
+      "partOfSpeech": "adjective",
+      "example": "You are nice.",
+      "exampleTranslation": "Ты милый.",
+      "audioPath": "assets/audio/vocabulary/v1_nice.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_nice.mp3"
+    },
+    {
+      "id": "v1_funny",
+      "english": "funny",
+      "russian": "смешной",
+      "partOfSpeech": "adjective",
+      "example": "You are funny.",
+      "exampleTranslation": "Ты смешной.",
+      "audioPath": "assets/audio/vocabulary/v1_funny.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_funny.mp3"
+    },
+    {
+      "id": "v1_right",
+      "english": "right",
+      "russian": "правый, правильный",
+      "partOfSpeech": "adjective",
+      "example": "You are right.",
+      "exampleTranslation": "Ты прав.",
+      "audioPath": "assets/audio/vocabulary/v1_right.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_right.mp3"
+    },
+    {
+      "id": "v1_student",
+      "english": "student",
+      "russian": "студент",
+      "partOfSpeech": "noun",
+      "example": "I am a student.",
+      "exampleTranslation": "Я студент.",
+      "audioPath": "assets/audio/vocabulary/v1_student.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_student.mp3"
+    },
+    {
+      "id": "v1_doctor",
+      "english": "doctor",
+      "russian": "врач",
+      "partOfSpeech": "noun",
+      "example": "He is a doctor.",
+      "exampleTranslation": "Он врач.",
+      "audioPath": "assets/audio/vocabulary/v1_doctor.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_doctor.mp3"
+    },
+    {
+      "id": "v1_teacher",
+      "english": "teacher",
+      "russian": "учитель",
+      "partOfSpeech": "noun",
+      "example": "She is a teacher.",
+      "exampleTranslation": "Она учитель.",
+      "audioPath": "assets/audio/vocabulary/v1_teacher.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_teacher.mp3"
+    },
+    {
+      "id": "v1_friend",
+      "english": "friend",
+      "russian": "друг",
+      "partOfSpeech": "noun",
+      "example": "We are friends.",
+      "exampleTranslation": "Мы друзья.",
+      "audioPath": "assets/audio/vocabulary/v1_friend.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_friend.mp3"
+    },
+    {
+      "id": "v1_here",
+      "english": "here",
+      "russian": "здесь",
+      "partOfSpeech": "adverb",
+      "example": "I am here.",
+      "exampleTranslation": "Я здесь.",
+      "audioPath": "assets/audio/vocabulary/v1_here.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_here.mp3"
+    },
+    {
+      "id": "v1_not",
+      "english": "not",
+      "russian": "не",
+      "partOfSpeech": "adverb",
+      "example": "I am not tired.",
+      "exampleTranslation": "Я не устал.",
+      "audioPath": "assets/audio/vocabulary/v1_not.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_not.mp3"
+    },
+    {
+      "id": "v1_young",
+      "english": "young",
+      "russian": "молодой",
+      "partOfSpeech": "adjective",
+      "example": "They are young.",
+      "exampleTranslation": "Они молодые.",
+      "audioPath": "assets/audio/vocabulary/v1_young.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_young.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "To Be: Am / Is / Are",
+    "subtitle": "Глагол «быть» в настоящем времени. В русском мы его опускаем, а в английском — никогда.",
+    "construction": {
+      "formula": "Subject + am/is/are",
+      "rules": [
+        {
+          "word": "I → am",
+          "description": "I am happy. (Я счастлив.) — только с I."
+        },
+        {
+          "word": "He / She / It → is",
+          "description": "He is tall. (Он высокий.) She is smart. (Она умная.) It is cold. (Холодно.)"
+        },
+        {
+          "word": "We / You / They → are",
+          "description": "We are friends. (Мы друзья.) You are right. (Ты прав.) They are busy. (Они заняты.)"
+        },
+        {
+          "word": "Отрицание",
+          "description": "Добавляем not после am/is/are: I am not tired. He is not here. They are not ready."
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "groups",
+        "color": "blue",
+        "title": "Кто ты / кто он",
+        "description": "Профессия, роль, статус.",
+        "example": {
+          "english": "I am a student.",
+          "russian": "Я студент."
+        }
+      },
+      {
+        "icon": "favorite",
+        "color": "orange",
+        "title": "Какой ты / как себя чувствуешь",
+        "description": "Настроение, состояние, характер.",
+        "example": {
+          "english": "She is happy.",
+          "russian": "Она счастлива."
+        }
+      },
+      {
+        "icon": "explore",
+        "color": "green",
+        "title": "Где ты находишься",
+        "description": "Местоположение.",
+        "example": {
+          "english": "We are here.",
+          "russian": "Мы здесь."
+        }
+      }
+    ],
+    "markers": [
+      "am",
+      "is",
+      "are",
+      "not"
+    ]
+  },
+  "tasks": [
+    {
+      "id": "t1_1",
+      "type": "sentenceAssembly",
+      "question": "Я счастлив",
+      "correctAnswer": "I am happy",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "am",
+          "is",
+          "are",
+          "do"
+        ],
+        [
+          "happy",
+          "hungry",
+          "cold",
+          "big"
+        ]
+      ],
+      "mistakeTags": [
+        "to_be_present"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_01_to_be/000.mp3"
+    },
+    {
+      "id": "t1_2",
+      "type": "sentenceAssembly",
+      "question": "Он высокий",
+      "correctAnswer": "He is tall",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "I",
+          "She",
+          "They"
+        ],
+        [
+          "is",
+          "am",
+          "are",
+          "do"
+        ],
+        [
+          "tall",
+          "small",
+          "cold",
+          "here"
+        ]
+      ],
+      "mistakeTags": [
+        "to_be_present"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_01_to_be/001.mp3"
+    },
+    {
+      "id": "t1_3",
+      "type": "sentenceAssembly",
+      "question": "Она умная",
+      "correctAnswer": "She is smart",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "We"
+        ],
+        [
+          "is",
+          "am",
+          "are",
+          "do"
+        ],
+        [
+          "smart",
+          "happy",
+          "tall",
+          "here"
+        ]
+      ],
+      "mistakeTags": [
+        "to_be_present"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_01_to_be/002.mp3"
+    },
+    {
+      "id": "t1_4",
+      "type": "sentenceAssembly",
+      "question": "Мы друзья",
+      "correctAnswer": "We are friends",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "I",
+          "He",
+          "She"
+        ],
+        [
+          "are",
+          "am",
+          "is",
+          "do"
+        ],
+        [
+          "friends",
+          "happy",
+          "doctors",
+          "here"
+        ]
+      ],
+      "mistakeTags": [
+        "to_be_present"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_01_to_be/003.mp3"
+    },
+    {
+      "id": "t1_5",
+      "type": "sentenceAssembly",
+      "question": "Холодно",
+      "correctAnswer": "It is cold",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "He",
+          "She",
+          "I"
+        ],
+        [
+          "is",
+          "am",
+          "are",
+          "do"
+        ],
+        [
+          "cold",
+          "hot",
+          "big",
+          "tall"
+        ]
+      ],
+      "mistakeTags": [
+        "to_be_present"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_01_to_be/004.mp3"
+    },
+    {
+      "id": "t1_6",
+      "type": "sentenceAssembly",
+      "question": "Они заняты",
+      "correctAnswer": "They are busy",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "He",
+          "She",
+          "I"
+        ],
+        [
+          "are",
+          "is",
+          "am",
+          "do"
+        ],
+        [
+          "busy",
+          "happy",
+          "cold",
+          "tall"
+        ]
+      ],
+      "mistakeTags": [
+        "to_be_present"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_01_to_be/005.mp3"
+    },
+    {
+      "id": "t1_7",
+      "type": "sentenceAssembly",
+      "question": "Ты прав",
+      "correctAnswer": "You are right",
+      "options": [],
+      "variants": [
+        [
+          "You",
+          "I",
+          "He",
+          "She"
+        ],
+        [
+          "are",
+          "am",
+          "is",
+          "do"
+        ],
+        [
+          "right",
+          "happy",
+          "cold",
+          "here"
+        ]
+      ],
+      "mistakeTags": [
+        "to_be_present"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_01_to_be/006.mp3"
+    },
+    {
+      "id": "t1_8",
+      "type": "sentenceAssembly",
+      "question": "Я здесь",
+      "correctAnswer": "I am here",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "They"
+        ],
+        [
+          "am",
+          "is",
+          "are",
+          "do"
+        ],
+        [
+          "here",
+          "happy",
+          "right",
+          "tall"
+        ]
+      ],
+      "mistakeTags": [
+        "to_be_present"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_01_to_be/007.mp3"
+    },
+    {
+      "id": "t1_9",
+      "type": "sentenceAssembly",
+      "question": "Он врач",
+      "correctAnswer": "He is a doctor",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "I",
+          "She",
+          "We"
+        ],
+        [
+          "is",
+          "am",
+          "are",
+          "do"
+        ],
+        [
+          "a",
+          "the",
+          "an",
+          "not"
+        ],
+        [
+          "doctor",
+          "teacher",
+          "student",
+          "friend"
+        ]
+      ],
+      "mistakeTags": [
+        "to_be_present"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_01_to_be/008.mp3"
+    },
+    {
+      "id": "t1_10",
+      "type": "sentenceAssembly",
+      "question": "Она добрая",
+      "correctAnswer": "She is kind",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "They"
+        ],
+        [
+          "is",
+          "am",
+          "are",
+          "do"
+        ],
+        [
+          "kind",
+          "smart",
+          "tall",
+          "cold"
+        ]
+      ],
+      "mistakeTags": [
+        "to_be_present"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_01_to_be/009.mp3"
+    },
+    {
+      "id": "t1_11",
+      "type": "sentenceAssembly",
+      "question": "Мы готовы",
+      "correctAnswer": "We are ready",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "I",
+          "He",
+          "She"
+        ],
+        [
+          "are",
+          "am",
+          "is",
+          "do"
+        ],
+        [
+          "ready",
+          "happy",
+          "busy",
+          "here"
+        ]
+      ],
+      "mistakeTags": [
+        "to_be_present"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_01_to_be/010.mp3"
+    },
+    {
+      "id": "t1_12",
+      "type": "sentenceAssembly",
+      "question": "Жарко",
+      "correctAnswer": "It is hot",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "He",
+          "She",
+          "I"
+        ],
+        [
+          "is",
+          "am",
+          "are",
+          "do"
+        ],
+        [
+          "hot",
+          "cold",
+          "big",
+          "tall"
+        ]
+      ],
+      "mistakeTags": [
+        "to_be_present"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_01_to_be/011.mp3"
+    },
+    {
+      "id": "t1_13",
+      "type": "sentenceAssembly",
+      "question": "Они счастливы",
+      "correctAnswer": "They are happy",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "He",
+          "She",
+          "I"
+        ],
+        [
+          "are",
+          "is",
+          "am",
+          "do"
+        ],
+        [
+          "happy",
+          "busy",
+          "cold",
+          "tall"
+        ]
+      ],
+      "mistakeTags": [
+        "to_be_present"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_01_to_be/012.mp3"
+    },
+    {
+      "id": "t1_14",
+      "type": "sentenceAssembly",
+      "question": "Я устал",
+      "correctAnswer": "I am tired",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "am",
+          "is",
+          "are",
+          "do"
+        ],
+        [
+          "tired",
+          "happy",
+          "cold",
+          "big"
+        ]
+      ],
+      "mistakeTags": [
+        "to_be_present"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_01_to_be/013.mp3"
+    },
+    {
+      "id": "t1_15",
+      "type": "sentenceAssembly",
+      "question": "Ты смешной",
+      "correctAnswer": "You are funny",
+      "options": [],
+      "variants": [
+        [
+          "You",
+          "I",
+          "He",
+          "She"
+        ],
+        [
+          "are",
+          "am",
+          "is",
+          "do"
+        ],
+        [
+          "funny",
+          "happy",
+          "smart",
+          "kind"
+        ]
+      ],
+      "mistakeTags": [
+        "to_be_present"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_01_to_be/014.mp3"
+    },
+    {
+      "id": "t1_16",
+      "type": "sentenceAssembly",
+      "question": "Это большое",
+      "correctAnswer": "It is big",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "He",
+          "She",
+          "I"
+        ],
+        [
+          "is",
+          "am",
+          "are",
+          "do"
+        ],
+        [
+          "big",
+          "cold",
+          "hot",
+          "tall"
+        ]
+      ],
+      "mistakeTags": [
+        "to_be_present"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_01_to_be/015.mp3"
+    },
+    {
+      "id": "t1_17",
+      "type": "sentenceAssembly",
+      "question": "Она учитель",
+      "correctAnswer": "She is a teacher",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "They"
+        ],
+        [
+          "is",
+          "am",
+          "are",
+          "do"
+        ],
+        [
+          "a",
+          "the",
+          "an",
+          "not"
+        ],
+        [
+          "teacher",
+          "doctor",
+          "student",
+          "friend"
+        ]
+      ],
+      "mistakeTags": [
+        "to_be_present"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_01_to_be/016.mp3"
+    },
+    {
+      "id": "t1_18",
+      "type": "sentenceAssembly",
+      "question": "Он занят",
+      "correctAnswer": "He is busy",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "I",
+          "She",
+          "We"
+        ],
+        [
+          "is",
+          "am",
+          "are",
+          "do"
+        ],
+        [
+          "busy",
+          "happy",
+          "tired",
+          "here"
+        ]
+      ],
+      "mistakeTags": [
+        "to_be_present"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_01_to_be/017.mp3"
+    },
+    {
+      "id": "t1_19",
+      "type": "sentenceAssembly",
+      "question": "Они здесь",
+      "correctAnswer": "They are here",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "He",
+          "She",
+          "I"
+        ],
+        [
+          "are",
+          "is",
+          "am",
+          "do"
+        ],
+        [
+          "here",
+          "happy",
+          "ready",
+          "busy"
+        ]
+      ],
+      "mistakeTags": [
+        "to_be_present"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_01_to_be/018.mp3"
+    },
+    {
+      "id": "t1_20",
+      "type": "sentenceAssembly",
+      "question": "Ты милый",
+      "correctAnswer": "You are nice",
+      "options": [],
+      "variants": [
+        [
+          "You",
+          "I",
+          "He",
+          "She"
+        ],
+        [
+          "are",
+          "am",
+          "is",
+          "do"
+        ],
+        [
+          "nice",
+          "kind",
+          "funny",
+          "smart"
+        ]
+      ],
+      "mistakeTags": [
+        "to_be_present"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_01_to_be/019.mp3"
+    },
+    {
+      "id": "t1_21",
+      "type": "sentenceAssembly",
+      "question": "Я не устал",
+      "correctAnswer": "I am not tired",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "am",
+          "is",
+          "are",
+          "do"
+        ],
+        [
+          "not",
+          "here",
+          "happy",
+          "big"
+        ],
+        [
+          "tired",
+          "happy",
+          "busy",
+          "cold"
+        ]
+      ],
+      "mistakeTags": [
+        "to_be_present"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_01_to_be/020.mp3"
+    },
+    {
+      "id": "t1_22",
+      "type": "sentenceAssembly",
+      "question": "Он не здесь",
+      "correctAnswer": "He is not here",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "I",
+          "She",
+          "They"
+        ],
+        [
+          "is",
+          "am",
+          "are",
+          "do"
+        ],
+        [
+          "not",
+          "a",
+          "the",
+          "very"
+        ],
+        [
+          "here",
+          "happy",
+          "busy",
+          "ready"
+        ]
+      ],
+      "mistakeTags": [
+        "to_be_present"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_01_to_be/021.mp3"
+    },
+    {
+      "id": "t1_23",
+      "type": "sentenceAssembly",
+      "question": "Они не готовы",
+      "correctAnswer": "They are not ready",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "He",
+          "I",
+          "She"
+        ],
+        [
+          "are",
+          "is",
+          "am",
+          "do"
+        ],
+        [
+          "not",
+          "a",
+          "the",
+          "very"
+        ],
+        [
+          "ready",
+          "here",
+          "happy",
+          "busy"
+        ]
+      ],
+      "mistakeTags": [
+        "to_be_present"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_01_to_be/022.mp3"
+    },
+    {
+      "id": "t1_24",
+      "type": "sentenceAssembly",
+      "question": "Она не занята",
+      "correctAnswer": "She is not busy",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "We"
+        ],
+        [
+          "is",
+          "am",
+          "are",
+          "do"
+        ],
+        [
+          "not",
+          "a",
+          "the",
+          "very"
+        ],
+        [
+          "busy",
+          "kind",
+          "smart",
+          "here"
+        ]
+      ],
+      "mistakeTags": [
+        "to_be_present"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_01_to_be/023.mp3"
+    },
+    {
+      "id": "t1_25",
+      "type": "sentenceAssembly",
+      "question": "Мы не здесь",
+      "correctAnswer": "We are not here",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "I",
+          "He",
+          "She"
+        ],
+        [
+          "are",
+          "am",
+          "is",
+          "do"
+        ],
+        [
+          "not",
+          "a",
+          "the",
+          "very"
+        ],
+        [
+          "here",
+          "happy",
+          "ready",
+          "busy"
+        ]
+      ],
+      "mistakeTags": [
+        "to_be_present"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_01_to_be/024.mp3"
+    },
+    {
+      "id": "t1_26",
+      "type": "sentenceAssembly",
+      "question": "Я студент",
+      "correctAnswer": "I am a student",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "They"
+        ],
+        [
+          "am",
+          "is",
+          "are",
+          "do"
+        ],
+        [
+          "a",
+          "the",
+          "an",
+          "not"
+        ],
+        [
+          "student",
+          "teacher",
+          "doctor",
+          "friend"
+        ]
+      ],
+      "mistakeTags": [
+        "to_be_present"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_01_to_be/025.mp3"
+    },
+    {
+      "id": "t1_27",
+      "type": "sentenceAssembly",
+      "question": "Они молодые",
+      "correctAnswer": "They are young",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "He",
+          "I",
+          "She"
+        ],
+        [
+          "are",
+          "is",
+          "am",
+          "do"
+        ],
+        [
+          "young",
+          "happy",
+          "tall",
+          "big"
+        ]
+      ],
+      "mistakeTags": [
+        "to_be_present"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_01_to_be/026.mp3"
+    },
+    {
+      "id": "t1_28",
+      "type": "sentenceAssembly",
+      "question": "Он не добрый",
+      "correctAnswer": "He is not kind",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "I",
+          "She",
+          "They"
+        ],
+        [
+          "is",
+          "am",
+          "are",
+          "do"
+        ],
+        [
+          "not",
+          "a",
+          "the",
+          "very"
+        ],
+        [
+          "kind",
+          "here",
+          "happy",
+          "busy"
+        ]
+      ],
+      "mistakeTags": [
+        "to_be_present"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_01_to_be/027.mp3"
+    },
+    {
+      "id": "t1_29",
+      "type": "sentenceAssembly",
+      "question": "Мы здесь",
+      "correctAnswer": "We are here",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "I",
+          "He",
+          "She"
+        ],
+        [
+          "are",
+          "am",
+          "is",
+          "do"
+        ],
+        [
+          "here",
+          "happy",
+          "ready",
+          "right"
+        ]
+      ],
+      "mistakeTags": [
+        "to_be_present"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_01_to_be/028.mp3"
+    },
+    {
+      "id": "t1_30",
+      "type": "sentenceAssembly",
+      "question": "Ты не прав",
+      "correctAnswer": "You are not right",
+      "options": [],
+      "variants": [
+        [
+          "You",
+          "I",
+          "He",
+          "She"
+        ],
+        [
+          "are",
+          "am",
+          "is",
+          "do"
+        ],
+        [
+          "not",
+          "a",
+          "the",
+          "very"
+        ],
+        [
+          "right",
+          "here",
+          "happy",
+          "busy"
+        ]
+      ],
+      "mistakeTags": [
+        "to_be_present"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_01_to_be/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionBeginner01ToBe",
+  "theoryQuiz": [
+    {
+      "id": "tq_01",
+      "type": "multipleChoice",
+      "question": "Какая форма глагола 'to be' используется с 'I'?",
+      "options": [
+        "am",
+        "is",
+        "are",
+        "be"
+      ],
+      "correctIndex": 0,
+      "explanation": "'I' всегда используется с 'am': I am happy."
+    },
+    {
+      "id": "tq_02",
+      "type": "trueFalse",
+      "question": "'He are a student' — это правильное предложение.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "С 'He' используется 'is': He is a student."
+    },
+    {
+      "id": "tq_03",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: 'They ___ at school.'",
+      "options": [
+        "am",
+        "is",
+        "are",
+        "be"
+      ],
+      "correctIndex": 2,
+      "explanation": "'They' используется с 'are': They are at school."
+    },
+    {
+      "id": "tq_04",
+      "type": "multipleChoice",
+      "question": "Какая форма правильная: 'She ___ a doctor.'?",
+      "options": [
+        "am",
+        "is",
+        "are",
+        "be"
+      ],
+      "correctIndex": 1,
+      "explanation": "'She' используется с 'is': She is a doctor."
+    },
+    {
+      "id": "tq_05",
+      "type": "trueFalse",
+      "question": "'We am friends' — это правильное предложение.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "С 'We' используется 'are': We are friends."
+    },
+    {
+      "id": "tq_06",
+      "type": "multipleChoice",
+      "question": "Как правильно сказать 'Это интересно'?",
+      "options": [
+        "It am interesting.",
+        "It is interesting.",
+        "It are interesting.",
+        "It be interesting."
+      ],
+      "correctIndex": 1,
+      "explanation": "'It' используется с 'is': It is interesting."
+    },
+    {
+      "id": "tq_07",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: 'You ___ very kind.'",
+      "options": [
+        "am",
+        "is",
+        "are",
+        "be"
+      ],
+      "correctIndex": 2,
+      "explanation": "'You' (и единственное, и множественное число) используется с 'are'."
+    },
+    {
+      "id": "tq_08",
+      "type": "trueFalse",
+      "question": "'I is happy' — это грамматически верно.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "С 'I' используется только 'am': I am happy."
+    },
+    {
+      "id": "tq_09",
+      "type": "multipleChoice",
+      "question": "С какими местоимениями используется 'are'?",
+      "options": [
+        "I, he, she",
+        "you, we, they",
+        "he, she, it",
+        "I, you, he"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Are' используется с 'you', 'we', 'they'."
+    },
+    {
+      "id": "tq_10",
+      "type": "trueFalse",
+      "question": "'The cats are funny' — это правильное предложение.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Множественное число ('cats') используется с 'are'. The cats are funny — верно."
+    }
+  ]
+}

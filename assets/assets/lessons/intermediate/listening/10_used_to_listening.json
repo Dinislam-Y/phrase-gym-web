@@ -1,0 +1,461 @@
+{
+  "id": "intermediate_listening_10_used_to",
+  "title": "Used to & Would",
+  "description": "Слушайте воспоминания о прошлом: что было привычкой, а что просто случалось регулярно.",
+  "order": 10,
+  "level": "intermediate",
+  "imageUrl": "assets/images/lessons/used_to.png",
+  "tasks": [
+    {
+      "id": "t10_01",
+      "audioText": "When we were kids, we used to swim in the river every summer.",
+      "transcript": "We used to swim in the river every summer.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "It was our regular habit as children."
+        },
+        {
+          "id": "o2",
+          "text": "We swim there now every summer."
+        },
+        {
+          "id": "o3",
+          "text": "We swam there only once."
+        },
+        {
+          "id": "o4",
+          "text": "We will swim there next year."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Used to = past habit that no longer exists.",
+      "mistakeTags": [
+        "childhood",
+        "used_to"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_10_used_to/t10_01.mp3"
+    },
+    {
+      "id": "t10_02",
+      "audioText": "My grandpa would tell us amazing bedtime stories every night.",
+      "transcript": "My grandpa would tell us amazing bedtime stories every night.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "It happened regularly in the past."
+        },
+        {
+          "id": "o2",
+          "text": "He tells them now."
+        },
+        {
+          "id": "o3",
+          "text": "He told only one story."
+        },
+        {
+          "id": "o4",
+          "text": "He never told stories."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Would = repeated action in the past (stories).",
+      "mistakeTags": [
+        "family",
+        "used_to"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_10_used_to/t10_02.mp3"
+    },
+    {
+      "id": "t10_03",
+      "audioText": "I used to have really long hair when I was a teenager.",
+      "transcript": "I used to have really long hair when I was a teenager.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Long hair was my past state, not now."
+        },
+        {
+          "id": "o2",
+          "text": "I have long hair now."
+        },
+        {
+          "id": "o3",
+          "text": "I will have long hair."
+        },
+        {
+          "id": "o4",
+          "text": "I never had long hair."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Used to for past states.",
+      "mistakeTags": [
+        "appearance",
+        "used_to"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_10_used_to/t10_03.mp3"
+    },
+    {
+      "id": "t10_04",
+      "audioText": "On Sundays we would all go to church together as a family.",
+      "transcript": "We would all go to church together as a family.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "It was our weekly tradition."
+        },
+        {
+          "id": "o2",
+          "text": "We go every Sunday now."
+        },
+        {
+          "id": "o3",
+          "text": "We went only once."
+        },
+        {
+          "id": "o4",
+          "text": "We never went."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Repeated past action.",
+      "mistakeTags": [
+        "family",
+        "used_to"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_10_used_to/t10_04.mp3"
+    },
+    {
+      "id": "t10_05",
+      "audioText": "I never used to drink coffee, but now I can’t live without it.",
+      "transcript": "I never used to drink coffee.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "In the past I didn’t drink coffee at all."
+        },
+        {
+          "id": "o2",
+          "text": "I still don’t drink coffee."
+        },
+        {
+          "id": "o3",
+          "text": "I drank too much coffee before."
+        },
+        {
+          "id": "o4",
+          "text": "I will stop drinking coffee."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Never used to = zero habit in the past.",
+      "mistakeTags": [
+        "cafe",
+        "used_to"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_10_used_to/t10_05.mp3"
+    },
+    {
+      "id": "t10_06",
+      "audioText": "When I lived in London, I would take the tube to work every day.",
+      "transcript": "I would take the tube to work every day.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Daily routine in my London period."
+        },
+        {
+          "id": "o2",
+          "text": "I take the tube now."
+        },
+        {
+          "id": "o3",
+          "text": "I took it only sometimes."
+        },
+        {
+          "id": "o4",
+          "text": "I drove to work."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Would for past repeated actions.",
+      "mistakeTags": [
+        "work",
+        "used_to"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_10_used_to/t10_06.mp3"
+    },
+    {
+      "id": "t10_07",
+      "audioText": "She used to be really shy at school.",
+      "transcript": "She used to be really shy at school.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Shyness was her past characteristic."
+        },
+        {
+          "id": "o2",
+          "text": "She is still shy."
+        },
+        {
+          "id": "o3",
+          "text": "She was very confident."
+        },
+        {
+          "id": "o4",
+          "text": "She will be shy again."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Used to be + adjective = past state.",
+      "mistakeTags": [
+        "school",
+        "used_to"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_10_used_to/t10_07.mp3"
+    },
+    {
+      "id": "t10_08",
+      "audioText": "Every summer we would spend two weeks at my grandma’s village.",
+      "transcript": "We would spend two weeks at my grandma’s village.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "It was our regular summer tradition."
+        },
+        {
+          "id": "o2",
+          "text": "We spend there now."
+        },
+        {
+          "id": "o3",
+          "text": "We spent only one week."
+        },
+        {
+          "id": "o4",
+          "text": "We never went there."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Repeated past action every summer.",
+      "mistakeTags": [
+        "holiday",
+        "used_to"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_10_used_to/t10_08.mp3"
+    },
+    {
+      "id": "t10_09",
+      "audioText": "I used to smoke twenty cigarettes a day, but I quit five years ago.",
+      "transcript": "I used to smoke twenty cigarettes a day.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Heavy smoking was my old habit."
+        },
+        {
+          "id": "o2",
+          "text": "I still smoke twenty a day."
+        },
+        {
+          "id": "o3",
+          "text": "I never smoked."
+        },
+        {
+          "id": "o4",
+          "text": "I started smoking recently."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Classic bad habit from the past.",
+      "mistakeTags": [
+        "health",
+        "used_to"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_10_used_to/t10_09.mp3"
+    },
+    {
+      "id": "t10_10",
+      "audioText": "When he was young, he would run 10 km every morning before work.",
+      "transcript": "He would run 10 km every morning before work.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Daily running was part of his routine."
+        },
+        {
+          "id": "o2",
+          "text": "He runs now every morning."
+        },
+        {
+          "id": "o3",
+          "text": "He ran only on weekends."
+        },
+        {
+          "id": "o4",
+          "text": "He hated running."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Would = regular past action.",
+      "mistakeTags": [
+        "sport",
+        "used_to"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_10_used_to/t10_10.mp3"
+    },
+    {
+      "id": "t10_11",
+      "audioText": "We didn’t use to have smartphones when I was a child.",
+      "transcript": "We didn’t use to have smartphones when I was a child.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Smartphones didn’t exist in our childhood."
+        },
+        {
+          "id": "o2",
+          "text": "We had smartphones."
+        },
+        {
+          "id": "o3",
+          "text": "We have them now only."
+        },
+        {
+          "id": "o4",
+          "text": "We will have them soon."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Negative used to = no such thing in the past.",
+      "mistakeTags": [
+        "childhood",
+        "used_to"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_10_used_to/t10_11.mp3"
+    },
+    {
+      "id": "t10_12",
+      "audioText": "My dad would always fall asleep during Sunday movies.",
+      "transcript": "My dad would always fall asleep during Sunday movies.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "It happened every single Sunday."
+        },
+        {
+          "id": "o2",
+          "text": "He stays awake now."
+        },
+        {
+          "id": "o3",
+          "text": "He never slept."
+        },
+        {
+          "id": "o4",
+          "text": "He only slept once."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Would + always = typical behaviour.",
+      "mistakeTags": [
+        "family",
+        "used_to"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_10_used_to/t10_12.mp3"
+    },
+    {
+      "id": "t10_13",
+      "audioText": "I used to believe in Santa Claus until I was 10.",
+      "transcript": "I used to believe in Santa Claus until I was 10.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Believing in Santa was my childhood reality."
+        },
+        {
+          "id": "o2",
+          "text": "I still believe in Santa."
+        },
+        {
+          "id": "o3",
+          "text": "I never believed."
+        },
+        {
+          "id": "o4",
+          "text": "I started believing at 10."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Used to believe = past state of mind.",
+      "mistakeTags": [
+        "childhood",
+        "used_to"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_10_used_to/t10_13.mp3"
+    },
+    {
+      "id": "t10_14",
+      "audioText": "In the 90s people would write real letters, not emails.",
+      "transcript": "People would write real letters.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Hand-written letters were normal back then."
+        },
+        {
+          "id": "o2",
+          "text": "People write letters now."
+        },
+        {
+          "id": "o3",
+          "text": "Nobody wrote letters."
+        },
+        {
+          "id": "o4",
+          "text": "People wrote only emails."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Typical past habit of a generation.",
+      "mistakeTags": [
+        "post_office",
+        "used_to"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_10_used_to/t10_14.mp3"
+    },
+    {
+      "id": "t10_15",
+      "audioText": "We used to play outside until dark every single day.",
+      "transcript": "We used to play outside until dark every single day.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Street games were our daily childhood."
+        },
+        {
+          "id": "o2",
+          "text": "We play outside now."
+        },
+        {
+          "id": "o3",
+          "text": "We stayed inside."
+        },
+        {
+          "id": "o4",
+          "text": "We played only on weekends."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Perfect past habit — pure nostalgia.",
+      "mistakeTags": [
+        "childhood",
+        "used_to"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_10_used_to/t10_15.mp3"
+    }
+  ],
+  "short_description": "Used to + Would — привычки и состояния из прошлого"
+}

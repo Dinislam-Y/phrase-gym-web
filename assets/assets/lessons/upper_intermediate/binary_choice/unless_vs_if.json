@@ -1,0 +1,400 @@
+{
+  "id": "upper_bc_03_conditionals_0_1",
+  "title": "Unless vs If",
+  "description": "Unless или If? Разбираемся, когда условие уже содержит отрицание, а когда нет.",
+  "order": 3,
+  "level": "upper_intermediate",
+  "imageUrl": null,
+  "tasks": [
+    {
+      "id": "uvi_1",
+      "question": "I won't go ___ you come with me.",
+      "optionA": "UNLESS",
+      "optionB": "IF",
+      "correctIndex": 0,
+      "explanation": "Unless = if not. Смысл: я не пойду, если ты НЕ пойдёшь со мной. После unless всегда утвердительная конструкция.",
+      "tags": [
+        "unless_vs_if",
+        "unless",
+        "relationships"
+      ]
+    },
+    {
+      "id": "uvi_2",
+      "question": "___ it rains, we'll stay inside.",
+      "optionA": "UNLESS",
+      "optionB": "IF",
+      "correctIndex": 1,
+      "explanation": "Здесь стандартное условие без отрицания: если пойдёт дождь, мы останемся дома. Unless тут не подходит, потому что нет скрытого «не».",
+      "tags": [
+        "unless_vs_if",
+        "if",
+        "decisions"
+      ]
+    },
+    {
+      "id": "uvi_3",
+      "question": "She won't forgive you ___ you apologize.",
+      "optionA": "UNLESS",
+      "optionB": "IF",
+      "correctIndex": 0,
+      "explanation": "Unless = if you don't apologize. Она не простит, если ты НЕ извинишься — отрицание уже встроено в unless.",
+      "tags": [
+        "unless_vs_if",
+        "unless",
+        "relationships"
+      ]
+    },
+    {
+      "id": "uvi_4",
+      "question": "___ you need help, just call me.",
+      "optionA": "UNLESS",
+      "optionB": "IF",
+      "correctIndex": 1,
+      "explanation": "Простое условие: если тебе нужна помощь — позвони. Здесь нет скрытого отрицания, поэтому используем if.",
+      "tags": [
+        "unless_vs_if",
+        "if",
+        "work"
+      ]
+    },
+    {
+      "id": "uvi_5",
+      "question": "We'll miss the train ___ we hurry.",
+      "optionA": "UNLESS",
+      "optionB": "IF",
+      "correctIndex": 0,
+      "explanation": "Unless = if we don't hurry. Мы опоздаем на поезд, если НЕ поторопимся — классический случай unless с отрицательным смыслом.",
+      "tags": [
+        "unless_vs_if",
+        "unless",
+        "decisions"
+      ]
+    },
+    {
+      "id": "uvi_6",
+      "question": "I'll be happy ___ you accept the offer.",
+      "optionA": "UNLESS",
+      "optionB": "IF",
+      "correctIndex": 1,
+      "explanation": "Стандартное условие: я буду рад, если ты примешь предложение. Никакого отрицания здесь нет — только if.",
+      "tags": [
+        "unless_vs_if",
+        "if",
+        "opinions"
+      ]
+    },
+    {
+      "id": "uvi_7",
+      "question": "Don't call me ___ it's really urgent.",
+      "optionA": "UNLESS",
+      "optionB": "IF",
+      "correctIndex": 0,
+      "explanation": "Unless = if it's not urgent. Не звони мне, если это НЕ действительно срочно. Запрет + единственное исключение — типичная конструкция с unless.",
+      "tags": [
+        "unless_vs_if",
+        "unless",
+        "work"
+      ]
+    },
+    {
+      "id": "uvi_8",
+      "question": "___ she agrees, we'll start tomorrow.",
+      "optionA": "UNLESS",
+      "optionB": "IF",
+      "correctIndex": 1,
+      "explanation": "Прямое условие: если она согласится, мы начнём завтра. Нет скрытого отрицания — используем if.",
+      "tags": [
+        "unless_vs_if",
+        "if",
+        "work"
+      ]
+    },
+    {
+      "id": "uvi_9",
+      "question": "We can go out ___ the weather improves.",
+      "optionA": "UNLESS",
+      "optionB": "IF",
+      "correctIndex": 1,
+      "explanation": "Условие без отрицания: мы можем выйти, если погода улучшится. Unless здесь изменил бы смысл на противоположный.",
+      "tags": [
+        "unless_vs_if",
+        "if",
+        "decisions"
+      ]
+    },
+    {
+      "id": "uvi_10",
+      "question": "He won't change ___ he truly wants to.",
+      "optionA": "UNLESS",
+      "optionB": "IF",
+      "correctIndex": 0,
+      "explanation": "Unless = if he doesn't truly want to. Он не изменится, если сам этого НЕ захочет — отрицательное условие, значит unless.",
+      "tags": [
+        "unless_vs_if",
+        "unless",
+        "opinions"
+      ]
+    },
+    {
+      "id": "uvi_11",
+      "question": "___ you don't trust me, we have a problem.",
+      "optionA": "UNLESS",
+      "optionB": "IF",
+      "correctIndex": 1,
+      "explanation": "После if может стоять отрицание (don't), а вот unless уже содержит «не», и unless you don't — двойное отрицание. Поэтому только if.",
+      "tags": [
+        "unless_vs_if",
+        "if",
+        "relationships"
+      ]
+    },
+    {
+      "id": "uvi_12",
+      "question": "I won't believe it ___ I see it myself.",
+      "optionA": "UNLESS",
+      "optionB": "IF",
+      "correctIndex": 0,
+      "explanation": "Unless = if I don't see it myself. Я не поверю, пока сам НЕ увижу — это отрицательное условие, идеальное для unless.",
+      "tags": [
+        "unless_vs_if",
+        "unless",
+        "opinions"
+      ]
+    },
+    {
+      "id": "uvi_13",
+      "question": "___ I were you, I'd quit that job.",
+      "optionA": "UNLESS",
+      "optionB": "IF",
+      "correctIndex": 1,
+      "explanation": "If I were you — устойчивое выражение для совета (сослагательное наклонение). Unless в этой конструкции не используется.",
+      "tags": [
+        "unless_vs_if",
+        "if",
+        "idiom"
+      ]
+    },
+    {
+      "id": "uvi_14",
+      "question": "___ I'm mistaken, the meeting is at noon.",
+      "optionA": "UNLESS",
+      "optionB": "IF",
+      "correctIndex": 0,
+      "explanation": "Unless I'm mistaken = if I'm not mistaken. Это вежливая фраза-оговорка: «если я не ошибаюсь». Отрицательный смысл — unless.",
+      "tags": [
+        "unless_vs_if",
+        "unless",
+        "idiom"
+      ]
+    },
+    {
+      "id": "uvi_15",
+      "question": "Even ___ he apologizes, I won't forgive him.",
+      "optionA": "UNLESS",
+      "optionB": "IF",
+      "correctIndex": 1,
+      "explanation": "Even if — устойчивое сочетание, означающее «даже если». Even unless не существует в английском языке.",
+      "tags": [
+        "unless_vs_if",
+        "if",
+        "idiom"
+      ]
+    },
+    {
+      "id": "uvi_16",
+      "question": "She'll keep working ___ someone stops her.",
+      "optionA": "UNLESS",
+      "optionB": "IF",
+      "correctIndex": 0,
+      "explanation": "Unless = if nobody stops her. Она продолжит работать, если никто её НЕ остановит. Отрицательное условие — unless.",
+      "tags": [
+        "unless_vs_if",
+        "unless",
+        "work"
+      ]
+    },
+    {
+      "id": "uvi_17",
+      "question": "I wonder ___ this relationship is worth saving.",
+      "optionA": "UNLESS",
+      "optionB": "IF",
+      "correctIndex": 1,
+      "explanation": "I wonder if = мне интересно, стоит ли. Здесь if используется в значении «ли» (косвенный вопрос). Unless в таком значении не работает.",
+      "tags": [
+        "unless_vs_if",
+        "if",
+        "relationships"
+      ]
+    },
+    {
+      "id": "uvi_18",
+      "question": "You'll never know ___ you try.",
+      "optionA": "UNLESS",
+      "optionB": "IF",
+      "correctIndex": 0,
+      "explanation": "Unless = if you don't try. Ты никогда не узнаешь, если НЕ попробуешь — популярная мотивационная фраза с unless.",
+      "tags": [
+        "unless_vs_if",
+        "unless",
+        "opinions"
+      ]
+    },
+    {
+      "id": "uvi_19",
+      "question": "___ only I had listened to her advice!",
+      "optionA": "UNLESS",
+      "optionB": "IF",
+      "correctIndex": 1,
+      "explanation": "If only — устойчивое выражение сожаления: «если бы только». Unless only не существует, это фиксированная конструкция с if.",
+      "tags": [
+        "unless_vs_if",
+        "if",
+        "idiom"
+      ]
+    },
+    {
+      "id": "uvi_20",
+      "question": "Don't judge people ___ you know their story.",
+      "optionA": "UNLESS",
+      "optionB": "IF",
+      "correctIndex": 0,
+      "explanation": "Unless = if you don't know their story. Не суди людей, если ты НЕ знаешь их историю. Запрет с исключением — unless.",
+      "tags": [
+        "unless_vs_if",
+        "unless",
+        "opinions"
+      ]
+    },
+    {
+      "id": "uvi_21",
+      "question": "What ___ we've been wrong all along?",
+      "optionA": "UNLESS",
+      "optionB": "IF",
+      "correctIndex": 1,
+      "explanation": "What if — устойчивое выражение «а что, если». Используется для гипотез и опасений. What unless не существует.",
+      "tags": [
+        "unless_vs_if",
+        "if",
+        "idiom"
+      ]
+    },
+    {
+      "id": "uvi_22",
+      "question": "I'll support your decision ___ it hurts others.",
+      "optionA": "UNLESS",
+      "optionB": "IF",
+      "correctIndex": 0,
+      "explanation": "Unless = if it doesn't hurt others. Я поддержу твоё решение, если оно НЕ навредит другим. Условие-ограничение — unless.",
+      "tags": [
+        "unless_vs_if",
+        "unless",
+        "relationships"
+      ]
+    },
+    {
+      "id": "uvi_23",
+      "question": "___ worst comes to worst, we'll start over.",
+      "optionA": "UNLESS",
+      "optionB": "IF",
+      "correctIndex": 1,
+      "explanation": "If worst comes to worst — устойчивый идиом: «в худшем случае». Это фиксированное выражение, и unless здесь не используется.",
+      "tags": [
+        "unless_vs_if",
+        "if",
+        "idiom"
+      ]
+    },
+    {
+      "id": "uvi_24",
+      "question": "___ there's a miracle, this project will fail.",
+      "optionA": "UNLESS",
+      "optionB": "IF",
+      "correctIndex": 0,
+      "explanation": "Unless = if there isn't a miracle. Проект провалится, если НЕ произойдёт чудо. Единственное исключение из негативного исхода — unless.",
+      "tags": [
+        "unless_vs_if",
+        "unless",
+        "work"
+      ]
+    },
+    {
+      "id": "uvi_25",
+      "question": "I'd understand ___ you decided to leave.",
+      "optionA": "UNLESS",
+      "optionB": "IF",
+      "correctIndex": 1,
+      "explanation": "Гипотетическое условие: я бы понял, если бы ты решил уйти. Здесь нет скрытого отрицания — стандартный if.",
+      "tags": [
+        "unless_vs_if",
+        "if",
+        "relationships"
+      ]
+    },
+    {
+      "id": "uvi_26",
+      "question": "Relationships don't work ___ both people try.",
+      "optionA": "UNLESS",
+      "optionB": "IF",
+      "correctIndex": 0,
+      "explanation": "Unless = if both people don't try. Отношения не работают, если оба НЕ стараются. Обязательное условие выражено через unless.",
+      "tags": [
+        "unless_vs_if",
+        "unless",
+        "relationships"
+      ]
+    },
+    {
+      "id": "uvi_27",
+      "question": "Even ___ it takes years, I'll wait for you.",
+      "optionA": "UNLESS",
+      "optionB": "IF",
+      "correctIndex": 1,
+      "explanation": "Even if — устойчивая конструкция: «даже если это займёт годы». Even unless не является допустимым сочетанием в английском.",
+      "tags": [
+        "unless_vs_if",
+        "if",
+        "idiom"
+      ]
+    },
+    {
+      "id": "uvi_28",
+      "question": "You can't grow ___ you leave your comfort zone.",
+      "optionA": "UNLESS",
+      "optionB": "IF",
+      "correctIndex": 0,
+      "explanation": "Unless = if you don't leave. Ты не сможешь расти, если НЕ выйдешь из зоны комфорта. Отрицание в главном предложении + условие-исключение — unless.",
+      "tags": [
+        "unless_vs_if",
+        "unless",
+        "opinions"
+      ]
+    },
+    {
+      "id": "uvi_29",
+      "question": "___ you truly loved me, you wouldn't have lied.",
+      "optionA": "UNLESS",
+      "optionB": "IF",
+      "correctIndex": 1,
+      "explanation": "Third conditional: если бы ты действительно меня любил, ты бы не соврал. Это гипотеза о прошлом — используется if, не unless.",
+      "tags": [
+        "unless_vs_if",
+        "if",
+        "relationships"
+      ]
+    },
+    {
+      "id": "uvi_30",
+      "question": "Nothing will change ___ we take action now.",
+      "optionA": "UNLESS",
+      "optionB": "IF",
+      "correctIndex": 0,
+      "explanation": "Unless = if we don't take action. Ничего не изменится, если мы НЕ предпримем действия сейчас. Отрицательный результат + единственное условие — unless.",
+      "tags": [
+        "unless_vs_if",
+        "unless",
+        "opinions"
+      ]
+    }
+  ]
+}

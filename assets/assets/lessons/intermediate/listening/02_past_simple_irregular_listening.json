@@ -1,0 +1,461 @@
+{
+  "id": "intermediate_listening_02_past_simple_irregular",
+  "title": "Past Simple: Irregular Verbs",
+  "description": "Слушайте реальные истории и ловите самые коварные неправильные глаголы.",
+  "order": 2,
+  "level": "intermediate",
+  "imageUrl": "assets/images/lessons/past_simple_irregular.png",
+  "tasks": [
+    {
+      "id": "t2_01",
+      "audioText": "Yesterday I woke up late. I ran to the bus stop. I caught the last bus to work.",
+      "transcript": "I caught the last bus to work.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "I managed to get the last bus."
+        },
+        {
+          "id": "o2",
+          "text": "I catch the bus every day."
+        },
+        {
+          "id": "o3",
+          "text": "I missed the last bus."
+        },
+        {
+          "id": "o4",
+          "text": "I will catch it tomorrow."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Caught = успел поймать. Option 1 is perfect.",
+      "mistakeTags": [
+        "street",
+        "past_simple_irregular"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_02_past_simple_irregular/t2_01.mp3"
+    },
+    {
+      "id": "t2_02",
+      "audioText": "Last night we went to a new bar. We met old friends there. We drank beer until midnight.",
+      "transcript": "We drank beer until midnight.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "We had beer till late."
+        },
+        {
+          "id": "o2",
+          "text": "We drink beer every weekend."
+        },
+        {
+          "id": "o3",
+          "text": "We drank only one beer."
+        },
+        {
+          "id": "o4",
+          "text": "We drank water."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Drank = пили. Option 1 matches exactly.",
+      "mistakeTags": [
+        "bar",
+        "past_simple_irregular"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_02_past_simple_irregular/t2_02.mp3"
+    },
+    {
+      "id": "t2_03",
+      "audioText": "Two weeks ago Sara flew to London for work. She took only hand luggage. She forgot her charger at home.",
+      "transcript": "She forgot her charger at home.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She left her charger at home."
+        },
+        {
+          "id": "o2",
+          "text": "She forgets things often."
+        },
+        {
+          "id": "o3",
+          "text": "She took her charger."
+        },
+        {
+          "id": "o4",
+          "text": "She bought a new charger."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Forgot = забыла. Option 1 is correct.",
+      "mistakeTags": [
+        "airport",
+        "past_simple_irregular"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_02_past_simple_irregular/t2_03.mp3"
+    },
+    {
+      "id": "t2_04",
+      "audioText": "Last year he quit smoking completely. He threw away all cigarettes. He never smoked again.",
+      "transcript": "He never smoked again.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He stopped smoking forever."
+        },
+        {
+          "id": "o2",
+          "text": "He smokes sometimes."
+        },
+        {
+          "id": "o3",
+          "text": "He began smoking again."
+        },
+        {
+          "id": "o4",
+          "text": "He will smoke next year."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Never smoked again = полностью бросил. Option 1 is right.",
+      "mistakeTags": [
+        "health",
+        "past_simple_irregular"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_02_past_simple_irregular/t2_04.mp3"
+    },
+    {
+      "id": "t2_05",
+      "audioText": "In the morning I lost my keys. I looked everywhere. I finally found them in my jacket.",
+      "transcript": "I finally found them in my jacket.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "I discovered the keys in my jacket."
+        },
+        {
+          "id": "o2",
+          "text": "I lose keys every day."
+        },
+        {
+          "id": "o3",
+          "text": "I found them in the car."
+        },
+        {
+          "id": "o4",
+          "text": "I bought new keys."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Found = нашёл. Option 1 matches.",
+      "mistakeTags": [
+        "home",
+        "past_simple_irregular"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_02_past_simple_irregular/t2_05.mp3"
+    },
+    {
+      "id": "t2_06",
+      "audioText": "Last Friday the boss came late. He brought coffee for everyone. He paid for everything himself.",
+      "transcript": "He paid for everything himself.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He bought coffee for the team."
+        },
+        {
+          "id": "o2",
+          "text": "He pays every Friday."
+        },
+        {
+          "id": "o3",
+          "text": "We paid for the coffee."
+        },
+        {
+          "id": "o4",
+          "text": "He will pay next time."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Paid = заплатил. Option 1 is correct.",
+      "mistakeTags": [
+        "office",
+        "past_simple_irregular"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_02_past_simple_irregular/t2_06.mp3"
+    },
+    {
+      "id": "t2_07",
+      "audioText": "During the trip we drove 800 kilometres. We saw amazing places. We took hundreds of photos.",
+      "transcript": "We took hundreds of photos.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "We made a lot of pictures."
+        },
+        {
+          "id": "o2",
+          "text": "We take photos every day."
+        },
+        {
+          "id": "o3",
+          "text": "We took only ten photos."
+        },
+        {
+          "id": "o4",
+          "text": "We will take photos next trip."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Took = сделали. Option 1 is perfect.",
+      "mistakeTags": [
+        "travel",
+        "past_simple_irregular"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_02_past_simple_irregular/t2_07.mp3"
+    },
+    {
+      "id": "t2_08",
+      "audioText": "Yesterday she felt terrible in the morning. She went to the doctor. The doctor gave her strong medicine.",
+      "transcript": "The doctor gave her strong medicine.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The doctor prescribed strong pills."
+        },
+        {
+          "id": "o2",
+          "text": "She gives medicine to others."
+        },
+        {
+          "id": "o3",
+          "text": "The doctor gave her nothing."
+        },
+        {
+          "id": "o4",
+          "text": "She bought medicine herself."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Gave = дал. Option 1 matches.",
+      "mistakeTags": [
+        "hospital",
+        "past_simple_irregular"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_02_past_simple_irregular/t2_08.mp3"
+    },
+    {
+      "id": "t2_09",
+      "audioText": "Last weekend I broke my phone. I dropped it on the floor. I bought a new one the same day.",
+      "transcript": "I bought a new one the same day.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "I got a new phone that day."
+        },
+        {
+          "id": "o2",
+          "text": "I buy phones every month."
+        },
+        {
+          "id": "o3",
+          "text": "I repaired the old one."
+        },
+        {
+          "id": "o4",
+          "text": "I will buy it next week."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Bought = купил. Option 1 is correct.",
+      "mistakeTags": [
+        "shop",
+        "past_simple_irregular"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_02_past_simple_irregular/t2_09.mp3"
+    },
+    {
+      "id": "t2_10",
+      "audioText": "In 2020 we all sat at home for months. We read books and watched series. We learnt to cook well.",
+      "transcript": "We learnt to cook well.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "We became good at cooking."
+        },
+        {
+          "id": "o2",
+          "text": "We learn every day."
+        },
+        {
+          "id": "o3",
+          "text": "We forgot how to cook."
+        },
+        {
+          "id": "o4",
+          "text": "We ordered food every day."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Learnt = научились. Option 1 is right.",
+      "mistakeTags": [
+        "home",
+        "past_simple_irregular"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_02_past_simple_irregular/t2_10.mp3"
+    },
+    {
+      "id": "t2_11",
+      "audioText": "Last summer he swam in the sea every day. He lay in the sun for hours. He came back completely tanned.",
+      "transcript": "He came back completely tanned.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He returned very tanned."
+        },
+        {
+          "id": "o2",
+          "text": "He comes back every summer."
+        },
+        {
+          "id": "o3",
+          "text": "He came back pale."
+        },
+        {
+          "id": "o4",
+          "text": "He will come back next year."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Came back = вернулся. Option 1 matches.",
+      "mistakeTags": [
+        "hotel",
+        "past_simple_irregular"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_02_past_simple_irregular/t2_11.mp3"
+    },
+    {
+      "id": "t2_12",
+      "audioText": "She wrote me a long message yesterday. She told everything about her new job. She sent it at 2 a.m.",
+      "transcript": "She sent it at 2 a.m.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She sent the message at two in the morning."
+        },
+        {
+          "id": "o2",
+          "text": "She sends messages every night."
+        },
+        {
+          "id": "o3",
+          "text": "She sent it in the morning."
+        },
+        {
+          "id": "o4",
+          "text": "She didn’t send anything."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Sent = отправила. Option 1 is correct.",
+      "mistakeTags": [
+        "phone",
+        "past_simple_irregular"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_02_past_simple_irregular/t2_12.mp3"
+    },
+    {
+      "id": "t2_13",
+      "audioText": "During the concert the singer sang all his hits. The crowd went crazy. They stood for three hours.",
+      "transcript": "They stood for three hours.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The audience stood the whole concert."
+        },
+        {
+          "id": "o2",
+          "text": "They stand at every concert."
+        },
+        {
+          "id": "o3",
+          "text": "They sat the whole time."
+        },
+        {
+          "id": "o4",
+          "text": "They stood only ten minutes."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Stood = стояли. Option 1 is right.",
+      "mistakeTags": [
+        "concert",
+        "past_simple_irregular"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_02_past_simple_irregular/t2_13.mp3"
+    },
+    {
+      "id": "t2_14",
+      "audioText": "Last month I won 500 euros in the lottery. I spent everything in one weekend. I spent it on clothes and restaurants.",
+      "transcript": "I spent it on clothes and restaurants.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "I used all the money on shopping and food."
+        },
+        {
+          "id": "o2",
+          "text": "I spend money every weekend."
+        },
+        {
+          "id": "o3",
+          "text": "I saved the money."
+        },
+        {
+          "id": "o4",
+          "text": "I lost the money."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Spent = потратил. Option 1 matches perfectly.",
+      "mistakeTags": [
+        "money",
+        "past_simple_irregular"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_02_past_simple_irregular/t2_14.mp3"
+    },
+    {
+      "id": "t2_15",
+      "audioText": "When I was a child I thought monsters lived under my bed. I always hid under the blanket. I never slept without light.",
+      "transcript": "I never slept without light.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "I always needed the light on to sleep."
+        },
+        {
+          "id": "o2",
+          "text": "I sleep without light now."
+        },
+        {
+          "id": "o3",
+          "text": "I slept with light off."
+        },
+        {
+          "id": "o4",
+          "text": "I will sleep without light."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Never slept without light = всегда спал со светом. Option 1 is correct.",
+      "mistakeTags": [
+        "childhood",
+        "past_simple_irregular"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_02_past_simple_irregular/t2_15.mp3"
+    }
+  ],
+  "short_description": "Past Simple — неправильные глаголы на слух"
+}

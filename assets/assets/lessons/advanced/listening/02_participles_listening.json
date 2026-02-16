@@ -1,0 +1,461 @@
+{
+  "id": "advanced_listening_02_participles",
+  "title": "Participles",
+  "description": "Слушайте причастные обороты и определяйте их значение.",
+  "order": 2,
+  "level": "advanced",
+  "imageUrl": "assets/images/lessons/participles.png",
+  "tasks": [
+    {
+      "id": "t2_01",
+      "audioText": "The journalist was reporting from the scene of the accident. Walking through the wreckage, she noticed a piece of evidence that investigators had overlooked.",
+      "transcript": "Walking through the wreckage, she noticed a piece of evidence that investigators had overlooked.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "While she was walking through the debris, she found something the investigators missed."
+        },
+        {
+          "id": "o2",
+          "text": "The investigators found the evidence before the journalist arrived."
+        },
+        {
+          "id": "o3",
+          "text": "She was walking away from the wreckage when investigators arrived."
+        },
+        {
+          "id": "o4",
+          "text": "The journalist refused to walk through the accident scene."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Walking through the wreckage' is a present participle clause showing simultaneous action — she was walking and noticed evidence.",
+      "mistakeTags": [
+        "participles",
+        "present_participle"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_02_participles/t2_01.mp3"
+    },
+    {
+      "id": "t2_02",
+      "audioText": "The museum had a remarkable collection of art. The painting stolen from the gallery in 1990 was finally recovered during a police raid last month.",
+      "transcript": "The painting stolen from the gallery in 1990 was finally recovered during a police raid last month.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The police stole a painting from the gallery in 1990."
+        },
+        {
+          "id": "o2",
+          "text": "A painting that had been taken from the gallery in 1990 was found again in a recent raid."
+        },
+        {
+          "id": "o3",
+          "text": "The gallery recovered the painting before the police raid."
+        },
+        {
+          "id": "o4",
+          "text": "The painting was stolen during the police raid last month."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Stolen from the gallery' is a past participle acting as a reduced relative clause modifying 'the painting'.",
+      "mistakeTags": [
+        "participles",
+        "past_participle"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_02_participles/t2_02.mp3"
+    },
+    {
+      "id": "t2_03",
+      "audioText": "The architect presented her final design to the committee. Having considered all the structural constraints, she proposed an innovative solution using sustainable materials.",
+      "transcript": "Having considered all the structural constraints, she proposed an innovative solution using sustainable materials.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She proposed the solution before considering the structural limitations."
+        },
+        {
+          "id": "o2",
+          "text": "After taking all structural limitations into account, she suggested a creative eco-friendly design."
+        },
+        {
+          "id": "o3",
+          "text": "The committee proposed the innovative solution to the architect."
+        },
+        {
+          "id": "o4",
+          "text": "She rejected sustainable materials due to structural constraints."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Having considered' is a perfect participle indicating a completed action before the main clause. She thought first, then proposed.",
+      "mistakeTags": [
+        "participles",
+        "perfect_participle"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_02_participles/t2_03.mp3"
+    },
+    {
+      "id": "t2_04",
+      "audioText": "The rescue operation was complex and dangerous. Exhausted by the twelve-hour search, the firefighters finally located the missing hikers near the summit.",
+      "transcript": "Exhausted by the twelve-hour search, the firefighters finally located the missing hikers near the summit.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The hikers were exhausted after searching for the firefighters."
+        },
+        {
+          "id": "o2",
+          "text": "The firefighters gave up the search after twelve hours."
+        },
+        {
+          "id": "o3",
+          "text": "Although worn out from searching for twelve hours, the firefighters found the lost hikers close to the top."
+        },
+        {
+          "id": "o4",
+          "text": "The missing hikers located the firefighters near the summit."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Exhausted by' is a past participle clause describing the firefighters' state while they completed the rescue.",
+      "mistakeTags": [
+        "participles",
+        "past_participle"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_02_participles/t2_04.mp3"
+    },
+    {
+      "id": "t2_05",
+      "audioText": "The entrepreneur gave an inspiring keynote speech. Speaking from personal experience, he encouraged young founders to embrace failure as a stepping stone to success.",
+      "transcript": "Speaking from personal experience, he encouraged young founders to embrace failure as a stepping stone to success.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Drawing on his own life lessons, he urged new entrepreneurs to view setbacks as opportunities for growth."
+        },
+        {
+          "id": "o2",
+          "text": "The young founders spoke about their personal experiences with failure."
+        },
+        {
+          "id": "o3",
+          "text": "He warned young founders that failure would destroy their businesses."
+        },
+        {
+          "id": "o4",
+          "text": "Someone else's experience was the basis for his speech."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Speaking from personal experience' is a present participle clause indicating the manner in which he delivered his advice.",
+      "mistakeTags": [
+        "participles",
+        "present_participle"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_02_participles/t2_05.mp3"
+    },
+    {
+      "id": "t2_06",
+      "audioText": "The company was preparing for its annual audit. The documents submitted by the finance department contained several discrepancies that required immediate attention.",
+      "transcript": "The documents submitted by the finance department contained several discrepancies that required immediate attention.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The finance department's paperwork had no errors whatsoever."
+        },
+        {
+          "id": "o2",
+          "text": "The audit revealed that the finance team's documents had inconsistencies needing urgent review."
+        },
+        {
+          "id": "o3",
+          "text": "The documents were submitted after the discrepancies were resolved."
+        },
+        {
+          "id": "o4",
+          "text": "The company submitted documents to the finance department."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Submitted by the finance department' is a past participle phrase modifying 'documents'. The errors needed quick resolution.",
+      "mistakeTags": [
+        "participles",
+        "past_participle"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_02_participles/t2_06.mp3"
+    },
+    {
+      "id": "t2_07",
+      "audioText": "The detective reviewed the crime scene meticulously. Not having found any fingerprints, she concluded that the burglar had worn gloves throughout the entire operation.",
+      "transcript": "Not having found any fingerprints, she concluded that the burglar had worn gloves throughout the entire operation.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The detective found fingerprints at the crime scene."
+        },
+        {
+          "id": "o2",
+          "text": "Because no fingerprints were discovered, the detective determined the thief had used gloves the whole time."
+        },
+        {
+          "id": "o3",
+          "text": "The burglar left gloves at the crime scene."
+        },
+        {
+          "id": "o4",
+          "text": "The detective wore gloves while examining the crime scene."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Not having found' is a negative perfect participle showing that the absence of fingerprints led to her conclusion about gloves.",
+      "mistakeTags": [
+        "participles",
+        "perfect_participle"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_02_participles/t2_07.mp3"
+    },
+    {
+      "id": "t2_08",
+      "audioText": "The university organised a welcome event for international students. Surrounded by unfamiliar faces, the exchange student from Brazil felt overwhelmed but determined to make friends.",
+      "transcript": "Surrounded by unfamiliar faces, the exchange student from Brazil felt overwhelmed but determined to make friends.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The Brazilian student knew everyone at the welcome event."
+        },
+        {
+          "id": "o2",
+          "text": "Being among strangers, the Brazilian exchange student was anxious yet resolved to socialise."
+        },
+        {
+          "id": "o3",
+          "text": "The exchange student left the event because she felt overwhelmed."
+        },
+        {
+          "id": "o4",
+          "text": "Familiar faces surrounded the exchange student at the event."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Surrounded by unfamiliar faces' is a past participle clause describing the student's situation, followed by mixed emotions.",
+      "mistakeTags": [
+        "participles",
+        "past_participle"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_02_participles/t2_08.mp3"
+    },
+    {
+      "id": "t2_09",
+      "audioText": "The environmental report was presented to parliament. Containing alarming data about deforestation rates, the report prompted the government to announce emergency conservation measures.",
+      "transcript": "Containing alarming data about deforestation rates, the report prompted the government to announce emergency conservation measures.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The government announced conservation measures before seeing the report."
+        },
+        {
+          "id": "o2",
+          "text": "The report showed positive trends in forest preservation."
+        },
+        {
+          "id": "o3",
+          "text": "Because the report included disturbing deforestation statistics, the government declared urgent conservation actions."
+        },
+        {
+          "id": "o4",
+          "text": "Parliament rejected the environmental report entirely."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Containing alarming data' is a present participle clause giving the reason why the government reacted with emergency measures.",
+      "mistakeTags": [
+        "participles",
+        "present_participle"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_02_participles/t2_09.mp3"
+    },
+    {
+      "id": "t2_10",
+      "audioText": "The surgeon had a long day in the operating theatre. Having performed three complex surgeries back to back, Dr. Williams decided to postpone the remaining consultations until the following morning.",
+      "transcript": "Having performed three complex surgeries back to back, Dr. Williams decided to postpone the remaining consultations until the following morning.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Dr. Williams completed all consultations before the surgeries."
+        },
+        {
+          "id": "o2",
+          "text": "After completing three consecutive difficult operations, the doctor chose to delay further appointments to the next day."
+        },
+        {
+          "id": "o3",
+          "text": "Dr. Williams cancelled all surgeries due to exhaustion."
+        },
+        {
+          "id": "o4",
+          "text": "The remaining consultations were performed that same evening."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Having performed' is a perfect participle showing completed action before the decision to postpone.",
+      "mistakeTags": [
+        "participles",
+        "perfect_participle"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_02_participles/t2_10.mp3"
+    },
+    {
+      "id": "t2_11",
+      "audioText": "The negotiations between the two companies were tense. Realising that neither side would compromise, the mediator suggested a forty-eight-hour cooling-off period.",
+      "transcript": "Realising that neither side would compromise, the mediator suggested a forty-eight-hour cooling-off period.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Both sides quickly reached a compromise during the negotiations."
+        },
+        {
+          "id": "o2",
+          "text": "The mediator refused to intervene in the tense negotiations."
+        },
+        {
+          "id": "o3",
+          "text": "When the mediator understood that no agreement was possible, she recommended a two-day break."
+        },
+        {
+          "id": "o4",
+          "text": "The companies suggested the cooling-off period to the mediator."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Realising that neither side would compromise' is a present participle clause showing the mediator's reasoning behind the suggestion.",
+      "mistakeTags": [
+        "participles",
+        "present_participle"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_02_participles/t2_11.mp3"
+    },
+    {
+      "id": "t2_12",
+      "audioText": "The concert was a major cultural event in the city. Written by a relatively unknown composer, the symphony received a standing ovation from the audience at its premiere.",
+      "transcript": "Written by a relatively unknown composer, the symphony received a standing ovation from the audience at its premiere.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "A famous composer wrote the symphony that received a standing ovation."
+        },
+        {
+          "id": "o2",
+          "text": "The audience disliked the symphony at its first performance."
+        },
+        {
+          "id": "o3",
+          "text": "Although composed by a little-known musician, the piece earned enthusiastic applause at its debut."
+        },
+        {
+          "id": "o4",
+          "text": "The symphony had been performed many times before this concert."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Written by a relatively unknown composer' is a past participle clause contrasting the composer's obscurity with the symphony's success.",
+      "mistakeTags": [
+        "participles",
+        "past_participle"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_02_participles/t2_12.mp3"
+    },
+    {
+      "id": "t2_13",
+      "audioText": "The climate scientist presented her findings at the conference. Analysing decades of satellite imagery, the research team discovered that glacial retreat had accelerated far beyond initial projections.",
+      "transcript": "Analysing decades of satellite imagery, the research team discovered that glacial retreat had accelerated far beyond initial projections.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "By studying years of satellite data, the researchers found that glaciers were melting much faster than originally predicted."
+        },
+        {
+          "id": "o2",
+          "text": "The satellite imagery showed that glaciers were growing unexpectedly."
+        },
+        {
+          "id": "o3",
+          "text": "The research team refused to analyse satellite imagery."
+        },
+        {
+          "id": "o4",
+          "text": "Glacial retreat matched the initial projections exactly."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Analysing decades of satellite imagery' is a present participle clause describing the method that led to the alarming discovery.",
+      "mistakeTags": [
+        "participles",
+        "present_participle"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_02_participles/t2_13.mp3"
+    },
+    {
+      "id": "t2_14",
+      "audioText": "The old mansion had been abandoned for years. Covered in thick ivy and surrounded by overgrown gardens, the estate still retained a haunting beauty that attracted photographers.",
+      "transcript": "Covered in thick ivy and surrounded by overgrown gardens, the estate still retained a haunting beauty that attracted photographers.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The estate was well-maintained with neatly trimmed gardens."
+        },
+        {
+          "id": "o2",
+          "text": "Photographers avoided the abandoned mansion completely."
+        },
+        {
+          "id": "o3",
+          "text": "Despite being overgrown with ivy and wild gardens, the property maintained an eerie charm that drew photographers."
+        },
+        {
+          "id": "o4",
+          "text": "The thick ivy and gardens were recently planted around the mansion."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Covered... and surrounded...' are two past participle clauses describing the estate's neglected yet beautiful appearance.",
+      "mistakeTags": [
+        "participles",
+        "past_participle"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_02_participles/t2_14.mp3"
+    },
+    {
+      "id": "t2_15",
+      "audioText": "The startup held an all-hands meeting to discuss strategy. Having secured a major investment from a Silicon Valley venture capital firm, the CEO announced plans to expand into three new international markets.",
+      "transcript": "Having secured a major investment from a Silicon Valley venture capital firm, the CEO announced plans to expand into three new international markets.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The CEO announced expansion plans before receiving any investment."
+        },
+        {
+          "id": "o2",
+          "text": "The startup was planning to exit international markets entirely."
+        },
+        {
+          "id": "o3",
+          "text": "After obtaining significant funding from a Silicon Valley firm, the CEO revealed international expansion into three markets."
+        },
+        {
+          "id": "o4",
+          "text": "The venture capital firm announced its own expansion plans."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Having secured' is a perfect participle showing the investment was obtained before the expansion announcement was made.",
+      "mistakeTags": [
+        "participles",
+        "perfect_participle"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_02_participles/t2_15.mp3"
+    }
+  ],
+  "short_description": "Причастные обороты: настоящие, прошедшие и перфектные."
+}

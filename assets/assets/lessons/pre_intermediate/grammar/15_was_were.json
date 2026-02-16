@@ -1,0 +1,1323 @@
+{
+  "id": "pre_15_was_were",
+  "title": "Past Simple: Was / Were",
+  "description": "Прошедшее время глагола to be: I was tired, They were happy. Первый шаг в прошедшее время.",
+  "order": 8,
+  "level": "pre_intermediate",
+  "imageUrl": "assets/images/lessons/was_were.png",
+  "vocabulary": [
+    {
+      "id": "v8_was",
+      "english": "was",
+      "russian": "был, была, было",
+      "partOfSpeech": "verb",
+      "example": "I was at home.",
+      "exampleTranslation": "Я был дома.",
+      "audioPath": "assets/audio/vocabulary/v8_was.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_was.mp3"
+    },
+    {
+      "id": "v8_were",
+      "english": "were",
+      "russian": "были",
+      "partOfSpeech": "verb",
+      "example": "They were happy.",
+      "exampleTranslation": "Они были счастливы.",
+      "audioPath": "assets/audio/vocabulary/v8_were.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_were.mp3"
+    },
+    {
+      "id": "v8_tired",
+      "english": "tired",
+      "russian": "уставший",
+      "partOfSpeech": "adjective",
+      "example": "I was tired.",
+      "exampleTranslation": "Я устал.",
+      "audioPath": "assets/audio/vocabulary/v8_tired.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_tired.mp3"
+    },
+    {
+      "id": "v8_happy",
+      "english": "happy",
+      "russian": "счастливый",
+      "partOfSpeech": "adjective",
+      "example": "She was happy.",
+      "exampleTranslation": "Она была счастлива.",
+      "audioPath": "assets/audio/vocabulary/v8_happy.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_happy.mp3"
+    },
+    {
+      "id": "v8_hungry",
+      "english": "hungry",
+      "russian": "голодный",
+      "partOfSpeech": "adjective",
+      "example": "We were hungry.",
+      "exampleTranslation": "Мы были голодны.",
+      "audioPath": "assets/audio/vocabulary/v8_hungry.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_hungry.mp3"
+    },
+    {
+      "id": "v8_late",
+      "english": "late",
+      "russian": "поздний, опоздавший",
+      "partOfSpeech": "adjective",
+      "example": "He was late.",
+      "exampleTranslation": "Он опоздал.",
+      "audioPath": "assets/audio/vocabulary/v8_late.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_late.mp3"
+    },
+    {
+      "id": "v8_ready",
+      "english": "ready",
+      "russian": "готовый",
+      "partOfSpeech": "adjective",
+      "example": "We were ready.",
+      "exampleTranslation": "Мы были готовы.",
+      "audioPath": "assets/audio/vocabulary/v8_ready.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_ready.mp3"
+    },
+    {
+      "id": "v8_busy",
+      "english": "busy",
+      "russian": "занятой",
+      "partOfSpeech": "adjective",
+      "example": "She was busy.",
+      "exampleTranslation": "Она была занята.",
+      "audioPath": "assets/audio/vocabulary/v8_busy.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_busy.mp3"
+    },
+    {
+      "id": "v8_cold",
+      "english": "cold",
+      "russian": "холодный, холодно",
+      "partOfSpeech": "adjective",
+      "example": "It was cold.",
+      "exampleTranslation": "Было холодно.",
+      "audioPath": "assets/audio/vocabulary/v8_cold.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_cold.mp3"
+    },
+    {
+      "id": "v8_warm",
+      "english": "warm",
+      "russian": "тёплый",
+      "partOfSpeech": "adjective",
+      "example": "It was warm.",
+      "exampleTranslation": "Было тепло.",
+      "audioPath": "assets/audio/vocabulary/v8_warm.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_warm.mp3"
+    },
+    {
+      "id": "v8_yesterday",
+      "english": "yesterday",
+      "russian": "вчера",
+      "partOfSpeech": "adverb",
+      "example": "I was home yesterday.",
+      "exampleTranslation": "Я был дома вчера.",
+      "audioPath": "assets/audio/vocabulary/v8_yesterday.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_yesterday.mp3"
+    },
+    {
+      "id": "v8_angry",
+      "english": "angry",
+      "russian": "злой, сердитый",
+      "partOfSpeech": "adjective",
+      "example": "He was angry.",
+      "exampleTranslation": "Он был зол.",
+      "audioPath": "assets/audio/vocabulary/v8_angry.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_angry.mp3"
+    },
+    {
+      "id": "v8_sick",
+      "english": "sick",
+      "russian": "больной",
+      "partOfSpeech": "adjective",
+      "example": "She was sick.",
+      "exampleTranslation": "Она была больна.",
+      "audioPath": "assets/audio/vocabulary/v8_sick.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_sick.mp3"
+    },
+    {
+      "id": "v8_afraid",
+      "english": "afraid",
+      "russian": "испуганный",
+      "partOfSpeech": "adjective",
+      "example": "I was afraid.",
+      "exampleTranslation": "Я боялся.",
+      "audioPath": "assets/audio/vocabulary/v8_afraid.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_afraid.mp3"
+    },
+    {
+      "id": "v8_right",
+      "english": "right",
+      "russian": "правый, правильный",
+      "partOfSpeech": "adjective",
+      "example": "You were right.",
+      "exampleTranslation": "Ты был прав.",
+      "audioPath": "assets/audio/vocabulary/v8_right.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_right.mp3"
+    },
+    {
+      "id": "v8_wrong",
+      "english": "wrong",
+      "russian": "неправый, неправильный",
+      "partOfSpeech": "adjective",
+      "example": "I was wrong.",
+      "exampleTranslation": "Я был неправ.",
+      "audioPath": "assets/audio/vocabulary/v8_wrong.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_wrong.mp3"
+    },
+    {
+      "id": "v8_alone",
+      "english": "alone",
+      "russian": "один, одинокий",
+      "partOfSpeech": "adjective",
+      "example": "She was alone.",
+      "exampleTranslation": "Она была одна.",
+      "audioPath": "assets/audio/vocabulary/v8_alone.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_alone.mp3"
+    },
+    {
+      "id": "v8_together",
+      "english": "together",
+      "russian": "вместе",
+      "partOfSpeech": "adverb",
+      "example": "We were together.",
+      "exampleTranslation": "Мы были вместе.",
+      "audioPath": "assets/audio/vocabulary/v8_together.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_together.mp3"
+    },
+    {
+      "id": "v8_ago",
+      "english": "ago",
+      "russian": "назад (о времени)",
+      "partOfSpeech": "adverb",
+      "example": "It was two days ago.",
+      "exampleTranslation": "Это было два дня назад.",
+      "audioPath": "assets/audio/vocabulary/v8_ago.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_ago.mp3"
+    },
+    {
+      "id": "v8_last",
+      "english": "last",
+      "russian": "прошлый, последний",
+      "partOfSpeech": "adjective",
+      "example": "It was last week.",
+      "exampleTranslation": "Это было на прошлой неделе.",
+      "audioPath": "assets/audio/vocabulary/v8_last.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_last.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "Past Simple: Was / Were",
+    "subtitle": "Глагол «быть» в прошедшем времени. Без него нельзя описать, что было вчера, на прошлой неделе или год назад.",
+    "construction": {
+      "formula": "Кто + was/were + ...",
+      "rules": [
+        {
+          "word": "I / He / She / It",
+          "description": "Используем WAS: I was tired. She was happy."
+        },
+        {
+          "word": "You / We / They",
+          "description": "Используем WERE: You were right. They were at home."
+        },
+        {
+          "word": "Отрицание (No)",
+          "description": "was not (wasn't), were not (weren't): I wasn't late."
+        },
+        {
+          "word": "Вопрос (?)",
+          "description": "Was/Were + подлежащее: Was she happy? Were they home?"
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "schedule",
+        "color": "blue",
+        "title": "Состояние в прошлом",
+        "description": "Описываем, каким кто-то или что-то было раньше.",
+        "example": {
+          "english": "I was tired yesterday.",
+          "russian": "Я устал вчера."
+        }
+      },
+      {
+        "icon": "explore",
+        "color": "purple",
+        "title": "Место в прошлом",
+        "description": "Говорим, где кто-то находился.",
+        "example": {
+          "english": "We were at home.",
+          "russian": "Мы были дома."
+        }
+      },
+      {
+        "icon": "visibility",
+        "color": "orange",
+        "title": "Факты о прошлом",
+        "description": "Описываем факты и ситуации, которые уже прошли.",
+        "example": {
+          "english": "It was cold last night.",
+          "russian": "Вчера вечером было холодно."
+        }
+      }
+    ],
+    "markers": [
+      "yesterday",
+      "last week",
+      "last month",
+      "ago",
+      "last night",
+      "in 2020"
+    ]
+  },
+  "tasks": [
+    {
+      "id": "t8_1",
+      "type": "sentenceAssembly",
+      "question": "Я устал",
+      "correctAnswer": "I was tired",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "We",
+          "Me"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "am"
+        ],
+        [
+          "tired",
+          "tired.",
+          "happy",
+          "busy"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_15_was_were/000.mp3"
+    },
+    {
+      "id": "t8_2",
+      "type": "sentenceAssembly",
+      "question": "Она была счастлива",
+      "correctAnswer": "She was happy",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "They",
+          "Her"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "been"
+        ],
+        [
+          "happy",
+          "hungry",
+          "angry",
+          "tired"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_15_was_were/001.mp3"
+    },
+    {
+      "id": "t8_3",
+      "type": "sentenceAssembly",
+      "question": "Они были дома",
+      "correctAnswer": "They were home",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "We",
+          "He",
+          "Them"
+        ],
+        [
+          "were",
+          "was",
+          "are",
+          "is"
+        ],
+        [
+          "home",
+          "house",
+          "room",
+          "here"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_15_was_were/002.mp3"
+    },
+    {
+      "id": "t8_4",
+      "type": "sentenceAssembly",
+      "question": "Он опоздал",
+      "correctAnswer": "He was late",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "They",
+          "Him"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "been"
+        ],
+        [
+          "late",
+          "early",
+          "tired",
+          "busy"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_15_was_were/003.mp3"
+    },
+    {
+      "id": "t8_5",
+      "type": "sentenceAssembly",
+      "question": "Мы были готовы",
+      "correctAnswer": "We were ready",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "I",
+          "Us"
+        ],
+        [
+          "were",
+          "was",
+          "are",
+          "is"
+        ],
+        [
+          "ready",
+          "busy",
+          "late",
+          "tired"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_15_was_were/004.mp3"
+    },
+    {
+      "id": "t8_6",
+      "type": "sentenceAssembly",
+      "question": "Было холодно",
+      "correctAnswer": "It was cold",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "He",
+          "They",
+          "She"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "been"
+        ],
+        [
+          "cold",
+          "warm",
+          "hot",
+          "cool"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_15_was_were/005.mp3"
+    },
+    {
+      "id": "t8_7",
+      "type": "sentenceAssembly",
+      "question": "Ты был прав",
+      "correctAnswer": "You were right",
+      "options": [],
+      "variants": [
+        [
+          "You",
+          "He",
+          "I",
+          "We"
+        ],
+        [
+          "were",
+          "was",
+          "are",
+          "is"
+        ],
+        [
+          "right",
+          "wrong",
+          "good",
+          "late"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_15_was_were/006.mp3"
+    },
+    {
+      "id": "t8_8",
+      "type": "sentenceAssembly",
+      "question": "Она была занята",
+      "correctAnswer": "She was busy",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "They",
+          "Her"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "been"
+        ],
+        [
+          "busy",
+          "free",
+          "ready",
+          "late"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_15_was_were/007.mp3"
+    },
+    {
+      "id": "t8_9",
+      "type": "sentenceAssembly",
+      "question": "Я был дома",
+      "correctAnswer": "I was home",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "We",
+          "Me"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "am"
+        ],
+        [
+          "home",
+          "house",
+          "here",
+          "there"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_15_was_were/008.mp3"
+    },
+    {
+      "id": "t8_10",
+      "type": "sentenceAssembly",
+      "question": "Они были голодны",
+      "correctAnswer": "They were hungry",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "We",
+          "He",
+          "Them"
+        ],
+        [
+          "were",
+          "was",
+          "are",
+          "is"
+        ],
+        [
+          "hungry",
+          "thirsty",
+          "tired",
+          "angry"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_15_was_were/009.mp3"
+    },
+    {
+      "id": "t8_11",
+      "type": "sentenceAssembly",
+      "question": "Он был болен вчера",
+      "correctAnswer": "He was sick yesterday",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "They",
+          "Him"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "been"
+        ],
+        [
+          "sick",
+          "tired",
+          "busy",
+          "angry"
+        ],
+        [
+          "yesterday",
+          "today",
+          "always",
+          "ago"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_15_was_were/010.mp3"
+    },
+    {
+      "id": "t8_12",
+      "type": "sentenceAssembly",
+      "question": "Мы были вместе",
+      "correctAnswer": "We were together",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "I",
+          "Us"
+        ],
+        [
+          "were",
+          "was",
+          "are",
+          "is"
+        ],
+        [
+          "together",
+          "alone",
+          "home",
+          "here"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_15_was_were/011.mp3"
+    },
+    {
+      "id": "t8_13",
+      "type": "sentenceAssembly",
+      "question": "Было тепло вчера",
+      "correctAnswer": "It was warm yesterday",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "He",
+          "They",
+          "She"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "been"
+        ],
+        [
+          "warm",
+          "cold",
+          "hot",
+          "cool"
+        ],
+        [
+          "yesterday",
+          "today",
+          "always",
+          "now"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_15_was_were/012.mp3"
+    },
+    {
+      "id": "t8_14",
+      "type": "sentenceAssembly",
+      "question": "Она была одна",
+      "correctAnswer": "She was alone",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "They",
+          "Her"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "been"
+        ],
+        [
+          "alone",
+          "together",
+          "home",
+          "here"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_15_was_were/013.mp3"
+    },
+    {
+      "id": "t8_15",
+      "type": "sentenceAssembly",
+      "question": "Я был неправ",
+      "correctAnswer": "I was wrong",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "We",
+          "Me"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "am"
+        ],
+        [
+          "wrong",
+          "right",
+          "bad",
+          "good"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_15_was_were/014.mp3"
+    },
+    {
+      "id": "t8_16",
+      "type": "sentenceAssembly",
+      "question": "Они были злые",
+      "correctAnswer": "They were angry",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "We",
+          "He",
+          "Them"
+        ],
+        [
+          "were",
+          "was",
+          "are",
+          "is"
+        ],
+        [
+          "angry",
+          "happy",
+          "tired",
+          "sad"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_15_was_were/015.mp3"
+    },
+    {
+      "id": "t8_17",
+      "type": "sentenceAssembly",
+      "question": "Он был напуган",
+      "correctAnswer": "He was afraid",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "They",
+          "Him"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "been"
+        ],
+        [
+          "afraid",
+          "angry",
+          "happy",
+          "tired"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_15_was_were/016.mp3"
+    },
+    {
+      "id": "t8_18",
+      "type": "sentenceAssembly",
+      "question": "Вы были на работе",
+      "correctAnswer": "You were at work",
+      "options": [],
+      "variants": [
+        [
+          "You",
+          "He",
+          "I",
+          "She"
+        ],
+        [
+          "were",
+          "was",
+          "are",
+          "is"
+        ],
+        [
+          "at",
+          "in",
+          "on",
+          "to"
+        ],
+        [
+          "work",
+          "home",
+          "school",
+          "park"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_15_was_were/017.mp3"
+    },
+    {
+      "id": "t8_19",
+      "type": "sentenceAssembly",
+      "question": "Это было на прошлой неделе",
+      "correctAnswer": "It was last week",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "He",
+          "They",
+          "She"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "been"
+        ],
+        [
+          "last",
+          "this",
+          "next",
+          "every"
+        ],
+        [
+          "week",
+          "day",
+          "month",
+          "year"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_15_was_were/018.mp3"
+    },
+    {
+      "id": "t8_20",
+      "type": "sentenceAssembly",
+      "question": "Мы были в школе",
+      "correctAnswer": "We were at school",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "I",
+          "Us"
+        ],
+        [
+          "were",
+          "was",
+          "are",
+          "is"
+        ],
+        [
+          "at",
+          "in",
+          "on",
+          "to"
+        ],
+        [
+          "school",
+          "work",
+          "home",
+          "park"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_15_was_were/019.mp3"
+    },
+    {
+      "id": "t8_21",
+      "type": "sentenceAssembly",
+      "question": "Она не была дома",
+      "correctAnswer": "She was not home",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "They",
+          "Her"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "been"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "none"
+        ],
+        [
+          "home",
+          "here",
+          "there",
+          "alone"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_15_was_were/020.mp3"
+    },
+    {
+      "id": "t8_22",
+      "type": "sentenceAssembly",
+      "question": "Они не были готовы",
+      "correctAnswer": "They were not ready",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "We",
+          "He",
+          "Them"
+        ],
+        [
+          "were",
+          "was",
+          "are",
+          "is"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "none"
+        ],
+        [
+          "ready",
+          "busy",
+          "late",
+          "tired"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_15_was_were/021.mp3"
+    },
+    {
+      "id": "t8_23",
+      "type": "sentenceAssembly",
+      "question": "Я не был голоден",
+      "correctAnswer": "I was not hungry",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "We",
+          "Me"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "am"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "none"
+        ],
+        [
+          "hungry",
+          "thirsty",
+          "tired",
+          "angry"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_15_was_were/022.mp3"
+    },
+    {
+      "id": "t8_24",
+      "type": "sentenceAssembly",
+      "question": "Он был дома?",
+      "correctAnswer": "Was he home",
+      "options": [],
+      "variants": [
+        [
+          "Was",
+          "Were",
+          "Is",
+          "Did"
+        ],
+        [
+          "he",
+          "she",
+          "they",
+          "we"
+        ],
+        [
+          "home",
+          "here",
+          "there",
+          "alone"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_15_was_were/023.mp3"
+    },
+    {
+      "id": "t8_25",
+      "type": "sentenceAssembly",
+      "question": "Они были счастливы?",
+      "correctAnswer": "Were they happy",
+      "options": [],
+      "variants": [
+        [
+          "Were",
+          "Was",
+          "Are",
+          "Did"
+        ],
+        [
+          "they",
+          "he",
+          "she",
+          "we"
+        ],
+        [
+          "happy",
+          "tired",
+          "busy",
+          "angry"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_15_was_were/024.mp3"
+    },
+    {
+      "id": "t8_26",
+      "type": "sentenceAssembly",
+      "question": "Было холодно вчера?",
+      "correctAnswer": "Was it cold yesterday",
+      "options": [],
+      "variants": [
+        [
+          "Was",
+          "Were",
+          "Is",
+          "Did"
+        ],
+        [
+          "it",
+          "he",
+          "they",
+          "she"
+        ],
+        [
+          "cold",
+          "warm",
+          "hot",
+          "cool"
+        ],
+        [
+          "yesterday",
+          "today",
+          "always",
+          "now"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_15_was_were/025.mp3"
+    },
+    {
+      "id": "t8_27",
+      "type": "sentenceAssembly",
+      "question": "Ты был занят?",
+      "correctAnswer": "Were you busy",
+      "options": [],
+      "variants": [
+        [
+          "Were",
+          "Was",
+          "Are",
+          "Did"
+        ],
+        [
+          "you",
+          "he",
+          "she",
+          "they"
+        ],
+        [
+          "busy",
+          "free",
+          "ready",
+          "late"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_15_was_were/026.mp3"
+    },
+    {
+      "id": "t8_28",
+      "type": "sentenceAssembly",
+      "question": "Она не была злая",
+      "correctAnswer": "She was not angry",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "They",
+          "Her"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "been"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "none"
+        ],
+        [
+          "angry",
+          "happy",
+          "tired",
+          "sad"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_15_was_were/027.mp3"
+    },
+    {
+      "id": "t8_29",
+      "type": "sentenceAssembly",
+      "question": "Мы не были готовы?",
+      "correctAnswer": "Were we not ready",
+      "options": [],
+      "variants": [
+        [
+          "Were",
+          "Was",
+          "Are",
+          "Did"
+        ],
+        [
+          "we",
+          "they",
+          "he",
+          "she"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "none"
+        ],
+        [
+          "ready",
+          "busy",
+          "late",
+          "tired"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_15_was_were/028.mp3"
+    },
+    {
+      "id": "t8_30",
+      "type": "sentenceAssembly",
+      "question": "Он был на работе вчера?",
+      "correctAnswer": "Was he at work yesterday",
+      "options": [],
+      "variants": [
+        [
+          "Was",
+          "Were",
+          "Is",
+          "Did"
+        ],
+        [
+          "he",
+          "she",
+          "they",
+          "we"
+        ],
+        [
+          "at",
+          "in",
+          "on",
+          "to"
+        ],
+        [
+          "work",
+          "home",
+          "school",
+          "park"
+        ],
+        [
+          "yesterday",
+          "today",
+          "always",
+          "now"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_15_was_were/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionPreIntermediate8WasWere",
+  "theoryQuiz": [
+    {
+      "id": "tq_8_01",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"I ___ tired yesterday.\"",
+      "options": [
+        "were",
+        "was",
+        "is",
+        "am"
+      ],
+      "correctIndex": 1,
+      "explanation": "С I используем was: I was tired."
+    },
+    {
+      "id": "tq_8_02",
+      "type": "multipleChoice",
+      "question": "Какую форму to be в прошедшем времени используем с They?",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "are"
+      ],
+      "correctIndex": 1,
+      "explanation": "С they, we, you используем were: They were happy."
+    },
+    {
+      "id": "tq_8_03",
+      "type": "trueFalse",
+      "question": "\"She were at home.\" — предложение составлено правильно.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "С she используем was: She was at home."
+    },
+    {
+      "id": "tq_8_04",
+      "type": "multipleChoice",
+      "question": "Как сделать вопрос с was/were?",
+      "options": [
+        "Do + was + подлежащее",
+        "Was/Were + подлежащее",
+        "Подлежащее + was/were",
+        "Did + was + подлежащее"
+      ],
+      "correctIndex": 1,
+      "explanation": "Для вопроса ставим was/were перед подлежащим: Was she happy?"
+    },
+    {
+      "id": "tq_8_05",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"We ___ not ready.\"",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "am"
+      ],
+      "correctIndex": 1,
+      "explanation": "С we используем were: We were not ready."
+    },
+    {
+      "id": "tq_8_06",
+      "type": "trueFalse",
+      "question": "\"It was cold yesterday.\" — предложение составлено правильно.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "С it используем was. Предложение верное: It was cold yesterday."
+    },
+    {
+      "id": "tq_8_07",
+      "type": "multipleChoice",
+      "question": "Какое слово-маркер указывает на прошедшее время?",
+      "options": [
+        "always",
+        "now",
+        "yesterday",
+        "every day"
+      ],
+      "correctIndex": 2,
+      "explanation": "Yesterday — маркер прошедшего времени. Always, now, every day — не обязательно."
+    },
+    {
+      "id": "tq_8_08",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"___ you at school?\"",
+      "options": [
+        "Was",
+        "Were",
+        "Is",
+        "Did"
+      ],
+      "correctIndex": 1,
+      "explanation": "С you используем were: Were you at school?"
+    },
+    {
+      "id": "tq_8_09",
+      "type": "trueFalse",
+      "question": "\"He was not angry.\" — отрицание составлено правильно.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Отрицание: was + not. He was not angry — верно."
+    },
+    {
+      "id": "tq_8_10",
+      "type": "multipleChoice",
+      "question": "Как правильно: «Они были вместе»?",
+      "options": [
+        "They was together.",
+        "They were together.",
+        "They is together.",
+        "Them were together."
+      ],
+      "correctIndex": 1,
+      "explanation": "С they используем were: They were together."
+    }
+  ]
+}

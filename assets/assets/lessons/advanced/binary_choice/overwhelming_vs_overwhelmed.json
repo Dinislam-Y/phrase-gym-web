@@ -1,0 +1,400 @@
+{
+  "id": "advanced_bc_02_participles",
+  "title": "Overwhelming vs Overwhelmed",
+  "description": "Overwhelming или Overwhelmed? Учимся различать причастия на -ing и -ed в сложных контекстах.",
+  "order": 2,
+  "level": "advanced",
+  "imageUrl": null,
+  "tasks": [
+    {
+      "id": "ovo_1",
+      "question": "The sheer volume of applications we received was ___.",
+      "optionA": "OVERWHELMING",
+      "optionB": "OVERWHELMED",
+      "correctIndex": 0,
+      "explanation": "-ING описывает источник эмоции. Количество заявок вызывает чувство — оно overwhelming.",
+      "tags": [
+        "overwhelming_vs_overwhelmed",
+        "overwhelming",
+        "participle"
+      ]
+    },
+    {
+      "id": "ovo_2",
+      "question": "She felt completely ___ by the complexity of the new role.",
+      "optionA": "OVERWHELMING",
+      "optionB": "OVERWHELMED",
+      "correctIndex": 1,
+      "explanation": "-ED описывает того, кто испытывает эмоцию. Она чувствует себя подавленной — overwhelmed.",
+      "tags": [
+        "overwhelming_vs_overwhelmed",
+        "overwhelmed",
+        "participle"
+      ]
+    },
+    {
+      "id": "ovo_3",
+      "question": "The support from the local community has been truly ___.",
+      "optionA": "OVERWHELMING",
+      "optionB": "OVERWHELMED",
+      "correctIndex": 0,
+      "explanation": "Поддержка — это источник эмоции, она поражает. Support is overwhelming (поражает, впечатляет).",
+      "tags": [
+        "overwhelming_vs_overwhelmed",
+        "overwhelming",
+        "participle"
+      ]
+    },
+    {
+      "id": "ovo_4",
+      "question": "The new employees looked ___ on their very first day.",
+      "optionA": "OVERWHELMING",
+      "optionB": "OVERWHELMED",
+      "correctIndex": 1,
+      "explanation": "Сотрудники испытывают эмоцию (растерянность). Они выглядели overwhelmed — подавленными.",
+      "tags": [
+        "overwhelming_vs_overwhelmed",
+        "overwhelmed",
+        "participle"
+      ]
+    },
+    {
+      "id": "ovo_5",
+      "question": "The evidence against the defendant was ___.",
+      "optionA": "OVERWHELMING",
+      "optionB": "OVERWHELMED",
+      "correctIndex": 0,
+      "explanation": "Доказательства — источник впечатления. Overwhelming evidence = неопровержимые, подавляющие доказательства.",
+      "tags": [
+        "overwhelming_vs_overwhelmed",
+        "overwhelming",
+        "collocation"
+      ]
+    },
+    {
+      "id": "ovo_6",
+      "question": "I was ___ with gratitude when I read their kind message.",
+      "optionA": "OVERWHELMING",
+      "optionB": "OVERWHELMED",
+      "correctIndex": 1,
+      "explanation": "Я испытывал эмоцию (благодарность). Overwhelmed with gratitude — переполнен благодарностью.",
+      "tags": [
+        "overwhelming_vs_overwhelmed",
+        "overwhelmed",
+        "collocation"
+      ]
+    },
+    {
+      "id": "ovo_7",
+      "question": "He won the election by an ___ majority of votes.",
+      "optionA": "OVERWHELMING",
+      "optionB": "OVERWHELMED",
+      "correctIndex": 0,
+      "explanation": "Overwhelming majority — устойчивое выражение: подавляющее большинство.",
+      "tags": [
+        "overwhelming_vs_overwhelmed",
+        "overwhelming",
+        "collocation"
+      ]
+    },
+    {
+      "id": "ovo_8",
+      "question": "The rescue team was ___ by the scale of the disaster.",
+      "optionA": "OVERWHELMING",
+      "optionB": "OVERWHELMED",
+      "correctIndex": 1,
+      "explanation": "Команда испытала эмоцию — масштаб бедствия их подавил. The team was overwhelmed.",
+      "tags": [
+        "overwhelming_vs_overwhelmed",
+        "overwhelmed",
+        "participle"
+      ]
+    },
+    {
+      "id": "ovo_9",
+      "question": "The smell of freshly baked bread was absolutely ___.",
+      "optionA": "OVERWHELMING",
+      "optionB": "OVERWHELMED",
+      "correctIndex": 0,
+      "explanation": "Запах — источник сильного впечатления. The smell was overwhelming = запах был оглушительный.",
+      "tags": [
+        "overwhelming_vs_overwhelmed",
+        "overwhelming",
+        "sensory"
+      ]
+    },
+    {
+      "id": "ovo_10",
+      "question": "She was ___ when she discovered she had won the scholarship.",
+      "optionA": "OVERWHELMING",
+      "optionB": "OVERWHELMED",
+      "correctIndex": 1,
+      "explanation": "Она испытала сильную эмоцию при получении новости. She was overwhelmed — была поражена.",
+      "tags": [
+        "overwhelming_vs_overwhelmed",
+        "overwhelmed",
+        "participle"
+      ]
+    },
+    {
+      "id": "ovo_11",
+      "question": "The task ahead of us seemed ___ at first glance.",
+      "optionA": "OVERWHELMING",
+      "optionB": "OVERWHELMED",
+      "correctIndex": 0,
+      "explanation": "Задача — источник чувства. The task seemed overwhelming = задача казалась непосильной.",
+      "tags": [
+        "overwhelming_vs_overwhelmed",
+        "overwhelming",
+        "participle"
+      ]
+    },
+    {
+      "id": "ovo_12",
+      "question": "He felt ___ and unable to make a decision under pressure.",
+      "optionA": "OVERWHELMING",
+      "optionB": "OVERWHELMED",
+      "correctIndex": 1,
+      "explanation": "Он испытывал эмоцию — чувствовал себя подавленным. He felt overwhelmed.",
+      "tags": [
+        "overwhelming_vs_overwhelmed",
+        "overwhelmed",
+        "participle"
+      ]
+    },
+    {
+      "id": "ovo_13",
+      "question": "The response to the charity appeal was ___.",
+      "optionA": "OVERWHELMING",
+      "optionB": "OVERWHELMED",
+      "correctIndex": 0,
+      "explanation": "Отклик — источник впечатления. The response was overwhelming = отклик был потрясающим.",
+      "tags": [
+        "overwhelming_vs_overwhelmed",
+        "overwhelming",
+        "participle"
+      ]
+    },
+    {
+      "id": "ovo_14",
+      "question": "The hospital staff were ___ by the sudden influx of patients.",
+      "optionA": "OVERWHELMING",
+      "optionB": "OVERWHELMED",
+      "correctIndex": 1,
+      "explanation": "Персонал испытал перегрузку. Staff were overwhelmed = персонал был перегружен.",
+      "tags": [
+        "overwhelming_vs_overwhelmed",
+        "overwhelmed",
+        "participle"
+      ]
+    },
+    {
+      "id": "ovo_15",
+      "question": "There is ___ scientific consensus on this particular issue.",
+      "optionA": "OVERWHELMING",
+      "optionB": "OVERWHELMED",
+      "correctIndex": 0,
+      "explanation": "Overwhelming consensus — устойчивое выражение: подавляющий консенсус. Консенсус — источник впечатления.",
+      "tags": [
+        "overwhelming_vs_overwhelmed",
+        "overwhelming",
+        "collocation"
+      ]
+    },
+    {
+      "id": "ovo_16",
+      "question": "The young artist was ___ by the positive reception of her work.",
+      "optionA": "OVERWHELMING",
+      "optionB": "OVERWHELMED",
+      "correctIndex": 1,
+      "explanation": "Художница испытала эмоцию от приёма. She was overwhelmed = была тронута/поражена.",
+      "tags": [
+        "overwhelming_vs_overwhelmed",
+        "overwhelmed",
+        "participle"
+      ]
+    },
+    {
+      "id": "ovo_17",
+      "question": "The ___ majority of respondents supported the proposed changes.",
+      "optionA": "OVERWHELMING",
+      "optionB": "OVERWHELMED",
+      "correctIndex": 0,
+      "explanation": "Overwhelming majority — устойчивое выражение: подавляющее большинство. -ING перед существительным.",
+      "tags": [
+        "overwhelming_vs_overwhelmed",
+        "overwhelming",
+        "collocation"
+      ]
+    },
+    {
+      "id": "ovo_18",
+      "question": "He appeared ___ and emotionally drained after the trial.",
+      "optionA": "OVERWHELMING",
+      "optionB": "OVERWHELMED",
+      "correctIndex": 1,
+      "explanation": "Он выглядел подавленным — испытывал эмоцию. He appeared overwhelmed.",
+      "tags": [
+        "overwhelming_vs_overwhelmed",
+        "overwhelmed",
+        "participle"
+      ]
+    },
+    {
+      "id": "ovo_19",
+      "question": "The beauty of the landscape was nothing short of ___.",
+      "optionA": "OVERWHELMING",
+      "optionB": "OVERWHELMED",
+      "correctIndex": 0,
+      "explanation": "Красота пейзажа — источник впечатления. The beauty was overwhelming = красота поражала.",
+      "tags": [
+        "overwhelming_vs_overwhelmed",
+        "overwhelming",
+        "sensory"
+      ]
+    },
+    {
+      "id": "ovo_20",
+      "question": "She seemed ___ by the sheer number of options available.",
+      "optionA": "OVERWHELMING",
+      "optionB": "OVERWHELMED",
+      "correctIndex": 1,
+      "explanation": "Она испытывала растерянность от количества вариантов. She seemed overwhelmed.",
+      "tags": [
+        "overwhelming_vs_overwhelmed",
+        "overwhelmed",
+        "participle"
+      ]
+    },
+    {
+      "id": "ovo_21",
+      "question": "The data presented an ___ case for regulatory reform.",
+      "optionA": "OVERWHELMING",
+      "optionB": "OVERWHELMED",
+      "correctIndex": 0,
+      "explanation": "An overwhelming case = неоспоримый, убедительный аргумент. Данные — источник убеждения, -ING.",
+      "tags": [
+        "overwhelming_vs_overwhelmed",
+        "overwhelming",
+        "formal"
+      ]
+    },
+    {
+      "id": "ovo_22",
+      "question": "Even seasoned professionals felt ___ by the project's demands.",
+      "optionA": "OVERWHELMING",
+      "optionB": "OVERWHELMED",
+      "correctIndex": 1,
+      "explanation": "Профессионалы чувствовали себя подавленными. Даже опытные люди — overwhelmed (испытывают эмоцию).",
+      "tags": [
+        "overwhelming_vs_overwhelmed",
+        "overwhelmed",
+        "participle"
+      ]
+    },
+    {
+      "id": "ovo_23",
+      "question": "The ___ demand for tickets crashed the website within minutes.",
+      "optionA": "OVERWHELMING",
+      "optionB": "OVERWHELMED",
+      "correctIndex": 0,
+      "explanation": "Overwhelming demand — устойчивое выражение: огромный, подавляющий спрос. Спрос — источник проблемы.",
+      "tags": [
+        "overwhelming_vs_overwhelmed",
+        "overwhelming",
+        "collocation"
+      ]
+    },
+    {
+      "id": "ovo_24",
+      "question": "The customer support team was ___ with complaints after the outage.",
+      "optionA": "OVERWHELMING",
+      "optionB": "OVERWHELMED",
+      "correctIndex": 1,
+      "explanation": "Команда была перегружена жалобами. Overwhelmed with = завалены, перегружены.",
+      "tags": [
+        "overwhelming_vs_overwhelmed",
+        "overwhelmed",
+        "collocation"
+      ]
+    },
+    {
+      "id": "ovo_25",
+      "question": "She delivered an ___ performance that moved the entire audience.",
+      "optionA": "OVERWHELMING",
+      "optionB": "OVERWHELMED",
+      "correctIndex": 0,
+      "explanation": "Выступление — источник впечатления. An overwhelming performance = потрясающее выступление.",
+      "tags": [
+        "overwhelming_vs_overwhelmed",
+        "overwhelming",
+        "formal"
+      ]
+    },
+    {
+      "id": "ovo_26",
+      "question": "The grief-stricken family appeared visibly ___ at the ceremony.",
+      "optionA": "OVERWHELMING",
+      "optionB": "OVERWHELMED",
+      "correctIndex": 1,
+      "explanation": "Семья испытывала эмоции. They appeared overwhelmed = они выглядели подавленными.",
+      "tags": [
+        "overwhelming_vs_overwhelmed",
+        "overwhelmed",
+        "participle"
+      ]
+    },
+    {
+      "id": "ovo_27",
+      "question": "The pace of technological change can be ___ for older generations.",
+      "optionA": "OVERWHELMING",
+      "optionB": "OVERWHELMED",
+      "correctIndex": 0,
+      "explanation": "Темп изменений — источник чувства. The pace can be overwhelming = темп может быть подавляющим.",
+      "tags": [
+        "overwhelming_vs_overwhelmed",
+        "overwhelming",
+        "participle"
+      ]
+    },
+    {
+      "id": "ovo_28",
+      "question": "He was so ___ that he could barely speak during the acceptance speech.",
+      "optionA": "OVERWHELMING",
+      "optionB": "OVERWHELMED",
+      "correctIndex": 1,
+      "explanation": "Он испытывал такие сильные эмоции, что не мог говорить. So overwhelmed = настолько потрясён.",
+      "tags": [
+        "overwhelming_vs_overwhelmed",
+        "overwhelmed",
+        "participle"
+      ]
+    },
+    {
+      "id": "ovo_29",
+      "question": "The complexity of the legal proceedings was ___ for the defendant.",
+      "optionA": "OVERWHELMING",
+      "optionB": "OVERWHELMED",
+      "correctIndex": 0,
+      "explanation": "Сложность процесса — источник чувства для подсудимого. Complexity was overwhelming.",
+      "tags": [
+        "overwhelming_vs_overwhelmed",
+        "overwhelming",
+        "formal"
+      ]
+    },
+    {
+      "id": "ovo_30",
+      "question": "Despite feeling ___, she managed to deliver a flawless presentation.",
+      "optionA": "OVERWHELMING",
+      "optionB": "OVERWHELMED",
+      "correctIndex": 1,
+      "explanation": "Она чувствовала себя подавленной, но справилась. Feeling overwhelmed — испытывать перегрузку.",
+      "tags": [
+        "overwhelming_vs_overwhelmed",
+        "overwhelmed",
+        "participle"
+      ]
+    }
+  ]
+}

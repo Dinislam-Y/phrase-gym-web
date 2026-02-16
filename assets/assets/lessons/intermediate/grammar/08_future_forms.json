@@ -1,0 +1,1928 @@
+{
+  "id": "intermediate_08_future_forms",
+  "title": "Future Forms",
+  "description": "Будущее время. Will, Going to и Present Continuous. Как выбрать правильную форму для прогнозов, планов и расписаний.",
+  "order": 8,
+  "level": "intermediate",
+  "imageUrl": "assets/images/lessons/future_forms.png",
+  "vocabulary": [
+    {
+      "id": "v8_think",
+      "english": "think",
+      "russian": "думать",
+      "partOfSpeech": "verb",
+      "example": "I think.",
+      "exampleTranslation": "Я думаю.",
+      "audioPath": "assets/audio/vocabulary/v8_think.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_think.mp3"
+    },
+    {
+      "id": "v8_rain",
+      "english": "rain",
+      "russian": "дождь",
+      "partOfSpeech": "noun",
+      "example": "It will rain.",
+      "exampleTranslation": "Пойдет дождь.",
+      "audioPath": "assets/audio/vocabulary/v8_rain.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_rain.mp3"
+    },
+    {
+      "id": "v8_fall",
+      "english": "fall",
+      "russian": "падать",
+      "partOfSpeech": "verb",
+      "example": "Going to fall.",
+      "exampleTranslation": "Сейчас упадет.",
+      "audioPath": "assets/audio/vocabulary/v8_fall.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_fall.mp3"
+    },
+    {
+      "id": "v8_meet",
+      "english": "meet",
+      "russian": "встречать(ся)",
+      "partOfSpeech": "verb",
+      "example": "Meeting friends.",
+      "exampleTranslation": "Встречаемся с друзьями.",
+      "audioPath": "assets/audio/vocabulary/v8_meet.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_meet.mp3"
+    },
+    {
+      "id": "v8_friend",
+      "english": "friend",
+      "russian": "друг",
+      "partOfSpeech": "noun",
+      "example": "Friends.",
+      "exampleTranslation": "Друзья.",
+      "audioPath": "assets/audio/vocabulary/v8_friend.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_friend.mp3"
+    },
+    {
+      "id": "v8_open",
+      "english": "open",
+      "russian": "открывать",
+      "partOfSpeech": "verb",
+      "example": "Open the window.",
+      "exampleTranslation": "Открыть окно.",
+      "audioPath": "assets/audio/vocabulary/v8_open.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_open.mp3"
+    },
+    {
+      "id": "v8_window",
+      "english": "window",
+      "russian": "окно",
+      "partOfSpeech": "noun",
+      "example": "The window.",
+      "exampleTranslation": "Окно.",
+      "audioPath": "assets/audio/vocabulary/v8_window.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_window.mp3"
+    },
+    {
+      "id": "v8_buy",
+      "english": "buy",
+      "russian": "покупать",
+      "partOfSpeech": "verb",
+      "example": "Going to buy.",
+      "exampleTranslation": "Собирается купить.",
+      "audioPath": "assets/audio/vocabulary/v8_buy.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_buy.mp3"
+    },
+    {
+      "id": "v8_dress",
+      "english": "dress",
+      "russian": "платье",
+      "partOfSpeech": "noun",
+      "example": "A dress.",
+      "exampleTranslation": "Платье.",
+      "audioPath": "assets/audio/vocabulary/v8_dress.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_dress.mp3"
+    },
+    {
+      "id": "v8_film",
+      "english": "film",
+      "russian": "фильм",
+      "partOfSpeech": "noun",
+      "example": "The film.",
+      "exampleTranslation": "Фильм.",
+      "audioPath": "assets/audio/vocabulary/v8_film.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_film.mp3"
+    },
+    {
+      "id": "v8_start",
+      "english": "start",
+      "russian": "начинать(ся)",
+      "partOfSpeech": "verb",
+      "example": "Starts at nine.",
+      "exampleTranslation": "Начинается в девять.",
+      "audioPath": "assets/audio/vocabulary/v8_start.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_start.mp3"
+    },
+    {
+      "id": "v8_promise",
+      "english": "promise",
+      "russian": "обещать",
+      "partOfSpeech": "verb",
+      "example": "I promise.",
+      "exampleTranslation": "Я обещаю.",
+      "audioPath": "assets/audio/vocabulary/v8_promise.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_promise.mp3"
+    },
+    {
+      "id": "v8_party",
+      "english": "party",
+      "russian": "вечеринка",
+      "partOfSpeech": "noun",
+      "example": "The party.",
+      "exampleTranslation": "Вечеринка.",
+      "audioPath": "assets/audio/vocabulary/v8_party.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_party.mp3"
+    },
+    {
+      "id": "v8_sunny",
+      "english": "sunny",
+      "russian": "солнечно",
+      "partOfSpeech": "adjective",
+      "example": "Will be sunny.",
+      "exampleTranslation": "Будет солнечно.",
+      "audioPath": "assets/audio/vocabulary/v8_sunny.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_sunny.mp3"
+    },
+    {
+      "id": "v8_tomorrow",
+      "english": "tomorrow",
+      "russian": "завтра",
+      "partOfSpeech": "noun",
+      "example": "Sunny tomorrow.",
+      "exampleTranslation": "Солнечно завтра.",
+      "audioPath": "assets/audio/vocabulary/v8_tomorrow.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_tomorrow.mp3"
+    },
+    {
+      "id": "v8_move",
+      "english": "move",
+      "russian": "переезжать",
+      "partOfSpeech": "verb",
+      "example": "Going to move.",
+      "exampleTranslation": "Собираемся переехать.",
+      "audioPath": "assets/audio/vocabulary/v8_move.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_move.mp3"
+    },
+    {
+      "id": "v8_house",
+      "english": "house",
+      "russian": "дом",
+      "partOfSpeech": "noun",
+      "example": "New house.",
+      "exampleTranslation": "Новый дом.",
+      "audioPath": "assets/audio/vocabulary/v8_house.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_house.mp3"
+    },
+    {
+      "id": "v8_train",
+      "english": "train",
+      "russian": "поезд",
+      "partOfSpeech": "noun",
+      "example": "The train.",
+      "exampleTranslation": "Поезд.",
+      "audioPath": "assets/audio/vocabulary/v8_train.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_train.mp3"
+    },
+    {
+      "id": "v8_leave",
+      "english": "leave",
+      "russian": "уезжать (отправляться)",
+      "partOfSpeech": "verb",
+      "example": "Leaves at noon.",
+      "exampleTranslation": "Отправляется в полдень.",
+      "audioPath": "assets/audio/vocabulary/v8_leave.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_leave.mp3"
+    },
+    {
+      "id": "v8_noon",
+      "english": "noon",
+      "russian": "полдень",
+      "partOfSpeech": "noun",
+      "example": "At noon.",
+      "exampleTranslation": "В полдень.",
+      "audioPath": "assets/audio/vocabulary/v8_noon.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_noon.mp3"
+    },
+    {
+      "id": "v8_fly",
+      "english": "fly",
+      "russian": "летать",
+      "partOfSpeech": "verb",
+      "example": "Flying to London.",
+      "exampleTranslation": "Летит в Лондон.",
+      "audioPath": "assets/audio/vocabulary/v8_fly.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_fly.mp3"
+    },
+    {
+      "id": "v8_married",
+      "english": "married",
+      "russian": "женатый (замужем)",
+      "partOfSpeech": "adjective",
+      "example": "Get married.",
+      "exampleTranslation": "Пожениться / Выйти замуж.",
+      "audioPath": "assets/audio/vocabulary/v8_married.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_married.mp3"
+    },
+    {
+      "id": "v8_shop",
+      "english": "shop",
+      "russian": "магазин",
+      "partOfSpeech": "noun",
+      "example": "The shop.",
+      "exampleTranslation": "Магазин.",
+      "audioPath": "assets/audio/vocabulary/v8_shop.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_shop.mp3"
+    },
+    {
+      "id": "v8_close",
+      "english": "close",
+      "russian": "закрывать(ся)",
+      "partOfSpeech": "verb",
+      "example": "Closes at eight.",
+      "exampleTranslation": "Закрывается в восемь.",
+      "audioPath": "assets/audio/vocabulary/v8_close.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_close.mp3"
+    },
+    {
+      "id": "v8_cloud",
+      "english": "cloud",
+      "russian": "облако",
+      "partOfSpeech": "noun",
+      "example": "Look at the clouds.",
+      "exampleTranslation": "Посмотри на облака.",
+      "audioPath": "assets/audio/vocabulary/v8_cloud.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_cloud.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "Future Forms",
+    "subtitle": "Будущее в английском — это не только Will. Это спектр уверенности: от спонтанного решения до железной договоренности.",
+    "construction": {
+      "formula": "Will / Going to / Present Continuous",
+      "rules": [
+        {
+          "word": "Will (Спонтанность)",
+          "description": "Решение принято только что. I'm tired, I will sleep. Или предсказание (думаю): I think it will rain."
+        },
+        {
+          "word": "Going to (План)",
+          "description": "Решение принято заранее. I am going to buy a car (я собираюсь). Или очевидное предсказание: Look at clouds, it is going to rain."
+        },
+        {
+          "word": "Present Continuous (Договоренность)",
+          "description": "Железный план, все оговорено (время, место). I am meeting Tom at 5 (у нас встреча)."
+        },
+        {
+          "word": "Present Simple (Расписание)",
+          "description": "Расписание транспорта, кино. The train leaves at 7."
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "bolt",
+        "color": "orange",
+        "title": "Спонтанное решение (Will)",
+        "description": "Открыл холодильник, там пусто -> \"I will go to the shop\".",
+        "example": {
+          "english": "I'll help you!",
+          "russian": "Я помогу тебе! (решил сейчас)"
+        }
+      },
+      {
+        "icon": "schedule",
+        "color": "blue",
+        "title": "План / Намерение (Going to)",
+        "description": "В планах, но без точного времени.",
+        "example": {
+          "english": "I am going to visit Paris.",
+          "russian": "Я собираюсь посетить Париж."
+        }
+      },
+      {
+        "icon": "schedule",
+        "color": "green",
+        "title": "Договоренность (Present Continuous)",
+        "description": "Запись в ежедневнике.",
+        "example": {
+          "english": "I am flying to NY tomorrow.",
+          "russian": "Я лечу в Нью-Йорк завтра (билеты куплены)."
+        }
+      }
+    ],
+    "markers": [
+      "tomorrow",
+      "next week",
+      "tonight",
+      "soon",
+      "in 5 minutes"
+    ]
+  },
+  "tasks": [
+    {
+      "id": "t8_1",
+      "type": "sentenceAssembly",
+      "question": "Я думаю, пойдет дождь (мнение)",
+      "correctAnswer": "I think it will rain",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "We",
+          "You"
+        ],
+        [
+          "think",
+          "thinks",
+          "thought",
+          "knew"
+        ],
+        [
+          "it",
+          "is",
+          "that",
+          "I"
+        ],
+        [
+          "will",
+          "going to",
+          "is",
+          "were"
+        ],
+        [
+          "rain",
+          "raining",
+          "rains",
+          "getting"
+        ]
+      ],
+      "mistakeTags": [
+        "future_forms",
+        "will_going_to"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_08_future_forms/000.mp3"
+    },
+    {
+      "id": "t8_2",
+      "type": "sentenceAssembly",
+      "question": "Смотри! Сейчас упадет! (очевидно)",
+      "correctAnswer": "Look it is going to fall",
+      "options": [],
+      "variants": [
+        [
+          "Look",
+          "See",
+          "Watch",
+          "good"
+        ],
+        [
+          "it",
+          "he",
+          "she",
+          "You"
+        ],
+        [
+          "is",
+          "are",
+          "will",
+          "does"
+        ],
+        [
+          "going",
+          "go",
+          "about",
+          "getting"
+        ],
+        [
+          "to",
+          "too",
+          "for",
+          "with"
+        ],
+        [
+          "fall",
+          "drop",
+          "falling",
+          "finding"
+        ]
+      ],
+      "mistakeTags": [
+        "future_forms",
+        "will_going_to"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_08_future_forms/001.mp3"
+    },
+    {
+      "id": "t8_3",
+      "type": "sentenceAssembly",
+      "question": "Мы встречаемся с друзьями в 7 (договорено)",
+      "correctAnswer": "We are meeting friends at seven",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "Us",
+          "They",
+          "It"
+        ],
+        [
+          "are",
+          "will",
+          "is",
+          "would"
+        ],
+        [
+          "meeting",
+          "meet",
+          "met",
+          "seeing"
+        ],
+        [
+          "friends",
+          "friend",
+          "people",
+          "way"
+        ],
+        [
+          "at",
+          "on",
+          "in",
+          "about"
+        ],
+        [
+          "seven",
+          "7",
+          "time",
+          "twelve"
+        ]
+      ],
+      "mistakeTags": [
+        "future_forms",
+        "will_going_to"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_08_future_forms/002.mp3"
+    },
+    {
+      "id": "t8_4",
+      "type": "sentenceAssembly",
+      "question": "Я открою окно (спонтанно, жарко)",
+      "correctAnswer": "I will open the window",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "You",
+          "We"
+        ],
+        [
+          "will",
+          "am going to",
+          "shall",
+          "was"
+        ],
+        [
+          "open",
+          "close",
+          "opening",
+          "telling"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "some"
+        ],
+        [
+          "window",
+          "door",
+          "glass",
+          "man"
+        ]
+      ],
+      "mistakeTags": [
+        "future_forms",
+        "will_going_to"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_08_future_forms/003.mp3"
+    },
+    {
+      "id": "t8_5",
+      "type": "sentenceAssembly",
+      "question": "Она собирается купить платье (намерение)",
+      "correctAnswer": "She is going to buy a dress",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "Her",
+          "He",
+          "We"
+        ],
+        [
+          "is",
+          "are",
+          "will",
+          "does"
+        ],
+        [
+          "going",
+          "go",
+          "about",
+          "thinking"
+        ],
+        [
+          "to",
+          "too",
+          "for",
+          "about"
+        ],
+        [
+          "buy",
+          "bought",
+          "buying",
+          "knowing"
+        ],
+        [
+          "a",
+          "the",
+          "an",
+          "some"
+        ],
+        [
+          "dress",
+          "clothes",
+          "skirt",
+          "want"
+        ]
+      ],
+      "mistakeTags": [
+        "future_forms",
+        "will_going_to"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_08_future_forms/004.mp3"
+    },
+    {
+      "id": "t8_6",
+      "type": "sentenceAssembly",
+      "question": "Фильм начинается в 9 (расписание)",
+      "correctAnswer": "The film starts at nine",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "an",
+          "some"
+        ],
+        [
+          "film",
+          "movie",
+          "cinema",
+          "week"
+        ],
+        [
+          "starts",
+          "start",
+          "starting",
+          "will start"
+        ],
+        [
+          "at",
+          "on",
+          "from",
+          "of"
+        ],
+        [
+          "nine",
+          "9",
+          "eleven",
+          "six"
+        ]
+      ],
+      "mistakeTags": [
+        "future_forms",
+        "will_going_to"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_08_future_forms/005.mp3"
+    },
+    {
+      "id": "t8_7",
+      "type": "sentenceAssembly",
+      "question": "Я обещаю, я не опоздаю",
+      "correctAnswer": "I promise I will not be late",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "We",
+          "He"
+        ],
+        [
+          "promise",
+          "say",
+          "think",
+          "way"
+        ],
+        [
+          "I",
+          "me",
+          "We",
+          "She"
+        ],
+        [
+          "will",
+          "am going to",
+          "have",
+          "would"
+        ],
+        [
+          "not",
+          "no",
+          "early",
+          "last"
+        ],
+        [
+          "be",
+          "been",
+          "is",
+          "was"
+        ],
+        [
+          "late",
+          "latly",
+          "later",
+          "long"
+        ]
+      ],
+      "mistakeTags": [
+        "future_forms",
+        "will_going_to"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_08_future_forms/006.mp3"
+    },
+    {
+      "id": "t8_8",
+      "type": "sentenceAssembly",
+      "question": "Ты пойдешь на вечеринку? (план)",
+      "correctAnswer": "Are you going to the party?",
+      "options": [],
+      "variants": [
+        [
+          "Are",
+          "Will",
+          "Do",
+          "could"
+        ],
+        [
+          "you",
+          "your",
+          "He",
+          "She"
+        ],
+        [
+          "going",
+          "go",
+          "about",
+          "seeing"
+        ],
+        [
+          "to",
+          "too",
+          "for",
+          "at"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "an"
+        ],
+        [
+          "party",
+          "club",
+          "disco",
+          "think"
+        ]
+      ],
+      "mistakeTags": [
+        "future_forms",
+        "will_going_to"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_08_future_forms/007.mp3"
+    },
+    {
+      "id": "t8_9",
+      "type": "sentenceAssembly",
+      "question": "Завтра будет солнечно (прогноз)",
+      "correctAnswer": "It will be sunny tomorrow",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "This",
+          "That",
+          "I"
+        ],
+        [
+          "will",
+          "going to",
+          "is",
+          "could"
+        ],
+        [
+          "be",
+          "is",
+          "been",
+          "were"
+        ],
+        [
+          "sunny",
+          "sun",
+          "shine",
+          "early"
+        ],
+        [
+          "tomorrow",
+          "today",
+          "yesterday",
+          "often"
+        ]
+      ],
+      "mistakeTags": [
+        "future_forms",
+        "will_going_to"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_08_future_forms/008.mp3"
+    },
+    {
+      "id": "t8_10",
+      "type": "sentenceAssembly",
+      "question": "Мы скоро переедем",
+      "correctAnswer": "We are going to move soon",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "I",
+          "She"
+        ],
+        [
+          "are",
+          "is",
+          "am",
+          "were"
+        ],
+        [
+          "going",
+          "planning",
+          "trying",
+          "hoping"
+        ],
+        [
+          "to",
+          "for",
+          "and",
+          "but"
+        ],
+        [
+          "move",
+          "leave",
+          "travel",
+          "change"
+        ],
+        [
+          "soon",
+          "there",
+          "away",
+          "out"
+        ]
+      ],
+      "mistakeTags": [
+        "future_forms",
+        "will_going_to"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_08_future_forms/009.mp3"
+    },
+    {
+      "id": "t8_11",
+      "type": "sentenceAssembly",
+      "question": "Поезд отправляется в полдень",
+      "correctAnswer": "The train leaves at noon",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "an",
+          "some"
+        ],
+        [
+          "train",
+          "bus",
+          "plane",
+          "place"
+        ],
+        [
+          "leaves",
+          "leave",
+          "leaving",
+          "coming"
+        ],
+        [
+          "at",
+          "in",
+          "on",
+          "for"
+        ],
+        [
+          "noon",
+          "midday",
+          "12",
+          "6"
+        ]
+      ],
+      "mistakeTags": [
+        "future_forms",
+        "will_going_to"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_08_future_forms/010.mp3"
+    },
+    {
+      "id": "t8_12",
+      "type": "sentenceAssembly",
+      "question": "Я не буду туда ходить (решение)",
+      "correctAnswer": "I will not go there",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "She",
+          "They"
+        ],
+        [
+          "will",
+          "am going to",
+          "does",
+          "did"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "tomorrow"
+        ],
+        [
+          "go",
+          "going",
+          "went",
+          "getting"
+        ],
+        [
+          "there",
+          "here",
+          "that",
+          "which"
+        ]
+      ],
+      "mistakeTags": [
+        "future_forms",
+        "will_going_to"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_08_future_forms/011.mp3"
+    },
+    {
+      "id": "t8_13",
+      "type": "sentenceAssembly",
+      "question": "Он летит в Лондон в пятницу (билеты куплены)",
+      "correctAnswer": "He is flying to London on Friday",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "Him",
+          "She",
+          "They"
+        ],
+        [
+          "is",
+          "are",
+          "will",
+          "could"
+        ],
+        [
+          "flying",
+          "fly",
+          "flies",
+          "going"
+        ],
+        [
+          "to",
+          "in",
+          "at",
+          "with"
+        ],
+        [
+          "London",
+          "Paris",
+          "NY",
+          "place"
+        ],
+        [
+          "on",
+          "in",
+          "at",
+          "by"
+        ],
+        [
+          "Friday",
+          "Monday",
+          "weekend",
+          "new"
+        ]
+      ],
+      "mistakeTags": [
+        "future_forms",
+        "will_going_to"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_08_future_forms/012.mp3"
+    },
+    {
+      "id": "t8_14",
+      "type": "sentenceAssembly",
+      "question": "Она выйдет замуж в следующем месяце",
+      "correctAnswer": "She is getting married next month",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "Her",
+          "He",
+          "They"
+        ],
+        [
+          "is",
+          "are",
+          "will",
+          "am"
+        ],
+        [
+          "getting",
+          "get",
+          "got",
+          "coming"
+        ],
+        [
+          "married",
+          "marry",
+          "marriage",
+          "came"
+        ],
+        [
+          "next",
+          "last",
+          "this",
+          "hand"
+        ],
+        [
+          "month",
+          "year",
+          "week",
+          "house"
+        ]
+      ],
+      "mistakeTags": [
+        "future_forms",
+        "will_going_to"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_08_future_forms/013.mp3"
+    },
+    {
+      "id": "t8_15",
+      "type": "sentenceAssembly",
+      "question": "Что ты будешь делать? (спросили только что)",
+      "correctAnswer": "What will you do?",
+      "options": [],
+      "variants": [
+        [
+          "What",
+          "When",
+          "Where",
+          "who"
+        ],
+        [
+          "will",
+          "are",
+          "going to",
+          "has"
+        ],
+        [
+          "you",
+          "your",
+          "he",
+          "We"
+        ],
+        [
+          "do",
+          "doing",
+          "does",
+          "will"
+        ]
+      ],
+      "mistakeTags": [
+        "future_forms",
+        "will_going_to"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_08_future_forms/014.mp3"
+    },
+    {
+      "id": "t8_16",
+      "type": "sentenceAssembly",
+      "question": "Магазин закрывается в 8 вечера",
+      "correctAnswer": "The shop closes at eight pm",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "some",
+          "an"
+        ],
+        [
+          "shop",
+          "store",
+          "market",
+          "see"
+        ],
+        [
+          "closes",
+          "close",
+          "closing",
+          "saying"
+        ],
+        [
+          "at",
+          "in",
+          "on",
+          "of"
+        ],
+        [
+          "eight",
+          "8",
+          "seven",
+          "eleven"
+        ],
+        [
+          "pm",
+          "am",
+          "o'clock",
+          "does"
+        ]
+      ],
+      "mistakeTags": [
+        "future_forms",
+        "will_going_to"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_08_future_forms/015.mp3"
+    },
+    {
+      "id": "t8_17",
+      "type": "sentenceAssembly",
+      "question": "Сегодня будет снег",
+      "correctAnswer": "It is going to snow today",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "He",
+          "She",
+          "They"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "going",
+          "about",
+          "trying",
+          "hoping"
+        ],
+        [
+          "to",
+          "for",
+          "and",
+          "but"
+        ],
+        [
+          "snow",
+          "rain",
+          "storm",
+          "freeze"
+        ],
+        [
+          "today",
+          "soon",
+          "hard",
+          "again"
+        ]
+      ],
+      "mistakeTags": [
+        "future_forms",
+        "will_going_to"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_08_future_forms/016.mp3"
+    },
+    {
+      "id": "t8_18",
+      "type": "sentenceAssembly",
+      "question": "Я помогу тебе с домашней работой",
+      "correctAnswer": "I will help you with your homework",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "She",
+          "We"
+        ],
+        [
+          "will",
+          "am going to",
+          "shall",
+          "do"
+        ],
+        [
+          "help",
+          "helping",
+          "helped",
+          "getting"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "They"
+        ],
+        [
+          "with",
+          "for",
+          "at",
+          "from"
+        ],
+        [
+          "your",
+          "you",
+          "the",
+          "his"
+        ],
+        [
+          "homework",
+          "housework",
+          "work",
+          "year"
+        ]
+      ],
+      "mistakeTags": [
+        "future_forms",
+        "will_going_to"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_08_future_forms/017.mp3"
+    },
+    {
+      "id": "t8_19",
+      "type": "sentenceAssembly",
+      "question": "Я завтра иду к врачу",
+      "correctAnswer": "I am seeing the doctor tomorrow",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "am",
+          "is",
+          "are",
+          "was"
+        ],
+        [
+          "seeing",
+          "meeting",
+          "calling",
+          "visiting"
+        ],
+        [
+          "the",
+          "a",
+          "my",
+          "our"
+        ],
+        [
+          "doctor",
+          "teacher",
+          "dentist",
+          "boss"
+        ],
+        [
+          "tomorrow",
+          "today",
+          "soon",
+          "later"
+        ]
+      ],
+      "mistakeTags": [
+        "future_forms",
+        "will_going_to"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_08_future_forms/018.mp3"
+    },
+    {
+      "id": "t8_20",
+      "type": "sentenceAssembly",
+      "question": "Они собираются пожениться",
+      "correctAnswer": "They are going to get married",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "Them",
+          "We",
+          "She"
+        ],
+        [
+          "are",
+          "is",
+          "will",
+          "were"
+        ],
+        [
+          "going",
+          "go",
+          "about",
+          "making"
+        ],
+        [
+          "to",
+          "too",
+          "for",
+          "by"
+        ],
+        [
+          "get",
+          "got",
+          "getting",
+          "made"
+        ],
+        [
+          "married",
+          "marry",
+          "marriage",
+          "said"
+        ]
+      ],
+      "mistakeTags": [
+        "future_forms",
+        "will_going_to"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_08_future_forms/019.mp3"
+    },
+    {
+      "id": "t8_21",
+      "type": "sentenceAssembly",
+      "question": "Я сейчас открою дверь",
+      "correctAnswer": "I will open the door now",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "will",
+          "shall",
+          "can",
+          "may"
+        ],
+        [
+          "open",
+          "close",
+          "lock",
+          "find"
+        ],
+        [
+          "the",
+          "a",
+          "this",
+          "that"
+        ],
+        [
+          "door",
+          "window",
+          "gate",
+          "box"
+        ],
+        [
+          "now",
+          "soon",
+          "here",
+          "please"
+        ]
+      ],
+      "mistakeTags": [
+        "future_forms",
+        "will_going_to"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_08_future_forms/020.mp3"
+    },
+    {
+      "id": "t8_22",
+      "type": "sentenceAssembly",
+      "question": "Мы собираемся учить испанский",
+      "correctAnswer": "We are going to learn Spanish",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "Us",
+          "They",
+          "You"
+        ],
+        [
+          "are",
+          "is",
+          "will",
+          "were"
+        ],
+        [
+          "going",
+          "go",
+          "about",
+          "saying"
+        ],
+        [
+          "to",
+          "too",
+          "for",
+          "at"
+        ],
+        [
+          "learn",
+          "study",
+          "learning",
+          "knowing"
+        ],
+        [
+          "Spanish",
+          "English",
+          "French",
+          "big"
+        ]
+      ],
+      "mistakeTags": [
+        "future_forms",
+        "will_going_to"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_08_future_forms/021.mp3"
+    },
+    {
+      "id": "t8_23",
+      "type": "sentenceAssembly",
+      "question": "Урок начинается ровно в 9",
+      "correctAnswer": "The lesson starts at nine sharp",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "some",
+          "an"
+        ],
+        [
+          "lesson",
+          "class",
+          "course",
+          "last"
+        ],
+        [
+          "starts",
+          "start",
+          "starting",
+          "wanting"
+        ],
+        [
+          "at",
+          "in",
+          "on",
+          "with"
+        ],
+        [
+          "nine",
+          "9",
+          "ten",
+          "six"
+        ],
+        [
+          "sharp",
+          "o'clock",
+          "exactly",
+          "get"
+        ]
+      ],
+      "mistakeTags": [
+        "future_forms",
+        "will_going_to"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_08_future_forms/022.mp3"
+    },
+    {
+      "id": "t8_24",
+      "type": "sentenceAssembly",
+      "question": "Ты идёшь на концерт?",
+      "correctAnswer": "Are you going to the concert?",
+      "options": [],
+      "variants": [
+        [
+          "Are",
+          "Is",
+          "Was",
+          "Do"
+        ],
+        [
+          "you",
+          "they",
+          "we",
+          "she"
+        ],
+        [
+          "going",
+          "coming",
+          "running",
+          "driving"
+        ],
+        [
+          "to",
+          "at",
+          "in",
+          "from"
+        ],
+        [
+          "the",
+          "a",
+          "this",
+          "that"
+        ],
+        [
+          "concert",
+          "party",
+          "meeting",
+          "show"
+        ]
+      ],
+      "mistakeTags": [
+        "future_forms",
+        "will_going_to"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_08_future_forms/023.mp3"
+    },
+    {
+      "id": "t8_25",
+      "type": "sentenceAssembly",
+      "question": "Я куплю это (решил прямо сейчас)",
+      "correctAnswer": "I will buy it",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "We",
+          "It"
+        ],
+        [
+          "will",
+          "am going to",
+          "shall",
+          "should"
+        ],
+        [
+          "buy",
+          "bought",
+          "buying",
+          "using"
+        ],
+        [
+          "it",
+          "this",
+          "that",
+          "We"
+        ]
+      ],
+      "mistakeTags": [
+        "future_forms",
+        "will_going_to"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_08_future_forms/024.mp3"
+    },
+    {
+      "id": "t8_26",
+      "type": "sentenceAssembly",
+      "question": "Он собирается учить английский",
+      "correctAnswer": "He is going to learn English",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "I",
+          "They"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "going",
+          "planning",
+          "trying",
+          "hoping"
+        ],
+        [
+          "to",
+          "for",
+          "and",
+          "but"
+        ],
+        [
+          "learn",
+          "study",
+          "teach",
+          "read"
+        ],
+        [
+          "English",
+          "French",
+          "music",
+          "more"
+        ]
+      ],
+      "mistakeTags": [
+        "future_forms",
+        "will_going_to"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_08_future_forms/025.mp3"
+    },
+    {
+      "id": "t8_27",
+      "type": "sentenceAssembly",
+      "question": "Она приедет в понедельник утром",
+      "correctAnswer": "She will arrive on Monday morning",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "They"
+        ],
+        [
+          "will",
+          "shall",
+          "can",
+          "may"
+        ],
+        [
+          "arrive",
+          "come",
+          "leave",
+          "start"
+        ],
+        [
+          "on",
+          "at",
+          "in",
+          "by"
+        ],
+        [
+          "Monday",
+          "Tuesday",
+          "Friday",
+          "Sunday"
+        ],
+        [
+          "morning",
+          "evening",
+          "night",
+          "noon"
+        ]
+      ],
+      "mistakeTags": [
+        "future_forms",
+        "will_going_to"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_08_future_forms/026.mp3"
+    },
+    {
+      "id": "t8_28",
+      "type": "sentenceAssembly",
+      "question": "Мы собираемся открыть ресторан",
+      "correctAnswer": "We are going to open a restaurant",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "Us",
+          "They",
+          "You"
+        ],
+        [
+          "are",
+          "is",
+          "will",
+          "had"
+        ],
+        [
+          "going",
+          "go",
+          "about",
+          "finding"
+        ],
+        [
+          "to",
+          "too",
+          "for",
+          "by"
+        ],
+        [
+          "open",
+          "close",
+          "opening",
+          "coming"
+        ],
+        [
+          "a",
+          "the",
+          "an",
+          "some"
+        ],
+        [
+          "restaurant",
+          "cafe",
+          "shop",
+          "get"
+        ]
+      ],
+      "mistakeTags": [
+        "future_forms",
+        "will_going_to"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_08_future_forms/027.mp3"
+    },
+    {
+      "id": "t8_29",
+      "type": "sentenceAssembly",
+      "question": "Самолет приземляется в 15:30",
+      "correctAnswer": "The plane lands at fifteen thirty",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "some",
+          "an"
+        ],
+        [
+          "plane",
+          "flight",
+          "airplane",
+          "case"
+        ],
+        [
+          "lands",
+          "land",
+          "landing",
+          "getting"
+        ],
+        [
+          "at",
+          "in",
+          "on",
+          "from"
+        ],
+        [
+          "fifteen",
+          "15",
+          "three",
+          "four"
+        ],
+        [
+          "thirty",
+          "30",
+          "o'clock",
+          "get"
+        ]
+      ],
+      "mistakeTags": [
+        "future_forms",
+        "will_going_to"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_08_future_forms/028.mp3"
+    },
+    {
+      "id": "t8_30",
+      "type": "sentenceAssembly",
+      "question": "Осторожно! Ты упадешь! (вижу опасность)",
+      "correctAnswer": "Be careful you are going to fall",
+      "options": [],
+      "variants": [
+        [
+          "Be",
+          "Is",
+          "Are",
+          "am"
+        ],
+        [
+          "careful",
+          "carefull",
+          "care",
+          "important"
+        ],
+        [
+          "you",
+          "your",
+          "It",
+          "He"
+        ],
+        [
+          "are",
+          "is",
+          "will",
+          "could"
+        ],
+        [
+          "going",
+          "go",
+          "about",
+          "seeing"
+        ],
+        [
+          "to",
+          "too",
+          "for",
+          "by"
+        ],
+        [
+          "fall",
+          "fell",
+          "falling",
+          "giving"
+        ]
+      ],
+      "mistakeTags": [
+        "future_forms",
+        "will_going_to"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_08_future_forms/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionIntermediate08FutureForms",
+  "theoryQuiz": [
+    {
+      "id": "tq_01",
+      "type": "trueFalse",
+      "question": "Will используется для спонтанных решений, принятых в момент речи.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Например: 'I'll help you!' — решение принято прямо сейчас."
+    },
+    {
+      "id": "tq_02",
+      "type": "multipleChoice",
+      "question": "Какая форма будущего выражает заранее обдуманный план?",
+      "options": [
+        "will",
+        "be going to",
+        "Present Simple",
+        "Past Simple"
+      ],
+      "correctIndex": 1,
+      "explanation": "Be going to выражает план или намерение: I'm going to study medicine."
+    },
+    {
+      "id": "tq_03",
+      "type": "multipleChoice",
+      "question": "Какая форма используется для расписаний (поезд, самолёт)?",
+      "options": [
+        "will",
+        "be going to",
+        "Present Continuous",
+        "Present Simple"
+      ],
+      "correctIndex": 3,
+      "explanation": "Present Simple используется для расписаний: The train leaves at 9."
+    },
+    {
+      "id": "tq_04",
+      "type": "trueFalse",
+      "question": "Present Continuous может выражать договорённость в будущем.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Например: I'm meeting Tom at 5 — это запланированная встреча."
+    },
+    {
+      "id": "tq_05",
+      "type": "multipleChoice",
+      "question": "Какое предложение выражает спонтанное решение?",
+      "options": [
+        "I'm going to study tonight.",
+        "The bus arrives at 10.",
+        "I'll open the window.",
+        "I'm seeing the doctor tomorrow."
+      ],
+      "correctIndex": 2,
+      "explanation": "I'll open the window — решение принято в момент речи (will)."
+    },
+    {
+      "id": "tq_06",
+      "type": "trueFalse",
+      "question": "'I'm going to study' и 'I'll study' означают одно и то же.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "Going to — обдуманный план, will — спонтанное решение или прогноз."
+    },
+    {
+      "id": "tq_07",
+      "type": "multipleChoice",
+      "question": "Какое предложение выражает договорённость?",
+      "options": [
+        "I'll call you.",
+        "It will rain.",
+        "I'm meeting Tom at 5.",
+        "I'm going to learn French."
+      ],
+      "correctIndex": 2,
+      "explanation": "Present Continuous (I'm meeting) выражает запланированную договорённость."
+    },
+    {
+      "id": "tq_08",
+      "type": "multipleChoice",
+      "question": "Какая форма подходит: 'Look at the clouds! It ___.'",
+      "options": [
+        "will rain",
+        "is going to rain",
+        "rains",
+        "is raining"
+      ],
+      "correctIndex": 1,
+      "explanation": "Be going to используется для очевидного будущего на основе текущих признаков."
+    },
+    {
+      "id": "tq_09",
+      "type": "trueFalse",
+      "question": "'The train leaves at 9' — это пример Present Simple для расписания.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Present Simple используется для фиксированных расписаний."
+    },
+    {
+      "id": "tq_10",
+      "type": "multipleChoice",
+      "question": "Какая форма будущего используется для прогнозов без явных признаков?",
+      "options": [
+        "Present Simple",
+        "Present Continuous",
+        "be going to",
+        "will"
+      ],
+      "correctIndex": 3,
+      "explanation": "Will используется для предсказаний-мнений: I think it will be sunny."
+    }
+  ]
+}

@@ -1,0 +1,1523 @@
+{
+  "id": "intermediate_14_quantifiers",
+  "title": "Quantifiers & Determiners",
+  "description": "Определители: each, every, all, both, neither, either, enough. Точное выражение количества.",
+  "order": 14,
+  "level": "intermediate",
+  "imageUrl": "assets/images/lessons/quantifiers.png",
+  "vocabulary": [
+    {
+      "id": "v14_each",
+      "english": "each",
+      "russian": "каждый (из группы)",
+      "partOfSpeech": "pronoun",
+      "example": "Each student has a book.",
+      "exampleTranslation": "У каждого студента есть книга.",
+      "audioPath": "assets/audio/vocabulary/v14_each.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_each.mp3"
+    },
+    {
+      "id": "v14_every",
+      "english": "every",
+      "russian": "каждый (все вместе)",
+      "partOfSpeech": "pronoun",
+      "example": "Every child likes ice cream.",
+      "exampleTranslation": "Каждый ребёнок любит мороженое.",
+      "audioPath": "assets/audio/vocabulary/v14_every.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_every.mp3"
+    },
+    {
+      "id": "v14_all",
+      "english": "all",
+      "russian": "все, весь",
+      "partOfSpeech": "pronoun",
+      "example": "All students passed the test.",
+      "exampleTranslation": "Все студенты сдали тест.",
+      "audioPath": "assets/audio/vocabulary/v14_all.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_all.mp3"
+    },
+    {
+      "id": "v14_both",
+      "english": "both",
+      "russian": "оба",
+      "partOfSpeech": "pronoun",
+      "example": "Both options are good.",
+      "exampleTranslation": "Оба варианта хорошие.",
+      "audioPath": "assets/audio/vocabulary/v14_both.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_both.mp3"
+    },
+    {
+      "id": "v14_neither",
+      "english": "neither",
+      "russian": "ни один (из двух)",
+      "partOfSpeech": "pronoun",
+      "example": "Neither answer is correct.",
+      "exampleTranslation": "Ни один ответ не правильный.",
+      "audioPath": "assets/audio/vocabulary/v14_neither.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_neither.mp3"
+    },
+    {
+      "id": "v14_either",
+      "english": "either",
+      "russian": "любой (из двух)",
+      "partOfSpeech": "pronoun",
+      "example": "Either day works for me.",
+      "exampleTranslation": "Любой день мне подходит.",
+      "audioPath": "assets/audio/vocabulary/v14_either.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_either.mp3"
+    },
+    {
+      "id": "v14_enough",
+      "english": "enough",
+      "russian": "достаточно",
+      "partOfSpeech": "pronoun",
+      "example": "We have enough time.",
+      "exampleTranslation": "У нас достаточно времени.",
+      "audioPath": "assets/audio/vocabulary/v14_enough.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_enough.mp3"
+    },
+    {
+      "id": "v14_none",
+      "english": "none",
+      "russian": "ни один, никто",
+      "partOfSpeech": "pronoun",
+      "example": "None of them came.",
+      "exampleTranslation": "Никто из них не пришёл.",
+      "audioPath": "assets/audio/vocabulary/v14_none.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_none.mp3"
+    },
+    {
+      "id": "v14_several",
+      "english": "several",
+      "russian": "несколько",
+      "partOfSpeech": "pronoun",
+      "example": "Several people were late.",
+      "exampleTranslation": "Несколько человек опоздали.",
+      "audioPath": "assets/audio/vocabulary/v14_several.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_several.mp3"
+    },
+    {
+      "id": "v14_whole",
+      "english": "whole",
+      "russian": "целый, весь",
+      "partOfSpeech": "adjective",
+      "example": "I read the whole book.",
+      "exampleTranslation": "Я прочитал всю книгу.",
+      "audioPath": "assets/audio/vocabulary/v14_whole.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_whole.mp3"
+    },
+    {
+      "id": "v14_most",
+      "english": "most",
+      "russian": "большинство",
+      "partOfSpeech": "pronoun",
+      "example": "Most people agree.",
+      "exampleTranslation": "Большинство людей согласны.",
+      "audioPath": "assets/audio/vocabulary/v14_most.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_most.mp3"
+    },
+    {
+      "id": "v14_few",
+      "english": "few",
+      "russian": "мало (исчисляемое)",
+      "partOfSpeech": "pronoun",
+      "example": "Few students came today.",
+      "exampleTranslation": "Мало студентов пришло сегодня.",
+      "audioPath": "assets/audio/vocabulary/v14_few.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_few.mp3"
+    },
+    {
+      "id": "v14_little",
+      "english": "little",
+      "russian": "мало (неисчисляемое)",
+      "partOfSpeech": "pronoun",
+      "example": "There is little water left.",
+      "exampleTranslation": "Воды осталось мало.",
+      "audioPath": "assets/audio/vocabulary/v14_little.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_little.mp3"
+    },
+    {
+      "id": "v14_plenty",
+      "english": "plenty",
+      "russian": "много, достаточно",
+      "partOfSpeech": "pronoun",
+      "example": "We have plenty of food.",
+      "exampleTranslation": "У нас много еды.",
+      "audioPath": "assets/audio/vocabulary/v14_plenty.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_plenty.mp3"
+    },
+    {
+      "id": "v14_option",
+      "english": "option",
+      "russian": "вариант",
+      "partOfSpeech": "noun",
+      "example": "Neither option is good.",
+      "exampleTranslation": "Ни один вариант не подходит.",
+      "audioPath": "assets/audio/vocabulary/v14_option.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_option.mp3"
+    },
+    {
+      "id": "v14_student",
+      "english": "student",
+      "russian": "студент",
+      "partOfSpeech": "noun",
+      "example": "Each student needs a pen.",
+      "exampleTranslation": "Каждому студенту нужна ручка.",
+      "audioPath": "assets/audio/vocabulary/v14_student.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_student.mp3"
+    },
+    {
+      "id": "v14_team",
+      "english": "team",
+      "russian": "команда",
+      "partOfSpeech": "noun",
+      "example": "Both teams played well.",
+      "exampleTranslation": "Обе команды сыграли хорошо.",
+      "audioPath": "assets/audio/vocabulary/v14_team.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_team.mp3"
+    },
+    {
+      "id": "v14_correct",
+      "english": "correct",
+      "russian": "правильный",
+      "partOfSpeech": "adjective",
+      "example": "Every answer was correct.",
+      "exampleTranslation": "Каждый ответ был правильным.",
+      "audioPath": "assets/audio/vocabulary/v14_correct.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_correct.mp3"
+    },
+    {
+      "id": "v14_available",
+      "english": "available",
+      "russian": "доступный",
+      "partOfSpeech": "adjective",
+      "example": "Either room is available.",
+      "exampleTranslation": "Любая комната доступна.",
+      "audioPath": "assets/audio/vocabulary/v14_available.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_available.mp3"
+    },
+    {
+      "id": "v14_agree",
+      "english": "agree",
+      "russian": "соглашаться",
+      "partOfSpeech": "verb",
+      "example": "All members agree.",
+      "exampleTranslation": "Все участники согласны.",
+      "audioPath": "assets/audio/vocabulary/v14_agree.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_agree.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "Quantifiers & Determiners",
+    "subtitle": "Слова, которые определяют количество: все, каждый, оба, ни один. Важно не путать их, чтобы точно выражать мысль.",
+    "construction": {
+      "formula": "Quantifier + Noun (+ Verb)",
+      "rules": [
+        {
+          "word": "each / every",
+          "description": "Each — каждый по отдельности (each of them). Every — каждый из всех (every day). Оба с единственным числом."
+        },
+        {
+          "word": "both / all",
+          "description": "Both — оба (из двух): Both teams won. All — все (из многих): All students passed."
+        },
+        {
+          "word": "neither / either",
+          "description": "Neither — ни один из двух (+ singular verb). Either — любой из двух (+ singular verb)."
+        },
+        {
+          "word": "enough",
+          "description": "Enough перед существительным: enough time. Enough после прилагательного: old enough."
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "groups",
+        "color": "blue",
+        "title": "Выбор из группы",
+        "description": "Когда нужно указать, кого именно из группы имеем в виду.",
+        "example": {
+          "english": "Each student has a book.",
+          "russian": "У каждого студента есть книга."
+        }
+      },
+      {
+        "icon": "check_circle",
+        "color": "green",
+        "title": "Оба или ни один",
+        "description": "Когда выбираем из двух вариантов.",
+        "example": {
+          "english": "Neither option is good.",
+          "russian": "Ни один вариант не подходит."
+        }
+      },
+      {
+        "icon": "star",
+        "color": "orange",
+        "title": "Достаточно или нет",
+        "description": "Когда важно показать, хватает ли чего-то.",
+        "example": {
+          "english": "We have enough money.",
+          "russian": "У нас достаточно денег."
+        }
+      }
+    ],
+    "markers": [
+      "each",
+      "every",
+      "all",
+      "both",
+      "neither",
+      "either",
+      "enough",
+      "none"
+    ]
+  },
+  "theoryQuiz": [
+    {
+      "id": "tq_14_01",
+      "type": "multipleChoice",
+      "question": "Какое слово означает «каждый по отдельности»?",
+      "options": [
+        "every",
+        "each",
+        "all",
+        "both"
+      ],
+      "correctIndex": 1,
+      "explanation": "Each подчёркивает каждый элемент по отдельности: each of them. Every — каждый как часть целого."
+    },
+    {
+      "id": "tq_14_02",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"___ students passed the exam.\"",
+      "options": [
+        "Each",
+        "Every",
+        "All",
+        "Both"
+      ],
+      "correctIndex": 2,
+      "explanation": "All students (все студенты) — с множественным числом. Each/Every требуют единственного числа."
+    },
+    {
+      "id": "tq_14_03",
+      "type": "trueFalse",
+      "question": "\"Neither\" используется, когда оба варианта не подходят.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Верно. Neither означает «ни один из двух»: Neither option is good."
+    },
+    {
+      "id": "tq_14_04",
+      "type": "multipleChoice",
+      "question": "Какой глагол правильный: \"Each student ___ a pen.\"?",
+      "options": [
+        "have",
+        "has",
+        "having",
+        "had"
+      ],
+      "correctIndex": 1,
+      "explanation": "Each + единственное число = has. Each student has a pen."
+    },
+    {
+      "id": "tq_14_05",
+      "type": "multipleChoice",
+      "question": "Где правильно стоит enough: \"He is ___.\"?",
+      "options": [
+        "enough old",
+        "old enough",
+        "enough tall",
+        "enough smart"
+      ],
+      "correctIndex": 1,
+      "explanation": "Enough стоит после прилагательного: old enough, tall enough, smart enough."
+    },
+    {
+      "id": "tq_14_06",
+      "type": "trueFalse",
+      "question": "\"Both teams was good.\" — предложение составлено правильно.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "Both + множественное число = were/are: Both teams were good."
+    },
+    {
+      "id": "tq_14_07",
+      "type": "multipleChoice",
+      "question": "\"Either\" означает:",
+      "options": [
+        "оба",
+        "ни один",
+        "любой из двух",
+        "все"
+      ],
+      "correctIndex": 2,
+      "explanation": "Either — любой из двух: Either day works for me (любой из двух дней мне подходит)."
+    },
+    {
+      "id": "tq_14_08",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"___ of them came to the party.\"",
+      "options": [
+        "Every",
+        "None",
+        "Each",
+        "Enough"
+      ],
+      "correctIndex": 1,
+      "explanation": "None of them — никто из них. Every не используется с of them."
+    },
+    {
+      "id": "tq_14_09",
+      "type": "trueFalse",
+      "question": "\"Every\" и \"each\" всегда взаимозаменяемы.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "Не всегда. Each подчёркивает индивидуальность, every — всеобщность. Each of them (но не every of them)."
+    },
+    {
+      "id": "tq_14_10",
+      "type": "multipleChoice",
+      "question": "\"We have ___ time.\" — выберите подходящее слово.",
+      "options": [
+        "every",
+        "each",
+        "enough",
+        "neither"
+      ],
+      "correctIndex": 2,
+      "explanation": "Enough time — достаточно времени. Every/each/neither не подходят по смыслу."
+    }
+  ],
+  "tasks": [
+    {
+      "id": "t14_1",
+      "type": "sentenceAssembly",
+      "question": "У каждого студента есть книга",
+      "correctAnswer": "Each student has a book",
+      "options": [],
+      "variants": [
+        [
+          "Each",
+          "Every",
+          "All",
+          "Both"
+        ],
+        [
+          "student",
+          "students",
+          "teacher",
+          "child"
+        ],
+        [
+          "has",
+          "have",
+          "had",
+          "having"
+        ],
+        [
+          "a",
+          "the",
+          "an",
+          "this"
+        ],
+        [
+          "book",
+          "pen",
+          "bag",
+          "phone"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_14_quantifiers/000.mp3"
+    },
+    {
+      "id": "t14_2",
+      "type": "sentenceAssembly",
+      "question": "Каждый ребёнок любит мороженое",
+      "correctAnswer": "Every child likes ice cream",
+      "options": [],
+      "variants": [
+        [
+          "Every",
+          "Each",
+          "All",
+          "Both"
+        ],
+        [
+          "child",
+          "children",
+          "kid",
+          "student"
+        ],
+        [
+          "likes",
+          "like",
+          "liked",
+          "liking"
+        ],
+        [
+          "ice",
+          "a",
+          "the",
+          "some"
+        ],
+        [
+          "cream",
+          "cake",
+          "candy",
+          "food"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_14_quantifiers/001.mp3"
+    },
+    {
+      "id": "t14_3",
+      "type": "sentenceAssembly",
+      "question": "Все студенты сдали тест",
+      "correctAnswer": "All students passed the test",
+      "options": [],
+      "variants": [
+        [
+          "All",
+          "Every",
+          "Each",
+          "Both"
+        ],
+        [
+          "students",
+          "student",
+          "people",
+          "teachers"
+        ],
+        [
+          "passed",
+          "pass",
+          "passing",
+          "passes"
+        ],
+        [
+          "the",
+          "a",
+          "this",
+          "that"
+        ],
+        [
+          "test",
+          "exam",
+          "quiz",
+          "class"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_14_quantifiers/002.mp3"
+    },
+    {
+      "id": "t14_4",
+      "type": "sentenceAssembly",
+      "question": "Оба варианта хорошие",
+      "correctAnswer": "Both options are good",
+      "options": [],
+      "variants": [
+        [
+          "Both",
+          "All",
+          "Each",
+          "Every"
+        ],
+        [
+          "options",
+          "option",
+          "answers",
+          "ways"
+        ],
+        [
+          "are",
+          "is",
+          "was",
+          "were"
+        ],
+        [
+          "good",
+          "bad",
+          "nice",
+          "great"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_14_quantifiers/003.mp3"
+    },
+    {
+      "id": "t14_5",
+      "type": "sentenceAssembly",
+      "question": "Ни один ответ не правильный",
+      "correctAnswer": "Neither answer is correct",
+      "options": [],
+      "variants": [
+        [
+          "Neither",
+          "Either",
+          "Both",
+          "Each"
+        ],
+        [
+          "answer",
+          "answers",
+          "option",
+          "question"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "were"
+        ],
+        [
+          "correct",
+          "wrong",
+          "good",
+          "right"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_14_quantifiers/004.mp3"
+    },
+    {
+      "id": "t14_6",
+      "type": "sentenceAssembly",
+      "question": "Любой день мне подходит",
+      "correctAnswer": "Either day works for me",
+      "options": [],
+      "variants": [
+        [
+          "Either",
+          "Neither",
+          "Each",
+          "Every"
+        ],
+        [
+          "day",
+          "days",
+          "time",
+          "week"
+        ],
+        [
+          "works",
+          "work",
+          "worked",
+          "working"
+        ],
+        [
+          "for",
+          "to",
+          "with",
+          "at"
+        ],
+        [
+          "me",
+          "I",
+          "my",
+          "him"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_14_quantifiers/005.mp3"
+    },
+    {
+      "id": "t14_7",
+      "type": "sentenceAssembly",
+      "question": "У нас достаточно времени",
+      "correctAnswer": "We have enough time",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "I",
+          "He"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        [
+          "enough",
+          "many",
+          "much",
+          "plenty"
+        ],
+        [
+          "time",
+          "money",
+          "food",
+          "water"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_14_quantifiers/006.mp3"
+    },
+    {
+      "id": "t14_8",
+      "type": "sentenceAssembly",
+      "question": "Каждый из них согласен",
+      "correctAnswer": "Each of them agrees",
+      "options": [],
+      "variants": [
+        [
+          "Each",
+          "Every",
+          "All",
+          "Both"
+        ],
+        [
+          "of",
+          "for",
+          "with",
+          "from"
+        ],
+        [
+          "them",
+          "they",
+          "their",
+          "us"
+        ],
+        [
+          "agrees",
+          "agree",
+          "agreed",
+          "agreeing"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_14_quantifiers/007.mp3"
+    },
+    {
+      "id": "t14_9",
+      "type": "sentenceAssembly",
+      "question": "Обе команды играли хорошо",
+      "correctAnswer": "Both teams played well",
+      "options": [],
+      "variants": [
+        [
+          "Both",
+          "All",
+          "Each",
+          "Every"
+        ],
+        [
+          "teams",
+          "team",
+          "players",
+          "groups"
+        ],
+        [
+          "played",
+          "play",
+          "plays",
+          "playing"
+        ],
+        [
+          "well",
+          "good",
+          "nice",
+          "great"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_14_quantifiers/008.mp3"
+    },
+    {
+      "id": "t14_10",
+      "type": "sentenceAssembly",
+      "question": "Все участники пришли",
+      "correctAnswer": "All members came on time",
+      "options": [],
+      "variants": [
+        [
+          "All",
+          "Every",
+          "Each",
+          "Both"
+        ],
+        [
+          "members",
+          "member",
+          "people",
+          "students"
+        ],
+        [
+          "came",
+          "come",
+          "comes",
+          "coming"
+        ],
+        [
+          "on",
+          "in",
+          "at",
+          "for"
+        ],
+        [
+          "time",
+          "day",
+          "place",
+          "hour"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_14_quantifiers/009.mp3"
+    },
+    {
+      "id": "t14_11",
+      "type": "sentenceAssembly",
+      "question": "Никто из них не пришёл",
+      "correctAnswer": "None of them came",
+      "options": [],
+      "variants": [
+        [
+          "None",
+          "Neither",
+          "All",
+          "Both"
+        ],
+        [
+          "of",
+          "for",
+          "with",
+          "from"
+        ],
+        [
+          "them",
+          "they",
+          "their",
+          "us"
+        ],
+        [
+          "came",
+          "come",
+          "comes",
+          "coming"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_14_quantifiers/010.mp3"
+    },
+    {
+      "id": "t14_12",
+      "type": "sentenceAssembly",
+      "question": "У нас достаточно денег",
+      "correctAnswer": "We have enough money",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "I",
+          "He"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        [
+          "enough",
+          "many",
+          "much",
+          "some"
+        ],
+        [
+          "money",
+          "time",
+          "food",
+          "water"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_14_quantifiers/011.mp3"
+    },
+    {
+      "id": "t14_13",
+      "type": "sentenceAssembly",
+      "question": "Каждый день важен",
+      "correctAnswer": "Every day is important",
+      "options": [],
+      "variants": [
+        [
+          "Every",
+          "Each",
+          "All",
+          "Both"
+        ],
+        [
+          "day",
+          "days",
+          "week",
+          "time"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "were"
+        ],
+        [
+          "important",
+          "special",
+          "good",
+          "great"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_14_quantifiers/012.mp3"
+    },
+    {
+      "id": "t14_14",
+      "type": "sentenceAssembly",
+      "question": "Ни одна комната не свободна",
+      "correctAnswer": "Neither room is available",
+      "options": [],
+      "variants": [
+        [
+          "Neither",
+          "Either",
+          "Both",
+          "Each"
+        ],
+        [
+          "room",
+          "rooms",
+          "door",
+          "place"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "were"
+        ],
+        [
+          "available",
+          "free",
+          "open",
+          "ready"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_14_quantifiers/013.mp3"
+    },
+    {
+      "id": "t14_15",
+      "type": "sentenceAssembly",
+      "question": "Оба ответа правильные",
+      "correctAnswer": "Both answers are correct",
+      "options": [],
+      "variants": [
+        [
+          "Both",
+          "All",
+          "Each",
+          "Every"
+        ],
+        [
+          "answers",
+          "answer",
+          "options",
+          "results"
+        ],
+        [
+          "are",
+          "is",
+          "was",
+          "were"
+        ],
+        [
+          "correct",
+          "wrong",
+          "good",
+          "right"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_14_quantifiers/014.mp3"
+    },
+    {
+      "id": "t14_16",
+      "type": "sentenceAssembly",
+      "question": "Несколько человек опоздали",
+      "correctAnswer": "Several people were late",
+      "options": [],
+      "variants": [
+        [
+          "Several",
+          "Few",
+          "All",
+          "Both"
+        ],
+        [
+          "people",
+          "person",
+          "men",
+          "students"
+        ],
+        [
+          "were",
+          "was",
+          "are",
+          "is"
+        ],
+        [
+          "late",
+          "early",
+          "tired",
+          "busy"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_14_quantifiers/015.mp3"
+    },
+    {
+      "id": "t14_17",
+      "type": "sentenceAssembly",
+      "question": "Большинство людей согласны",
+      "correctAnswer": "Most people agree with him",
+      "options": [],
+      "variants": [
+        [
+          "Most",
+          "All",
+          "Every",
+          "Each"
+        ],
+        [
+          "people",
+          "person",
+          "men",
+          "students"
+        ],
+        [
+          "agree",
+          "agrees",
+          "agreed",
+          "agreeing"
+        ],
+        [
+          "with",
+          "to",
+          "for",
+          "at"
+        ],
+        [
+          "him",
+          "he",
+          "his",
+          "them"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_14_quantifiers/016.mp3"
+    },
+    {
+      "id": "t14_18",
+      "type": "sentenceAssembly",
+      "question": "Мало студентов пришло",
+      "correctAnswer": "Few students came today",
+      "options": [],
+      "variants": [
+        [
+          "Few",
+          "Little",
+          "Several",
+          "Many"
+        ],
+        [
+          "students",
+          "student",
+          "people",
+          "teachers"
+        ],
+        [
+          "came",
+          "come",
+          "comes",
+          "coming"
+        ],
+        [
+          "today",
+          "here",
+          "early",
+          "late"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_14_quantifiers/017.mp3"
+    },
+    {
+      "id": "t14_19",
+      "type": "sentenceAssembly",
+      "question": "Воды осталось мало",
+      "correctAnswer": "There is little water left",
+      "options": [],
+      "variants": [
+        [
+          "There",
+          "Here",
+          "It",
+          "That"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "were"
+        ],
+        [
+          "little",
+          "few",
+          "some",
+          "many"
+        ],
+        [
+          "water",
+          "milk",
+          "food",
+          "time"
+        ],
+        [
+          "left",
+          "here",
+          "there",
+          "now"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_14_quantifiers/018.mp3"
+    },
+    {
+      "id": "t14_20",
+      "type": "sentenceAssembly",
+      "question": "У нас много еды",
+      "correctAnswer": "We have plenty of food",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "I",
+          "He"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        [
+          "plenty",
+          "enough",
+          "many",
+          "much"
+        ],
+        [
+          "of",
+          "for",
+          "with",
+          "from"
+        ],
+        [
+          "food",
+          "water",
+          "time",
+          "money"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_14_quantifiers/019.mp3"
+    },
+    {
+      "id": "t14_21",
+      "type": "sentenceAssembly",
+      "question": "Каждый из вас готов?",
+      "correctAnswer": "Is each of you ready",
+      "options": [],
+      "variants": [
+        [
+          "Is",
+          "Are",
+          "Do",
+          "Does"
+        ],
+        [
+          "each",
+          "every",
+          "all",
+          "both"
+        ],
+        [
+          "of",
+          "for",
+          "with",
+          "from"
+        ],
+        [
+          "you",
+          "them",
+          "us",
+          "they"
+        ],
+        [
+          "ready",
+          "here",
+          "fine",
+          "good"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_14_quantifiers/020.mp3"
+    },
+    {
+      "id": "t14_22",
+      "type": "sentenceAssembly",
+      "question": "Оба билета доступны?",
+      "correctAnswer": "Are both tickets available",
+      "options": [],
+      "variants": [
+        [
+          "Are",
+          "Is",
+          "Do",
+          "Does"
+        ],
+        [
+          "both",
+          "all",
+          "each",
+          "every"
+        ],
+        [
+          "tickets",
+          "ticket",
+          "seats",
+          "rooms"
+        ],
+        [
+          "available",
+          "free",
+          "ready",
+          "open"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_14_quantifiers/021.mp3"
+    },
+    {
+      "id": "t14_23",
+      "type": "sentenceAssembly",
+      "question": "У вас достаточно денег?",
+      "correctAnswer": "Do you have enough money",
+      "options": [],
+      "variants": [
+        [
+          "Do",
+          "Does",
+          "Are",
+          "Is"
+        ],
+        [
+          "you",
+          "he",
+          "she",
+          "they"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        [
+          "enough",
+          "many",
+          "much",
+          "some"
+        ],
+        [
+          "money",
+          "time",
+          "food",
+          "water"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_14_quantifiers/022.mp3"
+    },
+    {
+      "id": "t14_24",
+      "type": "sentenceAssembly",
+      "question": "Все знают правду?",
+      "correctAnswer": "Does everyone know the truth",
+      "options": [],
+      "variants": [
+        [
+          "Does",
+          "Do",
+          "Is",
+          "Are"
+        ],
+        [
+          "everyone",
+          "somebody",
+          "nobody",
+          "anyone"
+        ],
+        [
+          "know",
+          "knows",
+          "knew",
+          "knowing"
+        ],
+        [
+          "the",
+          "a",
+          "this",
+          "that"
+        ],
+        [
+          "truth",
+          "answer",
+          "rule",
+          "way"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_14_quantifiers/023.mp3"
+    },
+    {
+      "id": "t14_25",
+      "type": "sentenceAssembly",
+      "question": "Любой вариант подойдёт?",
+      "correctAnswer": "Will either option work",
+      "options": [],
+      "variants": [
+        [
+          "Will",
+          "Does",
+          "Do",
+          "Is"
+        ],
+        [
+          "either",
+          "neither",
+          "both",
+          "each"
+        ],
+        [
+          "option",
+          "options",
+          "answer",
+          "way"
+        ],
+        [
+          "work",
+          "works",
+          "worked",
+          "working"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_14_quantifiers/024.mp3"
+    },
+    {
+      "id": "t14_26",
+      "type": "sentenceAssembly",
+      "question": "Не все согласились",
+      "correctAnswer": "Not all of them agreed",
+      "options": [],
+      "variants": [
+        [
+          "Not",
+          "No",
+          "None",
+          "Neither"
+        ],
+        [
+          "all",
+          "every",
+          "each",
+          "both"
+        ],
+        [
+          "of",
+          "for",
+          "with",
+          "from"
+        ],
+        [
+          "them",
+          "they",
+          "us",
+          "we"
+        ],
+        [
+          "agreed",
+          "agree",
+          "agrees",
+          "agreeing"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_14_quantifiers/025.mp3"
+    },
+    {
+      "id": "t14_27",
+      "type": "sentenceAssembly",
+      "question": "Ни один план не сработал",
+      "correctAnswer": "Neither plan worked out",
+      "options": [],
+      "variants": [
+        [
+          "Neither",
+          "Either",
+          "Both",
+          "Each"
+        ],
+        [
+          "plan",
+          "plans",
+          "idea",
+          "way"
+        ],
+        [
+          "worked",
+          "work",
+          "works",
+          "working"
+        ],
+        [
+          "out",
+          "up",
+          "on",
+          "in"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_14_quantifiers/026.mp3"
+    },
+    {
+      "id": "t14_28",
+      "type": "sentenceAssembly",
+      "question": "Он недостаточно старый",
+      "correctAnswer": "He is not old enough",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "I",
+          "They"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "were"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "none"
+        ],
+        [
+          "old",
+          "young",
+          "tall",
+          "big"
+        ],
+        [
+          "enough",
+          "much",
+          "very",
+          "too"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_14_quantifiers/027.mp3"
+    },
+    {
+      "id": "t14_29",
+      "type": "sentenceAssembly",
+      "question": "Ни один из них не знает",
+      "correctAnswer": "None of them knows the answer",
+      "options": [],
+      "variants": [
+        [
+          "None",
+          "Neither",
+          "All",
+          "Both"
+        ],
+        [
+          "of",
+          "for",
+          "with",
+          "from"
+        ],
+        [
+          "them",
+          "they",
+          "us",
+          "we"
+        ],
+        [
+          "knows",
+          "know",
+          "knew",
+          "knowing"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "answer",
+          "truth",
+          "way",
+          "rule"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_14_quantifiers/028.mp3"
+    },
+    {
+      "id": "t14_30",
+      "type": "sentenceAssembly",
+      "question": "Я прочитал всю книгу",
+      "correctAnswer": "I read the whole book",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "read",
+          "reads",
+          "reading",
+          "readed"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "whole",
+          "all",
+          "every",
+          "each"
+        ],
+        [
+          "book",
+          "story",
+          "text",
+          "page"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_14_quantifiers/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionIntermediate14QuantifiersDeterminers"
+}

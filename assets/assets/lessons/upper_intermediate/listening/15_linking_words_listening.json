@@ -1,0 +1,461 @@
+{
+  "id": "upper_listening_15_linking_words",
+  "title": "Linking Words",
+  "description": "Слушайте и определяйте логические связи между идеями.",
+  "order": 15,
+  "level": "upper_intermediate",
+  "imageUrl": "assets/images/lessons/linking_words.png",
+  "tasks": [
+    {
+      "id": "t15_01",
+      "audioText": "The company reported record profits last quarter. However, they announced plans to cut five hundred jobs across several departments.",
+      "transcript": "However, they announced plans to cut five hundred jobs across several departments.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Despite the profits, the company still plans significant staff reductions."
+        },
+        {
+          "id": "o2",
+          "text": "The company is hiring more employees because of the record profits."
+        },
+        {
+          "id": "o3",
+          "text": "The company made a loss and needs to cut jobs."
+        },
+        {
+          "id": "o4",
+          "text": "All departments will receive bonuses this quarter."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'However' introduces a contrast. Despite good financial results, the unexpected decision was to reduce the workforce.",
+      "mistakeTags": [
+        "linking_words",
+        "contrast"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_15_linking_words/t15_01.mp3"
+    },
+    {
+      "id": "t15_02",
+      "audioText": "The experiment yielded very promising results in the laboratory tests. Therefore, the research team decided to proceed with the clinical trials immediately.",
+      "transcript": "Therefore, the research team decided to proceed with the clinical trials immediately.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The team abandoned the project after the laboratory tests."
+        },
+        {
+          "id": "o2",
+          "text": "As a result of the good lab results, they moved forward with human testing."
+        },
+        {
+          "id": "o3",
+          "text": "The clinical trials were cancelled due to poor results."
+        },
+        {
+          "id": "o4",
+          "text": "The team repeated the laboratory tests several more times."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Therefore' shows a logical consequence. The positive lab results directly led to the decision to begin clinical trials.",
+      "mistakeTags": [
+        "linking_words",
+        "cause_effect"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_15_linking_words/t15_02.mp3"
+    },
+    {
+      "id": "t15_03",
+      "audioText": "The new policy has many supporters in the government. Nevertheless, several opposition leaders have raised serious concerns about its implementation.",
+      "transcript": "Nevertheless, several opposition leaders have raised serious concerns about its implementation.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Everyone in government fully supports the new policy."
+        },
+        {
+          "id": "o2",
+          "text": "Despite the support, some opposition figures expressed strong worries about how it would work."
+        },
+        {
+          "id": "o3",
+          "text": "The opposition has no objections to the new policy."
+        },
+        {
+          "id": "o4",
+          "text": "The policy was withdrawn before anyone could comment."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Nevertheless' signals a concession or contrast. Despite support, opposition concerns exist about implementation.",
+      "mistakeTags": [
+        "linking_words",
+        "concession"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_15_linking_words/t15_03.mp3"
+    },
+    {
+      "id": "t15_04",
+      "audioText": "Rebecca wanted to attend the outdoor music festival this weekend. Although it was raining heavily, she decided to go anyway and had a wonderful time.",
+      "transcript": "Although it was raining heavily, she decided to go anyway and had a wonderful time.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She stayed home because of the heavy rain."
+        },
+        {
+          "id": "o2",
+          "text": "Despite the heavy rain, she attended the festival and enjoyed it."
+        },
+        {
+          "id": "o3",
+          "text": "The festival was cancelled due to the weather."
+        },
+        {
+          "id": "o4",
+          "text": "It was sunny and she had a terrible time at the festival."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Although' introduces a concessive clause. The rain didn't prevent her from going, and she enjoyed the experience.",
+      "mistakeTags": [
+        "linking_words",
+        "concession"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_15_linking_words/t15_04.mp3"
+    },
+    {
+      "id": "t15_05",
+      "audioText": "The city centre has excellent public transport connections. Moreover, the area offers a wide range of restaurants, shops, and cultural venues.",
+      "transcript": "Moreover, the area offers a wide range of restaurants, shops, and cultural venues.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "In addition to good transport, the area has diverse dining, shopping, and cultural options."
+        },
+        {
+          "id": "o2",
+          "text": "The area only has transport links but nothing else."
+        },
+        {
+          "id": "o3",
+          "text": "The city centre lacks restaurants and shops."
+        },
+        {
+          "id": "o4",
+          "text": "The transport connections are poor but restaurants are good."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Moreover' adds information to strengthen the previous point. The area has transport AND many other amenities.",
+      "mistakeTags": [
+        "linking_words",
+        "addition"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_15_linking_words/t15_05.mp3"
+    },
+    {
+      "id": "t15_06",
+      "audioText": "The athlete trained rigorously for the Olympic qualifying event. Despite months of intensive preparation, she narrowly missed the qualification time.",
+      "transcript": "Despite months of intensive preparation, she narrowly missed the qualification time.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She qualified easily after months of training."
+        },
+        {
+          "id": "o2",
+          "text": "Even with extensive training, she just barely failed to meet the qualifying standard."
+        },
+        {
+          "id": "o3",
+          "text": "She didn't prepare at all for the qualifying event."
+        },
+        {
+          "id": "o4",
+          "text": "She decided not to compete in the Olympic qualifiers."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Despite' introduces a contrast between effort and result. Her hard training still wasn't quite enough to qualify.",
+      "mistakeTags": [
+        "linking_words",
+        "contrast"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_15_linking_words/t15_06.mp3"
+    },
+    {
+      "id": "t15_07",
+      "audioText": "The northern region of the country has a cold, harsh climate throughout the year. Whereas the southern coast enjoys mild temperatures and abundant sunshine.",
+      "transcript": "Whereas the southern coast enjoys mild temperatures and abundant sunshine.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Both the north and south have the same climate."
+        },
+        {
+          "id": "o2",
+          "text": "In contrast to the cold north, the south has pleasant weather and lots of sun."
+        },
+        {
+          "id": "o3",
+          "text": "The southern coast also has cold, harsh weather."
+        },
+        {
+          "id": "o4",
+          "text": "The northern region has better weather than the south."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Whereas' directly contrasts two things. The cold northern climate is opposed to the mild, sunny southern coast.",
+      "mistakeTags": [
+        "linking_words",
+        "contrast"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_15_linking_words/t15_07.mp3"
+    },
+    {
+      "id": "t15_08",
+      "audioText": "The government increased funding for renewable energy projects significantly. As a result, solar panel installations tripled across the country in just two years.",
+      "transcript": "As a result, solar panel installations tripled across the country in just two years.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The increased funding led to three times more solar installations nationwide in two years."
+        },
+        {
+          "id": "o2",
+          "text": "Solar panel installations decreased despite the extra funding."
+        },
+        {
+          "id": "o3",
+          "text": "The government cut funding for renewable energy."
+        },
+        {
+          "id": "o4",
+          "text": "Solar panels became more expensive after the funding increase."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'As a result' signals a direct consequence. More funding caused a dramatic increase in solar installations.",
+      "mistakeTags": [
+        "linking_words",
+        "cause_effect"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_15_linking_words/t15_08.mp3"
+    },
+    {
+      "id": "t15_09",
+      "audioText": "The CEO was known for being strict and demanding with all employees. In spite of his tough reputation, he was incredibly generous with charitable donations.",
+      "transcript": "In spite of his tough reputation, he was incredibly generous with charitable donations.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Contrary to his strict image, he donated very generously to charity."
+        },
+        {
+          "id": "o2",
+          "text": "His strict nature extended to charitable giving as well."
+        },
+        {
+          "id": "o3",
+          "text": "He never donated to any charities."
+        },
+        {
+          "id": "o4",
+          "text": "His employees described him as kind and easygoing."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'In spite of' introduces a surprising contrast. His generous charity work contradicted his tough professional image.",
+      "mistakeTags": [
+        "linking_words",
+        "concession"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_15_linking_words/t15_09.mp3"
+    },
+    {
+      "id": "t15_10",
+      "audioText": "The small bakery has been growing steadily over the past five years. Furthermore, they recently won a national award for their sourdough bread.",
+      "transcript": "Furthermore, they recently won a national award for their sourdough bread.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The bakery closed down after five years of poor sales."
+        },
+        {
+          "id": "o2",
+          "text": "On top of their steady growth, they also earned a national bread award."
+        },
+        {
+          "id": "o3",
+          "text": "They stopped making sourdough bread last year."
+        },
+        {
+          "id": "o4",
+          "text": "Their sourdough bread received negative reviews."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Furthermore' adds supporting information. Not only is the bakery growing, but it also won a prestigious award.",
+      "mistakeTags": [
+        "linking_words",
+        "addition"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_15_linking_words/t15_10.mp3"
+    },
+    {
+      "id": "t15_11",
+      "audioText": "Many tourists visit the ancient temple for its historical significance. On the other hand, local residents prefer the nearby modern art gallery.",
+      "transcript": "On the other hand, local residents prefer the nearby modern art gallery.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Both tourists and locals prefer the ancient temple equally."
+        },
+        {
+          "id": "o2",
+          "text": "In contrast to tourists, locals favour the contemporary art gallery instead."
+        },
+        {
+          "id": "o3",
+          "text": "Local residents also love visiting the ancient temple."
+        },
+        {
+          "id": "o4",
+          "text": "The art gallery is closed and nobody visits it."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'On the other hand' presents an opposing viewpoint. Tourists like history; locals prefer modern art.",
+      "mistakeTags": [
+        "linking_words",
+        "contrast"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_15_linking_words/t15_11.mp3"
+    },
+    {
+      "id": "t15_12",
+      "audioText": "The new employee had no previous experience in the technology sector. Nonetheless, she impressed everyone with her quick learning ability and fresh ideas.",
+      "transcript": "Nonetheless, she impressed everyone with her quick learning ability and fresh ideas.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Her lack of tech experience didn't matter because she learned fast and brought new ideas."
+        },
+        {
+          "id": "o2",
+          "text": "She struggled badly because of her lack of experience."
+        },
+        {
+          "id": "o3",
+          "text": "Nobody noticed that she had no technology background."
+        },
+        {
+          "id": "o4",
+          "text": "She was fired due to her inexperience in the field."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Nonetheless' introduces an unexpected positive outcome despite a disadvantage. Her qualities overcame her lack of experience.",
+      "mistakeTags": [
+        "linking_words",
+        "concession"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_15_linking_words/t15_12.mp3"
+    },
+    {
+      "id": "t15_13",
+      "audioText": "The traffic in the capital has worsened considerably over the last decade. Consequently, the government has invested billions in expanding the metro system.",
+      "transcript": "Consequently, the government has invested billions in expanding the metro system.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The worsening traffic caused the government to spend heavily on metro expansion."
+        },
+        {
+          "id": "o2",
+          "text": "The government reduced spending on public transport."
+        },
+        {
+          "id": "o3",
+          "text": "Traffic improved without any government intervention."
+        },
+        {
+          "id": "o4",
+          "text": "The metro system was shut down to save money."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Consequently' signals a direct result. Bad traffic was the cause; metro investment was the government's response.",
+      "mistakeTags": [
+        "linking_words",
+        "cause_effect"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_15_linking_words/t15_13.mp3"
+    },
+    {
+      "id": "t15_14",
+      "audioText": "Working from home gives employees more flexibility and saves commuting time. Conversely, it can lead to feelings of isolation and difficulty separating work from personal life.",
+      "transcript": "Conversely, it can lead to feelings of isolation and difficulty separating work from personal life.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "On the opposite side, remote work may cause loneliness and blurred work-life boundaries."
+        },
+        {
+          "id": "o2",
+          "text": "Working from home has only positive effects on employees."
+        },
+        {
+          "id": "o3",
+          "text": "Remote workers never feel isolated or overworked."
+        },
+        {
+          "id": "o4",
+          "text": "All employees prefer working from home to office work."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Conversely' presents the opposite perspective. While remote work has benefits, it also has significant drawbacks.",
+      "mistakeTags": [
+        "linking_words",
+        "contrast"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_15_linking_words/t15_14.mp3"
+    },
+    {
+      "id": "t15_15",
+      "audioText": "The charity struggled to find enough volunteers for the summer programme. Eventually, a local business offered to sponsor the event and recruit staff from their own team.",
+      "transcript": "Eventually, a local business offered to sponsor the event and recruit staff from their own team.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The charity cancelled the programme because no one volunteered."
+        },
+        {
+          "id": "o2",
+          "text": "After some time, a nearby company stepped in to fund and staff the programme."
+        },
+        {
+          "id": "o3",
+          "text": "Many volunteers signed up immediately without any issues."
+        },
+        {
+          "id": "o4",
+          "text": "The local business refused to help the charity."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Eventually' indicates that after a period of difficulty, a resolution came. The business provided both funding and people.",
+      "mistakeTags": [
+        "linking_words",
+        "sequence"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_15_linking_words/t15_15.mp3"
+    }
+  ],
+  "short_description": "Логические связи: however, therefore, moreover и др."
+}

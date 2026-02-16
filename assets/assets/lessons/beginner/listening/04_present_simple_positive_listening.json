@@ -1,0 +1,461 @@
+{
+  "id": "beginner_listening_04_present_simple_positive",
+  "title": "Present Simple: Positive",
+  "description": "Слушайте короткие утвердительные предложения в Present Simple.",
+  "order": 4,
+  "level": "beginner",
+  "imageUrl": "assets/images/lessons/present_simple_positive.png",
+  "short_description": "Короткие утвердительные предложения.",
+  "tasks": [
+    {
+      "id": "t4_01",
+      "audioText": "He wakes up at six. He goes to work every day. He wakes up at six.",
+      "transcript": "He wakes up at six.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He wakes up at six."
+        },
+        {
+          "id": "o2",
+          "text": "He wakes up at seven."
+        },
+        {
+          "id": "o3",
+          "text": "He is waking up now."
+        },
+        {
+          "id": "o4",
+          "text": "He went to bed at six."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says he wakes at six regularly. Other options change the time or tense.",
+      "mistakeTags": [
+        "home",
+        "present_simple_positive"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_04_present_simple_positive/t4_01.mp3"
+    },
+    {
+      "id": "t4_02",
+      "audioText": "At the cafe she drinks coffee. She loves black coffee. She drinks coffee every morning.",
+      "transcript": "She drinks coffee every morning.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She drinks coffee every morning."
+        },
+        {
+          "id": "o2",
+          "text": "She drinks coffee every night."
+        },
+        {
+          "id": "o3",
+          "text": "She is drinking coffee now."
+        },
+        {
+          "id": "o4",
+          "text": "She drank coffee yesterday."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence describes a habit now. Other options change time or tense.",
+      "mistakeTags": [
+        "cafe",
+        "present_simple_positive"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_04_present_simple_positive/t4_02.mp3"
+    },
+    {
+      "id": "t4_03",
+      "audioText": "They arrive at the market. They buy fruit each weekend. They buy fruit each weekend.",
+      "transcript": "They buy fruit each weekend.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "They buy fruit each weekend."
+        },
+        {
+          "id": "o2",
+          "text": "They buy fruit every day."
+        },
+        {
+          "id": "o3",
+          "text": "They are buying fruit now."
+        },
+        {
+          "id": "o4",
+          "text": "They bought fruit last week."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence shows a regular action. Other options change frequency or tense.",
+      "mistakeTags": [
+        "market",
+        "present_simple_positive"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_04_present_simple_positive/t4_03.mp3"
+    },
+    {
+      "id": "t4_04",
+      "audioText": "At the office he checks emails. He answers messages quickly. He answers messages quickly.",
+      "transcript": "He answers messages quickly.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He answers messages quickly."
+        },
+        {
+          "id": "o2",
+          "text": "He answers messages slowly."
+        },
+        {
+          "id": "o3",
+          "text": "He is answering a message now."
+        },
+        {
+          "id": "o4",
+          "text": "He answered messages yesterday."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence states a usual behavior. Other options change speed or tense.",
+      "mistakeTags": [
+        "office",
+        "present_simple_positive"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_04_present_simple_positive/t4_04.mp3"
+    },
+    {
+      "id": "t4_05",
+      "audioText": "She visits the bank on Mondays. She pays bills there. She visits the bank on Mondays.",
+      "transcript": "She visits the bank on Mondays.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She visits the bank on Mondays."
+        },
+        {
+          "id": "o2",
+          "text": "She visits the bank on Fridays."
+        },
+        {
+          "id": "o3",
+          "text": "She is visiting the bank now."
+        },
+        {
+          "id": "o4",
+          "text": "She visited the bank yesterday."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence shows a routine. Other options change the day or tense.",
+      "mistakeTags": [
+        "bank",
+        "present_simple_positive"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_04_present_simple_positive/t4_05.mp3"
+    },
+    {
+      "id": "t4_06",
+      "audioText": "The teacher checks homework every day. The students listen. The teacher checks homework every day.",
+      "transcript": "The teacher checks homework every day.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The teacher checks homework every day."
+        },
+        {
+          "id": "o2",
+          "text": "The teacher checks homework once a week."
+        },
+        {
+          "id": "o3",
+          "text": "The teacher is checking homework now."
+        },
+        {
+          "id": "o4",
+          "text": "The teacher checked homework yesterday."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence describes a daily habit. Other options change frequency or tense.",
+      "mistakeTags": [
+        "school",
+        "present_simple_positive"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_04_present_simple_positive/t4_06.mp3"
+    },
+    {
+      "id": "t4_07",
+      "audioText": "He walks to work in the park. He likes fresh air. He walks to work every day.",
+      "transcript": "He walks to work every day.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He walks to work every day."
+        },
+        {
+          "id": "o2",
+          "text": "He takes a car every day."
+        },
+        {
+          "id": "o3",
+          "text": "He is walking to work now."
+        },
+        {
+          "id": "o4",
+          "text": "He walked to work yesterday."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence states a regular action. Other options change the method or tense.",
+      "mistakeTags": [
+        "park",
+        "present_simple_positive"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_04_present_simple_positive/t4_07.mp3"
+    },
+    {
+      "id": "t4_08",
+      "audioText": "At the shop the seller counts shirts. He sells many shirts. He sells many shirts.",
+      "transcript": "He sells many shirts.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He sells many shirts."
+        },
+        {
+          "id": "o2",
+          "text": "He sells one shirt."
+        },
+        {
+          "id": "o3",
+          "text": "He is selling a shirt now."
+        },
+        {
+          "id": "o4",
+          "text": "He sold many shirts yesterday."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence describes what he does regularly. Other options change quantity or tense.",
+      "mistakeTags": [
+        "shop",
+        "present_simple_positive"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_04_present_simple_positive/t4_08.mp3"
+    },
+    {
+      "id": "t4_09",
+      "audioText": "She cooks dinner at six. Her family waits. She cooks dinner at six.",
+      "transcript": "She cooks dinner at six.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She cooks dinner at six."
+        },
+        {
+          "id": "o2",
+          "text": "She cooks dinner at seven."
+        },
+        {
+          "id": "o3",
+          "text": "She is cooking dinner now."
+        },
+        {
+          "id": "o4",
+          "text": "She cooked dinner yesterday."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence shows a regular time for cooking. Other options change the time or tense.",
+      "mistakeTags": [
+        "home",
+        "present_simple_positive"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_04_present_simple_positive/t4_09.mp3"
+    },
+    {
+      "id": "t4_10",
+      "audioText": "The bus stops at this corner. People get on. The bus stops at this corner.",
+      "transcript": "The bus stops at this corner.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The bus stops at this corner."
+        },
+        {
+          "id": "o2",
+          "text": "The bus stops at the next corner."
+        },
+        {
+          "id": "o3",
+          "text": "The bus is stopping now."
+        },
+        {
+          "id": "o4",
+          "text": "The bus stopped here earlier."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence states a regular route. Other options change location or tense.",
+      "mistakeTags": [
+        "bus_station",
+        "present_simple_positive"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_04_present_simple_positive/t4_10.mp3"
+    },
+    {
+      "id": "t4_11",
+      "audioText": "He trains in the gym three times a week. He lifts weights. He trains in the gym three times a week.",
+      "transcript": "He trains in the gym three times a week.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He trains in the gym three times a week."
+        },
+        {
+          "id": "o2",
+          "text": "He trains every day."
+        },
+        {
+          "id": "o3",
+          "text": "He is training now."
+        },
+        {
+          "id": "o4",
+          "text": "He trained three times last week."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence shows a habitual schedule. Other options change frequency or tense.",
+      "mistakeTags": [
+        "gym",
+        "present_simple_positive"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_04_present_simple_positive/t4_11.mp3"
+    },
+    {
+      "id": "t4_12",
+      "audioText": "The store opens at nine every morning. Customers come early. The store opens at nine.",
+      "transcript": "The store opens at nine.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The store opens at nine."
+        },
+        {
+          "id": "o2",
+          "text": "The store opens at eight."
+        },
+        {
+          "id": "o3",
+          "text": "The store is open now."
+        },
+        {
+          "id": "o4",
+          "text": "The store opened yesterday."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence gives the usual opening time. Other options change time or tense.",
+      "mistakeTags": [
+        "shop",
+        "present_simple_positive"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_04_present_simple_positive/t4_12.mp3"
+    },
+    {
+      "id": "t4_13",
+      "audioText": "At the clinic the doctor checks records. He helps many patients. He helps many patients.",
+      "transcript": "He helps many patients.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He helps many patients."
+        },
+        {
+          "id": "o2",
+          "text": "He helps one patient."
+        },
+        {
+          "id": "o3",
+          "text": "He is helping a patient now."
+        },
+        {
+          "id": "o4",
+          "text": "He helped many patients yesterday."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence describes his regular work. Other options change number or tense.",
+      "mistakeTags": [
+        "hospital",
+        "present_simple_positive"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_04_present_simple_positive/t4_13.mp3"
+    },
+    {
+      "id": "t4_14",
+      "audioText": "She checks her calendar at work. She starts meetings at nine. She starts meetings at nine.",
+      "transcript": "She starts meetings at nine.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She starts meetings at nine."
+        },
+        {
+          "id": "o2",
+          "text": "She starts meetings at ten."
+        },
+        {
+          "id": "o3",
+          "text": "She is starting a meeting now."
+        },
+        {
+          "id": "o4",
+          "text": "She started meetings yesterday."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence shows a regular schedule. Other options change time or tense.",
+      "mistakeTags": [
+        "office",
+        "present_simple_positive"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_04_present_simple_positive/t4_14.mp3"
+    },
+    {
+      "id": "t4_15",
+      "audioText": "They clean the house on Saturdays. The house is tidy then. They clean the house on Saturdays.",
+      "transcript": "They clean the house on Saturdays.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "They clean the house on Saturdays."
+        },
+        {
+          "id": "o2",
+          "text": "They clean the house on Sundays."
+        },
+        {
+          "id": "o3",
+          "text": "They are cleaning the house now."
+        },
+        {
+          "id": "o4",
+          "text": "They cleaned the house yesterday."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence shows a weekly habit. Other options change the day or tense.",
+      "mistakeTags": [
+        "home",
+        "present_simple_positive"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_04_present_simple_positive/t4_15.mp3"
+    }
+  ]
+}

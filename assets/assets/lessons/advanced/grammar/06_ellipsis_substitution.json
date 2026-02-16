@@ -1,0 +1,2441 @@
+{
+  "id": "advanced_06_ellipsis_substitution",
+  "title": "Ellipsis & Substitution",
+  "description": "Эллипсис убирает лишние слова, а замещение подставляет короткие слова вместо длинных фраз. So do I, neither did he, I think so — всё это про экономию слов.",
+  "order": 6,
+  "level": "advanced",
+  "imageUrl": "assets/images/lessons/ellipsis_substitution.png",
+  "vocabulary": [
+    {
+      "id": "v6_so",
+      "english": "so",
+      "russian": "тоже / так",
+      "partOfSpeech": "adverb",
+      "example": "So do I.",
+      "exampleTranslation": "Я тоже.",
+      "audioPath": "assets/audio/vocabulary/v6_so.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_so.mp3"
+    },
+    {
+      "id": "v6_neither",
+      "english": "neither",
+      "russian": "тоже не / ни",
+      "partOfSpeech": "adverb",
+      "example": "Neither did he.",
+      "exampleTranslation": "Он тоже нет.",
+      "audioPath": "assets/audio/vocabulary/v6_neither.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_neither.mp3"
+    },
+    {
+      "id": "v6_too",
+      "english": "too",
+      "russian": "тоже",
+      "partOfSpeech": "adverb",
+      "example": "I can too.",
+      "exampleTranslation": "Я тоже могу.",
+      "audioPath": "assets/audio/vocabulary/v6_too.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_too.mp3"
+    },
+    {
+      "id": "v6_either",
+      "english": "either",
+      "russian": "тоже (в отриц.)",
+      "partOfSpeech": "adverb",
+      "example": "I can't either.",
+      "exampleTranslation": "Я тоже не могу.",
+      "audioPath": "assets/audio/vocabulary/v6_either.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_either.mp3"
+    },
+    {
+      "id": "v6_one",
+      "english": "one / ones",
+      "russian": "один / те (замена сущ.)",
+      "partOfSpeech": "pronoun",
+      "example": "The blue one.",
+      "exampleTranslation": "Синий (тот).",
+      "audioPath": "assets/audio/vocabulary/v6_one.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_one.mp3"
+    },
+    {
+      "id": "v6_hope",
+      "english": "hope",
+      "russian": "надеяться",
+      "partOfSpeech": "verb",
+      "example": "I hope so.",
+      "exampleTranslation": "Я надеюсь, что да.",
+      "audioPath": "assets/audio/vocabulary/v6_hope.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_hope.mp3"
+    },
+    {
+      "id": "v6_think",
+      "english": "think",
+      "russian": "думать",
+      "partOfSpeech": "verb",
+      "example": "I think so.",
+      "exampleTranslation": "Я думаю, что да.",
+      "audioPath": "assets/audio/vocabulary/v6_think.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_think.mp3"
+    },
+    {
+      "id": "v6_afraid",
+      "english": "afraid",
+      "russian": "бояться (к сожалению)",
+      "partOfSpeech": "adjective",
+      "example": "I'm afraid not.",
+      "exampleTranslation": "Боюсь, что нет.",
+      "audioPath": "assets/audio/vocabulary/v6_afraid.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_afraid.mp3"
+    },
+    {
+      "id": "v6_suppose",
+      "english": "suppose",
+      "russian": "полагать",
+      "partOfSpeech": "verb",
+      "example": "I suppose so.",
+      "exampleTranslation": "Полагаю, что да.",
+      "audioPath": "assets/audio/vocabulary/v6_suppose.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_suppose.mp3"
+    },
+    {
+      "id": "v6_believe",
+      "english": "believe",
+      "russian": "верить / считать",
+      "partOfSpeech": "verb",
+      "example": "I believe so.",
+      "exampleTranslation": "Я считаю, что да.",
+      "audioPath": "assets/audio/vocabulary/v6_believe.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_believe.mp3"
+    },
+    {
+      "id": "v6_expect",
+      "english": "expect",
+      "russian": "ожидать",
+      "partOfSpeech": "verb",
+      "example": "I expect so.",
+      "exampleTranslation": "Полагаю, что да.",
+      "audioPath": "assets/audio/vocabulary/v6_expect.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_expect.mp3"
+    },
+    {
+      "id": "v6_swim",
+      "english": "swim",
+      "russian": "плавать",
+      "partOfSpeech": "verb",
+      "example": "He can swim.",
+      "exampleTranslation": "Он умеет плавать.",
+      "audioPath": "assets/audio/vocabulary/v6_swim.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_swim.mp3"
+    },
+    {
+      "id": "v6_cook",
+      "english": "cook",
+      "russian": "готовить",
+      "partOfSpeech": "verb",
+      "example": "She can cook.",
+      "exampleTranslation": "Она умеет готовить.",
+      "audioPath": "assets/audio/vocabulary/v6_cook.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_cook.mp3"
+    },
+    {
+      "id": "v6_drive",
+      "english": "drive",
+      "russian": "водить",
+      "partOfSpeech": "verb",
+      "example": "He can drive.",
+      "exampleTranslation": "Он умеет водить.",
+      "audioPath": "assets/audio/vocabulary/v6_drive.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_drive.mp3"
+    },
+    {
+      "id": "v6_ask",
+      "english": "ask",
+      "russian": "просить / спрашивать",
+      "partOfSpeech": "verb",
+      "example": "She asked me to.",
+      "exampleTranslation": "Она попросила меня.",
+      "audioPath": "assets/audio/vocabulary/v6_ask.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_ask.mp3"
+    },
+    {
+      "id": "v6_want",
+      "english": "want",
+      "russian": "хотеть",
+      "partOfSpeech": "verb",
+      "example": "I don't want to.",
+      "exampleTranslation": "Я не хочу.",
+      "audioPath": "assets/audio/vocabulary/v6_want.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_want.mp3"
+    },
+    {
+      "id": "v6_cheap",
+      "english": "cheap",
+      "russian": "дешёвый",
+      "partOfSpeech": "adjective",
+      "example": "The cheap ones.",
+      "exampleTranslation": "Дешёвые (те).",
+      "audioPath": "assets/audio/vocabulary/v6_cheap.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_cheap.mp3"
+    },
+    {
+      "id": "v6_enjoy",
+      "english": "enjoy",
+      "russian": "наслаждаться",
+      "partOfSpeech": "verb",
+      "example": "I enjoyed it.",
+      "exampleTranslation": "Мне понравилось.",
+      "audioPath": "assets/audio/vocabulary/v6_enjoy.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_enjoy.mp3"
+    },
+    {
+      "id": "v6_arrive",
+      "english": "arrive",
+      "russian": "прибывать",
+      "partOfSpeech": "verb",
+      "example": "He will arrive.",
+      "exampleTranslation": "Он прибудет.",
+      "audioPath": "assets/audio/vocabulary/v6_arrive.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_arrive.mp3"
+    },
+    {
+      "id": "v6_suggest",
+      "english": "suggest",
+      "russian": "предлагать",
+      "partOfSpeech": "verb",
+      "example": "As suggested.",
+      "exampleTranslation": "Как предложено.",
+      "audioPath": "assets/audio/vocabulary/v6_suggest.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_suggest.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "Ellipsis & Substitution",
+    "subtitle": "Эллипсис (ellipsis) убирает повторяющиеся слова, а замещение (substitution) заменяет их короткими словами-заместителями: so, do, one, not. Это делает речь быстрой и естественной.",
+    "construction": {
+      "formula": "So/Neither + Aux + Subject | Verb + so/not | one/ones",
+      "rules": [
+        {
+          "word": "So do I (Я тоже — утверд.)",
+          "description": "So + вспомогательный глагол + подлежащее. 'I like tea.' — 'So do I.' (Я тоже). Глагол совпадает с исходным временем."
+        },
+        {
+          "word": "Neither did he (Он тоже нет — отриц.)",
+          "description": "Neither + вспомогательный глагол + подлежащее. 'I didn't go.' — 'Neither did he.' (Он тоже не пошёл)."
+        },
+        {
+          "word": "I think so / I hope not (Замена целой мысли)",
+          "description": "So = да (заменяет утвердительную мысль). Not = нет (заменяет отрицательную). 'Will it rain?' — 'I hope not.'"
+        },
+        {
+          "word": "If so / If not (Условие-ссылка)",
+          "description": "If so = если да. If not = если нет. 'Are you free? If so, let's meet. If not, we'll reschedule.'"
+        },
+        {
+          "word": "one / ones (Замена существительного)",
+          "description": "'Which shirt?' — 'The blue one.' (Синяя [рубашка]). Ones для множественного: 'The cheap ones.'"
+        },
+        {
+          "word": "do so (Замена глагольной фразы)",
+          "description": "'He promised to help and he did so.' (Он обещал помочь и сделал это). Do so = повторяет действие."
+        },
+        {
+          "word": "Auxiliary Ellipsis (Эллипсис со вспом. глаголом)",
+          "description": "'He can swim and she can too.' Убираем повтор swim. Оставляем только вспомогательный глагол + too/either."
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "bolt",
+        "color": "orange",
+        "title": "Быстрый ответ «я тоже»",
+        "description": "So do I / So am I / So have I — мгновенное согласие. Neither do I — мгновенное отрицательное согласие.",
+        "example": {
+          "english": "I love this city. — So do I!",
+          "russian": "Я люблю этот город. — Я тоже!"
+        }
+      },
+      {
+        "icon": "handshake",
+        "color": "blue",
+        "title": "Ссылка вместо повтора",
+        "description": "I think so / I hope not / I'm afraid so — вместо повторения целого предложения.",
+        "example": {
+          "english": "Will he arrive on time? — I expect so.",
+          "russian": "Он приедет вовремя? — Полагаю, да."
+        }
+      },
+      {
+        "icon": "check_circle",
+        "color": "green",
+        "title": "Замена существительного",
+        "description": "One/ones заменяют существительное, чтобы не повторять его: 'I need a pen. Do you have one?'",
+        "example": {
+          "english": "These shoes are old. I need new ones.",
+          "russian": "Эти туфли старые. Мне нужны новые."
+        }
+      }
+    ],
+    "markers": [
+      "so do I",
+      "neither did",
+      "I think so",
+      "I hope not",
+      "if so",
+      "if not",
+      "the blue one",
+      "can too",
+      "do so",
+      "I'm afraid not"
+    ]
+  },
+  "tasks": [
+    {
+      "id": "t6_1",
+      "type": "sentenceAssembly",
+      "question": "Я люблю зелёный чай. — Она тоже очень любит. (So + aux + subject)",
+      "correctAnswer": "I love green tea very much and so does she",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "love",
+          "loves",
+          "loved",
+          "loving"
+        ],
+        [
+          "green",
+          "black",
+          "red",
+          "cold"
+        ],
+        [
+          "tea",
+          "teas",
+          "the",
+          "a"
+        ],
+        [
+          "very",
+          "so",
+          "too",
+          "quite"
+        ],
+        [
+          "much",
+          "many",
+          "more",
+          "most"
+        ],
+        [
+          "and",
+          "but",
+          "or",
+          "yet"
+        ],
+        [
+          "so",
+          "neither",
+          "too",
+          "also"
+        ],
+        [
+          "does",
+          "do",
+          "did",
+          "am"
+        ],
+        [
+          "she",
+          "He",
+          "I",
+          "We"
+        ]
+      ],
+      "mistakeTags": [
+        "ellipsis",
+        "substitution"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_06_ellipsis_substitution/000.mp3"
+    },
+    {
+      "id": "t6_2",
+      "type": "sentenceAssembly",
+      "question": "Она умеет хорошо плавать, и он тоже умеет. (Auxiliary ellipsis)",
+      "correctAnswer": "She can swim very well and he can too",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "They",
+          "You",
+          "One"
+        ],
+        [
+          "can",
+          "could",
+          "will",
+          "does"
+        ],
+        [
+          "swim",
+          "swims",
+          "swimming",
+          "swam"
+        ],
+        [
+          "very",
+          "so",
+          "too",
+          "quite"
+        ],
+        [
+          "well",
+          "good",
+          "nice",
+          "fine"
+        ],
+        [
+          "and",
+          "but",
+          "or",
+          "yet"
+        ],
+        [
+          "he",
+          "They",
+          "You",
+          "One"
+        ],
+        [
+          "can",
+          "could",
+          "will",
+          "does"
+        ],
+        [
+          "too",
+          "either",
+          "also",
+          "neither"
+        ]
+      ],
+      "mistakeTags": [
+        "ellipsis",
+        "substitution"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_06_ellipsis_substitution/001.mp3"
+    },
+    {
+      "id": "t6_3",
+      "type": "sentenceAssembly",
+      "question": "Кант не принимал эмпиризм, и Гегель тоже не принимал. (Neither + aux + subject)",
+      "correctAnswer": "Kant didn't accept empiricism and neither did Hegel",
+      "options": [],
+      "variants": [
+        [
+          "Kant",
+          "Plato",
+          "Marx",
+          "Locke"
+        ],
+        [
+          "didn't",
+          "don't",
+          "wasn't",
+          "haven't"
+        ],
+        [
+          "accept",
+          "embraced",
+          "reject",
+          "study"
+        ],
+        [
+          "empiricism",
+          "idealism",
+          "realism",
+          "logic"
+        ],
+        [
+          "and",
+          "but",
+          "or",
+          "so"
+        ],
+        [
+          "neither",
+          "either",
+          "nor",
+          "so"
+        ],
+        [
+          "did",
+          "does",
+          "do",
+          "was"
+        ],
+        [
+          "Hegel",
+          "Plato",
+          "Locke",
+          "Marx"
+        ]
+      ],
+      "mistakeTags": [
+        "ellipsis",
+        "substitution"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_06_ellipsis_substitution/002.mp3"
+    },
+    {
+      "id": "t6_4",
+      "type": "sentenceAssembly",
+      "question": "Пойдёт ли дождь сегодня вечером? — Я очень надеюсь, что нет. (hope + not)",
+      "correctAnswer": "Will it rain this evening I really hope not",
+      "options": [],
+      "variants": [
+        [
+          "Will",
+          "Does",
+          "Did",
+          "Is"
+        ],
+        [
+          "it",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "rain",
+          "rains",
+          "rained",
+          "raining"
+        ],
+        [
+          "this",
+          "a",
+          "an",
+          "the"
+        ],
+        [
+          "evening",
+          "morning",
+          "night",
+          "day"
+        ],
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "really",
+          "very",
+          "quite",
+          "just"
+        ],
+        [
+          "hope",
+          "think",
+          "wish",
+          "want"
+        ],
+        [
+          "not",
+          "so",
+          "no",
+          "never"
+        ]
+      ],
+      "mistakeTags": [
+        "ellipsis",
+        "substitution"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_06_ellipsis_substitution/003.mp3"
+    },
+    {
+      "id": "t6_5",
+      "type": "sentenceAssembly",
+      "question": "Он придёт вовремя? — Я полагаю, что да. (expect + so)",
+      "correctAnswer": "Will he arrive on time I expect so",
+      "options": [],
+      "variants": [
+        [
+          "Will",
+          "Does",
+          "Did",
+          "Is"
+        ],
+        [
+          "he",
+          "They",
+          "You",
+          "One"
+        ],
+        [
+          "arrive",
+          "arrives",
+          "arrived",
+          "arriving"
+        ],
+        [
+          "on",
+          "with",
+          "from",
+          "by"
+        ],
+        [
+          "time",
+          "times",
+          "timing",
+          "timed"
+        ],
+        [
+          "I",
+          "They",
+          "You",
+          "One"
+        ],
+        [
+          "expect",
+          "hope",
+          "want",
+          "wish"
+        ],
+        [
+          "so",
+          "not",
+          "that",
+          "it"
+        ]
+      ],
+      "mistakeTags": [
+        "ellipsis",
+        "substitution"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_06_ellipsis_substitution/004.mp3"
+    },
+    {
+      "id": "t6_6",
+      "type": "sentenceAssembly",
+      "question": "Какую рубашку хочешь? — Синюю. (one substitution)",
+      "correctAnswer": "Which shirt do you want the blue one",
+      "options": [],
+      "variants": [
+        [
+          "Which",
+          "What",
+          "That",
+          "This"
+        ],
+        [
+          "shirt",
+          "shirts",
+          "skirt",
+          "short"
+        ],
+        [
+          "do",
+          "does",
+          "did",
+          "are"
+        ],
+        [
+          "you",
+          "She",
+          "He",
+          "It"
+        ],
+        [
+          "want",
+          "wanted",
+          "wants",
+          "wanting"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "blue",
+          "blues",
+          "blew",
+          "new"
+        ],
+        [
+          "one",
+          "ones",
+          "it",
+          "thing"
+        ]
+      ],
+      "mistakeTags": [
+        "ellipsis",
+        "substitution"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_06_ellipsis_substitution/005.mp3"
+    },
+    {
+      "id": "t6_7",
+      "type": "sentenceAssembly",
+      "question": "Я думаю, что теория верна, но доказательств недостаточно. (think so)",
+      "correctAnswer": "I think so but the evidence is not sufficient",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "think",
+          "thought",
+          "thinks",
+          "hope"
+        ],
+        [
+          "so",
+          "not",
+          "that",
+          "it"
+        ],
+        [
+          "but",
+          "and",
+          "or",
+          "yet"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "evidence",
+          "data",
+          "proof",
+          "result"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "were"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "none"
+        ],
+        [
+          "sufficient",
+          "enough",
+          "complete",
+          "clear"
+        ]
+      ],
+      "mistakeTags": [
+        "ellipsis",
+        "substitution"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_06_ellipsis_substitution/006.mp3"
+    },
+    {
+      "id": "t6_8",
+      "type": "sentenceAssembly",
+      "question": "Он обещал помочь и сделал это. (do so)",
+      "correctAnswer": "He promised to help and he did so",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "They",
+          "You",
+          "One"
+        ],
+        [
+          "promised",
+          "promise",
+          "promises",
+          "promising"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "help",
+          "helped",
+          "helps",
+          "helping"
+        ],
+        [
+          "and",
+          "but",
+          "or",
+          "so"
+        ],
+        [
+          "he",
+          "They",
+          "You",
+          "One"
+        ],
+        [
+          "did",
+          "does",
+          "do",
+          "doing"
+        ],
+        [
+          "so",
+          "it",
+          "that",
+          "this"
+        ]
+      ],
+      "mistakeTags": [
+        "ellipsis",
+        "substitution"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_06_ellipsis_substitution/007.mp3"
+    },
+    {
+      "id": "t6_9",
+      "type": "sentenceAssembly",
+      "question": "Ты свободен? Если да, давай встретимся. (If so)",
+      "correctAnswer": "Are you free if so let us meet",
+      "options": [],
+      "variants": [
+        [
+          "Are",
+          "Is",
+          "Do",
+          "Does"
+        ],
+        [
+          "you",
+          "She",
+          "He",
+          "It"
+        ],
+        [
+          "free",
+          "freed",
+          "freely",
+          "busy"
+        ],
+        [
+          "if",
+          "when",
+          "but",
+          "and"
+        ],
+        [
+          "so",
+          "not",
+          "then",
+          "now"
+        ],
+        [
+          "let",
+          "lets",
+          "make",
+          "do"
+        ],
+        [
+          "us",
+          "She",
+          "He",
+          "It"
+        ],
+        [
+          "meet",
+          "met",
+          "meets",
+          "meeting"
+        ]
+      ],
+      "mistakeTags": [
+        "ellipsis",
+        "substitution"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_06_ellipsis_substitution/008.mp3"
+    },
+    {
+      "id": "t6_10",
+      "type": "sentenceAssembly",
+      "question": "Мне нравится крепкий кофе по утрам. — Ему тоже. (So + aux + subject)",
+      "correctAnswer": "I like strong coffee in the morning so does he",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "like",
+          "likes",
+          "liked",
+          "liking"
+        ],
+        [
+          "strong",
+          "weak",
+          "hot",
+          "cold"
+        ],
+        [
+          "coffee",
+          "coffees",
+          "tea",
+          "water"
+        ],
+        [
+          "in",
+          "for",
+          "at",
+          "with"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "morning",
+          "evening",
+          "night",
+          "day"
+        ],
+        [
+          "so",
+          "neither",
+          "too",
+          "also"
+        ],
+        [
+          "does",
+          "do",
+          "did",
+          "am"
+        ],
+        [
+          "he",
+          "I",
+          "She",
+          "We"
+        ]
+      ],
+      "mistakeTags": [
+        "ellipsis",
+        "substitution"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_06_ellipsis_substitution/009.mp3"
+    },
+    {
+      "id": "t6_11",
+      "type": "sentenceAssembly",
+      "question": "Партия не могла изменить закон, и оппозиция тоже не могла. (Neither + aux + subject)",
+      "correctAnswer": "The party couldn't change the law and neither could the opposition",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "This",
+          "That"
+        ],
+        [
+          "party",
+          "group",
+          "leader",
+          "council"
+        ],
+        [
+          "couldn't",
+          "can't",
+          "won't",
+          "doesn't"
+        ],
+        [
+          "change",
+          "amend",
+          "revoke",
+          "pass"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "law",
+          "policy",
+          "rule",
+          "treaty"
+        ],
+        [
+          "and",
+          "but",
+          "or",
+          "so"
+        ],
+        [
+          "neither",
+          "either",
+          "nor",
+          "so"
+        ],
+        [
+          "could",
+          "can",
+          "would",
+          "did"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "opposition",
+          "senate",
+          "council",
+          "court"
+        ]
+      ],
+      "mistakeTags": [
+        "ellipsis",
+        "substitution"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_06_ellipsis_substitution/010.mp3"
+    },
+    {
+      "id": "t6_12",
+      "type": "sentenceAssembly",
+      "question": "Эти туфли старые, мне нужны новые. (ones substitution)",
+      "correctAnswer": "These shoes are old I need new ones",
+      "options": [],
+      "variants": [
+        [
+          "These",
+          "This",
+          "Those",
+          "That"
+        ],
+        [
+          "shoes",
+          "shoe",
+          "shirt",
+          "socks"
+        ],
+        [
+          "are",
+          "is",
+          "was",
+          "were"
+        ],
+        [
+          "old",
+          "new",
+          "older",
+          "oldest"
+        ],
+        [
+          "I",
+          "She",
+          "He",
+          "It"
+        ],
+        [
+          "need",
+          "needs",
+          "needed",
+          "needing"
+        ],
+        [
+          "new",
+          "old",
+          "nice",
+          "cheap"
+        ],
+        [
+          "ones",
+          "one",
+          "them",
+          "it"
+        ]
+      ],
+      "mistakeTags": [
+        "ellipsis",
+        "substitution"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_06_ellipsis_substitution/011.mp3"
+    },
+    {
+      "id": "t6_13",
+      "type": "sentenceAssembly",
+      "question": "Он уже был там раньше? — Я полагаю, что да. (suppose so)",
+      "correctAnswer": "Has he ever been there before I suppose so",
+      "options": [],
+      "variants": [
+        [
+          "Has",
+          "Have",
+          "Had",
+          "Did"
+        ],
+        [
+          "he",
+          "I",
+          "She",
+          "We"
+        ],
+        [
+          "ever",
+          "never",
+          "always",
+          "once"
+        ],
+        [
+          "been",
+          "be",
+          "being",
+          "was"
+        ],
+        [
+          "there",
+          "here",
+          "then",
+          "where"
+        ],
+        [
+          "before",
+          "after",
+          "ago",
+          "yet"
+        ],
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "suppose",
+          "think",
+          "hope",
+          "wish"
+        ],
+        [
+          "so",
+          "not",
+          "that",
+          "it"
+        ]
+      ],
+      "mistakeTags": [
+        "ellipsis",
+        "substitution"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_06_ellipsis_substitution/012.mp3"
+    },
+    {
+      "id": "t6_14",
+      "type": "sentenceAssembly",
+      "question": "Я не хочу идти, но она попросила меня. (infinitive ellipsis)",
+      "correctAnswer": "I don't want to go but she asked me to",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "They",
+          "You",
+          "One"
+        ],
+        [
+          "don't",
+          "doesn't",
+          "didn't",
+          "won't"
+        ],
+        [
+          "want",
+          "wants",
+          "wanted",
+          "wanting"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "go",
+          "went",
+          "going",
+          "gone"
+        ],
+        [
+          "but",
+          "and",
+          "or",
+          "so"
+        ],
+        [
+          "she",
+          "They",
+          "You",
+          "One"
+        ],
+        [
+          "asked",
+          "ask",
+          "asks",
+          "asking"
+        ],
+        [
+          "me",
+          "They",
+          "You",
+          "One"
+        ],
+        [
+          "to",
+          "for",
+          "so",
+          "it"
+        ]
+      ],
+      "mistakeTags": [
+        "ellipsis",
+        "substitution"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_06_ellipsis_substitution/013.mp3"
+    },
+    {
+      "id": "t6_15",
+      "type": "sentenceAssembly",
+      "question": "Художник был предан своему искусству, и критик тоже был. (Auxiliary ellipsis + too)",
+      "correctAnswer": "The artist was devoted to the craft and the critic was too",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "This",
+          "That"
+        ],
+        [
+          "artist",
+          "painter",
+          "writer",
+          "poet"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "are"
+        ],
+        [
+          "devoted",
+          "loyal",
+          "attached",
+          "committed"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "craft",
+          "art",
+          "work",
+          "cause"
+        ],
+        [
+          "and",
+          "but",
+          "or",
+          "so"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "critic",
+          "mentor",
+          "judge",
+          "viewer"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "are"
+        ],
+        [
+          "too",
+          "either",
+          "also",
+          "neither"
+        ]
+      ],
+      "mistakeTags": [
+        "ellipsis",
+        "substitution"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_06_ellipsis_substitution/014.mp3"
+    },
+    {
+      "id": "t6_16",
+      "type": "sentenceAssembly",
+      "question": "Боюсь, что нет, у нас совсем нет времени сегодня. (afraid not)",
+      "correctAnswer": "I'm afraid not we don't have any time today",
+      "options": [],
+      "variants": [
+        [
+          "I'm",
+          "I",
+          "Am",
+          "He's"
+        ],
+        [
+          "afraid",
+          "scared",
+          "sorry",
+          "happy"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "so"
+        ],
+        [
+          "we",
+          "He",
+          "She",
+          "I"
+        ],
+        [
+          "don't",
+          "doesn't",
+          "didn't",
+          "won't"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        [
+          "any",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "time",
+          "times",
+          "timing",
+          "timed"
+        ],
+        [
+          "today",
+          "now",
+          "here",
+          "yet"
+        ]
+      ],
+      "mistakeTags": [
+        "ellipsis",
+        "substitution"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_06_ellipsis_substitution/015.mp3"
+    },
+    {
+      "id": "t6_17",
+      "type": "sentenceAssembly",
+      "question": "Ему нравится готовить итальянскую еду, и мне тоже. (So + aux + subject)",
+      "correctAnswer": "He likes cooking Italian food and so do I",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "They",
+          "You",
+          "One"
+        ],
+        [
+          "likes",
+          "like",
+          "liked",
+          "liking"
+        ],
+        [
+          "cooking",
+          "cook",
+          "cooked",
+          "cooks"
+        ],
+        [
+          "Italian",
+          "French",
+          "Chinese",
+          "Spanish"
+        ],
+        [
+          "food",
+          "foods",
+          "meal",
+          "dish"
+        ],
+        [
+          "and",
+          "but",
+          "or",
+          "so"
+        ],
+        [
+          "so",
+          "neither",
+          "too",
+          "also"
+        ],
+        [
+          "do",
+          "does",
+          "did",
+          "am"
+        ],
+        [
+          "I",
+          "They",
+          "You",
+          "One"
+        ]
+      ],
+      "mistakeTags": [
+        "ellipsis",
+        "substitution"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_06_ellipsis_substitution/016.mp3"
+    },
+    {
+      "id": "t6_18",
+      "type": "sentenceAssembly",
+      "question": "Если нет, мы перенесём встречу на завтра. (If not)",
+      "correctAnswer": "If not we will reschedule the meeting for tomorrow",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "But",
+          "And"
+        ],
+        [
+          "not",
+          "so",
+          "then",
+          "now"
+        ],
+        [
+          "we",
+          "She",
+          "He",
+          "It"
+        ],
+        [
+          "will",
+          "would",
+          "shall",
+          "can"
+        ],
+        [
+          "reschedule",
+          "cancel",
+          "move",
+          "plan"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "meeting",
+          "met",
+          "meet",
+          "meets"
+        ],
+        [
+          "for",
+          "about",
+          "through",
+          "into"
+        ],
+        [
+          "tomorrow",
+          "today",
+          "later",
+          "soon"
+        ]
+      ],
+      "mistakeTags": [
+        "ellipsis",
+        "substitution"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_06_ellipsis_substitution/017.mp3"
+    },
+    {
+      "id": "t6_19",
+      "type": "sentenceAssembly",
+      "question": "Я не постиг абсолютную истину. — Она тоже не постигла. (Neither + aux + subject)",
+      "correctAnswer": "I haven't grasped absolute truth neither has she",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "haven't",
+          "hasn't",
+          "didn't",
+          "don't"
+        ],
+        [
+          "grasped",
+          "reached",
+          "found",
+          "proven"
+        ],
+        [
+          "absolute",
+          "ultimate",
+          "pure",
+          "final"
+        ],
+        [
+          "truth",
+          "wisdom",
+          "meaning",
+          "knowledge"
+        ],
+        [
+          "neither",
+          "either",
+          "nor",
+          "so"
+        ],
+        [
+          "has",
+          "have",
+          "had",
+          "did"
+        ],
+        [
+          "she",
+          "he",
+          "they",
+          "one"
+        ]
+      ],
+      "mistakeTags": [
+        "ellipsis",
+        "substitution"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_06_ellipsis_substitution/018.mp3"
+    },
+    {
+      "id": "t6_20",
+      "type": "sentenceAssembly",
+      "question": "Мне нужна ручка, у тебя есть одна? (one substitution)",
+      "correctAnswer": "I need a pen do you have one",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "They",
+          "You",
+          "One"
+        ],
+        [
+          "need",
+          "needs",
+          "needed",
+          "needing"
+        ],
+        [
+          "a",
+          "some",
+          "every",
+          "an"
+        ],
+        [
+          "pen",
+          "pens",
+          "pencil",
+          "book"
+        ],
+        [
+          "do",
+          "does",
+          "did",
+          "are"
+        ],
+        [
+          "you",
+          "They",
+          "I",
+          "One"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        [
+          "one",
+          "ones",
+          "it",
+          "them"
+        ]
+      ],
+      "mistakeTags": [
+        "ellipsis",
+        "substitution"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_06_ellipsis_substitution/019.mp3"
+    },
+    {
+      "id": "t6_21",
+      "type": "sentenceAssembly",
+      "question": "Он верит, что да, но она не согласна. (believe so)",
+      "correctAnswer": "He believes so but she does not agree",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "It",
+          "We"
+        ],
+        [
+          "believes",
+          "believe",
+          "believed",
+          "believing"
+        ],
+        [
+          "so",
+          "not",
+          "that",
+          "it"
+        ],
+        [
+          "but",
+          "and",
+          "or",
+          "so"
+        ],
+        [
+          "she",
+          "I",
+          "He",
+          "It"
+        ],
+        [
+          "does",
+          "do",
+          "did",
+          "is"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "none"
+        ],
+        [
+          "agree",
+          "agrees",
+          "agreed",
+          "agreeing"
+        ]
+      ],
+      "mistakeTags": [
+        "ellipsis",
+        "substitution"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_06_ellipsis_substitution/020.mp3"
+    },
+    {
+      "id": "t6_22",
+      "type": "sentenceAssembly",
+      "question": "Она может красиво петь на сцене, и он тоже может. (Auxiliary ellipsis + too)",
+      "correctAnswer": "She can sing beautifully on stage and he can too",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "We",
+          "They"
+        ],
+        [
+          "can",
+          "could",
+          "will",
+          "does"
+        ],
+        [
+          "sing",
+          "sings",
+          "sang",
+          "singing"
+        ],
+        [
+          "beautifully",
+          "beautiful",
+          "nicely",
+          "loudly"
+        ],
+        [
+          "on",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "stage",
+          "stages",
+          "show",
+          "scene"
+        ],
+        [
+          "and",
+          "but",
+          "or",
+          "yet"
+        ],
+        [
+          "he",
+          "I",
+          "She",
+          "We"
+        ],
+        [
+          "can",
+          "could",
+          "will",
+          "does"
+        ],
+        [
+          "too",
+          "either",
+          "also",
+          "neither"
+        ]
+      ],
+      "mistakeTags": [
+        "ellipsis",
+        "substitution"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_06_ellipsis_substitution/021.mp3"
+    },
+    {
+      "id": "t6_23",
+      "type": "sentenceAssembly",
+      "question": "Совет потребовал его отставки, и он выполнил это. (do so)",
+      "correctAnswer": "The board demanded his resignation and he did so",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "This",
+          "That"
+        ],
+        [
+          "board",
+          "council",
+          "panel",
+          "committee"
+        ],
+        [
+          "demanded",
+          "requested",
+          "ordered",
+          "expected"
+        ],
+        [
+          "his",
+          "her",
+          "their",
+          "the"
+        ],
+        [
+          "resignation",
+          "departure",
+          "removal",
+          "transfer"
+        ],
+        [
+          "and",
+          "but",
+          "or",
+          "so"
+        ],
+        [
+          "he",
+          "she",
+          "they",
+          "one"
+        ],
+        [
+          "did",
+          "does",
+          "do",
+          "doing"
+        ],
+        [
+          "so",
+          "it",
+          "that",
+          "this"
+        ]
+      ],
+      "mistakeTags": [
+        "ellipsis",
+        "substitution"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_06_ellipsis_substitution/022.mp3"
+    },
+    {
+      "id": "t6_24",
+      "type": "sentenceAssembly",
+      "question": "Я не пью кофе, и он тоже не пьёт. (Neither + aux + subject)",
+      "correctAnswer": "I don't drink coffee and neither does he",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "She",
+          "He",
+          "It"
+        ],
+        [
+          "don't",
+          "doesn't",
+          "didn't",
+          "won't"
+        ],
+        [
+          "drink",
+          "drinks",
+          "drank",
+          "drinking"
+        ],
+        [
+          "coffee",
+          "tea",
+          "water",
+          "juice"
+        ],
+        [
+          "and",
+          "but",
+          "or",
+          "so"
+        ],
+        [
+          "neither",
+          "either",
+          "nor",
+          "so"
+        ],
+        [
+          "does",
+          "do",
+          "did",
+          "is"
+        ],
+        [
+          "he",
+          "She",
+          "I",
+          "It"
+        ]
+      ],
+      "mistakeTags": [
+        "ellipsis",
+        "substitution"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_06_ellipsis_substitution/023.mp3"
+    },
+    {
+      "id": "t6_25",
+      "type": "sentenceAssembly",
+      "question": "Мне нравятся эти книги, особенно дешёвые. (ones substitution)",
+      "correctAnswer": "I like these books especially the cheap ones",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "like",
+          "likes",
+          "liked",
+          "liking"
+        ],
+        [
+          "these",
+          "this",
+          "those",
+          "that"
+        ],
+        [
+          "books",
+          "book",
+          "pages",
+          "texts"
+        ],
+        [
+          "especially",
+          "specially",
+          "mostly",
+          "nearly"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "cheap",
+          "cheaper",
+          "cheaply",
+          "free"
+        ],
+        [
+          "ones",
+          "one",
+          "them",
+          "it"
+        ]
+      ],
+      "mistakeTags": [
+        "ellipsis",
+        "substitution"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_06_ellipsis_substitution/024.mp3"
+    },
+    {
+      "id": "t6_26",
+      "type": "sentenceAssembly",
+      "question": "Он сдал экзамен? Если да, поздравь его. (If so)",
+      "correctAnswer": "Did he pass the exam if so congratulate him",
+      "options": [],
+      "variants": [
+        [
+          "Did",
+          "Does",
+          "Do",
+          "Has"
+        ],
+        [
+          "he",
+          "They",
+          "You",
+          "One"
+        ],
+        [
+          "pass",
+          "passed",
+          "passes",
+          "passing"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "exam",
+          "exams",
+          "test",
+          "quiz"
+        ],
+        [
+          "if",
+          "when",
+          "but",
+          "and"
+        ],
+        [
+          "so",
+          "not",
+          "then",
+          "now"
+        ],
+        [
+          "congratulate",
+          "praise",
+          "thank",
+          "tell"
+        ],
+        [
+          "him",
+          "They",
+          "You",
+          "One"
+        ]
+      ],
+      "mistakeTags": [
+        "ellipsis",
+        "substitution"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_06_ellipsis_substitution/025.mp3"
+    },
+    {
+      "id": "t6_27",
+      "type": "sentenceAssembly",
+      "question": "Она была очень счастлива после новости, и я тоже. (So + aux + subject)",
+      "correctAnswer": "She was very happy about the news and so was I",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "It",
+          "We"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "are"
+        ],
+        [
+          "very",
+          "so",
+          "quite",
+          "really"
+        ],
+        [
+          "happy",
+          "happily",
+          "glad",
+          "sad"
+        ],
+        [
+          "about",
+          "through",
+          "into",
+          "for"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "news",
+          "story",
+          "result",
+          "event"
+        ],
+        [
+          "and",
+          "but",
+          "or",
+          "yet"
+        ],
+        [
+          "so",
+          "neither",
+          "too",
+          "also"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "am"
+        ],
+        [
+          "I",
+          "She",
+          "He",
+          "It"
+        ]
+      ],
+      "mistakeTags": [
+        "ellipsis",
+        "substitution"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_06_ellipsis_substitution/026.mp3"
+    },
+    {
+      "id": "t6_28",
+      "type": "sentenceAssembly",
+      "question": "Он не ел мяса, и она тоже не ела. (can't either → neither)",
+      "correctAnswer": "He didn't eat meat and neither did she",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "We",
+          "They"
+        ],
+        [
+          "didn't",
+          "doesn't",
+          "don't",
+          "hasn't"
+        ],
+        [
+          "eat",
+          "ate",
+          "eaten",
+          "eating"
+        ],
+        [
+          "meat",
+          "meats",
+          "food",
+          "fish"
+        ],
+        [
+          "and",
+          "but",
+          "or",
+          "so"
+        ],
+        [
+          "neither",
+          "either",
+          "nor",
+          "so"
+        ],
+        [
+          "did",
+          "does",
+          "do",
+          "was"
+        ],
+        [
+          "she",
+          "He",
+          "I",
+          "We"
+        ]
+      ],
+      "mistakeTags": [
+        "ellipsis",
+        "substitution"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_06_ellipsis_substitution/027.mp3"
+    },
+    {
+      "id": "t6_29",
+      "type": "sentenceAssembly",
+      "question": "Они наслаждались концертом, и мы тоже наслаждались. (So + aux + subject)",
+      "correctAnswer": "They enjoyed the concert and so did we",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "You",
+          "One",
+          "He"
+        ],
+        [
+          "enjoyed",
+          "enjoy",
+          "enjoys",
+          "enjoying"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "concert",
+          "concerts",
+          "show",
+          "play"
+        ],
+        [
+          "and",
+          "but",
+          "or",
+          "yet"
+        ],
+        [
+          "so",
+          "neither",
+          "too",
+          "also"
+        ],
+        [
+          "did",
+          "do",
+          "does",
+          "was"
+        ],
+        [
+          "we",
+          "They",
+          "You",
+          "One"
+        ]
+      ],
+      "mistakeTags": [
+        "ellipsis",
+        "substitution"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_06_ellipsis_substitution/028.mp3"
+    },
+    {
+      "id": "t6_30",
+      "type": "sentenceAssembly",
+      "question": "Боюсь, что да, тебе нужно остаться допоздна. (afraid so)",
+      "correctAnswer": "I'm afraid so you need to stay late",
+      "options": [],
+      "variants": [
+        [
+          "I'm",
+          "I",
+          "Am",
+          "He's"
+        ],
+        [
+          "afraid",
+          "scared",
+          "sorry",
+          "happy"
+        ],
+        [
+          "so",
+          "not",
+          "no",
+          "yes"
+        ],
+        [
+          "you",
+          "She",
+          "He",
+          "It"
+        ],
+        [
+          "need",
+          "needs",
+          "needed",
+          "needing"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "stay",
+          "stayed",
+          "stays",
+          "staying"
+        ],
+        [
+          "late",
+          "later",
+          "lately",
+          "early"
+        ]
+      ],
+      "mistakeTags": [
+        "ellipsis",
+        "substitution"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_06_ellipsis_substitution/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionAdvanced06EllipsisSubstitution",
+  "theoryQuiz": [
+    {
+      "id": "tq_01",
+      "type": "multipleChoice",
+      "question": "Что такое ellipsis в английском?",
+      "options": [
+        "Замена слова на другое",
+        "Опускание повторяющихся слов",
+        "Добавление слов для ясности",
+        "Перестановка слов"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ellipsis — это опускание (пропуск) слов, которые уже понятны из контекста."
+    },
+    {
+      "id": "tq_02",
+      "type": "trueFalse",
+      "question": "'I can swim and she can too' — пример ellipsis (опущено 'swim').",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Верно: swim опущено после can, так как оно уже понятно из контекста."
+    },
+    {
+      "id": "tq_03",
+      "type": "multipleChoice",
+      "question": "Что такое substitution?",
+      "options": [
+        "Пропуск слов",
+        "Замена слов на более короткие слова-заместители",
+        "Удаление предложения",
+        "Инверсия порядка слов"
+      ],
+      "correctIndex": 1,
+      "explanation": "Substitution — замена слов на заместители: so, do, one/ones, not."
+    },
+    {
+      "id": "tq_04",
+      "type": "trueFalse",
+      "question": "'So do I' означает 'Я тоже'.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Верно: 'So do I' = 'I do too' = 'Я тоже'. Используется для согласия с утвердительным предложением."
+    },
+    {
+      "id": "tq_05",
+      "type": "multipleChoice",
+      "question": "'I like the red ___.' Какое слово-заместитель подходит?",
+      "options": [
+        "so",
+        "do",
+        "one",
+        "it"
+      ],
+      "correctIndex": 2,
+      "explanation": "One заменяет исчисляемое существительное в единственном числе: the red one (= the red shirt/dress/etc.)."
+    },
+    {
+      "id": "tq_06",
+      "type": "multipleChoice",
+      "question": "'Do you think it will rain?' — 'I think ___.' Что вставить?",
+      "options": [
+        "it",
+        "do",
+        "so",
+        "yes"
+      ],
+      "correctIndex": 2,
+      "explanation": "'I think so' — so заменяет всё придаточное предложение (that it will rain)."
+    },
+    {
+      "id": "tq_07",
+      "type": "trueFalse",
+      "question": "'Neither do I' означает 'Я тоже нет'.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Верно: 'Neither do I' используется для согласия с отрицательным предложением = 'Я тоже нет'."
+    },
+    {
+      "id": "tq_08",
+      "type": "multipleChoice",
+      "question": "'She runs faster than I ___.' Какое слово подходит для substitution?",
+      "options": [
+        "run",
+        "do",
+        "so",
+        "one"
+      ],
+      "correctIndex": 1,
+      "explanation": "Do заменяет глагол: than I do (= than I run). Это substitution с помощью do."
+    },
+    {
+      "id": "tq_09",
+      "type": "trueFalse",
+      "question": "'Ones' используется для замены существительного во множественном числе.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Верно: one — единственное число, ones — множественное: I like the blue ones (= the blue shoes)."
+    },
+    {
+      "id": "tq_10",
+      "type": "multipleChoice",
+      "question": "'I don't like coffee.' — '___ do I.' Что вставить?",
+      "options": [
+        "So",
+        "Neither",
+        "Not",
+        "Too"
+      ],
+      "correctIndex": 1,
+      "explanation": "После отрицательного предложения используется Neither: Neither do I = Я тоже нет."
+    }
+  ]
+}

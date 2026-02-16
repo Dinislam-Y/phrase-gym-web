@@ -1,0 +1,461 @@
+{
+  "id": "advanced_listening_07_cleft_sentences",
+  "title": "Cleft Sentences",
+  "description": "Слушайте расщеплённые предложения для выделения ключевой информации.",
+  "order": 7,
+  "level": "advanced",
+  "imageUrl": "assets/images/lessons/cleft_sentences.png",
+  "tasks": [
+    {
+      "id": "t7_01",
+      "audioText": "The team investigated why the server crashed at midnight. It was a corrupted database update that caused the entire system to go offline for twelve hours.",
+      "transcript": "It was a corrupted database update that caused the entire system to go offline for twelve hours.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The system went offline because of a hardware failure."
+        },
+        {
+          "id": "o2",
+          "text": "A faulty database update was specifically responsible for the twelve-hour system outage."
+        },
+        {
+          "id": "o3",
+          "text": "The server was offline for only a few minutes."
+        },
+        {
+          "id": "o4",
+          "text": "The database update was successfully applied without any issues."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'It was... that caused' is an it-cleft sentence emphasising the specific cause — the corrupted update triggered the outage.",
+      "mistakeTags": [
+        "cleft_sentences",
+        "it_cleft"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_07_cleft_sentences/t7_01.mp3"
+    },
+    {
+      "id": "t7_02",
+      "audioText": "The employee had been struggling with her workload for weeks. What she really needed was an additional team member to help manage the increasing volume of client requests.",
+      "transcript": "What she really needed was an additional team member to help manage the increasing volume of client requests.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She specifically required another colleague to assist with the growing number of client enquiries."
+        },
+        {
+          "id": "o2",
+          "text": "She needed a higher salary to handle her workload."
+        },
+        {
+          "id": "o3",
+          "text": "She wanted to reduce the number of clients she served."
+        },
+        {
+          "id": "o4",
+          "text": "She had already received additional support from a new team member."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'What she really needed was' is a wh-cleft that highlights the specific solution — an extra person to handle client demand.",
+      "mistakeTags": [
+        "cleft_sentences",
+        "wh_cleft"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_07_cleft_sentences/t7_02.mp3"
+    },
+    {
+      "id": "t7_03",
+      "audioText": "The historian was discussing the causes of the revolution. It was the widespread famine, not political ideology, that ultimately drove the population to revolt against the monarchy.",
+      "transcript": "It was the widespread famine, not political ideology, that ultimately drove the population to revolt against the monarchy.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Political ideology was the main cause of the revolution."
+        },
+        {
+          "id": "o2",
+          "text": "The revolution was primarily caused by hunger rather than political beliefs."
+        },
+        {
+          "id": "o3",
+          "text": "Both famine and political ideology equally caused the revolution."
+        },
+        {
+          "id": "o4",
+          "text": "The monarchy successfully prevented the revolution."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'It was the widespread famine, not political ideology, that' uses a cleft to contrast and emphasise famine as the true cause.",
+      "mistakeTags": [
+        "cleft_sentences",
+        "it_cleft"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_07_cleft_sentences/t7_03.mp3"
+    },
+    {
+      "id": "t7_04",
+      "audioText": "The marketing team analysed the campaign results thoroughly. What surprised everyone was how effectively the social media strategy had reached audiences over the age of fifty.",
+      "transcript": "What surprised everyone was how effectively the social media strategy had reached audiences over the age of fifty.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The team was surprised by the social media campaign's success with older demographics."
+        },
+        {
+          "id": "o2",
+          "text": "The social media strategy failed to reach older audiences."
+        },
+        {
+          "id": "o3",
+          "text": "Nobody was surprised by the campaign results."
+        },
+        {
+          "id": "o4",
+          "text": "The campaign only targeted young people under thirty."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'What surprised everyone was' is a wh-cleft emphasising the unexpected element: social media reaching people over fifty.",
+      "mistakeTags": [
+        "cleft_sentences",
+        "wh_cleft"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_07_cleft_sentences/t7_04.mp3"
+    },
+    {
+      "id": "t7_05",
+      "audioText": "The police investigated several leads in the case. It was the DNA evidence collected from the crime scene that eventually led to the arrest of the suspect.",
+      "transcript": "It was the DNA evidence collected from the crime scene that eventually led to the arrest of the suspect.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "A witness testimony was the key factor in catching the suspect."
+        },
+        {
+          "id": "o2",
+          "text": "The DNA found at the crime scene was the crucial evidence that resulted in the suspect's capture."
+        },
+        {
+          "id": "o3",
+          "text": "The suspect turned himself in voluntarily to the police."
+        },
+        {
+          "id": "o4",
+          "text": "No evidence was found at the crime scene."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'It was the DNA evidence that' is an it-cleft pinpointing exactly which piece of evidence cracked the case.",
+      "mistakeTags": [
+        "cleft_sentences",
+        "it_cleft"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_07_cleft_sentences/t7_05.mp3"
+    },
+    {
+      "id": "t7_06",
+      "audioText": "The patient described her symptoms in detail to the specialist. The thing that concerned the doctor most was the sudden onset of severe headaches accompanied by visual disturbances.",
+      "transcript": "The thing that concerned the doctor most was the sudden onset of severe headaches accompanied by visual disturbances.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The doctor's primary worry was the abrupt appearance of intense headaches with vision problems."
+        },
+        {
+          "id": "o2",
+          "text": "The doctor was not particularly worried about any of the symptoms."
+        },
+        {
+          "id": "o3",
+          "text": "The patient's mild headaches were the doctor's least concern."
+        },
+        {
+          "id": "o4",
+          "text": "Visual disturbances occurred without any headaches."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'The thing that concerned the doctor most was' is a cleft structure highlighting the specific symptom of greatest concern.",
+      "mistakeTags": [
+        "cleft_sentences",
+        "the_thing_that"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_07_cleft_sentences/t7_06.mp3"
+    },
+    {
+      "id": "t7_07",
+      "audioText": "The startup struggled for years before achieving success. What finally turned the business around was a strategic partnership with a major European distribution network.",
+      "transcript": "What finally turned the business around was a strategic partnership with a major European distribution network.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The business recovered thanks to an important partnership with a large European distributor."
+        },
+        {
+          "id": "o2",
+          "text": "The startup continued to struggle despite forming new partnerships."
+        },
+        {
+          "id": "o3",
+          "text": "A government grant was what saved the startup from failure."
+        },
+        {
+          "id": "o4",
+          "text": "The startup succeeded immediately without any external partnerships."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'What finally turned the business around was' is a wh-cleft focusing on the decisive factor: the European distribution partnership.",
+      "mistakeTags": [
+        "cleft_sentences",
+        "wh_cleft"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_07_cleft_sentences/t7_07.mp3"
+    },
+    {
+      "id": "t7_08",
+      "audioText": "The film director discussed the challenges of the production in an interview. It was during the final week of shooting that the lead actor suffered an injury requiring script changes.",
+      "transcript": "It was during the final week of shooting that the lead actor suffered an injury requiring script changes.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The lead actor was injured in the last week of filming, which forced modifications to the script."
+        },
+        {
+          "id": "o2",
+          "text": "The actor was injured at the very beginning of the production."
+        },
+        {
+          "id": "o3",
+          "text": "The script was changed before the actor's injury occurred."
+        },
+        {
+          "id": "o4",
+          "text": "No changes were made to the script despite the actor's injury."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'It was during the final week that' is a cleft emphasising the timing of the disruptive event — the last week of production.",
+      "mistakeTags": [
+        "cleft_sentences",
+        "it_cleft"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_07_cleft_sentences/t7_08.mp3"
+    },
+    {
+      "id": "t7_09",
+      "audioText": "The professor reflected on decades of academic research. What she valued above all else was the intellectual curiosity that her students brought to each seminar discussion.",
+      "transcript": "What she valued above all else was the intellectual curiosity that her students brought to each seminar discussion.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The professor most appreciated her students' inquisitive minds during seminar debates."
+        },
+        {
+          "id": "o2",
+          "text": "The professor valued her own research achievements above everything else."
+        },
+        {
+          "id": "o3",
+          "text": "Students showed little curiosity during the professor's seminars."
+        },
+        {
+          "id": "o4",
+          "text": "The professor preferred lectures over seminar discussions."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'What she valued above all else was' is a wh-cleft foregrounding students' intellectual curiosity as her highest priority.",
+      "mistakeTags": [
+        "cleft_sentences",
+        "wh_cleft"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_07_cleft_sentences/t7_09.mp3"
+    },
+    {
+      "id": "t7_10",
+      "audioText": "The economics professor analysed the housing market crash. It was the combination of irresponsible lending practices and inadequate regulatory oversight that created the conditions for the crisis.",
+      "transcript": "It was the combination of irresponsible lending practices and inadequate regulatory oversight that created the conditions for the crisis.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Strong regulations prevented the housing market crash."
+        },
+        {
+          "id": "o2",
+          "text": "Reckless lending and weak regulation together were specifically what caused the housing crisis."
+        },
+        {
+          "id": "o3",
+          "text": "Only lending practices, not regulation, contributed to the crash."
+        },
+        {
+          "id": "o4",
+          "text": "The housing market crisis was caused by natural economic cycles."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'It was the combination... that created' is a cleft isolating the two interacting factors behind the crisis.",
+      "mistakeTags": [
+        "cleft_sentences",
+        "it_cleft"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_07_cleft_sentences/t7_10.mp3"
+    },
+    {
+      "id": "t7_11",
+      "audioText": "The mountaineer described her most terrifying experience during the expedition. What made the situation so dangerous was the sudden change in weather that trapped the climbing party above eight thousand metres.",
+      "transcript": "What made the situation so dangerous was the sudden change in weather that trapped the climbing party above eight thousand metres.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The danger came from an unexpected weather shift that left climbers stranded at extreme altitude."
+        },
+        {
+          "id": "o2",
+          "text": "The weather remained stable throughout the entire expedition."
+        },
+        {
+          "id": "o3",
+          "text": "The climbing party chose to stay above eight thousand metres voluntarily."
+        },
+        {
+          "id": "o4",
+          "text": "Equipment failure was the most dangerous part of the expedition."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'What made the situation so dangerous was' is a wh-cleft focusing on the abrupt weather change as the critical threat.",
+      "mistakeTags": [
+        "cleft_sentences",
+        "wh_cleft"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_07_cleft_sentences/t7_11.mp3"
+    },
+    {
+      "id": "t7_12",
+      "audioText": "The school counsellor reviewed the student's academic decline. It was not laziness but rather undiagnosed anxiety that was responsible for the dramatic drop in her academic performance.",
+      "transcript": "It was not laziness but rather undiagnosed anxiety that was responsible for the dramatic drop in her academic performance.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The student's poor grades were caused by laziness."
+        },
+        {
+          "id": "o2",
+          "text": "Anxiety that had not been identified, not laziness, was the real reason for her declining grades."
+        },
+        {
+          "id": "o3",
+          "text": "The student's academic performance was improving steadily."
+        },
+        {
+          "id": "o4",
+          "text": "Both laziness and anxiety contributed equally to her academic decline."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'It was not... but rather... that' is a contrastive cleft correcting a misconception: anxiety, not laziness, was the cause.",
+      "mistakeTags": [
+        "cleft_sentences",
+        "it_cleft"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_07_cleft_sentences/t7_12.mp3"
+    },
+    {
+      "id": "t7_13",
+      "audioText": "The novelist explained her creative process during the book tour. What inspired the central character was a chance encounter with an elderly fisherman on a remote Greek island.",
+      "transcript": "What inspired the central character was a chance encounter with an elderly fisherman on a remote Greek island.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The main character was based on an accidental meeting with an old fisherman on a secluded Greek island."
+        },
+        {
+          "id": "o2",
+          "text": "The novelist planned the central character carefully from the beginning."
+        },
+        {
+          "id": "o3",
+          "text": "The character was inspired by a famous historical figure."
+        },
+        {
+          "id": "o4",
+          "text": "The novelist had never visited Greece."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'What inspired the central character was' is a wh-cleft highlighting the unexpected source of creative inspiration.",
+      "mistakeTags": [
+        "cleft_sentences",
+        "wh_cleft"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_07_cleft_sentences/t7_13.mp3"
+    },
+    {
+      "id": "t7_14",
+      "audioText": "The head teacher addressed parents about the new school policy. It was the safety of the students that prompted the administration to implement stricter security measures at every entrance.",
+      "transcript": "It was the safety of the students that prompted the administration to implement stricter security measures at every entrance.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Budget concerns led to the new security measures."
+        },
+        {
+          "id": "o2",
+          "text": "Student safety was specifically the reason the school introduced tighter security at all entry points."
+        },
+        {
+          "id": "o3",
+          "text": "The administration removed security measures to be more welcoming."
+        },
+        {
+          "id": "o4",
+          "text": "Parents demanded that security be reduced at the school."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'It was the safety... that prompted' is a cleft directly identifying student welfare as the motivating factor behind the policy.",
+      "mistakeTags": [
+        "cleft_sentences",
+        "it_cleft"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_07_cleft_sentences/t7_14.mp3"
+    },
+    {
+      "id": "t7_15",
+      "audioText": "The entrepreneur shared lessons from her career at a leadership forum. The reason she succeeded where others failed was her willingness to adapt her business model rapidly in response to market shifts.",
+      "transcript": "The reason she succeeded where others failed was her willingness to adapt her business model rapidly in response to market shifts.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She succeeded because she never changed her original business model."
+        },
+        {
+          "id": "o2",
+          "text": "Her readiness to quickly adjust her business approach to market changes was the key to her success over competitors."
+        },
+        {
+          "id": "o3",
+          "text": "Other entrepreneurs were more adaptable than she was."
+        },
+        {
+          "id": "o4",
+          "text": "She failed alongside all the other entrepreneurs in her industry."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'The reason she succeeded... was her willingness' is a cleft structure highlighting adaptability as the distinguishing success factor.",
+      "mistakeTags": [
+        "cleft_sentences",
+        "the_reason"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_07_cleft_sentences/t7_15.mp3"
+    }
+  ],
+  "short_description": "Расщеплённые предложения: It was... that, What... is для выделения информации."
+}

@@ -1,0 +1,400 @@
+{
+  "id": "pre_bc_13_prepositions_basic",
+  "title": "In vs On",
+  "description": "In или On? Учимся правильно использовать предлоги места и времени.",
+  "order": 9,
+  "level": "pre_intermediate",
+  "imageUrl": null,
+  "tasks": [
+    {
+      "id": "ivo_1",
+      "question": "The book is ___ the table.",
+      "optionA": "IN",
+      "optionB": "ON",
+      "correctIndex": 1,
+      "explanation": "На поверхности стола, поэтому on.",
+      "tags": [
+        "in_vs_on",
+        "on",
+        "home"
+      ]
+    },
+    {
+      "id": "ivo_2",
+      "question": "The cat is ___ the box.",
+      "optionA": "IN",
+      "optionB": "ON",
+      "correctIndex": 0,
+      "explanation": "Кот внутри коробки, поэтому in.",
+      "tags": [
+        "in_vs_on",
+        "in",
+        "home"
+      ]
+    },
+    {
+      "id": "ivo_3",
+      "question": "The picture is ___ the wall.",
+      "optionA": "IN",
+      "optionB": "ON",
+      "correctIndex": 1,
+      "explanation": "Картина на поверхности стены, поэтому on.",
+      "tags": [
+        "in_vs_on",
+        "on",
+        "home"
+      ]
+    },
+    {
+      "id": "ivo_4",
+      "question": "The milk is ___ the fridge.",
+      "optionA": "IN",
+      "optionB": "ON",
+      "correctIndex": 0,
+      "explanation": "Молоко внутри холодильника, поэтому in.",
+      "tags": [
+        "in_vs_on",
+        "in",
+        "home"
+      ]
+    },
+    {
+      "id": "ivo_5",
+      "question": "The pen is ___ the desk.",
+      "optionA": "IN",
+      "optionB": "ON",
+      "correctIndex": 1,
+      "explanation": "Ручка на поверхности стола, поэтому on.",
+      "tags": [
+        "in_vs_on",
+        "on",
+        "school"
+      ]
+    },
+    {
+      "id": "ivo_6",
+      "question": "The toys are ___ the bag.",
+      "optionA": "IN",
+      "optionB": "ON",
+      "correctIndex": 0,
+      "explanation": "Игрушки внутри сумки, поэтому in.",
+      "tags": [
+        "in_vs_on",
+        "in",
+        "home"
+      ]
+    },
+    {
+      "id": "ivo_7",
+      "question": "The cup is ___ the shelf.",
+      "optionA": "IN",
+      "optionB": "ON",
+      "correctIndex": 1,
+      "explanation": "Чашка на поверхности полки, поэтому on.",
+      "tags": [
+        "in_vs_on",
+        "on",
+        "home"
+      ]
+    },
+    {
+      "id": "ivo_8",
+      "question": "The dog is ___ the room.",
+      "optionA": "IN",
+      "optionB": "ON",
+      "correctIndex": 0,
+      "explanation": "Собака внутри комнаты, поэтому in.",
+      "tags": [
+        "in_vs_on",
+        "in",
+        "home"
+      ]
+    },
+    {
+      "id": "ivo_9",
+      "question": "The phone is ___ the floor.",
+      "optionA": "IN",
+      "optionB": "ON",
+      "correctIndex": 1,
+      "explanation": "Телефон на поверхности пола, поэтому on.",
+      "tags": [
+        "in_vs_on",
+        "on",
+        "home"
+      ]
+    },
+    {
+      "id": "ivo_10",
+      "question": "The water is ___ the bottle.",
+      "optionA": "IN",
+      "optionB": "ON",
+      "correctIndex": 0,
+      "explanation": "Вода внутри бутылки, поэтому in.",
+      "tags": [
+        "in_vs_on",
+        "in",
+        "home"
+      ]
+    },
+    {
+      "id": "ivo_11",
+      "question": "My birthday is ___ May.",
+      "optionA": "IN",
+      "optionB": "ON",
+      "correctIndex": 0,
+      "explanation": "Месяцы используются с in.",
+      "tags": [
+        "in_vs_on",
+        "in",
+        "time"
+      ]
+    },
+    {
+      "id": "ivo_12",
+      "question": "We meet ___ Monday.",
+      "optionA": "IN",
+      "optionB": "ON",
+      "correctIndex": 1,
+      "explanation": "Дни недели используются с on.",
+      "tags": [
+        "in_vs_on",
+        "on",
+        "time"
+      ]
+    },
+    {
+      "id": "ivo_13",
+      "question": "School starts ___ September.",
+      "optionA": "IN",
+      "optionB": "ON",
+      "correctIndex": 0,
+      "explanation": "Месяцы используются с in.",
+      "tags": [
+        "in_vs_on",
+        "in",
+        "time"
+      ]
+    },
+    {
+      "id": "ivo_14",
+      "question": "The party is ___ Friday.",
+      "optionA": "IN",
+      "optionB": "ON",
+      "correctIndex": 1,
+      "explanation": "Дни недели используются с on.",
+      "tags": [
+        "in_vs_on",
+        "on",
+        "time"
+      ]
+    },
+    {
+      "id": "ivo_15",
+      "question": "I was born ___ 2010.",
+      "optionA": "IN",
+      "optionB": "ON",
+      "correctIndex": 0,
+      "explanation": "Годы используются с in.",
+      "tags": [
+        "in_vs_on",
+        "in",
+        "time"
+      ]
+    },
+    {
+      "id": "ivo_16",
+      "question": "The test is ___ Tuesday.",
+      "optionA": "IN",
+      "optionB": "ON",
+      "correctIndex": 1,
+      "explanation": "Дни недели используются с on.",
+      "tags": [
+        "in_vs_on",
+        "on",
+        "time"
+      ]
+    },
+    {
+      "id": "ivo_17",
+      "question": "It is cold ___ winter.",
+      "optionA": "IN",
+      "optionB": "ON",
+      "correctIndex": 0,
+      "explanation": "Времена года используются с in.",
+      "tags": [
+        "in_vs_on",
+        "in",
+        "time"
+      ]
+    },
+    {
+      "id": "ivo_18",
+      "question": "We travel ___ my birthday.",
+      "optionA": "IN",
+      "optionB": "ON",
+      "correctIndex": 1,
+      "explanation": "Конкретные даты используются с on.",
+      "tags": [
+        "in_vs_on",
+        "on",
+        "time"
+      ]
+    },
+    {
+      "id": "ivo_19",
+      "question": "She starts work ___ January.",
+      "optionA": "IN",
+      "optionB": "ON",
+      "correctIndex": 0,
+      "explanation": "Месяцы используются с in.",
+      "tags": [
+        "in_vs_on",
+        "in",
+        "time"
+      ]
+    },
+    {
+      "id": "ivo_20",
+      "question": "The concert is ___ Saturday.",
+      "optionA": "IN",
+      "optionB": "ON",
+      "correctIndex": 1,
+      "explanation": "Дни недели используются с on.",
+      "tags": [
+        "in_vs_on",
+        "on",
+        "time"
+      ]
+    },
+    {
+      "id": "ivo_21",
+      "question": "I saw you ___ the photo.",
+      "optionA": "IN",
+      "optionB": "ON",
+      "correctIndex": 0,
+      "explanation": "На фотографии говорим in.",
+      "tags": [
+        "in_vs_on",
+        "in",
+        "media"
+      ]
+    },
+    {
+      "id": "ivo_22",
+      "question": "We sit ___ the bus.",
+      "optionA": "IN",
+      "optionB": "ON",
+      "correctIndex": 1,
+      "explanation": "В автобусе говорим on.",
+      "tags": [
+        "in_vs_on",
+        "on",
+        "transport"
+      ]
+    },
+    {
+      "id": "ivo_23",
+      "question": "I read it ___ the newspaper.",
+      "optionA": "IN",
+      "optionB": "ON",
+      "correctIndex": 0,
+      "explanation": "В газете говорим in.",
+      "tags": [
+        "in_vs_on",
+        "in",
+        "media"
+      ]
+    },
+    {
+      "id": "ivo_24",
+      "question": "I found it ___ the internet.",
+      "optionA": "IN",
+      "optionB": "ON",
+      "correctIndex": 1,
+      "explanation": "В интернете говорим on.",
+      "tags": [
+        "in_vs_on",
+        "on",
+        "media"
+      ]
+    },
+    {
+      "id": "ivo_25",
+      "question": "They live ___ the city.",
+      "optionA": "IN",
+      "optionB": "ON",
+      "correctIndex": 0,
+      "explanation": "В городе говорим in.",
+      "tags": [
+        "in_vs_on",
+        "in",
+        "place"
+      ]
+    },
+    {
+      "id": "ivo_26",
+      "question": "We travel ___ the train.",
+      "optionA": "IN",
+      "optionB": "ON",
+      "correctIndex": 1,
+      "explanation": "В поезде говорим on.",
+      "tags": [
+        "in_vs_on",
+        "on",
+        "transport"
+      ]
+    },
+    {
+      "id": "ivo_27",
+      "question": "She works ___ the office.",
+      "optionA": "IN",
+      "optionB": "ON",
+      "correctIndex": 0,
+      "explanation": "В офисе говорим in.",
+      "tags": [
+        "in_vs_on",
+        "in",
+        "work"
+      ]
+    },
+    {
+      "id": "ivo_28",
+      "question": "The movie is ___ TV.",
+      "optionA": "IN",
+      "optionB": "ON",
+      "correctIndex": 1,
+      "explanation": "По телевизору говорим on.",
+      "tags": [
+        "in_vs_on",
+        "on",
+        "media"
+      ]
+    },
+    {
+      "id": "ivo_29",
+      "question": "He is ___ the car.",
+      "optionA": "IN",
+      "optionB": "ON",
+      "correctIndex": 0,
+      "explanation": "В машине говорим in.",
+      "tags": [
+        "in_vs_on",
+        "in",
+        "transport"
+      ]
+    },
+    {
+      "id": "ivo_30",
+      "question": "I saw it ___ the menu.",
+      "optionA": "IN",
+      "optionB": "ON",
+      "correctIndex": 1,
+      "explanation": "В меню говорим on.",
+      "tags": [
+        "in_vs_on",
+        "on",
+        "food"
+      ]
+    }
+  ]
+}

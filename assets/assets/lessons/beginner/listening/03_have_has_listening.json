@@ -1,0 +1,461 @@
+{
+  "id": "beginner_listening_03_have_has",
+  "title": "Have / Has",
+  "description": "Слушайте предложения с have и has в простом настоящем времени.",
+  "order": 3,
+  "level": "beginner",
+  "imageUrl": "assets/images/lessons/have_has.png",
+  "short_description": "Простые предложения с have/has.",
+  "tasks": [
+    {
+      "id": "t3_01",
+      "audioText": "He shows his keys on the table. He has two keys.",
+      "transcript": "He has two keys.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He has two keys."
+        },
+        {
+          "id": "o2",
+          "text": "He has one key."
+        },
+        {
+          "id": "o3",
+          "text": "He needs keys."
+        },
+        {
+          "id": "o4",
+          "text": "He lost his keys."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says he has two keys now. Other options change the number or say something different.",
+      "mistakeTags": [
+        "home",
+        "have_has"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_03_have_has/t3_01.mp3"
+    },
+    {
+      "id": "t3_02",
+      "audioText": "At the cafe she orders tea. She has a cup of tea.",
+      "transcript": "She has a cup of tea.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She has a cup of tea."
+        },
+        {
+          "id": "o2",
+          "text": "She has a cup of coffee."
+        },
+        {
+          "id": "o3",
+          "text": "She wants tea."
+        },
+        {
+          "id": "o4",
+          "text": "She makes tea."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says she has tea now. Other options change the drink or the action.",
+      "mistakeTags": [
+        "cafe",
+        "have_has"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_03_have_has/t3_02.mp3"
+    },
+    {
+      "id": "t3_03",
+      "audioText": "They stand at the ticket desk. They have two tickets.",
+      "transcript": "They have two tickets.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "They have two tickets."
+        },
+        {
+          "id": "o2",
+          "text": "They have three tickets."
+        },
+        {
+          "id": "o3",
+          "text": "They need tickets."
+        },
+        {
+          "id": "o4",
+          "text": "They buy tickets."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says they possess two tickets now. Other options change the number or the action.",
+      "mistakeTags": [
+        "station",
+        "have_has"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_03_have_has/t3_03.mp3"
+    },
+    {
+      "id": "t3_04",
+      "audioText": "At work he opens his laptop. He has an important email.",
+      "transcript": "He has an important email.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He has an important email."
+        },
+        {
+          "id": "o2",
+          "text": "He writes an email."
+        },
+        {
+          "id": "o3",
+          "text": "He deletes an email."
+        },
+        {
+          "id": "o4",
+          "text": "He has no email."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says he has an important email now. Other options describe different actions or say no email.",
+      "mistakeTags": [
+        "office",
+        "have_has"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_03_have_has/t3_04.mp3"
+    },
+    {
+      "id": "t3_05",
+      "audioText": "She opens her bag to check. She has a wallet.",
+      "transcript": "She has a wallet.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She has a wallet."
+        },
+        {
+          "id": "o2",
+          "text": "She has no wallet."
+        },
+        {
+          "id": "o3",
+          "text": "She lost her wallet."
+        },
+        {
+          "id": "o4",
+          "text": "She buys a wallet."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says the wallet is in her bag now. Other options say the opposite or a different action.",
+      "mistakeTags": [
+        "shop",
+        "have_has"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_03_have_has/t3_05.mp3"
+    },
+    {
+      "id": "t3_06",
+      "audioText": "In the hotel lobby the receptionist checks. The guest has a reservation.",
+      "transcript": "The guest has a reservation.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The guest has a reservation."
+        },
+        {
+          "id": "o2",
+          "text": "The guest has no reservation."
+        },
+        {
+          "id": "o3",
+          "text": "The guest makes a reservation."
+        },
+        {
+          "id": "o4",
+          "text": "The guest pays now."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says the guest already has a reservation. Other options deny it or give different actions.",
+      "mistakeTags": [
+        "hotel",
+        "have_has"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_03_have_has/t3_06.mp3"
+    },
+    {
+      "id": "t3_07",
+      "audioText": "At the clinic the woman shows ID. She has health insurance.",
+      "transcript": "She has health insurance.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She has health insurance."
+        },
+        {
+          "id": "o2",
+          "text": "She has no insurance."
+        },
+        {
+          "id": "o3",
+          "text": "She buys insurance."
+        },
+        {
+          "id": "o4",
+          "text": "She is insured now."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says she possesses insurance. Other options say the opposite or different actions.",
+      "mistakeTags": [
+        "hospital",
+        "have_has"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_03_have_has/t3_07.mp3"
+    },
+    {
+      "id": "t3_08",
+      "audioText": "He checks his pockets at the bank. He has cash.",
+      "transcript": "He has cash.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He has cash."
+        },
+        {
+          "id": "o2",
+          "text": "He has a card."
+        },
+        {
+          "id": "o3",
+          "text": "He needs cash."
+        },
+        {
+          "id": "o4",
+          "text": "He withdraws cash."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says he has cash now. Other options change the object or the action.",
+      "mistakeTags": [
+        "bank",
+        "have_has"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_03_have_has/t3_08.mp3"
+    },
+    {
+      "id": "t3_09",
+      "audioText": "At the post office she counts parcels. She has three packages.",
+      "transcript": "She has three packages.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She has three packages."
+        },
+        {
+          "id": "o2",
+          "text": "She has two packages."
+        },
+        {
+          "id": "o3",
+          "text": "She sends packages."
+        },
+        {
+          "id": "o4",
+          "text": "She finds no packages."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says she possesses three packages. Other options change the number or the action.",
+      "mistakeTags": [
+        "post_office",
+        "have_has"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_03_have_has/t3_09.mp3"
+    },
+    {
+      "id": "t3_10",
+      "audioText": "They sit in class with books. The students have new books.",
+      "transcript": "The students have new books.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The students have new books."
+        },
+        {
+          "id": "o2",
+          "text": "The students have old books."
+        },
+        {
+          "id": "o3",
+          "text": "The students read books."
+        },
+        {
+          "id": "o4",
+          "text": "The teacher has new books."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says the students possess new books now. Other options change age of books or the subject.",
+      "mistakeTags": [
+        "school",
+        "have_has"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_03_have_has/t3_10.mp3"
+    },
+    {
+      "id": "t3_11",
+      "audioText": "He opens his bag at the gym. He has a water bottle.",
+      "transcript": "He has a water bottle.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He has a water bottle."
+        },
+        {
+          "id": "o2",
+          "text": "He has no bottle."
+        },
+        {
+          "id": "o3",
+          "text": "He drinks water."
+        },
+        {
+          "id": "o4",
+          "text": "He buys a bottle."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says he possesses a bottle now. Other options deny it or describe other actions.",
+      "mistakeTags": [
+        "gym",
+        "have_has"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_03_have_has/t3_11.mp3"
+    },
+    {
+      "id": "t3_12",
+      "audioText": "On the street she checks her phone. She has a message.",
+      "transcript": "She has a message.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She has a message."
+        },
+        {
+          "id": "o2",
+          "text": "She has many messages."
+        },
+        {
+          "id": "o3",
+          "text": "She sends a message."
+        },
+        {
+          "id": "o4",
+          "text": "She deletes a message."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says she received a message. Other options change quantity or action.",
+      "mistakeTags": [
+        "street",
+        "have_has"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_03_have_has/t3_12.mp3"
+    },
+    {
+      "id": "t3_13",
+      "audioText": "They plan a trip and check documents. He has a passport.",
+      "transcript": "He has a passport.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He has a passport."
+        },
+        {
+          "id": "o2",
+          "text": "He has no passport."
+        },
+        {
+          "id": "o3",
+          "text": "He needs a passport."
+        },
+        {
+          "id": "o4",
+          "text": "He finds a passport."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says he possesses a passport now. Other options contradict or change the action.",
+      "mistakeTags": [
+        "airport",
+        "have_has"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_03_have_has/t3_13.mp3"
+    },
+    {
+      "id": "t3_14",
+      "audioText": "At the market she looks at fruit. The seller has fresh oranges.",
+      "transcript": "The seller has fresh oranges.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The seller has fresh oranges."
+        },
+        {
+          "id": "o2",
+          "text": "The seller has apples."
+        },
+        {
+          "id": "o3",
+          "text": "The seller buys oranges."
+        },
+        {
+          "id": "o4",
+          "text": "The oranges are not fresh."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says the seller possesses fresh oranges. Other options change the item or the fact.",
+      "mistakeTags": [
+        "market",
+        "have_has"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_03_have_has/t3_14.mp3"
+    },
+    {
+      "id": "t3_15",
+      "audioText": "He opens his bag in the park. He has his keys and phone.",
+      "transcript": "He has his keys and phone.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He has his keys and phone."
+        },
+        {
+          "id": "o2",
+          "text": "He has only his keys."
+        },
+        {
+          "id": "o3",
+          "text": "He lost his phone."
+        },
+        {
+          "id": "o4",
+          "text": "He buys a phone."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence lists items he has now. Other options remove items or give different events.",
+      "mistakeTags": [
+        "park",
+        "have_has"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_03_have_has/t3_15.mp3"
+    }
+  ]
+}

@@ -1,0 +1,461 @@
+{
+  "id": "beginner_listening_02_this_that",
+  "title": "This / That",
+  "description": "Слушайте короткие ситуации и тренируйте this и that.",
+  "order": 2,
+  "level": "beginner",
+  "imageUrl": "assets/images/lessons/this_that.png",
+  "short_description": "Указательные слова this и that.",
+  "tasks": [
+    {
+      "id": "t2_01",
+      "audioText": "He holds a phone in his hand. This phone is new.",
+      "transcript": "This phone is new.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The phone in his hand is new."
+        },
+        {
+          "id": "o2",
+          "text": "His old phone is broken."
+        },
+        {
+          "id": "o3",
+          "text": "That phone is old."
+        },
+        {
+          "id": "o4",
+          "text": "He buys a new phone."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence talks about a phone close to him. Other options change the distance, time, or action.",
+      "mistakeTags": [
+        "office",
+        "this_that"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_02_this_that/t2_01.mp3"
+    },
+    {
+      "id": "t2_02",
+      "audioText": "She points to a house across the street. That house is white.",
+      "transcript": "That house is white.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The house far away is white."
+        },
+        {
+          "id": "o2",
+          "text": "This house is white."
+        },
+        {
+          "id": "o3",
+          "text": "The house is very big."
+        },
+        {
+          "id": "o4",
+          "text": "She lives in the house."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "That refers to something far away. Other options change the distance or give extra information.",
+      "mistakeTags": [
+        "street",
+        "this_that"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_02_this_that/t2_02.mp3"
+    },
+    {
+      "id": "t2_03",
+      "audioText": "At the cafe he looks at his cup. This coffee is hot.",
+      "transcript": "This coffee is hot.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The coffee here is hot."
+        },
+        {
+          "id": "o2",
+          "text": "The coffee there is cold."
+        },
+        {
+          "id": "o3",
+          "text": "He likes coffee."
+        },
+        {
+          "id": "o4",
+          "text": "That tea is hot."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "This is used for something near him. Other options change distance or the drink.",
+      "mistakeTags": [
+        "cafe",
+        "this_that"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_02_this_that/t2_03.mp3"
+    },
+    {
+      "id": "t2_04",
+      "audioText": "They see a bus far away. That bus is late.",
+      "transcript": "That bus is late.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The bus far away is late."
+        },
+        {
+          "id": "o2",
+          "text": "This bus is late."
+        },
+        {
+          "id": "o3",
+          "text": "The bus is early."
+        },
+        {
+          "id": "o4",
+          "text": "They miss the bus."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "That bus means the bus far from them. Other options change distance or the situation.",
+      "mistakeTags": [
+        "bus_station",
+        "this_that"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_02_this_that/t2_04.mp3"
+    },
+    {
+      "id": "t2_05",
+      "audioText": "She touches her jacket. This jacket is warm.",
+      "transcript": "This jacket is warm.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The jacket she wears is warm."
+        },
+        {
+          "id": "o2",
+          "text": "That jacket is warm."
+        },
+        {
+          "id": "o3",
+          "text": "The jacket is cheap."
+        },
+        {
+          "id": "o4",
+          "text": "She buys a jacket."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "This refers to the jacket close to her. Other options change distance or add new details.",
+      "mistakeTags": [
+        "shop",
+        "this_that"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_02_this_that/t2_05.mp3"
+    },
+    {
+      "id": "t2_06",
+      "audioText": "He looks at a room on the screen. That room is small.",
+      "transcript": "That room is small.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The room far away is small."
+        },
+        {
+          "id": "o2",
+          "text": "This room is small."
+        },
+        {
+          "id": "o3",
+          "text": "The room is clean."
+        },
+        {
+          "id": "o4",
+          "text": "He rents the room."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "That is used for something not near him. Other options change distance or give extra info.",
+      "mistakeTags": [
+        "hotel",
+        "this_that"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_02_this_that/t2_06.mp3"
+    },
+    {
+      "id": "t2_07",
+      "audioText": "She holds a ticket. This ticket is for today.",
+      "transcript": "This ticket is for today.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The ticket she has is for today."
+        },
+        {
+          "id": "o2",
+          "text": "That ticket is for today."
+        },
+        {
+          "id": "o3",
+          "text": "The ticket is for tomorrow."
+        },
+        {
+          "id": "o4",
+          "text": "She buys a ticket."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "This refers to the ticket in her hand. Other options change distance or time.",
+      "mistakeTags": [
+        "airport",
+        "this_that"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_02_this_that/t2_07.mp3"
+    },
+    {
+      "id": "t2_08",
+      "audioText": "He points to a building across the road. That bank is closed.",
+      "transcript": "That bank is closed.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The bank over there is closed."
+        },
+        {
+          "id": "o2",
+          "text": "This bank is closed."
+        },
+        {
+          "id": "o3",
+          "text": "The bank is open."
+        },
+        {
+          "id": "o4",
+          "text": "He works in a bank."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "That shows the bank far away. Other options change distance or say the opposite.",
+      "mistakeTags": [
+        "bank",
+        "this_that"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_02_this_that/t2_08.mp3"
+    },
+    {
+      "id": "t2_09",
+      "audioText": "She tastes the soup on the table. This soup is salty.",
+      "transcript": "This soup is salty.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The soup here is salty."
+        },
+        {
+          "id": "o2",
+          "text": "That soup is salty."
+        },
+        {
+          "id": "o3",
+          "text": "The soup is sweet."
+        },
+        {
+          "id": "o4",
+          "text": "She cooks soup."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "This soup means the soup close to her. Other options change distance or taste.",
+      "mistakeTags": [
+        "restaurant",
+        "this_that"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_02_this_that/t2_09.mp3"
+    },
+    {
+      "id": "t2_10",
+      "audioText": "He sees a sign far away. That sign is red.",
+      "transcript": "That sign is red.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The sign over there is red."
+        },
+        {
+          "id": "o2",
+          "text": "This sign is red."
+        },
+        {
+          "id": "o3",
+          "text": "The sign is blue."
+        },
+        {
+          "id": "o4",
+          "text": "He reads the sign."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "That refers to something far away. Other options change distance or color.",
+      "mistakeTags": [
+        "street",
+        "this_that"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_02_this_that/t2_10.mp3"
+    },
+    {
+      "id": "t2_11",
+      "audioText": "She holds a bag. This bag is heavy.",
+      "transcript": "This bag is heavy.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The bag she holds is heavy."
+        },
+        {
+          "id": "o2",
+          "text": "That bag is heavy."
+        },
+        {
+          "id": "o3",
+          "text": "The bag is light."
+        },
+        {
+          "id": "o4",
+          "text": "She buys a bag."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "This shows the bag close to her. Other options change distance or meaning.",
+      "mistakeTags": [
+        "market",
+        "this_that"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_02_this_that/t2_11.mp3"
+    },
+    {
+      "id": "t2_12",
+      "audioText": "He points at a door across the hall. That door is locked.",
+      "transcript": "That door is locked.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The door over there is locked."
+        },
+        {
+          "id": "o2",
+          "text": "This door is locked."
+        },
+        {
+          "id": "o3",
+          "text": "The door is open."
+        },
+        {
+          "id": "o4",
+          "text": "He locks the door."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "That means the door far from him. Other options change distance or say the opposite.",
+      "mistakeTags": [
+        "office",
+        "this_that"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_02_this_that/t2_12.mp3"
+    },
+    {
+      "id": "t2_13",
+      "audioText": "She looks at flowers in her hand. These flowers are fresh.",
+      "transcript": "These flowers are fresh.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The flowers she holds are fresh."
+        },
+        {
+          "id": "o2",
+          "text": "Those flowers are fresh."
+        },
+        {
+          "id": "o3",
+          "text": "The flowers are dry."
+        },
+        {
+          "id": "o4",
+          "text": "She buys flowers."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "These refers to things close to her. Other options change distance or condition.",
+      "mistakeTags": [
+        "market",
+        "this_that"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_02_this_that/t2_13.mp3"
+    },
+    {
+      "id": "t2_14",
+      "audioText": "He sees kids in the park far away. Those kids are loud.",
+      "transcript": "Those kids are loud.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The kids over there are loud."
+        },
+        {
+          "id": "o2",
+          "text": "These kids are loud."
+        },
+        {
+          "id": "o3",
+          "text": "The kids are quiet."
+        },
+        {
+          "id": "o4",
+          "text": "He talks to kids."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Those is used for people far away. Other options change distance or the meaning.",
+      "mistakeTags": [
+        "park",
+        "this_that"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_02_this_that/t2_14.mp3"
+    },
+    {
+      "id": "t2_15",
+      "audioText": "She points to shoes in the window. Those shoes are expensive.",
+      "transcript": "Those shoes are expensive.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The shoes in the window are expensive."
+        },
+        {
+          "id": "o2",
+          "text": "These shoes are expensive."
+        },
+        {
+          "id": "o3",
+          "text": "The shoes are cheap."
+        },
+        {
+          "id": "o4",
+          "text": "She buys the shoes."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Those shoes means shoes far away. Other options change distance or price.",
+      "mistakeTags": [
+        "shop",
+        "this_that"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_02_this_that/t2_15.mp3"
+    }
+  ]
+}

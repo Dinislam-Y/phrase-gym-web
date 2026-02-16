@@ -1,0 +1,400 @@
+{
+  "id": "upper_bc_01_past_perfect",
+  "title": "Had vs Has",
+  "description": "Past Perfect (had + V3) описывает действие, завершённое до другого события в прошлом. Present Perfect (has + V3) связывает прошлое действие с настоящим моментом.",
+  "order": 1,
+  "level": "upper_intermediate",
+  "imageUrl": null,
+  "tasks": [
+    {
+      "id": "hvhs_1",
+      "question": "She ___ already made her decision before we met.",
+      "optionA": "HAD",
+      "optionB": "HAS",
+      "correctIndex": 0,
+      "tags": [
+        "had_vs_has",
+        "had",
+        "decisions"
+      ],
+      "explanation": "Past Perfect: решение было принято до другого прошлого события (before we met). Had + V3 указывает на предшествование одного прошлого действия другому."
+    },
+    {
+      "id": "hvhs_2",
+      "question": "He ___ always valued honesty in relationships.",
+      "optionA": "HAD",
+      "optionB": "HAS",
+      "correctIndex": 1,
+      "tags": [
+        "had_vs_has",
+        "has",
+        "relationships"
+      ],
+      "explanation": "Present Perfect: always указывает на качество, актуальное до сих пор. Has + V3 связывает прошлый опыт с настоящим моментом."
+    },
+    {
+      "id": "hvhs_3",
+      "question": "They ___ lost all hope before the news came.",
+      "optionA": "HAD",
+      "optionB": "HAS",
+      "correctIndex": 0,
+      "tags": [
+        "had_vs_has",
+        "had",
+        "emotions"
+      ],
+      "explanation": "Past Perfect: потеря надежды произошла до получения новостей (before the news came). Had + V3 подчёркивает последовательность двух прошлых событий."
+    },
+    {
+      "id": "hvhs_4",
+      "question": "I ___ never felt so betrayed until that moment.",
+      "optionA": "HAD",
+      "optionB": "HAS",
+      "correctIndex": 0,
+      "tags": [
+        "had_vs_has",
+        "had",
+        "emotions"
+      ],
+      "explanation": "Past Perfect: until that moment указывает на конкретную точку в прошлом. Had + V3 описывает состояние, существовавшее до определённого момента в прошлом."
+    },
+    {
+      "id": "hvhs_5",
+      "question": "She ___ become more confident over the years.",
+      "optionA": "HAD",
+      "optionB": "HAS",
+      "correctIndex": 1,
+      "tags": [
+        "had_vs_has",
+        "has",
+        "personal_growth"
+      ],
+      "explanation": "Present Perfect: over the years указывает на период до настоящего момента. Has + V3 описывает изменение, результат которого виден сейчас."
+    },
+    {
+      "id": "hvhs_6",
+      "question": "He ___ recently changed his opinion about marriage.",
+      "optionA": "HAD",
+      "optionB": "HAS",
+      "correctIndex": 1,
+      "tags": [
+        "had_vs_has",
+        "has",
+        "opinions"
+      ],
+      "explanation": "Present Perfect: recently указывает на связь с настоящим моментом. Has + V3 показывает, что смена мнения актуальна прямо сейчас."
+    },
+    {
+      "id": "hvhs_7",
+      "question": "By then, she ___ already forgiven him completely.",
+      "optionA": "HAD",
+      "optionB": "HAS",
+      "correctIndex": 0,
+      "tags": [
+        "had_vs_has",
+        "had",
+        "forgiveness"
+      ],
+      "explanation": "Past Perfect: by then указывает на момент в прошлом, к которому действие уже завершилось. Had + V3 — классический маркер предшествования в прошлом."
+    },
+    {
+      "id": "hvhs_8",
+      "question": "Their friendship ___ survived many difficult challenges.",
+      "optionA": "HAD",
+      "optionB": "HAS",
+      "correctIndex": 1,
+      "tags": [
+        "had_vs_has",
+        "has",
+        "relationships"
+      ],
+      "explanation": "Present Perfect: дружба существует и сейчас, пережив трудности. Has + V3 подчёркивает результат — дружба выстояла и актуальна в настоящем."
+    },
+    {
+      "id": "hvhs_9",
+      "question": "He ___ never considered her feelings before that argument.",
+      "optionA": "HAD",
+      "optionB": "HAS",
+      "correctIndex": 0,
+      "tags": [
+        "had_vs_has",
+        "had",
+        "relationships"
+      ],
+      "explanation": "Past Perfect: before that argument привязывает действие к моменту в прошлом. Had + V3 показывает, что он не учитывал её чувства до ссоры."
+    },
+    {
+      "id": "hvhs_10",
+      "question": "She ___ proven herself as a strong leader.",
+      "optionA": "HAD",
+      "optionB": "HAS",
+      "correctIndex": 1,
+      "tags": [
+        "had_vs_has",
+        "has",
+        "career"
+      ],
+      "explanation": "Present Perfect: результат актуален сейчас — она признанный лидер. Has + V3 связывает прошлые достижения с текущим статусом."
+    },
+    {
+      "id": "hvhs_11",
+      "question": "Nobody ___ expected such a dramatic career change.",
+      "optionA": "HAD",
+      "optionB": "HAS",
+      "correctIndex": 0,
+      "tags": [
+        "had_vs_has",
+        "had",
+        "career"
+      ],
+      "explanation": "Past Perfect: смена карьеры уже произошла, и никто этого не ожидал ранее. Had + V3 описывает ожидания, существовавшие до свершившегося факта."
+    },
+    {
+      "id": "hvhs_12",
+      "question": "His attitude ___ improved since that honest conversation.",
+      "optionA": "HAD",
+      "optionB": "HAS",
+      "correctIndex": 1,
+      "tags": [
+        "had_vs_has",
+        "has",
+        "personal_growth"
+      ],
+      "explanation": "Present Perfect: since указывает на период от прошлого до настоящего. Has + V3 показывает, что улучшение началось тогда и актуально сейчас."
+    },
+    {
+      "id": "hvhs_13",
+      "question": "She ___ already given up before the opportunity appeared.",
+      "optionA": "HAD",
+      "optionB": "HAS",
+      "correctIndex": 0,
+      "tags": [
+        "had_vs_has",
+        "had",
+        "decisions"
+      ],
+      "explanation": "Past Perfect: before the opportunity appeared указывает на предшествование в прошлом. Had + V3 подчёркивает, что она сдалась раньше, чем появился шанс."
+    },
+    {
+      "id": "hvhs_14",
+      "question": "He ___ grown tired of superficial relationships lately.",
+      "optionA": "HAD",
+      "optionB": "HAS",
+      "correctIndex": 1,
+      "tags": [
+        "had_vs_has",
+        "has",
+        "relationships"
+      ],
+      "explanation": "Present Perfect: lately привязывает действие к настоящему моменту. Has + V3 описывает состояние, которое сформировалось недавно и актуально сейчас."
+    },
+    {
+      "id": "hvhs_15",
+      "question": "Her perspective ___ shifted since she moved abroad.",
+      "optionA": "HAD",
+      "optionB": "HAS",
+      "correctIndex": 1,
+      "tags": [
+        "had_vs_has",
+        "has",
+        "opinions"
+      ],
+      "explanation": "Present Perfect: since связывает прошлое событие с настоящим результатом. Has + V3 показывает, что изменение взгляда произошло и сохраняется."
+    },
+    {
+      "id": "hvhs_16",
+      "question": "We ___ underestimated how much trust mattered back then.",
+      "optionA": "HAD",
+      "optionB": "HAS",
+      "correctIndex": 0,
+      "tags": [
+        "had_vs_has",
+        "had",
+        "trust"
+      ],
+      "explanation": "Past Perfect: back then чётко указывает на прошлое время. Had + V3 описывает ошибку в оценке, допущенную в прошлом, до осознания."
+    },
+    {
+      "id": "hvhs_17",
+      "question": "She ___ never questioned his loyalty until that evening.",
+      "optionA": "HAD",
+      "optionB": "HAS",
+      "correctIndex": 0,
+      "tags": [
+        "had_vs_has",
+        "had",
+        "trust"
+      ],
+      "explanation": "Past Perfect: until that evening привязывает к конкретному моменту в прошлом. Had + V3 показывает состояние до переломного момента."
+    },
+    {
+      "id": "hvhs_18",
+      "question": "He ___ finally accepted that perfection is impossible.",
+      "optionA": "HAD",
+      "optionB": "HAS",
+      "correctIndex": 1,
+      "tags": [
+        "had_vs_has",
+        "has",
+        "personal_growth"
+      ],
+      "explanation": "Present Perfect: finally указывает на итог процесса, актуальный сейчас. Has + V3 описывает осознание, к которому он пришёл и которое сохраняется."
+    },
+    {
+      "id": "hvhs_19",
+      "question": "By that point, I ___ already lost interest.",
+      "optionA": "HAD",
+      "optionB": "HAS",
+      "correctIndex": 0,
+      "tags": [
+        "had_vs_has",
+        "had",
+        "emotions"
+      ],
+      "explanation": "Past Perfect: by that point — маркер момента в прошлом. Had + V3 показывает, что интерес был утрачен к определённому моменту в прошлом."
+    },
+    {
+      "id": "hvhs_20",
+      "question": "She ___ developed a unique philosophy about life.",
+      "optionA": "HAD",
+      "optionB": "HAS",
+      "correctIndex": 1,
+      "tags": [
+        "had_vs_has",
+        "has",
+        "opinions"
+      ],
+      "explanation": "Present Perfect: философия актуальна в настоящем. Has + V3 описывает результат, который она выработала и придерживается сейчас."
+    },
+    {
+      "id": "hvhs_21",
+      "question": "His patience ___ paid off in remarkable ways.",
+      "optionA": "HAD",
+      "optionB": "HAS",
+      "correctIndex": 1,
+      "tags": [
+        "had_vs_has",
+        "has",
+        "idiom"
+      ],
+      "explanation": "Present Perfect с идиомой pay off (окупиться): результат терпения виден сейчас. Has + V3 связывает прошлые усилия с текущим успехом."
+    },
+    {
+      "id": "hvhs_22",
+      "question": "She ___ bitten off more than she could chew.",
+      "optionA": "HAD",
+      "optionB": "HAS",
+      "correctIndex": 0,
+      "tags": [
+        "had_vs_has",
+        "had",
+        "idiom"
+      ],
+      "explanation": "Past Perfect с идиомой bite off more than one can chew: could указывает на прошлый контекст. Had + V3 описывает ситуацию, предшествовавшую последствиям."
+    },
+    {
+      "id": "hvhs_23",
+      "question": "Experience ___ taught him to trust his instincts.",
+      "optionA": "HAD",
+      "optionB": "HAS",
+      "correctIndex": 1,
+      "tags": [
+        "had_vs_has",
+        "has",
+        "life_experience"
+      ],
+      "explanation": "Present Perfect: опыт научил, и этот урок актуален сейчас. Has + V3 показывает связь накопленного опыта с настоящим поведением."
+    },
+    {
+      "id": "hvhs_24",
+      "question": "He ___ burned too many bridges before seeking help.",
+      "optionA": "HAD",
+      "optionB": "HAS",
+      "correctIndex": 0,
+      "tags": [
+        "had_vs_has",
+        "had",
+        "idiom"
+      ],
+      "explanation": "Past Perfect с идиомой burn bridges: before seeking help указывает на предшествование. Had + V3 подчёркивает, что мосты были сожжены до обращения за помощью."
+    },
+    {
+      "id": "hvhs_25",
+      "question": "Nobody ___ realized the depth of her pain back then.",
+      "optionA": "HAD",
+      "optionB": "HAS",
+      "correctIndex": 0,
+      "tags": [
+        "had_vs_has",
+        "had",
+        "emotions"
+      ],
+      "explanation": "Past Perfect: back then однозначно указывает на прошлый период. Had + V3 описывает непонимание, которое существовало в тот момент в прошлом."
+    },
+    {
+      "id": "hvhs_26",
+      "question": "She ___ come to terms with her past mistakes.",
+      "optionA": "HAD",
+      "optionB": "HAS",
+      "correctIndex": 1,
+      "tags": [
+        "had_vs_has",
+        "has",
+        "idiom"
+      ],
+      "explanation": "Present Perfect с идиомой come to terms with (смириться): результат актуален сейчас. Has + V3 показывает, что принятие произошло и сохраняется в настоящем."
+    },
+    {
+      "id": "hvhs_27",
+      "question": "He ___ already crossed that line before anyone noticed.",
+      "optionA": "HAD",
+      "optionB": "HAS",
+      "correctIndex": 0,
+      "tags": [
+        "had_vs_has",
+        "had",
+        "idiom"
+      ],
+      "explanation": "Past Perfect с идиомой cross the line: before anyone noticed указывает на предшествование. Had + V3 показывает, что граница была пересечена до того, как это заметили."
+    },
+    {
+      "id": "hvhs_28",
+      "question": "Their bond ___ withstood the test of time.",
+      "optionA": "HAD",
+      "optionB": "HAS",
+      "correctIndex": 1,
+      "tags": [
+        "had_vs_has",
+        "has",
+        "idiom"
+      ],
+      "explanation": "Present Perfect с идиомой the test of time: связь выдержала проверку и крепка сейчас. Has + V3 описывает результат, актуальный в настоящем."
+    },
+    {
+      "id": "hvhs_29",
+      "question": "Life ___ taught her that nothing is permanent.",
+      "optionA": "HAD",
+      "optionB": "HAS",
+      "correctIndex": 1,
+      "tags": [
+        "had_vs_has",
+        "has",
+        "life_experience"
+      ],
+      "explanation": "Present Perfect: жизненный урок актуален в настоящем (is permanent — настоящее время). Has + V3 связывает накопленный опыт с текущим мировоззрением."
+    },
+    {
+      "id": "hvhs_30",
+      "question": "She ___ long abandoned that dream before we reconnected.",
+      "optionA": "HAD",
+      "optionB": "HAS",
+      "correctIndex": 0,
+      "tags": [
+        "had_vs_has",
+        "had",
+        "decisions"
+      ],
+      "explanation": "Past Perfect: before we reconnected указывает на предшествование в прошлом. Had + V3 с long подчёркивает, что мечта была оставлена задолго до встречи."
+    }
+  ]
+}

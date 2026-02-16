@@ -1,0 +1,400 @@
+{
+  "id": "advanced_bc_03_modal_perfects",
+  "title": "Must Have vs Should Have",
+  "description": "Must have или Should have? Различаем дедукцию и сожаление в прошедшем времени.",
+  "order": 3,
+  "level": "advanced",
+  "imageUrl": null,
+  "tasks": [
+    {
+      "id": "msh_1",
+      "question": "She looks exhausted — she ___ worked all night on the report.",
+      "optionA": "MUST HAVE",
+      "optionB": "SHOULD HAVE",
+      "correctIndex": 0,
+      "explanation": "Must have — вывод (дедукция) о прошлом на основе наблюдения. Она выглядит уставшей → наверняка работала всю ночь.",
+      "tags": [
+        "must_have_vs_should_have",
+        "must_have",
+        "deduction"
+      ]
+    },
+    {
+      "id": "msh_2",
+      "question": "You ___ told me about the meeting — I missed it completely.",
+      "optionA": "MUST HAVE",
+      "optionB": "SHOULD HAVE",
+      "correctIndex": 1,
+      "explanation": "Should have — сожаление или упрёк. Ты должен был мне сказать (но не сказал).",
+      "tags": [
+        "must_have_vs_should_have",
+        "should_have",
+        "regret"
+      ]
+    },
+    {
+      "id": "msh_3",
+      "question": "The door is unlocked — someone ___ forgotten to lock it.",
+      "optionA": "MUST HAVE",
+      "optionB": "SHOULD HAVE",
+      "correctIndex": 0,
+      "explanation": "Must have — логический вывод. Дверь не заперта → кто-то наверняка забыл запереть.",
+      "tags": [
+        "must_have_vs_should_have",
+        "must_have",
+        "deduction"
+      ]
+    },
+    {
+      "id": "msh_4",
+      "question": "We ___ booked the tickets earlier — now they're all sold out.",
+      "optionA": "MUST HAVE",
+      "optionB": "SHOULD HAVE",
+      "correctIndex": 1,
+      "explanation": "Should have — сожаление. Надо было забронировать раньше (но мы этого не сделали).",
+      "tags": [
+        "must_have_vs_should_have",
+        "should_have",
+        "regret"
+      ]
+    },
+    {
+      "id": "msh_5",
+      "question": "He's wearing a wedding ring — he ___ gotten married recently.",
+      "optionA": "MUST HAVE",
+      "optionB": "SHOULD HAVE",
+      "correctIndex": 0,
+      "explanation": "Must have — вывод на основе факта (кольцо). Он, должно быть, недавно женился.",
+      "tags": [
+        "must_have_vs_should_have",
+        "must_have",
+        "deduction"
+      ]
+    },
+    {
+      "id": "msh_6",
+      "question": "She ___ studied harder — her exam results were disappointing.",
+      "optionA": "MUST HAVE",
+      "optionB": "SHOULD HAVE",
+      "correctIndex": 1,
+      "explanation": "Should have — упрёк или сожаление. Ей следовало учиться усерднее (результаты плохие).",
+      "tags": [
+        "must_have_vs_should_have",
+        "should_have",
+        "regret"
+      ]
+    },
+    {
+      "id": "msh_7",
+      "question": "The streets are wet — it ___ rained while we were inside.",
+      "optionA": "MUST HAVE",
+      "optionB": "SHOULD HAVE",
+      "correctIndex": 0,
+      "explanation": "Must have — дедукция. Улицы мокрые → наверняка шёл дождь.",
+      "tags": [
+        "must_have_vs_should_have",
+        "must_have",
+        "deduction"
+      ]
+    },
+    {
+      "id": "msh_8",
+      "question": "I ___ listened to your advice instead of ignoring it.",
+      "optionA": "MUST HAVE",
+      "optionB": "SHOULD HAVE",
+      "correctIndex": 1,
+      "explanation": "Should have — сожаление. Мне следовало послушать твой совет (но я не послушал).",
+      "tags": [
+        "must_have_vs_should_have",
+        "should_have",
+        "regret"
+      ]
+    },
+    {
+      "id": "msh_9",
+      "question": "They're not answering — they ___ already left for the airport.",
+      "optionA": "MUST HAVE",
+      "optionB": "SHOULD HAVE",
+      "correctIndex": 0,
+      "explanation": "Must have — логическое предположение. Не отвечают → наверняка уже уехали.",
+      "tags": [
+        "must_have_vs_should_have",
+        "must_have",
+        "deduction"
+      ]
+    },
+    {
+      "id": "msh_10",
+      "question": "You ___ checked the contract more carefully before signing it.",
+      "optionA": "MUST HAVE",
+      "optionB": "SHOULD HAVE",
+      "correctIndex": 1,
+      "explanation": "Should have — упрёк. Нужно было проверить контракт внимательнее (но вы этого не сделали).",
+      "tags": [
+        "must_have_vs_should_have",
+        "should_have",
+        "advice"
+      ]
+    },
+    {
+      "id": "msh_11",
+      "question": "He seems very knowledgeable — he ___ spent years researching this topic.",
+      "optionA": "MUST HAVE",
+      "optionB": "SHOULD HAVE",
+      "correctIndex": 0,
+      "explanation": "Must have — вывод. Он так хорошо разбирается → наверняка годами изучал эту тему.",
+      "tags": [
+        "must_have_vs_should_have",
+        "must_have",
+        "deduction"
+      ]
+    },
+    {
+      "id": "msh_12",
+      "question": "They ___ consulted a lawyer before making that decision.",
+      "optionA": "MUST HAVE",
+      "optionB": "SHOULD HAVE",
+      "correctIndex": 1,
+      "explanation": "Should have — совет/сожаление. Им следовало проконсультироваться с юристом (но они этого не сделали).",
+      "tags": [
+        "must_have_vs_should_have",
+        "should_have",
+        "advice"
+      ]
+    },
+    {
+      "id": "msh_13",
+      "question": "She speaks fluent Japanese — she ___ lived there for quite some time.",
+      "optionA": "MUST HAVE",
+      "optionB": "SHOULD HAVE",
+      "correctIndex": 0,
+      "explanation": "Must have — дедукция. Свободно говорит по-японски → наверняка долго жила там.",
+      "tags": [
+        "must_have_vs_should_have",
+        "must_have",
+        "deduction"
+      ]
+    },
+    {
+      "id": "msh_14",
+      "question": "We ___ anticipated the supply chain disruptions and prepared accordingly.",
+      "optionA": "MUST HAVE",
+      "optionB": "SHOULD HAVE",
+      "correctIndex": 1,
+      "explanation": "Should have — сожаление о прошлом. Нам следовало предвидеть перебои в поставках.",
+      "tags": [
+        "must_have_vs_should_have",
+        "should_have",
+        "regret"
+      ]
+    },
+    {
+      "id": "msh_15",
+      "question": "The restaurant is packed — word ___ spread about their new chef.",
+      "optionA": "MUST HAVE",
+      "optionB": "SHOULD HAVE",
+      "correctIndex": 0,
+      "explanation": "Must have — логический вывод. Ресторан полон → слух, должно быть, распространился.",
+      "tags": [
+        "must_have_vs_should_have",
+        "must_have",
+        "deduction"
+      ]
+    },
+    {
+      "id": "msh_16",
+      "question": "The company ___ invested in cybersecurity before the data breach occurred.",
+      "optionA": "MUST HAVE",
+      "optionB": "SHOULD HAVE",
+      "correctIndex": 1,
+      "explanation": "Should have — упрёк. Компании следовало инвестировать в кибербезопасность заранее.",
+      "tags": [
+        "must_have_vs_should_have",
+        "should_have",
+        "advice"
+      ]
+    },
+    {
+      "id": "msh_17",
+      "question": "He looked pale — the news ___ come as a terrible shock to him.",
+      "optionA": "MUST HAVE",
+      "optionB": "SHOULD HAVE",
+      "correctIndex": 0,
+      "explanation": "Must have — вывод по внешним признакам. Он побледнел → новость наверняка стала шоком.",
+      "tags": [
+        "must_have_vs_should_have",
+        "must_have",
+        "deduction"
+      ]
+    },
+    {
+      "id": "msh_18",
+      "question": "I ___ double-checked the figures — the report contained several errors.",
+      "optionA": "MUST HAVE",
+      "optionB": "SHOULD HAVE",
+      "correctIndex": 1,
+      "explanation": "Should have — сожаление. Мне следовало перепроверить цифры (были ошибки).",
+      "tags": [
+        "must_have_vs_should_have",
+        "should_have",
+        "regret"
+      ]
+    },
+    {
+      "id": "msh_19",
+      "question": "Their flight was delayed — there ___ been severe weather conditions.",
+      "optionA": "MUST HAVE",
+      "optionB": "SHOULD HAVE",
+      "correctIndex": 0,
+      "explanation": "Must have — дедукция. Рейс задержан → наверняка были плохие погодные условия.",
+      "tags": [
+        "must_have_vs_should_have",
+        "must_have",
+        "deduction"
+      ]
+    },
+    {
+      "id": "msh_20",
+      "question": "You ___ mentioned the risks to the stakeholders from the very beginning.",
+      "optionA": "MUST HAVE",
+      "optionB": "SHOULD HAVE",
+      "correctIndex": 1,
+      "explanation": "Should have — упрёк. Вам следовало упомянуть риски с самого начала (но вы не упомянули).",
+      "tags": [
+        "must_have_vs_should_have",
+        "should_have",
+        "advice"
+      ]
+    },
+    {
+      "id": "msh_21",
+      "question": "She knew every detail — she ___ been briefed thoroughly before the hearing.",
+      "optionA": "MUST HAVE",
+      "optionB": "SHOULD HAVE",
+      "correctIndex": 0,
+      "explanation": "Must have — вывод. Знала каждую деталь → её наверняка тщательно проинструктировали.",
+      "tags": [
+        "must_have_vs_should_have",
+        "must_have",
+        "deduction"
+      ]
+    },
+    {
+      "id": "msh_22",
+      "question": "The government ___ addressed the housing crisis years ago.",
+      "optionA": "MUST HAVE",
+      "optionB": "SHOULD HAVE",
+      "correctIndex": 1,
+      "explanation": "Should have — критика. Правительству следовало решить жилищный кризис много лет назад.",
+      "tags": [
+        "must_have_vs_should_have",
+        "should_have",
+        "criticism"
+      ]
+    },
+    {
+      "id": "msh_23",
+      "question": "He finished the marathon in under three hours — he ___ trained incredibly hard.",
+      "optionA": "MUST HAVE",
+      "optionB": "SHOULD HAVE",
+      "correctIndex": 0,
+      "explanation": "Must have — вывод по результату. Пробежал менее чем за 3 часа → наверняка невероятно упорно тренировался.",
+      "tags": [
+        "must_have_vs_should_have",
+        "must_have",
+        "deduction"
+      ]
+    },
+    {
+      "id": "msh_24",
+      "question": "We ___ diversified our investment portfolio to mitigate the losses.",
+      "optionA": "MUST HAVE",
+      "optionB": "SHOULD HAVE",
+      "correctIndex": 1,
+      "explanation": "Should have — сожаление. Нам следовало диверсифицировать портфель (чтобы снизить потери).",
+      "tags": [
+        "must_have_vs_should_have",
+        "should_have",
+        "regret"
+      ]
+    },
+    {
+      "id": "msh_25",
+      "question": "The building is deserted — the evacuation order ___ been issued already.",
+      "optionA": "MUST HAVE",
+      "optionB": "SHOULD HAVE",
+      "correctIndex": 0,
+      "explanation": "Must have — дедукция. Здание пусто → приказ об эвакуации наверняка уже был отдан.",
+      "tags": [
+        "must_have_vs_should_have",
+        "must_have",
+        "deduction"
+      ]
+    },
+    {
+      "id": "msh_26",
+      "question": "The pilot ___ declared an emergency sooner given the engine malfunction.",
+      "optionA": "MUST HAVE",
+      "optionB": "SHOULD HAVE",
+      "correctIndex": 1,
+      "explanation": "Should have — критика. Пилоту следовало объявить аварийную ситуацию раньше.",
+      "tags": [
+        "must_have_vs_should_have",
+        "should_have",
+        "criticism"
+      ]
+    },
+    {
+      "id": "msh_27",
+      "question": "She resigned without notice — something ___ been seriously wrong.",
+      "optionA": "MUST HAVE",
+      "optionB": "SHOULD HAVE",
+      "correctIndex": 0,
+      "explanation": "Must have — логический вывод. Ушла без предупреждения → что-то наверняка было серьёзно не так.",
+      "tags": [
+        "must_have_vs_should_have",
+        "must_have",
+        "deduction"
+      ]
+    },
+    {
+      "id": "msh_28",
+      "question": "They ___ conducted a thorough risk assessment before launching the product.",
+      "optionA": "MUST HAVE",
+      "optionB": "SHOULD HAVE",
+      "correctIndex": 1,
+      "explanation": "Should have — упрёк. Им следовало провести тщательную оценку рисков перед запуском.",
+      "tags": [
+        "must_have_vs_should_have",
+        "should_have",
+        "advice"
+      ]
+    },
+    {
+      "id": "msh_29",
+      "question": "He passed the exam with flying colours — he ___ prepared for months.",
+      "optionA": "MUST HAVE",
+      "optionB": "SHOULD HAVE",
+      "correctIndex": 0,
+      "explanation": "Must have — дедукция по результату. Сдал блестяще → наверняка готовился месяцами.",
+      "tags": [
+        "must_have_vs_should_have",
+        "must_have",
+        "deduction"
+      ]
+    },
+    {
+      "id": "msh_30",
+      "question": "The CEO ___ stepped down before the scandal became public knowledge.",
+      "optionA": "MUST HAVE",
+      "optionB": "SHOULD HAVE",
+      "correctIndex": 1,
+      "explanation": "Should have — критика/совет. Генеральному директору следовало уйти до того, как скандал стал публичным.",
+      "tags": [
+        "must_have_vs_should_have",
+        "should_have",
+        "criticism"
+      ]
+    }
+  ]
+}

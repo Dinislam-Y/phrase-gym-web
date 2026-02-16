@@ -1,0 +1,1497 @@
+{
+  "id": "beginner_08_present_simple_questions",
+  "title": "Present Simple: Questions",
+  "description": "Как задавать вопросы: Do you like...? Does she work...? Порядок слов в вопросах.",
+  "order": 8,
+  "level": "beginner",
+  "imageUrl": "assets/images/lessons/present_simple_questions.png",
+  "vocabulary": [
+    {
+      "id": "v8_do",
+      "english": "do",
+      "russian": "делать (вспомогательный глагол)",
+      "partOfSpeech": "verb",
+      "example": "Do you like tea?",
+      "exampleTranslation": "Ты любишь чай?",
+      "audioPath": "assets/audio/vocabulary/v8_do.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_do.mp3"
+    },
+    {
+      "id": "v8_does",
+      "english": "does",
+      "russian": "делает (вспомогательный для he/she/it)",
+      "partOfSpeech": "verb",
+      "example": "Does she work here?",
+      "exampleTranslation": "Она работает здесь?",
+      "audioPath": "assets/audio/vocabulary/v8_does.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_does.mp3"
+    },
+    {
+      "id": "v8_like",
+      "english": "like",
+      "russian": "нравиться, любить",
+      "partOfSpeech": "verb",
+      "example": "Do you like coffee?",
+      "exampleTranslation": "Тебе нравится кофе?",
+      "audioPath": "assets/audio/vocabulary/v8_like.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_like.mp3"
+    },
+    {
+      "id": "v8_work",
+      "english": "work",
+      "russian": "работать",
+      "partOfSpeech": "verb",
+      "example": "Does he work here?",
+      "exampleTranslation": "Он работает здесь?",
+      "audioPath": "assets/audio/vocabulary/v8_work.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_work.mp3"
+    },
+    {
+      "id": "v8_live",
+      "english": "live",
+      "russian": "жить",
+      "partOfSpeech": "verb",
+      "example": "Do they live here?",
+      "exampleTranslation": "Они живут здесь?",
+      "audioPath": "assets/audio/vocabulary/v8_live.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_live.mp3"
+    },
+    {
+      "id": "v8_speak",
+      "english": "speak",
+      "russian": "говорить (на языке)",
+      "partOfSpeech": "verb",
+      "example": "Do you speak English?",
+      "exampleTranslation": "Ты говоришь по-английски?",
+      "audioPath": "assets/audio/vocabulary/v8_speak.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_speak.mp3"
+    },
+    {
+      "id": "v8_want",
+      "english": "want",
+      "russian": "хотеть",
+      "partOfSpeech": "verb",
+      "example": "Do you want tea?",
+      "exampleTranslation": "Ты хочешь чай?",
+      "audioPath": "assets/audio/vocabulary/v8_want.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_want.mp3"
+    },
+    {
+      "id": "v8_need",
+      "english": "need",
+      "russian": "нуждаться",
+      "partOfSpeech": "verb",
+      "example": "Do you need help?",
+      "exampleTranslation": "Тебе нужна помощь?",
+      "audioPath": "assets/audio/vocabulary/v8_need.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_need.mp3"
+    },
+    {
+      "id": "v8_eat",
+      "english": "eat",
+      "russian": "есть, кушать",
+      "partOfSpeech": "verb",
+      "example": "Does she eat meat?",
+      "exampleTranslation": "Она ест мясо?",
+      "audioPath": "assets/audio/vocabulary/v8_eat.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_eat.mp3"
+    },
+    {
+      "id": "v8_drink",
+      "english": "drink",
+      "russian": "пить",
+      "partOfSpeech": "verb",
+      "example": "Do they drink coffee?",
+      "exampleTranslation": "Они пьют кофе?",
+      "audioPath": "assets/audio/vocabulary/v8_drink.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_drink.mp3"
+    },
+    {
+      "id": "v8_play",
+      "english": "play",
+      "russian": "играть",
+      "partOfSpeech": "verb",
+      "example": "Does he play football?",
+      "exampleTranslation": "Он играет в футбол?",
+      "audioPath": "assets/audio/vocabulary/v8_play.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_play.mp3"
+    },
+    {
+      "id": "v8_know",
+      "english": "know",
+      "russian": "знать",
+      "partOfSpeech": "verb",
+      "example": "Do you know him?",
+      "exampleTranslation": "Ты знаешь его?",
+      "audioPath": "assets/audio/vocabulary/v8_know.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_know.mp3"
+    },
+    {
+      "id": "v8_read",
+      "english": "read",
+      "russian": "читать",
+      "partOfSpeech": "verb",
+      "example": "Does she read books?",
+      "exampleTranslation": "Она читает книги?",
+      "audioPath": "assets/audio/vocabulary/v8_read.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_read.mp3"
+    },
+    {
+      "id": "v8_help",
+      "english": "help",
+      "russian": "помощь; помогать",
+      "partOfSpeech": "noun",
+      "example": "Do you need help?",
+      "exampleTranslation": "Тебе нужна помощь?",
+      "audioPath": "assets/audio/vocabulary/v8_help.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_help.mp3"
+    },
+    {
+      "id": "v8_coffee",
+      "english": "coffee",
+      "russian": "кофе",
+      "partOfSpeech": "noun",
+      "example": "Do you like coffee?",
+      "exampleTranslation": "Ты любишь кофе?",
+      "audioPath": "assets/audio/vocabulary/v8_coffee.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_coffee.mp3"
+    },
+    {
+      "id": "v8_here",
+      "english": "here",
+      "russian": "здесь",
+      "partOfSpeech": "adverb",
+      "example": "Does he live here?",
+      "exampleTranslation": "Он живёт здесь?",
+      "audioPath": "assets/audio/vocabulary/v8_here.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_here.mp3"
+    },
+    {
+      "id": "v8_music",
+      "english": "music",
+      "russian": "музыка",
+      "partOfSpeech": "noun",
+      "example": "Do you like music?",
+      "exampleTranslation": "Ты любишь музыку?",
+      "audioPath": "assets/audio/vocabulary/v8_music.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_music.mp3"
+    },
+    {
+      "id": "v8_meat",
+      "english": "meat",
+      "russian": "мясо",
+      "partOfSpeech": "noun",
+      "example": "Does he eat meat?",
+      "exampleTranslation": "Он ест мясо?",
+      "audioPath": "assets/audio/vocabulary/v8_meat.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_meat.mp3"
+    },
+    {
+      "id": "v8_drive",
+      "english": "drive",
+      "russian": "водить машину",
+      "partOfSpeech": "verb",
+      "example": "Does she drive a car?",
+      "exampleTranslation": "Она водит машину?",
+      "audioPath": "assets/audio/vocabulary/v8_drive.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_drive.mp3"
+    },
+    {
+      "id": "v8_cook",
+      "english": "cook",
+      "russian": "готовить (еду)",
+      "partOfSpeech": "verb",
+      "example": "Do you cook dinner?",
+      "exampleTranslation": "Ты готовишь ужин?",
+      "audioPath": "assets/audio/vocabulary/v8_cook.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_cook.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "Present Simple: Questions",
+    "subtitle": "Чтобы задать вопрос в Present Simple, нужен помощник — Do или Does. Без него вопрос не получится.",
+    "construction": {
+      "formula": "Do/Does + S + V1?",
+      "rules": [
+        {
+          "word": "Do",
+          "description": "Используем с I, you, we, they: Do you like coffee?"
+        },
+        {
+          "word": "Does",
+          "description": "Используем с he, she, it: Does she work here?"
+        },
+        {
+          "word": "V1 (без -s!)",
+          "description": "После Does глагол БЕЗ окончания -s: Does he like (НЕ likes!)."
+        },
+        {
+          "word": "Порядок слов",
+          "description": "Помощник → подлежащее → глагол: Do you speak English?"
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "waving_hand",
+        "color": "blue",
+        "title": "Знакомство",
+        "description": "Спрашиваем о привычках и предпочтениях нового человека.",
+        "example": {
+          "english": "Do you speak English?",
+          "russian": "Вы говорите по-английски?"
+        }
+      },
+      {
+        "icon": "explore",
+        "color": "purple",
+        "title": "Уточнение фактов",
+        "description": "Проверяем информацию: работает ли, живёт ли, знает ли.",
+        "example": {
+          "english": "Does she live here?",
+          "russian": "Она живёт здесь?"
+        }
+      },
+      {
+        "icon": "favorite",
+        "color": "orange",
+        "title": "Вкусы и предпочтения",
+        "description": "Спрашиваем, что человек любит или хочет.",
+        "example": {
+          "english": "Do you like music?",
+          "russian": "Тебе нравится музыка?"
+        }
+      }
+    ],
+    "markers": [
+      "do",
+      "does",
+      "every day",
+      "usually",
+      "often",
+      "always"
+    ]
+  },
+  "tasks": [
+    {
+      "id": "t8_1",
+      "type": "sentenceAssembly",
+      "question": "Ты любишь кофе?",
+      "correctAnswer": "Do you like coffee?",
+      "options": [],
+      "variants": [
+        [
+          "Do",
+          "Does",
+          "Is",
+          "Are"
+        ],
+        [
+          "you",
+          "he",
+          "she",
+          "your"
+        ],
+        [
+          "like",
+          "likes",
+          "liking",
+          "want"
+        ],
+        [
+          "coffee?",
+          "tea?",
+          "milk?",
+          "water?"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_08_present_simple_questions/000.mp3"
+    },
+    {
+      "id": "t8_2",
+      "type": "sentenceAssembly",
+      "question": "Она работает здесь?",
+      "correctAnswer": "Does she work here?",
+      "options": [],
+      "variants": [
+        [
+          "Does",
+          "Do",
+          "Is",
+          "Are"
+        ],
+        [
+          "she",
+          "he",
+          "they",
+          "her"
+        ],
+        [
+          "work",
+          "works",
+          "working",
+          "live"
+        ],
+        [
+          "here?",
+          "there?",
+          "now?",
+          "today?"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_08_present_simple_questions/001.mp3"
+    },
+    {
+      "id": "t8_3",
+      "type": "sentenceAssembly",
+      "question": "Они живут здесь?",
+      "correctAnswer": "Do they live here?",
+      "options": [],
+      "variants": [
+        [
+          "Do",
+          "Does",
+          "Is",
+          "Are"
+        ],
+        [
+          "they",
+          "he",
+          "she",
+          "them"
+        ],
+        [
+          "live",
+          "lives",
+          "living",
+          "work"
+        ],
+        [
+          "here?",
+          "there?",
+          "now?",
+          "home?"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_08_present_simple_questions/002.mp3"
+    },
+    {
+      "id": "t8_4",
+      "type": "sentenceAssembly",
+      "question": "Ты говоришь по-английски?",
+      "correctAnswer": "Do you speak English?",
+      "options": [],
+      "variants": [
+        [
+          "Do",
+          "Does",
+          "Is",
+          "Are"
+        ],
+        [
+          "you",
+          "she",
+          "he",
+          "your"
+        ],
+        [
+          "speak",
+          "speaks",
+          "speaking",
+          "tell"
+        ],
+        [
+          "English?",
+          "Russian?",
+          "French?",
+          "Spanish?"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_08_present_simple_questions/003.mp3"
+    },
+    {
+      "id": "t8_5",
+      "type": "sentenceAssembly",
+      "question": "Он любит музыку?",
+      "correctAnswer": "Does he like music?",
+      "options": [],
+      "variants": [
+        [
+          "Does",
+          "Do",
+          "Is",
+          "Are"
+        ],
+        [
+          "he",
+          "she",
+          "they",
+          "him"
+        ],
+        [
+          "like",
+          "likes",
+          "liking",
+          "love"
+        ],
+        [
+          "music?",
+          "books?",
+          "tea?",
+          "sport?"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_08_present_simple_questions/004.mp3"
+    },
+    {
+      "id": "t8_6",
+      "type": "sentenceAssembly",
+      "question": "Мы хотим есть?",
+      "correctAnswer": "Do we want food?",
+      "options": [],
+      "variants": [
+        [
+          "Do",
+          "Does",
+          "Is",
+          "Are"
+        ],
+        [
+          "we",
+          "he",
+          "she",
+          "us"
+        ],
+        [
+          "want",
+          "wants",
+          "wanting",
+          "need"
+        ],
+        [
+          "food?",
+          "water?",
+          "tea?",
+          "help?"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_08_present_simple_questions/005.mp3"
+    },
+    {
+      "id": "t8_7",
+      "type": "sentenceAssembly",
+      "question": "Она пьёт чай?",
+      "correctAnswer": "Does she drink tea?",
+      "options": [],
+      "variants": [
+        [
+          "Does",
+          "Do",
+          "Is",
+          "Are"
+        ],
+        [
+          "she",
+          "he",
+          "they",
+          "her"
+        ],
+        [
+          "drink",
+          "drinks",
+          "drinking",
+          "eat"
+        ],
+        [
+          "tea?",
+          "coffee?",
+          "water?",
+          "milk?"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_08_present_simple_questions/006.mp3"
+    },
+    {
+      "id": "t8_8",
+      "type": "sentenceAssembly",
+      "question": "Ты хочешь воду?",
+      "correctAnswer": "Do you want water?",
+      "options": [],
+      "variants": [
+        [
+          "Do",
+          "Does",
+          "Is",
+          "Are"
+        ],
+        [
+          "you",
+          "she",
+          "he",
+          "your"
+        ],
+        [
+          "want",
+          "wants",
+          "wanting",
+          "need"
+        ],
+        [
+          "water?",
+          "coffee?",
+          "tea?",
+          "food?"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_08_present_simple_questions/007.mp3"
+    },
+    {
+      "id": "t8_9",
+      "type": "sentenceAssembly",
+      "question": "Он играет в футбол?",
+      "correctAnswer": "Does he play football?",
+      "options": [],
+      "variants": [
+        [
+          "Does",
+          "Do",
+          "Is",
+          "Are"
+        ],
+        [
+          "he",
+          "she",
+          "they",
+          "him"
+        ],
+        [
+          "play",
+          "plays",
+          "playing",
+          "watch"
+        ],
+        [
+          "football?",
+          "tennis?",
+          "basketball?",
+          "games?"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_08_present_simple_questions/008.mp3"
+    },
+    {
+      "id": "t8_10",
+      "type": "sentenceAssembly",
+      "question": "Они едят мясо?",
+      "correctAnswer": "Do they eat meat?",
+      "options": [],
+      "variants": [
+        [
+          "Do",
+          "Does",
+          "Is",
+          "Are"
+        ],
+        [
+          "they",
+          "he",
+          "she",
+          "them"
+        ],
+        [
+          "eat",
+          "eats",
+          "eating",
+          "drink"
+        ],
+        [
+          "meat?",
+          "fish?",
+          "food?",
+          "bread?"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_08_present_simple_questions/009.mp3"
+    },
+    {
+      "id": "t8_11",
+      "type": "sentenceAssembly",
+      "question": "Ты знаешь его?",
+      "correctAnswer": "Do you know him?",
+      "options": [],
+      "variants": [
+        [
+          "Do",
+          "Does",
+          "Is",
+          "Are"
+        ],
+        [
+          "you",
+          "she",
+          "he",
+          "your"
+        ],
+        [
+          "know",
+          "knows",
+          "knowing",
+          "see"
+        ],
+        [
+          "him?",
+          "her?",
+          "them?",
+          "his?"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_08_present_simple_questions/010.mp3"
+    },
+    {
+      "id": "t8_12",
+      "type": "sentenceAssembly",
+      "question": "Она читает книги?",
+      "correctAnswer": "Does she read books?",
+      "options": [],
+      "variants": [
+        [
+          "Does",
+          "Do",
+          "Is",
+          "Are"
+        ],
+        [
+          "she",
+          "he",
+          "they",
+          "her"
+        ],
+        [
+          "read",
+          "reads",
+          "reading",
+          "write"
+        ],
+        [
+          "books?",
+          "news?",
+          "letters?",
+          "texts?"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_08_present_simple_questions/011.mp3"
+    },
+    {
+      "id": "t8_13",
+      "type": "sentenceAssembly",
+      "question": "Тебе нужна помощь?",
+      "correctAnswer": "Do you need help?",
+      "options": [],
+      "variants": [
+        [
+          "Do",
+          "Does",
+          "Is",
+          "Are"
+        ],
+        [
+          "you",
+          "she",
+          "he",
+          "your"
+        ],
+        [
+          "need",
+          "needs",
+          "needing",
+          "want"
+        ],
+        [
+          "help?",
+          "food?",
+          "water?",
+          "time?"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_08_present_simple_questions/012.mp3"
+    },
+    {
+      "id": "t8_14",
+      "type": "sentenceAssembly",
+      "question": "Он водит машину?",
+      "correctAnswer": "Does he drive a car?",
+      "options": [],
+      "variants": [
+        [
+          "Does",
+          "Do",
+          "Is",
+          "Are"
+        ],
+        [
+          "he",
+          "she",
+          "they",
+          "him"
+        ],
+        [
+          "drive",
+          "drives",
+          "driving",
+          "ride"
+        ],
+        [
+          "a",
+          "the",
+          "an",
+          "his"
+        ],
+        [
+          "car?",
+          "bus?",
+          "bike?",
+          "truck?"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_08_present_simple_questions/013.mp3"
+    },
+    {
+      "id": "t8_15",
+      "type": "sentenceAssembly",
+      "question": "Мы пьём молоко?",
+      "correctAnswer": "Do we drink milk?",
+      "options": [],
+      "variants": [
+        [
+          "Do",
+          "Does",
+          "Is",
+          "Are"
+        ],
+        [
+          "we",
+          "he",
+          "she",
+          "us"
+        ],
+        [
+          "drink",
+          "drinks",
+          "drinking",
+          "eat"
+        ],
+        [
+          "milk?",
+          "coffee?",
+          "tea?",
+          "juice?"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_08_present_simple_questions/014.mp3"
+    },
+    {
+      "id": "t8_16",
+      "type": "sentenceAssembly",
+      "question": "Она любит шоколад?",
+      "correctAnswer": "Does she like chocolate?",
+      "options": [],
+      "variants": [
+        [
+          "Does",
+          "Do",
+          "Is",
+          "Are"
+        ],
+        [
+          "she",
+          "he",
+          "they",
+          "her"
+        ],
+        [
+          "like",
+          "likes",
+          "liking",
+          "eat"
+        ],
+        [
+          "chocolate?",
+          "candy?",
+          "cake?",
+          "sugar?"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_08_present_simple_questions/015.mp3"
+    },
+    {
+      "id": "t8_17",
+      "type": "sentenceAssembly",
+      "question": "Ты готовишь ужин?",
+      "correctAnswer": "Do you cook dinner?",
+      "options": [],
+      "variants": [
+        [
+          "Do",
+          "Does",
+          "Is",
+          "Are"
+        ],
+        [
+          "you",
+          "she",
+          "he",
+          "your"
+        ],
+        [
+          "cook",
+          "cooks",
+          "cooking",
+          "make"
+        ],
+        [
+          "dinner?",
+          "lunch?",
+          "breakfast?",
+          "food?"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_08_present_simple_questions/016.mp3"
+    },
+    {
+      "id": "t8_18",
+      "type": "sentenceAssembly",
+      "question": "Он ест рыбу?",
+      "correctAnswer": "Does he eat fish?",
+      "options": [],
+      "variants": [
+        [
+          "Does",
+          "Do",
+          "Is",
+          "Are"
+        ],
+        [
+          "he",
+          "she",
+          "they",
+          "him"
+        ],
+        [
+          "eat",
+          "eats",
+          "eating",
+          "cook"
+        ],
+        [
+          "fish?",
+          "meat?",
+          "food?",
+          "bread?"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_08_present_simple_questions/017.mp3"
+    },
+    {
+      "id": "t8_19",
+      "type": "sentenceAssembly",
+      "question": "Они хотят чай?",
+      "correctAnswer": "Do they want tea?",
+      "options": [],
+      "variants": [
+        [
+          "Do",
+          "Does",
+          "Is",
+          "Are"
+        ],
+        [
+          "they",
+          "he",
+          "she",
+          "them"
+        ],
+        [
+          "want",
+          "wants",
+          "wanting",
+          "need"
+        ],
+        [
+          "tea?",
+          "coffee?",
+          "water?",
+          "milk?"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_08_present_simple_questions/018.mp3"
+    },
+    {
+      "id": "t8_20",
+      "type": "sentenceAssembly",
+      "question": "Она живёт в Москве?",
+      "correctAnswer": "Does she live in Moscow?",
+      "options": [],
+      "variants": [
+        [
+          "Does",
+          "Do",
+          "Is",
+          "Are"
+        ],
+        [
+          "she",
+          "he",
+          "they",
+          "her"
+        ],
+        [
+          "live",
+          "lives",
+          "living",
+          "work"
+        ],
+        [
+          "in",
+          "on",
+          "at",
+          "to"
+        ],
+        [
+          "Moscow?",
+          "London?",
+          "Paris?",
+          "Berlin?"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_08_present_simple_questions/019.mp3"
+    },
+    {
+      "id": "t8_21",
+      "type": "sentenceAssembly",
+      "question": "Ты не любишь рыбу?",
+      "correctAnswer": "Do you not like fish?",
+      "options": [],
+      "variants": [
+        [
+          "Do",
+          "Does",
+          "Is",
+          "Are"
+        ],
+        [
+          "you",
+          "she",
+          "he",
+          "your"
+        ],
+        [
+          "not",
+          "no",
+          "none",
+          "never"
+        ],
+        [
+          "like",
+          "likes",
+          "liking",
+          "eat"
+        ],
+        [
+          "fish?",
+          "meat?",
+          "milk?",
+          "bread?"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_08_present_simple_questions/020.mp3"
+    },
+    {
+      "id": "t8_22",
+      "type": "sentenceAssembly",
+      "question": "Он не работает здесь?",
+      "correctAnswer": "Does he not work here?",
+      "options": [],
+      "variants": [
+        [
+          "Does",
+          "Do",
+          "Is",
+          "Are"
+        ],
+        [
+          "he",
+          "she",
+          "they",
+          "him"
+        ],
+        [
+          "not",
+          "no",
+          "none",
+          "never"
+        ],
+        [
+          "work",
+          "works",
+          "working",
+          "live"
+        ],
+        [
+          "here?",
+          "there?",
+          "now?",
+          "today?"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_08_present_simple_questions/021.mp3"
+    },
+    {
+      "id": "t8_23",
+      "type": "sentenceAssembly",
+      "question": "Они не пьют кофе?",
+      "correctAnswer": "Do they not drink coffee?",
+      "options": [],
+      "variants": [
+        [
+          "Do",
+          "Does",
+          "Is",
+          "Are"
+        ],
+        [
+          "they",
+          "he",
+          "she",
+          "them"
+        ],
+        [
+          "not",
+          "no",
+          "none",
+          "never"
+        ],
+        [
+          "drink",
+          "drinks",
+          "drinking",
+          "eat"
+        ],
+        [
+          "coffee?",
+          "tea?",
+          "water?",
+          "milk?"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_08_present_simple_questions/022.mp3"
+    },
+    {
+      "id": "t8_24",
+      "type": "sentenceAssembly",
+      "question": "Она не ест мясо?",
+      "correctAnswer": "Does she not eat meat?",
+      "options": [],
+      "variants": [
+        [
+          "Does",
+          "Do",
+          "Is",
+          "Are"
+        ],
+        [
+          "she",
+          "he",
+          "they",
+          "her"
+        ],
+        [
+          "not",
+          "no",
+          "none",
+          "never"
+        ],
+        [
+          "eat",
+          "eats",
+          "eating",
+          "cook"
+        ],
+        [
+          "meat?",
+          "fish?",
+          "food?",
+          "bread?"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_08_present_simple_questions/023.mp3"
+    },
+    {
+      "id": "t8_25",
+      "type": "sentenceAssembly",
+      "question": "Ты не хочешь воду?",
+      "correctAnswer": "Do you not want water?",
+      "options": [],
+      "variants": [
+        [
+          "Do",
+          "Does",
+          "Is",
+          "Are"
+        ],
+        [
+          "you",
+          "she",
+          "he",
+          "your"
+        ],
+        [
+          "not",
+          "no",
+          "none",
+          "never"
+        ],
+        [
+          "want",
+          "wants",
+          "wanting",
+          "need"
+        ],
+        [
+          "water?",
+          "coffee?",
+          "tea?",
+          "food?"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_08_present_simple_questions/024.mp3"
+    },
+    {
+      "id": "t8_26",
+      "type": "sentenceAssembly",
+      "question": "Он не знает её?",
+      "correctAnswer": "Does he not know her?",
+      "options": [],
+      "variants": [
+        [
+          "Does",
+          "Do",
+          "Is",
+          "Are"
+        ],
+        [
+          "he",
+          "she",
+          "they",
+          "him"
+        ],
+        [
+          "not",
+          "no",
+          "none",
+          "never"
+        ],
+        [
+          "know",
+          "knows",
+          "knowing",
+          "see"
+        ],
+        [
+          "her?",
+          "him?",
+          "them?",
+          "his?"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_08_present_simple_questions/025.mp3"
+    },
+    {
+      "id": "t8_27",
+      "type": "sentenceAssembly",
+      "question": "Мы не играем в теннис?",
+      "correctAnswer": "Do we not play tennis?",
+      "options": [],
+      "variants": [
+        [
+          "Do",
+          "Does",
+          "Is",
+          "Are"
+        ],
+        [
+          "we",
+          "he",
+          "she",
+          "us"
+        ],
+        [
+          "not",
+          "no",
+          "none",
+          "never"
+        ],
+        [
+          "play",
+          "plays",
+          "playing",
+          "watch"
+        ],
+        [
+          "tennis?",
+          "football?",
+          "basketball?",
+          "games?"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_08_present_simple_questions/026.mp3"
+    },
+    {
+      "id": "t8_28",
+      "type": "sentenceAssembly",
+      "question": "Она не готовит ужин?",
+      "correctAnswer": "Does she not cook dinner?",
+      "options": [],
+      "variants": [
+        [
+          "Does",
+          "Do",
+          "Is",
+          "Are"
+        ],
+        [
+          "she",
+          "he",
+          "they",
+          "her"
+        ],
+        [
+          "not",
+          "no",
+          "none",
+          "never"
+        ],
+        [
+          "cook",
+          "cooks",
+          "cooking",
+          "make"
+        ],
+        [
+          "dinner?",
+          "lunch?",
+          "breakfast?",
+          "food?"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_08_present_simple_questions/027.mp3"
+    },
+    {
+      "id": "t8_29",
+      "type": "sentenceAssembly",
+      "question": "Ты не говоришь по-русски?",
+      "correctAnswer": "Do you not speak Russian?",
+      "options": [],
+      "variants": [
+        [
+          "Do",
+          "Does",
+          "Is",
+          "Are"
+        ],
+        [
+          "you",
+          "she",
+          "he",
+          "your"
+        ],
+        [
+          "not",
+          "no",
+          "none",
+          "never"
+        ],
+        [
+          "speak",
+          "speaks",
+          "speaking",
+          "tell"
+        ],
+        [
+          "Russian?",
+          "English?",
+          "French?",
+          "Spanish?"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_08_present_simple_questions/028.mp3"
+    },
+    {
+      "id": "t8_30",
+      "type": "sentenceAssembly",
+      "question": "Они не читают книги?",
+      "correctAnswer": "Do they not read books?",
+      "options": [],
+      "variants": [
+        [
+          "Do",
+          "Does",
+          "Is",
+          "Are"
+        ],
+        [
+          "they",
+          "he",
+          "she",
+          "them"
+        ],
+        [
+          "not",
+          "no",
+          "none",
+          "never"
+        ],
+        [
+          "read",
+          "reads",
+          "reading",
+          "write"
+        ],
+        [
+          "books?",
+          "news?",
+          "letters?",
+          "texts?"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_08_present_simple_questions/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionBeginner08PresentSimpleQuestions",
+  "theoryQuiz": [
+    {
+      "id": "tq_08_01",
+      "type": "multipleChoice",
+      "question": "Какой вспомогательный глагол используется с he/she/it в вопросах Present Simple?",
+      "options": [
+        "Do",
+        "Does",
+        "Is",
+        "Are"
+      ],
+      "correctIndex": 1,
+      "explanation": "С he, she, it используется Does: Does she like coffee?"
+    },
+    {
+      "id": "tq_08_02",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вопрос: «Ты любишь чай?»",
+      "options": [
+        "Do you likes tea?",
+        "Does you like tea?",
+        "Do you like tea?",
+        "You do like tea?"
+      ],
+      "correctIndex": 2,
+      "explanation": "С you используем Do, глагол без -s: Do you like tea?"
+    },
+    {
+      "id": "tq_08_03",
+      "type": "trueFalse",
+      "question": "В вопросе «Does he likes music?» глагол стоит в правильной форме.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "После Does глагол идёт БЕЗ окончания -s: Does he like music?"
+    },
+    {
+      "id": "tq_08_04",
+      "type": "multipleChoice",
+      "question": "Какой порядок слов правильный для вопроса в Present Simple?",
+      "options": [
+        "You do like coffee?",
+        "Like you do coffee?",
+        "Do you like coffee?",
+        "Do like you coffee?"
+      ],
+      "correctIndex": 2,
+      "explanation": "Порядок: Do/Does + подлежащее + глагол: Do you like coffee?"
+    },
+    {
+      "id": "tq_08_05",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вопрос: «Она работает здесь?»",
+      "options": [
+        "Do she work here?",
+        "Does she works here?",
+        "Does she work here?",
+        "She does work here?"
+      ],
+      "correctIndex": 2,
+      "explanation": "She → Does, глагол без -s: Does she work here?"
+    },
+    {
+      "id": "tq_08_06",
+      "type": "trueFalse",
+      "question": "С местоимениями I, you, we, they в вопросах используется Do.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Do используется с I, you, we, they. Does — только с he, she, it."
+    },
+    {
+      "id": "tq_08_07",
+      "type": "multipleChoice",
+      "question": "Как правильно: «Они живут здесь?»",
+      "options": [
+        "Does they live here?",
+        "Do they lives here?",
+        "Do they live here?",
+        "They do live here?"
+      ],
+      "correctIndex": 2,
+      "explanation": "They → Do, глагол без изменений: Do they live here?"
+    },
+    {
+      "id": "tq_08_08",
+      "type": "multipleChoice",
+      "question": "Что стоит ПЕРВЫМ в вопросе Present Simple?",
+      "options": [
+        "Подлежащее",
+        "Глагол",
+        "Do или Does",
+        "Дополнение"
+      ],
+      "correctIndex": 2,
+      "explanation": "Вопрос начинается с вспомогательного глагола Do или Does."
+    },
+    {
+      "id": "tq_08_09",
+      "type": "trueFalse",
+      "question": "Вопрос «Do he play football?» составлен правильно.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "С he нужен Does, не Do: Does he play football?"
+    },
+    {
+      "id": "tq_08_10",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: «___ you speak Russian?»",
+      "options": [
+        "Does",
+        "Is",
+        "Do",
+        "Are"
+      ],
+      "correctIndex": 2,
+      "explanation": "You → Do: Do you speak Russian?"
+    }
+  ]
+}

@@ -1,0 +1,461 @@
+{
+  "id": "intermediate_listening_06_comparatives",
+  "title": "Comparatives & Superlatives",
+  "description": "Слушайте реальные сравнения из жизни — кто быстрее, дороже, лучше и самый-самый.",
+  "order": 6,
+  "level": "intermediate",
+  "imageUrl": "assets/images/lessons/comparatives.png",
+  "tasks": [
+    {
+      "id": "t6_01",
+      "audioText": "This new café is much nicer than the old one on the corner.",
+      "transcript": "This new café is much nicer than the old one on the corner.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "People prefer the new café to the old one."
+        },
+        {
+          "id": "o2",
+          "text": "Both cafés are equally nice."
+        },
+        {
+          "id": "o3",
+          "text": "The old café is nicer."
+        },
+        {
+          "id": "o4",
+          "text": "The new café is the nicest in town."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Much + comparative = strong difference. Option 1 is exact.",
+      "mistakeTags": [
+        "cafe",
+        "comparatives"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_06_comparatives/t6_01.mp3"
+    },
+    {
+      "id": "t6_02",
+      "audioText": "Mike runs faster than anyone else in our team.",
+      "transcript": "Mike runs faster than anyone else in our team.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Mike is the fastest runner on the team."
+        },
+        {
+          "id": "o2",
+          "text": "Mike runs slower than others."
+        },
+        {
+          "id": "o3",
+          "text": "Mike runs as fast as the coach."
+        },
+        {
+          "id": "o4",
+          "text": "Mike used to run faster."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Faster than anyone else = the fastest.",
+      "mistakeTags": [
+        "sport",
+        "comparatives"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_06_comparatives/t6_02.mp3"
+    },
+    {
+      "id": "t6_03",
+      "audioText": "Living in the city centre is more expensive than in the suburbs.",
+      "transcript": "Living in the city centre is more expensive than in the suburbs.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "City centre costs more than suburbs."
+        },
+        {
+          "id": "o2",
+          "text": "Suburbs are more expensive."
+        },
+        {
+          "id": "o3",
+          "text": "Both places cost the same."
+        },
+        {
+          "id": "o4",
+          "text": "City centre is the cheapest."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Clear comparison of two options.",
+      "mistakeTags": [
+        "home",
+        "comparatives"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_06_comparatives/t6_03.mp3"
+    },
+    {
+      "id": "t6_04",
+      "audioText": "This is definitely the worst coffee I have ever tried.",
+      "transcript": "This is definitely the worst coffee I have ever tried.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "No coffee has ever been this bad."
+        },
+        {
+          "id": "o2",
+          "text": "This is the best coffee in my life."
+        },
+        {
+          "id": "o3",
+          "text": "This coffee is just okay."
+        },
+        {
+          "id": "o4",
+          "text": "I tried worse coffee last week."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The worst + ever = strongest superlative.",
+      "mistakeTags": [
+        "cafe",
+        "comparatives"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_06_comparatives/t6_04.mp3"
+    },
+    {
+      "id": "t6_05",
+      "audioText": "Anna speaks English more fluently than her brother.",
+      "transcript": "Anna speaks English more fluently than her brother.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Anna's English is better than her brother's."
+        },
+        {
+          "id": "o2",
+          "text": "Her brother speaks better."
+        },
+        {
+          "id": "o3",
+          "text": "They speak equally well."
+        },
+        {
+          "id": "o4",
+          "text": "Anna spoke better last year."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "More + long adjective comparison.",
+      "mistakeTags": [
+        "family",
+        "comparatives"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_06_comparatives/t6_05.mp3"
+    },
+    {
+      "id": "t6_06",
+      "audioText": "This hotel has the friendliest staff in the whole city.",
+      "transcript": "This hotel has the friendliest staff in the whole city.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "No other hotel has nicer staff."
+        },
+        {
+          "id": "o2",
+          "text": "The staff is unfriendly."
+        },
+        {
+          "id": "o3",
+          "text": "Another hotel has friendlier staff."
+        },
+        {
+          "id": "o4",
+          "text": "The staff was friendlier last year."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The + superlative + in the whole city.",
+      "mistakeTags": [
+        "hotel",
+        "comparatives"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_06_comparatives/t6_06.mp3"
+    },
+    {
+      "id": "t6_07",
+      "audioText": "Taking the train is cheaper than flying these days.",
+      "transcript": "Taking the train is cheaper than flying these days.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Train tickets cost less than plane tickets now."
+        },
+        {
+          "id": "o2",
+          "text": "Flying is cheaper."
+        },
+        {
+          "id": "o3",
+          "text": "They cost the same."
+        },
+        {
+          "id": "o4",
+          "text": "Train was cheaper last year."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Current comparison with 'these days'.",
+      "mistakeTags": [
+        "travel",
+        "comparatives"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_06_comparatives/t6_07.mp3"
+    },
+    {
+      "id": "t6_08",
+      "audioText": "My new phone is smaller but much more powerful.",
+      "transcript": "My new phone is smaller but much more powerful.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The new phone is compact yet very strong."
+        },
+        {
+          "id": "o2",
+          "text": "The new phone is bigger."
+        },
+        {
+          "id": "o3",
+          "text": "The old phone was more powerful."
+        },
+        {
+          "id": "o4",
+          "text": "Both phones are the same."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Two different comparisons in one sentence.",
+      "mistakeTags": [
+        "shop",
+        "comparatives"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_06_comparatives/t6_08.mp3"
+    },
+    {
+      "id": "t6_09",
+      "audioText": "Yesterday's party was the best one we have ever had.",
+      "transcript": "Yesterday's party was the best one we have ever had.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "No party has ever topped yesterday's."
+        },
+        {
+          "id": "o2",
+          "text": "It was the worst party."
+        },
+        {
+          "id": "o3",
+          "text": "Last year's party was better."
+        },
+        {
+          "id": "o4",
+          "text": "Next party will be the best."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The best + ever = absolute superlative.",
+      "mistakeTags": [
+        "party",
+        "comparatives"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_06_comparatives/t6_09.mp3"
+    },
+    {
+      "id": "t6_10",
+      "audioText": "Sarah gets up earlier than anyone in the family.",
+      "transcript": "Sarah gets up earlier than anyone in the family.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Sarah is the earliest riser at home."
+        },
+        {
+          "id": "o2",
+          "text": "Sarah gets up later than others."
+        },
+        {
+          "id": "o3",
+          "text": "Everyone gets up at the same time."
+        },
+        {
+          "id": "o4",
+          "text": "Sarah used to get up late."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Earlier than anyone = the earliest.",
+      "mistakeTags": [
+        "home",
+        "comparatives"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_06_comparatives/t6_10.mp3"
+    },
+    {
+      "id": "t6_11",
+      "audioText": "This restaurant is getting more and more popular every month.",
+      "transcript": "This restaurant is getting more and more popular every month.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Its popularity keeps growing."
+        },
+        {
+          "id": "o2",
+          "text": "It is becoming less popular."
+        },
+        {
+          "id": "o3",
+          "text": "It was more popular last year."
+        },
+        {
+          "id": "o4",
+          "text": "It is the most popular right now."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "More and more = continuous increase.",
+      "mistakeTags": [
+        "restaurant",
+        "comparatives"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_06_comparatives/t6_11.mp3"
+    },
+    {
+      "id": "t6_12",
+      "audioText": "The new employee works harder than all the others combined.",
+      "transcript": "The new employee works harder than all the others combined.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He is by far the hardest worker."
+        },
+        {
+          "id": "o2",
+          "text": "He works less than others."
+        },
+        {
+          "id": "o3",
+          "text": "Everyone works equally hard."
+        },
+        {
+          "id": "o4",
+          "text": "He worked harder last month."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Extreme comparison.",
+      "mistakeTags": [
+        "office",
+        "comparatives"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_06_comparatives/t6_12.mp3"
+    },
+    {
+      "id": "t6_13",
+      "audioText": "This winter is colder than the last three winters together.",
+      "transcript": "This winter is colder than the last three winters together.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "This is the coldest winter in years."
+        },
+        {
+          "id": "o2",
+          "text": "Last winter was colder."
+        },
+        {
+          "id": "o3",
+          "text": "All winters are the same."
+        },
+        {
+          "id": "o4",
+          "text": "Next winter will be colder."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Strong comparison with 'together'.",
+      "mistakeTags": [
+        "weather",
+        "comparatives"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_06_comparatives/t6_13.mp3"
+    },
+    {
+      "id": "t6_14",
+      "audioText": "For me, Italian food is the tastiest in the world.",
+      "transcript": "For me, Italian food is the tastiest in the world.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "I think Italian cuisine is number one."
+        },
+        {
+          "id": "o2",
+          "text": "Japanese food is tastier for me."
+        },
+        {
+          "id": "o3",
+          "text": "All cuisines taste the same."
+        },
+        {
+          "id": "o4",
+          "text": "Italian food was better before."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Personal superlative opinion.",
+      "mistakeTags": [
+        "restaurant",
+        "comparatives"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_06_comparatives/t6_14.mp3"
+    },
+    {
+      "id": "t6_15",
+      "audioText": "The more I study English, the easier it becomes.",
+      "transcript": "The more I study English, the easier it becomes.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Practice makes English feel simpler."
+        },
+        {
+          "id": "o2",
+          "text": "The less I study, the easier it is."
+        },
+        {
+          "id": "o3",
+          "text": "English is getting harder."
+        },
+        {
+          "id": "o4",
+          "text": "It was easier last year."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The more..., the + comparative structure.",
+      "mistakeTags": [
+        "education",
+        "comparatives"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_06_comparatives/t6_15.mp3"
+    }
+  ],
+  "short_description": "Сравнения и превосходная степень на слух"
+}

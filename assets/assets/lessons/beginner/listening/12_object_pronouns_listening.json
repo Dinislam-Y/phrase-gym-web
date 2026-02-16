@@ -1,0 +1,477 @@
+{
+  "id": "beginner_listening_12_object_pronouns",
+  "title": "Object Pronouns: me, you, him, her",
+  "description": "Слушайте предложения с объектными местоимениями и определяйте их смысл.",
+  "order": 12,
+  "level": "beginner",
+  "imageUrl": "assets/images/lessons/object_pronouns.png",
+  "tasks": [
+    {
+      "id": "t12_01",
+      "audioText": "A girl is at school. She raises her hand. The teacher always helps me.",
+      "transcript": "The teacher always helps me.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The teacher helps the girl."
+        },
+        {
+          "id": "o2",
+          "text": "The teacher helps the boy."
+        },
+        {
+          "id": "o3",
+          "text": "The teacher helps everyone."
+        },
+        {
+          "id": "o4",
+          "text": "The teacher helps the parents."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Helps me' — 'me' refers to the speaker, who is the girl. Option 1 is correct.",
+      "mistakeTags": [
+        "object_pronouns",
+        "me",
+        "school"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_12_object_pronouns/t12_01.mp3"
+    },
+    {
+      "id": "t12_02",
+      "audioText": "A mother talks to her son at the door. He is leaving for school. I will call you after lunch.",
+      "transcript": "I will call you after lunch.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The son will call his mother after lunch."
+        },
+        {
+          "id": "o2",
+          "text": "The mother will call the school after lunch."
+        },
+        {
+          "id": "o3",
+          "text": "The mother will call her son after lunch."
+        },
+        {
+          "id": "o4",
+          "text": "The mother will call her friend after lunch."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Call you' — 'you' is the son. The mother is speaking. Option 3 is correct.",
+      "mistakeTags": [
+        "object_pronouns",
+        "you",
+        "home"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_12_object_pronouns/t12_02.mp3"
+    },
+    {
+      "id": "t12_03",
+      "audioText": "Two women talk about their boss. He is in a meeting. We can ask him later.",
+      "transcript": "We can ask him later.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The boss will ask them later."
+        },
+        {
+          "id": "o2",
+          "text": "They will ask each other later."
+        },
+        {
+          "id": "o3",
+          "text": "They will ask the secretary later."
+        },
+        {
+          "id": "o4",
+          "text": "They will ask the boss later."
+        }
+      ],
+      "correctIndex": 3,
+      "explanation": "'Ask him' — 'him' refers to the boss. Option 4 is correct.",
+      "mistakeTags": [
+        "object_pronouns",
+        "him",
+        "work"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_12_object_pronouns/t12_03.mp3"
+    },
+    {
+      "id": "t12_04",
+      "audioText": "A boy talks about his sister. She is in the kitchen. Can you give her the salt?",
+      "transcript": "Can you give her the salt?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He asks someone to give salt to the sister."
+        },
+        {
+          "id": "o2",
+          "text": "He asks someone to give salt to the mother."
+        },
+        {
+          "id": "o3",
+          "text": "He asks the sister to give salt."
+        },
+        {
+          "id": "o4",
+          "text": "He asks someone to give pepper to the sister."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Give her' — 'her' refers to the sister. Option 1 is correct.",
+      "mistakeTags": [
+        "object_pronouns",
+        "her",
+        "home"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_12_object_pronouns/t12_04.mp3"
+    },
+    {
+      "id": "t12_05",
+      "audioText": "A family is planning a trip. The grandmother wants to join. Please take us to the airport.",
+      "transcript": "Please take us to the airport.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The family asks for a ride to the park."
+        },
+        {
+          "id": "o2",
+          "text": "The family asks for a ride to the airport."
+        },
+        {
+          "id": "o3",
+          "text": "One person asks for a ride to the airport."
+        },
+        {
+          "id": "o4",
+          "text": "The family asks to stay at home."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Take us' — 'us' means the whole family group. They want to go to the airport. Option 2.",
+      "mistakeTags": [
+        "object_pronouns",
+        "us",
+        "travel"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_12_object_pronouns/t12_05.mp3"
+    },
+    {
+      "id": "t12_06",
+      "audioText": "A teacher talks about two students. They did well on the test. I am very proud of them.",
+      "transcript": "I am very proud of them.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The teacher is proud of all students."
+        },
+        {
+          "id": "o2",
+          "text": "The teacher is proud of the two students."
+        },
+        {
+          "id": "o3",
+          "text": "The students are proud of the teacher."
+        },
+        {
+          "id": "o4",
+          "text": "The teacher is angry at the two students."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Proud of them' — 'them' refers to the two students. Option 2 is correct.",
+      "mistakeTags": [
+        "object_pronouns",
+        "them",
+        "school"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_12_object_pronouns/t12_06.mp3"
+    },
+    {
+      "id": "t12_07",
+      "audioText": "A man and his dog are at the park. The dog finds a stick. Bring it to me, boy!",
+      "transcript": "Bring it to me, boy!",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The man wants the dog to bring the ball."
+        },
+        {
+          "id": "o2",
+          "text": "The man wants the dog to bring the stick."
+        },
+        {
+          "id": "o3",
+          "text": "The man wants the dog to sit down."
+        },
+        {
+          "id": "o4",
+          "text": "The man wants to give the stick to the dog."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Bring it to me' — 'it' is the stick, 'me' is the man. He wants the stick. Option 2.",
+      "mistakeTags": [
+        "object_pronouns",
+        "it",
+        "me",
+        "park"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_12_object_pronouns/t12_07.mp3"
+    },
+    {
+      "id": "t12_08",
+      "audioText": "A woman calls her friend on the phone. They talk about dinner. I will meet you at the restaurant.",
+      "transcript": "I will meet you at the restaurant.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She will call her friend from the restaurant."
+        },
+        {
+          "id": "o2",
+          "text": "She will meet her friend at the restaurant."
+        },
+        {
+          "id": "o3",
+          "text": "Her friend will come to her house."
+        },
+        {
+          "id": "o4",
+          "text": "She will meet her friend at the office."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Meet you at the restaurant' — 'you' is the friend. They will meet at the restaurant. Option 2.",
+      "mistakeTags": [
+        "object_pronouns",
+        "you",
+        "restaurant"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_12_object_pronouns/t12_08.mp3"
+    },
+    {
+      "id": "t12_09",
+      "audioText": "A boy sees a cat on the street. The cat looks lost. Let me take it home.",
+      "transcript": "Let me take it home.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The boy wants to leave the cat."
+        },
+        {
+          "id": "o2",
+          "text": "The boy wants to feed the cat outside."
+        },
+        {
+          "id": "o3",
+          "text": "The boy wants to take the cat home."
+        },
+        {
+          "id": "o4",
+          "text": "The boy wants someone to take him home."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Take it home' — 'it' refers to the cat. The boy wants to bring the cat home. Option 3.",
+      "mistakeTags": [
+        "object_pronouns",
+        "it",
+        "pets"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_12_object_pronouns/t12_09.mp3"
+    },
+    {
+      "id": "t12_10",
+      "audioText": "A nurse talks to an old man at the hospital. He needs medicine. The doctor will see him soon.",
+      "transcript": "The doctor will see him soon.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The doctor will see the nurse soon."
+        },
+        {
+          "id": "o2",
+          "text": "The doctor will see the old man soon."
+        },
+        {
+          "id": "o3",
+          "text": "The old man will see the doctor tomorrow."
+        },
+        {
+          "id": "o4",
+          "text": "The doctor left the hospital."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'See him' — 'him' refers to the old man. The doctor will see the patient. Option 2.",
+      "mistakeTags": [
+        "object_pronouns",
+        "him",
+        "hospital"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_12_object_pronouns/t12_10.mp3"
+    },
+    {
+      "id": "t12_11",
+      "audioText": "A man talks about his wife. She works hard every day. I always cook dinner for her.",
+      "transcript": "I always cook dinner for her.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The wife cooks dinner for the man."
+        },
+        {
+          "id": "o2",
+          "text": "The man cooks dinner for his children."
+        },
+        {
+          "id": "o3",
+          "text": "The man orders dinner for his wife."
+        },
+        {
+          "id": "o4",
+          "text": "The man cooks dinner for his wife."
+        }
+      ],
+      "correctIndex": 3,
+      "explanation": "'Cook dinner for her' — 'her' is the wife. The man cooks for her. Option 4.",
+      "mistakeTags": [
+        "object_pronouns",
+        "her",
+        "home"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_12_object_pronouns/t12_11.mp3"
+    },
+    {
+      "id": "t12_12",
+      "audioText": "Two friends are at a concert. The music is very loud. This song reminds me of summer.",
+      "transcript": "This song reminds me of summer.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The song makes the speaker think of winter."
+        },
+        {
+          "id": "o2",
+          "text": "The song makes the speaker think of summer."
+        },
+        {
+          "id": "o3",
+          "text": "The song makes the friend think of summer."
+        },
+        {
+          "id": "o4",
+          "text": "The speaker does not like the song."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Reminds me of summer' — 'me' is the speaker. The song makes them think of summer. Option 2.",
+      "mistakeTags": [
+        "object_pronouns",
+        "me",
+        "entertainment"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_12_object_pronouns/t12_12.mp3"
+    },
+    {
+      "id": "t12_13",
+      "audioText": "A girl finds a lost wallet on the street. She picks it up. I should give it to the police.",
+      "transcript": "I should give it to the police.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She should give the wallet to its owner."
+        },
+        {
+          "id": "o2",
+          "text": "She should give the wallet to the police."
+        },
+        {
+          "id": "o3",
+          "text": "She should keep the wallet."
+        },
+        {
+          "id": "o4",
+          "text": "She should throw the wallet away."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Give it to the police' — 'it' is the wallet. She plans to hand it over. Option 2.",
+      "mistakeTags": [
+        "object_pronouns",
+        "it",
+        "street"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_12_object_pronouns/t12_13.mp3"
+    },
+    {
+      "id": "t12_14",
+      "audioText": "A coach talks to the football team. The game is tomorrow. I believe in you, team!",
+      "transcript": "I believe in you, team!",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The team believes in the coach."
+        },
+        {
+          "id": "o2",
+          "text": "The coach believes the team will win."
+        },
+        {
+          "id": "o3",
+          "text": "The coach is angry at the team."
+        },
+        {
+          "id": "o4",
+          "text": "The coach does not trust the team."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Believe in you' — 'you' is the team. The coach has confidence in them. Option 2.",
+      "mistakeTags": [
+        "object_pronouns",
+        "you",
+        "sport"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_12_object_pronouns/t12_14.mp3"
+    },
+    {
+      "id": "t12_15",
+      "audioText": "A mother looks at her children playing. They are in the garden. I can see them from the kitchen window.",
+      "transcript": "I can see them from the kitchen window.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The children watch the mother from the garden."
+        },
+        {
+          "id": "o2",
+          "text": "The mother watches the neighbors from the window."
+        },
+        {
+          "id": "o3",
+          "text": "The mother watches the children from the kitchen."
+        },
+        {
+          "id": "o4",
+          "text": "The mother is in the garden with them."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'See them from the kitchen window' — 'them' is the children. The mother watches from inside. Option 3.",
+      "mistakeTags": [
+        "object_pronouns",
+        "them",
+        "home"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_12_object_pronouns/t12_15.mp3"
+    }
+  ],
+  "short_description": "Тренируйте понимание объектных местоимений на слух."
+}

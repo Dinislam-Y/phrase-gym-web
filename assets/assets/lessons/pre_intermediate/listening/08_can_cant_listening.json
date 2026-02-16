@@ -1,0 +1,476 @@
+{
+  "id": "pre_listening_08_can_cant",
+  "title": "Can & Can't: Abilities and Permissions",
+  "description": "Слушайте простые истории и тренируйте конструкции can и can't в реальных ситуациях.",
+  "order": 8,
+  "level": "pre_intermediate",
+  "imageUrl": "assets/images/lessons/can_cant.png",
+  "tasks": [
+    {
+      "id": "t8_01",
+      "audioText": "Lisa is at the swimming pool with her friends. She swims fast and does not get tired. She can swim very well.",
+      "transcript": "She can swim very well.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She is able to swim very well."
+        },
+        {
+          "id": "o2",
+          "text": "She cannot swim at all."
+        },
+        {
+          "id": "o3",
+          "text": "She is afraid of the water."
+        },
+        {
+          "id": "o4",
+          "text": "She only watches her friends swim."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says she can swim very well. Option 1 repeats this ability; the other options say she cannot swim or does not swim.",
+      "mistakeTags": [
+        "gym",
+        "can_cant",
+        "modal_verbs_ability"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_08_can_cant/t8_01.mp3"
+    },
+    {
+      "id": "t8_02",
+      "audioText": "Tom's friend invites him to a party tonight. Tom has to work late in the office. I can't come to the party tonight.",
+      "transcript": "I can't come to the party tonight.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He is able to go to the party tonight."
+        },
+        {
+          "id": "o2",
+          "text": "He cannot go to the party this evening."
+        },
+        {
+          "id": "o3",
+          "text": "He wants to come to the party tomorrow."
+        },
+        {
+          "id": "o4",
+          "text": "He goes to a party every night."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "The sentence says he cannot come to the party tonight. Option 2 has the same meaning; the other options say he can go, goes another day, or goes every night.",
+      "mistakeTags": [
+        "office",
+        "can_cant",
+        "modal_verbs_ability"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_08_can_cant/t8_02.mp3"
+    },
+    {
+      "id": "t8_03",
+      "audioText": "You are in a small cafe with a friend. You ask the waiter about payment. You can pay by card here.",
+      "transcript": "You can pay by card here.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "It is possible to pay with a card here."
+        },
+        {
+          "id": "o2",
+          "text": "You must pay only with cash here."
+        },
+        {
+          "id": "o3",
+          "text": "You cannot pay in this cafe."
+        },
+        {
+          "id": "o4",
+          "text": "You pay nothing in this cafe."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says you are allowed to pay by card. Option 1 has the same idea; the other options say you must pay cash, cannot pay, or pay nothing.",
+      "mistakeTags": [
+        "cafe",
+        "can_cant",
+        "modal_verbs_permission"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_08_can_cant/t8_03.mp3"
+    },
+    {
+      "id": "t8_04",
+      "audioText": "Anna and Mark stop their car near a big shop. There is a sign with a red line on the street. We can't park the car here.",
+      "transcript": "We can't park the car here.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "We are not allowed to leave the car here."
+        },
+        {
+          "id": "o2",
+          "text": "We can leave the car here for free."
+        },
+        {
+          "id": "o3",
+          "text": "We must park the car in this place."
+        },
+        {
+          "id": "o4",
+          "text": "We can sleep in the car here."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says parking here is not allowed. Option 1 repeats this; the other options say parking here is okay or even required, or talk about sleeping in the car.",
+      "mistakeTags": [
+        "street",
+        "can_cant",
+        "modal_verbs_permission"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_08_can_cant/t8_04.mp3"
+    },
+    {
+      "id": "t8_05",
+      "audioText": "Pablo works in an international company. He uses English, Spanish, and French at work. He can speak three languages.",
+      "transcript": "He can speak three languages.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He is able to speak three languages."
+        },
+        {
+          "id": "o2",
+          "text": "He can only speak one language."
+        },
+        {
+          "id": "o3",
+          "text": "He studies three languages but cannot speak them."
+        },
+        {
+          "id": "o4",
+          "text": "He reads three books every month."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says he can speak three languages. Option 1 has the same meaning; the other options change the number or talk about reading.",
+      "mistakeTags": [
+        "office",
+        "can_cant",
+        "modal_verbs_ability"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_08_can_cant/t8_05.mp3"
+    },
+    {
+      "id": "t8_06",
+      "audioText": "Students sit in an English class. There is a rule written on the wall. You can't use your phone in class.",
+      "transcript": "You can't use your phone in class.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "You are not allowed to use your phone during class."
+        },
+        {
+          "id": "o2",
+          "text": "You must use your phone for every lesson."
+        },
+        {
+          "id": "o3",
+          "text": "You can use your phone in every class."
+        },
+        {
+          "id": "o4",
+          "text": "You can't bring your books to class."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says using your phone in class is not allowed. Option 1 repeats this rule; the other options say the opposite or talk about books.",
+      "mistakeTags": [
+        "school",
+        "can_cant",
+        "modal_verbs_permission"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_08_can_cant/t8_06.mp3"
+    },
+    {
+      "id": "t8_07",
+      "audioText": "Your neighbor carries a heavy box up the stairs. He looks at you and speaks politely. Can you help me with this box?",
+      "transcript": "Can you help me with this box?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He is asking you to help with the box."
+        },
+        {
+          "id": "o2",
+          "text": "He is asking you to open the door."
+        },
+        {
+          "id": "o3",
+          "text": "He tells you not to touch the box."
+        },
+        {
+          "id": "o4",
+          "text": "He says the box is empty."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence is a request for help with the box. Option 1 explains this; the other options talk about the door, not touching, or the box being empty.",
+      "mistakeTags": [
+        "home",
+        "can_cant",
+        "modal_verbs_request"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_08_can_cant/t8_07.mp3"
+    },
+    {
+      "id": "t8_08",
+      "audioText": "A new shop opens in your town. The manager talks about the staff timetable. They can start work at nine.",
+      "transcript": "They can start work at nine.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "They are able to begin work at nine."
+        },
+        {
+          "id": "o2",
+          "text": "They have to start work at six."
+        },
+        {
+          "id": "o3",
+          "text": "They cannot start working at nine."
+        },
+        {
+          "id": "o4",
+          "text": "They can finish work at nine."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says nine o'clock is a possible time to start work. Option 1 has the same idea; the other options change the time or say they cannot start then.",
+      "mistakeTags": [
+        "shop",
+        "can_cant",
+        "modal_verbs_ability"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_08_can_cant/t8_08.mp3"
+    },
+    {
+      "id": "t8_09",
+      "audioText": "Maria eats lunch in a restaurant with friends. She tells the waiter about her allergy. I can't eat nuts.",
+      "transcript": "I can't eat nuts.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She is able to eat nuts."
+        },
+        {
+          "id": "o2",
+          "text": "She must eat more nuts."
+        },
+        {
+          "id": "o3",
+          "text": "She cannot eat any nuts."
+        },
+        {
+          "id": "o4",
+          "text": "She only eats nuts for lunch."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "The sentence says she cannot eat nuts. Option 3 repeats this; the other options say she can or must eat nuts, or eats only nuts.",
+      "mistakeTags": [
+        "restaurant",
+        "can_cant",
+        "modal_verbs_ability"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_08_can_cant/t8_09.mp3"
+    },
+    {
+      "id": "t8_10",
+      "audioText": "Your friend gives you his phone number. He wants you to contact him when you need help. You can call me any time.",
+      "transcript": "You can call me any time.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "It is okay to call him whenever you want."
+        },
+        {
+          "id": "o2",
+          "text": "You cannot call him in the evening."
+        },
+        {
+          "id": "o3",
+          "text": "You can only write him emails."
+        },
+        {
+          "id": "o4",
+          "text": "He will never answer your call."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says it is possible to call at any time. Option 1 has the same meaning; the other options limit or stop calling.",
+      "mistakeTags": [
+        "street",
+        "can_cant",
+        "modal_verbs_permission"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_08_can_cant/t8_10.mp3"
+    },
+    {
+      "id": "t8_11",
+      "audioText": "You are on holiday in a small village. From your hotel window, you see something beautiful. We can see the mountains from here.",
+      "transcript": "We can see the mountains from here.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "It is possible to see the mountains from this place."
+        },
+        {
+          "id": "o2",
+          "text": "We cannot see any mountains from here."
+        },
+        {
+          "id": "o3",
+          "text": "We can see only the sea from here."
+        },
+        {
+          "id": "o4",
+          "text": "We can drive to the mountains today."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says the mountains are visible from here. Option 1 repeats this idea; the other options say we cannot see mountains or talk about going there.",
+      "mistakeTags": [
+        "hotel",
+        "can_cant",
+        "modal_verbs_ability"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_08_can_cant/t8_11.mp3"
+    },
+    {
+      "id": "t8_12",
+      "audioText": "Emma has weak eyes at night. She feels nervous when she drives in the dark. She can't drive at night.",
+      "transcript": "She can't drive at night.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She is able to drive at night."
+        },
+        {
+          "id": "o2",
+          "text": "She cannot drive when it is dark."
+        },
+        {
+          "id": "o3",
+          "text": "She only drives at night."
+        },
+        {
+          "id": "o4",
+          "text": "She likes to walk at night."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "The sentence says she cannot drive at night. Option 2 has the same meaning; the other options say she can drive then or talk about walking.",
+      "mistakeTags": [
+        "street",
+        "can_cant",
+        "modal_verbs_ability"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_08_can_cant/t8_12.mp3"
+    },
+    {
+      "id": "t8_13",
+      "audioText": "A man enters a busy train. Many seats are full. He points to the seat next to you. Can I sit here?",
+      "transcript": "Can I sit here?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He asks if it is okay to sit in this seat."
+        },
+        {
+          "id": "o2",
+          "text": "He tells you to stand up right now."
+        },
+        {
+          "id": "o3",
+          "text": "He asks you to move to another train."
+        },
+        {
+          "id": "o4",
+          "text": "He says you cannot sit in this seat."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence is a question for permission to sit. Option 1 explains this; the other options talk about standing up, moving, or not sitting.",
+      "mistakeTags": [
+        "bus_station",
+        "can_cant",
+        "modal_verbs_permission"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_08_can_cant/t8_13.mp3"
+    },
+    {
+      "id": "t8_14",
+      "audioText": "Leo is at a family party with his guitar. He plays many songs for his cousins. He can play the guitar very well.",
+      "transcript": "He can play the guitar very well.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He knows how to play the guitar very well."
+        },
+        {
+          "id": "o2",
+          "text": "He cannot play the guitar at all."
+        },
+        {
+          "id": "o3",
+          "text": "He only listens to other people play guitar."
+        },
+        {
+          "id": "o4",
+          "text": "He can only play piano, not guitar."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says he can play guitar very well. Option 1 repeats this ability; the other options say he cannot play or plays another instrument.",
+      "mistakeTags": [
+        "home",
+        "can_cant",
+        "modal_verbs_ability"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_08_can_cant/t8_14.mp3"
+    },
+    {
+      "id": "t8_15",
+      "audioText": "Two friends talk about a music concert tomorrow. They are both busy with work and family. They can't go to the concert tomorrow.",
+      "transcript": "They can't go to the concert tomorrow.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "They are able to go to the concert tomorrow."
+        },
+        {
+          "id": "o2",
+          "text": "They are not able to go to the concert tomorrow."
+        },
+        {
+          "id": "o3",
+          "text": "They went to the concert yesterday."
+        },
+        {
+          "id": "o4",
+          "text": "They go to this concert every year."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "The sentence says they cannot go to the concert tomorrow. Option 2 has the same meaning; the other options say they can go or talk about other times.",
+      "mistakeTags": [
+        "home",
+        "can_cant",
+        "modal_verbs_ability"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_08_can_cant/t8_15.mp3"
+    }
+  ],
+  "short_description": "Понимайте на слух конструкции can и can't в повседневных ситуациях."
+}

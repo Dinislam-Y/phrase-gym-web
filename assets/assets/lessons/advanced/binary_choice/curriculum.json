@@ -1,0 +1,45 @@
+{
+  "type": "binary_choice",
+  "lessons": [
+    {
+      "id": "advanced_bc_01_reported_speech",
+      "file": "say_vs_tell.json",
+      "order": 1
+    },
+    {
+      "id": "advanced_bc_02_participles",
+      "file": "overwhelming_vs_overwhelmed.json",
+      "order": 2
+    },
+    {
+      "id": "advanced_bc_03_modal_perfects",
+      "file": "must_have_vs_should_have.json",
+      "order": 3
+    },
+    {
+      "id": "advanced_bc_04_mixed_conditionals",
+      "file": "would_vs_would_have.json",
+      "order": 4
+    },
+    {
+      "id": "advanced_bc_05_inversion",
+      "file": "had_vs_did.json",
+      "order": 5
+    },
+    {
+      "id": "advanced_bc_06_ellipsis_substitution",
+      "file": "either_vs_neither.json",
+      "order": 6
+    },
+    {
+      "id": "advanced_bc_07_cleft_sentences",
+      "file": "it_vs_what.json",
+      "order": 7
+    },
+    {
+      "id": "advanced_bc_08_advanced_connectors",
+      "file": "however_vs_although.json",
+      "order": 8
+    }
+  ]
+}

@@ -1,0 +1,400 @@
+{
+  "id": "pre_bc_12_numerals",
+  "title": "Much vs Many",
+  "description": "Much или Many? Учимся считать и не считать.",
+  "order": 13,
+  "level": "pre_intermediate",
+  "imageUrl": null,
+  "tasks": [
+    {
+      "id": "mvm_1",
+      "question": "How ___ water is there?",
+      "optionA": "MUCH",
+      "optionB": "MANY",
+      "correctIndex": 0,
+      "explanation": "Water — неисчисляемое, поэтому much.",
+      "tags": [
+        "much_vs_many",
+        "much",
+        "food"
+      ]
+    },
+    {
+      "id": "mvm_2",
+      "question": "How ___ books do you have?",
+      "optionA": "MUCH",
+      "optionB": "MANY",
+      "correctIndex": 1,
+      "explanation": "Books — исчисляемое во множественном числе, поэтому many.",
+      "tags": [
+        "much_vs_many",
+        "many",
+        "objects"
+      ]
+    },
+    {
+      "id": "mvm_3",
+      "question": "How ___ milk do you need?",
+      "optionA": "MUCH",
+      "optionB": "MANY",
+      "correctIndex": 0,
+      "explanation": "Milk — неисчисляемое, поэтому much.",
+      "tags": [
+        "much_vs_many",
+        "much",
+        "food"
+      ]
+    },
+    {
+      "id": "mvm_4",
+      "question": "How ___ friends does she have?",
+      "optionA": "MUCH",
+      "optionB": "MANY",
+      "correctIndex": 1,
+      "explanation": "Friends — исчисляемое во множественном числе, поэтому many.",
+      "tags": [
+        "much_vs_many",
+        "many",
+        "people"
+      ]
+    },
+    {
+      "id": "mvm_5",
+      "question": "How ___ coffee is left?",
+      "optionA": "MUCH",
+      "optionB": "MANY",
+      "correctIndex": 0,
+      "explanation": "Coffee — неисчисляемое, поэтому much.",
+      "tags": [
+        "much_vs_many",
+        "much",
+        "food"
+      ]
+    },
+    {
+      "id": "mvm_6",
+      "question": "How ___ cats are there?",
+      "optionA": "MUCH",
+      "optionB": "MANY",
+      "correctIndex": 1,
+      "explanation": "Cats — исчисляемое во множественном числе, поэтому many.",
+      "tags": [
+        "much_vs_many",
+        "many",
+        "animals"
+      ]
+    },
+    {
+      "id": "mvm_7",
+      "question": "How ___ sugar do you want?",
+      "optionA": "MUCH",
+      "optionB": "MANY",
+      "correctIndex": 0,
+      "explanation": "Sugar — неисчисляемое, поэтому much.",
+      "tags": [
+        "much_vs_many",
+        "much",
+        "food"
+      ]
+    },
+    {
+      "id": "mvm_8",
+      "question": "How ___ cars are here?",
+      "optionA": "MUCH",
+      "optionB": "MANY",
+      "correctIndex": 1,
+      "explanation": "Cars — исчисляемое во множественном числе, поэтому many.",
+      "tags": [
+        "much_vs_many",
+        "many",
+        "transport"
+      ]
+    },
+    {
+      "id": "mvm_9",
+      "question": "How ___ tea is ready?",
+      "optionA": "MUCH",
+      "optionB": "MANY",
+      "correctIndex": 0,
+      "explanation": "Tea — неисчисляемое, поэтому much.",
+      "tags": [
+        "much_vs_many",
+        "much",
+        "food"
+      ]
+    },
+    {
+      "id": "mvm_10",
+      "question": "How ___ students came today?",
+      "optionA": "MUCH",
+      "optionB": "MANY",
+      "correctIndex": 1,
+      "explanation": "Students — исчисляемое во множественном числе, поэтому many.",
+      "tags": [
+        "much_vs_many",
+        "many",
+        "people"
+      ]
+    },
+    {
+      "id": "mvm_11",
+      "question": "There isn't ___ time left.",
+      "optionA": "MUCH",
+      "optionB": "MANY",
+      "correctIndex": 0,
+      "explanation": "Time — неисчисляемое, поэтому much.",
+      "tags": [
+        "much_vs_many",
+        "much",
+        "abstract"
+      ]
+    },
+    {
+      "id": "mvm_12",
+      "question": "We don't have ___ chairs.",
+      "optionA": "MUCH",
+      "optionB": "MANY",
+      "correctIndex": 1,
+      "explanation": "Chairs — исчисляемое во множественном числе, поэтому many.",
+      "tags": [
+        "much_vs_many",
+        "many",
+        "objects"
+      ]
+    },
+    {
+      "id": "mvm_13",
+      "question": "Not ___ bread is here.",
+      "optionA": "MUCH",
+      "optionB": "MANY",
+      "correctIndex": 0,
+      "explanation": "Bread — неисчисляемое, поэтому much.",
+      "tags": [
+        "much_vs_many",
+        "much",
+        "food"
+      ]
+    },
+    {
+      "id": "mvm_14",
+      "question": "Not ___ people came.",
+      "optionA": "MUCH",
+      "optionB": "MANY",
+      "correctIndex": 1,
+      "explanation": "People — исчисляемое во множественном числе, поэтому many.",
+      "tags": [
+        "much_vs_many",
+        "many",
+        "people"
+      ]
+    },
+    {
+      "id": "mvm_15",
+      "question": "I don't have ___ money.",
+      "optionA": "MUCH",
+      "optionB": "MANY",
+      "correctIndex": 0,
+      "explanation": "Money — неисчисляемое, поэтому much.",
+      "tags": [
+        "much_vs_many",
+        "much",
+        "abstract"
+      ]
+    },
+    {
+      "id": "mvm_16",
+      "question": "She doesn't ask ___ questions.",
+      "optionA": "MUCH",
+      "optionB": "MANY",
+      "correctIndex": 1,
+      "explanation": "Questions — исчисляемое во множественном числе, поэтому many.",
+      "tags": [
+        "much_vs_many",
+        "many",
+        "abstract"
+      ]
+    },
+    {
+      "id": "mvm_17",
+      "question": "There isn't ___ snow today.",
+      "optionA": "MUCH",
+      "optionB": "MANY",
+      "correctIndex": 0,
+      "explanation": "Snow — неисчисляемое, поэтому much.",
+      "tags": [
+        "much_vs_many",
+        "much",
+        "weather"
+      ]
+    },
+    {
+      "id": "mvm_18",
+      "question": "Not ___ children play here.",
+      "optionA": "MUCH",
+      "optionB": "MANY",
+      "correctIndex": 1,
+      "explanation": "Children — исчисляемое во множественном числе, поэтому many.",
+      "tags": [
+        "much_vs_many",
+        "many",
+        "people"
+      ]
+    },
+    {
+      "id": "mvm_19",
+      "question": "We don't need ___ rice.",
+      "optionA": "MUCH",
+      "optionB": "MANY",
+      "correctIndex": 0,
+      "explanation": "Rice — неисчисляемое, поэтому much.",
+      "tags": [
+        "much_vs_many",
+        "much",
+        "food"
+      ]
+    },
+    {
+      "id": "mvm_20",
+      "question": "He doesn't have ___ days off.",
+      "optionA": "MUCH",
+      "optionB": "MANY",
+      "correctIndex": 1,
+      "explanation": "Days — исчисляемое во множественном числе, поэтому many.",
+      "tags": [
+        "much_vs_many",
+        "many",
+        "time"
+      ]
+    },
+    {
+      "id": "mvm_21",
+      "question": "How ___ homework do you get?",
+      "optionA": "MUCH",
+      "optionB": "MANY",
+      "correctIndex": 0,
+      "explanation": "Homework — неисчисляемое, поэтому much.",
+      "tags": [
+        "much_vs_many",
+        "much",
+        "school"
+      ]
+    },
+    {
+      "id": "mvm_22",
+      "question": "Too ___ people are waiting.",
+      "optionA": "MUCH",
+      "optionB": "MANY",
+      "correctIndex": 1,
+      "explanation": "People — исчисляемое во множественном числе, поэтому many.",
+      "tags": [
+        "much_vs_many",
+        "many",
+        "people"
+      ]
+    },
+    {
+      "id": "mvm_23",
+      "question": "There's too ___ noise here.",
+      "optionA": "MUCH",
+      "optionB": "MANY",
+      "correctIndex": 0,
+      "explanation": "Noise — неисчисляемое, поэтому much.",
+      "tags": [
+        "much_vs_many",
+        "much",
+        "abstract"
+      ]
+    },
+    {
+      "id": "mvm_24",
+      "question": "So ___ problems to solve!",
+      "optionA": "MUCH",
+      "optionB": "MANY",
+      "correctIndex": 1,
+      "explanation": "Problems — исчисляемое во множественном числе, поэтому many.",
+      "tags": [
+        "much_vs_many",
+        "many",
+        "abstract"
+      ]
+    },
+    {
+      "id": "mvm_25",
+      "question": "How ___ information is needed?",
+      "optionA": "MUCH",
+      "optionB": "MANY",
+      "correctIndex": 0,
+      "explanation": "Information — неисчисляемое, поэтому much.",
+      "tags": [
+        "much_vs_many",
+        "much",
+        "abstract"
+      ]
+    },
+    {
+      "id": "mvm_26",
+      "question": "How ___ apples did you buy?",
+      "optionA": "MUCH",
+      "optionB": "MANY",
+      "correctIndex": 1,
+      "explanation": "Apples — исчисляемое во множественном числе, поэтому many.",
+      "tags": [
+        "much_vs_many",
+        "many",
+        "food"
+      ]
+    },
+    {
+      "id": "mvm_27",
+      "question": "Too ___ work for today.",
+      "optionA": "MUCH",
+      "optionB": "MANY",
+      "correctIndex": 0,
+      "explanation": "Work — неисчисляемое, поэтому much.",
+      "tags": [
+        "much_vs_many",
+        "much",
+        "work"
+      ]
+    },
+    {
+      "id": "mvm_28",
+      "question": "So ___ cups are dirty!",
+      "optionA": "MUCH",
+      "optionB": "MANY",
+      "correctIndex": 1,
+      "explanation": "Cups — исчисляемое во множественном числе, поэтому many.",
+      "tags": [
+        "much_vs_many",
+        "many",
+        "objects"
+      ]
+    },
+    {
+      "id": "mvm_29",
+      "question": "How ___ traffic is there?",
+      "optionA": "MUCH",
+      "optionB": "MANY",
+      "correctIndex": 0,
+      "explanation": "Traffic — неисчисляемое, поэтому much.",
+      "tags": [
+        "much_vs_many",
+        "much",
+        "transport"
+      ]
+    },
+    {
+      "id": "mvm_30",
+      "question": "Not ___ options are available.",
+      "optionA": "MUCH",
+      "optionB": "MANY",
+      "correctIndex": 1,
+      "explanation": "Options — исчисляемое во множественном числе, поэтому many.",
+      "tags": [
+        "much_vs_many",
+        "many",
+        "abstract"
+      ]
+    }
+  ]
+}

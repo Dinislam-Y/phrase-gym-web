@@ -1,0 +1,1828 @@
+{
+  "id": "intermediate_06_comparatives",
+  "title": "Comparatives & Superlatives",
+  "description": "Сравнительная и превосходная степень — это ваш инструмент для сравнения всего вокруг. Bigger, the biggest, more interesting, the most interesting. Короткие слова получают -er/-est, длинные — more/the most. А некоторые — вообще меняются целиком: good → better → the best.",
+  "order": 6,
+  "level": "intermediate",
+  "imageUrl": "assets/images/lessons/comparatives.png",
+  "vocabulary": [
+    {
+      "id": "v6_bigger",
+      "english": "bigger",
+      "russian": "больше (сравнит.)",
+      "partOfSpeech": "adjective",
+      "example": "This house is bigger than mine.",
+      "exampleTranslation": "Этот дом больше моего.",
+      "audioPath": "assets/audio/vocabulary/v6_bigger.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_bigger.mp3"
+    },
+    {
+      "id": "v6_biggest",
+      "english": "the biggest",
+      "russian": "самый большой (превосх.)",
+      "partOfSpeech": "adjective",
+      "example": "It is the biggest city in the world.",
+      "exampleTranslation": "Это самый большой город в мире.",
+      "audioPath": "assets/audio/vocabulary/v6_biggest.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_biggest.mp3"
+    },
+    {
+      "id": "v6_smaller",
+      "english": "smaller",
+      "russian": "меньше (сравнит.)",
+      "partOfSpeech": "adjective",
+      "example": "My room is smaller than yours.",
+      "exampleTranslation": "Моя комната меньше твоей.",
+      "audioPath": "assets/audio/vocabulary/v6_smaller.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_smaller.mp3"
+    },
+    {
+      "id": "v6_smallest",
+      "english": "the smallest",
+      "russian": "самый маленький (превосх.)",
+      "partOfSpeech": "adjective",
+      "example": "This is the smallest dog here.",
+      "exampleTranslation": "Это самая маленькая собака здесь.",
+      "audioPath": "assets/audio/vocabulary/v6_smallest.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_smallest.mp3"
+    },
+    {
+      "id": "v6_better",
+      "english": "better",
+      "russian": "лучше (сравнит.)",
+      "partOfSpeech": "adjective",
+      "example": "This book is better than that one.",
+      "exampleTranslation": "Эта книга лучше той.",
+      "audioPath": "assets/audio/vocabulary/v6_better.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_better.mp3"
+    },
+    {
+      "id": "v6_best",
+      "english": "the best",
+      "russian": "лучший (превосх.)",
+      "partOfSpeech": "adjective",
+      "example": "She is the best student.",
+      "exampleTranslation": "Она лучшая ученица.",
+      "audioPath": "assets/audio/vocabulary/v6_best.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_best.mp3"
+    },
+    {
+      "id": "v6_worse",
+      "english": "worse",
+      "russian": "хуже (сравнит.)",
+      "partOfSpeech": "adjective",
+      "example": "This is worse than before.",
+      "exampleTranslation": "Это хуже, чем раньше.",
+      "audioPath": "assets/audio/vocabulary/v6_worse.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_worse.mp3"
+    },
+    {
+      "id": "v6_worst",
+      "english": "the worst",
+      "russian": "худший (превосх.)",
+      "partOfSpeech": "adjective",
+      "example": "It was the worst day ever.",
+      "exampleTranslation": "Это был худший день в жизни.",
+      "audioPath": "assets/audio/vocabulary/v6_worst.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_worst.mp3"
+    },
+    {
+      "id": "v6_taller",
+      "english": "taller",
+      "russian": "выше (сравнит.)",
+      "partOfSpeech": "adjective",
+      "example": "He is taller than his brother.",
+      "exampleTranslation": "Он выше своего брата.",
+      "audioPath": "assets/audio/vocabulary/v6_taller.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_taller.mp3"
+    },
+    {
+      "id": "v6_tallest",
+      "english": "the tallest",
+      "russian": "самый высокий (превосх.)",
+      "partOfSpeech": "adjective",
+      "example": "She is the tallest in class.",
+      "exampleTranslation": "Она самая высокая в классе.",
+      "audioPath": "assets/audio/vocabulary/v6_tallest.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_tallest.mp3"
+    },
+    {
+      "id": "v6_faster",
+      "english": "faster",
+      "russian": "быстрее (сравнит.)",
+      "partOfSpeech": "adjective",
+      "example": "This car is faster than that one.",
+      "exampleTranslation": "Эта машина быстрее той.",
+      "audioPath": "assets/audio/vocabulary/v6_faster.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_faster.mp3"
+    },
+    {
+      "id": "v6_fastest",
+      "english": "the fastest",
+      "russian": "самый быстрый (превосх.)",
+      "partOfSpeech": "adjective",
+      "example": "He is the fastest runner here.",
+      "exampleTranslation": "Он самый быстрый бегун здесь.",
+      "audioPath": "assets/audio/vocabulary/v6_fastest.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_fastest.mp3"
+    },
+    {
+      "id": "v6_more_interesting",
+      "english": "more interesting",
+      "russian": "интереснее (сравнит.)",
+      "partOfSpeech": "adjective",
+      "example": "This film is more interesting.",
+      "exampleTranslation": "Этот фильм интереснее.",
+      "audioPath": "assets/audio/vocabulary/v6_more_interesting.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_more_interesting.mp3"
+    },
+    {
+      "id": "v6_most_interesting",
+      "english": "the most interesting",
+      "russian": "самый интересный (превосх.)",
+      "partOfSpeech": "adjective",
+      "example": "It is the most interesting book.",
+      "exampleTranslation": "Это самая интересная книга.",
+      "audioPath": "assets/audio/vocabulary/v6_most_interesting.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_most_interesting.mp3"
+    },
+    {
+      "id": "v6_than",
+      "english": "than",
+      "russian": "чем (для сравнения)",
+      "partOfSpeech": "conjunction",
+      "example": "She is older than me.",
+      "exampleTranslation": "Она старше меня.",
+      "audioPath": "assets/audio/vocabulary/v6_than.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_than.mp3"
+    },
+    {
+      "id": "v6_older",
+      "english": "older",
+      "russian": "старше (сравнит.)",
+      "partOfSpeech": "adjective",
+      "example": "My sister is older than me.",
+      "exampleTranslation": "Моя сестра старше меня.",
+      "audioPath": "assets/audio/vocabulary/v6_older.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_older.mp3"
+    },
+    {
+      "id": "v6_younger",
+      "english": "younger",
+      "russian": "младше (сравнит.)",
+      "partOfSpeech": "adjective",
+      "example": "He is younger than his wife.",
+      "exampleTranslation": "Он младше своей жены.",
+      "audioPath": "assets/audio/vocabulary/v6_younger.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_younger.mp3"
+    },
+    {
+      "id": "v6_cheaper",
+      "english": "cheaper",
+      "russian": "дешевле (сравнит.)",
+      "partOfSpeech": "adjective",
+      "example": "This bag is cheaper than that one.",
+      "exampleTranslation": "Эта сумка дешевле той.",
+      "audioPath": "assets/audio/vocabulary/v6_cheaper.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_cheaper.mp3"
+    },
+    {
+      "id": "v6_more_expensive",
+      "english": "more expensive",
+      "russian": "дороже (сравнит.)",
+      "partOfSpeech": "adjective",
+      "example": "This phone is more expensive.",
+      "exampleTranslation": "Этот телефон дороже.",
+      "audioPath": "assets/audio/vocabulary/v6_more_expensive.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_more_expensive.mp3"
+    },
+    {
+      "id": "v6_longer",
+      "english": "longer",
+      "russian": "длиннее (сравнит.)",
+      "partOfSpeech": "adjective",
+      "example": "This road is longer than that one.",
+      "exampleTranslation": "Эта дорога длиннее той.",
+      "audioPath": "assets/audio/vocabulary/v6_longer.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_longer.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "Comparatives & Superlatives",
+    "subtitle": "Когда мы сравниваем два предмета, используем Comparative (сравнительную степень). Когда выделяем один из группы — Superlative (превосходную). Короткие слова: big → bigger → the biggest. Длинные: interesting → more interesting → the most interesting. Исключения: good → better → the best, bad → worse → the worst.",
+    "construction": {
+      "formula": "Short: -er / -est | Long: more / the most | Irregular: own forms",
+      "rules": [
+        {
+          "word": "Короткие (1-2 слога)",
+          "description": "Добавляем -er для сравнения и -est для превосходной: tall → taller → the tallest, big → bigger → the biggest."
+        },
+        {
+          "word": "Длинные (3+ слога)",
+          "description": "Используем more для сравнения и the most для превосходной: interesting → more interesting → the most interesting."
+        },
+        {
+          "word": "Исключения",
+          "description": "good → better → the best, bad → worse → the worst, far → farther → the farthest. Их нужно запомнить."
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "check_circle",
+        "color": "blue",
+        "title": "Сравнение двух предметов",
+        "description": "Используем Comparative + than: This car is faster than that one.",
+        "example": {
+          "english": "My dog is bigger than yours.",
+          "russian": "Моя собака больше твоей."
+        }
+      },
+      {
+        "icon": "star",
+        "color": "orange",
+        "title": "Выделение из группы",
+        "description": "Используем the + Superlative: She is the tallest in our class.",
+        "example": {
+          "english": "He is the best player on the team.",
+          "russian": "Он лучший игрок в команде."
+        }
+      },
+      {
+        "icon": "check_circle",
+        "color": "orange",
+        "title": "Исключения (Irregular)",
+        "description": "good/better/best, bad/worse/worst — не используют -er/-est и more/most.",
+        "example": {
+          "english": "This is worse than I thought.",
+          "russian": "Это хуже, чем я думал."
+        }
+      }
+    ],
+    "markers": [
+      "than",
+      "the",
+      "much",
+      "far",
+      "a lot",
+      "even",
+      "of all"
+    ]
+  },
+  "tasks": [
+    {
+      "id": "t6_1",
+      "type": "sentenceAssembly",
+      "question": "Этот дом больше",
+      "correctAnswer": "This house is bigger",
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "That",
+          "These",
+          "Those"
+        ],
+        [
+          "house",
+          "home",
+          "room",
+          "place"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "has"
+        ],
+        [
+          "bigger",
+          "big",
+          "biggest",
+          "more big"
+        ]
+      ],
+      "mistakeTags": [
+        "comparatives",
+        "superlatives",
+        "more_most"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_06_comparatives/000.mp3"
+    },
+    {
+      "id": "t6_2",
+      "type": "sentenceAssembly",
+      "question": "Она выше своего брата",
+      "correctAnswer": "She is taller than him",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "Her",
+          "Hers",
+          "He"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "has"
+        ],
+        [
+          "taller",
+          "tall",
+          "tallest",
+          "more tall"
+        ],
+        [
+          "than",
+          "that",
+          "then",
+          "the"
+        ],
+        [
+          "him",
+          "his",
+          "he",
+          "her"
+        ]
+      ],
+      "mistakeTags": [
+        "comparatives",
+        "superlatives",
+        "more_most"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_06_comparatives/001.mp3"
+    },
+    {
+      "id": "t6_3",
+      "type": "sentenceAssembly",
+      "question": "Это лучшая книга",
+      "correctAnswer": "This is the best book",
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "That",
+          "It",
+          "These"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "has"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "best",
+          "better",
+          "good",
+          "most good"
+        ],
+        [
+          "book",
+          "books",
+          "film",
+          "story"
+        ]
+      ],
+      "mistakeTags": [
+        "comparatives",
+        "superlatives",
+        "more_most"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_06_comparatives/002.mp3"
+    },
+    {
+      "id": "t6_4",
+      "type": "sentenceAssembly",
+      "question": "Моя машина быстрее",
+      "correctAnswer": "My car is faster",
+      "options": [],
+      "variants": [
+        [
+          "My",
+          "Me",
+          "Mine",
+          "I"
+        ],
+        [
+          "car",
+          "cars",
+          "bus",
+          "bike"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "has"
+        ],
+        [
+          "faster",
+          "fast",
+          "fastest",
+          "more fast"
+        ]
+      ],
+      "mistakeTags": [
+        "comparatives",
+        "superlatives",
+        "more_most"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_06_comparatives/003.mp3"
+    },
+    {
+      "id": "t6_5",
+      "type": "sentenceAssembly",
+      "question": "Он самый быстрый бегун",
+      "correctAnswer": "He is the fastest runner",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "Him",
+          "His",
+          "She"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "has"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "fastest",
+          "faster",
+          "fast",
+          "most fast"
+        ],
+        [
+          "runner",
+          "run",
+          "running",
+          "runners"
+        ]
+      ],
+      "mistakeTags": [
+        "comparatives",
+        "superlatives",
+        "more_most"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_06_comparatives/004.mp3"
+    },
+    {
+      "id": "t6_6",
+      "type": "sentenceAssembly",
+      "question": "Это хуже чем раньше",
+      "correctAnswer": "This is worse than before",
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "That",
+          "It",
+          "These"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "has"
+        ],
+        [
+          "worse",
+          "worst",
+          "bad",
+          "more bad"
+        ],
+        [
+          "than",
+          "then",
+          "that",
+          "the"
+        ],
+        [
+          "before",
+          "after",
+          "ago",
+          "later"
+        ]
+      ],
+      "mistakeTags": [
+        "comparatives",
+        "superlatives",
+        "more_most"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_06_comparatives/005.mp3"
+    },
+    {
+      "id": "t6_7",
+      "type": "sentenceAssembly",
+      "question": "Её комната меньше моей",
+      "correctAnswer": "Her room is smaller than mine",
+      "options": [],
+      "variants": [
+        [
+          "Her",
+          "She",
+          "Hers",
+          "His"
+        ],
+        [
+          "room",
+          "rooms",
+          "house",
+          "place"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "has"
+        ],
+        [
+          "smaller",
+          "small",
+          "smallest",
+          "more small"
+        ],
+        [
+          "than",
+          "then",
+          "that",
+          "the"
+        ],
+        [
+          "mine",
+          "my",
+          "me",
+          "I"
+        ]
+      ],
+      "mistakeTags": [
+        "comparatives",
+        "superlatives",
+        "more_most"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_06_comparatives/006.mp3"
+    },
+    {
+      "id": "t6_8",
+      "type": "sentenceAssembly",
+      "question": "Этот фильм интереснее",
+      "correctAnswer": "This film is more interesting",
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "That",
+          "These",
+          "Those"
+        ],
+        [
+          "film",
+          "films",
+          "movie",
+          "book"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "has"
+        ],
+        [
+          "more",
+          "most",
+          "much",
+          "very"
+        ],
+        [
+          "interesting",
+          "interested",
+          "interest",
+          "interestingly"
+        ]
+      ],
+      "mistakeTags": [
+        "comparatives",
+        "superlatives",
+        "more_most"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_06_comparatives/007.mp3"
+    },
+    {
+      "id": "t6_9",
+      "type": "sentenceAssembly",
+      "question": "Он лучше меня",
+      "correctAnswer": "He is better than me",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "Him",
+          "His",
+          "She"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "has"
+        ],
+        [
+          "better",
+          "best",
+          "good",
+          "more good"
+        ],
+        [
+          "than",
+          "then",
+          "that",
+          "the"
+        ],
+        [
+          "me",
+          "my",
+          "I",
+          "mine"
+        ]
+      ],
+      "mistakeTags": [
+        "comparatives",
+        "superlatives",
+        "more_most"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_06_comparatives/008.mp3"
+    },
+    {
+      "id": "t6_10",
+      "type": "sentenceAssembly",
+      "question": "Это самый большой город",
+      "correctAnswer": "This is the biggest city",
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "That",
+          "It",
+          "These"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "has"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "biggest",
+          "bigger",
+          "big",
+          "most big"
+        ],
+        [
+          "city",
+          "cities",
+          "town",
+          "place"
+        ]
+      ],
+      "mistakeTags": [
+        "comparatives",
+        "superlatives",
+        "more_most"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_06_comparatives/009.mp3"
+    },
+    {
+      "id": "t6_11",
+      "type": "sentenceAssembly",
+      "question": "Моя сестра старше меня",
+      "correctAnswer": "My sister is older than me",
+      "options": [],
+      "variants": [
+        [
+          "My",
+          "Me",
+          "Mine",
+          "I"
+        ],
+        [
+          "sister",
+          "sisters",
+          "brother",
+          "mother"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "has"
+        ],
+        [
+          "older",
+          "old",
+          "oldest",
+          "more old"
+        ],
+        [
+          "than",
+          "then",
+          "that",
+          "the"
+        ],
+        [
+          "me",
+          "my",
+          "I",
+          "mine"
+        ]
+      ],
+      "mistakeTags": [
+        "comparatives",
+        "superlatives",
+        "more_most"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_06_comparatives/010.mp3"
+    },
+    {
+      "id": "t6_12",
+      "type": "sentenceAssembly",
+      "question": "Эта сумка дешевле той",
+      "correctAnswer": "This bag is cheaper than that",
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "That",
+          "These",
+          "Those"
+        ],
+        [
+          "bag",
+          "bags",
+          "box",
+          "case"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "has"
+        ],
+        [
+          "cheaper",
+          "cheap",
+          "cheapest",
+          "more cheap"
+        ],
+        [
+          "than",
+          "then",
+          "that",
+          "the"
+        ],
+        [
+          "that",
+          "this",
+          "those",
+          "these"
+        ]
+      ],
+      "mistakeTags": [
+        "comparatives",
+        "superlatives",
+        "more_most"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_06_comparatives/011.mp3"
+    },
+    {
+      "id": "t6_13",
+      "type": "sentenceAssembly",
+      "question": "Он младше своей жены",
+      "correctAnswer": "He is younger than his wife",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "Him",
+          "His",
+          "She"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "has"
+        ],
+        [
+          "younger",
+          "young",
+          "youngest",
+          "more young"
+        ],
+        [
+          "than",
+          "then",
+          "that",
+          "the"
+        ],
+        [
+          "his",
+          "her",
+          "him",
+          "he"
+        ],
+        [
+          "wife",
+          "wives",
+          "friend",
+          "sister"
+        ]
+      ],
+      "mistakeTags": [
+        "comparatives",
+        "superlatives",
+        "more_most"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_06_comparatives/012.mp3"
+    },
+    {
+      "id": "t6_14",
+      "type": "sentenceAssembly",
+      "question": "Этот телефон дороже того",
+      "correctAnswer": "This phone is more expensive",
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "That",
+          "These",
+          "Those"
+        ],
+        [
+          "phone",
+          "phones",
+          "laptop",
+          "tablet"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "has"
+        ],
+        [
+          "more",
+          "most",
+          "much",
+          "very"
+        ],
+        [
+          "expensive",
+          "cheap",
+          "expensively",
+          "expansive"
+        ]
+      ],
+      "mistakeTags": [
+        "comparatives",
+        "superlatives",
+        "more_most"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_06_comparatives/013.mp3"
+    },
+    {
+      "id": "t6_15",
+      "type": "sentenceAssembly",
+      "question": "Она самая высокая в классе",
+      "correctAnswer": "She is the tallest in class",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "Her",
+          "Hers",
+          "He"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "has"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "tallest",
+          "taller",
+          "tall",
+          "most tall"
+        ],
+        [
+          "in",
+          "at",
+          "on",
+          "of"
+        ],
+        [
+          "class",
+          "classes",
+          "school",
+          "team"
+        ]
+      ],
+      "mistakeTags": [
+        "comparatives",
+        "superlatives",
+        "more_most"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_06_comparatives/014.mp3"
+    },
+    {
+      "id": "t6_16",
+      "type": "sentenceAssembly",
+      "question": "Эта дорога длиннее той",
+      "correctAnswer": "This road is longer than that",
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "That",
+          "These",
+          "Those"
+        ],
+        [
+          "road",
+          "roads",
+          "street",
+          "way"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "has"
+        ],
+        [
+          "longer",
+          "long",
+          "longest",
+          "more long"
+        ],
+        [
+          "than",
+          "then",
+          "that",
+          "the"
+        ],
+        [
+          "that",
+          "this",
+          "those",
+          "these"
+        ]
+      ],
+      "mistakeTags": [
+        "comparatives",
+        "superlatives",
+        "more_most"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_06_comparatives/015.mp3"
+    },
+    {
+      "id": "t6_17",
+      "type": "sentenceAssembly",
+      "question": "Это самый худший день",
+      "correctAnswer": "This is the worst day",
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "That",
+          "It",
+          "These"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "has"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "worst",
+          "worse",
+          "bad",
+          "most bad"
+        ],
+        [
+          "day",
+          "days",
+          "time",
+          "moment"
+        ]
+      ],
+      "mistakeTags": [
+        "comparatives",
+        "superlatives",
+        "more_most"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_06_comparatives/016.mp3"
+    },
+    {
+      "id": "t6_18",
+      "type": "sentenceAssembly",
+      "question": "Собаки умнее чем кошки",
+      "correctAnswer": "Dogs are smarter than cats",
+      "options": [],
+      "variants": [
+        [
+          "Dogs",
+          "Dog",
+          "A dog",
+          "The dog"
+        ],
+        [
+          "are",
+          "is",
+          "was",
+          "has"
+        ],
+        [
+          "smarter",
+          "smart",
+          "smartest",
+          "more smart"
+        ],
+        [
+          "than",
+          "then",
+          "that",
+          "the"
+        ],
+        [
+          "cats",
+          "cat",
+          "a cat",
+          "dogs"
+        ]
+      ],
+      "mistakeTags": [
+        "comparatives",
+        "superlatives",
+        "more_most"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_06_comparatives/017.mp3"
+    },
+    {
+      "id": "t6_19",
+      "type": "sentenceAssembly",
+      "question": "Это самая маленькая собака здесь",
+      "correctAnswer": "This is the smallest dog here",
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "That",
+          "It",
+          "These"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "has"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "smallest",
+          "smaller",
+          "small",
+          "most small"
+        ],
+        [
+          "dog",
+          "dogs",
+          "cat",
+          "pet"
+        ],
+        [
+          "here",
+          "there",
+          "now",
+          "then"
+        ]
+      ],
+      "mistakeTags": [
+        "comparatives",
+        "superlatives",
+        "more_most"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_06_comparatives/018.mp3"
+    },
+    {
+      "id": "t6_20",
+      "type": "sentenceAssembly",
+      "question": "Его работа труднее моей",
+      "correctAnswer": "His work is harder than mine",
+      "options": [],
+      "variants": [
+        [
+          "His",
+          "He",
+          "Him",
+          "Her"
+        ],
+        [
+          "work",
+          "works",
+          "job",
+          "task"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "has"
+        ],
+        [
+          "harder",
+          "hard",
+          "hardest",
+          "more hard"
+        ],
+        [
+          "than",
+          "then",
+          "that",
+          "the"
+        ],
+        [
+          "mine",
+          "my",
+          "me",
+          "I"
+        ]
+      ],
+      "mistakeTags": [
+        "comparatives",
+        "superlatives",
+        "more_most"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_06_comparatives/019.mp3"
+    },
+    {
+      "id": "t6_21",
+      "type": "sentenceAssembly",
+      "question": "Какой город самый большой?",
+      "correctAnswer": "Which city is the biggest?",
+      "options": [],
+      "variants": [
+        [
+          "Which",
+          "What",
+          "Where",
+          "Who"
+        ],
+        [
+          "city",
+          "cities",
+          "town",
+          "place"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "has"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "biggest?",
+          "bigger?",
+          "big?",
+          "most big?"
+        ]
+      ],
+      "mistakeTags": [
+        "comparatives",
+        "superlatives",
+        "more_most"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_06_comparatives/020.mp3"
+    },
+    {
+      "id": "t6_22",
+      "type": "sentenceAssembly",
+      "question": "Кто лучший игрок в команде?",
+      "correctAnswer": "Who is the best player here?",
+      "options": [],
+      "variants": [
+        [
+          "Who",
+          "What",
+          "Which",
+          "Where"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "has"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "best",
+          "better",
+          "good",
+          "most good"
+        ],
+        [
+          "player",
+          "players",
+          "runner",
+          "person"
+        ],
+        [
+          "here?",
+          "there?",
+          "now?",
+          "today?"
+        ]
+      ],
+      "mistakeTags": [
+        "comparatives",
+        "superlatives",
+        "more_most"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_06_comparatives/021.mp3"
+    },
+    {
+      "id": "t6_23",
+      "type": "sentenceAssembly",
+      "question": "Зима холоднее чем осень",
+      "correctAnswer": "Winter is colder than autumn",
+      "options": [],
+      "variants": [
+        [
+          "Winter",
+          "Summer",
+          "Spring",
+          "Autumn"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "has"
+        ],
+        [
+          "colder",
+          "cold",
+          "coldest",
+          "more cold"
+        ],
+        [
+          "than",
+          "then",
+          "that",
+          "the"
+        ],
+        [
+          "autumn",
+          "summer",
+          "spring",
+          "winter"
+        ]
+      ],
+      "mistakeTags": [
+        "comparatives",
+        "superlatives",
+        "more_most"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_06_comparatives/022.mp3"
+    },
+    {
+      "id": "t6_24",
+      "type": "sentenceAssembly",
+      "question": "Что дороже — чай или кофе?",
+      "correctAnswer": "What is more expensive tea or coffee?",
+      "options": [],
+      "variants": [
+        [
+          "What",
+          "Which",
+          "Where",
+          "Who"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "does"
+        ],
+        [
+          "more",
+          "most",
+          "very",
+          "much"
+        ],
+        [
+          "expensive",
+          "cheap",
+          "big",
+          "fast"
+        ],
+        [
+          "tea",
+          "milk",
+          "water",
+          "juice"
+        ],
+        [
+          "or",
+          "and",
+          "but",
+          "than"
+        ],
+        [
+          "coffee?",
+          "food?",
+          "bread?",
+          "cake?"
+        ]
+      ],
+      "mistakeTags": [
+        "comparatives",
+        "superlatives",
+        "more_most"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_06_comparatives/023.mp3"
+    },
+    {
+      "id": "t6_25",
+      "type": "sentenceAssembly",
+      "question": "Он бегает быстрее всех",
+      "correctAnswer": "He runs faster than everyone",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "Him",
+          "His",
+          "She"
+        ],
+        [
+          "runs",
+          "run",
+          "running",
+          "ran"
+        ],
+        [
+          "faster",
+          "fast",
+          "fastest",
+          "more fast"
+        ],
+        [
+          "than",
+          "then",
+          "that",
+          "the"
+        ],
+        [
+          "everyone",
+          "everything",
+          "everybody",
+          "all"
+        ]
+      ],
+      "mistakeTags": [
+        "comparatives",
+        "superlatives",
+        "more_most"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_06_comparatives/024.mp3"
+    },
+    {
+      "id": "t6_26",
+      "type": "sentenceAssembly",
+      "question": "Это самая интересная книга здесь",
+      "correctAnswer": "This is the most interesting book",
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "That",
+          "It",
+          "These"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "has"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "most",
+          "more",
+          "much",
+          "very"
+        ],
+        [
+          "interesting",
+          "interested",
+          "interest",
+          "interestingly"
+        ],
+        [
+          "book",
+          "books",
+          "story",
+          "film"
+        ]
+      ],
+      "mistakeTags": [
+        "comparatives",
+        "superlatives",
+        "more_most"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_06_comparatives/025.mp3"
+    },
+    {
+      "id": "t6_27",
+      "type": "sentenceAssembly",
+      "question": "Её оценки хуже его оценок",
+      "correctAnswer": "Her grades are worse than his",
+      "options": [],
+      "variants": [
+        [
+          "Her",
+          "She",
+          "Hers",
+          "His"
+        ],
+        [
+          "grades",
+          "grade",
+          "marks",
+          "results"
+        ],
+        [
+          "are",
+          "is",
+          "was",
+          "has"
+        ],
+        [
+          "worse",
+          "worst",
+          "bad",
+          "more bad"
+        ],
+        [
+          "than",
+          "then",
+          "that",
+          "the"
+        ],
+        [
+          "his",
+          "him",
+          "he",
+          "her"
+        ]
+      ],
+      "mistakeTags": [
+        "comparatives",
+        "superlatives",
+        "more_most"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_06_comparatives/026.mp3"
+    },
+    {
+      "id": "t6_28",
+      "type": "sentenceAssembly",
+      "question": "Какое озеро самое глубокое?",
+      "correctAnswer": "Which lake is the deepest?",
+      "options": [],
+      "variants": [
+        [
+          "Which",
+          "What",
+          "Where",
+          "Who"
+        ],
+        [
+          "lake",
+          "lakes",
+          "river",
+          "sea"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "has"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "deepest?",
+          "deeper?",
+          "deep?",
+          "most deep?"
+        ]
+      ],
+      "mistakeTags": [
+        "comparatives",
+        "superlatives",
+        "more_most"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_06_comparatives/027.mp3"
+    },
+    {
+      "id": "t6_29",
+      "type": "sentenceAssembly",
+      "question": "Ничто не лучше хорошего сна",
+      "correctAnswer": "Nothing is better than good sleep",
+      "options": [],
+      "variants": [
+        [
+          "Nothing",
+          "Something",
+          "Anything",
+          "Everything"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "has"
+        ],
+        [
+          "better",
+          "best",
+          "good",
+          "more good"
+        ],
+        [
+          "than",
+          "then",
+          "that",
+          "the"
+        ],
+        [
+          "good",
+          "better",
+          "great",
+          "nice"
+        ],
+        [
+          "sleep",
+          "sleeping",
+          "rest",
+          "dream"
+        ]
+      ],
+      "mistakeTags": [
+        "comparatives",
+        "superlatives",
+        "more_most"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_06_comparatives/028.mp3"
+    },
+    {
+      "id": "t6_30",
+      "type": "sentenceAssembly",
+      "question": "Это был самый худший фильм",
+      "correctAnswer": "It was the worst film ever",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "This",
+          "That",
+          "He"
+        ],
+        [
+          "was",
+          "is",
+          "were",
+          "has"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "worst",
+          "worse",
+          "bad",
+          "most bad"
+        ],
+        [
+          "film",
+          "films",
+          "movie",
+          "book"
+        ],
+        [
+          "ever",
+          "never",
+          "always",
+          "already"
+        ]
+      ],
+      "mistakeTags": [
+        "comparatives",
+        "superlatives",
+        "more_most"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_06_comparatives/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionIntermediate06Comparatives",
+  "theoryQuiz": [
+    {
+      "id": "tq_01",
+      "type": "trueFalse",
+      "question": "Короткие прилагательные (1-2 слога) образуют сравнительную степень добавлением -er.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Например: big → bigger, tall → taller."
+    },
+    {
+      "id": "tq_02",
+      "type": "multipleChoice",
+      "question": "Как образуется сравнительная степень от 'beautiful'?",
+      "options": [
+        "beautifuler",
+        "more beautiful",
+        "beautifuller",
+        "most beautiful"
+      ],
+      "correctIndex": 1,
+      "explanation": "Длинные прилагательные (3+ слога) используют more: more beautiful."
+    },
+    {
+      "id": "tq_03",
+      "type": "multipleChoice",
+      "question": "Какая сравнительная степень у 'good'?",
+      "options": [
+        "gooder",
+        "more good",
+        "better",
+        "goodest"
+      ],
+      "correctIndex": 2,
+      "explanation": "Good — исключение: good → better → the best."
+    },
+    {
+      "id": "tq_04",
+      "type": "trueFalse",
+      "question": "Превосходная степень от 'bad' — 'the worst'.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bad — исключение: bad → worse → the worst."
+    },
+    {
+      "id": "tq_05",
+      "type": "multipleChoice",
+      "question": "Какое слово используется после сравнительной степени для сравнения?",
+      "options": [
+        "as",
+        "then",
+        "than",
+        "that"
+      ],
+      "correctIndex": 2,
+      "explanation": "После сравнительной степени используется than: bigger than, more beautiful than."
+    },
+    {
+      "id": "tq_06",
+      "type": "multipleChoice",
+      "question": "Какая превосходная степень у 'happy'?",
+      "options": [
+        "the most happy",
+        "the happiest",
+        "the happyer",
+        "the more happy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Happy (2 слога, оканчивается на -y): happy → happier → the happiest."
+    },
+    {
+      "id": "tq_07",
+      "type": "trueFalse",
+      "question": "Перед превосходной степенью всегда ставится артикль 'the'.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Превосходная степень используется с the: the biggest, the most beautiful."
+    },
+    {
+      "id": "tq_08",
+      "type": "multipleChoice",
+      "question": "Какое предложение построено правильно?",
+      "options": [
+        "She is more tall than me.",
+        "He is the goodest student.",
+        "This is the most expensive car.",
+        "It is more big than yours."
+      ],
+      "correctIndex": 2,
+      "explanation": "Expensive — длинное слово: the most expensive — верно."
+    },
+    {
+      "id": "tq_09",
+      "type": "trueFalse",
+      "question": "Сравнительная степень от 'bad' — 'badder'.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bad — исключение: сравнительная степень — worse, не badder."
+    },
+    {
+      "id": "tq_10",
+      "type": "multipleChoice",
+      "question": "Какое предложение содержит ошибку?",
+      "options": [
+        "She is taller than her sister.",
+        "This is the best day ever.",
+        "He is more stronger than me.",
+        "My car is faster than yours."
+      ],
+      "correctIndex": 2,
+      "explanation": "Нельзя совмещать more и -er: правильно stronger (не more stronger)."
+    }
+  ]
+}

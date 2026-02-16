@@ -1,0 +1,1759 @@
+{
+  "id": "intermediate_09_adverbs",
+  "title": "Adverbs",
+  "description": "Наречия — это «настройки звука» для глаголов. Не просто «идти», а «идти БЫСТРО». Не просто «красивый», а «ОЧЕНЬ красивый».",
+  "order": 9,
+  "level": "intermediate",
+  "imageUrl": "assets/images/lessons/adverbs.png",
+  "vocabulary": [
+    {
+      "id": "v9_run",
+      "english": "run",
+      "russian": "бежать",
+      "partOfSpeech": "verb",
+      "example": "He runs.",
+      "exampleTranslation": "Он бежит.",
+      "audioPath": "assets/audio/vocabulary/v9_run.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_run.mp3"
+    },
+    {
+      "id": "v9_fast",
+      "english": "fast",
+      "russian": "быстро",
+      "partOfSpeech": "adverb",
+      "example": "Runs fast.",
+      "exampleTranslation": "Бегает быстро.",
+      "audioPath": "assets/audio/vocabulary/v9_fast.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_fast.mp3"
+    },
+    {
+      "id": "v9_sing",
+      "english": "sing",
+      "russian": "петь",
+      "partOfSpeech": "verb",
+      "example": "She sings.",
+      "exampleTranslation": "Она поет.",
+      "audioPath": "assets/audio/vocabulary/v9_sing.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_sing.mp3"
+    },
+    {
+      "id": "v9_beautifully",
+      "english": "beautifully",
+      "russian": "красиво",
+      "partOfSpeech": "adverb",
+      "example": "Sings beautifully.",
+      "exampleTranslation": "Поет красиво.",
+      "audioPath": "assets/audio/vocabulary/v9_beautifully.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_beautifully.mp3"
+    },
+    {
+      "id": "v9_play",
+      "english": "play",
+      "russian": "играть",
+      "partOfSpeech": "verb",
+      "example": "They played.",
+      "exampleTranslation": "Они играли.",
+      "audioPath": "assets/audio/vocabulary/v9_play.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_play.mp3"
+    },
+    {
+      "id": "v9_well",
+      "english": "well",
+      "russian": "хорошо",
+      "partOfSpeech": "adverb",
+      "example": "Played well.",
+      "exampleTranslation": "Играли хорошо.",
+      "audioPath": "assets/audio/vocabulary/v9_well.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_well.mp3"
+    },
+    {
+      "id": "v9_always",
+      "english": "always",
+      "russian": "всегда",
+      "partOfSpeech": "adverb",
+      "example": "I always get up.",
+      "exampleTranslation": "Я всегда встаю.",
+      "audioPath": "assets/audio/vocabulary/v9_always.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_always.mp3"
+    },
+    {
+      "id": "v9_early",
+      "english": "early",
+      "russian": "рано",
+      "partOfSpeech": "adverb",
+      "example": "Get up early.",
+      "exampleTranslation": "Вставать рано.",
+      "audioPath": "assets/audio/vocabulary/v9_early.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_early.mp3"
+    },
+    {
+      "id": "v9_important",
+      "english": "important",
+      "russian": "важный",
+      "partOfSpeech": "adjective",
+      "example": "Very important.",
+      "exampleTranslation": "Очень важно.",
+      "audioPath": "assets/audio/vocabulary/v9_important.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_important.mp3"
+    },
+    {
+      "id": "v9_speak",
+      "english": "speak",
+      "russian": "говорить",
+      "partOfSpeech": "verb",
+      "example": "Speak slowly.",
+      "exampleTranslation": "Говори медленно.",
+      "audioPath": "assets/audio/vocabulary/v9_speak.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_speak.mp3"
+    },
+    {
+      "id": "v9_slowly",
+      "english": "slowly",
+      "russian": "медленно",
+      "partOfSpeech": "adverb",
+      "example": "Speak slowly.",
+      "exampleTranslation": "Говори медленно.",
+      "audioPath": "assets/audio/vocabulary/v9_slowly.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_slowly.mp3"
+    },
+    {
+      "id": "v9_listen",
+      "english": "listen",
+      "russian": "слушать",
+      "partOfSpeech": "verb",
+      "example": "He listens.",
+      "exampleTranslation": "Он слушает.",
+      "audioPath": "assets/audio/vocabulary/v9_listen.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_listen.mp3"
+    },
+    {
+      "id": "v9_hard",
+      "english": "hard",
+      "russian": "усердно (тяжело)",
+      "partOfSpeech": "adverb",
+      "example": "Works hard.",
+      "exampleTranslation": "Работает усердно.",
+      "audioPath": "assets/audio/vocabulary/v9_hard.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_hard.mp3"
+    },
+    {
+      "id": "v9_easy",
+      "english": "easy",
+      "russian": "легко (легкий)",
+      "partOfSpeech": "adjective",
+      "example": "Really easy.",
+      "exampleTranslation": "Действительно легко.",
+      "audioPath": "assets/audio/vocabulary/v9_easy.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_easy.mp3"
+    },
+    {
+      "id": "v9_often",
+      "english": "often",
+      "russian": "часто",
+      "partOfSpeech": "adverb",
+      "example": "I often see.",
+      "exampleTranslation": "Я часто вижу.",
+      "audioPath": "assets/audio/vocabulary/v9_often.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_often.mp3"
+    },
+    {
+      "id": "v9_carefully",
+      "english": "carefully",
+      "russian": "осторожно",
+      "partOfSpeech": "adverb",
+      "example": "Open carefully.",
+      "exampleTranslation": "Открой осторожно.",
+      "audioPath": "assets/audio/vocabulary/v9_carefully.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_carefully.mp3"
+    },
+    {
+      "id": "v9_completely",
+      "english": "completely",
+      "russian": "полностью",
+      "partOfSpeech": "adverb",
+      "example": "Completely agree.",
+      "exampleTranslation": "Полностью согласен.",
+      "audioPath": "assets/audio/vocabulary/v9_completely.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_completely.mp3"
+    },
+    {
+      "id": "v9_agree",
+      "english": "agree",
+      "russian": "соглашаться",
+      "partOfSpeech": "verb",
+      "example": "I agree.",
+      "exampleTranslation": "Я согласен.",
+      "audioPath": "assets/audio/vocabulary/v9_agree.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_agree.mp3"
+    },
+    {
+      "id": "v9_happily",
+      "english": "happily",
+      "russian": "счастливо",
+      "partOfSpeech": "adverb",
+      "example": "Live happily.",
+      "exampleTranslation": "Живут счастливо.",
+      "audioPath": "assets/audio/vocabulary/v9_happily.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_happily.mp3"
+    },
+    {
+      "id": "v9_late",
+      "english": "late",
+      "russian": "поздно",
+      "partOfSpeech": "adverb",
+      "example": "Too late.",
+      "exampleTranslation": "Слишком поздно.",
+      "audioPath": "assets/audio/vocabulary/v9_late.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_late.mp3"
+    },
+    {
+      "id": "v9_suddenly",
+      "english": "suddenly",
+      "russian": "внезапно",
+      "partOfSpeech": "adverb",
+      "example": "Suddenly rained.",
+      "exampleTranslation": "Внезапно пошел дождь.",
+      "audioPath": "assets/audio/vocabulary/v9_suddenly.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_suddenly.mp3"
+    },
+    {
+      "id": "v9_quietly",
+      "english": "quietly",
+      "russian": "тихо",
+      "partOfSpeech": "adverb",
+      "example": "Speaks quietly.",
+      "exampleTranslation": "Говорит тихо.",
+      "audioPath": "assets/audio/vocabulary/v9_quietly.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_quietly.mp3"
+    },
+    {
+      "id": "v9_luckily",
+      "english": "luckily",
+      "russian": "к счастью",
+      "partOfSpeech": "adverb",
+      "example": "Luckily.",
+      "exampleTranslation": "К счастью.",
+      "audioPath": "assets/audio/vocabulary/v9_luckily.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_luckily.mp3"
+    },
+    {
+      "id": "v9_enough",
+      "english": "enough",
+      "russian": "достаточно",
+      "partOfSpeech": "adverb",
+      "example": "Good enough.",
+      "exampleTranslation": "Достаточно хорошо.",
+      "audioPath": "assets/audio/vocabulary/v9_enough.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_enough.mp3"
+    },
+    {
+      "id": "v9_usually",
+      "english": "usually",
+      "russian": "обычно",
+      "partOfSpeech": "adverb",
+      "example": "Usually drinks.",
+      "exampleTranslation": "Обычно пьет.",
+      "audioPath": "assets/audio/vocabulary/v9_usually.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_usually.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "Adverbs",
+    "subtitle": "Если Глагол — это мотор, то Наречие — это педаль газа или тормоза. Оно объясняет, КАК именно работает мотор. Отвечает на вопросы: Как? Где? Когда? Насколько?",
+    "construction": {
+      "formula": "Adjective + -ly (обычно)",
+      "rules": [
+        {
+          "word": "Как? (Manner)",
+          "description": "Quick -> Quickly (Быстро). Easy -> Easily (Легко). Стоят после глагола."
+        },
+        {
+          "word": "Где/Когда? (Place/Time)",
+          "description": "Here, There, Now, Yesterday. Определяют место и время."
+        },
+        {
+          "word": "Насколько? (Degree)",
+          "description": "Very, Too, Enough. Усиливают или ослабляют значение. (Very good)."
+        },
+        {
+          "word": "Исключения",
+          "description": "Good -> Well (Хорошо). Fast -> Fast (Быстро). Hard -> Hard (Усердно)."
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "bolt",
+        "color": "blue",
+        "title": "Скорость и Манера",
+        "description": "He runs FAST. She sings BEAUTIFULLY.",
+        "example": {
+          "english": "Please speak slowly.",
+          "russian": "Пожалуйста, говорите медленно."
+        }
+      },
+      {
+        "icon": "schedule",
+        "color": "green",
+        "title": "Частота (Frequency)",
+        "description": "Always, Never, Sometimes. Стоят ПЕРЕД глаголом (I always sleep).",
+        "example": {
+          "english": "I never lie.",
+          "russian": "Я никогда не лгу."
+        }
+      },
+      {
+        "icon": "visibility",
+        "color": "orange",
+        "title": "Усилители (Intensifiers)",
+        "description": "Very, Really, Extremely. Делают признак сильнее.",
+        "example": {
+          "english": "It is extremely dangerous.",
+          "russian": "Это чрезвычайно опасно."
+        }
+      }
+    ],
+    "markers": [
+      "quickly",
+      "slowly",
+      "well",
+      "fast",
+      "hard",
+      "always",
+      "never",
+      "often",
+      "very",
+      "really"
+    ]
+  },
+  "tasks": [
+    {
+      "id": "t9_1",
+      "type": "sentenceAssembly",
+      "question": "Он сегодня бежит очень быстро",
+      "correctAnswer": "He runs very fast today",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "I",
+          "They"
+        ],
+        [
+          "runs",
+          "walks",
+          "swims",
+          "drives"
+        ],
+        [
+          "very",
+          "so",
+          "too",
+          "quite"
+        ],
+        [
+          "fast",
+          "slow",
+          "well",
+          "hard"
+        ],
+        [
+          "today",
+          "always",
+          "often",
+          "now"
+        ]
+      ],
+      "mistakeTags": [
+        "adverbs",
+        "adverb_position"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_09_adverbs/000.mp3"
+    },
+    {
+      "id": "t9_2",
+      "type": "sentenceAssembly",
+      "question": "Она очень красиво поёт здесь",
+      "correctAnswer": "She sings very beautifully here",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "They"
+        ],
+        [
+          "sings",
+          "dances",
+          "plays",
+          "speaks"
+        ],
+        [
+          "very",
+          "so",
+          "quite",
+          "too"
+        ],
+        [
+          "beautifully",
+          "loudly",
+          "quietly",
+          "slowly"
+        ],
+        [
+          "here",
+          "always",
+          "often",
+          "there"
+        ]
+      ],
+      "mistakeTags": [
+        "adverbs",
+        "adverb_position"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_09_adverbs/001.mp3"
+    },
+    {
+      "id": "t9_3",
+      "type": "sentenceAssembly",
+      "question": "Они сегодня играли очень хорошо",
+      "correctAnswer": "They played really well today",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "We",
+          "He",
+          "She"
+        ],
+        [
+          "played",
+          "worked",
+          "sang",
+          "danced"
+        ],
+        [
+          "really",
+          "very",
+          "quite",
+          "so"
+        ],
+        [
+          "well",
+          "hard",
+          "fast",
+          "late"
+        ],
+        [
+          "today",
+          "always",
+          "again",
+          "there"
+        ]
+      ],
+      "mistakeTags": [
+        "adverbs",
+        "adverb_position"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_09_adverbs/002.mp3"
+    },
+    {
+      "id": "t9_4",
+      "type": "sentenceAssembly",
+      "question": "Я всегда встаю рано",
+      "correctAnswer": "I always get up early",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "My",
+          "Am"
+        ],
+        [
+          "always",
+          "never",
+          "often",
+          "ever"
+        ],
+        [
+          "get",
+          "stand",
+          "wake",
+          "rise"
+        ],
+        [
+          "up",
+          "down",
+          "on",
+          "in"
+        ],
+        [
+          "early",
+          "late",
+          "fast",
+          "soon"
+        ]
+      ],
+      "mistakeTags": [
+        "adverbs",
+        "adverb_position"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_09_adverbs/003.mp3"
+    },
+    {
+      "id": "t9_5",
+      "type": "sentenceAssembly",
+      "question": "Это очень важно",
+      "correctAnswer": "It is very important",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "This",
+          "That",
+          "There"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "be"
+        ],
+        [
+          "very",
+          "much",
+          "many",
+          "so"
+        ],
+        [
+          "important",
+          "big",
+          "main",
+          "serious"
+        ]
+      ],
+      "mistakeTags": [
+        "adverbs",
+        "adverb_position"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_09_adverbs/004.mp3"
+    },
+    {
+      "id": "t9_6",
+      "type": "sentenceAssembly",
+      "question": "Пожалуйста говорите медленнее",
+      "correctAnswer": "Please speak more slowly now",
+      "options": [],
+      "variants": [
+        [
+          "Please",
+          "Always",
+          "Never",
+          "Just"
+        ],
+        [
+          "speak",
+          "walk",
+          "read",
+          "write"
+        ],
+        [
+          "more",
+          "very",
+          "so",
+          "too"
+        ],
+        [
+          "slowly",
+          "quickly",
+          "loudly",
+          "quietly"
+        ],
+        [
+          "now",
+          "here",
+          "please",
+          "today"
+        ]
+      ],
+      "mistakeTags": [
+        "adverbs",
+        "adverb_position"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_09_adverbs/005.mp3"
+    },
+    {
+      "id": "t9_7",
+      "type": "sentenceAssembly",
+      "question": "Он никогда меня не слушает",
+      "correctAnswer": "He never listens to me",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "I",
+          "They"
+        ],
+        [
+          "never",
+          "always",
+          "often",
+          "usually"
+        ],
+        [
+          "listens",
+          "talks",
+          "speaks",
+          "comes"
+        ],
+        [
+          "to",
+          "at",
+          "for",
+          "with"
+        ],
+        [
+          "me",
+          "him",
+          "her",
+          "them"
+        ]
+      ],
+      "mistakeTags": [
+        "adverbs",
+        "adverb_position"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_09_adverbs/006.mp3"
+    },
+    {
+      "id": "t9_8",
+      "type": "sentenceAssembly",
+      "question": "Она почти всегда приходит рано",
+      "correctAnswer": "She almost always comes early",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "They"
+        ],
+        [
+          "almost",
+          "never",
+          "quite",
+          "really"
+        ],
+        [
+          "always",
+          "often",
+          "usually",
+          "sometimes"
+        ],
+        [
+          "comes",
+          "goes",
+          "works",
+          "leaves"
+        ],
+        [
+          "early",
+          "late",
+          "fast",
+          "first"
+        ]
+      ],
+      "mistakeTags": [
+        "adverbs",
+        "adverb_position"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_09_adverbs/007.mp3"
+    },
+    {
+      "id": "t9_9",
+      "type": "sentenceAssembly",
+      "question": "Я довольно часто хожу туда",
+      "correctAnswer": "I quite often go there",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "quite",
+          "very",
+          "so",
+          "too"
+        ],
+        [
+          "often",
+          "rarely",
+          "never",
+          "always"
+        ],
+        [
+          "go",
+          "come",
+          "walk",
+          "run"
+        ],
+        [
+          "there",
+          "here",
+          "home",
+          "out"
+        ]
+      ],
+      "mistakeTags": [
+        "adverbs",
+        "adverb_position"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_09_adverbs/008.mp3"
+    },
+    {
+      "id": "t9_10",
+      "type": "sentenceAssembly",
+      "question": "Она очень грациозно танцует здесь",
+      "correctAnswer": "She dances really gracefully here",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "They"
+        ],
+        [
+          "dances",
+          "moves",
+          "sings",
+          "walks"
+        ],
+        [
+          "really",
+          "very",
+          "quite",
+          "so"
+        ],
+        [
+          "gracefully",
+          "slowly",
+          "quickly",
+          "loudly"
+        ],
+        [
+          "here",
+          "always",
+          "often",
+          "well"
+        ]
+      ],
+      "mistakeTags": [
+        "adverbs",
+        "adverb_position"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_09_adverbs/009.mp3"
+    },
+    {
+      "id": "t9_11",
+      "type": "sentenceAssembly",
+      "question": "Осторожно открой коробку",
+      "correctAnswer": "Open the box carefully",
+      "options": [],
+      "variants": [
+        [
+          "Open",
+          "Close",
+          "Take",
+          "Get"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "box",
+          "bag",
+          "case",
+          "room"
+        ],
+        [
+          "carefully",
+          "careful",
+          "slow",
+          "safe"
+        ]
+      ],
+      "mistakeTags": [
+        "adverbs",
+        "adverb_position"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_09_adverbs/010.mp3"
+    },
+    {
+      "id": "t9_12",
+      "type": "sentenceAssembly",
+      "question": "Я полностью согласен с этим",
+      "correctAnswer": "I completely agree with that",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "completely",
+          "totally",
+          "really",
+          "fully"
+        ],
+        [
+          "agree",
+          "disagree",
+          "understand",
+          "know"
+        ],
+        [
+          "with",
+          "to",
+          "on",
+          "about"
+        ],
+        [
+          "that",
+          "this",
+          "him",
+          "them"
+        ]
+      ],
+      "mistakeTags": [
+        "adverbs",
+        "adverb_position"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_09_adverbs/011.mp3"
+    },
+    {
+      "id": "t9_13",
+      "type": "sentenceAssembly",
+      "question": "Они живут долго и счастливо",
+      "correctAnswer": "They live happily ever after",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "We",
+          "I",
+          "She"
+        ],
+        [
+          "live",
+          "work",
+          "stay",
+          "sing"
+        ],
+        [
+          "happily",
+          "quietly",
+          "slowly",
+          "loudly"
+        ],
+        [
+          "ever",
+          "here",
+          "now",
+          "still"
+        ],
+        [
+          "after",
+          "together",
+          "alone",
+          "inside"
+        ]
+      ],
+      "mistakeTags": [
+        "adverbs",
+        "adverb_position"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_09_adverbs/012.mp3"
+    },
+    {
+      "id": "t9_14",
+      "type": "sentenceAssembly",
+      "question": "Было уже слишком поздно",
+      "correctAnswer": "It was too late already",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "He",
+          "She",
+          "That"
+        ],
+        [
+          "was",
+          "is",
+          "were",
+          "seemed"
+        ],
+        [
+          "too",
+          "very",
+          "quite",
+          "so"
+        ],
+        [
+          "late",
+          "early",
+          "dark",
+          "cold"
+        ],
+        [
+          "already",
+          "then",
+          "now",
+          "there"
+        ]
+      ],
+      "mistakeTags": [
+        "adverbs",
+        "adverb_position"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_09_adverbs/013.mp3"
+    },
+    {
+      "id": "t9_15",
+      "type": "sentenceAssembly",
+      "question": "Внезапно пошёл сильный дождь",
+      "correctAnswer": "Suddenly it rained very hard",
+      "options": [],
+      "variants": [
+        [
+          "Suddenly",
+          "Finally",
+          "Slowly",
+          "Quickly"
+        ],
+        [
+          "it",
+          "he",
+          "she",
+          "they"
+        ],
+        [
+          "rained",
+          "snowed",
+          "stopped",
+          "started"
+        ],
+        [
+          "very",
+          "quite",
+          "so",
+          "too"
+        ],
+        [
+          "hard",
+          "fast",
+          "much",
+          "late"
+        ]
+      ],
+      "mistakeTags": [
+        "adverbs",
+        "adverb_position"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_09_adverbs/014.mp3"
+    },
+    {
+      "id": "t9_16",
+      "type": "sentenceAssembly",
+      "question": "Он довольно хорошо говорит по-английски",
+      "correctAnswer": "He speaks English quite well",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "I",
+          "They"
+        ],
+        [
+          "speaks",
+          "reads",
+          "writes",
+          "knows"
+        ],
+        [
+          "English",
+          "French",
+          "German",
+          "Spanish"
+        ],
+        [
+          "quite",
+          "very",
+          "really",
+          "so"
+        ],
+        [
+          "well",
+          "fast",
+          "fluently",
+          "slowly"
+        ]
+      ],
+      "mistakeTags": [
+        "adverbs",
+        "adverb_position"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_09_adverbs/015.mp3"
+    },
+    {
+      "id": "t9_17",
+      "type": "sentenceAssembly",
+      "question": "Иди сюда прямо сейчас",
+      "correctAnswer": "Come here right now please",
+      "options": [],
+      "variants": [
+        [
+          "Come",
+          "Go",
+          "Look",
+          "Run"
+        ],
+        [
+          "here",
+          "there",
+          "back",
+          "out"
+        ],
+        [
+          "right",
+          "very",
+          "just",
+          "so"
+        ],
+        [
+          "now",
+          "then",
+          "fast",
+          "soon"
+        ],
+        [
+          "please",
+          "quickly",
+          "always",
+          "again"
+        ]
+      ],
+      "mistakeTags": [
+        "adverbs",
+        "adverb_position"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_09_adverbs/016.mp3"
+    },
+    {
+      "id": "t9_18",
+      "type": "sentenceAssembly",
+      "question": "Я сделал это вчера",
+      "correctAnswer": "I did it yesterday",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "My",
+          "Am"
+        ],
+        [
+          "did",
+          "do",
+          "done",
+          "make"
+        ],
+        [
+          "it",
+          "this",
+          "that",
+          "is"
+        ],
+        [
+          "yesterday",
+          "tomorrow",
+          "today",
+          "now"
+        ]
+      ],
+      "mistakeTags": [
+        "adverbs",
+        "adverb_position"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_09_adverbs/017.mp3"
+    },
+    {
+      "id": "t9_19",
+      "type": "sentenceAssembly",
+      "question": "Она почти никогда не ест мясо",
+      "correctAnswer": "She hardly ever eats meat",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "They"
+        ],
+        [
+          "hardly",
+          "almost",
+          "never",
+          "rarely"
+        ],
+        [
+          "ever",
+          "always",
+          "often",
+          "usually"
+        ],
+        [
+          "eats",
+          "drinks",
+          "cooks",
+          "buys"
+        ],
+        [
+          "meat",
+          "fish",
+          "sweets",
+          "bread"
+        ]
+      ],
+      "mistakeTags": [
+        "adverbs",
+        "adverb_position"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_09_adverbs/018.mp3"
+    },
+    {
+      "id": "t9_20",
+      "type": "sentenceAssembly",
+      "question": "К счастью, мы дома",
+      "correctAnswer": "Luckily we are home",
+      "options": [],
+      "variants": [
+        [
+          "Luckily",
+          "Lucky",
+          "Happy",
+          "Good"
+        ],
+        [
+          "we",
+          "us",
+          "our",
+          "they"
+        ],
+        [
+          "are",
+          "is",
+          "were",
+          "be"
+        ],
+        [
+          "home",
+          "house",
+          "place",
+          "back"
+        ]
+      ],
+      "mistakeTags": [
+        "adverbs",
+        "adverb_position"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_09_adverbs/019.mp3"
+    },
+    {
+      "id": "t9_21",
+      "type": "sentenceAssembly",
+      "question": "Он всегда ездит очень быстро",
+      "correctAnswer": "He drives extremely fast always",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "I",
+          "They"
+        ],
+        [
+          "drives",
+          "runs",
+          "works",
+          "walks"
+        ],
+        [
+          "extremely",
+          "very",
+          "quite",
+          "really"
+        ],
+        [
+          "fast",
+          "well",
+          "hard",
+          "slow"
+        ],
+        [
+          "always",
+          "often",
+          "here",
+          "there"
+        ]
+      ],
+      "mistakeTags": [
+        "adverbs",
+        "adverb_position"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_09_adverbs/020.mp3"
+    },
+    {
+      "id": "t9_22",
+      "type": "sentenceAssembly",
+      "question": "Мы редко выходим куда-то вместе",
+      "correctAnswer": "We rarely go out together",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "I",
+          "He"
+        ],
+        [
+          "rarely",
+          "often",
+          "never",
+          "always"
+        ],
+        [
+          "go",
+          "eat",
+          "walk",
+          "come"
+        ],
+        [
+          "out",
+          "home",
+          "there",
+          "here"
+        ],
+        [
+          "together",
+          "alone",
+          "often",
+          "late"
+        ]
+      ],
+      "mistakeTags": [
+        "adverbs",
+        "adverb_position"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_09_adverbs/021.mp3"
+    },
+    {
+      "id": "t9_23",
+      "type": "sentenceAssembly",
+      "question": "Он обычно пьет чай",
+      "correctAnswer": "He usually drinks tea",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "Him",
+          "His",
+          "She"
+        ],
+        [
+          "usually",
+          "usual",
+          "often",
+          "always"
+        ],
+        [
+          "drinks",
+          "drink",
+          "eat",
+          "food"
+        ],
+        [
+          "tea",
+          "coffee",
+          "water",
+          "juice"
+        ]
+      ],
+      "mistakeTags": [
+        "adverbs",
+        "adverb_position"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_09_adverbs/022.mp3"
+    },
+    {
+      "id": "t9_24",
+      "type": "sentenceAssembly",
+      "question": "Это редко случается в наши дни",
+      "correctAnswer": "It happens rarely these days",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "He",
+          "She",
+          "That"
+        ],
+        [
+          "happens",
+          "works",
+          "comes",
+          "starts"
+        ],
+        [
+          "rarely",
+          "often",
+          "always",
+          "never"
+        ],
+        [
+          "these",
+          "those",
+          "some",
+          "most"
+        ],
+        [
+          "days",
+          "times",
+          "years",
+          "weeks"
+        ]
+      ],
+      "mistakeTags": [
+        "adverbs",
+        "adverb_position"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_09_adverbs/023.mp3"
+    },
+    {
+      "id": "t9_25",
+      "type": "sentenceAssembly",
+      "question": "Ты сейчас серьёзно?",
+      "correctAnswer": "Are you being serious now?",
+      "options": [],
+      "variants": [
+        [
+          "Are",
+          "Is",
+          "Was",
+          "Were"
+        ],
+        [
+          "you",
+          "he",
+          "she",
+          "they"
+        ],
+        [
+          "being",
+          "really",
+          "always",
+          "quite"
+        ],
+        [
+          "serious",
+          "honest",
+          "kind",
+          "fair"
+        ],
+        [
+          "now",
+          "here",
+          "today",
+          "still"
+        ]
+      ],
+      "mistakeTags": [
+        "adverbs",
+        "adverb_position"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_09_adverbs/024.mp3"
+    },
+    {
+      "id": "t9_26",
+      "type": "sentenceAssembly",
+      "question": "Он ударил мяч сильно",
+      "correctAnswer": "He hit the ball hard",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "Him",
+          "His",
+          "She"
+        ],
+        [
+          "hit",
+          "kick",
+          "beat",
+          "punch"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "ball",
+          "game",
+          "sport",
+          "round"
+        ],
+        [
+          "hard",
+          "hardly",
+          "strong",
+          "heavy"
+        ]
+      ],
+      "mistakeTags": [
+        "adverbs",
+        "adverb_position"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_09_adverbs/025.mp3"
+    },
+    {
+      "id": "t9_27",
+      "type": "sentenceAssembly",
+      "question": "Я полностью с тобой согласен",
+      "correctAnswer": "I completely agree with you",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "completely",
+          "totally",
+          "really",
+          "fully"
+        ],
+        [
+          "agree",
+          "disagree",
+          "understand",
+          "believe"
+        ],
+        [
+          "with",
+          "to",
+          "for",
+          "about"
+        ],
+        [
+          "you",
+          "him",
+          "her",
+          "them"
+        ]
+      ],
+      "mistakeTags": [
+        "adverbs",
+        "adverb_position"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_09_adverbs/026.mp3"
+    },
+    {
+      "id": "t9_28",
+      "type": "sentenceAssembly",
+      "question": "Она всегда приходит точно вовремя",
+      "correctAnswer": "She always arrives exactly on time",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "They"
+        ],
+        [
+          "always",
+          "never",
+          "often",
+          "usually"
+        ],
+        [
+          "arrives",
+          "comes",
+          "leaves",
+          "starts"
+        ],
+        [
+          "exactly",
+          "almost",
+          "quite",
+          "really"
+        ],
+        [
+          "on",
+          "at",
+          "in",
+          "by"
+        ],
+        [
+          "time",
+          "point",
+          "schedule",
+          "target"
+        ]
+      ],
+      "mistakeTags": [
+        "adverbs",
+        "adverb_position"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_09_adverbs/027.mp3"
+    },
+    {
+      "id": "t9_29",
+      "type": "sentenceAssembly",
+      "question": "Я тоже так чувствую",
+      "correctAnswer": "I feel the same way too",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "feel",
+          "think",
+          "say",
+          "know"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "this"
+        ],
+        [
+          "same",
+          "right",
+          "best",
+          "other"
+        ],
+        [
+          "way",
+          "thing",
+          "idea",
+          "point"
+        ],
+        [
+          "too",
+          "also",
+          "here",
+          "now"
+        ]
+      ],
+      "mistakeTags": [
+        "adverbs",
+        "adverb_position"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_09_adverbs/028.mp3"
+    },
+    {
+      "id": "t9_30",
+      "type": "sentenceAssembly",
+      "question": "Она тоже может говорить по-французски",
+      "correctAnswer": "She can also speak French",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "They"
+        ],
+        [
+          "can",
+          "could",
+          "will",
+          "may"
+        ],
+        [
+          "also",
+          "never",
+          "always",
+          "still"
+        ],
+        [
+          "speak",
+          "read",
+          "write",
+          "learn"
+        ],
+        [
+          "French",
+          "English",
+          "German",
+          "Spanish"
+        ]
+      ],
+      "mistakeTags": [
+        "adverbs",
+        "adverb_position"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_09_adverbs/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionIntermediate09Adverbs",
+  "theoryQuiz": [
+    {
+      "id": "tq_01",
+      "type": "trueFalse",
+      "question": "Наречия отвечают на вопросы: Как? Где? Когда? Насколько?",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Наречия описывают действие, отвечая на эти вопросы."
+    },
+    {
+      "id": "tq_02",
+      "type": "multipleChoice",
+      "question": "Как образуется наречие от прилагательного 'quick'?",
+      "options": [
+        "quickful",
+        "quicken",
+        "quickly",
+        "quicker"
+      ],
+      "correctIndex": 2,
+      "explanation": "Большинство наречий образуется добавлением -ly: quick → quickly."
+    },
+    {
+      "id": "tq_03",
+      "type": "multipleChoice",
+      "question": "Какое наречие является исключением (не добавляет -ly)?",
+      "options": [
+        "slowly",
+        "carefully",
+        "fast",
+        "quietly"
+      ],
+      "correctIndex": 2,
+      "explanation": "Fast — исключение: прилагательное и наречие совпадают (fast → fast)."
+    },
+    {
+      "id": "tq_04",
+      "type": "trueFalse",
+      "question": "Наречие от 'good' — 'goodly'.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "Good — исключение: наречие — well (не goodly)."
+    },
+    {
+      "id": "tq_05",
+      "type": "multipleChoice",
+      "question": "Где обычно стоит наречие в предложении?",
+      "options": [
+        "перед подлежащим",
+        "после глагола или в конце предложения",
+        "только в начале",
+        "перед артиклем"
+      ],
+      "correctIndex": 1,
+      "explanation": "Наречия обычно стоят после глагола или в конце предложения: She sings beautifully."
+    },
+    {
+      "id": "tq_06",
+      "type": "trueFalse",
+      "question": "Слово 'hard' как наречие не меняется: He works hard.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hard — исключение: прилагательное и наречие имеют одинаковую форму."
+    },
+    {
+      "id": "tq_07",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: She speaks English ___.",
+      "options": [
+        "good",
+        "well",
+        "goodly",
+        "betterly"
+      ],
+      "correctIndex": 1,
+      "explanation": "Good — прилагательное, well — наречие: She speaks well."
+    },
+    {
+      "id": "tq_08",
+      "type": "multipleChoice",
+      "question": "Какое наречие образовано от 'careful'?",
+      "options": [
+        "carefuler",
+        "carefully",
+        "carefulness",
+        "careless"
+      ],
+      "correctIndex": 1,
+      "explanation": "Careful + -ly = carefully."
+    },
+    {
+      "id": "tq_09",
+      "type": "trueFalse",
+      "question": "Предложение 'He drives careful' построено правильно.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "Нужно наречие, а не прилагательное: He drives carefully."
+    },
+    {
+      "id": "tq_10",
+      "type": "multipleChoice",
+      "question": "Какое предложение содержит ошибку?",
+      "options": [
+        "She runs fast.",
+        "He speaks quietly.",
+        "They work hardly.",
+        "I did it well."
+      ],
+      "correctIndex": 2,
+      "explanation": "Hardly означает 'едва', а не 'усердно'. Правильно: They work hard."
+    }
+  ]
+}

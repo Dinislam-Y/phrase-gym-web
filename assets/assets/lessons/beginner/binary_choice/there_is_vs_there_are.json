@@ -1,0 +1,400 @@
+{
+  "id": "beginner_bc_06_there_is_are",
+  "title": "There Is vs There Are",
+  "description": "There is или There are? Учимся говорить о том, что есть вокруг нас.",
+  "order": 6,
+  "level": "beginner",
+  "imageUrl": null,
+  "tasks": [
+    {
+      "id": "tit_1",
+      "question": "___ a book on the table.",
+      "optionA": "THERE IS",
+      "optionB": "THERE ARE",
+      "correctIndex": 0,
+      "explanation": "A book — единственное число, поэтому there is.",
+      "tags": [
+        "there_is_vs_there_are",
+        "there_is",
+        "home"
+      ]
+    },
+    {
+      "id": "tit_2",
+      "question": "___ three cats in the garden.",
+      "optionA": "THERE IS",
+      "optionB": "THERE ARE",
+      "correctIndex": 1,
+      "explanation": "Three cats — множественное число, поэтому there are.",
+      "tags": [
+        "there_is_vs_there_are",
+        "there_are",
+        "animals"
+      ]
+    },
+    {
+      "id": "tit_3",
+      "question": "___ a car near the house.",
+      "optionA": "THERE IS",
+      "optionB": "THERE ARE",
+      "correctIndex": 0,
+      "explanation": "A car — единственное число, поэтому there is.",
+      "tags": [
+        "there_is_vs_there_are",
+        "there_is",
+        "transport"
+      ]
+    },
+    {
+      "id": "tit_4",
+      "question": "___ two dogs in the park.",
+      "optionA": "THERE IS",
+      "optionB": "THERE ARE",
+      "correctIndex": 1,
+      "explanation": "Two dogs — множественное число, поэтому there are.",
+      "tags": [
+        "there_is_vs_there_are",
+        "there_are",
+        "animals"
+      ]
+    },
+    {
+      "id": "tit_5",
+      "question": "___ a phone on the desk.",
+      "optionA": "THERE IS",
+      "optionB": "THERE ARE",
+      "correctIndex": 0,
+      "explanation": "A phone — единственное число, поэтому there is.",
+      "tags": [
+        "there_is_vs_there_are",
+        "there_is",
+        "work"
+      ]
+    },
+    {
+      "id": "tit_6",
+      "question": "___ many people in the street.",
+      "optionA": "THERE IS",
+      "optionB": "THERE ARE",
+      "correctIndex": 1,
+      "explanation": "People — множественное число, поэтому there are.",
+      "tags": [
+        "there_is_vs_there_are",
+        "there_are",
+        "city"
+      ]
+    },
+    {
+      "id": "tit_7",
+      "question": "___ a girl in the room.",
+      "optionA": "THERE IS",
+      "optionB": "THERE ARE",
+      "correctIndex": 0,
+      "explanation": "A girl — единственное число, поэтому there is.",
+      "tags": [
+        "there_is_vs_there_are",
+        "there_is",
+        "home"
+      ]
+    },
+    {
+      "id": "tit_8",
+      "question": "___ four chairs at the table.",
+      "optionA": "THERE IS",
+      "optionB": "THERE ARE",
+      "correctIndex": 1,
+      "explanation": "Four chairs — множественное число, поэтому there are.",
+      "tags": [
+        "there_is_vs_there_are",
+        "there_are",
+        "home"
+      ]
+    },
+    {
+      "id": "tit_9",
+      "question": "___ a cup on the shelf.",
+      "optionA": "THERE IS",
+      "optionB": "THERE ARE",
+      "correctIndex": 0,
+      "explanation": "A cup — единственное число, поэтому there is.",
+      "tags": [
+        "there_is_vs_there_are",
+        "there_is",
+        "home"
+      ]
+    },
+    {
+      "id": "tit_10",
+      "question": "___ five students in the class.",
+      "optionA": "THERE IS",
+      "optionB": "THERE ARE",
+      "correctIndex": 1,
+      "explanation": "Five students — множественное число, поэтому there are.",
+      "tags": [
+        "there_is_vs_there_are",
+        "there_are",
+        "school"
+      ]
+    },
+    {
+      "id": "tit_11",
+      "question": "___ some water in the glass.",
+      "optionA": "THERE IS",
+      "optionB": "THERE ARE",
+      "correctIndex": 0,
+      "explanation": "Water — неисчисляемое существительное, поэтому there is.",
+      "tags": [
+        "there_is_vs_there_are",
+        "there_is",
+        "food"
+      ]
+    },
+    {
+      "id": "tit_12",
+      "question": "___ some apples in the basket.",
+      "optionA": "THERE IS",
+      "optionB": "THERE ARE",
+      "correctIndex": 1,
+      "explanation": "Apples — множественное число, поэтому there are.",
+      "tags": [
+        "there_is_vs_there_are",
+        "there_are",
+        "food"
+      ]
+    },
+    {
+      "id": "tit_13",
+      "question": "___ some milk in the fridge.",
+      "optionA": "THERE IS",
+      "optionB": "THERE ARE",
+      "correctIndex": 0,
+      "explanation": "Milk — неисчисляемое существительное, поэтому there is.",
+      "tags": [
+        "there_is_vs_there_are",
+        "there_is",
+        "food"
+      ]
+    },
+    {
+      "id": "tit_14",
+      "question": "___ some books on the floor.",
+      "optionA": "THERE IS",
+      "optionB": "THERE ARE",
+      "correctIndex": 1,
+      "explanation": "Books — множественное число, поэтому there are.",
+      "tags": [
+        "there_is_vs_there_are",
+        "there_are",
+        "home"
+      ]
+    },
+    {
+      "id": "tit_15",
+      "question": "___ a problem with the computer.",
+      "optionA": "THERE IS",
+      "optionB": "THERE ARE",
+      "correctIndex": 0,
+      "explanation": "A problem — единственное число, поэтому there is.",
+      "tags": [
+        "there_is_vs_there_are",
+        "there_is",
+        "work"
+      ]
+    },
+    {
+      "id": "tit_16",
+      "question": "___ some flowers in the garden.",
+      "optionA": "THERE IS",
+      "optionB": "THERE ARE",
+      "correctIndex": 1,
+      "explanation": "Flowers — множественное число, поэтому there are.",
+      "tags": [
+        "there_is_vs_there_are",
+        "there_are",
+        "nature"
+      ]
+    },
+    {
+      "id": "tit_17",
+      "question": "___ some coffee in the cup.",
+      "optionA": "THERE IS",
+      "optionB": "THERE ARE",
+      "correctIndex": 0,
+      "explanation": "Coffee — неисчисляемое существительное, поэтому there is.",
+      "tags": [
+        "there_is_vs_there_are",
+        "there_is",
+        "food"
+      ]
+    },
+    {
+      "id": "tit_18",
+      "question": "___ many trees in the forest.",
+      "optionA": "THERE IS",
+      "optionB": "THERE ARE",
+      "correctIndex": 1,
+      "explanation": "Trees — множественное число, поэтому there are.",
+      "tags": [
+        "there_is_vs_there_are",
+        "there_are",
+        "nature"
+      ]
+    },
+    {
+      "id": "tit_19",
+      "question": "___ some money in my wallet.",
+      "optionA": "THERE IS",
+      "optionB": "THERE ARE",
+      "correctIndex": 0,
+      "explanation": "Money — неисчисляемое существительное, поэтому there is.",
+      "tags": [
+        "there_is_vs_there_are",
+        "there_is",
+        "shopping"
+      ]
+    },
+    {
+      "id": "tit_20",
+      "question": "___ some toys on the bed.",
+      "optionA": "THERE IS",
+      "optionB": "THERE ARE",
+      "correctIndex": 1,
+      "explanation": "Toys — множественное число, поэтому there are.",
+      "tags": [
+        "there_is_vs_there_are",
+        "there_are",
+        "home"
+      ]
+    },
+    {
+      "id": "tit_21",
+      "question": "___ a lot of people here.",
+      "optionA": "THERE IS",
+      "optionB": "THERE ARE",
+      "correctIndex": 1,
+      "explanation": "People — множественное число, поэтому there are.",
+      "tags": [
+        "there_is_vs_there_are",
+        "there_are",
+        "city"
+      ]
+    },
+    {
+      "id": "tit_22",
+      "question": "___ a lot of work today.",
+      "optionA": "THERE IS",
+      "optionB": "THERE ARE",
+      "correctIndex": 0,
+      "explanation": "Work — неисчисляемое существительное, поэтому there is.",
+      "tags": [
+        "there_is_vs_there_are",
+        "there_is",
+        "work"
+      ]
+    },
+    {
+      "id": "tit_23",
+      "question": "___ no time for games.",
+      "optionA": "THERE IS",
+      "optionB": "THERE ARE",
+      "correctIndex": 0,
+      "explanation": "Time — неисчисляемое существительное, поэтому there is.",
+      "tags": [
+        "there_is_vs_there_are",
+        "there_is",
+        "time"
+      ]
+    },
+    {
+      "id": "tit_24",
+      "question": "___ no chairs in the room.",
+      "optionA": "THERE IS",
+      "optionB": "THERE ARE",
+      "correctIndex": 1,
+      "explanation": "Chairs — множественное число, поэтому there are.",
+      "tags": [
+        "there_is_vs_there_are",
+        "there_are",
+        "home"
+      ]
+    },
+    {
+      "id": "tit_25",
+      "question": "___ a lot of noise outside.",
+      "optionA": "THERE IS",
+      "optionB": "THERE ARE",
+      "correctIndex": 0,
+      "explanation": "Noise — неисчисляемое существительное, поэтому there is.",
+      "tags": [
+        "there_is_vs_there_are",
+        "there_is",
+        "city"
+      ]
+    },
+    {
+      "id": "tit_26",
+      "question": "___ many questions about this topic.",
+      "optionA": "THERE IS",
+      "optionB": "THERE ARE",
+      "correctIndex": 1,
+      "explanation": "Questions — множественное число, поэтому there are.",
+      "tags": [
+        "there_is_vs_there_are",
+        "there_are",
+        "school"
+      ]
+    },
+    {
+      "id": "tit_27",
+      "question": "___ no milk in the fridge.",
+      "optionA": "THERE IS",
+      "optionB": "THERE ARE",
+      "correctIndex": 0,
+      "explanation": "Milk — неисчисляемое существительное, поэтому there is.",
+      "tags": [
+        "there_is_vs_there_are",
+        "there_is",
+        "food"
+      ]
+    },
+    {
+      "id": "tit_28",
+      "question": "___ a lot of cars here.",
+      "optionA": "THERE IS",
+      "optionB": "THERE ARE",
+      "correctIndex": 1,
+      "explanation": "Cars — множественное число, поэтому there are.",
+      "tags": [
+        "there_is_vs_there_are",
+        "there_are",
+        "transport"
+      ]
+    },
+    {
+      "id": "tit_29",
+      "question": "___ no bread in the kitchen.",
+      "optionA": "THERE IS",
+      "optionB": "THERE ARE",
+      "correctIndex": 0,
+      "explanation": "Bread — неисчисляемое существительное, поэтому there is.",
+      "tags": [
+        "there_is_vs_there_are",
+        "there_is",
+        "food"
+      ]
+    },
+    {
+      "id": "tit_30",
+      "question": "___ many children in the playground.",
+      "optionA": "THERE IS",
+      "optionB": "THERE ARE",
+      "correctIndex": 1,
+      "explanation": "Children — множественное число, поэтому there are.",
+      "tags": [
+        "there_is_vs_there_are",
+        "there_are",
+        "city"
+      ]
+    }
+  ]
+}

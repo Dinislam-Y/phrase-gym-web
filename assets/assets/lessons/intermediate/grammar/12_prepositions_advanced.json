@@ -1,0 +1,1794 @@
+{
+  "id": "intermediate_12_prepositions_advanced",
+  "title": "Prepositions (In/On/At...)",
+  "description": "Предлоги — это GPS-координаты. Они говорят, ГДЕ (In/On/At) и КУДА (To/Into/Through) все движется.",
+  "order": 12,
+  "level": "intermediate",
+  "imageUrl": "assets/images/lessons/prepositions_advanced.png",
+  "vocabulary": [
+    {
+      "id": "v12_book",
+      "english": "book",
+      "russian": "книга",
+      "partOfSpeech": "noun",
+      "example": "The book is on the table.",
+      "exampleTranslation": "Книга на столе.",
+      "audioPath": "assets/audio/vocabulary/v12_book.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_book.mp3"
+    },
+    {
+      "id": "v12_table",
+      "english": "table",
+      "russian": "стол",
+      "partOfSpeech": "noun",
+      "example": "On the table.",
+      "exampleTranslation": "На столе.",
+      "audioPath": "assets/audio/vocabulary/v12_table.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_table.mp3"
+    },
+    {
+      "id": "v12_room",
+      "english": "room",
+      "russian": "комната",
+      "partOfSpeech": "noun",
+      "example": "In the room.",
+      "exampleTranslation": "В комнате.",
+      "audioPath": "assets/audio/vocabulary/v12_room.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_room.mp3"
+    },
+    {
+      "id": "v12_meet",
+      "english": "meet",
+      "russian": "встречать(ся)",
+      "partOfSpeech": "verb",
+      "example": "We will meet.",
+      "exampleTranslation": "Мы встретимся.",
+      "audioPath": "assets/audio/vocabulary/v12_meet.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_meet.mp3"
+    },
+    {
+      "id": "v12_born",
+      "english": "born",
+      "russian": "родиться",
+      "partOfSpeech": "verb",
+      "example": "He was born.",
+      "exampleTranslation": "Он родился.",
+      "audioPath": "assets/audio/vocabulary/v12_born.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_born.mp3"
+    },
+    {
+      "id": "v12_may",
+      "english": "May",
+      "russian": "май",
+      "partOfSpeech": "noun",
+      "example": "In May.",
+      "exampleTranslation": "В мае.",
+      "audioPath": "assets/audio/vocabulary/v12_may.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_may.mp3"
+    },
+    {
+      "id": "v12_monday",
+      "english": "Monday",
+      "russian": "понедельник",
+      "partOfSpeech": "noun",
+      "example": "On Monday.",
+      "exampleTranslation": "В понедельник.",
+      "audioPath": "assets/audio/vocabulary/v12_monday.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_monday.mp3"
+    },
+    {
+      "id": "v12_cat",
+      "english": "cat",
+      "russian": "кот",
+      "partOfSpeech": "noun",
+      "example": "The cat.",
+      "exampleTranslation": "Кот.",
+      "audioPath": "assets/audio/vocabulary/v12_cat.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_cat.mp3"
+    },
+    {
+      "id": "v12_under",
+      "english": "under",
+      "russian": "под",
+      "partOfSpeech": "preposition",
+      "example": "Under the table.",
+      "exampleTranslation": "Под столом.",
+      "audioPath": "assets/audio/vocabulary/v12_under.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_under.mp3"
+    },
+    {
+      "id": "v12_school",
+      "english": "school",
+      "russian": "школа",
+      "partOfSpeech": "noun",
+      "example": "To school.",
+      "exampleTranslation": "В школу.",
+      "audioPath": "assets/audio/vocabulary/v12_school.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_school.mp3"
+    },
+    {
+      "id": "v12_picture",
+      "english": "picture",
+      "russian": "картина",
+      "partOfSpeech": "noun",
+      "example": "The picture.",
+      "exampleTranslation": "Картина.",
+      "audioPath": "assets/audio/vocabulary/v12_picture.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_picture.mp3"
+    },
+    {
+      "id": "v12_wall",
+      "english": "wall",
+      "russian": "стена",
+      "partOfSpeech": "noun",
+      "example": "On the wall.",
+      "exampleTranslation": "На стене.",
+      "audioPath": "assets/audio/vocabulary/v12_wall.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_wall.mp3"
+    },
+    {
+      "id": "v12_night",
+      "english": "night",
+      "russian": "ночь",
+      "partOfSpeech": "noun",
+      "example": "At night.",
+      "exampleTranslation": "Ночью.",
+      "audioPath": "assets/audio/vocabulary/v12_night.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_night.mp3"
+    },
+    {
+      "id": "v12_look",
+      "english": "look",
+      "russian": "смотреть",
+      "partOfSpeech": "verb",
+      "example": "Look at me.",
+      "exampleTranslation": "Посмотри на меня.",
+      "audioPath": "assets/audio/vocabulary/v12_look.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_look.mp3"
+    },
+    {
+      "id": "v12_between",
+      "english": "between",
+      "russian": "между",
+      "partOfSpeech": "preposition",
+      "example": "Between two houses.",
+      "exampleTranslation": "Между двумя домами.",
+      "audioPath": "assets/audio/vocabulary/v12_between.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_between.mp3"
+    },
+    {
+      "id": "v12_house",
+      "english": "house",
+      "russian": "дом",
+      "partOfSpeech": "noun",
+      "example": "Two houses.",
+      "exampleTranslation": "Два дома.",
+      "audioPath": "assets/audio/vocabulary/v12_house.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_house.mp3"
+    },
+    {
+      "id": "v12_out",
+      "english": "out",
+      "russian": "из",
+      "partOfSpeech": "preposition",
+      "example": "Out of the room.",
+      "exampleTranslation": "Из комнаты.",
+      "audioPath": "assets/audio/vocabulary/v12_out.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_out.mp3"
+    },
+    {
+      "id": "v12_minute",
+      "english": "minute",
+      "russian": "минута",
+      "partOfSpeech": "noun",
+      "example": "In ten minutes.",
+      "exampleTranslation": "Через десять минут.",
+      "audioPath": "assets/audio/vocabulary/v12_minute.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_minute.mp3"
+    },
+    {
+      "id": "v12_sit",
+      "english": "sit",
+      "russian": "сидеть",
+      "partOfSpeech": "verb",
+      "example": "She sits.",
+      "exampleTranslation": "Она сидит.",
+      "audioPath": "assets/audio/vocabulary/v12_sit.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_sit.mp3"
+    },
+    {
+      "id": "v12_behind",
+      "english": "behind",
+      "russian": "сзади (за)",
+      "partOfSpeech": "preposition",
+      "example": "Behind me.",
+      "exampleTranslation": "За мной.",
+      "audioPath": "assets/audio/vocabulary/v12_behind.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_behind.mp3"
+    },
+    {
+      "id": "v12_fly",
+      "english": "fly",
+      "russian": "летать",
+      "partOfSpeech": "verb",
+      "example": "We fly.",
+      "exampleTranslation": "Мы летим.",
+      "audioPath": "assets/audio/vocabulary/v12_fly.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_fly.mp3"
+    },
+    {
+      "id": "v12_pocket",
+      "english": "pocket",
+      "russian": "карман",
+      "partOfSpeech": "noun",
+      "example": "In the pocket.",
+      "exampleTranslation": "В кармане.",
+      "audioPath": "assets/audio/vocabulary/v12_pocket.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_pocket.mp3"
+    },
+    {
+      "id": "v12_bird",
+      "english": "bird",
+      "russian": "птица",
+      "partOfSpeech": "noun",
+      "example": "The bird.",
+      "exampleTranslation": "Птица.",
+      "audioPath": "assets/audio/vocabulary/v12_bird.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_bird.mp3"
+    },
+    {
+      "id": "v12_tree",
+      "english": "tree",
+      "russian": "дерево",
+      "partOfSpeech": "noun",
+      "example": "In the tree.",
+      "exampleTranslation": "На дереве.",
+      "audioPath": "assets/audio/vocabulary/v12_tree.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_tree.mp3"
+    },
+    {
+      "id": "v12_wait",
+      "english": "wait",
+      "russian": "ждать",
+      "partOfSpeech": "verb",
+      "example": "I wait.",
+      "exampleTranslation": "Я жду.",
+      "audioPath": "assets/audio/vocabulary/v12_wait.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_wait.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "Prepositions",
+    "subtitle": "Представьте пирамиду. Сверху (острая точка) — AT (Точное место/время). В середине (плоскость) — ON (Улица/День). Внизу (объемное пространство) — IN (Город/Месяц).",
+    "construction": {
+      "formula": "Preposition + Noun",
+      "rules": [
+        {
+          "word": "AT (Точка)",
+          "description": "Точное время (at 5 PM). Точное место (at home, at the door). Конкретная точка на карте или часах."
+        },
+        {
+          "word": "ON (Поверхность/День)",
+          "description": "Дни недели (on Monday). Даты (on May 1st). Поверхности (on the table, on the floor)."
+        },
+        {
+          "word": "IN (Объем)",
+          "description": "Долгие периоды (in 2024, in Summer). Пространства (in the room, in London, in a box)."
+        },
+        {
+          "word": "Направление",
+          "description": "TO (к цели), INTО (внутрь), OUT OF (наружу)."
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "explore",
+        "color": "blue",
+        "title": "Точка или Объем?",
+        "description": "I am AT the cinema (как точка на карте). I am IN the cinema (внутри здания).",
+        "example": {
+          "english": "Meet me at the station.",
+          "russian": "Встретимся на станции (точка встречи)."
+        }
+      },
+      {
+        "icon": "schedule",
+        "color": "green",
+        "title": "Время",
+        "description": "At 5:00. On Friday. In July.",
+        "example": {
+          "english": "See you on Monday.",
+          "russian": "Увидимся в понедельник."
+        }
+      },
+      {
+        "icon": "bolt",
+        "color": "purple",
+        "title": "Движение",
+        "description": "Go TO school. Walk INTO the room.",
+        "example": {
+          "english": "He jumped into the water.",
+          "russian": "Он прыгнул в (внутрь) воду."
+        }
+      }
+    ],
+    "markers": [
+      "in",
+      "on",
+      "at",
+      "to",
+      "into",
+      "from",
+      "under",
+      "behind",
+      "between"
+    ]
+  },
+  "tasks": [
+    {
+      "id": "t12_1",
+      "type": "sentenceAssembly",
+      "question": "Книга на столе",
+      "correctAnswer": "The book is on the table",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "An",
+          "This"
+        ],
+        [
+          "book",
+          "text",
+          "paper",
+          "novel"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "be"
+        ],
+        [
+          "on",
+          "in",
+          "at",
+          "to"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "table",
+          "desk",
+          "chair",
+          "floor"
+        ]
+      ],
+      "mistakeTags": [
+        "prepositions",
+        "in_on_at"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_12_prepositions_advanced/000.mp3"
+    },
+    {
+      "id": "t12_2",
+      "type": "sentenceAssembly",
+      "question": "Я в комнате (внутри)",
+      "correctAnswer": "I am in the room",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "My",
+          "Am"
+        ],
+        [
+          "am",
+          "is",
+          "are",
+          "be"
+        ],
+        [
+          "in",
+          "on",
+          "at",
+          "to"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "room",
+          "house",
+          "box",
+          "place"
+        ]
+      ],
+      "mistakeTags": [
+        "prepositions",
+        "in_on_at"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_12_prepositions_advanced/001.mp3"
+    },
+    {
+      "id": "t12_3",
+      "type": "sentenceAssembly",
+      "question": "Мы встретимся в 5 часов (точка времени)",
+      "correctAnswer": "We will meet at five o'clock",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "Us",
+          "Our",
+          "They"
+        ],
+        [
+          "will",
+          "would",
+          "do",
+          "are"
+        ],
+        [
+          "meet",
+          "see",
+          "meeting",
+          "go"
+        ],
+        [
+          "at",
+          "in",
+          "on",
+          "to"
+        ],
+        [
+          "five",
+          "5",
+          "fifth",
+          "fives"
+        ],
+        [
+          "o'clock",
+          "hours",
+          "time",
+          "clock"
+        ]
+      ],
+      "mistakeTags": [
+        "prepositions",
+        "in_on_at"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_12_prepositions_advanced/002.mp3"
+    },
+    {
+      "id": "t12_4",
+      "type": "sentenceAssembly",
+      "question": "Он родился в мае (месяц - IN)",
+      "correctAnswer": "He was born in May",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "Him",
+          "His",
+          "She"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "be"
+        ],
+        [
+          "born",
+          "birth",
+          "bear",
+          "live"
+        ],
+        [
+          "in",
+          "on",
+          "at",
+          "to"
+        ],
+        [
+          "May",
+          "June",
+          "Monday",
+          "spring"
+        ]
+      ],
+      "mistakeTags": [
+        "prepositions",
+        "in_on_at"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_12_prepositions_advanced/003.mp3"
+    },
+    {
+      "id": "t12_5",
+      "type": "sentenceAssembly",
+      "question": "Увидимся в понедельник (день - ON)",
+      "correctAnswer": "See you on Monday",
+      "options": [],
+      "variants": [
+        [
+          "See",
+          "Look",
+          "Watch",
+          "Meet"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "she"
+        ],
+        [
+          "on",
+          "in",
+          "at",
+          "to"
+        ],
+        [
+          "Monday",
+          "day",
+          "week",
+          "noon"
+        ]
+      ],
+      "mistakeTags": [
+        "prepositions",
+        "in_on_at"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_12_prepositions_advanced/004.mp3"
+    },
+    {
+      "id": "t12_6",
+      "type": "sentenceAssembly",
+      "question": "Кот под столом",
+      "correctAnswer": "The cat is under the table",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "An",
+          "One"
+        ],
+        [
+          "cat",
+          "dog",
+          "pet",
+          "animal"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "be"
+        ],
+        [
+          "under",
+          "below",
+          "down",
+          "on"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "table",
+          "desk",
+          "chair",
+          "floor"
+        ]
+      ],
+      "mistakeTags": [
+        "prepositions",
+        "in_on_at"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_12_prepositions_advanced/005.mp3"
+    },
+    {
+      "id": "t12_7",
+      "type": "sentenceAssembly",
+      "question": "Она идет в школу (направление)",
+      "correctAnswer": "She goes to school",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "Her",
+          "Hers",
+          "He"
+        ],
+        [
+          "goes",
+          "go",
+          "going",
+          "went"
+        ],
+        [
+          "to",
+          "in",
+          "at",
+          "on"
+        ],
+        [
+          "school",
+          "class",
+          "lesson",
+          "home"
+        ]
+      ],
+      "mistakeTags": [
+        "prepositions",
+        "in_on_at"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_12_prepositions_advanced/006.mp3"
+    },
+    {
+      "id": "t12_8",
+      "type": "sentenceAssembly",
+      "question": "Я живу в Лондоне",
+      "correctAnswer": "I live in London",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "My",
+          "Am"
+        ],
+        [
+          "live",
+          "lives",
+          "living",
+          "life"
+        ],
+        [
+          "in",
+          "at",
+          "on",
+          "to"
+        ],
+        [
+          "London",
+          "city",
+          "place",
+          "town"
+        ]
+      ],
+      "mistakeTags": [
+        "prepositions",
+        "in_on_at"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_12_prepositions_advanced/007.mp3"
+    },
+    {
+      "id": "t12_9",
+      "type": "sentenceAssembly",
+      "question": "Картина на стене",
+      "correctAnswer": "The picture is on the wall",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "An",
+          "This"
+        ],
+        [
+          "picture",
+          "photo",
+          "image",
+          "art"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "be"
+        ],
+        [
+          "on",
+          "in",
+          "at",
+          "to"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "wall",
+          "floor",
+          "door",
+          "room"
+        ]
+      ],
+      "mistakeTags": [
+        "prepositions",
+        "in_on_at"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_12_prepositions_advanced/008.mp3"
+    },
+    {
+      "id": "t12_10",
+      "type": "sentenceAssembly",
+      "question": "Он пришел домой поздно ночью (at night - искл)",
+      "correctAnswer": "He came home late at night",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "Him",
+          "His",
+          "She"
+        ],
+        [
+          "came",
+          "come",
+          "coming",
+          "go"
+        ],
+        [
+          "home",
+          "house",
+          "place",
+          "back"
+        ],
+        [
+          "late",
+          "later",
+          "time",
+          "slow"
+        ],
+        [
+          "at",
+          "in",
+          "on",
+          "to"
+        ],
+        [
+          "night",
+          "evening",
+          "morning",
+          "day"
+        ]
+      ],
+      "mistakeTags": [
+        "prepositions",
+        "in_on_at"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_12_prepositions_advanced/009.mp3"
+    },
+    {
+      "id": "t12_11",
+      "type": "sentenceAssembly",
+      "question": "Посмотри на меня сейчас",
+      "correctAnswer": "Look at me now please",
+      "options": [],
+      "variants": [
+        [
+          "Look",
+          "Come",
+          "Talk",
+          "Listen"
+        ],
+        [
+          "at",
+          "to",
+          "for",
+          "with"
+        ],
+        [
+          "me",
+          "him",
+          "her",
+          "them"
+        ],
+        [
+          "now",
+          "here",
+          "again",
+          "please"
+        ],
+        [
+          "please",
+          "soon",
+          "now",
+          "today"
+        ]
+      ],
+      "mistakeTags": [
+        "prepositions",
+        "in_on_at"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_12_prepositions_advanced/010.mp3"
+    },
+    {
+      "id": "t12_12",
+      "type": "sentenceAssembly",
+      "question": "Это между двумя домами",
+      "correctAnswer": "It is between two houses",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "He",
+          "She",
+          "This"
+        ],
+        [
+          "is",
+          "was",
+          "sits",
+          "stands"
+        ],
+        [
+          "between",
+          "behind",
+          "near",
+          "beside"
+        ],
+        [
+          "two",
+          "the",
+          "some",
+          "old"
+        ],
+        [
+          "houses",
+          "trees",
+          "shops",
+          "rooms"
+        ]
+      ],
+      "mistakeTags": [
+        "prepositions",
+        "in_on_at"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_12_prepositions_advanced/011.mp3"
+    },
+    {
+      "id": "t12_13",
+      "type": "sentenceAssembly",
+      "question": "Он вышел из (out of) комнаты",
+      "correctAnswer": "He went out of the room",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "Him",
+          "His",
+          "She"
+        ],
+        [
+          "went",
+          "go",
+          "gone",
+          "walk"
+        ],
+        [
+          "out",
+          "outside",
+          "off",
+          "away"
+        ],
+        [
+          "of",
+          "off",
+          "from",
+          "for"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "room",
+          "house",
+          "place",
+          "box"
+        ]
+      ],
+      "mistakeTags": [
+        "prepositions",
+        "in_on_at"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_12_prepositions_advanced/012.mp3"
+    },
+    {
+      "id": "t12_14",
+      "type": "sentenceAssembly",
+      "question": "Я буду там через 10 минут (внутри 10 минут)",
+      "correctAnswer": "I will be there in ten minutes",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "My",
+          "Am"
+        ],
+        [
+          "will",
+          "would",
+          "do",
+          "am"
+        ],
+        [
+          "be",
+          "been",
+          "is",
+          "was"
+        ],
+        [
+          "there",
+          "here",
+          "place",
+          "where"
+        ],
+        [
+          "in",
+          "at",
+          "on",
+          "for"
+        ],
+        [
+          "ten",
+          "10",
+          "tenth",
+          "minute"
+        ],
+        [
+          "minutes",
+          "time",
+          "hour",
+          "sec"
+        ]
+      ],
+      "mistakeTags": [
+        "prepositions",
+        "in_on_at"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_12_prepositions_advanced/013.mp3"
+    },
+    {
+      "id": "t12_15",
+      "type": "sentenceAssembly",
+      "question": "Она сидит позади меня",
+      "correctAnswer": "She sits behind me",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "Her",
+          "Hers",
+          "He"
+        ],
+        [
+          "sits",
+          "sit",
+          "sitting",
+          "stand"
+        ],
+        [
+          "behind",
+          "back",
+          "after",
+          "next"
+        ],
+        [
+          "me",
+          "I",
+          "my",
+          "mine"
+        ]
+      ],
+      "mistakeTags": [
+        "prepositions",
+        "in_on_at"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_12_prepositions_advanced/014.mp3"
+    },
+    {
+      "id": "t12_16",
+      "type": "sentenceAssembly",
+      "question": "Мы летим в Париж",
+      "correctAnswer": "We fly to Paris",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "Us",
+          "Our",
+          "They"
+        ],
+        [
+          "fly",
+          "flying",
+          "flies",
+          "go"
+        ],
+        [
+          "to",
+          "in",
+          "at",
+          "on"
+        ],
+        [
+          "Paris",
+          "France",
+          "city",
+          "place"
+        ]
+      ],
+      "mistakeTags": [
+        "prepositions",
+        "in_on_at"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_12_prepositions_advanced/015.mp3"
+    },
+    {
+      "id": "t12_17",
+      "type": "sentenceAssembly",
+      "question": "Ключи в кармане",
+      "correctAnswer": "The keys are in the pocket",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "An",
+          "This"
+        ],
+        [
+          "keys",
+          "key",
+          "lock",
+          "doors"
+        ],
+        [
+          "are",
+          "is",
+          "was",
+          "be"
+        ],
+        [
+          "in",
+          "on",
+          "at",
+          "to"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "pocket",
+          "bag",
+          "box",
+          "hole"
+        ]
+      ],
+      "mistakeTags": [
+        "prepositions",
+        "in_on_at"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_12_prepositions_advanced/016.mp3"
+    },
+    {
+      "id": "t12_18",
+      "type": "sentenceAssembly",
+      "question": "Птица на дереве (в ветках)",
+      "correctAnswer": "The bird is in the tree",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "An",
+          "One"
+        ],
+        [
+          "bird",
+          "fly",
+          "animal",
+          "pet"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "be"
+        ],
+        [
+          "in",
+          "on",
+          "at",
+          "to"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "tree",
+          "wood",
+          "plant",
+          "forest"
+        ]
+      ],
+      "mistakeTags": [
+        "prepositions",
+        "in_on_at"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_12_prepositions_advanced/017.mp3"
+    },
+    {
+      "id": "t12_19",
+      "type": "sentenceAssembly",
+      "question": "Я жду на автобусной остановке (точка)",
+      "correctAnswer": "I wait at the bus stop",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "My",
+          "Am"
+        ],
+        [
+          "wait",
+          "waiting",
+          "stay",
+          "stand"
+        ],
+        [
+          "at",
+          "in",
+          "on",
+          "to"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "bus",
+          "car",
+          "train",
+          "road"
+        ],
+        [
+          "stop",
+          "station",
+          "place",
+          "stand"
+        ]
+      ],
+      "mistakeTags": [
+        "prepositions",
+        "in_on_at"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_12_prepositions_advanced/018.mp3"
+    },
+    {
+      "id": "t12_20",
+      "type": "sentenceAssembly",
+      "question": "Положи это в коробку (внутрь - into)",
+      "correctAnswer": "Put it into the box",
+      "options": [],
+      "variants": [
+        [
+          "Put",
+          "Place",
+          "Set",
+          "Lay"
+        ],
+        [
+          "it",
+          "this",
+          "that",
+          "there"
+        ],
+        [
+          "into",
+          "in",
+          "to",
+          "on"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "box",
+          "bag",
+          "case",
+          "room"
+        ]
+      ],
+      "mistakeTags": [
+        "prepositions",
+        "in_on_at"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_12_prepositions_advanced/019.mp3"
+    },
+    {
+      "id": "t12_21",
+      "type": "sentenceAssembly",
+      "question": "Мы говорили о погоде",
+      "correctAnswer": "We talked about the weather",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "Us",
+          "Our",
+          "They"
+        ],
+        [
+          "talked",
+          "talk",
+          "speak",
+          "say"
+        ],
+        [
+          "about",
+          "on",
+          "for",
+          "with"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "weather",
+          "rain",
+          "sun",
+          "sky"
+        ]
+      ],
+      "mistakeTags": [
+        "prepositions",
+        "in_on_at"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_12_prepositions_advanced/020.mp3"
+    },
+    {
+      "id": "t12_22",
+      "type": "sentenceAssembly",
+      "question": "Иди по (вдоль) улице",
+      "correctAnswer": "Walk along the street",
+      "options": [],
+      "variants": [
+        [
+          "Walk",
+          "Go",
+          "Run",
+          "Come"
+        ],
+        [
+          "along",
+          "long",
+          "across",
+          "through"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "street",
+          "road",
+          "way",
+          "path"
+        ]
+      ],
+      "mistakeTags": [
+        "prepositions",
+        "in_on_at"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_12_prepositions_advanced/021.mp3"
+    },
+    {
+      "id": "t12_23",
+      "type": "sentenceAssembly",
+      "question": "Прыгай через забор (сверху)",
+      "correctAnswer": "Jump over the fence",
+      "options": [],
+      "variants": [
+        [
+          "Jump",
+          "Run",
+          "Go",
+          "Fly"
+        ],
+        [
+          "over",
+          "above",
+          "on",
+          "up"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "fence",
+          "wall",
+          "gate",
+          "door"
+        ]
+      ],
+      "mistakeTags": [
+        "prepositions",
+        "in_on_at"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_12_prepositions_advanced/022.mp3"
+    },
+    {
+      "id": "t12_24",
+      "type": "sentenceAssembly",
+      "question": "Он рядом со мной (next to)",
+      "correctAnswer": "He is next to me",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "Him",
+          "His",
+          "She"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "be"
+        ],
+        [
+          "next",
+          "near",
+          "close",
+          "by"
+        ],
+        [
+          "to",
+          "of",
+          "in",
+          "at"
+        ],
+        [
+          "me",
+          "I",
+          "my",
+          "mine"
+        ]
+      ],
+      "mistakeTags": [
+        "prepositions",
+        "in_on_at"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_12_prepositions_advanced/023.mp3"
+    },
+    {
+      "id": "t12_25",
+      "type": "sentenceAssembly",
+      "question": "Это подарок для тебя",
+      "correctAnswer": "This is a gift for you",
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "That",
+          "It",
+          "There"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "be"
+        ],
+        [
+          "a",
+          "the",
+          "an",
+          "one"
+        ],
+        [
+          "gift",
+          "present",
+          "box",
+          "surprise"
+        ],
+        [
+          "for",
+          "to",
+          "at",
+          "in"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "me"
+        ]
+      ],
+      "mistakeTags": [
+        "prepositions",
+        "in_on_at"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_12_prepositions_advanced/024.mp3"
+    },
+    {
+      "id": "t12_26",
+      "type": "sentenceAssembly",
+      "question": "Я из России (происхождение)",
+      "correctAnswer": "I am from Russia",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "My",
+          "Am"
+        ],
+        [
+          "am",
+          "is",
+          "are",
+          "be"
+        ],
+        [
+          "from",
+          "of",
+          "in",
+          "at"
+        ],
+        [
+          "Russia",
+          "country",
+          "place",
+          "home"
+        ]
+      ],
+      "mistakeTags": [
+        "prepositions",
+        "in_on_at"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_12_prepositions_advanced/025.mp3"
+    },
+    {
+      "id": "t12_27",
+      "type": "sentenceAssembly",
+      "question": "Мы отдыхаем на выходных",
+      "correctAnswer": "We rest at the weekend",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "I",
+          "She"
+        ],
+        [
+          "rest",
+          "work",
+          "play",
+          "cook"
+        ],
+        [
+          "at",
+          "on",
+          "in",
+          "by"
+        ],
+        [
+          "the",
+          "a",
+          "this",
+          "each"
+        ],
+        [
+          "weekend",
+          "morning",
+          "evening",
+          "holiday"
+        ]
+      ],
+      "mistakeTags": [
+        "prepositions",
+        "in_on_at"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_12_prepositions_advanced/026.mp3"
+    },
+    {
+      "id": "t12_28",
+      "type": "sentenceAssembly",
+      "question": "С понедельника по пятницу",
+      "correctAnswer": "From Monday to Friday",
+      "options": [],
+      "variants": [
+        [
+          "From",
+          "Of",
+          "Since",
+          "For"
+        ],
+        [
+          "Monday",
+          "day",
+          "week",
+          "month"
+        ],
+        [
+          "to",
+          "till",
+          "until",
+          "at"
+        ],
+        [
+          "Friday",
+          "weekend",
+          "day",
+          "week"
+        ]
+      ],
+      "mistakeTags": [
+        "prepositions",
+        "in_on_at"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_12_prepositions_advanced/027.mp3"
+    },
+    {
+      "id": "t12_29",
+      "type": "sentenceAssembly",
+      "question": "Перед домом (in front of)",
+      "correctAnswer": "In front of the house",
+      "options": [],
+      "variants": [
+        [
+          "In",
+          "At",
+          "On",
+          "To"
+        ],
+        [
+          "front",
+          "back",
+          "side",
+          "face"
+        ],
+        [
+          "of",
+          "off",
+          "from",
+          "for"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "house",
+          "home",
+          "building",
+          "place"
+        ]
+      ],
+      "mistakeTags": [
+        "prepositions",
+        "in_on_at"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_12_prepositions_advanced/028.mp3"
+    },
+    {
+      "id": "t12_30",
+      "type": "sentenceAssembly",
+      "question": "Я пью чай без сахара",
+      "correctAnswer": "I drink tea without sugar",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "drink",
+          "like",
+          "want",
+          "take"
+        ],
+        [
+          "tea",
+          "coffee",
+          "milk",
+          "water"
+        ],
+        [
+          "without",
+          "with",
+          "and",
+          "plus"
+        ],
+        [
+          "sugar",
+          "milk",
+          "cream",
+          "ice"
+        ]
+      ],
+      "mistakeTags": [
+        "prepositions",
+        "in_on_at"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_12_prepositions_advanced/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionIntermediate12PrepositionsAdvanced",
+  "theoryQuiz": [
+    {
+      "id": "tq_01",
+      "type": "trueFalse",
+      "question": "Предлог 'at' используется для обозначения точки: at school, at 3 PM.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "At указывает на конкретную точку в пространстве или времени."
+    },
+    {
+      "id": "tq_02",
+      "type": "multipleChoice",
+      "question": "Какой предлог используется с поверхностями?",
+      "options": [
+        "at",
+        "in",
+        "on",
+        "into"
+      ],
+      "correctIndex": 2,
+      "explanation": "On используется для поверхностей: on the wall, on the table."
+    },
+    {
+      "id": "tq_03",
+      "type": "multipleChoice",
+      "question": "Какой предлог используется со словом 'Monday'?",
+      "options": [
+        "at",
+        "in",
+        "on",
+        "by"
+      ],
+      "correctIndex": 2,
+      "explanation": "С днями недели используется on: on Monday, on Friday."
+    },
+    {
+      "id": "tq_04",
+      "type": "trueFalse",
+      "question": "'In' используется для объёмов и периодов: in the car, in May.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "In указывает на нахождение внутри пространства или периода времени."
+    },
+    {
+      "id": "tq_05",
+      "type": "multipleChoice",
+      "question": "Какой предлог означает движение внутрь?",
+      "options": [
+        "in",
+        "into",
+        "on",
+        "at"
+      ],
+      "correctIndex": 1,
+      "explanation": "Into обозначает движение внутрь: He went into the room."
+    },
+    {
+      "id": "tq_06",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: She is ___ the bus.",
+      "options": [
+        "at",
+        "in",
+        "on",
+        "into"
+      ],
+      "correctIndex": 2,
+      "explanation": "С общественным транспортом используется on: on the bus."
+    },
+    {
+      "id": "tq_07",
+      "type": "trueFalse",
+      "question": "'Through' означает движение сквозь что-то.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Through — сквозь: He walked through the forest."
+    },
+    {
+      "id": "tq_08",
+      "type": "multipleChoice",
+      "question": "Какой предлог правильный: ___ 2 hours (через 2 часа)?",
+      "options": [
+        "at",
+        "on",
+        "in",
+        "for"
+      ],
+      "correctIndex": 2,
+      "explanation": "In используется для периода через который: in 2 hours — через 2 часа."
+    },
+    {
+      "id": "tq_09",
+      "type": "trueFalse",
+      "question": "'Out of' означает движение наружу.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Out of — движение наружу: She came out of the building."
+    },
+    {
+      "id": "tq_10",
+      "type": "multipleChoice",
+      "question": "Какое предложение содержит ошибку?",
+      "options": [
+        "He is at school.",
+        "The picture is on the wall.",
+        "She arrived at Monday.",
+        "We live in a big city."
+      ],
+      "correctIndex": 2,
+      "explanation": "С днями недели используется on, не at: She arrived on Monday."
+    }
+  ]
+}

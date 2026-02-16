@@ -1,0 +1,1991 @@
+{
+  "id": "intermediate_10_used_to",
+  "title": "Used to",
+  "description": "Привычки в прошлом. Конструкция Used to, Be used to и Get used to. Разница между 'Раньше делал' и 'Привык делать'.",
+  "order": 10,
+  "level": "intermediate",
+  "imageUrl": "assets/images/lessons/used_to.png",
+  "vocabulary": [
+    {
+      "id": "v10_live",
+      "english": "live",
+      "russian": "жить",
+      "partOfSpeech": "verb",
+      "example": "Used to live",
+      "exampleTranslation": "Раньше жил.",
+      "audioPath": "assets/audio/vocabulary/v10_live.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_live.mp3"
+    },
+    {
+      "id": "v10_paris",
+      "english": "Paris",
+      "russian": "Париж",
+      "partOfSpeech": "noun",
+      "example": "In Paris.",
+      "exampleTranslation": "В Париже.",
+      "audioPath": "assets/audio/vocabulary/v10_paris.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_paris.mp3"
+    },
+    {
+      "id": "v10_get",
+      "english": "get",
+      "russian": "получать (становиться)",
+      "partOfSpeech": "verb",
+      "example": "Getting used to.",
+      "exampleTranslation": "Привыкаю.",
+      "audioPath": "assets/audio/vocabulary/v10_get.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_get.mp3"
+    },
+    {
+      "id": "v10_up",
+      "english": "up",
+      "russian": "вверх (вставать)",
+      "partOfSpeech": "preposition",
+      "example": "Getting up.",
+      "exampleTranslation": "Вставать.",
+      "audioPath": "assets/audio/vocabulary/v10_up.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_up.mp3"
+    },
+    {
+      "id": "v10_early",
+      "english": "early",
+      "russian": "рано",
+      "partOfSpeech": "adverb",
+      "example": "Up early.",
+      "exampleTranslation": "Вставать рано.",
+      "audioPath": "assets/audio/vocabulary/v10_early.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_early.mp3"
+    },
+    {
+      "id": "v10_spicy",
+      "english": "spicy",
+      "russian": "острый",
+      "partOfSpeech": "adjective",
+      "example": "Spicy food.",
+      "exampleTranslation": "Острая еда.",
+      "audioPath": "assets/audio/vocabulary/v10_spicy.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_spicy.mp3"
+    },
+    {
+      "id": "v10_food",
+      "english": "food",
+      "russian": "еда",
+      "partOfSpeech": "noun",
+      "example": "Spicy food.",
+      "exampleTranslation": "Острая еда.",
+      "audioPath": "assets/audio/vocabulary/v10_food.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_food.mp3"
+    },
+    {
+      "id": "v10_new",
+      "english": "new",
+      "russian": "новый",
+      "partOfSpeech": "adjective",
+      "example": "New house.",
+      "exampleTranslation": "Новый дом.",
+      "audioPath": "assets/audio/vocabulary/v10_new.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_new.mp3"
+    },
+    {
+      "id": "v10_house",
+      "english": "house",
+      "russian": "дом",
+      "partOfSpeech": "noun",
+      "example": "New house.",
+      "exampleTranslation": "Новый дом.",
+      "audioPath": "assets/audio/vocabulary/v10_house.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_house.mp3"
+    },
+    {
+      "id": "v10_have",
+      "english": "have",
+      "russian": "иметь",
+      "partOfSpeech": "verb",
+      "example": "Used to have.",
+      "exampleTranslation": "Раньше имел.",
+      "audioPath": "assets/audio/vocabulary/v10_have.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_have.mp3"
+    },
+    {
+      "id": "v10_hair",
+      "english": "hair",
+      "russian": "волосы",
+      "partOfSpeech": "noun",
+      "example": "Long hair.",
+      "exampleTranslation": "Длинные волосы.",
+      "audioPath": "assets/audio/vocabulary/v10_hair.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_hair.mp3"
+    },
+    {
+      "id": "v10_like",
+      "english": "like",
+      "russian": "нравиться",
+      "partOfSpeech": "verb",
+      "example": "Use to like.",
+      "exampleTranslation": "Любила.",
+      "audioPath": "assets/audio/vocabulary/v10_like.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_like.mp3"
+    },
+    {
+      "id": "v10_coffee",
+      "english": "coffee",
+      "russian": "кофе",
+      "partOfSpeech": "noun",
+      "example": "Like coffee.",
+      "exampleTranslation": "Любить кофе.",
+      "audioPath": "assets/audio/vocabulary/v10_coffee.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_coffee.mp3"
+    },
+    {
+      "id": "v10_drive",
+      "english": "drive",
+      "russian": "водить",
+      "partOfSpeech": "verb",
+      "example": "Got used to driving.",
+      "exampleTranslation": "Привык к вождению.",
+      "audioPath": "assets/audio/vocabulary/v10_drive.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_drive.mp3"
+    },
+    {
+      "id": "v10_smoke",
+      "english": "smoke",
+      "russian": "курить",
+      "partOfSpeech": "verb",
+      "example": "Used to smoke.",
+      "exampleTranslation": "Раньше курил.",
+      "audioPath": "assets/audio/vocabulary/v10_smoke.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_smoke.mp3"
+    },
+    {
+      "id": "v10_night",
+      "english": "night",
+      "russian": "ночь",
+      "partOfSpeech": "noun",
+      "example": "At night.",
+      "exampleTranslation": "По ночам.",
+      "audioPath": "assets/audio/vocabulary/v10_night.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_night.mp3"
+    },
+    {
+      "id": "v10_noise",
+      "english": "noise",
+      "russian": "шум",
+      "partOfSpeech": "noun",
+      "example": "The noise.",
+      "exampleTranslation": "Шум.",
+      "audioPath": "assets/audio/vocabulary/v10_noise.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_noise.mp3"
+    },
+    {
+      "id": "v10_park",
+      "english": "park",
+      "russian": "парк",
+      "partOfSpeech": "noun",
+      "example": "A park.",
+      "exampleTranslation": "Парк.",
+      "audioPath": "assets/audio/vocabulary/v10_park.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_park.mp3"
+    },
+    {
+      "id": "v10_forest",
+      "english": "forest",
+      "russian": "лес",
+      "partOfSpeech": "noun",
+      "example": "A forest.",
+      "exampleTranslation": "Лес.",
+      "audioPath": "assets/audio/vocabulary/v10_forest.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_forest.mp3"
+    },
+    {
+      "id": "v10_alone",
+      "english": "alone",
+      "russian": "один (одинокий)",
+      "partOfSpeech": "adverb",
+      "example": "Living alone.",
+      "exampleTranslation": "Жить один.",
+      "audioPath": "assets/audio/vocabulary/v10_alone.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_alone.mp3"
+    },
+    {
+      "id": "v10_climate",
+      "english": "climate",
+      "russian": "климат",
+      "partOfSpeech": "noun",
+      "example": "The climate.",
+      "exampleTranslation": "Климат.",
+      "audioPath": "assets/audio/vocabulary/v10_climate.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_climate.mp3"
+    },
+    {
+      "id": "v10_play",
+      "english": "play",
+      "russian": "играть",
+      "partOfSpeech": "verb",
+      "example": "Play the guitar.",
+      "exampleTranslation": "Играть на гитаре.",
+      "audioPath": "assets/audio/vocabulary/v10_play.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_play.mp3"
+    },
+    {
+      "id": "v10_guitar",
+      "english": "guitar",
+      "russian": "гитара",
+      "partOfSpeech": "noun",
+      "example": "The guitar.",
+      "exampleTranslation": "Гитара.",
+      "audioPath": "assets/audio/vocabulary/v10_guitar.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_guitar.mp3"
+    },
+    {
+      "id": "v10_cold",
+      "english": "cold",
+      "russian": "холод",
+      "partOfSpeech": "noun",
+      "example": "The cold.",
+      "exampleTranslation": "Холод.",
+      "audioPath": "assets/audio/vocabulary/v10_cold.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_cold.mp3"
+    },
+    {
+      "id": "v10_job",
+      "english": "job",
+      "russian": "работа",
+      "partOfSpeech": "noun",
+      "example": "New job.",
+      "exampleTranslation": "Новая работа.",
+      "audioPath": "assets/audio/vocabulary/v10_job.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_job.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "Used to & Friends",
+    "subtitle": "Все это про привычки, но разные. «Used to» — ностальгия по прошлому. «Be used to» — комфорт в настоящем. «Get used to» — процесс привыкания.",
+    "construction": {
+      "formula": "Used to + V | Be used to + V-ing | Get used to + V-ing",
+      "rules": [
+        {
+          "word": "Used to + V1",
+          "description": "Действие в прошлом, которого сейчас нет. I used to smoke (Раньше курил, сейчас нет)."
+        },
+        {
+          "word": "Be used to + V-ing",
+          "description": "Быть привыкшим к чему-то (состояние). I am used to waking up early (Мне привычно вставать рано)."
+        },
+        {
+          "word": "Get used to + V-ing",
+          "description": "Процесс привыкания (становление). I am getting used to the noise (Я привыкаю к шуму)."
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "schedule",
+        "color": "purple",
+        "title": "Привычки в прошлом (Used to)",
+        "description": "То, что было регулярным раньше, но прекратилось.",
+        "example": {
+          "english": "I used to play football every weekend.",
+          "russian": "Раньше я играл в футбол каждые выходные."
+        }
+      },
+      {
+        "icon": "check_circle",
+        "color": "green",
+        "title": "Привычное состояние (Be used to)",
+        "description": "То, к чему уже привыкли и чувствуете себя комфортно.",
+        "example": {
+          "english": "She is used to working long hours.",
+          "russian": "Она привыкла работать допоздна."
+        }
+      },
+      {
+        "icon": "bolt",
+        "color": "orange",
+        "title": "Процесс привыкания (Get used to)",
+        "description": "Постепенное привыкание к чему-то новому.",
+        "example": {
+          "english": "I am getting used to my new job.",
+          "russian": "Я привыкаю к новой работе."
+        }
+      }
+    ],
+    "markers": [
+      "used to",
+      "be used to",
+      "get used to",
+      "in the past",
+      "before",
+      "when I was young"
+    ]
+  },
+  "tasks": [
+    {
+      "id": "t10_1",
+      "type": "sentenceAssembly",
+      "question": "Я раньше жил в Париже",
+      "correctAnswer": "I used to live in Paris",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "My",
+          "We"
+        ],
+        [
+          "used",
+          "use",
+          "using",
+          "thought"
+        ],
+        [
+          "to",
+          "too",
+          "two",
+          "in"
+        ],
+        [
+          "live",
+          "living",
+          "lived",
+          "coming"
+        ],
+        [
+          "in",
+          "at",
+          "on",
+          "with"
+        ],
+        [
+          "Paris",
+          "London",
+          "Rome",
+          "life"
+        ]
+      ],
+      "mistakeTags": [
+        "used_to",
+        "past_habits"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_10_used_to/000.mp3"
+    },
+    {
+      "id": "t10_2",
+      "type": "sentenceAssembly",
+      "question": "Я привык вставать рано (состояние)",
+      "correctAnswer": "I am used to getting up early",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "My",
+          "She"
+        ],
+        [
+          "am",
+          "was",
+          "is",
+          "should"
+        ],
+        [
+          "used",
+          "use",
+          "using",
+          "came"
+        ],
+        [
+          "to",
+          "too",
+          "for",
+          "of"
+        ],
+        [
+          "getting",
+          "get",
+          "got",
+          "making"
+        ],
+        [
+          "up",
+          "down",
+          "out",
+          "year"
+        ],
+        [
+          "early",
+          "late",
+          "soon",
+          "right"
+        ]
+      ],
+      "mistakeTags": [
+        "used_to",
+        "past_habits"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_10_used_to/001.mp3"
+    },
+    {
+      "id": "t10_3",
+      "type": "sentenceAssembly",
+      "question": "Он не привык к острой еде",
+      "correctAnswer": "He is not used to spicy food",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "Him",
+          "His",
+          "I"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "am"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "often"
+        ],
+        [
+          "used",
+          "use",
+          "using",
+          "knew"
+        ],
+        [
+          "to",
+          "too",
+          "for",
+          "at"
+        ],
+        [
+          "spicy",
+          "spice",
+          "hot",
+          "see"
+        ],
+        [
+          "food",
+          "meal",
+          "dish",
+          "life"
+        ]
+      ],
+      "mistakeTags": [
+        "used_to",
+        "past_habits"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_10_used_to/002.mp3"
+    },
+    {
+      "id": "t10_4",
+      "type": "sentenceAssembly",
+      "question": "Мы к этому привыкли",
+      "correctAnswer": "We are used to it",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "I",
+          "She"
+        ],
+        [
+          "are",
+          "is",
+          "am",
+          "were"
+        ],
+        [
+          "used",
+          "going",
+          "trying",
+          "ready"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "with"
+        ],
+        [
+          "it",
+          "this",
+          "that",
+          "here"
+        ]
+      ],
+      "mistakeTags": [
+        "used_to",
+        "past_habits"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_10_used_to/003.mp3"
+    },
+    {
+      "id": "t10_5",
+      "type": "sentenceAssembly",
+      "question": "Раньше у тебя были длинные волосы",
+      "correctAnswer": "You used to have long hair",
+      "options": [],
+      "variants": [
+        [
+          "You",
+          "Your",
+          "He",
+          "They"
+        ],
+        [
+          "used",
+          "use",
+          "using",
+          "wanted"
+        ],
+        [
+          "to",
+          "too",
+          "for",
+          "from"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "do"
+        ],
+        [
+          "long",
+          "short",
+          "big",
+          "give"
+        ],
+        [
+          "hair",
+          "hairs",
+          "head",
+          "get"
+        ]
+      ],
+      "mistakeTags": [
+        "used_to",
+        "past_habits"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_10_used_to/004.mp3"
+    },
+    {
+      "id": "t10_6",
+      "type": "sentenceAssembly",
+      "question": "Она раньше не любила кофе",
+      "correctAnswer": "She did not use to like coffee",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "Her",
+          "He",
+          "It"
+        ],
+        [
+          "did",
+          "does",
+          "was",
+          "could"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "now"
+        ],
+        [
+          "use",
+          "used",
+          "using",
+          "went"
+        ],
+        [
+          "to",
+          "too",
+          "for",
+          "from"
+        ],
+        [
+          "like",
+          "likes",
+          "liked",
+          "used"
+        ],
+        [
+          "coffee",
+          "tea",
+          "milk",
+          "small"
+        ]
+      ],
+      "mistakeTags": [
+        "used_to",
+        "past_habits"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_10_used_to/005.mp3"
+    },
+    {
+      "id": "t10_7",
+      "type": "sentenceAssembly",
+      "question": "Ты уже привык к вождению?",
+      "correctAnswer": "Have you got used to driving?",
+      "options": [],
+      "variants": [
+        [
+          "Have",
+          "Had",
+          "Has",
+          "were"
+        ],
+        [
+          "you",
+          "your",
+          "he",
+          "I"
+        ],
+        [
+          "got",
+          "get",
+          "getting",
+          "made"
+        ],
+        [
+          "used",
+          "use",
+          "using",
+          "wanted"
+        ],
+        [
+          "to",
+          "too",
+          "for",
+          "on"
+        ],
+        [
+          "driving?",
+          "drive?",
+          "drove?",
+          "week"
+        ]
+      ],
+      "mistakeTags": [
+        "used_to",
+        "past_habits"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_10_used_to/006.mp3"
+    },
+    {
+      "id": "t10_8",
+      "type": "sentenceAssembly",
+      "question": "Я раньше курил",
+      "correctAnswer": "I used to smoke",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "My",
+          "She"
+        ],
+        [
+          "used",
+          "use",
+          "using",
+          "wanted"
+        ],
+        [
+          "to",
+          "too",
+          "for",
+          "from"
+        ],
+        [
+          "smoke",
+          "smoking",
+          "smoked",
+          "doing"
+        ]
+      ],
+      "mistakeTags": [
+        "used_to",
+        "past_habits"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_10_used_to/007.mp3"
+    },
+    {
+      "id": "t10_9",
+      "type": "sentenceAssembly",
+      "question": "Она привыкла работать по ночам",
+      "correctAnswer": "She is used to working at night",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "Her",
+          "He",
+          "We"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "am"
+        ],
+        [
+          "used",
+          "use",
+          "using",
+          "knew"
+        ],
+        [
+          "to",
+          "too",
+          "for",
+          "at"
+        ],
+        [
+          "working",
+          "work",
+          "worked",
+          "getting"
+        ],
+        [
+          "at",
+          "in",
+          "on",
+          "to"
+        ],
+        [
+          "night",
+          "nights",
+          "evening",
+          "coming"
+        ]
+      ],
+      "mistakeTags": [
+        "used_to",
+        "past_habits"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_10_used_to/008.mp3"
+    },
+    {
+      "id": "t10_10",
+      "type": "sentenceAssembly",
+      "question": "Мы сейчас привыкаем к шуму",
+      "correctAnswer": "We are getting used to the noise",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "Us",
+          "Our",
+          "They"
+        ],
+        [
+          "are",
+          "is",
+          "were",
+          "am"
+        ],
+        [
+          "getting",
+          "get",
+          "got",
+          "thinking"
+        ],
+        [
+          "used",
+          "use",
+          "using",
+          "knew"
+        ],
+        [
+          "to",
+          "too",
+          "for",
+          "about"
+        ],
+        [
+          "the",
+          "a",
+          "this",
+          "an"
+        ],
+        [
+          "noise",
+          "sound",
+          "music",
+          "come"
+        ]
+      ],
+      "mistakeTags": [
+        "used_to",
+        "past_habits"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_10_used_to/009.mp3"
+    },
+    {
+      "id": "t10_11",
+      "type": "sentenceAssembly",
+      "question": "Раньше здесь был парк",
+      "correctAnswer": "There used to be a park here",
+      "options": [],
+      "variants": [
+        [
+          "There",
+          "Here",
+          "It",
+          "I"
+        ],
+        [
+          "used",
+          "use",
+          "using",
+          "wanted"
+        ],
+        [
+          "to",
+          "too",
+          "for",
+          "about"
+        ],
+        [
+          "be",
+          "is",
+          "was",
+          "are"
+        ],
+        [
+          "a",
+          "the",
+          "one",
+          "an"
+        ],
+        [
+          "park",
+          "garden",
+          "place",
+          "do"
+        ],
+        [
+          "here",
+          "there",
+          "now",
+          "yesterday"
+        ]
+      ],
+      "mistakeTags": [
+        "used_to",
+        "past_habits"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_10_used_to/010.mp3"
+    },
+    {
+      "id": "t10_12",
+      "type": "sentenceAssembly",
+      "question": "Он привык жить один",
+      "correctAnswer": "He is used to living alone",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "Him",
+          "His",
+          "They"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "did"
+        ],
+        [
+          "used",
+          "use",
+          "using",
+          "found"
+        ],
+        [
+          "to",
+          "too",
+          "for",
+          "about"
+        ],
+        [
+          "living",
+          "live",
+          "lived",
+          "knowing"
+        ],
+        [
+          "alone",
+          "lonely",
+          "single",
+          "early"
+        ]
+      ],
+      "mistakeTags": [
+        "used_to",
+        "past_habits"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_10_used_to/011.mp3"
+    },
+    {
+      "id": "t10_13",
+      "type": "sentenceAssembly",
+      "question": "Ты привыкнешь к климату",
+      "correctAnswer": "You will get used to the climate",
+      "options": [],
+      "variants": [
+        [
+          "You",
+          "Your",
+          "He",
+          "I"
+        ],
+        [
+          "will",
+          "would",
+          "can",
+          "does"
+        ],
+        [
+          "get",
+          "getting",
+          "got",
+          "seeing"
+        ],
+        [
+          "used",
+          "use",
+          "using",
+          "said"
+        ],
+        [
+          "to",
+          "too",
+          "for",
+          "by"
+        ],
+        [
+          "the",
+          "a",
+          "this",
+          "some"
+        ],
+        [
+          "climate",
+          "weather",
+          "cold",
+          "small"
+        ]
+      ],
+      "mistakeTags": [
+        "used_to",
+        "past_habits"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_10_used_to/012.mp3"
+    },
+    {
+      "id": "t10_14",
+      "type": "sentenceAssembly",
+      "question": "Раньше я играл на гитаре",
+      "correctAnswer": "I used to play the guitar",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "My",
+          "It"
+        ],
+        [
+          "used",
+          "use",
+          "using",
+          "got"
+        ],
+        [
+          "to",
+          "too",
+          "for",
+          "at"
+        ],
+        [
+          "play",
+          "playing",
+          "played",
+          "getting"
+        ],
+        [
+          "the",
+          "a",
+          "my",
+          "an"
+        ],
+        [
+          "guitar",
+          "piano",
+          "drums",
+          "take"
+        ]
+      ],
+      "mistakeTags": [
+        "used_to",
+        "past_habits"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_10_used_to/013.mp3"
+    },
+    {
+      "id": "t10_15",
+      "type": "sentenceAssembly",
+      "question": "Они не привыкли к холоду",
+      "correctAnswer": "They are not used to the cold",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "Them",
+          "We",
+          "You"
+        ],
+        [
+          "are",
+          "is",
+          "were",
+          "would"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "tomorrow"
+        ],
+        [
+          "used",
+          "use",
+          "using",
+          "knew"
+        ],
+        [
+          "to",
+          "too",
+          "for",
+          "at"
+        ],
+        [
+          "the",
+          "a",
+          "this",
+          "some"
+        ],
+        [
+          "cold",
+          "cool",
+          "winter",
+          "know"
+        ]
+      ],
+      "mistakeTags": [
+        "used_to",
+        "past_habits"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_10_used_to/014.mp3"
+    },
+    {
+      "id": "t10_16",
+      "type": "sentenceAssembly",
+      "question": "Я привык к своей работе",
+      "correctAnswer": "I am used to my job",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "am",
+          "is",
+          "are",
+          "was"
+        ],
+        [
+          "used",
+          "going",
+          "ready",
+          "happy"
+        ],
+        [
+          "to",
+          "at",
+          "for",
+          "with"
+        ],
+        [
+          "my",
+          "the",
+          "this",
+          "a"
+        ],
+        [
+          "job",
+          "work",
+          "life",
+          "home"
+        ]
+      ],
+      "mistakeTags": [
+        "used_to",
+        "past_habits"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_10_used_to/015.mp3"
+    },
+    {
+      "id": "t10_17",
+      "type": "sentenceAssembly",
+      "question": "Раньше здесь был лес",
+      "correctAnswer": "There used to be a forest here",
+      "options": [],
+      "variants": [
+        [
+          "There",
+          "Here",
+          "It",
+          "She"
+        ],
+        [
+          "used",
+          "use",
+          "using",
+          "did"
+        ],
+        [
+          "to",
+          "too",
+          "for",
+          "at"
+        ],
+        [
+          "be",
+          "is",
+          "was",
+          "are"
+        ],
+        [
+          "a",
+          "the",
+          "one",
+          "an"
+        ],
+        [
+          "forest",
+          "wood",
+          "park",
+          "world"
+        ],
+        [
+          "here",
+          "there",
+          "now",
+          "tomorrow"
+        ]
+      ],
+      "mistakeTags": [
+        "used_to",
+        "past_habits"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_10_used_to/016.mp3"
+    },
+    {
+      "id": "t10_18",
+      "type": "sentenceAssembly",
+      "question": "Она привыкла к критике",
+      "correctAnswer": "She is used to criticism",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "Her",
+          "He",
+          "It"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "am"
+        ],
+        [
+          "used",
+          "use",
+          "using",
+          "thought"
+        ],
+        [
+          "to",
+          "too",
+          "for",
+          "in"
+        ],
+        [
+          "criticism",
+          "critics",
+          "critique",
+          "good"
+        ]
+      ],
+      "mistakeTags": [
+        "used_to",
+        "past_habits"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_10_used_to/017.mp3"
+    },
+    {
+      "id": "t10_19",
+      "type": "sentenceAssembly",
+      "question": "Мы раньше встречались каждый день",
+      "correctAnswer": "We used to meet every day",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "Us",
+          "They",
+          "You"
+        ],
+        [
+          "used",
+          "use",
+          "using",
+          "went"
+        ],
+        [
+          "to",
+          "too",
+          "for",
+          "on"
+        ],
+        [
+          "meet",
+          "meeting",
+          "met",
+          "coming"
+        ],
+        [
+          "every",
+          "each",
+          "all",
+          "house"
+        ],
+        [
+          "day",
+          "days",
+          "week",
+          "part"
+        ]
+      ],
+      "mistakeTags": [
+        "used_to",
+        "past_habits"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_10_used_to/018.mp3"
+    },
+    {
+      "id": "t10_20",
+      "type": "sentenceAssembly",
+      "question": "Ты быстро привыкнешь",
+      "correctAnswer": "You will get used to it quickly",
+      "options": [],
+      "variants": [
+        [
+          "You",
+          "Your",
+          "He",
+          "It"
+        ],
+        [
+          "will",
+          "would",
+          "can",
+          "did"
+        ],
+        [
+          "get",
+          "getting",
+          "got",
+          "making"
+        ],
+        [
+          "used",
+          "use",
+          "using",
+          "made"
+        ],
+        [
+          "to",
+          "too",
+          "for",
+          "with"
+        ],
+        [
+          "it",
+          "this",
+          "that",
+          "They"
+        ],
+        [
+          "quickly",
+          "quick",
+          "fast",
+          "know"
+        ]
+      ],
+      "mistakeTags": [
+        "used_to",
+        "past_habits"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_10_used_to/019.mp3"
+    },
+    {
+      "id": "t10_21",
+      "type": "sentenceAssembly",
+      "question": "Раньше я не ел мясо",
+      "correctAnswer": "I did not use to eat meat",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "My",
+          "It"
+        ],
+        [
+          "did",
+          "does",
+          "was",
+          "could"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "then"
+        ],
+        [
+          "use",
+          "used",
+          "using",
+          "took"
+        ],
+        [
+          "to",
+          "too",
+          "for",
+          "in"
+        ],
+        [
+          "eat",
+          "eating",
+          "ate",
+          "using"
+        ],
+        [
+          "meat",
+          "fish",
+          "food",
+          "come"
+        ]
+      ],
+      "mistakeTags": [
+        "used_to",
+        "past_habits"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_10_used_to/020.mp3"
+    },
+    {
+      "id": "t10_22",
+      "type": "sentenceAssembly",
+      "question": "Он привык к стрессу",
+      "correctAnswer": "He is used to stress",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "Him",
+          "His",
+          "They"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "have"
+        ],
+        [
+          "used",
+          "use",
+          "using",
+          "came"
+        ],
+        [
+          "to",
+          "too",
+          "for",
+          "by"
+        ],
+        [
+          "stress",
+          "pressure",
+          "work",
+          "get"
+        ]
+      ],
+      "mistakeTags": [
+        "used_to",
+        "past_habits"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_10_used_to/021.mp3"
+    },
+    {
+      "id": "t10_23",
+      "type": "sentenceAssembly",
+      "question": "Дети привыкли к школе",
+      "correctAnswer": "The children are used to school",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "My",
+          "Our",
+          "Those"
+        ],
+        [
+          "children",
+          "kids",
+          "boys",
+          "girls"
+        ],
+        [
+          "are",
+          "is",
+          "was",
+          "were"
+        ],
+        [
+          "used",
+          "going",
+          "ready",
+          "new"
+        ],
+        [
+          "to",
+          "at",
+          "in",
+          "for"
+        ],
+        [
+          "school",
+          "home",
+          "class",
+          "rules"
+        ]
+      ],
+      "mistakeTags": [
+        "used_to",
+        "past_habits"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_10_used_to/022.mp3"
+    },
+    {
+      "id": "t10_24",
+      "type": "sentenceAssembly",
+      "question": "Раньше она носила очки",
+      "correctAnswer": "She used to wear glasses",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "Her",
+          "He",
+          "We"
+        ],
+        [
+          "used",
+          "use",
+          "using",
+          "thought"
+        ],
+        [
+          "to",
+          "too",
+          "for",
+          "at"
+        ],
+        [
+          "wear",
+          "wearing",
+          "wore",
+          "wanting"
+        ],
+        [
+          "glasses",
+          "glass",
+          "lenses",
+          "long"
+        ]
+      ],
+      "mistakeTags": [
+        "used_to",
+        "past_habits"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_10_used_to/023.mp3"
+    },
+    {
+      "id": "t10_25",
+      "type": "sentenceAssembly",
+      "question": "Я привык к его характеру",
+      "correctAnswer": "I am used to his character",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "My",
+          "We"
+        ],
+        [
+          "am",
+          "is",
+          "was",
+          "are"
+        ],
+        [
+          "used",
+          "use",
+          "using",
+          "went"
+        ],
+        [
+          "to",
+          "too",
+          "for",
+          "at"
+        ],
+        [
+          "his",
+          "him",
+          "her",
+          "our"
+        ],
+        [
+          "character",
+          "personality",
+          "manner",
+          "right"
+        ]
+      ],
+      "mistakeTags": [
+        "used_to",
+        "past_habits"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_10_used_to/024.mp3"
+    },
+    {
+      "id": "t10_26",
+      "type": "sentenceAssembly",
+      "question": "Мы привыкли к такой жизни",
+      "correctAnswer": "We are used to this life",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "I",
+          "She"
+        ],
+        [
+          "are",
+          "is",
+          "am",
+          "were"
+        ],
+        [
+          "used",
+          "going",
+          "ready",
+          "new"
+        ],
+        [
+          "to",
+          "at",
+          "in",
+          "for"
+        ],
+        [
+          "this",
+          "that",
+          "the",
+          "our"
+        ],
+        [
+          "life",
+          "work",
+          "place",
+          "food"
+        ]
+      ],
+      "mistakeTags": [
+        "used_to",
+        "past_habits"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_10_used_to/025.mp3"
+    },
+    {
+      "id": "t10_27",
+      "type": "sentenceAssembly",
+      "question": "Раньше я боялся собак",
+      "correctAnswer": "I used to be afraid of dogs",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "My",
+          "He"
+        ],
+        [
+          "used",
+          "use",
+          "using",
+          "got"
+        ],
+        [
+          "to",
+          "too",
+          "for",
+          "with"
+        ],
+        [
+          "be",
+          "is",
+          "was",
+          "are"
+        ],
+        [
+          "afraid",
+          "scary",
+          "scared",
+          "said"
+        ],
+        [
+          "of",
+          "off",
+          "from",
+          "about"
+        ],
+        [
+          "dogs",
+          "dog",
+          "cats",
+          "great"
+        ]
+      ],
+      "mistakeTags": [
+        "used_to",
+        "past_habits"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_10_used_to/026.mp3"
+    },
+    {
+      "id": "t10_28",
+      "type": "sentenceAssembly",
+      "question": "Она привыкает к правилам",
+      "correctAnswer": "She is getting used to rules",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "They"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "getting",
+          "being",
+          "going",
+          "coming"
+        ],
+        [
+          "used",
+          "ready",
+          "close",
+          "open"
+        ],
+        [
+          "to",
+          "at",
+          "in",
+          "for"
+        ],
+        [
+          "rules",
+          "work",
+          "life",
+          "school"
+        ]
+      ],
+      "mistakeTags": [
+        "used_to",
+        "past_habits"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_10_used_to/027.mp3"
+    },
+    {
+      "id": "t10_29",
+      "type": "sentenceAssembly",
+      "question": "Раньше тут было тихо",
+      "correctAnswer": "It used to be quiet here",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "This",
+          "That",
+          "We"
+        ],
+        [
+          "used",
+          "use",
+          "using",
+          "came"
+        ],
+        [
+          "to",
+          "too",
+          "for",
+          "about"
+        ],
+        [
+          "be",
+          "is",
+          "was",
+          "am"
+        ],
+        [
+          "quiet",
+          "quite",
+          "silent",
+          "first"
+        ],
+        [
+          "here",
+          "there",
+          "now",
+          "often"
+        ]
+      ],
+      "mistakeTags": [
+        "used_to",
+        "past_habits"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_10_used_to/028.mp3"
+    },
+    {
+      "id": "t10_30",
+      "type": "sentenceAssembly",
+      "question": "Ты привыкнешь к этому звуку",
+      "correctAnswer": "You will get used to this sound",
+      "options": [],
+      "variants": [
+        [
+          "You",
+          "Your",
+          "He",
+          "It"
+        ],
+        [
+          "will",
+          "would",
+          "can",
+          "could"
+        ],
+        [
+          "get",
+          "getting",
+          "got",
+          "going"
+        ],
+        [
+          "used",
+          "use",
+          "using",
+          "went"
+        ],
+        [
+          "to",
+          "too",
+          "for",
+          "on"
+        ],
+        [
+          "this",
+          "that",
+          "the",
+          "who"
+        ],
+        [
+          "sound",
+          "noise",
+          "music",
+          "do"
+        ]
+      ],
+      "mistakeTags": [
+        "used_to",
+        "past_habits"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_10_used_to/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionIntermediate10UsedTo",
+  "theoryQuiz": [
+    {
+      "id": "tq_01",
+      "type": "trueFalse",
+      "question": "'Used to + V1' описывает привычку в прошлом, которой больше нет.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Например: I used to smoke — раньше курил, но больше нет."
+    },
+    {
+      "id": "tq_02",
+      "type": "multipleChoice",
+      "question": "Что означает 'be used to + V-ing'?",
+      "options": [
+        "привычка в прошлом",
+        "привык к чему-то сейчас",
+        "привыкаю постепенно",
+        "буду привыкать"
+      ],
+      "correctIndex": 1,
+      "explanation": "Be used to + V-ing — быть привыкшим: I am used to waking up early."
+    },
+    {
+      "id": "tq_03",
+      "type": "multipleChoice",
+      "question": "Что означает 'get used to + V-ing'?",
+      "options": [
+        "привычка в прошлом",
+        "привык к чему-то",
+        "привыкаю (процесс)",
+        "перестал привыкать"
+      ],
+      "correctIndex": 2,
+      "explanation": "Get used to — процесс привыкания: I'm getting used to the noise."
+    },
+    {
+      "id": "tq_04",
+      "type": "trueFalse",
+      "question": "После 'used to' идёт V-ing: I used to smoking.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "После used to (привычка в прошлом) идёт V1: I used to smoke."
+    },
+    {
+      "id": "tq_05",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: She ___ live in Paris.",
+      "options": [
+        "used to",
+        "is used to",
+        "use to",
+        "was used to"
+      ],
+      "correctIndex": 0,
+      "explanation": "Used to + V1 — привычка в прошлом: She used to live in Paris."
+    },
+    {
+      "id": "tq_06",
+      "type": "trueFalse",
+      "question": "После 'be used to' идёт V-ing: I am used to waking up early.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Be used to + V-ing: быть привыкшим к чему-то."
+    },
+    {
+      "id": "tq_07",
+      "type": "multipleChoice",
+      "question": "Какое предложение означает 'Я привыкаю к шуму'?",
+      "options": [
+        "I used to the noise.",
+        "I am used to the noise.",
+        "I'm getting used to the noise.",
+        "I used to hear noise."
+      ],
+      "correctIndex": 2,
+      "explanation": "Get used to — процесс привыкания: I'm getting used to the noise."
+    },
+    {
+      "id": "tq_08",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: He is used to ___ early.",
+      "options": [
+        "wake",
+        "waking",
+        "woke",
+        "wakes"
+      ],
+      "correctIndex": 1,
+      "explanation": "Be used to + V-ing: He is used to waking early."
+    },
+    {
+      "id": "tq_09",
+      "type": "trueFalse",
+      "question": "'Used to' и 'be used to' имеют одинаковое значение.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "Used to — привычка в прошлом, be used to — привык к чему-то сейчас."
+    },
+    {
+      "id": "tq_10",
+      "type": "multipleChoice",
+      "question": "Какое предложение содержит ошибку?",
+      "options": [
+        "I used to play tennis.",
+        "She is used to cooking.",
+        "He is getting used to work hard.",
+        "We used to live here."
+      ],
+      "correctIndex": 2,
+      "explanation": "Get used to + V-ing: getting used to working hard (не work)."
+    }
+  ]
+}

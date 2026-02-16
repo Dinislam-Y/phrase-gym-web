@@ -1,0 +1,461 @@
+{
+  "id": "intermediate_listening_12_prepositions_advanced",
+  "title": "Prepositions Advanced",
+  "description": "Слушайте тонкие предлоги из живой речи: in/on/at, by/until, for/during и т.д.",
+  "order": 12,
+  "level": "intermediate",
+  "imageUrl": "assets/images/lessons/prepositions_advanced.png",
+  "tasks": [
+    {
+      "id": "t12_01",
+      "audioText": "I’ll be on holiday for two weeks in August.",
+      "transcript": "I’ll be on holiday for two weeks in August.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Two-week vacation during August."
+        },
+        {
+          "id": "o2",
+          "text": "Only one week in August."
+        },
+        {
+          "id": "o3",
+          "text": "Holiday in July."
+        },
+        {
+          "id": "o4",
+          "text": "I was on holiday last August."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "For = duration, in = month.",
+      "mistakeTags": [
+        "holiday",
+        "prepositions"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_12_prepositions_advanced/t12_01.mp3"
+    },
+    {
+      "id": "t12_02",
+      "audioText": "See you on Monday at 9 a.m. sharp.",
+      "transcript": "See you on Monday at 9 a.m. sharp.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Monday, exactly 9 o’clock."
+        },
+        {
+          "id": "o2",
+          "text": "In Monday."
+        },
+        {
+          "id": "o3",
+          "text": "At Monday."
+        },
+        {
+          "id": "o4",
+          "text": "On Tuesday."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "On day + at time.",
+      "mistakeTags": [
+        "work",
+        "prepositions"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_12_prepositions_advanced/t12_02.mp3"
+    },
+    {
+      "id": "t12_03",
+      "audioText": "The meeting lasted until 8 p.m. yesterday.",
+      "transcript": "The meeting lasted until 8 p.m. yesterday.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Finished at 8, not earlier."
+        },
+        {
+          "id": "o2",
+          "text": "Started at 8."
+        },
+        {
+          "id": "o3",
+          "text": "Lasted for 8 hours."
+        },
+        {
+          "id": "o4",
+          "text": "Will last until 8 tomorrow."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Until = end point.",
+      "mistakeTags": [
+        "office",
+        "prepositions"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_12_prepositions_advanced/t12_03.mp3"
+    },
+    {
+      "id": "t12_04",
+      "audioText": "She’s been living in Paris since 2019.",
+      "transcript": "She’s been living in Paris since 2019.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "From 2019 → present, still there."
+        },
+        {
+          "id": "o2",
+          "text": "Only in 2019."
+        },
+        {
+          "id": "o3",
+          "text": "For 2019 days."
+        },
+        {
+          "id": "o4",
+          "text": "She left Paris."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Since + starting point.",
+      "mistakeTags": [
+        "travel",
+        "prepositions"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_12_prepositions_advanced/t12_04.mp3"
+    },
+    {
+      "id": "t12_05",
+      "audioText": "We’re meeting at the cinema at 7:30.",
+      "transcript": "We’re meeting at the cinema at 7:30.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Place + exact time."
+        },
+        {
+          "id": "o2",
+          "text": "In the cinema."
+        },
+        {
+          "id": "o3",
+          "text": "On 7:30."
+        },
+        {
+          "id": "o4",
+          "text": "At 8:30."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "At place + at time.",
+      "mistakeTags": [
+        "cinema",
+        "prepositions"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_12_prepositions_advanced/t12_05.mp3"
+    },
+    {
+      "id": "t12_06",
+      "audioText": "I haven’t seen him for ages.",
+      "transcript": "I haven’t seen him for ages.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "A very long time has passed."
+        },
+        {
+          "id": "o2",
+          "text": "I saw him yesterday."
+        },
+        {
+          "id": "o3",
+          "text": "Since last week."
+        },
+        {
+          "id": "o4",
+          "text": "I will see him soon."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "For ages = very long period.",
+      "mistakeTags": [
+        "friends",
+        "prepositions"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_12_prepositions_advanced/t12_06.mp3"
+    },
+    {
+      "id": "t12_07",
+      "audioText": "The train arrives at platform 3 in five minutes.",
+      "transcript": "The train arrives at platform 3 in five minutes.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Platform 3, very soon."
+        },
+        {
+          "id": "o2",
+          "text": "On platform 3."
+        },
+        {
+          "id": "o3",
+          "text": "In platform 3."
+        },
+        {
+          "id": "o4",
+          "text": "In one hour."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "At platform + in time.",
+      "mistakeTags": [
+        "bus_station",
+        "prepositions"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_12_prepositions_advanced/t12_07.mp3"
+    },
+    {
+      "id": "t12_08",
+      "audioText": "During the film, please switch off your phones.",
+      "transcript": "During the film, please switch off your phones.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "While the movie is playing."
+        },
+        {
+          "id": "o2",
+          "text": "Before the film."
+        },
+        {
+          "id": "o3",
+          "text": "After the film."
+        },
+        {
+          "id": "o4",
+          "text": "For the film."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "During = throughout the event.",
+      "mistakeTags": [
+        "cinema",
+        "prepositions"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_12_prepositions_advanced/t12_08.mp3"
+    },
+    {
+      "id": "t12_09",
+      "audioText": "I was born in 1995 on 3rd June.",
+      "transcript": "I was born in 1995 on 3rd June.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Year in, date on — correct."
+        },
+        {
+          "id": "o2",
+          "text": "On 1995."
+        },
+        {
+          "id": "o3",
+          "text": "At 3rd June."
+        },
+        {
+          "id": "o4",
+          "text": "In 3rd June."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Classic birthday formula.",
+      "mistakeTags": [
+        "family",
+        "prepositions"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_12_prepositions_advanced/t12_09.mp3"
+    },
+    {
+      "id": "t12_10",
+      "audioText": "He’s been working here for six months by now.",
+      "transcript": "He’s been working here for six months by now.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Six months completed up to today."
+        },
+        {
+          "id": "o2",
+          "text": "He started six months ago."
+        },
+        {
+          "id": "o3",
+          "text": "Only five months."
+        },
+        {
+          "id": "o4",
+          "text": "He will work six months."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "For + duration, by now = up to present.",
+      "mistakeTags": [
+        "office",
+        "prepositions"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_12_prepositions_advanced/t12_10.mp3"
+    },
+    {
+      "id": "t12_11",
+      "audioText": "We’re going to Spain by car next summer.",
+      "transcript": "We’re going to Spain by car next summer.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Transport = car."
+        },
+        {
+          "id": "o2",
+          "text": "In car."
+        },
+        {
+          "id": "o3",
+          "text": "On car."
+        },
+        {
+          "id": "o4",
+          "text": "With car."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "By + transport (no article).",
+      "mistakeTags": [
+        "travel",
+        "prepositions"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_12_prepositions_advanced/t12_11.mp3"
+    },
+    {
+      "id": "t12_12",
+      "audioText": "The keys are on the table in the kitchen.",
+      "transcript": "The keys are on the table in the kitchen.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Surface + room."
+        },
+        {
+          "id": "o2",
+          "text": "In the table."
+        },
+        {
+          "id": "o3",
+          "text": "At the kitchen."
+        },
+        {
+          "id": "o4",
+          "text": "Under the table."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "On surface, in room.",
+      "mistakeTags": [
+        "home",
+        "prepositions"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_12_prepositions_advanced/t12_12.mp3"
+    },
+    {
+      "id": "t12_13",
+      "audioText": "I need this report by Friday morning, please.",
+      "transcript": "I need this report by Friday morning, please.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Deadline = not later than Friday morning."
+        },
+        {
+          "id": "o2",
+          "text": "On Friday morning."
+        },
+        {
+          "id": "o3",
+          "text": "In Friday."
+        },
+        {
+          "id": "o4",
+          "text": "After Friday."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "By = не позже чем.",
+      "mistakeTags": [
+        "office",
+        "prepositions"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_12_prepositions_advanced/t12_13.mp3"
+    },
+    {
+      "id": "t12_14",
+      "audioText": "She fell asleep during the meeting.",
+      "transcript": "She fell asleep during the meeting.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "While the meeting was happening."
+        },
+        {
+          "id": "o2",
+          "text": "Before the meeting."
+        },
+        {
+          "id": "o3",
+          "text": "After the meeting."
+        },
+        {
+          "id": "o4",
+          "text": "For the meeting."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "During = в течение.",
+      "mistakeTags": [
+        "office",
+        "prepositions"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_12_prepositions_advanced/t12_14.mp3"
+    },
+    {
+      "id": "t12_15",
+      "audioText": "We’ve been waiting for you since 6 o’clock!",
+      "transcript": "We’ve been waiting for you since 6 o’clock!",
+      "options": [
+        {
+          "id": "o1",
+          "text": "From 6 till now, still waiting."
+        },
+        {
+          "id": "o2",
+          "text": "Only for one hour."
+        },
+        {
+          "id": "o3",
+          "text": "We stopped waiting."
+        },
+        {
+          "id": "o4",
+          "text": "We will wait from 6."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Since + exact starting time.",
+      "mistakeTags": [
+        "friends",
+        "prepositions"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_12_prepositions_advanced/t12_15.mp3"
+    }
+  ],
+  "short_description": "Тонкие предлоги времени, места и движения"
+}

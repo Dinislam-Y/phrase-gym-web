@@ -1,0 +1,476 @@
+{
+  "id": "beginner_listening_08_present_simple_questions",
+  "title": "Present Simple: Questions",
+  "description": "Слушайте вопросы в Present Simple и выбирайте правильный смысл.",
+  "order": 8,
+  "level": "beginner",
+  "imageUrl": "assets/images/lessons/present_simple_questions.png",
+  "tasks": [
+    {
+      "id": "t8_01",
+      "audioText": "A man is at a coffee shop. He talks to his friend. Do you like green tea?",
+      "transcript": "Do you like green tea?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He asks if his friend enjoys green tea."
+        },
+        {
+          "id": "o2",
+          "text": "He asks if his friend wants coffee."
+        },
+        {
+          "id": "o3",
+          "text": "He asks if his friend sells green tea."
+        },
+        {
+          "id": "o4",
+          "text": "He asks if his friend grows green tea."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The question 'Do you like green tea?' asks about enjoying tea. Option 1 matches this meaning.",
+      "mistakeTags": [
+        "present_simple_questions",
+        "do_does",
+        "food_drink"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_08_present_simple_questions/t8_01.mp3"
+    },
+    {
+      "id": "t8_02",
+      "audioText": "Two women are at the office. One looks at the schedule. Does she work on Saturdays?",
+      "transcript": "Does she work on Saturdays?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She asks if the woman likes Saturdays."
+        },
+        {
+          "id": "o2",
+          "text": "She asks if the woman has a job on Saturdays."
+        },
+        {
+          "id": "o3",
+          "text": "She asks if the woman rests on Saturdays."
+        },
+        {
+          "id": "o4",
+          "text": "She asks if the woman travels on Saturdays."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Does she work on Saturdays?' asks whether someone has a job on that day. Option 2 says the same thing.",
+      "mistakeTags": [
+        "present_simple_questions",
+        "do_does",
+        "work"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_08_present_simple_questions/t8_02.mp3"
+    },
+    {
+      "id": "t8_03",
+      "audioText": "A teacher talks to a new student. The class starts at nine. Do you have a pen?",
+      "transcript": "Do you have a pen?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The teacher asks the student to buy a pen."
+        },
+        {
+          "id": "o2",
+          "text": "The teacher asks the student to find a pen."
+        },
+        {
+          "id": "o3",
+          "text": "The teacher asks if the student owns a pen."
+        },
+        {
+          "id": "o4",
+          "text": "The teacher asks the student to give a pen."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Do you have a pen?' asks about possession. Option 3 correctly says the teacher asks if the student owns a pen.",
+      "mistakeTags": [
+        "present_simple_questions",
+        "do_does",
+        "school"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_08_present_simple_questions/t8_03.mp3"
+    },
+    {
+      "id": "t8_04",
+      "audioText": "A boy and a girl are at the park. The boy has a ball. Does he play football every day?",
+      "transcript": "Does he play football every day?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She asks if the boy watches football daily."
+        },
+        {
+          "id": "o2",
+          "text": "She asks if the boy plays football daily."
+        },
+        {
+          "id": "o3",
+          "text": "She asks if the boy teaches football daily."
+        },
+        {
+          "id": "o4",
+          "text": "She asks if the boy buys footballs daily."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Does he play football every day?' asks about a daily activity. Option 2 matches: playing football daily.",
+      "mistakeTags": [
+        "present_simple_questions",
+        "do_does",
+        "sport"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_08_present_simple_questions/t8_04.mp3"
+    },
+    {
+      "id": "t8_05",
+      "audioText": "A woman is at the airport. She looks at the board. Do the planes leave on time?",
+      "transcript": "Do the planes leave on time?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She asks if the planes arrive on time."
+        },
+        {
+          "id": "o2",
+          "text": "She asks if the planes are big."
+        },
+        {
+          "id": "o3",
+          "text": "She asks if the planes depart on time."
+        },
+        {
+          "id": "o4",
+          "text": "She asks if the planes fly fast."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Do the planes leave on time?' asks about departure time. Option 3 uses 'depart,' which means the same as 'leave.'",
+      "mistakeTags": [
+        "present_simple_questions",
+        "do_does",
+        "travel"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_08_present_simple_questions/t8_05.mp3"
+    },
+    {
+      "id": "t8_06",
+      "audioText": "A family is at a restaurant. The waiter comes to their table. Does your son eat fish?",
+      "transcript": "Does your son eat fish?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The waiter asks if the son likes the restaurant."
+        },
+        {
+          "id": "o2",
+          "text": "The waiter asks if the son cooks fish."
+        },
+        {
+          "id": "o3",
+          "text": "The waiter asks if the son catches fish."
+        },
+        {
+          "id": "o4",
+          "text": "The waiter asks if the son eats fish."
+        }
+      ],
+      "correctIndex": 3,
+      "explanation": "'Does your son eat fish?' directly asks about eating fish. Option 4 says the same thing.",
+      "mistakeTags": [
+        "present_simple_questions",
+        "do_does",
+        "restaurant"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_08_present_simple_questions/t8_06.mp3"
+    },
+    {
+      "id": "t8_07",
+      "audioText": "Two friends talk about a movie. It is a new film. Do you want to see it tonight?",
+      "transcript": "Do you want to see it tonight?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He asks if his friend wants to watch the film tonight."
+        },
+        {
+          "id": "o2",
+          "text": "He asks if his friend made the film tonight."
+        },
+        {
+          "id": "o3",
+          "text": "He asks if his friend bought the film tonight."
+        },
+        {
+          "id": "o4",
+          "text": "He asks if his friend finished the film tonight."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Do you want to see it tonight?' asks about watching the movie. Option 1 says the same.",
+      "mistakeTags": [
+        "present_simple_questions",
+        "do_does",
+        "entertainment"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_08_present_simple_questions/t8_07.mp3"
+    },
+    {
+      "id": "t8_08",
+      "audioText": "A mother talks to her daughter after school. The daughter looks tired. Does your teacher give a lot of homework?",
+      "transcript": "Does your teacher give a lot of homework?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She asks if the teacher is friendly."
+        },
+        {
+          "id": "o2",
+          "text": "She asks if the teacher assigns much homework."
+        },
+        {
+          "id": "o3",
+          "text": "She asks if the teacher finishes homework fast."
+        },
+        {
+          "id": "o4",
+          "text": "She asks if the teacher does homework too."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Does your teacher give a lot of homework?' asks about the amount of homework. Option 2 matches perfectly.",
+      "mistakeTags": [
+        "present_simple_questions",
+        "do_does",
+        "school"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_08_present_simple_questions/t8_08.mp3"
+    },
+    {
+      "id": "t8_09",
+      "audioText": "A man visits a hospital. He talks to the nurse. Does the doctor see patients in the morning?",
+      "transcript": "Does the doctor see patients in the morning?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He asks if the doctor works in the morning."
+        },
+        {
+          "id": "o2",
+          "text": "He asks if the doctor sleeps in the morning."
+        },
+        {
+          "id": "o3",
+          "text": "He asks if the doctor eats in the morning."
+        },
+        {
+          "id": "o4",
+          "text": "He asks if the doctor leaves in the morning."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Does the doctor see patients in the morning?' means the doctor works with patients. Option 1 says this.",
+      "mistakeTags": [
+        "present_simple_questions",
+        "do_does",
+        "hospital"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_08_present_simple_questions/t8_09.mp3"
+    },
+    {
+      "id": "t8_10",
+      "audioText": "A girl asks about her neighbor. The neighbor has a big garden. Does he grow vegetables?",
+      "transcript": "Does he grow vegetables?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She asks if the neighbor buys vegetables."
+        },
+        {
+          "id": "o2",
+          "text": "She asks if the neighbor cooks vegetables."
+        },
+        {
+          "id": "o3",
+          "text": "She asks if the neighbor grows vegetables."
+        },
+        {
+          "id": "o4",
+          "text": "She asks if the neighbor sells vegetables."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Does he grow vegetables?' asks about growing. Option 3 repeats the same idea exactly.",
+      "mistakeTags": [
+        "present_simple_questions",
+        "do_does",
+        "home"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_08_present_simple_questions/t8_10.mp3"
+    },
+    {
+      "id": "t8_11",
+      "audioText": "A customer enters a shop. She looks at the dresses. Do you have this in a small size?",
+      "transcript": "Do you have this in a small size?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She asks if the shop has a cheaper dress."
+        },
+        {
+          "id": "o2",
+          "text": "She asks if the shop has a different color."
+        },
+        {
+          "id": "o3",
+          "text": "She asks if the shop has a smaller size."
+        },
+        {
+          "id": "o4",
+          "text": "She asks if the shop has more dresses."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Do you have this in a small size?' asks about a smaller size. Option 3 says the same.",
+      "mistakeTags": [
+        "present_simple_questions",
+        "do_does",
+        "shopping"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_08_present_simple_questions/t8_11.mp3"
+    },
+    {
+      "id": "t8_12",
+      "audioText": "Two coworkers are in the kitchen at work. One holds a cup. Do you drink coffee every morning?",
+      "transcript": "Do you drink coffee every morning?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He asks if his coworker drinks coffee each morning."
+        },
+        {
+          "id": "o2",
+          "text": "He asks if his coworker makes coffee for everyone."
+        },
+        {
+          "id": "o3",
+          "text": "He asks if his coworker bought the coffee."
+        },
+        {
+          "id": "o4",
+          "text": "He asks if his coworker prefers tea."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Do you drink coffee every morning?' is about a daily habit. Option 1 matches perfectly.",
+      "mistakeTags": [
+        "present_simple_questions",
+        "do_does",
+        "work"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_08_present_simple_questions/t8_12.mp3"
+    },
+    {
+      "id": "t8_13",
+      "audioText": "A tourist is at a hotel. She talks to the receptionist. Does the hotel have a swimming pool?",
+      "transcript": "Does the hotel have a swimming pool?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She asks if the hotel has a restaurant."
+        },
+        {
+          "id": "o2",
+          "text": "She asks if the hotel has a pool."
+        },
+        {
+          "id": "o3",
+          "text": "She asks if the hotel has a gym."
+        },
+        {
+          "id": "o4",
+          "text": "She asks if the hotel has free parking."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Does the hotel have a swimming pool?' asks about a pool. Option 2 says the same in shorter words.",
+      "mistakeTags": [
+        "present_simple_questions",
+        "do_does",
+        "travel"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_08_present_simple_questions/t8_13.mp3"
+    },
+    {
+      "id": "t8_14",
+      "audioText": "A boy asks his sister about her cat. The cat sleeps a lot. Does it eat dry food?",
+      "transcript": "Does it eat dry food?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He asks if the cat sleeps on dry food."
+        },
+        {
+          "id": "o2",
+          "text": "He asks if the cat plays with food."
+        },
+        {
+          "id": "o3",
+          "text": "He asks if the cat eats dry food."
+        },
+        {
+          "id": "o4",
+          "text": "He asks if the cat drinks a lot of water."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Does it eat dry food?' asks about the cat's diet. Option 3 repeats the same meaning.",
+      "mistakeTags": [
+        "present_simple_questions",
+        "do_does",
+        "pets"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_08_present_simple_questions/t8_14.mp3"
+    },
+    {
+      "id": "t8_15",
+      "audioText": "A woman talks to her husband about the weekend. The weather is nice. Do we need an umbrella today?",
+      "transcript": "Do we need an umbrella today?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She asks if they should bring a jacket."
+        },
+        {
+          "id": "o2",
+          "text": "She asks if they should bring an umbrella."
+        },
+        {
+          "id": "o3",
+          "text": "She asks if they should bring sunglasses."
+        },
+        {
+          "id": "o4",
+          "text": "She asks if they should stay at home."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Do we need an umbrella today?' asks about bringing an umbrella. Option 2 says the same.",
+      "mistakeTags": [
+        "present_simple_questions",
+        "do_does",
+        "weather"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_08_present_simple_questions/t8_15.mp3"
+    }
+  ],
+  "short_description": "Тренируйте понимание вопросов в Present Simple на слух."
+}

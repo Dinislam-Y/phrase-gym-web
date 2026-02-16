@@ -1,0 +1,461 @@
+{
+  "id": "upper_listening_12_causative",
+  "title": "Causative: Have / Get Something Done",
+  "description": "Слушайте каузативные конструкции: когда кто-то делает что-то для вас.",
+  "order": 12,
+  "level": "upper_intermediate",
+  "imageUrl": "assets/images/lessons/causative.png",
+  "tasks": [
+    {
+      "id": "t12_01",
+      "audioText": "My car broke down on the motorway last week. I had it towed to the nearest garage for repairs.",
+      "transcript": "I had it towed to the nearest garage for repairs.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "I towed the car to the garage myself."
+        },
+        {
+          "id": "o2",
+          "text": "I arranged for someone to tow my car to a repair shop."
+        },
+        {
+          "id": "o3",
+          "text": "I left the car on the motorway and walked home."
+        },
+        {
+          "id": "o4",
+          "text": "I repaired the car on the side of the road."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Had it towed' is a causative structure meaning someone else towed the car for the speaker. Have + object + past participle.",
+      "mistakeTags": [
+        "causative",
+        "car_repair"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_12_causative/t12_01.mp3"
+    },
+    {
+      "id": "t12_02",
+      "audioText": "Sarah wanted to look professional for her job interview. She got her suit dry-cleaned the day before.",
+      "transcript": "She got her suit dry-cleaned the day before.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She washed her suit at home by hand."
+        },
+        {
+          "id": "o2",
+          "text": "She paid a professional service to clean her suit."
+        },
+        {
+          "id": "o3",
+          "text": "She bought a brand new suit for the interview."
+        },
+        {
+          "id": "o4",
+          "text": "She decided not to wear a suit to the interview."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Got her suit dry-cleaned' is the causative with 'get.' Someone else performed the cleaning service for her.",
+      "mistakeTags": [
+        "causative",
+        "clothing"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_12_causative/t12_02.mp3"
+    },
+    {
+      "id": "t12_03",
+      "audioText": "The CEO wanted a fresh look for the company website. She had the entire site redesigned by a top agency.",
+      "transcript": "She had the entire site redesigned by a top agency.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She redesigned the website herself using a template."
+        },
+        {
+          "id": "o2",
+          "text": "She commissioned a leading agency to overhaul the website."
+        },
+        {
+          "id": "o3",
+          "text": "She kept the old website without any changes."
+        },
+        {
+          "id": "o4",
+          "text": "The agency refused to work on the project."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Had the site redesigned by' clearly shows the causative: the CEO arranged for the agency to do the work.",
+      "mistakeTags": [
+        "causative",
+        "business"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_12_causative/t12_03.mp3"
+    },
+    {
+      "id": "t12_04",
+      "audioText": "Our kitchen looks completely different now. We had new cabinets installed and the walls repainted last month.",
+      "transcript": "We had new cabinets installed and the walls repainted last month.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "We installed the cabinets and painted the walls ourselves."
+        },
+        {
+          "id": "o2",
+          "text": "We hired professionals to install cabinets and repaint the walls."
+        },
+        {
+          "id": "o3",
+          "text": "We only repainted the walls but didn't change the cabinets."
+        },
+        {
+          "id": "o4",
+          "text": "We are still planning the kitchen renovation."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "Double causative: 'had cabinets installed' and 'walls repainted' — both done by others on their behalf.",
+      "mistakeTags": [
+        "causative",
+        "home_renovation"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_12_causative/t12_04.mp3"
+    },
+    {
+      "id": "t12_05",
+      "audioText": "Marcus needs to renew his passport before his trip to Australia. He is getting his passport photos taken at the pharmacy today.",
+      "transcript": "He is getting his passport photos taken at the pharmacy today.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He is taking his own passport photos at home."
+        },
+        {
+          "id": "o2",
+          "text": "He is having someone at the pharmacy photograph him for his passport."
+        },
+        {
+          "id": "o3",
+          "text": "He already has his new passport ready."
+        },
+        {
+          "id": "o4",
+          "text": "He cancelled his trip to Australia."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Getting photos taken' is the causative with 'get' in present continuous. Someone at the pharmacy will take the photos.",
+      "mistakeTags": [
+        "causative",
+        "travel_documents"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_12_causative/t12_05.mp3"
+    },
+    {
+      "id": "t12_06",
+      "audioText": "Jennifer noticed a strange noise coming from her laptop. She had it checked by the IT department, but they found nothing wrong.",
+      "transcript": "She had it checked by the IT department, but they found nothing wrong.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She asked IT to examine her laptop, and they didn't discover any problems."
+        },
+        {
+          "id": "o2",
+          "text": "She checked the laptop herself and fixed the issue."
+        },
+        {
+          "id": "o3",
+          "text": "The IT department found a serious problem with her laptop."
+        },
+        {
+          "id": "o4",
+          "text": "She bought a new laptop instead of getting hers repaired."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Had it checked by the IT department' — causative showing she arranged for IT professionals to inspect the device.",
+      "mistakeTags": [
+        "causative",
+        "technology"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_12_causative/t12_06.mp3"
+    },
+    {
+      "id": "t12_07",
+      "audioText": "The old painting had faded over the decades and lost much of its colour. The museum had it restored by a team of expert conservators.",
+      "transcript": "The museum had it restored by a team of expert conservators.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The museum staff restored the painting themselves."
+        },
+        {
+          "id": "o2",
+          "text": "The museum hired specialists to restore the artwork."
+        },
+        {
+          "id": "o3",
+          "text": "The museum decided to throw the old painting away."
+        },
+        {
+          "id": "o4",
+          "text": "The painting was never restored and remains faded."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Had it restored by' is a clear causative: the museum employed conservators to do the restoration work.",
+      "mistakeTags": [
+        "causative",
+        "art"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_12_causative/t12_07.mp3"
+    },
+    {
+      "id": "t12_08",
+      "audioText": "David's teeth were in terrible condition after years of neglect. He finally got them professionally cleaned and whitened at the dentist.",
+      "transcript": "He finally got them professionally cleaned and whitened at the dentist.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He cleaned and whitened his teeth at home with a kit."
+        },
+        {
+          "id": "o2",
+          "text": "He had a dental professional clean and whiten his teeth."
+        },
+        {
+          "id": "o3",
+          "text": "He decided not to visit the dentist after all."
+        },
+        {
+          "id": "o4",
+          "text": "The dentist refused to treat his teeth."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Got them cleaned and whitened' — causative with 'get,' meaning the dentist performed the procedures for him.",
+      "mistakeTags": [
+        "causative",
+        "health"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_12_causative/t12_08.mp3"
+    },
+    {
+      "id": "t12_09",
+      "audioText": "The hotel manager received complaints about the old furniture in the rooms. She had all the beds and desks replaced within two weeks.",
+      "transcript": "She had all the beds and desks replaced within two weeks.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She personally moved all the old furniture out of the rooms."
+        },
+        {
+          "id": "o2",
+          "text": "She kept the old furniture despite the complaints."
+        },
+        {
+          "id": "o3",
+          "text": "She arranged for new furniture to be put in place of the old."
+        },
+        {
+          "id": "o4",
+          "text": "Guests replaced the furniture themselves."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Had all the beds and desks replaced' — causative meaning she directed others to swap the old furniture for new.",
+      "mistakeTags": [
+        "causative",
+        "hospitality"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_12_causative/t12_09.mp3"
+    },
+    {
+      "id": "t12_10",
+      "audioText": "Before the wedding ceremony, the bride was getting ready at a salon. She was having her hair styled and her makeup done by professionals.",
+      "transcript": "She was having her hair styled and her makeup done by professionals.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She did her own hair and makeup at home."
+        },
+        {
+          "id": "o2",
+          "text": "Professional stylists were preparing her hair and makeup."
+        },
+        {
+          "id": "o3",
+          "text": "She cancelled the salon appointment."
+        },
+        {
+          "id": "o4",
+          "text": "Her friends helped her with hair and makeup."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Having her hair styled and makeup done' — past continuous causative showing ongoing services by professionals.",
+      "mistakeTags": [
+        "causative",
+        "beauty"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_12_causative/t12_10.mp3"
+    },
+    {
+      "id": "t12_11",
+      "audioText": "The company's security system was outdated and vulnerable to attacks. They got the entire system upgraded by a cybersecurity firm.",
+      "transcript": "They got the entire system upgraded by a cybersecurity firm.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The company's own IT team upgraded the security system."
+        },
+        {
+          "id": "o2",
+          "text": "They hired an external cybersecurity company to improve their system."
+        },
+        {
+          "id": "o3",
+          "text": "They decided not to upgrade the security system."
+        },
+        {
+          "id": "o4",
+          "text": "The cybersecurity firm broke into their system."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Got the system upgraded by' — causative with 'get' and the agent specified. An outside firm did the upgrade work.",
+      "mistakeTags": [
+        "causative",
+        "technology"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_12_causative/t12_11.mp3"
+    },
+    {
+      "id": "t12_12",
+      "audioText": "Olivia's bicycle chain keeps breaking during her commute. She needs to have it fixed properly this time at the bike shop.",
+      "transcript": "She needs to have it fixed properly this time at the bike shop.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She wants a bike shop mechanic to repair the chain correctly."
+        },
+        {
+          "id": "o2",
+          "text": "She plans to fix the bicycle chain by herself."
+        },
+        {
+          "id": "o3",
+          "text": "She bought a new bicycle to replace the old one."
+        },
+        {
+          "id": "o4",
+          "text": "She stopped cycling to work because of the broken chain."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Have it fixed' — causative meaning she wants someone else (the bike shop) to do the repair properly.",
+      "mistakeTags": [
+        "causative",
+        "transport"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_12_causative/t12_12.mp3"
+    },
+    {
+      "id": "t12_13",
+      "audioText": "The family wanted professional memories of their reunion. They had a photographer capture the entire event from start to finish.",
+      "transcript": "They had a photographer capture the entire event from start to finish.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "They took all the photos themselves with their phones."
+        },
+        {
+          "id": "o2",
+          "text": "They employed a professional to photograph the whole occasion."
+        },
+        {
+          "id": "o3",
+          "text": "They forgot to take any photos at the reunion."
+        },
+        {
+          "id": "o4",
+          "text": "The photographer cancelled at the last minute."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Had a photographer capture' uses the causative structure 'have + person + base form' to show they hired someone.",
+      "mistakeTags": [
+        "causative",
+        "family"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_12_causative/t12_13.mp3"
+    },
+    {
+      "id": "t12_14",
+      "audioText": "After winning the lottery, George decided to transform his garden. He got a swimming pool built and a tennis court laid in the backyard.",
+      "transcript": "He got a swimming pool built and a tennis court laid in the backyard.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He built the pool and tennis court with his own hands."
+        },
+        {
+          "id": "o2",
+          "text": "He had builders construct a pool and tennis court for him."
+        },
+        {
+          "id": "o3",
+          "text": "He decided not to spend any of his lottery winnings."
+        },
+        {
+          "id": "o4",
+          "text": "He only got a swimming pool, not a tennis court."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Got a pool built and a court laid' — double causative with 'get' showing that professionals did the construction.",
+      "mistakeTags": [
+        "causative",
+        "property"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_12_causative/t12_14.mp3"
+    },
+    {
+      "id": "t12_15",
+      "audioText": "Linda's laptop was running extremely slowly and kept freezing. She had the hard drive replaced and the operating system reinstalled.",
+      "transcript": "She had the hard drive replaced and the operating system reinstalled.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She replaced the hard drive and reinstalled the system herself."
+        },
+        {
+          "id": "o2",
+          "text": "She threw away the old laptop and bought a new one."
+        },
+        {
+          "id": "o3",
+          "text": "She arranged for a technician to swap the drive and reinstall the software."
+        },
+        {
+          "id": "o4",
+          "text": "The laptop is still running slowly despite the repairs."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Had the hard drive replaced and the OS reinstalled' — causative construction meaning a technician performed both tasks.",
+      "mistakeTags": [
+        "causative",
+        "technology"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_12_causative/t12_15.mp3"
+    }
+  ],
+  "short_description": "Каузативные конструкции have/get something done."
+}

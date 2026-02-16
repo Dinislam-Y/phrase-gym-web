@@ -1,0 +1,400 @@
+{
+  "id": "advanced_bc_01_reported_speech",
+  "title": "Say vs Tell",
+  "description": "Say или Tell? Тонкости употребления в косвенной речи и устойчивых выражениях.",
+  "order": 1,
+  "level": "advanced",
+  "imageUrl": null,
+  "tasks": [
+    {
+      "id": "svt_1",
+      "question": "She ___ me that the deadline had been moved.",
+      "optionA": "SAY",
+      "optionB": "TELL",
+      "correctIndex": 1,
+      "explanation": "Tell используется с косвенным дополнением (me). Структура: tell someone something.",
+      "tags": [
+        "say_vs_tell",
+        "tell",
+        "reported_speech"
+      ]
+    },
+    {
+      "id": "svt_2",
+      "question": "He ___ that he had no intention of resigning.",
+      "optionA": "SAY",
+      "optionB": "TELL",
+      "correctIndex": 0,
+      "explanation": "Say используется без косвенного дополнения. Структура: say (that) + clause.",
+      "tags": [
+        "say_vs_tell",
+        "say",
+        "reported_speech"
+      ]
+    },
+    {
+      "id": "svt_3",
+      "question": "Could you ___ me how to get to the conference hall?",
+      "optionA": "SAY",
+      "optionB": "TELL",
+      "correctIndex": 1,
+      "explanation": "Tell + object (me) + вопросительное слово. Tell me how / tell me where — стандартная конструкция.",
+      "tags": [
+        "say_vs_tell",
+        "tell",
+        "request"
+      ]
+    },
+    {
+      "id": "svt_4",
+      "question": "They ___ goodbye and left without looking back.",
+      "optionA": "SAY",
+      "optionB": "TELL",
+      "correctIndex": 0,
+      "explanation": "Say goodbye — устойчивое выражение. Также: say hello, say sorry, say thank you.",
+      "tags": [
+        "say_vs_tell",
+        "say",
+        "fixed_expression"
+      ]
+    },
+    {
+      "id": "svt_5",
+      "question": "The manager ___ the team to submit their reports by Friday.",
+      "optionA": "SAY",
+      "optionB": "TELL",
+      "correctIndex": 1,
+      "explanation": "Tell someone to do something — приказ или инструкция. Say нельзя использовать с объектом + инфинитивом.",
+      "tags": [
+        "say_vs_tell",
+        "tell",
+        "instruction"
+      ]
+    },
+    {
+      "id": "svt_6",
+      "question": "I ___ I would think about their proposal carefully.",
+      "optionA": "SAY",
+      "optionB": "TELL",
+      "correctIndex": 0,
+      "explanation": "Say + clause без косвенного дополнения. «Я сказал, что подумаю» — say that.",
+      "tags": [
+        "say_vs_tell",
+        "say",
+        "reported_speech"
+      ]
+    },
+    {
+      "id": "svt_7",
+      "question": "Please ___ the truth about what happened that evening.",
+      "optionA": "SAY",
+      "optionB": "TELL",
+      "correctIndex": 1,
+      "explanation": "Tell the truth — устойчивое выражение. Также: tell a lie, tell a story, tell a secret.",
+      "tags": [
+        "say_vs_tell",
+        "tell",
+        "fixed_expression"
+      ]
+    },
+    {
+      "id": "svt_8",
+      "question": "He ___ sorry for the inconvenience and offered a refund.",
+      "optionA": "SAY",
+      "optionB": "TELL",
+      "correctIndex": 0,
+      "explanation": "Say sorry — устойчивое выражение. Нельзя сказать «tell sorry».",
+      "tags": [
+        "say_vs_tell",
+        "say",
+        "fixed_expression"
+      ]
+    },
+    {
+      "id": "svt_9",
+      "question": "The professor ___ us to read chapters five through eight.",
+      "optionA": "SAY",
+      "optionB": "TELL",
+      "correctIndex": 1,
+      "explanation": "Tell + object (us) + to do — инструкция. Say не используется в этой конструкции.",
+      "tags": [
+        "say_vs_tell",
+        "tell",
+        "instruction"
+      ]
+    },
+    {
+      "id": "svt_10",
+      "question": "She ___ that the results would be announced on Monday.",
+      "optionA": "SAY",
+      "optionB": "TELL",
+      "correctIndex": 0,
+      "explanation": "Say + that clause. Нет косвенного дополнения — используем say.",
+      "tags": [
+        "say_vs_tell",
+        "say",
+        "reported_speech"
+      ]
+    },
+    {
+      "id": "svt_11",
+      "question": "Nobody ___ a word during the entire board meeting.",
+      "optionA": "SAY",
+      "optionB": "TELL",
+      "correctIndex": 0,
+      "explanation": "Say a word — устойчивое выражение. «Никто не сказал ни слова.»",
+      "tags": [
+        "say_vs_tell",
+        "say",
+        "fixed_expression"
+      ]
+    },
+    {
+      "id": "svt_12",
+      "question": "She ___ the children a fascinating bedtime story every evening.",
+      "optionA": "SAY",
+      "optionB": "TELL",
+      "correctIndex": 1,
+      "explanation": "Tell someone a story — устойчивое выражение. Tell требует косвенное дополнение (the children).",
+      "tags": [
+        "say_vs_tell",
+        "tell",
+        "fixed_expression"
+      ]
+    },
+    {
+      "id": "svt_13",
+      "question": "He ___ something under his breath, but I couldn't make it out.",
+      "optionA": "SAY",
+      "optionB": "TELL",
+      "correctIndex": 0,
+      "explanation": "Say something — без объекта. «Он что-то сказал» — say, не tell.",
+      "tags": [
+        "say_vs_tell",
+        "say",
+        "reported_speech"
+      ]
+    },
+    {
+      "id": "svt_14",
+      "question": "Can you ___ the difference between these two dialects?",
+      "optionA": "SAY",
+      "optionB": "TELL",
+      "correctIndex": 1,
+      "explanation": "Tell the difference — устойчивое выражение, означает «различить, отличить».",
+      "tags": [
+        "say_vs_tell",
+        "tell",
+        "fixed_expression"
+      ]
+    },
+    {
+      "id": "svt_15",
+      "question": "The official report ___ that the incident was under investigation.",
+      "optionA": "SAY",
+      "optionB": "TELL",
+      "correctIndex": 0,
+      "explanation": "Документы, отчёты, знаки — «say» (the report says, the sign says). Tell не используется с неодушевлёнными подлежащими в этом значении.",
+      "tags": [
+        "say_vs_tell",
+        "say",
+        "formal"
+      ]
+    },
+    {
+      "id": "svt_16",
+      "question": "He was ___ to report to the director's office immediately.",
+      "optionA": "SAY",
+      "optionB": "TELL",
+      "correctIndex": 1,
+      "explanation": "Пассивный залог: be told to do something. Say не используется в пассиве с инфинитивом.",
+      "tags": [
+        "say_vs_tell",
+        "tell",
+        "passive"
+      ]
+    },
+    {
+      "id": "svt_17",
+      "question": "She ___ a lie about her qualifications on the application form.",
+      "optionA": "SAY",
+      "optionB": "TELL",
+      "correctIndex": 1,
+      "explanation": "Tell a lie — устойчивое выражение. Также: tell the truth, tell a joke.",
+      "tags": [
+        "say_vs_tell",
+        "tell",
+        "fixed_expression"
+      ]
+    },
+    {
+      "id": "svt_18",
+      "question": "I wouldn't ___ that his latest novel is his strongest work.",
+      "optionA": "SAY",
+      "optionB": "TELL",
+      "correctIndex": 0,
+      "explanation": "Say + that clause (выражение мнения). «Я бы не сказал, что...» — wouldn't say.",
+      "tags": [
+        "say_vs_tell",
+        "say",
+        "opinion"
+      ]
+    },
+    {
+      "id": "svt_19",
+      "question": "Who ___ you that the project had been cancelled?",
+      "optionA": "SAY",
+      "optionB": "TELL",
+      "correctIndex": 1,
+      "explanation": "Tell + object (you) + that clause. «Кто тебе сказал?» — who told you?",
+      "tags": [
+        "say_vs_tell",
+        "tell",
+        "reported_speech"
+      ]
+    },
+    {
+      "id": "svt_20",
+      "question": "It is difficult to ___ what impact this policy will have.",
+      "optionA": "SAY",
+      "optionB": "TELL",
+      "correctIndex": 0,
+      "explanation": "It's difficult/hard to say — устойчивое выражение, означает «трудно сказать/предсказать».",
+      "tags": [
+        "say_vs_tell",
+        "say",
+        "fixed_expression"
+      ]
+    },
+    {
+      "id": "svt_21",
+      "question": "Suffice it to ___, the negotiations were far from straightforward.",
+      "optionA": "SAY",
+      "optionB": "TELL",
+      "correctIndex": 0,
+      "explanation": "Suffice it to say — формальное устойчивое выражение, означает «достаточно сказать».",
+      "tags": [
+        "say_vs_tell",
+        "say",
+        "formal_expression"
+      ]
+    },
+    {
+      "id": "svt_22",
+      "question": "I was ___ that the venue had been changed at the last moment.",
+      "optionA": "SAY",
+      "optionB": "TELL",
+      "correctIndex": 1,
+      "explanation": "Пассив: I was told (that). Типичная конструкция для передачи информации в формальном стиле.",
+      "tags": [
+        "say_vs_tell",
+        "tell",
+        "passive"
+      ]
+    },
+    {
+      "id": "svt_23",
+      "question": "He wouldn't ___ who had leaked the confidential information.",
+      "optionA": "SAY",
+      "optionB": "TELL",
+      "correctIndex": 0,
+      "explanation": "Say who/what/where — без косвенного дополнения. «Он не сказал, кто...» — wouldn't say.",
+      "tags": [
+        "say_vs_tell",
+        "say",
+        "reported_speech"
+      ]
+    },
+    {
+      "id": "svt_24",
+      "question": "I dare ___ he will come around to our point of view eventually.",
+      "optionA": "SAY",
+      "optionB": "TELL",
+      "correctIndex": 0,
+      "explanation": "I dare say — устойчивое формальное выражение, означает «полагаю, осмелюсь сказать».",
+      "tags": [
+        "say_vs_tell",
+        "say",
+        "formal_expression"
+      ]
+    },
+    {
+      "id": "svt_25",
+      "question": "She ___ him off for repeatedly missing important deadlines.",
+      "optionA": "SAY",
+      "optionB": "TELL",
+      "correctIndex": 1,
+      "explanation": "Tell someone off — фразовый глагол, означает «отчитать, сделать выговор». Say off не существует.",
+      "tags": [
+        "say_vs_tell",
+        "tell",
+        "phrasal_verb"
+      ]
+    },
+    {
+      "id": "svt_26",
+      "question": "Needless to ___, the project was a complete failure from the start.",
+      "optionA": "SAY",
+      "optionB": "TELL",
+      "correctIndex": 0,
+      "explanation": "Needless to say — устойчивое выражение, означает «не стоит и говорить, само собой разумеется».",
+      "tags": [
+        "say_vs_tell",
+        "say",
+        "formal_expression"
+      ]
+    },
+    {
+      "id": "svt_27",
+      "question": "She could easily ___ the original painting apart from the forgery.",
+      "optionA": "SAY",
+      "optionB": "TELL",
+      "correctIndex": 1,
+      "explanation": "Tell apart — устойчивое выражение, означает «отличить, различить». Say apart не существует.",
+      "tags": [
+        "say_vs_tell",
+        "tell",
+        "fixed_expression"
+      ]
+    },
+    {
+      "id": "svt_28",
+      "question": "He ___ on his colleague for violating the company's code of conduct.",
+      "optionA": "SAY",
+      "optionB": "TELL",
+      "correctIndex": 1,
+      "explanation": "Tell on someone — фразовый глагол, означает «донести, наябедничать». Say on не существует.",
+      "tags": [
+        "say_vs_tell",
+        "tell",
+        "phrasal_verb"
+      ]
+    },
+    {
+      "id": "svt_29",
+      "question": "It is safe to ___ that the experiment exceeded all expectations.",
+      "optionA": "SAY",
+      "optionB": "TELL",
+      "correctIndex": 0,
+      "explanation": "It's safe to say — устойчивое выражение, означает «можно с уверенностью сказать».",
+      "tags": [
+        "say_vs_tell",
+        "say",
+        "formal_expression"
+      ]
+    },
+    {
+      "id": "svt_30",
+      "question": "Her facial expression ___ me everything I needed to know.",
+      "optionA": "SAY",
+      "optionB": "TELL",
+      "correctIndex": 1,
+      "explanation": "Tell someone something — даже с неодушевлённым подлежащим: «Her expression told me» = выражение лица мне всё сказало.",
+      "tags": [
+        "say_vs_tell",
+        "tell",
+        "idiomatic"
+      ]
+    }
+  ]
+}

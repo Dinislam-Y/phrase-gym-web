@@ -1,0 +1,1485 @@
+{
+  "id": "beginner_02_this_that",
+  "title": "This / That",
+  "description": "Указательные местоимения: this, that, these, those. Учимся указывать на предметы рядом и далеко.",
+  "order": 2,
+  "level": "beginner",
+  "imageUrl": "assets/images/lessons/this_that.png",
+  "vocabulary": [
+    {
+      "id": "v2_book",
+      "english": "book",
+      "russian": "книга",
+      "partOfSpeech": "noun",
+      "example": "This is a book.",
+      "exampleTranslation": "Это книга.",
+      "audioPath": "assets/audio/vocabulary/v2_book.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_book.mp3"
+    },
+    {
+      "id": "v2_cat",
+      "english": "cat",
+      "russian": "кот, кошка",
+      "partOfSpeech": "noun",
+      "example": "That is a cat.",
+      "exampleTranslation": "Вон там кошка.",
+      "audioPath": "assets/audio/vocabulary/v2_cat.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_cat.mp3"
+    },
+    {
+      "id": "v2_pen",
+      "english": "pen",
+      "russian": "ручка",
+      "partOfSpeech": "noun",
+      "example": "This is a pen.",
+      "exampleTranslation": "Это ручка.",
+      "audioPath": "assets/audio/vocabulary/v2_pen.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_pen.mp3"
+    },
+    {
+      "id": "v2_table",
+      "english": "table",
+      "russian": "стол",
+      "partOfSpeech": "noun",
+      "example": "That is a table.",
+      "exampleTranslation": "Вон там стол.",
+      "audioPath": "assets/audio/vocabulary/v2_table.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_table.mp3"
+    },
+    {
+      "id": "v2_car",
+      "english": "car",
+      "russian": "машина",
+      "partOfSpeech": "noun",
+      "example": "That is a car.",
+      "exampleTranslation": "Вон там машина.",
+      "audioPath": "assets/audio/vocabulary/v2_car.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_car.mp3"
+    },
+    {
+      "id": "v2_house",
+      "english": "house",
+      "russian": "дом",
+      "partOfSpeech": "noun",
+      "example": "That is a house.",
+      "exampleTranslation": "Вон там дом.",
+      "audioPath": "assets/audio/vocabulary/v2_house.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_house.mp3"
+    },
+    {
+      "id": "v2_dog",
+      "english": "dog",
+      "russian": "собака",
+      "partOfSpeech": "noun",
+      "example": "This is a dog.",
+      "exampleTranslation": "Это собака.",
+      "audioPath": "assets/audio/vocabulary/v2_dog.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_dog.mp3"
+    },
+    {
+      "id": "v2_tree",
+      "english": "tree",
+      "russian": "дерево",
+      "partOfSpeech": "noun",
+      "example": "That is a tree.",
+      "exampleTranslation": "Вон там дерево.",
+      "audioPath": "assets/audio/vocabulary/v2_tree.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_tree.mp3"
+    },
+    {
+      "id": "v2_apple",
+      "english": "apple",
+      "russian": "яблоко",
+      "partOfSpeech": "noun",
+      "example": "This is an apple.",
+      "exampleTranslation": "Это яблоко.",
+      "audioPath": "assets/audio/vocabulary/v2_apple.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_apple.mp3"
+    },
+    {
+      "id": "v2_chair",
+      "english": "chair",
+      "russian": "стул",
+      "partOfSpeech": "noun",
+      "example": "That is a chair.",
+      "exampleTranslation": "Вон там стул.",
+      "audioPath": "assets/audio/vocabulary/v2_chair.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_chair.mp3"
+    },
+    {
+      "id": "v2_cup",
+      "english": "cup",
+      "russian": "чашка",
+      "partOfSpeech": "noun",
+      "example": "This is a cup.",
+      "exampleTranslation": "Это чашка.",
+      "audioPath": "assets/audio/vocabulary/v2_cup.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_cup.mp3"
+    },
+    {
+      "id": "v2_bag",
+      "english": "bag",
+      "russian": "сумка",
+      "partOfSpeech": "noun",
+      "example": "That is a bag.",
+      "exampleTranslation": "Вон там сумка.",
+      "audioPath": "assets/audio/vocabulary/v2_bag.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_bag.mp3"
+    },
+    {
+      "id": "v2_phone",
+      "english": "phone",
+      "russian": "телефон",
+      "partOfSpeech": "noun",
+      "example": "This is a phone.",
+      "exampleTranslation": "Это телефон.",
+      "audioPath": "assets/audio/vocabulary/v2_phone.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_phone.mp3"
+    },
+    {
+      "id": "v2_door",
+      "english": "door",
+      "russian": "дверь",
+      "partOfSpeech": "noun",
+      "example": "That is a door.",
+      "exampleTranslation": "Вон там дверь.",
+      "audioPath": "assets/audio/vocabulary/v2_door.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_door.mp3"
+    },
+    {
+      "id": "v2_window",
+      "english": "window",
+      "russian": "окно",
+      "partOfSpeech": "noun",
+      "example": "This is a window.",
+      "exampleTranslation": "Это окно.",
+      "audioPath": "assets/audio/vocabulary/v2_window.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_window.mp3"
+    },
+    {
+      "id": "v2_ball",
+      "english": "ball",
+      "russian": "мяч",
+      "partOfSpeech": "noun",
+      "example": "That is a ball.",
+      "exampleTranslation": "Вон там мяч.",
+      "audioPath": "assets/audio/vocabulary/v2_ball.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_ball.mp3"
+    },
+    {
+      "id": "v2_key",
+      "english": "key",
+      "russian": "ключ",
+      "partOfSpeech": "noun",
+      "example": "This is a key.",
+      "exampleTranslation": "Это ключ.",
+      "audioPath": "assets/audio/vocabulary/v2_key.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_key.mp3"
+    },
+    {
+      "id": "v2_big",
+      "english": "big",
+      "russian": "большой",
+      "partOfSpeech": "adjective",
+      "example": "This is a big dog.",
+      "exampleTranslation": "Это большая собака.",
+      "audioPath": "assets/audio/vocabulary/v2_big.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_big.mp3"
+    },
+    {
+      "id": "v2_small",
+      "english": "small",
+      "russian": "маленький",
+      "partOfSpeech": "adjective",
+      "example": "That is a small cat.",
+      "exampleTranslation": "Вон там маленькая кошка.",
+      "audioPath": "assets/audio/vocabulary/v2_small.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_small.mp3"
+    },
+    {
+      "id": "v2_here",
+      "english": "here",
+      "russian": "здесь",
+      "partOfSpeech": "adverb",
+      "example": "This book is here.",
+      "exampleTranslation": "Эта книга здесь.",
+      "audioPath": "assets/audio/vocabulary/v2_here.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_here.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "This / That / These / Those",
+    "subtitle": "Указательные местоимения. Указываем на предметы рядом и далеко, один и несколько.",
+    "construction": {
+      "formula": "This/That + is / These/Those + are",
+      "rules": [
+        {
+          "word": "This",
+          "description": "Один предмет рядом: This is a book (Это книга — вот она, рядом)."
+        },
+        {
+          "word": "That",
+          "description": "Один предмет далеко: That is a car (Это машина — вон там)."
+        },
+        {
+          "word": "These",
+          "description": "Несколько предметов рядом: These are books (Это книги — вот они, рядом)."
+        },
+        {
+          "word": "Those",
+          "description": "Несколько предметов далеко: Those are cars (Это машины — вон там)."
+        },
+        {
+          "word": "Отрицание (No)",
+          "description": "This is not a pen (Это не ручка). That is not a dog (Это не собака)."
+        },
+        {
+          "word": "Вопрос (?)",
+          "description": "What is this? (Что это?) What is that? (Что там?)"
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "explore",
+        "color": "green",
+        "title": "Предмет рядом (один)",
+        "description": "Когда вы указываете на один предмет, который находится рядом с вами.",
+        "example": {
+          "english": "This is a pen.",
+          "russian": "Это ручка."
+        }
+      },
+      {
+        "icon": "explore",
+        "color": "blue",
+        "title": "Предмет далеко (один)",
+        "description": "Когда вы указываете на один предмет, который находится далеко от вас.",
+        "example": {
+          "english": "That is a house.",
+          "russian": "Вон там дом."
+        }
+      },
+      {
+        "icon": "groups",
+        "color": "orange",
+        "title": "Несколько предметов рядом",
+        "description": "Когда вы указываете на несколько предметов рядом.",
+        "example": {
+          "english": "These are books.",
+          "russian": "Это книги."
+        }
+      },
+      {
+        "icon": "visibility",
+        "color": "purple",
+        "title": "Несколько предметов далеко",
+        "description": "Когда вы указываете на несколько предметов далеко.",
+        "example": {
+          "english": "Those are trees.",
+          "russian": "Вон там деревья."
+        }
+      }
+    ],
+    "markers": [
+      "this",
+      "that",
+      "these",
+      "those",
+      "here",
+      "there"
+    ]
+  },
+  "tasks": [
+    {
+      "id": "t2_1",
+      "type": "sentenceAssembly",
+      "question": "Вот книга",
+      "correctAnswer": "This is a book",
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "That",
+          "These",
+          "Those"
+        ],
+        [
+          "is",
+          "are",
+          "do",
+          "does"
+        ],
+        [
+          "a",
+          "an",
+          "the",
+          "one"
+        ],
+        [
+          "book",
+          "pen",
+          "cat",
+          "dog"
+        ]
+      ],
+      "mistakeTags": [
+        "demonstrative_pronouns"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_02_this_that/000.mp3"
+    },
+    {
+      "id": "t2_2",
+      "type": "sentenceAssembly",
+      "question": "Вон там кошка",
+      "correctAnswer": "That is a cat",
+      "options": [],
+      "variants": [
+        [
+          "That",
+          "This",
+          "These",
+          "Those"
+        ],
+        [
+          "is",
+          "are",
+          "do",
+          "does"
+        ],
+        [
+          "a",
+          "an",
+          "the",
+          "one"
+        ],
+        [
+          "cat",
+          "dog",
+          "book",
+          "pen"
+        ]
+      ],
+      "mistakeTags": [
+        "demonstrative_pronouns"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_02_this_that/001.mp3"
+    },
+    {
+      "id": "t2_3",
+      "type": "sentenceAssembly",
+      "question": "Вот ручки",
+      "correctAnswer": "These are pens",
+      "options": [],
+      "variants": [
+        [
+          "These",
+          "This",
+          "That",
+          "Those"
+        ],
+        [
+          "are",
+          "is",
+          "do",
+          "does"
+        ],
+        [
+          "pens",
+          "pen",
+          "books",
+          "cats"
+        ]
+      ],
+      "mistakeTags": [
+        "demonstrative_pronouns"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_02_this_that/002.mp3"
+    },
+    {
+      "id": "t2_4",
+      "type": "sentenceAssembly",
+      "question": "Вон там машины",
+      "correctAnswer": "Those are cars",
+      "options": [],
+      "variants": [
+        [
+          "Those",
+          "This",
+          "That",
+          "These"
+        ],
+        [
+          "are",
+          "is",
+          "do",
+          "does"
+        ],
+        [
+          "cars",
+          "car",
+          "dogs",
+          "trees"
+        ]
+      ],
+      "mistakeTags": [
+        "demonstrative_pronouns"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_02_this_that/003.mp3"
+    },
+    {
+      "id": "t2_5",
+      "type": "sentenceAssembly",
+      "question": "Вот стол",
+      "correctAnswer": "This is a table",
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "That",
+          "These",
+          "Those"
+        ],
+        [
+          "is",
+          "are",
+          "do",
+          "does"
+        ],
+        [
+          "a",
+          "an",
+          "the",
+          "one"
+        ],
+        [
+          "table",
+          "chair",
+          "door",
+          "window"
+        ]
+      ],
+      "mistakeTags": [
+        "demonstrative_pronouns"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_02_this_that/004.mp3"
+    },
+    {
+      "id": "t2_6",
+      "type": "sentenceAssembly",
+      "question": "Вон там дом",
+      "correctAnswer": "That is a house",
+      "options": [],
+      "variants": [
+        [
+          "That",
+          "This",
+          "These",
+          "Those"
+        ],
+        [
+          "is",
+          "are",
+          "do",
+          "does"
+        ],
+        [
+          "a",
+          "an",
+          "the",
+          "one"
+        ],
+        [
+          "house",
+          "tree",
+          "car",
+          "ball"
+        ]
+      ],
+      "mistakeTags": [
+        "demonstrative_pronouns"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_02_this_that/005.mp3"
+    },
+    {
+      "id": "t2_7",
+      "type": "sentenceAssembly",
+      "question": "Вот собаки",
+      "correctAnswer": "These are dogs",
+      "options": [],
+      "variants": [
+        [
+          "These",
+          "This",
+          "That",
+          "Those"
+        ],
+        [
+          "are",
+          "is",
+          "do",
+          "does"
+        ],
+        [
+          "dogs",
+          "dog",
+          "cats",
+          "cups"
+        ]
+      ],
+      "mistakeTags": [
+        "demonstrative_pronouns"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_02_this_that/006.mp3"
+    },
+    {
+      "id": "t2_8",
+      "type": "sentenceAssembly",
+      "question": "Вон там деревья",
+      "correctAnswer": "Those are trees",
+      "options": [],
+      "variants": [
+        [
+          "Those",
+          "This",
+          "That",
+          "These"
+        ],
+        [
+          "are",
+          "is",
+          "do",
+          "does"
+        ],
+        [
+          "trees",
+          "tree",
+          "balls",
+          "cars"
+        ]
+      ],
+      "mistakeTags": [
+        "demonstrative_pronouns"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_02_this_that/007.mp3"
+    },
+    {
+      "id": "t2_9",
+      "type": "sentenceAssembly",
+      "question": "Вот яблоко",
+      "correctAnswer": "This is an apple",
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "That",
+          "These",
+          "Those"
+        ],
+        [
+          "is",
+          "are",
+          "do",
+          "does"
+        ],
+        [
+          "an",
+          "a",
+          "the",
+          "one"
+        ],
+        [
+          "apple",
+          "book",
+          "pen",
+          "cup"
+        ]
+      ],
+      "mistakeTags": [
+        "demonstrative_pronouns"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_02_this_that/008.mp3"
+    },
+    {
+      "id": "t2_10",
+      "type": "sentenceAssembly",
+      "question": "Вон там стул",
+      "correctAnswer": "That is a chair",
+      "options": [],
+      "variants": [
+        [
+          "That",
+          "This",
+          "These",
+          "Those"
+        ],
+        [
+          "is",
+          "are",
+          "do",
+          "does"
+        ],
+        [
+          "a",
+          "an",
+          "the",
+          "one"
+        ],
+        [
+          "chair",
+          "table",
+          "lamp",
+          "door"
+        ]
+      ],
+      "mistakeTags": [
+        "demonstrative_pronouns"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_02_this_that/009.mp3"
+    },
+    {
+      "id": "t2_11",
+      "type": "sentenceAssembly",
+      "question": "Вот чашки",
+      "correctAnswer": "These are cups",
+      "options": [],
+      "variants": [
+        [
+          "These",
+          "This",
+          "That",
+          "Those"
+        ],
+        [
+          "are",
+          "is",
+          "do",
+          "does"
+        ],
+        [
+          "cups",
+          "cup",
+          "bags",
+          "pens"
+        ]
+      ],
+      "mistakeTags": [
+        "demonstrative_pronouns"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_02_this_that/010.mp3"
+    },
+    {
+      "id": "t2_12",
+      "type": "sentenceAssembly",
+      "question": "Вон там сумки",
+      "correctAnswer": "Those are bags",
+      "options": [],
+      "variants": [
+        [
+          "Those",
+          "This",
+          "That",
+          "These"
+        ],
+        [
+          "are",
+          "is",
+          "do",
+          "does"
+        ],
+        [
+          "bags",
+          "bag",
+          "hats",
+          "boxes"
+        ]
+      ],
+      "mistakeTags": [
+        "demonstrative_pronouns"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_02_this_that/011.mp3"
+    },
+    {
+      "id": "t2_13",
+      "type": "sentenceAssembly",
+      "question": "Вот телефон",
+      "correctAnswer": "This is a phone",
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "That",
+          "These",
+          "Those"
+        ],
+        [
+          "is",
+          "are",
+          "do",
+          "does"
+        ],
+        [
+          "a",
+          "an",
+          "the",
+          "one"
+        ],
+        [
+          "phone",
+          "key",
+          "book",
+          "pen"
+        ]
+      ],
+      "mistakeTags": [
+        "demonstrative_pronouns"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_02_this_that/012.mp3"
+    },
+    {
+      "id": "t2_14",
+      "type": "sentenceAssembly",
+      "question": "Вон там дверь",
+      "correctAnswer": "That is a door",
+      "options": [],
+      "variants": [
+        [
+          "That",
+          "This",
+          "These",
+          "Those"
+        ],
+        [
+          "is",
+          "are",
+          "do",
+          "does"
+        ],
+        [
+          "a",
+          "an",
+          "the",
+          "one"
+        ],
+        [
+          "door",
+          "window",
+          "table",
+          "chair"
+        ]
+      ],
+      "mistakeTags": [
+        "demonstrative_pronouns"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_02_this_that/013.mp3"
+    },
+    {
+      "id": "t2_15",
+      "type": "sentenceAssembly",
+      "question": "Вот окна",
+      "correctAnswer": "These are windows",
+      "options": [],
+      "variants": [
+        [
+          "These",
+          "This",
+          "That",
+          "Those"
+        ],
+        [
+          "are",
+          "is",
+          "do",
+          "does"
+        ],
+        [
+          "windows",
+          "window",
+          "doors",
+          "cups"
+        ]
+      ],
+      "mistakeTags": [
+        "demonstrative_pronouns"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_02_this_that/014.mp3"
+    },
+    {
+      "id": "t2_16",
+      "type": "sentenceAssembly",
+      "question": "Вон там мячи",
+      "correctAnswer": "Those are balls",
+      "options": [],
+      "variants": [
+        [
+          "Those",
+          "This",
+          "That",
+          "These"
+        ],
+        [
+          "are",
+          "is",
+          "do",
+          "does"
+        ],
+        [
+          "balls",
+          "ball",
+          "bags",
+          "hats"
+        ]
+      ],
+      "mistakeTags": [
+        "demonstrative_pronouns"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_02_this_that/015.mp3"
+    },
+    {
+      "id": "t2_17",
+      "type": "sentenceAssembly",
+      "question": "Это не книга",
+      "correctAnswer": "This is not a book",
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "That",
+          "These",
+          "Those"
+        ],
+        [
+          "is",
+          "are",
+          "do",
+          "does"
+        ],
+        [
+          "not",
+          "no",
+          "none",
+          "never"
+        ],
+        [
+          "a",
+          "an",
+          "the",
+          "one"
+        ],
+        [
+          "book",
+          "pen",
+          "cup",
+          "key"
+        ]
+      ],
+      "mistakeTags": [
+        "demonstrative_pronouns",
+        "negation"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_02_this_that/016.mp3"
+    },
+    {
+      "id": "t2_18",
+      "type": "sentenceAssembly",
+      "question": "Вон то — не собака",
+      "correctAnswer": "That is not a dog",
+      "options": [],
+      "variants": [
+        [
+          "That",
+          "This",
+          "These",
+          "Those"
+        ],
+        [
+          "is",
+          "are",
+          "do",
+          "does"
+        ],
+        [
+          "not",
+          "no",
+          "none",
+          "never"
+        ],
+        [
+          "a",
+          "an",
+          "the",
+          "one"
+        ],
+        [
+          "dog",
+          "cat",
+          "bird",
+          "fish"
+        ]
+      ],
+      "mistakeTags": [
+        "demonstrative_pronouns",
+        "negation"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_02_this_that/017.mp3"
+    },
+    {
+      "id": "t2_19",
+      "type": "sentenceAssembly",
+      "question": "Что это?",
+      "correctAnswer": "What is this?",
+      "options": [],
+      "variants": [
+        [
+          "What",
+          "Where",
+          "Who",
+          "When"
+        ],
+        [
+          "is",
+          "are",
+          "do",
+          "does"
+        ],
+        [
+          "this",
+          "that",
+          "these",
+          "those"
+        ]
+      ],
+      "mistakeTags": [
+        "demonstrative_pronouns",
+        "questions"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_02_this_that/018.mp3"
+    },
+    {
+      "id": "t2_20",
+      "type": "sentenceAssembly",
+      "question": "Что там?",
+      "correctAnswer": "What is that?",
+      "options": [],
+      "variants": [
+        [
+          "What",
+          "Where",
+          "Who",
+          "When"
+        ],
+        [
+          "is",
+          "are",
+          "do",
+          "does"
+        ],
+        [
+          "that",
+          "this",
+          "these",
+          "those"
+        ]
+      ],
+      "mistakeTags": [
+        "demonstrative_pronouns",
+        "questions"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_02_this_that/019.mp3"
+    },
+    {
+      "id": "t2_21",
+      "type": "sentenceAssembly",
+      "question": "Вот ключ",
+      "correctAnswer": "This is a key",
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "That",
+          "These",
+          "Those"
+        ],
+        [
+          "is",
+          "are",
+          "do",
+          "does"
+        ],
+        [
+          "a",
+          "an",
+          "the",
+          "one"
+        ],
+        [
+          "key",
+          "phone",
+          "cup",
+          "pen"
+        ]
+      ],
+      "mistakeTags": [
+        "demonstrative_pronouns"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_02_this_that/020.mp3"
+    },
+    {
+      "id": "t2_22",
+      "type": "sentenceAssembly",
+      "question": "Вон там лампа",
+      "correctAnswer": "That is a lamp",
+      "options": [],
+      "variants": [
+        [
+          "That",
+          "This",
+          "These",
+          "Those"
+        ],
+        [
+          "is",
+          "are",
+          "do",
+          "does"
+        ],
+        [
+          "a",
+          "an",
+          "the",
+          "one"
+        ],
+        [
+          "lamp",
+          "chair",
+          "door",
+          "table"
+        ]
+      ],
+      "mistakeTags": [
+        "demonstrative_pronouns"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_02_this_that/021.mp3"
+    },
+    {
+      "id": "t2_23",
+      "type": "sentenceAssembly",
+      "question": "Вот коробки",
+      "correctAnswer": "These are boxes",
+      "options": [],
+      "variants": [
+        [
+          "These",
+          "This",
+          "That",
+          "Those"
+        ],
+        [
+          "are",
+          "is",
+          "do",
+          "does"
+        ],
+        [
+          "boxes",
+          "box",
+          "bags",
+          "cups"
+        ]
+      ],
+      "mistakeTags": [
+        "demonstrative_pronouns"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_02_this_that/022.mp3"
+    },
+    {
+      "id": "t2_24",
+      "type": "sentenceAssembly",
+      "question": "Вон там шляпы",
+      "correctAnswer": "Those are hats",
+      "options": [],
+      "variants": [
+        [
+          "Those",
+          "This",
+          "That",
+          "These"
+        ],
+        [
+          "are",
+          "is",
+          "do",
+          "does"
+        ],
+        [
+          "hats",
+          "hat",
+          "balls",
+          "bags"
+        ]
+      ],
+      "mistakeTags": [
+        "demonstrative_pronouns"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_02_this_that/023.mp3"
+    },
+    {
+      "id": "t2_25",
+      "type": "sentenceAssembly",
+      "question": "Это не кошка",
+      "correctAnswer": "This is not a cat",
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "That",
+          "These",
+          "Those"
+        ],
+        [
+          "is",
+          "are",
+          "do",
+          "does"
+        ],
+        [
+          "not",
+          "no",
+          "none",
+          "never"
+        ],
+        [
+          "a",
+          "an",
+          "the",
+          "one"
+        ],
+        [
+          "cat",
+          "dog",
+          "book",
+          "pen"
+        ]
+      ],
+      "mistakeTags": [
+        "demonstrative_pronouns",
+        "negation"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_02_this_that/024.mp3"
+    },
+    {
+      "id": "t2_26",
+      "type": "sentenceAssembly",
+      "question": "Вон то — не машина",
+      "correctAnswer": "That is not a car",
+      "options": [],
+      "variants": [
+        [
+          "That",
+          "This",
+          "These",
+          "Those"
+        ],
+        [
+          "is",
+          "are",
+          "do",
+          "does"
+        ],
+        [
+          "not",
+          "no",
+          "none",
+          "never"
+        ],
+        [
+          "a",
+          "an",
+          "the",
+          "one"
+        ],
+        [
+          "car",
+          "tree",
+          "house",
+          "ball"
+        ]
+      ],
+      "mistakeTags": [
+        "demonstrative_pronouns",
+        "negation"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_02_this_that/025.mp3"
+    },
+    {
+      "id": "t2_27",
+      "type": "sentenceAssembly",
+      "question": "Это не ручки",
+      "correctAnswer": "These are not pens",
+      "options": [],
+      "variants": [
+        [
+          "These",
+          "This",
+          "That",
+          "Those"
+        ],
+        [
+          "are",
+          "is",
+          "do",
+          "does"
+        ],
+        [
+          "not",
+          "no",
+          "none",
+          "never"
+        ],
+        [
+          "pens",
+          "books",
+          "cups",
+          "bags"
+        ]
+      ],
+      "mistakeTags": [
+        "demonstrative_pronouns",
+        "negation"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_02_this_that/026.mp3"
+    },
+    {
+      "id": "t2_28",
+      "type": "sentenceAssembly",
+      "question": "Вон те — не деревья",
+      "correctAnswer": "Those are not trees",
+      "options": [],
+      "variants": [
+        [
+          "Those",
+          "This",
+          "That",
+          "These"
+        ],
+        [
+          "are",
+          "is",
+          "do",
+          "does"
+        ],
+        [
+          "not",
+          "no",
+          "none",
+          "never"
+        ],
+        [
+          "trees",
+          "flowers",
+          "houses",
+          "birds"
+        ]
+      ],
+      "mistakeTags": [
+        "demonstrative_pronouns",
+        "negation"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_02_this_that/027.mp3"
+    },
+    {
+      "id": "t2_29",
+      "type": "sentenceAssembly",
+      "question": "Вот собака",
+      "correctAnswer": "This is a dog",
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "That",
+          "These",
+          "Those"
+        ],
+        [
+          "is",
+          "are",
+          "do",
+          "does"
+        ],
+        [
+          "a",
+          "an",
+          "the",
+          "one"
+        ],
+        [
+          "dog",
+          "cat",
+          "book",
+          "ball"
+        ]
+      ],
+      "mistakeTags": [
+        "demonstrative_pronouns"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_02_this_that/028.mp3"
+    },
+    {
+      "id": "t2_30",
+      "type": "sentenceAssembly",
+      "question": "Вот яблоки",
+      "correctAnswer": "These are apples",
+      "options": [],
+      "variants": [
+        [
+          "These",
+          "This",
+          "That",
+          "Those"
+        ],
+        [
+          "are",
+          "is",
+          "do",
+          "does"
+        ],
+        [
+          "apples",
+          "apple",
+          "boxes",
+          "windows"
+        ]
+      ],
+      "mistakeTags": [
+        "demonstrative_pronouns"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_02_this_that/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionBeginner02ThisThat",
+  "theoryQuiz": [
+    {
+      "id": "tq_01",
+      "type": "trueFalse",
+      "question": "\"This\" используется для предмета, который находится рядом с нами.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "This указывает на один предмет, который находится близко к говорящему."
+    },
+    {
+      "id": "tq_02",
+      "type": "multipleChoice",
+      "question": "Какое указательное местоимение используется для нескольких предметов далеко?",
+      "options": [
+        "This",
+        "That",
+        "These",
+        "Those"
+      ],
+      "correctIndex": 3,
+      "explanation": "Those используется для нескольких предметов, которые находятся далеко от говорящего."
+    },
+    {
+      "id": "tq_03",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"___ is my book.\" (книга у вас в руке)",
+      "options": [
+        "That",
+        "Those",
+        "This",
+        "These"
+      ],
+      "correctIndex": 2,
+      "explanation": "This используется для одного предмета рядом с говорящим."
+    },
+    {
+      "id": "tq_04",
+      "type": "trueFalse",
+      "question": "\"These\" используется с глаголом \"is\": These is my friends.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "These и Those используются с are: These are my friends."
+    },
+    {
+      "id": "tq_05",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"___ are my keys on the table.\" (стол рядом)",
+      "options": [
+        "That",
+        "This",
+        "Those",
+        "These"
+      ],
+      "correctIndex": 3,
+      "explanation": "These используется для нескольких предметов рядом с говорящим, и сочетается с are."
+    },
+    {
+      "id": "tq_06",
+      "type": "trueFalse",
+      "question": "\"That\" используется для одного предмета, который находится далеко.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "That указывает на один предмет на расстоянии от говорящего."
+    },
+    {
+      "id": "tq_07",
+      "type": "multipleChoice",
+      "question": "Какая форма глагола используется с This и That?",
+      "options": [
+        "are",
+        "is",
+        "am",
+        "were"
+      ],
+      "correctIndex": 1,
+      "explanation": "This и That указывают на один предмет, поэтому используется is."
+    },
+    {
+      "id": "tq_08",
+      "type": "multipleChoice",
+      "question": "Выберите правильное предложение:",
+      "options": [
+        "Those is expensive cars.",
+        "That are an old house.",
+        "These are beautiful flowers.",
+        "This are my pen."
+      ],
+      "correctIndex": 2,
+      "explanation": "These (несколько, рядом) сочетается с are. Остальные варианты содержат ошибки в согласовании."
+    },
+    {
+      "id": "tq_09",
+      "type": "trueFalse",
+      "question": "В предложении \"Those are tall buildings over there\" слово Those используется правильно.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Those + are верно для нескольких предметов далеко (over there подтверждает расстояние)."
+    },
+    {
+      "id": "tq_10",
+      "type": "multipleChoice",
+      "question": "Как перевести: «Это (далеко) мой дом»?",
+      "options": [
+        "This is my house.",
+        "These are my house.",
+        "That is my house.",
+        "Those is my house."
+      ],
+      "correctIndex": 2,
+      "explanation": "That is — один предмет далеко. This is было бы для предмета рядом."
+    }
+  ]
+}

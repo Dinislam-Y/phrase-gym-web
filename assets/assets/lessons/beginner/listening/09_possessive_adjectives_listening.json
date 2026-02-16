@@ -1,0 +1,476 @@
+{
+  "id": "beginner_listening_09_possessive_adjectives",
+  "title": "Possessive Adjectives: my, your, his, her",
+  "description": "Слушайте и определяйте, чьи вещи упоминаются в предложениях.",
+  "order": 9,
+  "level": "beginner",
+  "imageUrl": "assets/images/lessons/possessive_adjectives.png",
+  "tasks": [
+    {
+      "id": "t9_01",
+      "audioText": "A girl is in the classroom. She opens a bag. My pencil is in the bag.",
+      "transcript": "My pencil is in the bag.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The pencil belongs to the girl."
+        },
+        {
+          "id": "o2",
+          "text": "The pencil belongs to the teacher."
+        },
+        {
+          "id": "o3",
+          "text": "The pencil belongs to her friend."
+        },
+        {
+          "id": "o4",
+          "text": "The pencil belongs to the boy."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'My pencil' means the pencil belongs to the speaker, who is the girl. Option 1 is correct.",
+      "mistakeTags": [
+        "possessive_adjectives",
+        "my",
+        "school"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_09_possessive_adjectives/t9_01.mp3"
+    },
+    {
+      "id": "t9_02",
+      "audioText": "A man talks to his son at breakfast. The boy eats cereal. Your milk is on the table.",
+      "transcript": "Your milk is on the table.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The father's milk is on the table."
+        },
+        {
+          "id": "o2",
+          "text": "The son's milk is on the table."
+        },
+        {
+          "id": "o3",
+          "text": "The mother's milk is on the table."
+        },
+        {
+          "id": "o4",
+          "text": "The cat's milk is on the table."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Your milk' means the milk of the person he speaks to — his son. Option 2 is correct.",
+      "mistakeTags": [
+        "possessive_adjectives",
+        "your",
+        "home"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_09_possessive_adjectives/t9_02.mp3"
+    },
+    {
+      "id": "t9_03",
+      "audioText": "Two women are at the office. One points at a man. His phone is ringing.",
+      "transcript": "His phone is ringing.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The woman's phone is ringing."
+        },
+        {
+          "id": "o2",
+          "text": "The man's phone is ringing."
+        },
+        {
+          "id": "o3",
+          "text": "The boss's phone is ringing."
+        },
+        {
+          "id": "o4",
+          "text": "Nobody's phone is ringing."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'His phone' refers to the man who was pointed at. Option 2 is correct.",
+      "mistakeTags": [
+        "possessive_adjectives",
+        "his",
+        "work"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_09_possessive_adjectives/t9_03.mp3"
+    },
+    {
+      "id": "t9_04",
+      "audioText": "A boy talks about his sister. She is at the library. Her book is very interesting.",
+      "transcript": "Her book is very interesting.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The boy's book is interesting."
+        },
+        {
+          "id": "o2",
+          "text": "The library's book is interesting."
+        },
+        {
+          "id": "o3",
+          "text": "The sister's book is interesting."
+        },
+        {
+          "id": "o4",
+          "text": "The teacher's book is interesting."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Her book' means the sister's book. The boy talks about his sister, so option 3 is correct.",
+      "mistakeTags": [
+        "possessive_adjectives",
+        "her",
+        "library"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_09_possessive_adjectives/t9_04.mp3"
+    },
+    {
+      "id": "t9_05",
+      "audioText": "A family is at the park. The children run and play. Our dog loves this park.",
+      "transcript": "Our dog loves this park.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The family's dog loves the park."
+        },
+        {
+          "id": "o2",
+          "text": "A stranger's dog loves the park."
+        },
+        {
+          "id": "o3",
+          "text": "The neighbor's dog loves the park."
+        },
+        {
+          "id": "o4",
+          "text": "The park guard's dog loves the park."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Our dog' means the dog belongs to the family. Option 1 is correct.",
+      "mistakeTags": [
+        "possessive_adjectives",
+        "our",
+        "park"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_09_possessive_adjectives/t9_05.mp3"
+    },
+    {
+      "id": "t9_06",
+      "audioText": "A teacher talks about two students. They sit in the front row. Their project is excellent.",
+      "transcript": "Their project is excellent.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The teacher's project is excellent."
+        },
+        {
+          "id": "o2",
+          "text": "The school's project is excellent."
+        },
+        {
+          "id": "o3",
+          "text": "Another group's project is excellent."
+        },
+        {
+          "id": "o4",
+          "text": "The two students' project is excellent."
+        }
+      ],
+      "correctIndex": 3,
+      "explanation": "'Their project' means the project of the two students. Option 4 is correct.",
+      "mistakeTags": [
+        "possessive_adjectives",
+        "their",
+        "school"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_09_possessive_adjectives/t9_06.mp3"
+    },
+    {
+      "id": "t9_07",
+      "audioText": "A woman is at the airport. She checks the ticket. My flight is at three o'clock.",
+      "transcript": "My flight is at three o'clock.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The woman's flight is at three."
+        },
+        {
+          "id": "o2",
+          "text": "Her friend's flight is at three."
+        },
+        {
+          "id": "o3",
+          "text": "The pilot's flight is at three."
+        },
+        {
+          "id": "o4",
+          "text": "The man's flight is at three."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'My flight' means the speaker's flight. The woman is speaking, so option 1 is correct.",
+      "mistakeTags": [
+        "possessive_adjectives",
+        "my",
+        "travel"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_09_possessive_adjectives/t9_07.mp3"
+    },
+    {
+      "id": "t9_08",
+      "audioText": "A doctor talks to a patient. The patient sits on a chair. Your blood pressure is normal.",
+      "transcript": "Your blood pressure is normal.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The doctor's blood pressure is normal."
+        },
+        {
+          "id": "o2",
+          "text": "The nurse's blood pressure is normal."
+        },
+        {
+          "id": "o3",
+          "text": "The patient's blood pressure is normal."
+        },
+        {
+          "id": "o4",
+          "text": "Everyone's blood pressure is normal."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Your blood pressure' — the doctor speaks to the patient, so 'your' refers to the patient. Option 3.",
+      "mistakeTags": [
+        "possessive_adjectives",
+        "your",
+        "hospital"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_09_possessive_adjectives/t9_08.mp3"
+    },
+    {
+      "id": "t9_09",
+      "audioText": "A boy sees his father in the garage. The father fixes something. His car is very old.",
+      "transcript": "His car is very old.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The boy's car is very old."
+        },
+        {
+          "id": "o2",
+          "text": "The father's car is very old."
+        },
+        {
+          "id": "o3",
+          "text": "The neighbor's car is very old."
+        },
+        {
+          "id": "o4",
+          "text": "The mechanic's car is very old."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'His car' refers to the father, who is fixing it. Option 2 is correct.",
+      "mistakeTags": [
+        "possessive_adjectives",
+        "his",
+        "home"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_09_possessive_adjectives/t9_09.mp3"
+    },
+    {
+      "id": "t9_10",
+      "audioText": "A woman talks about her colleague Anna. Anna is very smart. Her English is perfect.",
+      "transcript": "Her English is perfect.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Anna's English is perfect."
+        },
+        {
+          "id": "o2",
+          "text": "The speaker's English is perfect."
+        },
+        {
+          "id": "o3",
+          "text": "The boss's English is perfect."
+        },
+        {
+          "id": "o4",
+          "text": "Everyone's English is perfect."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Her English' refers to Anna, who was just mentioned. Option 1 is correct.",
+      "mistakeTags": [
+        "possessive_adjectives",
+        "her",
+        "work"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_09_possessive_adjectives/t9_10.mp3"
+    },
+    {
+      "id": "t9_11",
+      "audioText": "A couple sits in a restaurant. They look at the menu. Our table is near the window.",
+      "transcript": "Our table is near the window.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The waiter's table is near the window."
+        },
+        {
+          "id": "o2",
+          "text": "The couple's table is near the window."
+        },
+        {
+          "id": "o3",
+          "text": "Another guest's table is near the window."
+        },
+        {
+          "id": "o4",
+          "text": "The chef's table is near the window."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Our table' means the table of the couple speaking. Option 2 is correct.",
+      "mistakeTags": [
+        "possessive_adjectives",
+        "our",
+        "restaurant"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_09_possessive_adjectives/t9_11.mp3"
+    },
+    {
+      "id": "t9_12",
+      "audioText": "A manager talks about the new employees. They started this week. Their desks are on the second floor.",
+      "transcript": "Their desks are on the second floor.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The manager's desk is on the second floor."
+        },
+        {
+          "id": "o2",
+          "text": "The old employees' desks are on the second floor."
+        },
+        {
+          "id": "o3",
+          "text": "The new employees' desks are on the second floor."
+        },
+        {
+          "id": "o4",
+          "text": "All desks are on the second floor."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Their desks' refers to the new employees. Option 3 is correct.",
+      "mistakeTags": [
+        "possessive_adjectives",
+        "their",
+        "work"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_09_possessive_adjectives/t9_12.mp3"
+    },
+    {
+      "id": "t9_13",
+      "audioText": "A girl talks about her brother. He is a cook. His restaurant is downtown.",
+      "transcript": "His restaurant is downtown.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The girl's restaurant is downtown."
+        },
+        {
+          "id": "o2",
+          "text": "The brother's restaurant is downtown."
+        },
+        {
+          "id": "o3",
+          "text": "The family's restaurant is downtown."
+        },
+        {
+          "id": "o4",
+          "text": "The friend's restaurant is downtown."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'His restaurant' refers to the brother. Option 2 is correct.",
+      "mistakeTags": [
+        "possessive_adjectives",
+        "his",
+        "restaurant"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_09_possessive_adjectives/t9_13.mp3"
+    },
+    {
+      "id": "t9_14",
+      "audioText": "A woman enters a hotel room. She puts down her bags. My room is very clean.",
+      "transcript": "My room is very clean.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The cleaner's room is very clean."
+        },
+        {
+          "id": "o2",
+          "text": "The hotel manager's room is very clean."
+        },
+        {
+          "id": "o3",
+          "text": "The woman's room is very clean."
+        },
+        {
+          "id": "o4",
+          "text": "The next room is very clean."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'My room' means the room of the speaker — the woman. Option 3 is correct.",
+      "mistakeTags": [
+        "possessive_adjectives",
+        "my",
+        "hotel"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_09_possessive_adjectives/t9_14.mp3"
+    },
+    {
+      "id": "t9_15",
+      "audioText": "A mother calls her children to dinner. The food is ready. Your dinner is getting cold.",
+      "transcript": "Your dinner is getting cold.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The mother's dinner is getting cold."
+        },
+        {
+          "id": "o2",
+          "text": "The father's dinner is getting cold."
+        },
+        {
+          "id": "o3",
+          "text": "The children's dinner is getting cold."
+        },
+        {
+          "id": "o4",
+          "text": "The dog's dinner is getting cold."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Your dinner' — the mother speaks to the children, so 'your' means the children's. Option 3.",
+      "mistakeTags": [
+        "possessive_adjectives",
+        "your",
+        "home"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_09_possessive_adjectives/t9_15.mp3"
+    }
+  ],
+  "short_description": "Тренируйте понимание притяжательных прилагательных на слух."
+}

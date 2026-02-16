@@ -1,0 +1,400 @@
+{
+  "id": "pre_bc_09_pronouns",
+  "title": "I vs Me",
+  "description": "I или Me? Учимся различать подлежащее и дополнение.",
+  "order": 10,
+  "level": "pre_intermediate",
+  "imageUrl": null,
+  "tasks": [
+    {
+      "id": "ivm_1",
+      "question": "___ like coffee.",
+      "optionA": "I",
+      "optionB": "ME",
+      "correctIndex": 0,
+      "explanation": "Подлежащее (кто?), поэтому I.",
+      "tags": [
+        "i_vs_me",
+        "i",
+        "food"
+      ]
+    },
+    {
+      "id": "ivm_2",
+      "question": "Call ___ later.",
+      "optionA": "I",
+      "optionB": "ME",
+      "correctIndex": 1,
+      "explanation": "Дополнение (кого?), поэтому me.",
+      "tags": [
+        "i_vs_me",
+        "me",
+        "request"
+      ]
+    },
+    {
+      "id": "ivm_3",
+      "question": "___ am tired.",
+      "optionA": "I",
+      "optionB": "ME",
+      "correctIndex": 0,
+      "explanation": "Подлежащее (кто?), поэтому I.",
+      "tags": [
+        "i_vs_me",
+        "i",
+        "state"
+      ]
+    },
+    {
+      "id": "ivm_4",
+      "question": "Help ___ please.",
+      "optionA": "I",
+      "optionB": "ME",
+      "correctIndex": 1,
+      "explanation": "Дополнение (кому?), поэтому me.",
+      "tags": [
+        "i_vs_me",
+        "me",
+        "request"
+      ]
+    },
+    {
+      "id": "ivm_5",
+      "question": "___ can swim.",
+      "optionA": "I",
+      "optionB": "ME",
+      "correctIndex": 0,
+      "explanation": "Подлежащее (кто?), поэтому I.",
+      "tags": [
+        "i_vs_me",
+        "i",
+        "ability"
+      ]
+    },
+    {
+      "id": "ivm_6",
+      "question": "Tell ___ the truth.",
+      "optionA": "I",
+      "optionB": "ME",
+      "correctIndex": 1,
+      "explanation": "Дополнение (кому?), поэтому me.",
+      "tags": [
+        "i_vs_me",
+        "me",
+        "request"
+      ]
+    },
+    {
+      "id": "ivm_7",
+      "question": "___ work here.",
+      "optionA": "I",
+      "optionB": "ME",
+      "correctIndex": 0,
+      "explanation": "Подлежащее (кто?), поэтому I.",
+      "tags": [
+        "i_vs_me",
+        "i",
+        "work"
+      ]
+    },
+    {
+      "id": "ivm_8",
+      "question": "___ love music.",
+      "optionA": "I",
+      "optionB": "ME",
+      "correctIndex": 0,
+      "explanation": "Подлежащее (кто?), поэтому I.",
+      "tags": [
+        "i_vs_me",
+        "i",
+        "hobby"
+      ]
+    },
+    {
+      "id": "ivm_9",
+      "question": "Give it to ___.",
+      "optionA": "I",
+      "optionB": "ME",
+      "correctIndex": 1,
+      "explanation": "После предлога to всегда me.",
+      "tags": [
+        "i_vs_me",
+        "me",
+        "preposition"
+      ]
+    },
+    {
+      "id": "ivm_10",
+      "question": "___ need water.",
+      "optionA": "I",
+      "optionB": "ME",
+      "correctIndex": 0,
+      "explanation": "Подлежащее (кто?), поэтому I.",
+      "tags": [
+        "i_vs_me",
+        "i",
+        "need"
+      ]
+    },
+    {
+      "id": "ivm_11",
+      "question": "Come with ___.",
+      "optionA": "I",
+      "optionB": "ME",
+      "correctIndex": 1,
+      "explanation": "После предлога with всегда me.",
+      "tags": [
+        "i_vs_me",
+        "me",
+        "preposition"
+      ]
+    },
+    {
+      "id": "ivm_12",
+      "question": "___ am ready.",
+      "optionA": "I",
+      "optionB": "ME",
+      "correctIndex": 0,
+      "explanation": "Подлежащее (кто?), поэтому I.",
+      "tags": [
+        "i_vs_me",
+        "i",
+        "state"
+      ]
+    },
+    {
+      "id": "ivm_13",
+      "question": "Listen to ___.",
+      "optionA": "I",
+      "optionB": "ME",
+      "correctIndex": 1,
+      "explanation": "После предлога to всегда me.",
+      "tags": [
+        "i_vs_me",
+        "me",
+        "preposition"
+      ]
+    },
+    {
+      "id": "ivm_14",
+      "question": "Wait for ___.",
+      "optionA": "I",
+      "optionB": "ME",
+      "correctIndex": 1,
+      "explanation": "После предлога for всегда me.",
+      "tags": [
+        "i_vs_me",
+        "me",
+        "preposition"
+      ]
+    },
+    {
+      "id": "ivm_15",
+      "question": "___ feel good.",
+      "optionA": "I",
+      "optionB": "ME",
+      "correctIndex": 0,
+      "explanation": "Подлежащее (кто?), поэтому I.",
+      "tags": [
+        "i_vs_me",
+        "i",
+        "state"
+      ]
+    },
+    {
+      "id": "ivm_16",
+      "question": "This is for ___.",
+      "optionA": "I",
+      "optionB": "ME",
+      "correctIndex": 1,
+      "explanation": "После предлога for всегда me.",
+      "tags": [
+        "i_vs_me",
+        "me",
+        "preposition"
+      ]
+    },
+    {
+      "id": "ivm_17",
+      "question": "___ understand it.",
+      "optionA": "I",
+      "optionB": "ME",
+      "correctIndex": 0,
+      "explanation": "Подлежащее (кто?), поэтому I.",
+      "tags": [
+        "i_vs_me",
+        "i",
+        "understanding"
+      ]
+    },
+    {
+      "id": "ivm_18",
+      "question": "She knows ___.",
+      "optionA": "I",
+      "optionB": "ME",
+      "correctIndex": 1,
+      "explanation": "Дополнение (кого?), поэтому me.",
+      "tags": [
+        "i_vs_me",
+        "me",
+        "relation"
+      ]
+    },
+    {
+      "id": "ivm_19",
+      "question": "___ want this.",
+      "optionA": "I",
+      "optionB": "ME",
+      "correctIndex": 0,
+      "explanation": "Подлежащее (кто?), поэтому I.",
+      "tags": [
+        "i_vs_me",
+        "i",
+        "desire"
+      ]
+    },
+    {
+      "id": "ivm_20",
+      "question": "Talk about ___.",
+      "optionA": "I",
+      "optionB": "ME",
+      "correctIndex": 1,
+      "explanation": "После предлога about всегда me.",
+      "tags": [
+        "i_vs_me",
+        "me",
+        "preposition"
+      ]
+    },
+    {
+      "id": "ivm_21",
+      "question": "Tom and ___ are friends.",
+      "optionA": "I",
+      "optionB": "ME",
+      "correctIndex": 0,
+      "explanation": "Подлежащее, поэтому Tom and I.",
+      "tags": [
+        "i_vs_me",
+        "i",
+        "compound"
+      ]
+    },
+    {
+      "id": "ivm_22",
+      "question": "Between you and ___.",
+      "optionA": "I",
+      "optionB": "ME",
+      "correctIndex": 1,
+      "explanation": "После предлога between всегда me.",
+      "tags": [
+        "i_vs_me",
+        "me",
+        "preposition"
+      ]
+    },
+    {
+      "id": "ivm_23",
+      "question": "___ know the answer.",
+      "optionA": "I",
+      "optionB": "ME",
+      "correctIndex": 0,
+      "explanation": "Подлежащее (кто?), поэтому I.",
+      "tags": [
+        "i_vs_me",
+        "i",
+        "knowledge"
+      ]
+    },
+    {
+      "id": "ivm_24",
+      "question": "He likes Tom and ___.",
+      "optionA": "I",
+      "optionB": "ME",
+      "correctIndex": 1,
+      "explanation": "Дополнение, поэтому Tom and me.",
+      "tags": [
+        "i_vs_me",
+        "me",
+        "compound"
+      ]
+    },
+    {
+      "id": "ivm_25",
+      "question": "Ann and ___ will go.",
+      "optionA": "I",
+      "optionB": "ME",
+      "correctIndex": 0,
+      "explanation": "Подлежащее, поэтому Ann and I.",
+      "tags": [
+        "i_vs_me",
+        "i",
+        "compound"
+      ]
+    },
+    {
+      "id": "ivm_26",
+      "question": "It's ___ at the door.",
+      "optionA": "I",
+      "optionB": "ME",
+      "correctIndex": 1,
+      "explanation": "В разговорной речи после It's используется me.",
+      "tags": [
+        "i_vs_me",
+        "me",
+        "informal"
+      ]
+    },
+    {
+      "id": "ivm_27",
+      "question": "My dad and ___ play chess.",
+      "optionA": "I",
+      "optionB": "ME",
+      "correctIndex": 0,
+      "explanation": "Подлежащее, поэтому my dad and I.",
+      "tags": [
+        "i_vs_me",
+        "i",
+        "compound"
+      ]
+    },
+    {
+      "id": "ivm_28",
+      "question": "Join my friend and ___.",
+      "optionA": "I",
+      "optionB": "ME",
+      "correctIndex": 1,
+      "explanation": "Дополнение, поэтому my friend and me.",
+      "tags": [
+        "i_vs_me",
+        "me",
+        "compound"
+      ]
+    },
+    {
+      "id": "ivm_29",
+      "question": "She and ___ are team.",
+      "optionA": "I",
+      "optionB": "ME",
+      "correctIndex": 0,
+      "explanation": "Подлежащее, поэтому she and I.",
+      "tags": [
+        "i_vs_me",
+        "i",
+        "compound"
+      ]
+    },
+    {
+      "id": "ivm_30",
+      "question": "Who's there? It's ___.",
+      "optionA": "I",
+      "optionB": "ME",
+      "correctIndex": 1,
+      "explanation": "В разговорной речи после It's используется me.",
+      "tags": [
+        "i_vs_me",
+        "me",
+        "informal"
+      ]
+    }
+  ]
+}

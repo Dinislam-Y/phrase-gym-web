@@ -1,0 +1,2900 @@
+{
+  "id": "advanced_08_advanced_connectors",
+  "title": "Advanced Connectors",
+  "description": "Продвинутые связующие слова — мощные инструменты для построения сложных аргументов и выражения тонких логических связей: противопоставления, уступки, условия и следствия.",
+  "order": 8,
+  "level": "advanced",
+  "imageUrl": "assets/images/lessons/advanced_connectors.png",
+  "short_description": "shortDescriptionAdvanced08AdvancedConnectors",
+  "vocabulary": [
+    {
+      "id": "v8_nevertheless",
+      "english": "nevertheless",
+      "russian": "тем не менее",
+      "partOfSpeech": "adverb",
+      "example": "He was tired; nevertheless, he continued.",
+      "exampleTranslation": "Он устал; тем не менее, он продолжил.",
+      "audioPath": "assets/audio/vocabulary/v8_nevertheless.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_nevertheless.mp3"
+    },
+    {
+      "id": "v8_furthermore",
+      "english": "furthermore",
+      "russian": "более того / кроме того",
+      "partOfSpeech": "adverb",
+      "example": "Furthermore, the data supports this.",
+      "exampleTranslation": "Более того, данные подтверждают это.",
+      "audioPath": "assets/audio/vocabulary/v8_furthermore.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_furthermore.mp3"
+    },
+    {
+      "id": "v8_moreover",
+      "english": "moreover",
+      "russian": "кроме того / к тому же",
+      "partOfSpeech": "adverb",
+      "example": "Moreover, it is cost-effective.",
+      "exampleTranslation": "К тому же, это экономически выгодно.",
+      "audioPath": "assets/audio/vocabulary/v8_moreover.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_moreover.mp3"
+    },
+    {
+      "id": "v8_whereas",
+      "english": "whereas",
+      "russian": "тогда как / в то время как",
+      "partOfSpeech": "conjunction",
+      "example": "She likes tea, whereas he prefers coffee.",
+      "exampleTranslation": "Она любит чай, тогда как он предпочитает кофе.",
+      "audioPath": "assets/audio/vocabulary/v8_whereas.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_whereas.mp3"
+    },
+    {
+      "id": "v8_despite",
+      "english": "despite",
+      "russian": "несмотря на",
+      "partOfSpeech": "preposition",
+      "example": "Despite the rain, we went out.",
+      "exampleTranslation": "Несмотря на дождь, мы вышли.",
+      "audioPath": "assets/audio/vocabulary/v8_despite.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_despite.mp3"
+    },
+    {
+      "id": "v8_provided",
+      "english": "provided that",
+      "russian": "при условии, что",
+      "partOfSpeech": "conjunction",
+      "example": "You may go, provided that you return.",
+      "exampleTranslation": "Ты можешь пойти, при условии, что вернёшься.",
+      "audioPath": "assets/audio/vocabulary/v8_provided.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_provided.mp3"
+    },
+    {
+      "id": "v8_regardless",
+      "english": "regardless of",
+      "russian": "независимо от / вне зависимости от",
+      "partOfSpeech": "preposition",
+      "example": "Regardless of the cost, we proceed.",
+      "exampleTranslation": "Независимо от стоимости, мы продолжаем.",
+      "audioPath": "assets/audio/vocabulary/v8_regardless.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_regardless.mp3"
+    },
+    {
+      "id": "v8_notwithstanding",
+      "english": "notwithstanding",
+      "russian": "невзирая на / несмотря на",
+      "partOfSpeech": "preposition",
+      "example": "Notwithstanding the delay, we finished.",
+      "exampleTranslation": "Невзирая на задержку, мы закончили.",
+      "audioPath": "assets/audio/vocabulary/v8_notwithstanding.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_notwithstanding.mp3"
+    },
+    {
+      "id": "v8_albeit",
+      "english": "albeit",
+      "russian": "хотя и / пусть и",
+      "partOfSpeech": "conjunction",
+      "example": "He agreed, albeit reluctantly.",
+      "exampleTranslation": "Он согласился, хотя и неохотно.",
+      "audioPath": "assets/audio/vocabulary/v8_albeit.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_albeit.mp3"
+    },
+    {
+      "id": "v8_hence",
+      "english": "hence",
+      "russian": "следовательно / поэтому",
+      "partOfSpeech": "adverb",
+      "example": "He was late; hence, he missed it.",
+      "exampleTranslation": "Он опоздал; следовательно, он это пропустил.",
+      "audioPath": "assets/audio/vocabulary/v8_hence.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_hence.mp3"
+    },
+    {
+      "id": "v8_thereby",
+      "english": "thereby",
+      "russian": "тем самым / таким образом",
+      "partOfSpeech": "adverb",
+      "example": "He resigned, thereby ending the conflict.",
+      "exampleTranslation": "Он ушёл в отставку, тем самым положив конец конфликту.",
+      "audioPath": "assets/audio/vocabulary/v8_thereby.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_thereby.mp3"
+    },
+    {
+      "id": "v8_in_spite_of",
+      "english": "in spite of",
+      "russian": "вопреки / несмотря на",
+      "partOfSpeech": "preposition",
+      "example": "In spite of the warning, she stayed.",
+      "exampleTranslation": "Вопреки предупреждению, она осталась.",
+      "audioPath": "assets/audio/vocabulary/v8_in_spite_of.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_in_spite_of.mp3"
+    },
+    {
+      "id": "v8_as_long_as",
+      "english": "as long as",
+      "russian": "до тех пор, пока / при условии",
+      "partOfSpeech": "conjunction",
+      "example": "You can stay as long as you help.",
+      "exampleTranslation": "Ты можешь остаться, при условии, что поможешь.",
+      "audioPath": "assets/audio/vocabulary/v8_as_long_as.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_as_long_as.mp3"
+    },
+    {
+      "id": "v8_consequence",
+      "english": "consequence",
+      "russian": "последствие",
+      "partOfSpeech": "noun",
+      "example": "There will be consequences.",
+      "exampleTranslation": "Будут последствия.",
+      "audioPath": "assets/audio/vocabulary/v8_consequence.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_consequence.mp3"
+    },
+    {
+      "id": "v8_outcome",
+      "english": "outcome",
+      "russian": "результат / исход",
+      "partOfSpeech": "noun",
+      "example": "The outcome was unexpected.",
+      "exampleTranslation": "Результат оказался неожиданным.",
+      "audioPath": "assets/audio/vocabulary/v8_outcome.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_outcome.mp3"
+    },
+    {
+      "id": "v8_reluctantly",
+      "english": "reluctantly",
+      "russian": "неохотно",
+      "partOfSpeech": "adverb",
+      "example": "She reluctantly agreed.",
+      "exampleTranslation": "Она неохотно согласилась.",
+      "audioPath": "assets/audio/vocabulary/v8_reluctantly.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_reluctantly.mp3"
+    },
+    {
+      "id": "v8_considerable",
+      "english": "considerable",
+      "russian": "значительный",
+      "partOfSpeech": "adjective",
+      "example": "A considerable effort was made.",
+      "exampleTranslation": "Были приложены значительные усилия.",
+      "audioPath": "assets/audio/vocabulary/v8_considerable.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_considerable.mp3"
+    },
+    {
+      "id": "v8_subsequent",
+      "english": "subsequent",
+      "russian": "последующий",
+      "partOfSpeech": "adjective",
+      "example": "The subsequent events proved him right.",
+      "exampleTranslation": "Последующие события доказали его правоту.",
+      "audioPath": "assets/audio/vocabulary/v8_subsequent.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_subsequent.mp3"
+    },
+    {
+      "id": "v8_anticipate",
+      "english": "anticipate",
+      "russian": "предвидеть / ожидать",
+      "partOfSpeech": "verb",
+      "example": "We did not anticipate this problem.",
+      "exampleTranslation": "Мы не предвидели эту проблему.",
+      "audioPath": "assets/audio/vocabulary/v8_anticipate.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_anticipate.mp3"
+    },
+    {
+      "id": "v8_deteriorate",
+      "english": "deteriorate",
+      "russian": "ухудшаться",
+      "partOfSpeech": "verb",
+      "example": "Conditions continued to deteriorate.",
+      "exampleTranslation": "Условия продолжали ухудшаться.",
+      "audioPath": "assets/audio/vocabulary/v8_deteriorate.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_deteriorate.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "Advanced Connectors & Linking Words",
+    "subtitle": "Продвинутые связки делают речь логичной и убедительной. Nevertheless = «но покруче». Furthermore/Moreover = «и ещё кое-что важное». Whereas = «а вот с другой стороны». Despite/In spite of = «и плевать на преграды».",
+    "construction": {
+      "formula": "Clause + Connector + Clause / Connector + Noun/Gerund, Clause",
+      "rules": [
+        {
+          "word": "Nevertheless / Nonetheless (Контраст-результат)",
+          "description": "Факт А верен, но результат — противоположный. «Было трудно; тем не менее, мы справились.» Ставится между двумя предложениями."
+        },
+        {
+          "word": "Furthermore / Moreover (Добавление веса)",
+          "description": "Добавляет ещё один весомый аргумент. «Он умён. Более того, он трудолюбив.» Сильнее, чем простое also."
+        },
+        {
+          "word": "Whereas (Противопоставление фактов)",
+          "description": "Сравнивает два факта напрямую. «Она любит спорт, тогда как он предпочитает книги.» Мягче, чем but."
+        },
+        {
+          "word": "Despite / In spite of + Noun/Gerund",
+          "description": "После despite и in spite of — существительное или герундий, НЕ предложение. «Despite the rain...» (НЕ despite it rained)."
+        },
+        {
+          "word": "Provided that / As long as (Условие)",
+          "description": "Означает «при условии, что». «Ты можешь остаться, при условии, что будешь вести себя тихо.» Формальнее, чем if."
+        },
+        {
+          "word": "Albeit (Уступка - книжный стиль)",
+          "description": "Означает «хотя и». «Он принял, хотя и неохотно.» Очень формальный, книжный стиль."
+        },
+        {
+          "word": "Hence / Thereby (Следствие)",
+          "description": "Hence = «следовательно». Thereby = «тем самым». «Он ушёл, тем самым решив проблему.» Формальный регистр."
+        },
+        {
+          "word": "Regardless of / Notwithstanding",
+          "description": "Regardless of = «независимо от». Notwithstanding = «невзирая на» (очень формально). «Независимо от результата, мы продолжим.»"
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "check_circle",
+        "color": "purple",
+        "title": "Противопоставление и контраст",
+        "description": "Nevertheless, whereas и albeit помогают элегантно противопоставлять идеи.",
+        "example": {
+          "english": "The plan was risky; nevertheless, they proceeded with confidence.",
+          "russian": "План был рискованным; тем не менее, они продолжили с уверенностью."
+        }
+      },
+      {
+        "icon": "star",
+        "color": "blue",
+        "title": "Усиление аргумента",
+        "description": "Furthermore и moreover добавляют весомости и логической глубины.",
+        "example": {
+          "english": "The project is profitable. Moreover, it benefits the community.",
+          "russian": "Проект прибыльный. К тому же, он приносит пользу обществу."
+        }
+      },
+      {
+        "icon": "check_circle",
+        "color": "green",
+        "title": "Уступка и условие",
+        "description": "Despite, in spite of, provided that — показывают, что действие происходит вопреки чему-то или при определённом условии.",
+        "example": {
+          "english": "You may leave early, provided that you finish your work.",
+          "russian": "Вы можете уйти раньше, при условии, что закончите работу."
+        }
+      },
+      {
+        "icon": "schedule",
+        "color": "orange",
+        "title": "Причина и следствие",
+        "description": "Hence и thereby указывают на логическое следствие — формально и точно.",
+        "example": {
+          "english": "She invested wisely, thereby securing her future.",
+          "russian": "Она инвестировала разумно, тем самым обеспечив своё будущее."
+        }
+      }
+    ],
+    "markers": [
+      "nevertheless",
+      "furthermore",
+      "moreover",
+      "whereas",
+      "despite",
+      "in spite of",
+      "provided that",
+      "as long as",
+      "regardless of",
+      "notwithstanding",
+      "albeit",
+      "hence",
+      "thereby"
+    ]
+  },
+  "tasks": [
+    {
+      "id": "t8_1",
+      "type": "sentenceAssembly",
+      "question": "Погода была ужасной; тем не менее, они продолжили поход",
+      "correctAnswer": "The weather was terrible nevertheless they continued the hike",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "a",
+          "an",
+          "this",
+          "that"
+        ],
+        [
+          "weather",
+          "climate",
+          "storm",
+          "forecast",
+          "sky"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "has",
+          "had"
+        ],
+        [
+          "terrible",
+          "bad",
+          "awful",
+          "poor",
+          "rough"
+        ],
+        [
+          "nevertheless",
+          "however",
+          "although",
+          "besides",
+          "therefore"
+        ],
+        [
+          "they",
+          "He",
+          "She",
+          "We",
+          "I"
+        ],
+        [
+          "continued",
+          "kept",
+          "started",
+          "stopped",
+          "began"
+        ],
+        [
+          "the",
+          "a",
+          "this",
+          "that",
+          "one"
+        ],
+        [
+          "hike",
+          "walk",
+          "trip",
+          "travel",
+          "road"
+        ]
+      ],
+      "mistakeTags": [
+        "advanced_connectors",
+        "linking_words"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_08_advanced_connectors/000.mp3"
+    },
+    {
+      "id": "t8_2",
+      "type": "sentenceAssembly",
+      "question": "Более того, эксперимент подтвердил квантовую теорию с высокой точностью",
+      "correctAnswer": "Furthermore the experiment confirmed the quantum theory with high accuracy",
+      "options": [],
+      "variants": [
+        [
+          "Furthermore",
+          "However",
+          "Therefore",
+          "Meanwhile",
+          "Although"
+        ],
+        [
+          "the",
+          "a",
+          "this",
+          "that"
+        ],
+        [
+          "experiment",
+          "research",
+          "analysis",
+          "trial",
+          "study"
+        ],
+        [
+          "confirmed",
+          "proved",
+          "tested",
+          "showed",
+          "denied"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "quantum",
+          "modern",
+          "nuclear",
+          "general",
+          "classical"
+        ],
+        [
+          "theory",
+          "model",
+          "formula",
+          "concept",
+          "hypothesis"
+        ],
+        [
+          "with",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "high",
+          "great",
+          "full",
+          "low",
+          "fair"
+        ],
+        [
+          "accuracy",
+          "precision",
+          "detail",
+          "certainty",
+          "clarity"
+        ]
+      ],
+      "mistakeTags": [
+        "advanced_connectors",
+        "linking_words"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_08_advanced_connectors/001.mp3"
+    },
+    {
+      "id": "t8_3",
+      "type": "sentenceAssembly",
+      "question": "Она предпочитает чай, тогда как он всегда выбирает кофе",
+      "correctAnswer": "She prefers tea whereas he always chooses coffee",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "It",
+          "We",
+          "They"
+        ],
+        [
+          "prefers",
+          "prefer",
+          "preferred",
+          "likes",
+          "wants"
+        ],
+        [
+          "tea",
+          "coffee",
+          "juice",
+          "water",
+          "milk"
+        ],
+        [
+          "whereas",
+          "while",
+          "because",
+          "although",
+          "since"
+        ],
+        [
+          "he",
+          "She",
+          "I",
+          "It",
+          "We"
+        ],
+        [
+          "always",
+          "never",
+          "often",
+          "rarely",
+          "sometimes"
+        ],
+        [
+          "chooses",
+          "choose",
+          "chose",
+          "picks",
+          "takes"
+        ],
+        [
+          "coffee",
+          "tea",
+          "water",
+          "juice",
+          "milk"
+        ]
+      ],
+      "mistakeTags": [
+        "advanced_connectors",
+        "linking_words"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_08_advanced_connectors/002.mp3"
+    },
+    {
+      "id": "t8_4",
+      "type": "sentenceAssembly",
+      "question": "Несмотря на трудности, команда успешно завершила проект вовремя",
+      "correctAnswer": "Despite the difficulties the team successfully completed the project on time",
+      "options": [],
+      "variants": [
+        [
+          "Despite",
+          "Although",
+          "Because",
+          "Since",
+          "While"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this",
+          "that"
+        ],
+        [
+          "difficulties",
+          "problems",
+          "issues",
+          "troubles",
+          "errors"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this",
+          "that"
+        ],
+        [
+          "team",
+          "group",
+          "crew",
+          "staff",
+          "people"
+        ],
+        [
+          "successfully",
+          "successful",
+          "success",
+          "quickly",
+          "easily"
+        ],
+        [
+          "completed",
+          "complete",
+          "completing",
+          "finished",
+          "started"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this",
+          "that"
+        ],
+        [
+          "project",
+          "task",
+          "work",
+          "plan",
+          "job"
+        ],
+        [
+          "on",
+          "for",
+          "at",
+          "in",
+          "with"
+        ],
+        [
+          "time",
+          "day",
+          "date",
+          "hour",
+          "schedule"
+        ]
+      ],
+      "mistakeTags": [
+        "advanced_connectors",
+        "linking_words"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_08_advanced_connectors/003.mp3"
+    },
+    {
+      "id": "t8_5",
+      "type": "sentenceAssembly",
+      "question": "Вы можете остаться при условии, что будете соблюдать правила",
+      "correctAnswer": "You may stay provided that you follow the rules",
+      "options": [],
+      "variants": [
+        [
+          "You",
+          "They",
+          "One",
+          "He",
+          "She"
+        ],
+        [
+          "may",
+          "can",
+          "must",
+          "should",
+          "will"
+        ],
+        [
+          "stay",
+          "leave",
+          "go",
+          "come",
+          "sit"
+        ],
+        [
+          "provided",
+          "unless",
+          "because",
+          "although",
+          "since"
+        ],
+        [
+          "that",
+          "this",
+          "which",
+          "when",
+          "what"
+        ],
+        [
+          "you",
+          "They",
+          "I",
+          "One",
+          "He"
+        ],
+        [
+          "follow",
+          "break",
+          "ignore",
+          "change",
+          "make"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every",
+          "an"
+        ],
+        [
+          "rules",
+          "laws",
+          "orders",
+          "terms",
+          "plans"
+        ]
+      ],
+      "mistakeTags": [
+        "advanced_connectors",
+        "linking_words"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_08_advanced_connectors/004.mp3"
+    },
+    {
+      "id": "t8_6",
+      "type": "sentenceAssembly",
+      "question": "Философ согласился, хотя и неохотно, пересмотреть свою доктрину",
+      "correctAnswer": "The philosopher agreed albeit reluctantly to revise his doctrine",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "This",
+          "That"
+        ],
+        [
+          "philosopher",
+          "thinker",
+          "scholar",
+          "theorist",
+          "professor"
+        ],
+        [
+          "agreed",
+          "agree",
+          "agrees",
+          "refused",
+          "decided"
+        ],
+        [
+          "albeit",
+          "although",
+          "because",
+          "despite",
+          "however"
+        ],
+        [
+          "reluctantly",
+          "eagerly",
+          "happily",
+          "quickly",
+          "slowly"
+        ],
+        [
+          "to",
+          "with",
+          "from",
+          "by"
+        ],
+        [
+          "revise",
+          "abandon",
+          "defend",
+          "publish",
+          "present"
+        ],
+        [
+          "his",
+          "her",
+          "their",
+          "the",
+          "a"
+        ],
+        [
+          "doctrine",
+          "thesis",
+          "argument",
+          "theory",
+          "position"
+        ]
+      ],
+      "mistakeTags": [
+        "advanced_connectors",
+        "linking_words"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_08_advanced_connectors/005.mp3"
+    },
+    {
+      "id": "t8_7",
+      "type": "sentenceAssembly",
+      "question": "Данные были неполными; следовательно, выводы оказались неточными",
+      "correctAnswer": "The data was incomplete hence the conclusions were inaccurate",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "a",
+          "an",
+          "this",
+          "that"
+        ],
+        [
+          "data",
+          "report",
+          "study",
+          "file",
+          "source"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "are",
+          "has"
+        ],
+        [
+          "incomplete",
+          "complete",
+          "finished",
+          "missing",
+          "wrong"
+        ],
+        [
+          "hence",
+          "therefore",
+          "however",
+          "moreover",
+          "nevertheless"
+        ],
+        [
+          "the",
+          "our",
+          "their",
+          "some",
+          "all"
+        ],
+        [
+          "conclusions",
+          "results",
+          "findings",
+          "answers",
+          "reports"
+        ],
+        [
+          "were",
+          "was",
+          "are",
+          "is",
+          "had"
+        ],
+        [
+          "inaccurate",
+          "accurate",
+          "wrong",
+          "correct",
+          "false"
+        ]
+      ],
+      "mistakeTags": [
+        "advanced_connectors",
+        "linking_words"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_08_advanced_connectors/006.mp3"
+    },
+    {
+      "id": "t8_8",
+      "type": "sentenceAssembly",
+      "question": "Он уволился, тем самым положив конец долгому конфликту в компании",
+      "correctAnswer": "He resigned thereby ending the long conflict in the company",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "They",
+          "You",
+          "One",
+          "She"
+        ],
+        [
+          "resigned",
+          "resign",
+          "resigns",
+          "left",
+          "quit"
+        ],
+        [
+          "thereby",
+          "therefore",
+          "hence",
+          "however",
+          "although"
+        ],
+        [
+          "ending",
+          "started",
+          "causing",
+          "beginning",
+          "creating"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every",
+          "an"
+        ],
+        [
+          "long",
+          "short",
+          "brief",
+          "big",
+          "old"
+        ],
+        [
+          "conflict",
+          "problem",
+          "issue",
+          "fight",
+          "debate"
+        ],
+        [
+          "in",
+          "with",
+          "from",
+          "by",
+          "for"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every",
+          "an"
+        ],
+        [
+          "company",
+          "office",
+          "firm",
+          "team",
+          "group"
+        ]
+      ],
+      "mistakeTags": [
+        "advanced_connectors",
+        "linking_words"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_08_advanced_connectors/007.mp3"
+    },
+    {
+      "id": "t8_9",
+      "type": "sentenceAssembly",
+      "question": "Вопреки предупреждению, она решила идти дальше одна",
+      "correctAnswer": "In spite of the warning she decided to continue alone",
+      "options": [],
+      "variants": [
+        [
+          "In",
+          "about",
+          "through",
+          "into",
+          "for"
+        ],
+        [
+          "spite",
+          "front",
+          "case",
+          "place",
+          "however"
+        ],
+        [
+          "of",
+          "about",
+          "through",
+          "into",
+          "for"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each",
+          "an"
+        ],
+        [
+          "warning",
+          "danger",
+          "advice",
+          "signal",
+          "notice"
+        ],
+        [
+          "she",
+          "I",
+          "He",
+          "It",
+          "We"
+        ],
+        [
+          "decided",
+          "decide",
+          "decides",
+          "wanted",
+          "chose"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "on",
+          "in"
+        ],
+        [
+          "continue",
+          "stop",
+          "start",
+          "go",
+          "stay"
+        ],
+        [
+          "alone",
+          "together",
+          "ahead",
+          "back",
+          "away"
+        ]
+      ],
+      "mistakeTags": [
+        "advanced_connectors",
+        "linking_words"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_08_advanced_connectors/008.mp3"
+    },
+    {
+      "id": "t8_10",
+      "type": "sentenceAssembly",
+      "question": "Общество может процветать, пока граждане уважают верховенство закона",
+      "correctAnswer": "Society can thrive as long as citizens respect the rule of law",
+      "options": [],
+      "variants": [
+        [
+          "Society",
+          "Progress",
+          "Freedom",
+          "Justice",
+          "Culture"
+        ],
+        [
+          "can",
+          "may",
+          "must",
+          "should",
+          "will"
+        ],
+        [
+          "thrive",
+          "prosper",
+          "grow",
+          "survive",
+          "advance"
+        ],
+        [
+          "as",
+          "so",
+          "if",
+          "when",
+          "that"
+        ],
+        [
+          "long",
+          "far",
+          "much",
+          "well",
+          "soon"
+        ],
+        [
+          "as",
+          "if",
+          "so",
+          "than",
+          "that"
+        ],
+        [
+          "citizens",
+          "people",
+          "leaders",
+          "nations",
+          "states"
+        ],
+        [
+          "respect",
+          "follow",
+          "uphold",
+          "defend",
+          "value"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "rule",
+          "power",
+          "voice",
+          "spirit",
+          "force"
+        ],
+        [
+          "of",
+          "about",
+          "through",
+          "into"
+        ],
+        [
+          "law",
+          "justice",
+          "order",
+          "peace",
+          "truth"
+        ]
+      ],
+      "mistakeTags": [
+        "advanced_connectors",
+        "linking_words"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_08_advanced_connectors/009.mp3"
+    },
+    {
+      "id": "t8_11",
+      "type": "sentenceAssembly",
+      "question": "Независимо от результата, мы продолжим работу над проектом",
+      "correctAnswer": "Regardless of the outcome we will continue working on the project",
+      "options": [],
+      "variants": [
+        [
+          "Regardless",
+          "Despite",
+          "Because",
+          "Instead",
+          "Although"
+        ],
+        [
+          "of",
+          "with",
+          "from",
+          "by",
+          "for"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every",
+          "an"
+        ],
+        [
+          "outcome",
+          "result",
+          "effect",
+          "answer",
+          "issue"
+        ],
+        [
+          "we",
+          "They",
+          "You",
+          "One",
+          "He"
+        ],
+        [
+          "will",
+          "would",
+          "can",
+          "may",
+          "shall"
+        ],
+        [
+          "continue",
+          "stop",
+          "start",
+          "begin",
+          "finish"
+        ],
+        [
+          "working",
+          "work",
+          "worked",
+          "doing",
+          "trying"
+        ],
+        [
+          "on",
+          "with",
+          "from",
+          "by",
+          "for"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every",
+          "an"
+        ],
+        [
+          "project",
+          "task",
+          "plan",
+          "job",
+          "work"
+        ]
+      ],
+      "mistakeTags": [
+        "advanced_connectors",
+        "linking_words"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_08_advanced_connectors/010.mp3"
+    },
+    {
+      "id": "t8_12",
+      "type": "sentenceAssembly",
+      "question": "К тому же, компания предлагает отличные условия для сотрудников",
+      "correctAnswer": "Moreover the company offers excellent conditions for employees",
+      "options": [],
+      "variants": [
+        [
+          "Moreover",
+          "However",
+          "Therefore",
+          "Although",
+          "Because"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each",
+          "an"
+        ],
+        [
+          "company",
+          "firm",
+          "business",
+          "office",
+          "factory"
+        ],
+        [
+          "offers",
+          "offer",
+          "offered",
+          "gives",
+          "provides"
+        ],
+        [
+          "excellent",
+          "good",
+          "great",
+          "poor",
+          "bad"
+        ],
+        [
+          "conditions",
+          "terms",
+          "options",
+          "chances",
+          "rules"
+        ],
+        [
+          "for",
+          "about",
+          "through",
+          "into",
+          "at"
+        ],
+        [
+          "employees",
+          "workers",
+          "people",
+          "staff",
+          "clients"
+        ]
+      ],
+      "mistakeTags": [
+        "advanced_connectors",
+        "linking_words"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_08_advanced_connectors/011.mp3"
+    },
+    {
+      "id": "t8_13",
+      "type": "sentenceAssembly",
+      "question": "Невзирая на задержку, строительство было завершено в срок",
+      "correctAnswer": "Notwithstanding the delay the construction was completed on schedule",
+      "options": [],
+      "variants": [
+        [
+          "Notwithstanding",
+          "Despite",
+          "Because",
+          "Although",
+          "During"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this",
+          "that"
+        ],
+        [
+          "delay",
+          "problem",
+          "issue",
+          "error",
+          "change"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this",
+          "that"
+        ],
+        [
+          "construction",
+          "building",
+          "project",
+          "process",
+          "program"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "has",
+          "had"
+        ],
+        [
+          "completed",
+          "complete",
+          "finishing",
+          "started",
+          "stopped"
+        ],
+        [
+          "on",
+          "for",
+          "at",
+          "in",
+          "with"
+        ],
+        [
+          "schedule",
+          "time",
+          "plan",
+          "date",
+          "track"
+        ]
+      ],
+      "mistakeTags": [
+        "advanced_connectors",
+        "linking_words"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_08_advanced_connectors/012.mp3"
+    },
+    {
+      "id": "t8_14",
+      "type": "sentenceAssembly",
+      "question": "Реформа была непопулярной; тем не менее, парламент её утвердил",
+      "correctAnswer": "The reform was unpopular nevertheless the parliament approved it",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "This",
+          "That",
+          "Our"
+        ],
+        [
+          "reform",
+          "policy",
+          "amendment",
+          "bill",
+          "measure"
+        ],
+        [
+          "was",
+          "is",
+          "were",
+          "has",
+          "had"
+        ],
+        [
+          "unpopular",
+          "controversial",
+          "radical",
+          "bold",
+          "harsh"
+        ],
+        [
+          "nevertheless",
+          "however",
+          "therefore",
+          "moreover",
+          "although"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "parliament",
+          "senate",
+          "congress",
+          "council",
+          "assembly"
+        ],
+        [
+          "approved",
+          "rejected",
+          "ignored",
+          "accepted",
+          "denied"
+        ],
+        [
+          "it",
+          "this",
+          "that",
+          "them",
+          "one"
+        ]
+      ],
+      "mistakeTags": [
+        "advanced_connectors",
+        "linking_words"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_08_advanced_connectors/013.mp3"
+    },
+    {
+      "id": "t8_15",
+      "type": "sentenceAssembly",
+      "question": "Он молод, тогда как его коллега обладает многолетним опытом",
+      "correctAnswer": "He is young whereas his colleague has years of experience",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "It",
+          "We",
+          "They"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "has",
+          "be"
+        ],
+        [
+          "young",
+          "old",
+          "new",
+          "smart",
+          "tall"
+        ],
+        [
+          "whereas",
+          "while",
+          "because",
+          "although",
+          "since"
+        ],
+        [
+          "his",
+          "She",
+          "He",
+          "It",
+          "We"
+        ],
+        [
+          "colleague",
+          "friend",
+          "partner",
+          "boss",
+          "worker"
+        ],
+        [
+          "has",
+          "have",
+          "had",
+          "got",
+          "holds"
+        ],
+        [
+          "years",
+          "months",
+          "days",
+          "lots",
+          "much"
+        ],
+        [
+          "of",
+          "about",
+          "through",
+          "into",
+          "for"
+        ],
+        [
+          "experience",
+          "knowledge",
+          "skill",
+          "practice",
+          "work"
+        ]
+      ],
+      "mistakeTags": [
+        "advanced_connectors",
+        "linking_words"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_08_advanced_connectors/014.mp3"
+    },
+    {
+      "id": "t8_16",
+      "type": "sentenceAssembly",
+      "question": "Несмотря на нехватку ресурсов, они достигли отличных результатов",
+      "correctAnswer": "Despite the lack of resources they achieved excellent results",
+      "options": [],
+      "variants": [
+        [
+          "Despite",
+          "Although",
+          "Because",
+          "Since",
+          "While"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this",
+          "that"
+        ],
+        [
+          "lack",
+          "loss",
+          "need",
+          "amount",
+          "pile"
+        ],
+        [
+          "of",
+          "for",
+          "at",
+          "in",
+          "with"
+        ],
+        [
+          "resources",
+          "money",
+          "tools",
+          "people",
+          "funds"
+        ],
+        [
+          "they",
+          "He",
+          "She",
+          "We",
+          "I"
+        ],
+        [
+          "achieved",
+          "achieve",
+          "lost",
+          "missed",
+          "found"
+        ],
+        [
+          "excellent",
+          "good",
+          "bad",
+          "poor",
+          "great"
+        ],
+        [
+          "results",
+          "outcomes",
+          "scores",
+          "grades",
+          "marks"
+        ]
+      ],
+      "mistakeTags": [
+        "advanced_connectors",
+        "linking_words"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_08_advanced_connectors/015.mp3"
+    },
+    {
+      "id": "t8_17",
+      "type": "sentenceAssembly",
+      "question": "Она инвестировала разумно, тем самым обеспечив своё будущее",
+      "correctAnswer": "She invested wisely thereby securing her financial future",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "They",
+          "You",
+          "One",
+          "He"
+        ],
+        [
+          "invested",
+          "invest",
+          "invests",
+          "spent",
+          "saved"
+        ],
+        [
+          "wisely",
+          "wise",
+          "poorly",
+          "quickly",
+          "slowly"
+        ],
+        [
+          "thereby",
+          "therefore",
+          "hence",
+          "however",
+          "although"
+        ],
+        [
+          "securing",
+          "losing",
+          "risking",
+          "finding",
+          "building"
+        ],
+        [
+          "her",
+          "They",
+          "You",
+          "One",
+          "He"
+        ],
+        [
+          "financial",
+          "personal",
+          "economic",
+          "social",
+          "daily"
+        ],
+        [
+          "future",
+          "past",
+          "present",
+          "life",
+          "career"
+        ]
+      ],
+      "mistakeTags": [
+        "advanced_connectors",
+        "linking_words"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_08_advanced_connectors/016.mp3"
+    },
+    {
+      "id": "t8_18",
+      "type": "sentenceAssembly",
+      "question": "При условии, что аудит завершён, компания может продолжить слияние",
+      "correctAnswer": "Provided that the audit is complete the company may proceed with the merger",
+      "options": [],
+      "variants": [
+        [
+          "Provided",
+          "Unless",
+          "Because",
+          "Although",
+          "Since"
+        ],
+        [
+          "that",
+          "this",
+          "which",
+          "when",
+          "if"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "audit",
+          "review",
+          "report",
+          "assessment",
+          "check"
+        ],
+        [
+          "is",
+          "was",
+          "are",
+          "were",
+          "has"
+        ],
+        [
+          "complete",
+          "finished",
+          "done",
+          "ready",
+          "approved"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "company",
+          "firm",
+          "board",
+          "council",
+          "group"
+        ],
+        [
+          "may",
+          "can",
+          "must",
+          "should",
+          "will"
+        ],
+        [
+          "proceed",
+          "continue",
+          "start",
+          "begin",
+          "move"
+        ],
+        [
+          "with",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "the",
+          "a",
+          "this",
+          "that"
+        ],
+        [
+          "merger",
+          "acquisition",
+          "deal",
+          "agreement",
+          "partnership"
+        ]
+      ],
+      "mistakeTags": [
+        "advanced_connectors",
+        "linking_words"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_08_advanced_connectors/017.mp3"
+    },
+    {
+      "id": "t8_19",
+      "type": "sentenceAssembly",
+      "question": "Более того, исследование выявило новые тенденции на рынке",
+      "correctAnswer": "Furthermore the study revealed new trends in the market",
+      "options": [],
+      "variants": [
+        [
+          "Furthermore",
+          "However",
+          "Therefore",
+          "Although",
+          "Meanwhile"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this",
+          "that"
+        ],
+        [
+          "study",
+          "report",
+          "survey",
+          "review",
+          "paper"
+        ],
+        [
+          "revealed",
+          "reveal",
+          "reveals",
+          "hidden",
+          "showed"
+        ],
+        [
+          "new",
+          "old",
+          "recent",
+          "major",
+          "minor"
+        ],
+        [
+          "trends",
+          "changes",
+          "shifts",
+          "patterns",
+          "issues"
+        ],
+        [
+          "in",
+          "for",
+          "at",
+          "with",
+          "from"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this",
+          "that"
+        ],
+        [
+          "market",
+          "world",
+          "field",
+          "area",
+          "sector"
+        ]
+      ],
+      "mistakeTags": [
+        "advanced_connectors",
+        "linking_words"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_08_advanced_connectors/018.mp3"
+    },
+    {
+      "id": "t8_20",
+      "type": "sentenceAssembly",
+      "question": "Условия ухудшались; следовательно, они эвакуировали здание немедленно",
+      "correctAnswer": "Conditions were deteriorating hence they evacuated the building immediately",
+      "options": [],
+      "variants": [
+        [
+          "Conditions",
+          "Situations",
+          "Problems",
+          "Things",
+          "Issues"
+        ],
+        [
+          "were",
+          "was",
+          "are",
+          "is",
+          "had"
+        ],
+        [
+          "deteriorating",
+          "improving",
+          "changing",
+          "growing",
+          "falling"
+        ],
+        [
+          "hence",
+          "therefore",
+          "however",
+          "moreover",
+          "nevertheless"
+        ],
+        [
+          "they",
+          "I",
+          "You",
+          "One",
+          "He"
+        ],
+        [
+          "evacuated",
+          "entered",
+          "left",
+          "closed",
+          "opened"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every",
+          "an"
+        ],
+        [
+          "building",
+          "office",
+          "house",
+          "school",
+          "tower"
+        ],
+        [
+          "immediately",
+          "slowly",
+          "quickly",
+          "later",
+          "finally"
+        ]
+      ],
+      "mistakeTags": [
+        "advanced_connectors",
+        "linking_words"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_08_advanced_connectors/019.mp3"
+    },
+    {
+      "id": "t8_21",
+      "type": "sentenceAssembly",
+      "question": "Пока ты выполняешь свои обязанности, проблем не будет",
+      "correctAnswer": "As long as you fulfill your duties there will be no problems",
+      "options": [],
+      "variants": [
+        [
+          "As",
+          "So",
+          "If",
+          "When",
+          "Once"
+        ],
+        [
+          "long",
+          "far",
+          "soon",
+          "much",
+          "well"
+        ],
+        [
+          "as",
+          "if",
+          "so",
+          "than",
+          "that"
+        ],
+        [
+          "you",
+          "She",
+          "He",
+          "It",
+          "We"
+        ],
+        [
+          "fulfill",
+          "ignore",
+          "avoid",
+          "forget",
+          "break"
+        ],
+        [
+          "your",
+          "She",
+          "He",
+          "It",
+          "We"
+        ],
+        [
+          "duties",
+          "tasks",
+          "rules",
+          "jobs",
+          "roles"
+        ],
+        [
+          "there",
+          "here",
+          "it",
+          "that",
+          "this"
+        ],
+        [
+          "will",
+          "would",
+          "can",
+          "may",
+          "shall"
+        ],
+        [
+          "be",
+          "have",
+          "get",
+          "make",
+          "do"
+        ],
+        [
+          "no",
+          "some",
+          "any",
+          "many",
+          "few"
+        ],
+        [
+          "problems",
+          "issues",
+          "troubles",
+          "errors",
+          "faults"
+        ]
+      ],
+      "mistakeTags": [
+        "advanced_connectors",
+        "linking_words"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_08_advanced_connectors/020.mp3"
+    },
+    {
+      "id": "t8_22",
+      "type": "sentenceAssembly",
+      "question": "Вопреки скептицизму, этическая теория доказала свою состоятельность",
+      "correctAnswer": "In spite of skepticism the ethical theory proved its validity",
+      "options": [],
+      "variants": [
+        [
+          "In",
+          "On",
+          "At",
+          "By",
+          "For"
+        ],
+        [
+          "spite",
+          "front",
+          "case",
+          "place",
+          "view"
+        ],
+        [
+          "of",
+          "about",
+          "through",
+          "into"
+        ],
+        [
+          "skepticism",
+          "criticism",
+          "doubt",
+          "opposition",
+          "resistance"
+        ],
+        [
+          "the",
+          "a",
+          "this",
+          "that"
+        ],
+        [
+          "ethical",
+          "moral",
+          "social",
+          "political",
+          "legal"
+        ],
+        [
+          "theory",
+          "doctrine",
+          "framework",
+          "system",
+          "model"
+        ],
+        [
+          "proved",
+          "showed",
+          "revealed",
+          "confirmed",
+          "lost"
+        ],
+        [
+          "its",
+          "the",
+          "their",
+          "his",
+          "our"
+        ],
+        [
+          "validity",
+          "value",
+          "merit",
+          "power",
+          "truth"
+        ]
+      ],
+      "mistakeTags": [
+        "advanced_connectors",
+        "linking_words"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_08_advanced_connectors/021.mp3"
+    },
+    {
+      "id": "t8_23",
+      "type": "sentenceAssembly",
+      "question": "Независимо от погоды, мероприятие состоится в назначенное время",
+      "correctAnswer": "Regardless of the weather the event will take place on time",
+      "options": [],
+      "variants": [
+        [
+          "Regardless",
+          "Despite",
+          "Because",
+          "Instead",
+          "Although"
+        ],
+        [
+          "of",
+          "with",
+          "from",
+          "by",
+          "for"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every",
+          "an"
+        ],
+        [
+          "weather",
+          "rain",
+          "storm",
+          "climate",
+          "season"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every",
+          "an"
+        ],
+        [
+          "event",
+          "party",
+          "meeting",
+          "show",
+          "game"
+        ],
+        [
+          "will",
+          "would",
+          "can",
+          "may",
+          "shall"
+        ],
+        [
+          "take",
+          "have",
+          "make",
+          "get",
+          "hold"
+        ],
+        [
+          "place",
+          "part",
+          "time",
+          "effect",
+          "action"
+        ],
+        [
+          "on",
+          "with",
+          "from",
+          "by",
+          "for"
+        ],
+        [
+          "time",
+          "schedule",
+          "plan",
+          "date",
+          "track"
+        ]
+      ],
+      "mistakeTags": [
+        "advanced_connectors",
+        "linking_words"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_08_advanced_connectors/022.mp3"
+    },
+    {
+      "id": "t8_24",
+      "type": "sentenceAssembly",
+      "question": "Проект был дорогим, хотя и очень эффективным в итоге",
+      "correctAnswer": "The project was expensive albeit very effective in the end",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "a",
+          "that",
+          "each",
+          "an"
+        ],
+        [
+          "project",
+          "plan",
+          "program",
+          "task",
+          "work"
+        ],
+        [
+          "was",
+          "is",
+          "were",
+          "has",
+          "had"
+        ],
+        [
+          "expensive",
+          "cheap",
+          "costly",
+          "free",
+          "pricey"
+        ],
+        [
+          "albeit",
+          "although",
+          "because",
+          "despite",
+          "however"
+        ],
+        [
+          "very",
+          "quite",
+          "rather",
+          "too",
+          "most"
+        ],
+        [
+          "effective",
+          "useful",
+          "helpful",
+          "useless",
+          "simple"
+        ],
+        [
+          "in",
+          "about",
+          "through",
+          "into",
+          "for"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each",
+          "an"
+        ],
+        [
+          "end",
+          "start",
+          "finish",
+          "result",
+          "final"
+        ]
+      ],
+      "mistakeTags": [
+        "advanced_connectors",
+        "linking_words"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_08_advanced_connectors/023.mp3"
+    },
+    {
+      "id": "t8_25",
+      "type": "sentenceAssembly",
+      "question": "Тем не менее, мы не предвидели такого последствия заранее",
+      "correctAnswer": "Nevertheless we did not anticipate such a consequence beforehand",
+      "options": [],
+      "variants": [
+        [
+          "Nevertheless",
+          "However",
+          "Therefore",
+          "Moreover",
+          "Although"
+        ],
+        [
+          "we",
+          "He",
+          "She",
+          "I",
+          "They"
+        ],
+        [
+          "did",
+          "do",
+          "does",
+          "have",
+          "had"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "none",
+          "nor"
+        ],
+        [
+          "anticipate",
+          "expect",
+          "predict",
+          "know",
+          "see"
+        ],
+        [
+          "such",
+          "this",
+          "that",
+          "so",
+          "any"
+        ],
+        [
+          "a",
+          "an",
+          "this",
+          "the",
+          "that"
+        ],
+        [
+          "consequence",
+          "result",
+          "outcome",
+          "effect",
+          "problem"
+        ],
+        [
+          "beforehand",
+          "before",
+          "earlier",
+          "later",
+          "after"
+        ]
+      ],
+      "mistakeTags": [
+        "advanced_connectors",
+        "linking_words"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_08_advanced_connectors/024.mp3"
+    },
+    {
+      "id": "t8_26",
+      "type": "sentenceAssembly",
+      "question": "Она работает удалённо, тогда как её коллеги ходят в офис",
+      "correctAnswer": "She works remotely whereas her colleagues go to the office",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "They",
+          "You",
+          "One",
+          "He"
+        ],
+        [
+          "works",
+          "work",
+          "worked",
+          "working",
+          "goes"
+        ],
+        [
+          "remotely",
+          "locally",
+          "daily",
+          "rarely",
+          "always"
+        ],
+        [
+          "whereas",
+          "while",
+          "because",
+          "although",
+          "since"
+        ],
+        [
+          "her",
+          "They",
+          "You",
+          "One",
+          "He"
+        ],
+        [
+          "colleagues",
+          "friends",
+          "partners",
+          "bosses",
+          "workers"
+        ],
+        [
+          "go",
+          "goes",
+          "went",
+          "going",
+          "come"
+        ],
+        [
+          "to",
+          "at",
+          "in",
+          "for",
+          "from"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every",
+          "an"
+        ],
+        [
+          "office",
+          "work",
+          "building",
+          "firm",
+          "company"
+        ]
+      ],
+      "mistakeTags": [
+        "advanced_connectors",
+        "linking_words"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_08_advanced_connectors/025.mp3"
+    },
+    {
+      "id": "t8_27",
+      "type": "sentenceAssembly",
+      "question": "Невзирая на критику, директор настоял на своём решении",
+      "correctAnswer": "Notwithstanding the criticism the director insisted on his decision",
+      "options": [],
+      "variants": [
+        [
+          "Notwithstanding",
+          "Despite",
+          "Because",
+          "Although",
+          "During"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each",
+          "an"
+        ],
+        [
+          "criticism",
+          "praise",
+          "support",
+          "feedback",
+          "advice"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each",
+          "an"
+        ],
+        [
+          "director",
+          "manager",
+          "leader",
+          "boss",
+          "chief"
+        ],
+        [
+          "insisted",
+          "insist",
+          "agreed",
+          "refused",
+          "however"
+        ],
+        [
+          "on",
+          "about",
+          "through",
+          "into",
+          "for"
+        ],
+        [
+          "his",
+          "She",
+          "He",
+          "It",
+          "We"
+        ],
+        [
+          "decision",
+          "choice",
+          "plan",
+          "idea",
+          "view"
+        ]
+      ],
+      "mistakeTags": [
+        "advanced_connectors",
+        "linking_words"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_08_advanced_connectors/026.mp3"
+    },
+    {
+      "id": "t8_28",
+      "type": "sentenceAssembly",
+      "question": "Несмотря на усталость, спортсмен завершил марафон с отличным временем",
+      "correctAnswer": "Despite the fatigue the athlete finished the marathon with excellent time",
+      "options": [],
+      "variants": [
+        [
+          "Despite",
+          "Although",
+          "Because",
+          "Since",
+          "While"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this",
+          "that"
+        ],
+        [
+          "fatigue",
+          "pain",
+          "injury",
+          "stress",
+          "cold"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this",
+          "that"
+        ],
+        [
+          "athlete",
+          "runner",
+          "player",
+          "trainer",
+          "coach"
+        ],
+        [
+          "finished",
+          "started",
+          "stopped",
+          "joined",
+          "left"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this",
+          "that"
+        ],
+        [
+          "marathon",
+          "race",
+          "game",
+          "match",
+          "event"
+        ],
+        [
+          "with",
+          "for",
+          "at",
+          "in",
+          "from"
+        ],
+        [
+          "excellent",
+          "good",
+          "bad",
+          "poor",
+          "average"
+        ],
+        [
+          "time",
+          "speed",
+          "score",
+          "result",
+          "record"
+        ]
+      ],
+      "mistakeTags": [
+        "advanced_connectors",
+        "linking_words"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_08_advanced_connectors/027.mp3"
+    },
+    {
+      "id": "t8_29",
+      "type": "sentenceAssembly",
+      "question": "Они сократили расходы, тем самым увеличив прибыль компании",
+      "correctAnswer": "They reduced expenses thereby increasing the company profits significantly",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "You",
+          "One",
+          "He",
+          "She"
+        ],
+        [
+          "reduced",
+          "increased",
+          "changed",
+          "raised",
+          "cut"
+        ],
+        [
+          "expenses",
+          "costs",
+          "prices",
+          "wages",
+          "taxes"
+        ],
+        [
+          "thereby",
+          "therefore",
+          "hence",
+          "however",
+          "moreover"
+        ],
+        [
+          "increasing",
+          "decreasing",
+          "losing",
+          "changing",
+          "raising"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every",
+          "an"
+        ],
+        [
+          "company",
+          "firm",
+          "business",
+          "office",
+          "factory"
+        ],
+        [
+          "profits",
+          "losses",
+          "income",
+          "debts",
+          "funds"
+        ],
+        [
+          "significantly",
+          "slightly",
+          "barely",
+          "greatly",
+          "slowly"
+        ]
+      ],
+      "mistakeTags": [
+        "advanced_connectors",
+        "linking_words"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_08_advanced_connectors/028.mp3"
+    },
+    {
+      "id": "t8_30",
+      "type": "sentenceAssembly",
+      "question": "Он продолжит работу при условии, что получит необходимую поддержку",
+      "correctAnswer": "He will continue working provided that he receives the necessary support",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "It",
+          "We",
+          "They"
+        ],
+        [
+          "will",
+          "would",
+          "can",
+          "may",
+          "shall"
+        ],
+        [
+          "continue",
+          "stop",
+          "start",
+          "begin",
+          "finish"
+        ],
+        [
+          "working",
+          "work",
+          "worked",
+          "doing",
+          "trying"
+        ],
+        [
+          "provided",
+          "unless",
+          "because",
+          "although",
+          "since"
+        ],
+        [
+          "that",
+          "this",
+          "which",
+          "when",
+          "if"
+        ],
+        [
+          "he",
+          "She",
+          "I",
+          "It",
+          "We"
+        ],
+        [
+          "receives",
+          "receive",
+          "received",
+          "gets",
+          "takes"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each",
+          "an"
+        ],
+        [
+          "necessary",
+          "extra",
+          "basic",
+          "full",
+          "special"
+        ],
+        [
+          "support",
+          "help",
+          "funding",
+          "money",
+          "tools"
+        ]
+      ],
+      "mistakeTags": [
+        "advanced_connectors",
+        "linking_words"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_08_advanced_connectors/029.mp3"
+    }
+  ],
+  "theoryQuiz": [
+    {
+      "id": "tq_01",
+      "type": "multipleChoice",
+      "question": "Какой connector выражает контраст?",
+      "options": [
+        "Furthermore",
+        "Nevertheless",
+        "Therefore",
+        "In addition"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nevertheless (тем не менее) — connector контраста, как и However и Whereas."
+    },
+    {
+      "id": "tq_02",
+      "type": "trueFalse",
+      "question": "'Moreover' используется для добавления информации к уже сказанному.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Верно: Moreover (более того) = Furthermore = In addition — все выражают дополнение."
+    },
+    {
+      "id": "tq_03",
+      "type": "multipleChoice",
+      "question": "Выберите connector причины/следствия:",
+      "options": [
+        "However",
+        "Whereas",
+        "Consequently",
+        "Although"
+      ],
+      "correctIndex": 2,
+      "explanation": "Consequently (следовательно) = Therefore = As a result — connectors причины и следствия."
+    },
+    {
+      "id": "tq_04",
+      "type": "trueFalse",
+      "question": "'Despite' и 'In spite of' используются с существительными или герундием (-ing).",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Верно: Despite/In spite of + noun/-ing: Despite the rain... In spite of being tired..."
+    },
+    {
+      "id": "tq_05",
+      "type": "multipleChoice",
+      "question": "'He was tired. ___, he continued working.' Какой connector подходит?",
+      "options": [
+        "Therefore",
+        "Furthermore",
+        "Nevertheless",
+        "As a result"
+      ],
+      "correctIndex": 2,
+      "explanation": "Nevertheless (тем не менее) — показывает контраст: устал, но продолжил."
+    },
+    {
+      "id": "tq_06",
+      "type": "multipleChoice",
+      "question": "Какой connector означает 'при условии, что'?",
+      "options": [
+        "Although",
+        "Provided that",
+        "However",
+        "Moreover"
+      ],
+      "correctIndex": 1,
+      "explanation": "Provided that = As long as = при условии, что. Это connectors условия."
+    },
+    {
+      "id": "tq_07",
+      "type": "trueFalse",
+      "question": "'Although' и 'However' можно использовать одинаково в предложении.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "Неверно: Although начинает придаточное (Although he was tired, he...), а However — отдельное предложение (He was tired. However, he...)."
+    },
+    {
+      "id": "tq_08",
+      "type": "multipleChoice",
+      "question": "'The project failed. ___, the team learned valuable lessons.' Вставьте connector.",
+      "options": [
+        "Therefore",
+        "Furthermore",
+        "Nevertheless",
+        "Consequently"
+      ],
+      "correctIndex": 2,
+      "explanation": "Nevertheless — контраст: проект провалился, но (тем не менее) команда извлекла уроки."
+    },
+    {
+      "id": "tq_09",
+      "type": "trueFalse",
+      "question": "'Even though' — это connector уступки (concession).",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Верно: Even though = Although — connectors уступки: Even though it was raining, we went out."
+    },
+    {
+      "id": "tq_10",
+      "type": "multipleChoice",
+      "question": "Какая группа содержит ТОЛЬКО connectors дополнения?",
+      "options": [
+        "However, Nevertheless, Whereas",
+        "Furthermore, Moreover, In addition",
+        "Therefore, Consequently, As a result",
+        "Although, Even though, Despite"
+      ],
+      "correctIndex": 1,
+      "explanation": "Furthermore, Moreover, In addition — все три означают «кроме того, более того» (дополнение)."
+    }
+  ]
+}

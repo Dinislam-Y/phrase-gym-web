@@ -1,0 +1,400 @@
+{
+  "id": "beginner_bc_05_present_simple_negative",
+  "title": "Don't vs Doesn't",
+  "description": "Don't или Doesn't? Учимся правильно отрицать в Present Simple.",
+  "order": 5,
+  "level": "beginner",
+  "imageUrl": null,
+  "tasks": [
+    {
+      "id": "dnd_1",
+      "question": "I ___ like coffee.",
+      "optionA": "DON'T",
+      "optionB": "DOESN'T",
+      "correctIndex": 0,
+      "explanation": "С местоимением I используется don't.",
+      "tags": [
+        "dont_vs_doesnt",
+        "dont",
+        "food"
+      ]
+    },
+    {
+      "id": "dnd_2",
+      "question": "She ___ eat meat.",
+      "optionA": "DON'T",
+      "optionB": "DOESN'T",
+      "correctIndex": 1,
+      "explanation": "С местоимением she используется doesn't.",
+      "tags": [
+        "dont_vs_doesnt",
+        "doesnt",
+        "food"
+      ]
+    },
+    {
+      "id": "dnd_3",
+      "question": "They ___ speak Russian.",
+      "optionA": "DON'T",
+      "optionB": "DOESN'T",
+      "correctIndex": 0,
+      "explanation": "С местоимением they используется don't.",
+      "tags": [
+        "dont_vs_doesnt",
+        "dont",
+        "daily_routine"
+      ]
+    },
+    {
+      "id": "dnd_4",
+      "question": "He ___ play tennis.",
+      "optionA": "DON'T",
+      "optionB": "DOESN'T",
+      "correctIndex": 1,
+      "explanation": "С местоимением he используется doesn't.",
+      "tags": [
+        "dont_vs_doesnt",
+        "doesnt",
+        "sport"
+      ]
+    },
+    {
+      "id": "dnd_5",
+      "question": "We ___ watch TV.",
+      "optionA": "DON'T",
+      "optionB": "DOESN'T",
+      "correctIndex": 0,
+      "explanation": "С местоимением we используется don't.",
+      "tags": [
+        "dont_vs_doesnt",
+        "dont",
+        "home"
+      ]
+    },
+    {
+      "id": "dnd_6",
+      "question": "It ___ work properly.",
+      "optionA": "DON'T",
+      "optionB": "DOESN'T",
+      "correctIndex": 1,
+      "explanation": "С местоимением it используется doesn't.",
+      "tags": [
+        "dont_vs_doesnt",
+        "doesnt",
+        "home"
+      ]
+    },
+    {
+      "id": "dnd_7",
+      "question": "You ___ understand me.",
+      "optionA": "DON'T",
+      "optionB": "DOESN'T",
+      "correctIndex": 0,
+      "explanation": "С местоимением you используется don't.",
+      "tags": [
+        "dont_vs_doesnt",
+        "dont",
+        "daily_routine"
+      ]
+    },
+    {
+      "id": "dnd_8",
+      "question": "She ___ live here.",
+      "optionA": "DON'T",
+      "optionB": "DOESN'T",
+      "correctIndex": 1,
+      "explanation": "С местоимением she используется doesn't.",
+      "tags": [
+        "dont_vs_doesnt",
+        "doesnt",
+        "home"
+      ]
+    },
+    {
+      "id": "dnd_9",
+      "question": "I ___ know him.",
+      "optionA": "DON'T",
+      "optionB": "DOESN'T",
+      "correctIndex": 0,
+      "explanation": "С местоимением I используется don't.",
+      "tags": [
+        "dont_vs_doesnt",
+        "dont",
+        "social"
+      ]
+    },
+    {
+      "id": "dnd_10",
+      "question": "He ___ want pizza.",
+      "optionA": "DON'T",
+      "optionB": "DOESN'T",
+      "correctIndex": 1,
+      "explanation": "С местоимением he используется doesn't.",
+      "tags": [
+        "dont_vs_doesnt",
+        "doesnt",
+        "food"
+      ]
+    },
+    {
+      "id": "dnd_11",
+      "question": "My cat ___ like water.",
+      "optionA": "DON'T",
+      "optionB": "DOESN'T",
+      "correctIndex": 1,
+      "explanation": "Cat — единственное число, поэтому doesn't.",
+      "tags": [
+        "dont_vs_doesnt",
+        "doesnt",
+        "home"
+      ]
+    },
+    {
+      "id": "dnd_12",
+      "question": "My parents ___ drive fast.",
+      "optionA": "DON'T",
+      "optionB": "DOESN'T",
+      "correctIndex": 0,
+      "explanation": "Parents — множественное число, поэтому don't.",
+      "tags": [
+        "dont_vs_doesnt",
+        "dont",
+        "daily_routine"
+      ]
+    },
+    {
+      "id": "dnd_13",
+      "question": "Tom ___ study math.",
+      "optionA": "DON'T",
+      "optionB": "DOESN'T",
+      "correctIndex": 1,
+      "explanation": "Tom — одно лицо, поэтому doesn't.",
+      "tags": [
+        "dont_vs_doesnt",
+        "doesnt",
+        "work"
+      ]
+    },
+    {
+      "id": "dnd_14",
+      "question": "My friends ___ play games.",
+      "optionA": "DON'T",
+      "optionB": "DOESN'T",
+      "correctIndex": 0,
+      "explanation": "Friends — множественное число, поэтому don't.",
+      "tags": [
+        "dont_vs_doesnt",
+        "dont",
+        "social"
+      ]
+    },
+    {
+      "id": "dnd_15",
+      "question": "The dog ___ sleep well.",
+      "optionA": "DON'T",
+      "optionB": "DOESN'T",
+      "correctIndex": 1,
+      "explanation": "Dog — единственное число, поэтому doesn't.",
+      "tags": [
+        "dont_vs_doesnt",
+        "doesnt",
+        "home"
+      ]
+    },
+    {
+      "id": "dnd_16",
+      "question": "Anna ___ drink tea.",
+      "optionA": "DON'T",
+      "optionB": "DOESN'T",
+      "correctIndex": 1,
+      "explanation": "Anna — одно лицо, поэтому doesn't.",
+      "tags": [
+        "dont_vs_doesnt",
+        "doesnt",
+        "food"
+      ]
+    },
+    {
+      "id": "dnd_17",
+      "question": "The children ___ listen well.",
+      "optionA": "DON'T",
+      "optionB": "DOESN'T",
+      "correctIndex": 0,
+      "explanation": "Children — множественное число, поэтому don't.",
+      "tags": [
+        "dont_vs_doesnt",
+        "dont",
+        "social"
+      ]
+    },
+    {
+      "id": "dnd_18",
+      "question": "My sister ___ cook dinner.",
+      "optionA": "DON'T",
+      "optionB": "DOESN'T",
+      "correctIndex": 1,
+      "explanation": "Sister — единственное число, поэтому doesn't.",
+      "tags": [
+        "dont_vs_doesnt",
+        "doesnt",
+        "food"
+      ]
+    },
+    {
+      "id": "dnd_19",
+      "question": "The students ___ read books.",
+      "optionA": "DON'T",
+      "optionB": "DOESN'T",
+      "correctIndex": 0,
+      "explanation": "Students — множественное число, поэтому don't.",
+      "tags": [
+        "dont_vs_doesnt",
+        "dont",
+        "work"
+      ]
+    },
+    {
+      "id": "dnd_20",
+      "question": "The baby ___ cry much.",
+      "optionA": "DON'T",
+      "optionB": "DOESN'T",
+      "correctIndex": 1,
+      "explanation": "Baby — единственное число, поэтому doesn't.",
+      "tags": [
+        "dont_vs_doesnt",
+        "doesnt",
+        "home"
+      ]
+    },
+    {
+      "id": "dnd_21",
+      "question": "___ touch that!",
+      "optionA": "DON'T",
+      "optionB": "DOESN'T",
+      "correctIndex": 0,
+      "explanation": "В повелительном наклонении используется don't.",
+      "tags": [
+        "dont_vs_doesnt",
+        "dont",
+        "home"
+      ]
+    },
+    {
+      "id": "dnd_22",
+      "question": "Everyone ___ understand this.",
+      "optionA": "DON'T",
+      "optionB": "DOESN'T",
+      "correctIndex": 1,
+      "explanation": "Everyone — единственное число, поэтому doesn't.",
+      "tags": [
+        "dont_vs_doesnt",
+        "doesnt",
+        "work"
+      ]
+    },
+    {
+      "id": "dnd_23",
+      "question": "Nobody ___ like homework.",
+      "optionA": "DON'T",
+      "optionB": "DOESN'T",
+      "correctIndex": 1,
+      "explanation": "Nobody — единственное число, поэтому doesn't.",
+      "tags": [
+        "dont_vs_doesnt",
+        "doesnt",
+        "work"
+      ]
+    },
+    {
+      "id": "dnd_24",
+      "question": "___ be late again!",
+      "optionA": "DON'T",
+      "optionB": "DOESN'T",
+      "correctIndex": 0,
+      "explanation": "В повелительном наклонении используется don't.",
+      "tags": [
+        "dont_vs_doesnt",
+        "dont",
+        "daily_routine"
+      ]
+    },
+    {
+      "id": "dnd_25",
+      "question": "Somebody ___ answer the phone.",
+      "optionA": "DON'T",
+      "optionB": "DOESN'T",
+      "correctIndex": 1,
+      "explanation": "Somebody — единственное число, поэтому doesn't.",
+      "tags": [
+        "dont_vs_doesnt",
+        "doesnt",
+        "home"
+      ]
+    },
+    {
+      "id": "dnd_26",
+      "question": "The police ___ know yet.",
+      "optionA": "DON'T",
+      "optionB": "DOESN'T",
+      "correctIndex": 0,
+      "explanation": "Police — множественное число, поэтому don't.",
+      "tags": [
+        "dont_vs_doesnt",
+        "dont",
+        "social"
+      ]
+    },
+    {
+      "id": "dnd_27",
+      "question": "___ forget your keys!",
+      "optionA": "DON'T",
+      "optionB": "DOESN'T",
+      "correctIndex": 0,
+      "explanation": "В повелительном наклонении используется don't.",
+      "tags": [
+        "dont_vs_doesnt",
+        "dont",
+        "daily_routine"
+      ]
+    },
+    {
+      "id": "dnd_28",
+      "question": "Nothing ___ matter now.",
+      "optionA": "DON'T",
+      "optionB": "DOESN'T",
+      "correctIndex": 1,
+      "explanation": "Nothing — единственное число, поэтому doesn't.",
+      "tags": [
+        "dont_vs_doesnt",
+        "doesnt",
+        "social"
+      ]
+    },
+    {
+      "id": "dnd_29",
+      "question": "Each student ___ have time.",
+      "optionA": "DON'T",
+      "optionB": "DOESN'T",
+      "correctIndex": 1,
+      "explanation": "Each указывает на единственное число, поэтому doesn't.",
+      "tags": [
+        "dont_vs_doesnt",
+        "doesnt",
+        "work"
+      ]
+    },
+    {
+      "id": "dnd_30",
+      "question": "___ worry about it!",
+      "optionA": "DON'T",
+      "optionB": "DOESN'T",
+      "correctIndex": 0,
+      "explanation": "В повелительном наклонении используется don't.",
+      "tags": [
+        "dont_vs_doesnt",
+        "dont",
+        "daily_routine"
+      ]
+    }
+  ]
+}

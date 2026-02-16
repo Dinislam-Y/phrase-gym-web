@@ -1,0 +1,461 @@
+{
+  "id": "intermediate_listening_07_modal_must_should",
+  "title": "Modals: Must & Should",
+  "description": "Слушайте реальные советы, запреты, выводы и сильные обязательства — только must и should.",
+  "order": 7,
+  "level": "intermediate",
+  "imageUrl": "assets/images/lessons/modal_must_should.png",
+  "tasks": [
+    {
+      "id": "t7_01",
+      "audioText": "Your face is completely white. You must see a doctor right now.",
+      "transcript": "You must see a doctor right now.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "It's absolutely necessary to go to the doctor."
+        },
+        {
+          "id": "o2",
+          "text": "It's just a good idea to see a doctor."
+        },
+        {
+          "id": "o3",
+          "text": "You shouldn't see a doctor."
+        },
+        {
+          "id": "o4",
+          "text": "You saw a doctor yesterday."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Strong obligation/advice based on evidence — must.",
+      "mistakeTags": [
+        "hospital",
+        "modal_must_should"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_07_modal_must_should/t7_01.mp3"
+    },
+    {
+      "id": "t7_02",
+      "audioText": "You look exhausted. You should go to bed early tonight.",
+      "transcript": "You should go to bed early tonight.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "It's a good idea to sleep early."
+        },
+        {
+          "id": "o2",
+          "text": "You have to sleep early."
+        },
+        {
+          "id": "o3",
+          "text": "You shouldn't sleep early."
+        },
+        {
+          "id": "o4",
+          "text": "You went to bed early yesterday."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Friendly advice — classic should.",
+      "mistakeTags": [
+        "home",
+        "modal_must_should"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_07_modal_must_should/t7_02.mp3"
+    },
+    {
+      "id": "t7_03",
+      "audioText": "That’s Anna’s bag on the table. She must be here already.",
+      "transcript": "She must be here already.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "I'm almost sure Anna has arrived."
+        },
+        {
+          "id": "o2",
+          "text": "Maybe Anna is here."
+        },
+        {
+          "id": "o3",
+          "text": "Anna can't be here."
+        },
+        {
+          "id": "o4",
+          "text": "Anna was here yesterday."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Logical conclusion — must be.",
+      "mistakeTags": [
+        "cafe",
+        "modal_must_should"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_07_modal_must_should/t7_03.mp3"
+    },
+    {
+      "id": "t7_04",
+      "audioText": "You mustn’t park here. It’s a no-parking zone.",
+      "transcript": "You mustn’t park here.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Parking is strictly forbidden."
+        },
+        {
+          "id": "o2",
+          "text": "You should park here."
+        },
+        {
+          "id": "o3",
+          "text": "You can park here."
+        },
+        {
+          "id": "o4",
+          "text": "You parked here yesterday."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Strong prohibition — mustn't.",
+      "mistakeTags": [
+        "street",
+        "modal_must_should"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_07_modal_must_should/t7_04.mp3"
+    },
+    {
+      "id": "t7_05",
+      "audioText": "You’ve been coughing for two weeks. You really should stop smoking.",
+      "transcript": "You really should stop smoking.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "It's strongly recommended to quit smoking."
+        },
+        {
+          "id": "o2",
+          "text": "You must quit smoking immediately."
+        },
+        {
+          "id": "o3",
+          "text": "It's okay to continue smoking."
+        },
+        {
+          "id": "o4",
+          "text": "You stopped smoking last month."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Strong advice with really — should.",
+      "mistakeTags": [
+        "health",
+        "modal_must_should"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_07_modal_must_should/t7_05.mp3"
+    },
+    {
+      "id": "t7_06",
+      "audioText": "I heard a noise downstairs. Someone must be in the house.",
+      "transcript": "Someone must be in the house.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "I'm sure there's somebody downstairs."
+        },
+        {
+          "id": "o2",
+          "text": "Maybe there's someone."
+        },
+        {
+          "id": "o3",
+          "text": "There can't be anyone."
+        },
+        {
+          "id": "o4",
+          "text": "Someone was here yesterday."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Deduction from evidence — must be.",
+      "mistakeTags": [
+        "home",
+        "modal_must_should"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_07_modal_must_should/t7_06.mp3"
+    },
+    {
+      "id": "t7_07",
+      "audioText": "You shouldn’t eat so late. It’s bad for your stomach.",
+      "transcript": "You shouldn’t eat so late.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "It's not a good idea to eat late."
+        },
+        {
+          "id": "o2",
+          "text": "You must not eat late."
+        },
+        {
+          "id": "o3",
+          "text": "You should eat even later."
+        },
+        {
+          "id": "o4",
+          "text": "You ate late yesterday."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Mild advice against something — shouldn't.",
+      "mistakeTags": [
+        "home",
+        "modal_must_should"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_07_modal_must_should/t7_07.mp3"
+    },
+    {
+      "id": "t7_08",
+      "audioText": "The light is on in his office. He must still be working.",
+      "transcript": "He must still be working.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "I'm certain he's still at work."
+        },
+        {
+          "id": "o2",
+          "text": "He might be working."
+        },
+        {
+          "id": "o3",
+          "text": "He can't be working."
+        },
+        {
+          "id": "o4",
+          "text": "He finished work already."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Logical deduction — must + be + -ing.",
+      "mistakeTags": [
+        "office",
+        "modal_must_should"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_07_modal_must_should/t7_08.mp3"
+    },
+    {
+      "id": "t7_09",
+      "audioText": "We must hurry. The film starts in ten minutes.",
+      "transcript": "We must hurry.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "We have no choice, we need to run."
+        },
+        {
+          "id": "o2",
+          "text": "We should hurry a bit."
+        },
+        {
+          "id": "o3",
+          "text": "We can take our time."
+        },
+        {
+          "id": "o4",
+          "text": "We hurried yesterday."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Internal obligation/necessity — must.",
+      "mistakeTags": [
+        "cinema",
+        "modal_must_should"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_07_modal_must_should/t7_09.mp3"
+    },
+    {
+      "id": "t7_10",
+      "audioText": "You should try this cake. It’s absolutely amazing.",
+      "transcript": "You should try this cake.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "I highly recommend tasting it."
+        },
+        {
+          "id": "o2",
+          "text": "You must eat the whole cake."
+        },
+        {
+          "id": "o3",
+          "text": "You shouldn't eat cake."
+        },
+        {
+          "id": "o4",
+          "text": "You tried it yesterday."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Strong positive recommendation — should.",
+      "mistakeTags": [
+        "cafe",
+        "modal_must_should"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_07_modal_must_should/t7_10.mp3"
+    },
+    {
+      "id": "t7_11",
+      "audioText": "He’s yawning all the time. He must be very tired.",
+      "transcript": "He must be very tired.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "It's obvious he's extremely tired."
+        },
+        {
+          "id": "o2",
+          "text": "Maybe he's a bit tired."
+        },
+        {
+          "id": "o3",
+          "text": "He can't be tired."
+        },
+        {
+          "id": "o4",
+          "text": "He was tired last week."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Deduction from visible signs — must be.",
+      "mistakeTags": [
+        "office",
+        "modal_must_should"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_07_modal_must_should/t7_11.mp3"
+    },
+    {
+      "id": "t7_12",
+      "audioText": "You mustn’t tell anyone. It’s a secret.",
+      "transcript": "You mustn’t tell anyone.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "It's absolutely forbidden to tell."
+        },
+        {
+          "id": "o2",
+          "text": "You should keep it secret."
+        },
+        {
+          "id": "o3",
+          "text": "You can tell your best friend."
+        },
+        {
+          "id": "o4",
+          "text": "You told someone yesterday."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Strong prohibition — mustn't.",
+      "mistakeTags": [
+        "friends",
+        "modal_must_should"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_07_modal_must_should/t7_12.mp3"
+    },
+    {
+      "id": "t7_13",
+      "audioText": "You’ve been studying all day. You should take a break now.",
+      "transcript": "You should take a break now.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "It's time to rest a little."
+        },
+        {
+          "id": "o2",
+          "text": "You must continue studying."
+        },
+        {
+          "id": "o3",
+          "text": "You shouldn't rest."
+        },
+        {
+          "id": "o4",
+          "text": "You took a break yesterday."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Caring advice — should.",
+      "mistakeTags": [
+        "home",
+        "modal_must_should"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_07_modal_must_should/t7_13.mp3"
+    },
+    {
+      "id": "t7_14",
+      "audioText": "I’ve looked everywhere. My keys must be in the car.",
+      "transcript": "My keys must be in the car.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The only logical place left is the car."
+        },
+        {
+          "id": "o2",
+          "text": "My keys might be in the car."
+        },
+        {
+          "id": "o3",
+          "text": "My keys can't be in the car."
+        },
+        {
+          "id": "o4",
+          "text": "I found my keys already."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Strong deduction after searching — must be.",
+      "mistakeTags": [
+        "street",
+        "modal_must_should"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_07_modal_must_should/t7_14.mp3"
+    },
+    {
+      "id": "t7_15",
+      "audioText": "Tomorrow is the deadline. We must finish the project tonight.",
+      "transcript": "We must finish the project tonight.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "We have no choice — finish today."
+        },
+        {
+          "id": "o2",
+          "text": "We should try to finish today."
+        },
+        {
+          "id": "o3",
+          "text": "We can finish next week."
+        },
+        {
+          "id": "o4",
+          "text": "We finished it yesterday."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "External obligation + urgency — must.",
+      "mistakeTags": [
+        "office",
+        "modal_must_should"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_07_modal_must_should/t7_15.mp3"
+    }
+  ],
+  "short_description": "Must vs Should — обязательства, советы и логические выводы"
+}

@@ -1,0 +1,461 @@
+{
+  "id": "advanced_listening_15_register",
+  "title": "Register & Formality",
+  "description": "Слушайте и различайте формальный и неформальный регистры речи.",
+  "order": 15,
+  "level": "advanced",
+  "imageUrl": "assets/images/lessons/register.png",
+  "tasks": [
+    {
+      "id": "t15_01",
+      "audioText": "A manager addressed the board of directors. I would be most grateful if you could review the attached proposal at your earliest convenience.",
+      "transcript": "I would be most grateful if you could review the attached proposal at your earliest convenience.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Please look at the proposal whenever you get a chance — formal tone."
+        },
+        {
+          "id": "o2",
+          "text": "Check this out right now or else."
+        },
+        {
+          "id": "o3",
+          "text": "He casually asked a friend to read something."
+        },
+        {
+          "id": "o4",
+          "text": "He demanded an immediate response from the board."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Would be most grateful' and 'at your earliest convenience' are highly formal expressions. The speaker politely requests a review.",
+      "mistakeTags": [
+        "register",
+        "formal_request"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_15_register/t15_01.mp3"
+    },
+    {
+      "id": "t15_02",
+      "audioText": "Two friends chatted at a coffee shop about weekend plans. Fancy grabbing a bite to eat on Saturday? There's a new place round the corner.",
+      "transcript": "Fancy grabbing a bite to eat on Saturday? There's a new place round the corner.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "A formal dinner invitation to a prestigious restaurant."
+        },
+        {
+          "id": "o2",
+          "text": "An informal suggestion to eat together at a nearby new restaurant on Saturday."
+        },
+        {
+          "id": "o3",
+          "text": "A business lunch proposal for a client meeting."
+        },
+        {
+          "id": "o4",
+          "text": "A complaint about the food at a local restaurant."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Fancy grabbing a bite' and 'round the corner' are casual, informal expressions between friends suggesting a meal together.",
+      "mistakeTags": [
+        "register",
+        "informal_invitation"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_15_register/t15_02.mp3"
+    },
+    {
+      "id": "t15_03",
+      "audioText": "The professor opened the academic lecture. This paper seeks to examine the extent to which socioeconomic factors influence educational attainment in developing nations.",
+      "transcript": "This paper seeks to examine the extent to which socioeconomic factors influence educational attainment in developing nations.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "A casual blog post about schools in poor countries."
+        },
+        {
+          "id": "o2",
+          "text": "An academic study investigating how economic and social conditions affect education levels in developing countries."
+        },
+        {
+          "id": "o3",
+          "text": "A children's book about going to school."
+        },
+        {
+          "id": "o4",
+          "text": "A news headline about university rankings."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Seeks to examine', 'the extent to which', and 'educational attainment' are formal academic language describing a research paper's purpose.",
+      "mistakeTags": [
+        "register",
+        "academic_register"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_15_register/t15_03.mp3"
+    },
+    {
+      "id": "t15_04",
+      "audioText": "A teenager texted her friend about exam results. OMG I totally nailed it! Can't believe I actually passed — I was bricking it the whole time!",
+      "transcript": "OMG I totally nailed it! Can't believe I actually passed — I was bricking it the whole time!",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She failed the exam and is very upset about it."
+        },
+        {
+          "id": "o2",
+          "text": "She passed and is excited, admitting she was very nervous — in very informal, slang-filled language."
+        },
+        {
+          "id": "o3",
+          "text": "She formally announced her academic achievement."
+        },
+        {
+          "id": "o4",
+          "text": "She is discussing construction work with a colleague."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Nailed it', 'bricking it', and 'OMG' are very informal slang. She succeeded and was extremely nervous beforehand.",
+      "mistakeTags": [
+        "register",
+        "slang"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_15_register/t15_04.mp3"
+    },
+    {
+      "id": "t15_05",
+      "audioText": "The lawyer addressed the court during closing arguments. It is submitted, Your Honour, that the evidence presented is insufficient to establish guilt beyond reasonable doubt.",
+      "transcript": "It is submitted, Your Honour, that the evidence presented is insufficient to establish guilt beyond reasonable doubt.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The lawyer informally chatted with the judge about the case."
+        },
+        {
+          "id": "o2",
+          "text": "The lawyer argued in formal legal language that the evidence does not prove the defendant's guilt."
+        },
+        {
+          "id": "o3",
+          "text": "The lawyer admitted the defendant is guilty."
+        },
+        {
+          "id": "o4",
+          "text": "The lawyer requested a delay in the trial."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'It is submitted', 'Your Honour', and 'beyond reasonable doubt' are highly formal legal register, arguing that proof of guilt is lacking.",
+      "mistakeTags": [
+        "register",
+        "legal_register"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_15_register/t15_05.mp3"
+    },
+    {
+      "id": "t15_06",
+      "audioText": "A doctor explained a condition to a patient in simple terms. Basically, your knee is a bit worn out. We need to give it some rest and maybe do a few exercises to strengthen the muscles around it.",
+      "transcript": "Basically, your knee is a bit worn out. We need to give it some rest and maybe do a few exercises to strengthen the muscles around it.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The doctor used highly technical medical terminology to describe knee surgery."
+        },
+        {
+          "id": "o2",
+          "text": "The doctor simplified the explanation, saying the knee needs rest and strengthening exercises — in accessible, everyday language."
+        },
+        {
+          "id": "o3",
+          "text": "The doctor refused to explain the condition."
+        },
+        {
+          "id": "o4",
+          "text": "The doctor recommended immediate surgery in formal terms."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Basically', 'a bit worn out', and 'give it some rest' are deliberately informal and patient-friendly language, avoiding medical jargon.",
+      "mistakeTags": [
+        "register",
+        "register_shift"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_15_register/t15_06.mp3"
+    },
+    {
+      "id": "t15_07",
+      "audioText": "The ambassador delivered a diplomatic statement. Her Majesty's Government regrets that it is unable to accede to the request made by the delegation at this juncture.",
+      "transcript": "Her Majesty's Government regrets that it is unable to accede to the request made by the delegation at this juncture.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The government politely refused the delegation's request using extremely formal diplomatic language."
+        },
+        {
+          "id": "o2",
+          "text": "The government enthusiastically accepted the delegation's proposal."
+        },
+        {
+          "id": "o3",
+          "text": "The ambassador made a casual remark about a minor issue."
+        },
+        {
+          "id": "o4",
+          "text": "The government has no opinion on the matter."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Regrets that it is unable to accede' and 'at this juncture' are formal diplomatic euphemisms meaning 'no' in the most polite possible way.",
+      "mistakeTags": [
+        "register",
+        "diplomatic_register"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_15_register/t15_07.mp3"
+    },
+    {
+      "id": "t15_08",
+      "audioText": "A sports commentator described the final moments of a match. And he's smashed it into the top corner! What a belter! The crowd's going absolutely mental!",
+      "transcript": "And he's smashed it into the top corner! What a belter! The crowd's going absolutely mental!",
+      "options": [
+        {
+          "id": "o1",
+          "text": "A formal match report describing a goal."
+        },
+        {
+          "id": "o2",
+          "text": "The commentator uses excited, colloquial language to describe a spectacular goal and the crowd's wild reaction."
+        },
+        {
+          "id": "o3",
+          "text": "The player missed the shot and the crowd is silent."
+        },
+        {
+          "id": "o4",
+          "text": "An academic analysis of football tactics."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Smashed it', 'what a belter', and 'going mental' are highly colloquial, energetic commentary language expressing excitement about a great goal.",
+      "mistakeTags": [
+        "register",
+        "colloquial"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_15_register/t15_08.mp3"
+    },
+    {
+      "id": "t15_09",
+      "audioText": "The HR director sent an email to all staff. Please be advised that the annual performance review cycle will commence on the first of March and all submissions must be finalised by the thirty-first.",
+      "transcript": "Please be advised that the annual performance review cycle will commence on the first of March and all submissions must be finalised by the thirty-first.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "A casual reminder about upcoming performance reviews."
+        },
+        {
+          "id": "o2",
+          "text": "Performance reviews start March first and must be completed by the thirty-first — communicated in formal corporate language."
+        },
+        {
+          "id": "o3",
+          "text": "Performance reviews have been cancelled this year."
+        },
+        {
+          "id": "o4",
+          "text": "Employees can submit reviews whenever they like."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Please be advised', 'commence', and 'finalised' are formal corporate register, setting clear deadlines for the review process.",
+      "mistakeTags": [
+        "register",
+        "corporate_register"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_15_register/t15_09.mp3"
+    },
+    {
+      "id": "t15_10",
+      "audioText": "A grandmother chatted with her neighbour over the garden fence. Oh, the little ones have been right little terrors this week! Run me ragged, they have!",
+      "transcript": "Oh, the little ones have been right little terrors this week! Run me ragged, they have!",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The grandmother is filing a formal complaint about her grandchildren."
+        },
+        {
+          "id": "o2",
+          "text": "She affectionately says the grandchildren have been very energetic and exhausting this week — in warm, colloquial language."
+        },
+        {
+          "id": "o3",
+          "text": "The children have been perfectly well-behaved."
+        },
+        {
+          "id": "o4",
+          "text": "She is describing a professional childcare situation."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Right little terrors' and 'run me ragged' are affectionate, colloquial expressions meaning the children were exhausting but lovable.",
+      "mistakeTags": [
+        "register",
+        "colloquial"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_15_register/t15_10.mp3"
+    },
+    {
+      "id": "t15_11",
+      "audioText": "The scientist presented findings at a medical conference. The data demonstrate a statistically significant correlation between prolonged sedentary behaviour and the incidence of cardiovascular disease.",
+      "transcript": "The data demonstrate a statistically significant correlation between prolonged sedentary behaviour and the incidence of cardiovascular disease.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Research shows a clear link between sitting too much and heart disease — expressed in precise scientific language."
+        },
+        {
+          "id": "o2",
+          "text": "The scientist casually mentioned that exercise is good for you."
+        },
+        {
+          "id": "o3",
+          "text": "There is no connection between sitting and health problems."
+        },
+        {
+          "id": "o4",
+          "text": "The findings were presented in everyday conversational language."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Statistically significant correlation', 'prolonged sedentary behaviour', and 'incidence of cardiovascular disease' are formal scientific register.",
+      "mistakeTags": [
+        "register",
+        "scientific_register"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_15_register/t15_11.mp3"
+    },
+    {
+      "id": "t15_12",
+      "audioText": "A waiter at a fine dining restaurant greeted guests. Good evening. May I take the liberty of recommending our chef's tasting menu? It features a sublime selection of seasonal delicacies.",
+      "transcript": "May I take the liberty of recommending our chef's tasting menu? It features a sublime selection of seasonal delicacies.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "A fast-food worker casually suggesting today's special."
+        },
+        {
+          "id": "o2",
+          "text": "The waiter politely and elegantly suggests the chef's special menu with sophisticated, high-register hospitality language."
+        },
+        {
+          "id": "o3",
+          "text": "The waiter is complaining about the chef's cooking."
+        },
+        {
+          "id": "o4",
+          "text": "The restaurant has run out of food."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Take the liberty of recommending', 'sublime selection', and 'seasonal delicacies' are elevated hospitality register suited to fine dining.",
+      "mistakeTags": [
+        "register",
+        "formal_hospitality"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_15_register/t15_12.mp3"
+    },
+    {
+      "id": "t15_13",
+      "audioText": "Two colleagues chatted by the coffee machine on Monday morning. Mate, the weekend was absolutely mint! We hit this amazing rooftop bar — you should totally come next time.",
+      "transcript": "Mate, the weekend was absolutely mint! We hit this amazing rooftop bar — you should totally come next time.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "A formal event invitation to a corporate gathering."
+        },
+        {
+          "id": "o2",
+          "text": "He enthusiastically describes a great weekend at a rooftop bar and invites his colleague — in casual, slang-heavy language."
+        },
+        {
+          "id": "o3",
+          "text": "He had a terrible weekend and is complaining about it."
+        },
+        {
+          "id": "o4",
+          "text": "He is filing a formal report about weekend activities."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Mate', 'absolutely mint', 'hit this bar', and 'totally come' are very informal slang expressing enthusiasm about the weekend.",
+      "mistakeTags": [
+        "register",
+        "slang"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_15_register/t15_13.mp3"
+    },
+    {
+      "id": "t15_14",
+      "audioText": "The chairperson opened the annual general meeting. I hereby call this meeting to order and request that all members present signify their attendance for the purposes of establishing a quorum.",
+      "transcript": "I hereby call this meeting to order and request that all members present signify their attendance for the purposes of establishing a quorum.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The chairperson formally opens the meeting and asks attendees to confirm their presence to verify enough members are present — in procedural language."
+        },
+        {
+          "id": "o2",
+          "text": "The chairperson casually asked who showed up today."
+        },
+        {
+          "id": "o3",
+          "text": "The meeting was cancelled due to low attendance."
+        },
+        {
+          "id": "o4",
+          "text": "The chairperson ended the meeting immediately."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Hereby', 'call to order', 'signify attendance', and 'establishing a quorum' are formal procedural/parliamentary register.",
+      "mistakeTags": [
+        "register",
+        "procedural_register"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_15_register/t15_14.mp3"
+    },
+    {
+      "id": "t15_15",
+      "audioText": "A parent left a note for their teenager on the kitchen table. Hey love, popped out to the shops. There's leftovers in the fridge — just bung them in the microwave for a couple of mins. Back soon! x",
+      "transcript": "Hey love, popped out to the shops. There's leftovers in the fridge — just bung them in the microwave for a couple of mins. Back soon! x",
+      "options": [
+        {
+          "id": "o1",
+          "text": "A formal letter with detailed cooking instructions."
+        },
+        {
+          "id": "o2",
+          "text": "A warm, casual note saying the parent went shopping and the teen should reheat food in the microwave — in affectionate, everyday language."
+        },
+        {
+          "id": "o3",
+          "text": "The parent is leaving permanently and saying goodbye."
+        },
+        {
+          "id": "o4",
+          "text": "A restaurant menu with heating instructions for staff."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Hey love', 'popped out', 'bung them in', and 'couple of mins' are warm, informal, everyday domestic language between parent and child.",
+      "mistakeTags": [
+        "register",
+        "informal_domestic"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_15_register/t15_15.mp3"
+    }
+  ],
+  "short_description": "Формальный и неформальный регистры речи."
+}

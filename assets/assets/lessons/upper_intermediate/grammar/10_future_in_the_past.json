@@ -1,0 +1,2091 @@
+{
+  "id": "upper_10_future_in_the_past",
+  "title": "Future in the Past",
+  "description": "Будущее в прошлом — это «Старые планы» или «Обещания из прошлого». Я думал, что пойду... Он сказал, что позвонит...",
+  "order": 10,
+  "level": "upper_intermediate",
+  "imageUrl": "assets/images/lessons/future_in_the_past.png",
+  "vocabulary": [
+    {
+      "id": "v10_say",
+      "english": "say",
+      "russian": "сказать",
+      "partOfSpeech": "verb",
+      "example": "He said he would come.",
+      "exampleTranslation": "Он сказал, что придет.",
+      "audioPath": "assets/audio/vocabulary/v10_say.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_say.mp3"
+    },
+    {
+      "id": "v10_come",
+      "english": "come",
+      "russian": "приходить",
+      "partOfSpeech": "verb",
+      "example": "He would come.",
+      "exampleTranslation": "Он придет.",
+      "audioPath": "assets/audio/vocabulary/v10_come.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_come.mp3"
+    },
+    {
+      "id": "v10_think",
+      "english": "think",
+      "russian": "думать",
+      "partOfSpeech": "verb",
+      "example": "I thought.",
+      "exampleTranslation": "Я думал.",
+      "audioPath": "assets/audio/vocabulary/v10_think.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_think.mp3"
+    },
+    {
+      "id": "v10_rain",
+      "english": "rain",
+      "russian": "дождь",
+      "partOfSpeech": "noun",
+      "example": "It would rain.",
+      "exampleTranslation": "Пойдет дождь.",
+      "audioPath": "assets/audio/vocabulary/v10_rain.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_rain.mp3"
+    },
+    {
+      "id": "v10_know",
+      "english": "know",
+      "russian": "знать",
+      "partOfSpeech": "verb",
+      "example": "She knew.",
+      "exampleTranslation": "Она знала.",
+      "audioPath": "assets/audio/vocabulary/v10_know.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_know.mp3"
+    },
+    {
+      "id": "v10_help",
+      "english": "help",
+      "russian": "помощь (помогать)",
+      "partOfSpeech": "verb",
+      "example": "They would help.",
+      "exampleTranslation": "Они помогут.",
+      "audioPath": "assets/audio/vocabulary/v10_help.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_help.mp3"
+    },
+    {
+      "id": "v10_hope",
+      "english": "hope",
+      "russian": "надеяться",
+      "partOfSpeech": "verb",
+      "example": "We hoped.",
+      "exampleTranslation": "Мы надеялись.",
+      "audioPath": "assets/audio/vocabulary/v10_hope.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_hope.mp3"
+    },
+    {
+      "id": "v10_call",
+      "english": "call",
+      "russian": "звонить",
+      "partOfSpeech": "verb",
+      "example": "I was going to call you.",
+      "exampleTranslation": "Я собиралась позвонить тебе.",
+      "audioPath": "assets/audio/vocabulary/v10_call.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_call.mp3"
+    },
+    {
+      "id": "v10_late",
+      "english": "late",
+      "russian": "поздно",
+      "partOfSpeech": "adverb",
+      "example": "He would be late.",
+      "exampleTranslation": "Он опоздает.",
+      "audioPath": "assets/audio/vocabulary/v10_late.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_late.mp3"
+    },
+    {
+      "id": "v10_promise",
+      "english": "promise",
+      "russian": "обещать",
+      "partOfSpeech": "verb",
+      "example": "They promised.",
+      "exampleTranslation": "Они обещали.",
+      "audioPath": "assets/audio/vocabulary/v10_promise.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_promise.mp3"
+    },
+    {
+      "id": "v10_buy",
+      "english": "buy",
+      "russian": "покупать",
+      "partOfSpeech": "verb",
+      "example": "Buy a dress.",
+      "exampleTranslation": "Купить платье.",
+      "audioPath": "assets/audio/vocabulary/v10_buy.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_buy.mp3"
+    },
+    {
+      "id": "v10_dress",
+      "english": "dress",
+      "russian": "платье",
+      "partOfSpeech": "noun",
+      "example": "Buy a dress.",
+      "exampleTranslation": "Купить платье.",
+      "audioPath": "assets/audio/vocabulary/v10_dress.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_dress.mp3"
+    },
+    {
+      "id": "v10_move",
+      "english": "move",
+      "russian": "переезжать (двигаться)",
+      "partOfSpeech": "verb",
+      "example": "They were going to move.",
+      "exampleTranslation": "Они собирались переехать.",
+      "audioPath": "assets/audio/vocabulary/v10_move.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_move.mp3"
+    },
+    {
+      "id": "v10_start",
+      "english": "start",
+      "russian": "начинать",
+      "partOfSpeech": "verb",
+      "example": "Start a new job.",
+      "exampleTranslation": "Начать новую работу.",
+      "audioPath": "assets/audio/vocabulary/v10_start.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_start.mp3"
+    },
+    {
+      "id": "v10_job",
+      "english": "job",
+      "russian": "работа",
+      "partOfSpeech": "noun",
+      "example": "New job.",
+      "exampleTranslation": "Новая работа.",
+      "audioPath": "assets/audio/vocabulary/v10_job.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_job.mp3"
+    },
+    {
+      "id": "v10_busy",
+      "english": "busy",
+      "russian": "занятый",
+      "partOfSpeech": "adjective",
+      "example": "You were busy.",
+      "exampleTranslation": "Ты был занят.",
+      "audioPath": "assets/audio/vocabulary/v10_busy.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_busy.mp3"
+    },
+    {
+      "id": "v10_train",
+      "english": "train",
+      "russian": "поезд",
+      "partOfSpeech": "noun",
+      "example": "The train would be late.",
+      "exampleTranslation": "Поезд опоздает.",
+      "audioPath": "assets/audio/vocabulary/v10_train.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_train.mp3"
+    },
+    {
+      "id": "v10_tell",
+      "english": "tell",
+      "russian": "рассказывать",
+      "partOfSpeech": "verb",
+      "example": "I was told.",
+      "exampleTranslation": "Мне сказали.",
+      "audioPath": "assets/audio/vocabulary/v10_tell.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_tell.mp3"
+    },
+    {
+      "id": "v10_win",
+      "english": "win",
+      "russian": "выигрывать",
+      "partOfSpeech": "verb",
+      "example": "You would win.",
+      "exampleTranslation": "Ты выиграешь.",
+      "audioPath": "assets/audio/vocabulary/v10_win.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_win.mp3"
+    },
+    {
+      "id": "v10_hard",
+      "english": "hard",
+      "russian": "трудный (сложный)",
+      "partOfSpeech": "adjective",
+      "example": "It would be hard.",
+      "exampleTranslation": "Это будет трудно.",
+      "audioPath": "assets/audio/vocabulary/v10_hard.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_hard.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "Future in the Past",
+    "subtitle": "Представьте, что вы стоите во ВЧЕРАШНЕМ ДНЕ и смотрите в ЗАВТРА. Для нас сегодняшних — это уже прошлое, но тогда это было планом. Это правило «согласования времен»: если история началась в прошлом (He said...), то и будущее в ней должно стать «прошлым» (will -> would).",
+    "construction": {
+      "formula": "Would + V1 / Was going to + V1",
+      "rules": [
+        {
+          "word": "Will → Would",
+          "description": "Если первая часть предложения в прошлом (He said, I thought), то Will превращается в Would. Это «закон оборотня»."
+        },
+        {
+          "word": "Was/Were going to",
+          "description": "«Собирался». I was going to call you (но не позвонил). Планы, которые часто срываются."
+        },
+        {
+          "word": "Как переводить",
+          "description": "На русский переводится будущим временем. «Он сказал, что ПРИДЁТ (would come)»."
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "schedule",
+        "color": "blue",
+        "title": "Пересказ слов (Косвенная речь)",
+        "description": "Он обещал, что поможет. He promised he WOULD help.",
+        "example": {
+          "english": "She said she would be late.",
+          "russian": "Она сказала, что опоздает."
+        }
+      },
+      {
+        "icon": "schedule",
+        "color": "orange",
+        "title": "Сорванные планы",
+        "description": "Я собирался что-то сделать, но... I was going to sleep, but...",
+        "example": {
+          "english": "I was going to buy it, but I forgot.",
+          "russian": "Я собирался купить это, но забыл."
+        }
+      },
+      {
+        "icon": "explore",
+        "color": "purple",
+        "title": "Предвидение",
+        "description": "Я знал, что это случится. I knew it WOULD happen.",
+        "example": {
+          "english": "I thought you would like it.",
+          "russian": "Я думал, тебе это понравится."
+        }
+      }
+    ],
+    "markers": [
+      "said that",
+      "thought that",
+      "knew that",
+      "would",
+      "was going to",
+      "were going to"
+    ]
+  },
+  "tasks": [
+    {
+      "id": "t10_1",
+      "type": "sentenceAssembly",
+      "question": "Он сказал, что проект будет завершён вовремя",
+      "correctAnswer": "He said that he would deliver",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "We",
+          "Him"
+        ],
+        [
+          "said",
+          "say",
+          "told",
+          "tell"
+        ],
+        [
+          "that",
+          "this",
+          "it",
+          "what"
+        ],
+        [
+          "he",
+          "she",
+          "we",
+          "his"
+        ],
+        [
+          "would",
+          "will",
+          "did",
+          "can"
+        ],
+        [
+          "deliver",
+          "finish",
+          "complete",
+          "submit"
+        ]
+      ],
+      "mistakeTags": [
+        "future_in_past",
+        "would_was_going_to"
+      ],
+      "audioPath": "assets/audio/grammar/upper_10_future_in_the_past/000.mp3"
+    },
+    {
+      "id": "t10_2",
+      "type": "sentenceAssembly",
+      "question": "Я думал что скоро пойдёт дождь",
+      "correctAnswer": "I thought it would rain very soon",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "They",
+          "You",
+          "One"
+        ],
+        [
+          "thought",
+          "hoped",
+          "knew",
+          "said"
+        ],
+        [
+          "it",
+          "they",
+          "you",
+          "one"
+        ],
+        [
+          "would",
+          "could",
+          "might",
+          "should"
+        ],
+        [
+          "rain",
+          "snow",
+          "stop",
+          "start"
+        ],
+        [
+          "very",
+          "quite",
+          "so",
+          "too"
+        ],
+        [
+          "soon",
+          "hard",
+          "much",
+          "late"
+        ]
+      ],
+      "mistakeTags": [
+        "future_in_past",
+        "would_was_going_to"
+      ],
+      "audioPath": "assets/audio/grammar/upper_10_future_in_the_past/001.mp3"
+    },
+    {
+      "id": "t10_3",
+      "type": "sentenceAssembly",
+      "question": "Она знала, что команда поддержит инициативу",
+      "correctAnswer": "She knew that they would support",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "It",
+          "Her"
+        ],
+        [
+          "knew",
+          "know",
+          "knows",
+          "think"
+        ],
+        [
+          "that",
+          "this",
+          "what",
+          "which"
+        ],
+        [
+          "they",
+          "she",
+          "he",
+          "it"
+        ],
+        [
+          "would",
+          "may",
+          "shall",
+          "must"
+        ],
+        [
+          "support",
+          "backing",
+          "approve",
+          "accept"
+        ]
+      ],
+      "mistakeTags": [
+        "future_in_past",
+        "would_was_going_to"
+      ],
+      "audioPath": "assets/audio/grammar/upper_10_future_in_the_past/002.mp3"
+    },
+    {
+      "id": "t10_4",
+      "type": "sentenceAssembly",
+      "question": "Мы надеялись что ты придёшь сегодня",
+      "correctAnswer": "We hoped that you would come today",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "He",
+          "She",
+          "I"
+        ],
+        [
+          "hoped",
+          "thought",
+          "knew",
+          "said"
+        ],
+        [
+          "that",
+          "if",
+          "when",
+          "why"
+        ],
+        [
+          "you",
+          "he",
+          "she",
+          "we"
+        ],
+        [
+          "would",
+          "will",
+          "did",
+          "can"
+        ],
+        [
+          "come",
+          "arrive",
+          "call",
+          "help"
+        ],
+        [
+          "today",
+          "soon",
+          "later",
+          "back"
+        ]
+      ],
+      "mistakeTags": [
+        "future_in_past",
+        "would_was_going_to"
+      ],
+      "audioPath": "assets/audio/grammar/upper_10_future_in_the_past/003.mp3"
+    },
+    {
+      "id": "t10_5",
+      "type": "sentenceAssembly",
+      "question": "Я собирался позвонить тебе (план)",
+      "correctAnswer": "I was going to call you",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "They",
+          "You",
+          "One"
+        ],
+        [
+          "was",
+          "were",
+          "am",
+          "did"
+        ],
+        [
+          "going",
+          "go",
+          "gone",
+          "went"
+        ],
+        [
+          "to",
+          "with",
+          "from",
+          "by"
+        ],
+        [
+          "call",
+          "phone",
+          "ring",
+          "tell"
+        ],
+        [
+          "you",
+          "they",
+          "one",
+          "your"
+        ]
+      ],
+      "mistakeTags": [
+        "future_in_past",
+        "would_was_going_to"
+      ],
+      "audioPath": "assets/audio/grammar/upper_10_future_in_the_past/004.mp3"
+    },
+    {
+      "id": "t10_6",
+      "type": "sentenceAssembly",
+      "question": "Он сказал, что будет поздно",
+      "correctAnswer": "He said he would be late",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "It",
+          "Him"
+        ],
+        [
+          "said",
+          "say",
+          "told",
+          "speak"
+        ],
+        [
+          "he",
+          "she",
+          "it",
+          "his"
+        ],
+        [
+          "would",
+          "may",
+          "shall",
+          "must"
+        ],
+        [
+          "be",
+          "was",
+          "being",
+          "is"
+        ],
+        [
+          "late",
+          "later",
+          "time",
+          "slow"
+        ]
+      ],
+      "mistakeTags": [
+        "future_in_past",
+        "would_was_going_to"
+      ],
+      "audioPath": "assets/audio/grammar/upper_10_future_in_the_past/005.mp3"
+    },
+    {
+      "id": "t10_7",
+      "type": "sentenceAssembly",
+      "question": "Они обещали, что будут там",
+      "correctAnswer": "They promised they would be there",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "promised",
+          "promise",
+          "said",
+          "say"
+        ],
+        [
+          "they",
+          "he",
+          "she",
+          "we"
+        ],
+        [
+          "would",
+          "will",
+          "did",
+          "can"
+        ],
+        [
+          "be",
+          "been",
+          "was",
+          "is"
+        ],
+        [
+          "there",
+          "here",
+          "place",
+          "where"
+        ]
+      ],
+      "mistakeTags": [
+        "future_in_past",
+        "would_was_going_to"
+      ],
+      "audioPath": "assets/audio/grammar/upper_10_future_in_the_past/006.mp3"
+    },
+    {
+      "id": "t10_8",
+      "type": "sentenceAssembly",
+      "question": "Я собиралась купить платье",
+      "correctAnswer": "I was going to buy a dress",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "They",
+          "You",
+          "One"
+        ],
+        [
+          "was",
+          "were",
+          "am",
+          "did"
+        ],
+        [
+          "going",
+          "go",
+          "gone",
+          "went"
+        ],
+        [
+          "to",
+          "with",
+          "from",
+          "by"
+        ],
+        [
+          "buy",
+          "bought",
+          "get",
+          "take"
+        ],
+        [
+          "a",
+          "some",
+          "every",
+          "the"
+        ],
+        [
+          "dress",
+          "clothes",
+          "skirt",
+          "wear"
+        ]
+      ],
+      "mistakeTags": [
+        "future_in_past",
+        "would_was_going_to"
+      ],
+      "audioPath": "assets/audio/grammar/upper_10_future_in_the_past/007.mp3"
+    },
+    {
+      "id": "t10_9",
+      "type": "sentenceAssembly",
+      "question": "Клиент сказал что подтвердит заказ сегодня",
+      "correctAnswer": "He said that he would confirm today",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "It",
+          "I"
+        ],
+        [
+          "said",
+          "told",
+          "thought",
+          "hoped"
+        ],
+        [
+          "that",
+          "if",
+          "when",
+          "why"
+        ],
+        [
+          "he",
+          "she",
+          "it",
+          "I"
+        ],
+        [
+          "would",
+          "may",
+          "shall",
+          "must"
+        ],
+        [
+          "confirm",
+          "approve",
+          "accept",
+          "sign"
+        ],
+        [
+          "today",
+          "soon",
+          "later",
+          "back"
+        ]
+      ],
+      "mistakeTags": [
+        "future_in_past",
+        "would_was_going_to"
+      ],
+      "audioPath": "assets/audio/grammar/upper_10_future_in_the_past/008.mp3"
+    },
+    {
+      "id": "t10_10",
+      "type": "sentenceAssembly",
+      "question": "Они собирались переехать в следующем месяце",
+      "correctAnswer": "They were going to move next month",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "were",
+          "was",
+          "are",
+          "is"
+        ],
+        [
+          "going",
+          "planning",
+          "hoping",
+          "trying"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "move",
+          "leave",
+          "travel",
+          "start"
+        ],
+        [
+          "next",
+          "last",
+          "this",
+          "that"
+        ],
+        [
+          "month",
+          "week",
+          "year",
+          "day"
+        ]
+      ],
+      "mistakeTags": [
+        "future_in_past",
+        "would_was_going_to"
+      ],
+      "audioPath": "assets/audio/grammar/upper_10_future_in_the_past/009.mp3"
+    },
+    {
+      "id": "t10_11",
+      "type": "sentenceAssembly",
+      "question": "Я не думал, что это будет так сложно",
+      "correctAnswer": "I did not think it would be so hard",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "They",
+          "You",
+          "One"
+        ],
+        [
+          "did",
+          "could",
+          "might",
+          "should"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "don't"
+        ],
+        [
+          "think",
+          "thought",
+          "know",
+          "guess"
+        ],
+        [
+          "it",
+          "they",
+          "you",
+          "one"
+        ],
+        [
+          "would",
+          "could",
+          "might",
+          "should"
+        ],
+        [
+          "be",
+          "been",
+          "was",
+          "is"
+        ],
+        [
+          "so",
+          "very",
+          "too",
+          "much"
+        ],
+        [
+          "hard",
+          "difficult",
+          "heavy",
+          "easy"
+        ]
+      ],
+      "mistakeTags": [
+        "future_in_past",
+        "would_was_going_to"
+      ],
+      "audioPath": "assets/audio/grammar/upper_10_future_in_the_past/010.mp3"
+    },
+    {
+      "id": "t10_12",
+      "type": "sentenceAssembly",
+      "question": "Она сказала, что не придет",
+      "correctAnswer": "She said she would not come",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "It",
+          "Her"
+        ],
+        [
+          "said",
+          "say",
+          "told",
+          "speak"
+        ],
+        [
+          "she",
+          "he",
+          "it",
+          "her"
+        ],
+        [
+          "would",
+          "may",
+          "shall",
+          "must"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "don't"
+        ],
+        [
+          "come",
+          "came",
+          "go",
+          "arrive"
+        ]
+      ],
+      "mistakeTags": [
+        "future_in_past",
+        "would_was_going_to"
+      ],
+      "audioPath": "assets/audio/grammar/upper_10_future_in_the_past/011.mp3"
+    },
+    {
+      "id": "t10_13",
+      "type": "sentenceAssembly",
+      "question": "Мы знали что команда выиграет тендер",
+      "correctAnswer": "We knew that you would win the contract",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "He",
+          "She",
+          "I"
+        ],
+        [
+          "knew",
+          "thought",
+          "hoped",
+          "said"
+        ],
+        [
+          "that",
+          "if",
+          "when",
+          "why"
+        ],
+        [
+          "you",
+          "he",
+          "she",
+          "we"
+        ],
+        [
+          "would",
+          "will",
+          "did",
+          "can"
+        ],
+        [
+          "win",
+          "finish",
+          "pass",
+          "complete"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "contract",
+          "tender",
+          "deal",
+          "bid"
+        ]
+      ],
+      "mistakeTags": [
+        "future_in_past",
+        "would_was_going_to"
+      ],
+      "audioPath": "assets/audio/grammar/upper_10_future_in_the_past/012.mp3"
+    },
+    {
+      "id": "t10_14",
+      "type": "sentenceAssembly",
+      "question": "Он собирался начать новую работу",
+      "correctAnswer": "He was going to start a new job",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "They",
+          "You",
+          "One"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "did"
+        ],
+        [
+          "going",
+          "go",
+          "doing",
+          "planning"
+        ],
+        [
+          "to",
+          "with",
+          "from",
+          "by"
+        ],
+        [
+          "start",
+          "begin",
+          "open",
+          "launch"
+        ],
+        [
+          "a",
+          "some",
+          "every",
+          "the"
+        ],
+        [
+          "new",
+          "good",
+          "big",
+          "fresh"
+        ],
+        [
+          "job",
+          "work",
+          "task",
+          "career"
+        ]
+      ],
+      "mistakeTags": [
+        "future_in_past",
+        "would_was_going_to"
+      ],
+      "audioPath": "assets/audio/grammar/upper_10_future_in_the_past/013.mp3"
+    },
+    {
+      "id": "t10_15",
+      "type": "sentenceAssembly",
+      "question": "Она сказала что скоро будет здесь",
+      "correctAnswer": "She said she would be here soon",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "It",
+          "I"
+        ],
+        [
+          "said",
+          "told",
+          "thought",
+          "hoped"
+        ],
+        [
+          "she",
+          "he",
+          "it",
+          "I"
+        ],
+        [
+          "would",
+          "may",
+          "shall",
+          "must"
+        ],
+        [
+          "be",
+          "come",
+          "stay",
+          "arrive"
+        ],
+        [
+          "here",
+          "there",
+          "home",
+          "back"
+        ],
+        [
+          "soon",
+          "later",
+          "today",
+          "now"
+        ]
+      ],
+      "mistakeTags": [
+        "future_in_past",
+        "would_was_going_to"
+      ],
+      "audioPath": "assets/audio/grammar/upper_10_future_in_the_past/014.mp3"
+    },
+    {
+      "id": "t10_16",
+      "type": "sentenceAssembly",
+      "question": "Мне сказали, что поезд опоздает",
+      "correctAnswer": "I was told the train would be late",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "was",
+          "were",
+          "am",
+          "had"
+        ],
+        [
+          "told",
+          "tell",
+          "said",
+          "say"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "train",
+          "bus",
+          "car",
+          "plane"
+        ],
+        [
+          "would",
+          "will",
+          "did",
+          "can"
+        ],
+        [
+          "be",
+          "been",
+          "come",
+          "go"
+        ],
+        [
+          "late",
+          "later",
+          "time",
+          "slow"
+        ]
+      ],
+      "mistakeTags": [
+        "future_in_past",
+        "would_was_going_to"
+      ],
+      "audioPath": "assets/audio/grammar/upper_10_future_in_the_past/015.mp3"
+    },
+    {
+      "id": "t10_17",
+      "type": "sentenceAssembly",
+      "question": "Он думал что она согласится с ним",
+      "correctAnswer": "He thought she would agree with him",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "They",
+          "You",
+          "One"
+        ],
+        [
+          "thought",
+          "hoped",
+          "knew",
+          "said"
+        ],
+        [
+          "she",
+          "they",
+          "you",
+          "one"
+        ],
+        [
+          "would",
+          "could",
+          "might",
+          "should"
+        ],
+        [
+          "agree",
+          "come",
+          "stay",
+          "help"
+        ],
+        [
+          "with",
+          "from",
+          "by",
+          "to"
+        ],
+        [
+          "him",
+          "her",
+          "me",
+          "them"
+        ]
+      ],
+      "mistakeTags": [
+        "future_in_past",
+        "would_was_going_to"
+      ],
+      "audioPath": "assets/audio/grammar/upper_10_future_in_the_past/016.mp3"
+    },
+    {
+      "id": "t10_18",
+      "type": "sentenceAssembly",
+      "question": "Мы собирались скоро уехать из города",
+      "correctAnswer": "We were going to leave the city soon",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "She",
+          "He",
+          "It"
+        ],
+        [
+          "were",
+          "was",
+          "are",
+          "is"
+        ],
+        [
+          "going",
+          "planning",
+          "trying",
+          "hoping"
+        ],
+        [
+          "to",
+          "about",
+          "through",
+          "into"
+        ],
+        [
+          "leave",
+          "visit",
+          "change",
+          "move"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "city",
+          "house",
+          "job",
+          "town"
+        ],
+        [
+          "soon",
+          "then",
+          "later",
+          "early"
+        ]
+      ],
+      "mistakeTags": [
+        "future_in_past",
+        "would_was_going_to"
+      ],
+      "audioPath": "assets/audio/grammar/upper_10_future_in_the_past/017.mp3"
+    },
+    {
+      "id": "t10_19",
+      "type": "sentenceAssembly",
+      "question": "Я собирался учиться за границей в следующем году",
+      "correctAnswer": "I was going to study abroad next year",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "was",
+          "were",
+          "am",
+          "is"
+        ],
+        [
+          "going",
+          "planning",
+          "hoping",
+          "trying"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "study",
+          "work",
+          "travel",
+          "live"
+        ],
+        [
+          "abroad",
+          "there",
+          "alone",
+          "hard"
+        ],
+        [
+          "next",
+          "last",
+          "this",
+          "that"
+        ],
+        [
+          "year",
+          "month",
+          "week",
+          "summer"
+        ]
+      ],
+      "mistakeTags": [
+        "future_in_past",
+        "would_was_going_to"
+      ],
+      "audioPath": "assets/audio/grammar/upper_10_future_in_the_past/018.mp3"
+    },
+    {
+      "id": "t10_20",
+      "type": "sentenceAssembly",
+      "question": "Тони сказал что он собирается уехать",
+      "correctAnswer": "Tony said that he was going to leave",
+      "options": [],
+      "variants": [
+        [
+          "Tony",
+          "He",
+          "She",
+          "Mark"
+        ],
+        [
+          "said",
+          "told",
+          "thought",
+          "knew"
+        ],
+        [
+          "that",
+          "when",
+          "if",
+          "why"
+        ],
+        [
+          "he",
+          "they",
+          "you",
+          "she"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "am"
+        ],
+        [
+          "going",
+          "gone",
+          "goes",
+          "went"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "leave",
+          "left",
+          "leaving",
+          "leaves"
+        ]
+      ],
+      "mistakeTags": [
+        "future_in_past",
+        "would_was_going_to"
+      ],
+      "audioPath": "assets/audio/grammar/upper_10_future_in_the_past/019.mp3"
+    },
+    {
+      "id": "t10_21",
+      "type": "sentenceAssembly",
+      "question": "Они думали что эксперимент покажет удивительные результаты",
+      "correctAnswer": "They thought the experiment would show results",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "She",
+          "He",
+          "It"
+        ],
+        [
+          "thought",
+          "hoped",
+          "knew",
+          "said"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "experiment",
+          "research",
+          "study",
+          "trial"
+        ],
+        [
+          "would",
+          "may",
+          "shall",
+          "must"
+        ],
+        [
+          "show",
+          "reveal",
+          "produce",
+          "yield"
+        ],
+        [
+          "results",
+          "findings",
+          "data",
+          "outcomes"
+        ]
+      ],
+      "mistakeTags": [
+        "future_in_past",
+        "would_was_going_to"
+      ],
+      "audioPath": "assets/audio/grammar/upper_10_future_in_the_past/020.mp3"
+    },
+    {
+      "id": "t10_22",
+      "type": "sentenceAssembly",
+      "question": "Я думал что она позвонит позже",
+      "correctAnswer": "I thought that she would call later",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "thought",
+          "hoped",
+          "said",
+          "knew"
+        ],
+        [
+          "that",
+          "if",
+          "when",
+          "why"
+        ],
+        [
+          "she",
+          "he",
+          "they",
+          "we"
+        ],
+        [
+          "would",
+          "will",
+          "could",
+          "should"
+        ],
+        [
+          "call",
+          "called",
+          "calling",
+          "calls"
+        ],
+        [
+          "later",
+          "soon",
+          "tomorrow",
+          "today"
+        ]
+      ],
+      "mistakeTags": [
+        "future_in_past",
+        "would_was_going_to"
+      ],
+      "audioPath": "assets/audio/grammar/upper_10_future_in_the_past/021.mp3"
+    },
+    {
+      "id": "t10_23",
+      "type": "sentenceAssembly",
+      "question": "Он спросил, пойду ли я (would come)",
+      "correctAnswer": "He asked if I would come",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "They",
+          "You",
+          "One"
+        ],
+        [
+          "asked",
+          "ask",
+          "said",
+          "say"
+        ],
+        [
+          "if",
+          "weather",
+          "that",
+          "what"
+        ],
+        [
+          "I",
+          "They",
+          "You",
+          "One"
+        ],
+        [
+          "would",
+          "could",
+          "might",
+          "should"
+        ],
+        [
+          "come",
+          "go",
+          "arrive",
+          "visit"
+        ]
+      ],
+      "mistakeTags": [
+        "future_in_past",
+        "would_was_going_to"
+      ],
+      "audioPath": "assets/audio/grammar/upper_10_future_in_the_past/022.mp3"
+    },
+    {
+      "id": "t10_24",
+      "type": "sentenceAssembly",
+      "question": "Она была уверена что достигнет успеха в карьере",
+      "correctAnswer": "She was sure it would work out",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "It",
+          "I"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "am"
+        ],
+        [
+          "sure",
+          "certain",
+          "glad",
+          "happy"
+        ],
+        [
+          "it",
+          "she",
+          "he",
+          "I"
+        ],
+        [
+          "would",
+          "may",
+          "shall",
+          "must"
+        ],
+        [
+          "work",
+          "turn",
+          "come",
+          "go"
+        ],
+        [
+          "out",
+          "well",
+          "fine",
+          "right"
+        ]
+      ],
+      "mistakeTags": [
+        "future_in_past",
+        "would_was_going_to"
+      ],
+      "audioPath": "assets/audio/grammar/upper_10_future_in_the_past/023.mp3"
+    },
+    {
+      "id": "t10_25",
+      "type": "sentenceAssembly",
+      "question": "Мама сказала что она приготовит ужин",
+      "correctAnswer": "Mom said that she would cook dinner",
+      "options": [],
+      "variants": [
+        [
+          "Mom",
+          "Dad",
+          "She",
+          "He"
+        ],
+        [
+          "said",
+          "told",
+          "thought",
+          "knew"
+        ],
+        [
+          "that",
+          "when",
+          "if",
+          "why"
+        ],
+        [
+          "she",
+          "he",
+          "they",
+          "we"
+        ],
+        [
+          "would",
+          "will",
+          "could",
+          "should"
+        ],
+        [
+          "cook",
+          "cooked",
+          "cooking",
+          "cooks"
+        ],
+        [
+          "dinner",
+          "lunch",
+          "food",
+          "meal"
+        ]
+      ],
+      "mistakeTags": [
+        "future_in_past",
+        "would_was_going_to"
+      ],
+      "audioPath": "assets/audio/grammar/upper_10_future_in_the_past/024.mp3"
+    },
+    {
+      "id": "t10_26",
+      "type": "sentenceAssembly",
+      "question": "Мы собирались смотреть фильм",
+      "correctAnswer": "We were going to watch a movie",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "You",
+          "One"
+        ],
+        [
+          "were",
+          "was",
+          "are",
+          "did"
+        ],
+        [
+          "going",
+          "go",
+          "gone",
+          "went"
+        ],
+        [
+          "to",
+          "with",
+          "from",
+          "by"
+        ],
+        [
+          "watch",
+          "see",
+          "look",
+          "view"
+        ],
+        [
+          "a",
+          "some",
+          "every",
+          "the"
+        ],
+        [
+          "movie",
+          "film",
+          "cinema",
+          "show"
+        ]
+      ],
+      "mistakeTags": [
+        "future_in_past",
+        "would_was_going_to"
+      ],
+      "audioPath": "assets/audio/grammar/upper_10_future_in_the_past/025.mp3"
+    },
+    {
+      "id": "t10_27",
+      "type": "sentenceAssembly",
+      "question": "Мы верили что план в конце концов удастся",
+      "correctAnswer": "We believed the plan would succeed eventually",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "She",
+          "He",
+          "It"
+        ],
+        [
+          "believed",
+          "thought",
+          "hoped",
+          "knew"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "plan",
+          "idea",
+          "project",
+          "team"
+        ],
+        [
+          "would",
+          "may",
+          "shall",
+          "must"
+        ],
+        [
+          "succeed",
+          "work",
+          "happen",
+          "change"
+        ],
+        [
+          "eventually",
+          "soon",
+          "finally",
+          "later"
+        ]
+      ],
+      "mistakeTags": [
+        "future_in_past",
+        "would_was_going_to"
+      ],
+      "audioPath": "assets/audio/grammar/upper_10_future_in_the_past/026.mp3"
+    },
+    {
+      "id": "t10_28",
+      "type": "sentenceAssembly",
+      "question": "Они сказали что уедут завтра",
+      "correctAnswer": "They said that they would leave tomorrow",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "said",
+          "told",
+          "thought",
+          "knew"
+        ],
+        [
+          "that",
+          "when",
+          "if",
+          "why"
+        ],
+        [
+          "they",
+          "he",
+          "she",
+          "we"
+        ],
+        [
+          "would",
+          "will",
+          "could",
+          "should"
+        ],
+        [
+          "leave",
+          "left",
+          "leaving",
+          "leaves"
+        ],
+        [
+          "tomorrow",
+          "today",
+          "soon",
+          "later"
+        ]
+      ],
+      "mistakeTags": [
+        "future_in_past",
+        "would_was_going_to"
+      ],
+      "audioPath": "assets/audio/grammar/upper_10_future_in_the_past/027.mp3"
+    },
+    {
+      "id": "t10_29",
+      "type": "sentenceAssembly",
+      "question": "Он знал что она бы не согласилась",
+      "correctAnswer": "He knew that she would not agree",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "They",
+          "She",
+          "We"
+        ],
+        [
+          "knew",
+          "know",
+          "thought",
+          "said"
+        ],
+        [
+          "that",
+          "if",
+          "when",
+          "why"
+        ],
+        [
+          "she",
+          "he",
+          "they",
+          "we"
+        ],
+        [
+          "would",
+          "will",
+          "could",
+          "should"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "none"
+        ],
+        [
+          "agree",
+          "agreed",
+          "agreeing",
+          "agrees"
+        ]
+      ],
+      "mistakeTags": [
+        "future_in_past",
+        "would_was_going_to"
+      ],
+      "audioPath": "assets/audio/grammar/upper_10_future_in_the_past/028.mp3"
+    },
+    {
+      "id": "t10_30",
+      "type": "sentenceAssembly",
+      "question": "Я собирался сказать тебе правду",
+      "correctAnswer": "I was going to tell you the truth",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "She",
+          "He",
+          "It"
+        ],
+        [
+          "was",
+          "were",
+          "am",
+          "did"
+        ],
+        [
+          "going",
+          "go",
+          "gone",
+          "went"
+        ],
+        [
+          "to",
+          "about",
+          "through",
+          "into"
+        ],
+        [
+          "tell",
+          "say",
+          "speak",
+          "talk"
+        ],
+        [
+          "you",
+          "she",
+          "he",
+          "it"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "truth",
+          "true",
+          "right",
+          "lie"
+        ]
+      ],
+      "mistakeTags": [
+        "future_in_past",
+        "would_was_going_to"
+      ],
+      "audioPath": "assets/audio/grammar/upper_10_future_in_the_past/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionUpper10FutureInThePast",
+  "theoryQuiz": [
+    {
+      "id": "tq_01",
+      "type": "multipleChoice",
+      "question": "Как меняется 'will' при согласовании времён (Future in the Past)?",
+      "options": [
+        "will остаётся will",
+        "will меняется на would",
+        "will меняется на had",
+        "will меняется на was"
+      ],
+      "correctIndex": 1,
+      "explanation": "При согласовании времён will превращается в would: He said he would come."
+    },
+    {
+      "id": "tq_02",
+      "type": "trueFalse",
+      "question": "'He said he would come' — это пример Future in the Past.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Верно. Would come — это будущее с точки зрения прошлого (said — прошлое, would come — будущее от него)."
+    },
+    {
+      "id": "tq_03",
+      "type": "multipleChoice",
+      "question": "Как меняется 'am/is/are going to' в Future in the Past?",
+      "options": [
+        "is going to остаётся",
+        "am/is/are going to → was/were going to",
+        "am/is/are going to → had going to",
+        "am/is/are going to → would going to"
+      ],
+      "correctIndex": 1,
+      "explanation": "Going to также сдвигается в прошлое: is going to → was going to, are going to → were going to."
+    },
+    {
+      "id": "tq_04",
+      "type": "trueFalse",
+      "question": "Future in the Past используется только в косвенной речи.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "Неверно. Также используется в повествовании о прошлых планах и намерениях, не только в косвенной речи."
+    },
+    {
+      "id": "tq_05",
+      "type": "multipleChoice",
+      "question": "Переведите: 'Она сказала, что уедет.'",
+      "options": [
+        "She said she will leave.",
+        "She said she would leave.",
+        "She said she leaves.",
+        "She said she had left."
+      ],
+      "correctIndex": 1,
+      "explanation": "Said (прошлое) + would leave (будущее от прошлого). She said she would leave."
+    },
+    {
+      "id": "tq_06",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: 'I knew that she ___ going to call me.'",
+      "options": [
+        "is",
+        "was",
+        "will",
+        "has"
+      ],
+      "correctIndex": 1,
+      "explanation": "Knew (прошлое) требует согласования: is going to → was going to."
+    },
+    {
+      "id": "tq_07",
+      "type": "trueFalse",
+      "question": "'They told us they were going to move' правильно передаёт их прошлые планы о переезде.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Верно. Were going to move — Future in the Past, показывает их план переехать (с точки зрения прошлого)."
+    },
+    {
+      "id": "tq_08",
+      "type": "multipleChoice",
+      "question": "Какое предложение использует Future in the Past правильно?",
+      "options": [
+        "He promised he will help.",
+        "He promised he would help.",
+        "He promised he helps.",
+        "He promised he is helping."
+      ],
+      "correctIndex": 1,
+      "explanation": "Promised (прошлое) + would help (будущее от прошлого). Согласование: will → would."
+    },
+    {
+      "id": "tq_09",
+      "type": "trueFalse",
+      "question": "В предложении 'She thought it would rain' слово 'would' показывает вежливость.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "Неверно. Здесь would — это Future in the Past (будущее с точки зрения прошлого), а не вежливость."
+    },
+    {
+      "id": "tq_10",
+      "type": "multipleChoice",
+      "question": "Какое правило согласования времён применяется в Future in the Past?",
+      "options": [
+        "Время не меняется",
+        "will → would, am/is/are going to → was/were going to",
+        "Все глаголы становятся Past Simple",
+        "Добавляется had ко всем глаголам"
+      ],
+      "correctIndex": 1,
+      "explanation": "Will → would, am/is/are going to → was/were going to. Остальные элементы предложения не меняются."
+    }
+  ]
+}

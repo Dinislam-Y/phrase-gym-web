@@ -1,0 +1,1286 @@
+{
+  "id": "beginner_12_object_pronouns",
+  "title": "Object Pronouns: Me, Him, Her, Us, Them",
+  "description": "Объектные местоимения: Tell me, I like her, Help us. Кого? Кому?",
+  "order": 12,
+  "level": "beginner",
+  "imageUrl": "assets/images/lessons/object_pronouns.png",
+  "vocabulary": [
+    {
+      "id": "v12_me",
+      "english": "me",
+      "russian": "мне, меня",
+      "partOfSpeech": "pronoun",
+      "example": "Tell me your name.",
+      "exampleTranslation": "Скажи мне своё имя.",
+      "audioPath": "assets/audio/vocabulary/v12_me.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_me.mp3"
+    },
+    {
+      "id": "v12_you",
+      "english": "you",
+      "russian": "тебе, тебя",
+      "partOfSpeech": "pronoun",
+      "example": "I like you.",
+      "exampleTranslation": "Ты мне нравишься.",
+      "audioPath": "assets/audio/vocabulary/v12_you.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_you.mp3"
+    },
+    {
+      "id": "v12_him",
+      "english": "him",
+      "russian": "ему, его",
+      "partOfSpeech": "pronoun",
+      "example": "I know him.",
+      "exampleTranslation": "Я знаю его.",
+      "audioPath": "assets/audio/vocabulary/v12_him.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_him.mp3"
+    },
+    {
+      "id": "v12_her",
+      "english": "her",
+      "russian": "ей, её",
+      "partOfSpeech": "pronoun",
+      "example": "I like her.",
+      "exampleTranslation": "Она мне нравится.",
+      "audioPath": "assets/audio/vocabulary/v12_her.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_her.mp3"
+    },
+    {
+      "id": "v12_it",
+      "english": "it",
+      "russian": "его, её (для вещей)",
+      "partOfSpeech": "pronoun",
+      "example": "I need it.",
+      "exampleTranslation": "Мне это нужно.",
+      "audioPath": "assets/audio/vocabulary/v12_it.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_it.mp3"
+    },
+    {
+      "id": "v12_us",
+      "english": "us",
+      "russian": "нам, нас",
+      "partOfSpeech": "pronoun",
+      "example": "Help us please.",
+      "exampleTranslation": "Помоги нам, пожалуйста.",
+      "audioPath": "assets/audio/vocabulary/v12_us.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_us.mp3"
+    },
+    {
+      "id": "v12_them",
+      "english": "them",
+      "russian": "им, их",
+      "partOfSpeech": "pronoun",
+      "example": "I see them.",
+      "exampleTranslation": "Я вижу их.",
+      "audioPath": "assets/audio/vocabulary/v12_them.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_them.mp3"
+    },
+    {
+      "id": "v12_tell",
+      "english": "tell",
+      "russian": "сказать, рассказать",
+      "partOfSpeech": "verb",
+      "example": "Tell me the truth.",
+      "exampleTranslation": "Скажи мне правду.",
+      "audioPath": "assets/audio/vocabulary/v12_tell.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_tell.mp3"
+    },
+    {
+      "id": "v12_help",
+      "english": "help",
+      "russian": "помогать",
+      "partOfSpeech": "verb",
+      "example": "Help me please.",
+      "exampleTranslation": "Помоги мне, пожалуйста.",
+      "audioPath": "assets/audio/vocabulary/v12_help.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_help.mp3"
+    },
+    {
+      "id": "v12_know",
+      "english": "know",
+      "russian": "знать",
+      "partOfSpeech": "verb",
+      "example": "I know them.",
+      "exampleTranslation": "Я знаю их.",
+      "audioPath": "assets/audio/vocabulary/v12_know.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_know.mp3"
+    },
+    {
+      "id": "v12_like",
+      "english": "like",
+      "russian": "нравиться",
+      "partOfSpeech": "verb",
+      "example": "She likes him.",
+      "exampleTranslation": "Он ей нравится.",
+      "audioPath": "assets/audio/vocabulary/v12_like.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_like.mp3"
+    },
+    {
+      "id": "v12_see",
+      "english": "see",
+      "russian": "видеть",
+      "partOfSpeech": "verb",
+      "example": "I see her.",
+      "exampleTranslation": "Я вижу её.",
+      "audioPath": "assets/audio/vocabulary/v12_see.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_see.mp3"
+    },
+    {
+      "id": "v12_call",
+      "english": "call",
+      "russian": "звонить, звать",
+      "partOfSpeech": "verb",
+      "example": "Call me tomorrow.",
+      "exampleTranslation": "Позвони мне завтра.",
+      "audioPath": "assets/audio/vocabulary/v12_call.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_call.mp3"
+    },
+    {
+      "id": "v12_give",
+      "english": "give",
+      "russian": "давать",
+      "partOfSpeech": "verb",
+      "example": "Give me the book.",
+      "exampleTranslation": "Дай мне книгу.",
+      "audioPath": "assets/audio/vocabulary/v12_give.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_give.mp3"
+    },
+    {
+      "id": "v12_ask",
+      "english": "ask",
+      "russian": "спрашивать, просить",
+      "partOfSpeech": "verb",
+      "example": "Ask him now.",
+      "exampleTranslation": "Спроси его сейчас.",
+      "audioPath": "assets/audio/vocabulary/v12_ask.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_ask.mp3"
+    },
+    {
+      "id": "v12_love",
+      "english": "love",
+      "russian": "любить",
+      "partOfSpeech": "verb",
+      "example": "I love you.",
+      "exampleTranslation": "Я люблю тебя.",
+      "audioPath": "assets/audio/vocabulary/v12_love.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_love.mp3"
+    },
+    {
+      "id": "v12_please",
+      "english": "please",
+      "russian": "пожалуйста",
+      "partOfSpeech": "adverb",
+      "example": "Help us please.",
+      "exampleTranslation": "Помогите нам, пожалуйста.",
+      "audioPath": "assets/audio/vocabulary/v12_please.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_please.mp3"
+    },
+    {
+      "id": "v12_show",
+      "english": "show",
+      "russian": "показать",
+      "partOfSpeech": "verb",
+      "example": "Show me the way.",
+      "exampleTranslation": "Покажи мне дорогу.",
+      "audioPath": "assets/audio/vocabulary/v12_show.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_show.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "Object Pronouns",
+    "subtitle": "Когда местоимение стоит ПОСЛЕ глагола (отвечает на «кого?» или «кому?»), мы используем объектную форму: me, him, her, us, them.",
+    "construction": {
+      "formula": "Verb + Object Pronoun",
+      "rules": [
+        {
+          "word": "I → me",
+          "description": "Я → мне/меня: Help me. Tell me."
+        },
+        {
+          "word": "he → him, she → her",
+          "description": "Он → его/ему: I know him. Она → её/ей: I see her."
+        },
+        {
+          "word": "we → us, they → them",
+          "description": "Мы → нас/нам: Help us. Они → их/им: I see them."
+        },
+        {
+          "word": "you → you, it → it",
+          "description": "Ты/Вы → тебя: I like you. Оно → его: I need it. Формы не меняются."
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "waving_hand",
+        "color": "blue",
+        "title": "Просьбы",
+        "description": "Просим помощи или информации.",
+        "example": {
+          "english": "Help me please.",
+          "russian": "Помоги мне, пожалуйста."
+        }
+      },
+      {
+        "icon": "favorite",
+        "color": "purple",
+        "title": "Чувства к людям",
+        "description": "Говорим, кто нам нравится или кого любим.",
+        "example": {
+          "english": "I love you.",
+          "russian": "Я люблю тебя."
+        }
+      },
+      {
+        "icon": "visibility",
+        "color": "orange",
+        "title": "Описание действий",
+        "description": "Говорим, кого видим, знаем, слышим.",
+        "example": {
+          "english": "I see them.",
+          "russian": "Я вижу их."
+        }
+      }
+    ],
+    "markers": [
+      "me",
+      "you",
+      "him",
+      "her",
+      "it",
+      "us",
+      "them"
+    ]
+  },
+  "tasks": [
+    {
+      "id": "t12_1",
+      "type": "sentenceAssembly",
+      "question": "Скажи мне",
+      "correctAnswer": "Tell me",
+      "options": [],
+      "variants": [
+        [
+          "Tell",
+          "Ask",
+          "Give",
+          "Show"
+        ],
+        [
+          "me",
+          "I",
+          "my",
+          "mine"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_12_object_pronouns/000.mp3"
+    },
+    {
+      "id": "t12_2",
+      "type": "sentenceAssembly",
+      "question": "Я люблю тебя",
+      "correctAnswer": "I love you",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "love",
+          "loves",
+          "loving",
+          "like"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "me"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_12_object_pronouns/001.mp3"
+    },
+    {
+      "id": "t12_3",
+      "type": "sentenceAssembly",
+      "question": "Помоги нам",
+      "correctAnswer": "Help us",
+      "options": [],
+      "variants": [
+        [
+          "Help",
+          "Tell",
+          "Ask",
+          "Give"
+        ],
+        [
+          "us",
+          "we",
+          "our",
+          "them"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_12_object_pronouns/002.mp3"
+    },
+    {
+      "id": "t12_4",
+      "type": "sentenceAssembly",
+      "question": "Я знаю его",
+      "correctAnswer": "I know him",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "know",
+          "knows",
+          "knowing",
+          "see"
+        ],
+        [
+          "him",
+          "he",
+          "his",
+          "her"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_12_object_pronouns/003.mp3"
+    },
+    {
+      "id": "t12_5",
+      "type": "sentenceAssembly",
+      "question": "Я вижу её",
+      "correctAnswer": "I see her",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "see",
+          "sees",
+          "seeing",
+          "look"
+        ],
+        [
+          "her",
+          "she",
+          "his",
+          "him"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_12_object_pronouns/004.mp3"
+    },
+    {
+      "id": "t12_6",
+      "type": "sentenceAssembly",
+      "question": "Позвони мне",
+      "correctAnswer": "Call me",
+      "options": [],
+      "variants": [
+        [
+          "Call",
+          "Tell",
+          "Ask",
+          "Help"
+        ],
+        [
+          "me",
+          "I",
+          "my",
+          "mine"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_12_object_pronouns/005.mp3"
+    },
+    {
+      "id": "t12_7",
+      "type": "sentenceAssembly",
+      "question": "Я вижу их",
+      "correctAnswer": "I see them",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "see",
+          "sees",
+          "seeing",
+          "know"
+        ],
+        [
+          "them",
+          "they",
+          "their",
+          "us"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_12_object_pronouns/006.mp3"
+    },
+    {
+      "id": "t12_8",
+      "type": "sentenceAssembly",
+      "question": "Спроси его",
+      "correctAnswer": "Ask him",
+      "options": [],
+      "variants": [
+        [
+          "Ask",
+          "Tell",
+          "Call",
+          "Help"
+        ],
+        [
+          "him",
+          "he",
+          "his",
+          "her"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_12_object_pronouns/007.mp3"
+    },
+    {
+      "id": "t12_9",
+      "type": "sentenceAssembly",
+      "question": "Мне это нужно",
+      "correctAnswer": "I need it",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "need",
+          "needs",
+          "needing",
+          "want"
+        ],
+        [
+          "it",
+          "its",
+          "this",
+          "that"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_12_object_pronouns/008.mp3"
+    },
+    {
+      "id": "t12_10",
+      "type": "sentenceAssembly",
+      "question": "Покажи мне",
+      "correctAnswer": "Show me",
+      "options": [],
+      "variants": [
+        [
+          "Show",
+          "Tell",
+          "Give",
+          "Ask"
+        ],
+        [
+          "me",
+          "I",
+          "my",
+          "mine"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_12_object_pronouns/009.mp3"
+    },
+    {
+      "id": "t12_11",
+      "type": "sentenceAssembly",
+      "question": "Она любит его",
+      "correctAnswer": "She loves him",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "They"
+        ],
+        [
+          "loves",
+          "love",
+          "loving",
+          "likes"
+        ],
+        [
+          "him",
+          "he",
+          "his",
+          "her"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_12_object_pronouns/010.mp3"
+    },
+    {
+      "id": "t12_12",
+      "type": "sentenceAssembly",
+      "question": "Он знает нас",
+      "correctAnswer": "He knows us",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "I",
+          "They"
+        ],
+        [
+          "knows",
+          "know",
+          "knowing",
+          "sees"
+        ],
+        [
+          "us",
+          "we",
+          "our",
+          "them"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_12_object_pronouns/011.mp3"
+    },
+    {
+      "id": "t12_13",
+      "type": "sentenceAssembly",
+      "question": "Дай мне книгу",
+      "correctAnswer": "Give me the book",
+      "options": [],
+      "variants": [
+        [
+          "Give",
+          "Tell",
+          "Show",
+          "Ask"
+        ],
+        [
+          "me",
+          "I",
+          "my",
+          "mine"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "book",
+          "phone",
+          "bag",
+          "car"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_12_object_pronouns/012.mp3"
+    },
+    {
+      "id": "t12_14",
+      "type": "sentenceAssembly",
+      "question": "Они видят нас",
+      "correctAnswer": "They see us",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "We",
+          "He",
+          "She"
+        ],
+        [
+          "see",
+          "sees",
+          "seeing",
+          "know"
+        ],
+        [
+          "us",
+          "we",
+          "our",
+          "them"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_12_object_pronouns/013.mp3"
+    },
+    {
+      "id": "t12_15",
+      "type": "sentenceAssembly",
+      "question": "Скажи ей",
+      "correctAnswer": "Tell her",
+      "options": [],
+      "variants": [
+        [
+          "Tell",
+          "Ask",
+          "Give",
+          "Call"
+        ],
+        [
+          "her",
+          "she",
+          "his",
+          "him"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_12_object_pronouns/014.mp3"
+    },
+    {
+      "id": "t12_16",
+      "type": "sentenceAssembly",
+      "question": "Мы знаем их",
+      "correctAnswer": "We know them",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "I",
+          "He",
+          "She"
+        ],
+        [
+          "know",
+          "knows",
+          "knowing",
+          "see"
+        ],
+        [
+          "them",
+          "they",
+          "their",
+          "us"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_12_object_pronouns/015.mp3"
+    },
+    {
+      "id": "t12_17",
+      "type": "sentenceAssembly",
+      "question": "Помоги мне пожалуйста",
+      "correctAnswer": "Help me please",
+      "options": [],
+      "variants": [
+        [
+          "Help",
+          "Tell",
+          "Ask",
+          "Give"
+        ],
+        [
+          "me",
+          "I",
+          "my",
+          "mine"
+        ],
+        [
+          "please",
+          "now",
+          "here",
+          "today"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_12_object_pronouns/016.mp3"
+    },
+    {
+      "id": "t12_18",
+      "type": "sentenceAssembly",
+      "question": "Она видит его",
+      "correctAnswer": "She sees him",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "They"
+        ],
+        [
+          "sees",
+          "see",
+          "seeing",
+          "looks"
+        ],
+        [
+          "him",
+          "he",
+          "his",
+          "her"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_12_object_pronouns/017.mp3"
+    },
+    {
+      "id": "t12_19",
+      "type": "sentenceAssembly",
+      "question": "Позвони ему завтра",
+      "correctAnswer": "Call him tomorrow",
+      "options": [],
+      "variants": [
+        [
+          "Call",
+          "Tell",
+          "Ask",
+          "Help"
+        ],
+        [
+          "him",
+          "he",
+          "his",
+          "her"
+        ],
+        [
+          "tomorrow",
+          "today",
+          "now",
+          "here"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_12_object_pronouns/018.mp3"
+    },
+    {
+      "id": "t12_20",
+      "type": "sentenceAssembly",
+      "question": "Я люблю её",
+      "correctAnswer": "I love her",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "love",
+          "loves",
+          "loving",
+          "like"
+        ],
+        [
+          "her",
+          "she",
+          "him",
+          "them"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_12_object_pronouns/019.mp3"
+    },
+    {
+      "id": "t12_21",
+      "type": "sentenceAssembly",
+      "question": "Не говори мне",
+      "correctAnswer": "Do not tell me",
+      "options": [],
+      "variants": [
+        [
+          "Do",
+          "Does",
+          "Is",
+          "Are"
+        ],
+        [
+          "not",
+          "no",
+          "none",
+          "never"
+        ],
+        [
+          "tell",
+          "tells",
+          "telling",
+          "ask"
+        ],
+        [
+          "me",
+          "I",
+          "my",
+          "mine"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_12_object_pronouns/020.mp3"
+    },
+    {
+      "id": "t12_22",
+      "type": "sentenceAssembly",
+      "question": "Не зови его",
+      "correctAnswer": "Do not call him",
+      "options": [],
+      "variants": [
+        [
+          "Do",
+          "Does",
+          "Is",
+          "Are"
+        ],
+        [
+          "not",
+          "no",
+          "none",
+          "never"
+        ],
+        [
+          "call",
+          "calls",
+          "calling",
+          "tell"
+        ],
+        [
+          "him",
+          "he",
+          "his",
+          "her"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_12_object_pronouns/021.mp3"
+    },
+    {
+      "id": "t12_23",
+      "type": "sentenceAssembly",
+      "question": "Не спрашивай её",
+      "correctAnswer": "Do not ask her",
+      "options": [],
+      "variants": [
+        [
+          "Do",
+          "Does",
+          "Is",
+          "Are"
+        ],
+        [
+          "not",
+          "no",
+          "none",
+          "never"
+        ],
+        [
+          "ask",
+          "asks",
+          "asking",
+          "tell"
+        ],
+        [
+          "her",
+          "she",
+          "him",
+          "them"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_12_object_pronouns/022.mp3"
+    },
+    {
+      "id": "t12_24",
+      "type": "sentenceAssembly",
+      "question": "Я не знаю их",
+      "correctAnswer": "I do not know them",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "do",
+          "does",
+          "is",
+          "am"
+        ],
+        [
+          "not",
+          "no",
+          "none",
+          "never"
+        ],
+        [
+          "know",
+          "knows",
+          "knowing",
+          "see"
+        ],
+        [
+          "them",
+          "they",
+          "their",
+          "us"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_12_object_pronouns/023.mp3"
+    },
+    {
+      "id": "t12_25",
+      "type": "sentenceAssembly",
+      "question": "Она не видит нас",
+      "correctAnswer": "She does not see us",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "They"
+        ],
+        [
+          "does",
+          "do",
+          "is",
+          "are"
+        ],
+        [
+          "not",
+          "no",
+          "none",
+          "never"
+        ],
+        [
+          "see",
+          "sees",
+          "seeing",
+          "know"
+        ],
+        [
+          "us",
+          "we",
+          "our",
+          "them"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_12_object_pronouns/024.mp3"
+    },
+    {
+      "id": "t12_26",
+      "type": "sentenceAssembly",
+      "question": "Он не любит её",
+      "correctAnswer": "He does not love her",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "I",
+          "They"
+        ],
+        [
+          "does",
+          "do",
+          "is",
+          "are"
+        ],
+        [
+          "not",
+          "no",
+          "none",
+          "never"
+        ],
+        [
+          "love",
+          "loves",
+          "loving",
+          "like"
+        ],
+        [
+          "her",
+          "she",
+          "him",
+          "them"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_12_object_pronouns/025.mp3"
+    },
+    {
+      "id": "t12_27",
+      "type": "sentenceAssembly",
+      "question": "Мы не знаем его",
+      "correctAnswer": "We do not know him",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "I",
+          "He",
+          "She"
+        ],
+        [
+          "do",
+          "does",
+          "is",
+          "are"
+        ],
+        [
+          "not",
+          "no",
+          "none",
+          "never"
+        ],
+        [
+          "know",
+          "knows",
+          "knowing",
+          "see"
+        ],
+        [
+          "him",
+          "he",
+          "his",
+          "her"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_12_object_pronouns/026.mp3"
+    },
+    {
+      "id": "t12_28",
+      "type": "sentenceAssembly",
+      "question": "Не помогай им",
+      "correctAnswer": "Do not help them",
+      "options": [],
+      "variants": [
+        [
+          "Do",
+          "Does",
+          "Is",
+          "Are"
+        ],
+        [
+          "not",
+          "no",
+          "none",
+          "never"
+        ],
+        [
+          "help",
+          "helps",
+          "helping",
+          "give"
+        ],
+        [
+          "them",
+          "they",
+          "their",
+          "us"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_12_object_pronouns/027.mp3"
+    },
+    {
+      "id": "t12_29",
+      "type": "sentenceAssembly",
+      "question": "Они не видят меня",
+      "correctAnswer": "They do not see me",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "We",
+          "He",
+          "She"
+        ],
+        [
+          "do",
+          "does",
+          "is",
+          "are"
+        ],
+        [
+          "not",
+          "no",
+          "none",
+          "never"
+        ],
+        [
+          "see",
+          "sees",
+          "seeing",
+          "know"
+        ],
+        [
+          "me",
+          "I",
+          "my",
+          "him"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_12_object_pronouns/028.mp3"
+    },
+    {
+      "id": "t12_30",
+      "type": "sentenceAssembly",
+      "question": "Не показывай ему",
+      "correctAnswer": "Do not show him",
+      "options": [],
+      "variants": [
+        [
+          "Do",
+          "Does",
+          "Is",
+          "Are"
+        ],
+        [
+          "not",
+          "no",
+          "none",
+          "never"
+        ],
+        [
+          "show",
+          "shows",
+          "showing",
+          "tell"
+        ],
+        [
+          "him",
+          "he",
+          "his",
+          "her"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_12_object_pronouns/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionBeginner12ObjectPronouns",
+  "theoryQuiz": [
+    {
+      "id": "tq_12_01",
+      "type": "multipleChoice",
+      "question": "Какая объектная форма местоимения «I»?",
+      "options": [
+        "I",
+        "my",
+        "me",
+        "mine"
+      ],
+      "correctIndex": 2,
+      "explanation": "I → me: Help me. Tell me. Give me."
+    },
+    {
+      "id": "tq_12_02",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: «I know ___» (Я знаю его)",
+      "options": [
+        "he",
+        "his",
+        "him",
+        "her"
+      ],
+      "correctIndex": 2,
+      "explanation": "He → him после глагола: I know him."
+    },
+    {
+      "id": "tq_12_03",
+      "type": "trueFalse",
+      "question": "«Tell I the truth» — правильное предложение.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "После глагола используем me, а не I: Tell me the truth."
+    },
+    {
+      "id": "tq_12_04",
+      "type": "multipleChoice",
+      "question": "Как правильно: «Помоги нам»?",
+      "options": [
+        "Help we.",
+        "Help our.",
+        "Help us.",
+        "Help ours."
+      ],
+      "correctIndex": 2,
+      "explanation": "We → us после глагола: Help us."
+    },
+    {
+      "id": "tq_12_05",
+      "type": "multipleChoice",
+      "question": "Какая объектная форма местоимения «they»?",
+      "options": [
+        "they",
+        "their",
+        "theirs",
+        "them"
+      ],
+      "correctIndex": 3,
+      "explanation": "They → them: I see them. I know them."
+    },
+    {
+      "id": "tq_12_06",
+      "type": "trueFalse",
+      "question": "Объектные местоимения ставятся ПОСЛЕ глагола.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Верно: Help me, Tell him, See her — всегда после глагола."
+    },
+    {
+      "id": "tq_12_07",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: «She likes ___» (Он ей нравится)",
+      "options": [
+        "he",
+        "his",
+        "him",
+        "her"
+      ],
+      "correctIndex": 2,
+      "explanation": "He → him: She likes him."
+    },
+    {
+      "id": "tq_12_08",
+      "type": "multipleChoice",
+      "question": "Как правильно: «Я вижу её»?",
+      "options": [
+        "I see she.",
+        "I see her.",
+        "I see hers.",
+        "I see his."
+      ],
+      "correctIndex": 1,
+      "explanation": "She → her после глагола: I see her."
+    },
+    {
+      "id": "tq_12_09",
+      "type": "trueFalse",
+      "question": "Форма «you» не меняется в объектном падеже.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "You остаётся you и как подлежащее, и как дополнение: I like you."
+    },
+    {
+      "id": "tq_12_10",
+      "type": "multipleChoice",
+      "question": "Выберите правильное предложение:",
+      "options": [
+        "Give I the book.",
+        "Give me the book.",
+        "Give my the book.",
+        "Give mine the book."
+      ],
+      "correctIndex": 1,
+      "explanation": "I → me после глагола: Give me the book."
+    }
+  ]
+}

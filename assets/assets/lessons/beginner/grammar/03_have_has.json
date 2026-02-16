@@ -1,0 +1,1502 @@
+{
+  "id": "beginner_03_have_has",
+  "title": "Have / Has",
+  "description": "Глагол have / has — это ваш способ сказать «у меня есть», «у него есть». Один из самых важных глаголов в английском языке.",
+  "order": 3,
+  "level": "beginner",
+  "imageUrl": "assets/images/lessons/have_has.png",
+  "vocabulary": [
+    {
+      "id": "v3_car",
+      "english": "car",
+      "russian": "машина",
+      "partOfSpeech": "noun",
+      "example": "I have a car.",
+      "exampleTranslation": "У меня есть машина.",
+      "audioPath": "assets/audio/vocabulary/v3_car.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_car.mp3"
+    },
+    {
+      "id": "v3_dog",
+      "english": "dog",
+      "russian": "собака",
+      "partOfSpeech": "noun",
+      "example": "I have a dog.",
+      "exampleTranslation": "У меня есть собака.",
+      "audioPath": "assets/audio/vocabulary/v3_dog.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_dog.mp3"
+    },
+    {
+      "id": "v3_book",
+      "english": "book",
+      "russian": "книга",
+      "partOfSpeech": "noun",
+      "example": "She has a book.",
+      "exampleTranslation": "У неё есть книга.",
+      "audioPath": "assets/audio/vocabulary/v3_book.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_book.mp3"
+    },
+    {
+      "id": "v3_cat",
+      "english": "cat",
+      "russian": "кот, кошка",
+      "partOfSpeech": "noun",
+      "example": "He has a cat.",
+      "exampleTranslation": "У него есть кот.",
+      "audioPath": "assets/audio/vocabulary/v3_cat.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_cat.mp3"
+    },
+    {
+      "id": "v3_job",
+      "english": "job",
+      "russian": "работа",
+      "partOfSpeech": "noun",
+      "example": "He has a job.",
+      "exampleTranslation": "У него есть работа.",
+      "audioPath": "assets/audio/vocabulary/v3_job.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_job.mp3"
+    },
+    {
+      "id": "v3_phone",
+      "english": "phone",
+      "russian": "телефон",
+      "partOfSpeech": "noun",
+      "example": "She has a phone.",
+      "exampleTranslation": "У неё есть телефон.",
+      "audioPath": "assets/audio/vocabulary/v3_phone.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_phone.mp3"
+    },
+    {
+      "id": "v3_bag",
+      "english": "bag",
+      "russian": "сумка",
+      "partOfSpeech": "noun",
+      "example": "I have a bag.",
+      "exampleTranslation": "У меня есть сумка.",
+      "audioPath": "assets/audio/vocabulary/v3_bag.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_bag.mp3"
+    },
+    {
+      "id": "v3_idea",
+      "english": "idea",
+      "russian": "идея",
+      "partOfSpeech": "noun",
+      "example": "She has an idea.",
+      "exampleTranslation": "У неё есть идея.",
+      "audioPath": "assets/audio/vocabulary/v3_idea.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_idea.mp3"
+    },
+    {
+      "id": "v3_friend",
+      "english": "friend",
+      "russian": "друг",
+      "partOfSpeech": "noun",
+      "example": "I have a friend.",
+      "exampleTranslation": "У меня есть друг.",
+      "audioPath": "assets/audio/vocabulary/v3_friend.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_friend.mp3"
+    },
+    {
+      "id": "v3_time",
+      "english": "time",
+      "russian": "время",
+      "partOfSpeech": "noun",
+      "example": "We have time.",
+      "exampleTranslation": "У нас есть время.",
+      "audioPath": "assets/audio/vocabulary/v3_time.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_time.mp3"
+    },
+    {
+      "id": "v3_money",
+      "english": "money",
+      "russian": "деньги",
+      "partOfSpeech": "noun",
+      "example": "They have money.",
+      "exampleTranslation": "У них есть деньги.",
+      "audioPath": "assets/audio/vocabulary/v3_money.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_money.mp3"
+    },
+    {
+      "id": "v3_food",
+      "english": "food",
+      "russian": "еда",
+      "partOfSpeech": "noun",
+      "example": "We have food.",
+      "exampleTranslation": "У нас есть еда.",
+      "audioPath": "assets/audio/vocabulary/v3_food.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_food.mp3"
+    },
+    {
+      "id": "v3_sister",
+      "english": "sister",
+      "russian": "сестра",
+      "partOfSpeech": "noun",
+      "example": "I have a sister.",
+      "exampleTranslation": "У меня есть сестра.",
+      "audioPath": "assets/audio/vocabulary/v3_sister.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_sister.mp3"
+    },
+    {
+      "id": "v3_brother",
+      "english": "brother",
+      "russian": "брат",
+      "partOfSpeech": "noun",
+      "example": "He has a brother.",
+      "exampleTranslation": "У него есть брат.",
+      "audioPath": "assets/audio/vocabulary/v3_brother.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_brother.mp3"
+    },
+    {
+      "id": "v3_question",
+      "english": "question",
+      "russian": "вопрос",
+      "partOfSpeech": "noun",
+      "example": "You have a question.",
+      "exampleTranslation": "У тебя есть вопрос.",
+      "audioPath": "assets/audio/vocabulary/v3_question.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_question.mp3"
+    },
+    {
+      "id": "v3_problem",
+      "english": "problem",
+      "russian": "проблема",
+      "partOfSpeech": "noun",
+      "example": "We have a problem.",
+      "exampleTranslation": "У нас есть проблема.",
+      "audioPath": "assets/audio/vocabulary/v3_problem.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_problem.mp3"
+    },
+    {
+      "id": "v3_own",
+      "english": "own",
+      "russian": "собственный",
+      "partOfSpeech": "adjective",
+      "example": "I have my own room.",
+      "exampleTranslation": "У меня своя комната.",
+      "audioPath": "assets/audio/vocabulary/v3_own.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_own.mp3"
+    },
+    {
+      "id": "v3_ready",
+      "english": "ready",
+      "russian": "готовый",
+      "partOfSpeech": "adjective",
+      "example": "She has everything ready.",
+      "exampleTranslation": "У неё всё готово.",
+      "audioPath": "assets/audio/vocabulary/v3_ready.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_ready.mp3"
+    },
+    {
+      "id": "v3_enough",
+      "english": "enough",
+      "russian": "достаточно",
+      "partOfSpeech": "adverb",
+      "example": "We have enough food.",
+      "exampleTranslation": "У нас достаточно еды.",
+      "audioPath": "assets/audio/vocabulary/v3_enough.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_enough.mp3"
+    },
+    {
+      "id": "v3_house",
+      "english": "house",
+      "russian": "дом",
+      "partOfSpeech": "noun",
+      "example": "She has a house.",
+      "exampleTranslation": "У неё есть дом.",
+      "audioPath": "assets/audio/vocabulary/v3_house.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_house.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "Have / Has",
+    "subtitle": "Глагол have / has — один из самых частых в английском. Он означает «иметь, обладать». Русское «у меня есть» в английском превращается в «I have». Запомните: с he, she, it используем has, со всеми остальными — have.",
+    "construction": {
+      "formula": "I / You / We / They + have | He / She / It + has",
+      "rules": [
+        {
+          "word": "have",
+          "description": "Используем с I, you, we, they. «У меня есть», «У нас есть», «У них есть»."
+        },
+        {
+          "word": "has",
+          "description": "Используем с he, she, it. «У него есть», «У неё есть»."
+        },
+        {
+          "word": "don't have",
+          "description": "Отрицание для I, you, we, they. «У меня нет...»."
+        },
+        {
+          "word": "doesn't have",
+          "description": "Отрицание для he, she, it. «У него нет...»."
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "star",
+        "color": "blue",
+        "title": "Владение",
+        "description": "Когда говорите о том, что у вас или кого-то что-то есть.",
+        "example": {
+          "english": "I have a car.",
+          "russian": "У меня есть машина."
+        }
+      },
+      {
+        "icon": "groups",
+        "color": "green",
+        "title": "Родственники и друзья",
+        "description": "Когда рассказываете о семье и близких.",
+        "example": {
+          "english": "She has a sister.",
+          "russian": "У неё есть сестра."
+        }
+      },
+      {
+        "icon": "check_circle",
+        "color": "orange",
+        "title": "Отсутствие чего-либо",
+        "description": "Когда говорите, что чего-то нет: don't have / doesn't have.",
+        "example": {
+          "english": "He doesn't have time.",
+          "russian": "У него нет времени."
+        }
+      }
+    ],
+    "markers": [
+      "have",
+      "has",
+      "don't have",
+      "doesn't have",
+      "I have",
+      "He has",
+      "She has"
+    ]
+  },
+  "tasks": [
+    {
+      "id": "t3_1",
+      "type": "sentenceAssembly",
+      "question": "У меня есть машина",
+      "correctAnswer": "I have a car",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        [
+          "a",
+          "an",
+          "the",
+          "my"
+        ],
+        [
+          "car",
+          "cat",
+          "dog",
+          "bag"
+        ]
+      ],
+      "mistakeTags": [
+        "have_has"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_03_have_has/000.mp3"
+    },
+    {
+      "id": "t3_2",
+      "type": "sentenceAssembly",
+      "question": "У него есть кот",
+      "correctAnswer": "He has a cat",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "I",
+          "They",
+          "You"
+        ],
+        [
+          "has",
+          "have",
+          "had",
+          "having"
+        ],
+        [
+          "a",
+          "an",
+          "the",
+          "his"
+        ],
+        [
+          "cat",
+          "car",
+          "dog",
+          "bag"
+        ]
+      ],
+      "mistakeTags": [
+        "have_has"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_03_have_has/001.mp3"
+    },
+    {
+      "id": "t3_3",
+      "type": "sentenceAssembly",
+      "question": "У неё есть телефон",
+      "correctAnswer": "She has a phone",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "We"
+        ],
+        [
+          "has",
+          "have",
+          "had",
+          "having"
+        ],
+        [
+          "a",
+          "an",
+          "the",
+          "her"
+        ],
+        [
+          "phone",
+          "book",
+          "bag",
+          "car"
+        ]
+      ],
+      "mistakeTags": [
+        "have_has"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_03_have_has/002.mp3"
+    },
+    {
+      "id": "t3_4",
+      "type": "sentenceAssembly",
+      "question": "У нас есть время",
+      "correctAnswer": "We have time",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "He",
+          "She",
+          "It"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        [
+          "time",
+          "money",
+          "food",
+          "fun"
+        ]
+      ],
+      "mistakeTags": [
+        "have_has"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_03_have_has/003.mp3"
+    },
+    {
+      "id": "t3_5",
+      "type": "sentenceAssembly",
+      "question": "У них есть деньги",
+      "correctAnswer": "They have money",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "He",
+          "She",
+          "It"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        [
+          "money",
+          "time",
+          "food",
+          "fun"
+        ]
+      ],
+      "mistakeTags": [
+        "have_has"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_03_have_has/004.mp3"
+    },
+    {
+      "id": "t3_6",
+      "type": "sentenceAssembly",
+      "question": "У тебя есть вопрос",
+      "correctAnswer": "You have a question",
+      "options": [],
+      "variants": [
+        [
+          "You",
+          "He",
+          "She",
+          "It"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        [
+          "a",
+          "an",
+          "the",
+          "my"
+        ],
+        [
+          "question",
+          "problem",
+          "plan",
+          "key"
+        ]
+      ],
+      "mistakeTags": [
+        "have_has"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_03_have_has/005.mp3"
+    },
+    {
+      "id": "t3_7",
+      "type": "sentenceAssembly",
+      "question": "У меня есть собака",
+      "correctAnswer": "I have a dog",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "It"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        [
+          "a",
+          "an",
+          "the",
+          "my"
+        ],
+        [
+          "dog",
+          "cat",
+          "car",
+          "bag"
+        ]
+      ],
+      "mistakeTags": [
+        "have_has"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_03_have_has/006.mp3"
+    },
+    {
+      "id": "t3_8",
+      "type": "sentenceAssembly",
+      "question": "У него есть работа",
+      "correctAnswer": "He has a job",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "I",
+          "We",
+          "They"
+        ],
+        [
+          "has",
+          "have",
+          "had",
+          "having"
+        ],
+        [
+          "a",
+          "an",
+          "the",
+          "his"
+        ],
+        [
+          "job",
+          "car",
+          "dog",
+          "key"
+        ]
+      ],
+      "mistakeTags": [
+        "have_has"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_03_have_has/007.mp3"
+    },
+    {
+      "id": "t3_9",
+      "type": "sentenceAssembly",
+      "question": "У неё есть сумка",
+      "correctAnswer": "She has a bag",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "I",
+          "They",
+          "You"
+        ],
+        [
+          "has",
+          "have",
+          "had",
+          "having"
+        ],
+        [
+          "a",
+          "an",
+          "the",
+          "her"
+        ],
+        [
+          "bag",
+          "car",
+          "phone",
+          "book"
+        ]
+      ],
+      "mistakeTags": [
+        "have_has"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_03_have_has/008.mp3"
+    },
+    {
+      "id": "t3_10",
+      "type": "sentenceAssembly",
+      "question": "У меня есть книга",
+      "correctAnswer": "I have a book",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "It"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        [
+          "a",
+          "an",
+          "the",
+          "my"
+        ],
+        [
+          "book",
+          "bag",
+          "phone",
+          "car"
+        ]
+      ],
+      "mistakeTags": [
+        "have_has"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_03_have_has/009.mp3"
+    },
+    {
+      "id": "t3_11",
+      "type": "sentenceAssembly",
+      "question": "У них есть билеты",
+      "correctAnswer": "They have tickets",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "He",
+          "She",
+          "It"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        [
+          "tickets",
+          "money",
+          "time",
+          "food"
+        ]
+      ],
+      "mistakeTags": [
+        "have_has"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_03_have_has/010.mp3"
+    },
+    {
+      "id": "t3_12",
+      "type": "sentenceAssembly",
+      "question": "У неё есть идея",
+      "correctAnswer": "She has an idea",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "We",
+          "They"
+        ],
+        [
+          "has",
+          "have",
+          "had",
+          "having"
+        ],
+        [
+          "an",
+          "a",
+          "the",
+          "her"
+        ],
+        [
+          "idea",
+          "phone",
+          "bag",
+          "house"
+        ]
+      ],
+      "mistakeTags": [
+        "have_has"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_03_have_has/011.mp3"
+    },
+    {
+      "id": "t3_13",
+      "type": "sentenceAssembly",
+      "question": "У нас есть еда",
+      "correctAnswer": "We have food",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "He",
+          "She",
+          "It"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        [
+          "food",
+          "money",
+          "time",
+          "fun"
+        ]
+      ],
+      "mistakeTags": [
+        "have_has"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_03_have_has/012.mp3"
+    },
+    {
+      "id": "t3_14",
+      "type": "sentenceAssembly",
+      "question": "У меня есть сестра",
+      "correctAnswer": "I have a sister",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "It"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        [
+          "a",
+          "an",
+          "the",
+          "my"
+        ],
+        [
+          "sister",
+          "brother",
+          "friend",
+          "dog"
+        ]
+      ],
+      "mistakeTags": [
+        "have_has"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_03_have_has/013.mp3"
+    },
+    {
+      "id": "t3_15",
+      "type": "sentenceAssembly",
+      "question": "У него есть брат",
+      "correctAnswer": "He has a brother",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "I",
+          "We",
+          "You"
+        ],
+        [
+          "has",
+          "have",
+          "had",
+          "having"
+        ],
+        [
+          "a",
+          "an",
+          "the",
+          "his"
+        ],
+        [
+          "brother",
+          "sister",
+          "friend",
+          "cat"
+        ]
+      ],
+      "mistakeTags": [
+        "have_has"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_03_have_has/014.mp3"
+    },
+    {
+      "id": "t3_16",
+      "type": "sentenceAssembly",
+      "question": "У меня нет времени",
+      "correctAnswer": "I don't have time",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "It"
+        ],
+        [
+          "don't",
+          "doesn't",
+          "not",
+          "no"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        [
+          "time",
+          "money",
+          "food",
+          "fun"
+        ]
+      ],
+      "mistakeTags": [
+        "have_has"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_03_have_has/015.mp3"
+    },
+    {
+      "id": "t3_17",
+      "type": "sentenceAssembly",
+      "question": "У него нет машины",
+      "correctAnswer": "He doesn't have a car",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "I",
+          "We",
+          "They"
+        ],
+        [
+          "doesn't",
+          "don't",
+          "not",
+          "no"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        [
+          "a",
+          "an",
+          "the",
+          "his"
+        ],
+        [
+          "car",
+          "dog",
+          "cat",
+          "bag"
+        ]
+      ],
+      "mistakeTags": [
+        "have_has"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_03_have_has/016.mp3"
+    },
+    {
+      "id": "t3_18",
+      "type": "sentenceAssembly",
+      "question": "У нас есть проблема",
+      "correctAnswer": "We have a problem",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "He",
+          "She",
+          "It"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        [
+          "a",
+          "an",
+          "the",
+          "our"
+        ],
+        [
+          "problem",
+          "question",
+          "plan",
+          "key"
+        ]
+      ],
+      "mistakeTags": [
+        "have_has"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_03_have_has/017.mp3"
+    },
+    {
+      "id": "t3_19",
+      "type": "sentenceAssembly",
+      "question": "У неё нет друзей",
+      "correctAnswer": "She doesn't have friends",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "I",
+          "We",
+          "They"
+        ],
+        [
+          "doesn't",
+          "don't",
+          "not",
+          "no"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        [
+          "friends",
+          "tickets",
+          "money",
+          "time"
+        ]
+      ],
+      "mistakeTags": [
+        "have_has"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_03_have_has/018.mp3"
+    },
+    {
+      "id": "t3_20",
+      "type": "sentenceAssembly",
+      "question": "У них есть план",
+      "correctAnswer": "They have a plan",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "He",
+          "She",
+          "It"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        [
+          "a",
+          "an",
+          "the",
+          "their"
+        ],
+        [
+          "plan",
+          "problem",
+          "question",
+          "key"
+        ]
+      ],
+      "mistakeTags": [
+        "have_has"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_03_have_has/019.mp3"
+    },
+    {
+      "id": "t3_21",
+      "type": "sentenceAssembly",
+      "question": "У меня есть ключ",
+      "correctAnswer": "I have a key",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        [
+          "a",
+          "an",
+          "the",
+          "my"
+        ],
+        [
+          "key",
+          "car",
+          "plan",
+          "bag"
+        ]
+      ],
+      "mistakeTags": [
+        "have_has"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_03_have_has/020.mp3"
+    },
+    {
+      "id": "t3_22",
+      "type": "sentenceAssembly",
+      "question": "У него есть телефон",
+      "correctAnswer": "He has a phone",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "I",
+          "They",
+          "You"
+        ],
+        [
+          "has",
+          "have",
+          "had",
+          "having"
+        ],
+        [
+          "a",
+          "an",
+          "the",
+          "his"
+        ],
+        [
+          "phone",
+          "book",
+          "car",
+          "key"
+        ]
+      ],
+      "mistakeTags": [
+        "have_has"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_03_have_has/021.mp3"
+    },
+    {
+      "id": "t3_23",
+      "type": "sentenceAssembly",
+      "question": "У нас нет денег",
+      "correctAnswer": "We don't have money",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "He",
+          "She",
+          "It"
+        ],
+        [
+          "don't",
+          "doesn't",
+          "not",
+          "no"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        [
+          "money",
+          "time",
+          "food",
+          "fun"
+        ]
+      ],
+      "mistakeTags": [
+        "have_has"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_03_have_has/022.mp3"
+    },
+    {
+      "id": "t3_24",
+      "type": "sentenceAssembly",
+      "question": "У неё есть дом",
+      "correctAnswer": "She has a house",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "They"
+        ],
+        [
+          "has",
+          "have",
+          "had",
+          "having"
+        ],
+        [
+          "a",
+          "an",
+          "the",
+          "her"
+        ],
+        [
+          "house",
+          "car",
+          "phone",
+          "bag"
+        ]
+      ],
+      "mistakeTags": [
+        "have_has"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_03_have_has/023.mp3"
+    },
+    {
+      "id": "t3_25",
+      "type": "sentenceAssembly",
+      "question": "У тебя есть друг",
+      "correctAnswer": "You have a friend",
+      "options": [],
+      "variants": [
+        [
+          "You",
+          "He",
+          "She",
+          "It"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        [
+          "a",
+          "an",
+          "the",
+          "your"
+        ],
+        [
+          "friend",
+          "brother",
+          "sister",
+          "dog"
+        ]
+      ],
+      "mistakeTags": [
+        "have_has"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_03_have_has/024.mp3"
+    },
+    {
+      "id": "t3_26",
+      "type": "sentenceAssembly",
+      "question": "У меня есть друг",
+      "correctAnswer": "I have a friend",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "It"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        [
+          "a",
+          "an",
+          "the",
+          "my"
+        ],
+        [
+          "friend",
+          "sister",
+          "brother",
+          "cat"
+        ]
+      ],
+      "mistakeTags": [
+        "have_has"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_03_have_has/025.mp3"
+    },
+    {
+      "id": "t3_27",
+      "type": "sentenceAssembly",
+      "question": "У него нет еды",
+      "correctAnswer": "He doesn't have food",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "I",
+          "We",
+          "They"
+        ],
+        [
+          "doesn't",
+          "don't",
+          "not",
+          "no"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        [
+          "food",
+          "money",
+          "time",
+          "fun"
+        ]
+      ],
+      "mistakeTags": [
+        "have_has"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_03_have_has/026.mp3"
+    },
+    {
+      "id": "t3_28",
+      "type": "sentenceAssembly",
+      "question": "У них нет билетов",
+      "correctAnswer": "They don't have tickets",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "He",
+          "She",
+          "It"
+        ],
+        [
+          "don't",
+          "doesn't",
+          "not",
+          "no"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        [
+          "tickets",
+          "money",
+          "friends",
+          "time"
+        ]
+      ],
+      "mistakeTags": [
+        "have_has"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_03_have_has/027.mp3"
+    },
+    {
+      "id": "t3_29",
+      "type": "sentenceAssembly",
+      "question": "У неё есть кот",
+      "correctAnswer": "She has a cat",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "I",
+          "We",
+          "You"
+        ],
+        [
+          "has",
+          "have",
+          "had",
+          "having"
+        ],
+        [
+          "a",
+          "an",
+          "the",
+          "her"
+        ],
+        [
+          "cat",
+          "dog",
+          "car",
+          "bag"
+        ]
+      ],
+      "mistakeTags": [
+        "have_has"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_03_have_has/028.mp3"
+    },
+    {
+      "id": "t3_30",
+      "type": "sentenceAssembly",
+      "question": "У тебя нет проблемы",
+      "correctAnswer": "You don't have a problem",
+      "options": [],
+      "variants": [
+        [
+          "You",
+          "He",
+          "She",
+          "It"
+        ],
+        [
+          "don't",
+          "doesn't",
+          "not",
+          "no"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        [
+          "a",
+          "an",
+          "the",
+          "your"
+        ],
+        [
+          "problem",
+          "question",
+          "plan",
+          "key"
+        ]
+      ],
+      "mistakeTags": [
+        "have_has"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_03_have_has/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionBeginner03HaveHas",
+  "theoryQuiz": [
+    {
+      "id": "tq_01",
+      "type": "trueFalse",
+      "question": "С местоимением \"I\" используется \"has\".",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "С I используется have: I have a cat."
+    },
+    {
+      "id": "tq_02",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"She ___ a new phone.\"",
+      "options": [
+        "have",
+        "has",
+        "having",
+        "haves"
+      ],
+      "correctIndex": 1,
+      "explanation": "С he, she, it используется has."
+    },
+    {
+      "id": "tq_03",
+      "type": "trueFalse",
+      "question": "\"They have two children.\" — предложение составлено правильно.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "С they используется have. Предложение верное."
+    },
+    {
+      "id": "tq_04",
+      "type": "multipleChoice",
+      "question": "С какими местоимениями используется \"has\"?",
+      "options": [
+        "I, you, we",
+        "he, she, it",
+        "we, they, you",
+        "I, he, they"
+      ],
+      "correctIndex": 1,
+      "explanation": "Has используется только с третьим лицом единственного числа: he, she, it."
+    },
+    {
+      "id": "tq_05",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"We ___ a big family.\"",
+      "options": [
+        "has",
+        "haves",
+        "have",
+        "having"
+      ],
+      "correctIndex": 2,
+      "explanation": "С we используется have."
+    },
+    {
+      "id": "tq_06",
+      "type": "trueFalse",
+      "question": "\"It has four legs.\" — предложение составлено правильно.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "С it используется has. Предложение верное."
+    },
+    {
+      "id": "tq_07",
+      "type": "multipleChoice",
+      "question": "Найдите ошибку: \"He have a red car.\"",
+      "options": [
+        "Нужно \"has\" вместо \"have\"",
+        "Нужно \"a\" убрать",
+        "Нужно \"having\"",
+        "Ошибки нет"
+      ],
+      "correctIndex": 0,
+      "explanation": "С he используется has: He has a red car."
+    },
+    {
+      "id": "tq_08",
+      "type": "trueFalse",
+      "question": "\"You has a beautiful smile.\" — предложение составлено правильно.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "С you используется have: You have a beautiful smile."
+    },
+    {
+      "id": "tq_09",
+      "type": "multipleChoice",
+      "question": "Выберите правильное предложение:",
+      "options": [
+        "My dog have a toy.",
+        "She have long hair.",
+        "They has a garden.",
+        "He has blue eyes."
+      ],
+      "correctIndex": 3,
+      "explanation": "He + has — верная комбинация. My dog = it (has), She (has), They (have) — в остальных ошибки."
+    },
+    {
+      "id": "tq_10",
+      "type": "multipleChoice",
+      "question": "Как правильно перевести: «У моей кошки есть котята»?",
+      "options": [
+        "My cat have kittens.",
+        "My cat has kittens.",
+        "My cat haves kittens.",
+        "My cat having kittens."
+      ],
+      "correctIndex": 1,
+      "explanation": "My cat = it, поэтому используется has."
+    }
+  ]
+}

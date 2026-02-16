@@ -1,0 +1,21 @@
+{
+  "level": "intermediate",
+  "type": "listening",
+  "lessons": [
+    { "id": "intermediate_listening_01_past_simple_regular", "file": "01_past_simple_regular_listening.json", "order": 1 },
+    { "id": "intermediate_listening_02_past_simple_irregular", "file": "02_past_simple_irregular_listening.json", "order": 2 },
+    { "id": "intermediate_listening_03_future_simple", "file": "03_future_simple_listening.json", "order": 3 },
+    { "id": "intermediate_listening_04_past_continuous", "file": "04_past_continuous_listening.json", "order": 4 },
+    { "id": "intermediate_listening_05_present_perfect", "file": "05_present_perfect_listening.json", "order": 5 },
+    { "id": "intermediate_listening_06_comparatives", "file": "06_comparatives_listening.json", "order": 6 },
+    { "id": "intermediate_listening_07_modal_must_should", "file": "07_modal_must_should_listening.json", "order": 7 },
+    { "id": "intermediate_listening_08_future_forms", "file": "08_future_forms_listening.json", "order": 8 },
+    { "id": "intermediate_listening_09_adverbs", "file": "09_adverbs_listening.json", "order": 9 },
+    { "id": "intermediate_listening_10_used_to", "file": "10_used_to_listening.json", "order": 10 },
+    { "id": "intermediate_listening_11_relative_clauses", "file": "11_relative_clauses_listening.json", "order": 11 },
+    { "id": "intermediate_listening_12_prepositions_advanced", "file": "12_prepositions_advanced_listening.json", "order": 12 },
+    { "id": "intermediate_listening_13_present_perfect_continuous", "file": "13_present_perfect_continuous_listening.json", "order": 13 },
+    { "id": "intermediate_listening_14_quantifiers", "file": "14_quantifiers_listening.json", "order": 14 },
+    { "id": "intermediate_listening_15_question_tags", "file": "15_question_tags_listening.json", "order": 15 }
+  ]
+}

@@ -1,0 +1,476 @@
+{
+  "id": "upper_listening_06_passive_continuous_perfect",
+  "title": "Passive Voice: Continuous & Perfect",
+  "description": "Слушайте пассивный залог в длительных и перфектных формах.",
+  "order": 6,
+  "level": "upper_intermediate",
+  "imageUrl": "assets/images/lessons/passive_continuous_perfect.png",
+  "tasks": [
+    {
+      "id": "t6_01",
+      "audioText": "The road outside our office is a mess right now. It is being repaired by a construction crew this entire week.",
+      "transcript": "It is being repaired by a construction crew this entire week.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "A construction team is currently fixing the road throughout the week."
+        },
+        {
+          "id": "o2",
+          "text": "The road was repaired last week."
+        },
+        {
+          "id": "o3",
+          "text": "The road repair will start next month."
+        },
+        {
+          "id": "o4",
+          "text": "The road doesn't need any repairs."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Is being repaired' is Present Continuous Passive — the repair is in progress right now.",
+      "mistakeTags": [
+        "urban",
+        "passive_continuous_perfect",
+        "passive_voice"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_06_passive_continuous_perfect/t6_01.mp3"
+    },
+    {
+      "id": "t6_02",
+      "audioText": "The investigation into the financial scandal has concluded. Three senior executives have been charged with fraud.",
+      "transcript": "Three senior executives have been charged with fraud.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Three top managers received fraud charges as a result of the investigation."
+        },
+        {
+          "id": "o2",
+          "text": "The executives charged someone else with fraud."
+        },
+        {
+          "id": "o3",
+          "text": "No one has been charged yet."
+        },
+        {
+          "id": "o4",
+          "text": "The investigation is just beginning."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Have been charged' is Present Perfect Passive — a completed action with present relevance.",
+      "mistakeTags": [
+        "law",
+        "passive_continuous_perfect",
+        "passive_voice"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_06_passive_continuous_perfect/t6_02.mp3"
+    },
+    {
+      "id": "t6_03",
+      "audioText": "When we arrived at the hospital, everything was chaotic. Several patients were being treated in the corridors due to overcrowding.",
+      "transcript": "Several patients were being treated in the corridors due to overcrowding.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Doctors were caring for patients in the hallways because there wasn't enough room."
+        },
+        {
+          "id": "o2",
+          "text": "Patients treated themselves in the corridors."
+        },
+        {
+          "id": "o3",
+          "text": "The hospital was empty when they arrived."
+        },
+        {
+          "id": "o4",
+          "text": "Patients are being treated in corridors right now."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Were being treated' is Past Continuous Passive — the treatment was ongoing at the time of arrival.",
+      "mistakeTags": [
+        "health",
+        "passive_continuous_perfect",
+        "passive_voice"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_06_passive_continuous_perfect/t6_03.mp3"
+    },
+    {
+      "id": "t6_04",
+      "audioText": "The company newsletter reported exciting progress. A revolutionary new drug has been developed by the research team over the past five years.",
+      "transcript": "A revolutionary new drug has been developed by the research team over the past five years.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The research team created a groundbreaking medication during the last five years."
+        },
+        {
+          "id": "o2",
+          "text": "The drug will be developed in the next five years."
+        },
+        {
+          "id": "o3",
+          "text": "No drug has been developed yet."
+        },
+        {
+          "id": "o4",
+          "text": "The drug was developed fifty years ago."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Has been developed' is Present Perfect Passive — the development is complete with results relevant to the present.",
+      "mistakeTags": [
+        "science",
+        "passive_continuous_perfect",
+        "passive_voice"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_06_passive_continuous_perfect/t6_04.mp3"
+    },
+    {
+      "id": "t6_05",
+      "audioText": "Please be patient with the noise upstairs. New equipment is being installed in the laboratory as we speak.",
+      "transcript": "New equipment is being installed in the laboratory as we speak.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The equipment installation was completed yesterday."
+        },
+        {
+          "id": "o2",
+          "text": "Workers are setting up new equipment in the lab right now."
+        },
+        {
+          "id": "o3",
+          "text": "The laboratory has no equipment."
+        },
+        {
+          "id": "o4",
+          "text": "The equipment will be installed next month."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Is being installed' is Present Continuous Passive — the installation is happening at this very moment.",
+      "mistakeTags": [
+        "work",
+        "passive_continuous_perfect",
+        "passive_voice"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_06_passive_continuous_perfect/t6_05.mp3"
+    },
+    {
+      "id": "t6_06",
+      "audioText": "The police report revealed new details about the robbery. The suspects had been monitored by detectives for several months before the arrest.",
+      "transcript": "The suspects had been monitored by detectives for several months before the arrest.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Detectives watched the suspects for months prior to arresting them."
+        },
+        {
+          "id": "o2",
+          "text": "The suspects monitored the detectives."
+        },
+        {
+          "id": "o3",
+          "text": "The monitoring started after the arrest."
+        },
+        {
+          "id": "o4",
+          "text": "Nobody was monitoring the suspects."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Had been monitored' is Past Perfect Passive — the surveillance happened over a period before the later past event of the arrest.",
+      "mistakeTags": [
+        "law",
+        "passive_continuous_perfect",
+        "passive_voice"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_06_passive_continuous_perfect/t6_06.mp3"
+    },
+    {
+      "id": "t6_07",
+      "audioText": "The school building looks completely different. The classrooms have been painted in bright, cheerful colours over the summer holidays.",
+      "transcript": "The classrooms have been painted in bright, cheerful colours over the summer holidays.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Someone painted the classrooms with vibrant colours during the summer break."
+        },
+        {
+          "id": "o2",
+          "text": "The classrooms are being painted right now."
+        },
+        {
+          "id": "o3",
+          "text": "The classrooms will be painted next summer."
+        },
+        {
+          "id": "o4",
+          "text": "The classrooms have always been these colours."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Have been painted' is Present Perfect Passive — the painting is complete and the result is visible now.",
+      "mistakeTags": [
+        "education",
+        "passive_continuous_perfect",
+        "passive_voice"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_06_passive_continuous_perfect/t6_07.mp3"
+    },
+    {
+      "id": "t6_08",
+      "audioText": "I noticed a lot of activity when I passed the town centre. A new stage was being constructed for the music festival next weekend.",
+      "transcript": "A new stage was being constructed for the music festival next weekend.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Workers were building a stage for the upcoming festival when I walked by."
+        },
+        {
+          "id": "o2",
+          "text": "The stage was already finished when I passed."
+        },
+        {
+          "id": "o3",
+          "text": "The music festival was cancelled."
+        },
+        {
+          "id": "o4",
+          "text": "I was constructing the stage myself."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Was being constructed' is Past Continuous Passive — the construction was in progress at the time of passing.",
+      "mistakeTags": [
+        "events",
+        "passive_continuous_perfect",
+        "passive_voice"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_06_passive_continuous_perfect/t6_08.mp3"
+    },
+    {
+      "id": "t6_09",
+      "audioText": "The environmental report paints a grim picture. Over forty percent of the world's coral reefs have been damaged by rising ocean temperatures.",
+      "transcript": "Over forty percent of the world's coral reefs have been damaged by rising ocean temperatures.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Rising sea temperatures have harmed more than forty percent of coral reefs globally."
+        },
+        {
+          "id": "o2",
+          "text": "Coral reefs are damaging the ocean temperatures."
+        },
+        {
+          "id": "o3",
+          "text": "All coral reefs remain perfectly healthy."
+        },
+        {
+          "id": "o4",
+          "text": "Coral reefs will be damaged in the distant future."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Have been damaged' is Present Perfect Passive — the damage has occurred over time and the effects are still relevant now.",
+      "mistakeTags": [
+        "environment",
+        "passive_continuous_perfect",
+        "passive_voice"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_06_passive_continuous_perfect/t6_09.mp3"
+    },
+    {
+      "id": "t6_10",
+      "audioText": "The neighbours complained about the constant drilling sounds. Their flat was being renovated by a team of builders for over three months.",
+      "transcript": "Their flat was being renovated by a team of builders for over three months.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The renovation finished before the neighbours moved in."
+        },
+        {
+          "id": "o2",
+          "text": "Builders were working on the flat for more than three months at that time."
+        },
+        {
+          "id": "o3",
+          "text": "The neighbours renovated the flat themselves."
+        },
+        {
+          "id": "o4",
+          "text": "No renovation took place in the building."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Was being renovated' is Past Continuous Passive — the renovation was an ongoing process lasting over three months.",
+      "mistakeTags": [
+        "home",
+        "passive_continuous_perfect",
+        "passive_voice"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_06_passive_continuous_perfect/t6_10.mp3"
+    },
+    {
+      "id": "t6_11",
+      "audioText": "The author was overwhelmed at the book launch. Her latest novel had been translated into twenty-seven languages before it even hit the shelves.",
+      "transcript": "Her latest novel had been translated into twenty-seven languages before it even hit the shelves.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The book was translated into twenty-seven languages after it was published."
+        },
+        {
+          "id": "o2",
+          "text": "The novel was available in twenty-seven languages even before its official release."
+        },
+        {
+          "id": "o3",
+          "text": "The novel has not been translated yet."
+        },
+        {
+          "id": "o4",
+          "text": "The author translated the book herself."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Had been translated' is Past Perfect Passive — the translations were completed before the even earlier past event of the book's release.",
+      "mistakeTags": [
+        "literature",
+        "passive_continuous_perfect",
+        "passive_voice"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_06_passive_continuous_perfect/t6_11.mp3"
+    },
+    {
+      "id": "t6_12",
+      "audioText": "The traffic situation is terrible on High Street. The main road is being widened to accommodate more vehicles during rush hour.",
+      "transcript": "The main road is being widened to accommodate more vehicles during rush hour.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Construction workers are currently making the road wider for better traffic flow."
+        },
+        {
+          "id": "o2",
+          "text": "The road was widened ten years ago."
+        },
+        {
+          "id": "o3",
+          "text": "The road is being made narrower."
+        },
+        {
+          "id": "o4",
+          "text": "Vehicles are widening the road by driving on it."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Is being widened' is Present Continuous Passive — the road expansion is an ongoing project happening now.",
+      "mistakeTags": [
+        "transport",
+        "passive_continuous_perfect",
+        "passive_voice"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_06_passive_continuous_perfect/t6_12.mp3"
+    },
+    {
+      "id": "t6_13",
+      "audioText": "The whistleblower's testimony shocked the courtroom. Confidential documents had been leaked to the press for over a year before anyone noticed.",
+      "transcript": "Confidential documents had been leaked to the press for over a year before anyone noticed.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Someone discovered the leaks immediately."
+        },
+        {
+          "id": "o2",
+          "text": "Secret documents were shared with journalists for more than a year without detection."
+        },
+        {
+          "id": "o3",
+          "text": "The press leaked documents to the company."
+        },
+        {
+          "id": "o4",
+          "text": "No documents were ever leaked."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Had been leaked' is Past Perfect Passive — the leaking happened over time before the past moment of discovery.",
+      "mistakeTags": [
+        "media",
+        "passive_continuous_perfect",
+        "passive_voice"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_06_passive_continuous_perfect/t6_13.mp3"
+    },
+    {
+      "id": "t6_14",
+      "audioText": "The gallery has a spectacular new exhibition. All the artworks have been carefully selected from private collections around the world.",
+      "transcript": "All the artworks have been carefully selected from private collections around the world.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The artworks are being selected right now."
+        },
+        {
+          "id": "o2",
+          "text": "Curators chose each artwork with care from international private collections."
+        },
+        {
+          "id": "o3",
+          "text": "The artworks were rejected from the exhibition."
+        },
+        {
+          "id": "o4",
+          "text": "All artworks came from a single local collection."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Have been selected' is Present Perfect Passive — the selection process is complete and the result is the current exhibition.",
+      "mistakeTags": [
+        "art",
+        "passive_continuous_perfect",
+        "passive_voice"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_06_passive_continuous_perfect/t6_14.mp3"
+    },
+    {
+      "id": "t6_15",
+      "audioText": "When we visited the factory last spring, production was running at full capacity. Electric cars were being assembled around the clock by robotic systems.",
+      "transcript": "Electric cars were being assembled around the clock by robotic systems.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Robots were putting together electric vehicles non-stop when they visited."
+        },
+        {
+          "id": "o2",
+          "text": "Workers assembled the cars manually during the day only."
+        },
+        {
+          "id": "o3",
+          "text": "The factory had stopped production before the visit."
+        },
+        {
+          "id": "o4",
+          "text": "Electric cars are being assembled at the factory today."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Were being assembled' is Past Continuous Passive — continuous robotic production was happening at the time of the visit.",
+      "mistakeTags": [
+        "technology",
+        "passive_continuous_perfect",
+        "passive_voice"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_06_passive_continuous_perfect/t6_15.mp3"
+    }
+  ],
+  "short_description": "Пассивный залог: длительные и перфектные формы."
+}

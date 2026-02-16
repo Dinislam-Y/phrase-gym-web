@@ -1,0 +1,461 @@
+{
+  "id": "intermediate_listening_15_question_tags",
+  "title": "Question Tags",
+  "description": "Слушайте предложения с разделительными вопросами.",
+  "order": 15,
+  "level": "intermediate",
+  "imageUrl": "assets/images/lessons/question_tags.png",
+  "tasks": [
+    {
+      "id": "t15_01",
+      "audioText": "We are talking about the weather. It's a beautiful day, isn't it?",
+      "transcript": "It's a beautiful day, isn't it?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The speaker confirms the weather is terrible."
+        },
+        {
+          "id": "o2",
+          "text": "The speaker expects agreement that the day is lovely."
+        },
+        {
+          "id": "o3",
+          "text": "The speaker asks what day of the week it is."
+        },
+        {
+          "id": "o4",
+          "text": "The speaker is unsure whether it is daytime or night."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "A positive statement with a negative tag ('isn't it?') expects the listener to agree.",
+      "mistakeTags": [
+        "weather",
+        "question_tags"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_15_question_tags/t15_01.mp3"
+    },
+    {
+      "id": "t15_02",
+      "audioText": "I'm checking our plans for Saturday. You don't work on weekends, do you?",
+      "transcript": "You don't work on weekends, do you?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The speaker tells the listener to work on weekends."
+        },
+        {
+          "id": "o2",
+          "text": "The speaker confirms the listener works every weekend."
+        },
+        {
+          "id": "o3",
+          "text": "The speaker expects the listener is free on weekends and asks to confirm."
+        },
+        {
+          "id": "o4",
+          "text": "The speaker asks how many hours the listener works."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "A negative statement with a positive tag ('do you?') seeks confirmation that the person doesn't work weekends.",
+      "mistakeTags": [
+        "work",
+        "question_tags"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_15_question_tags/t15_02.mp3"
+    },
+    {
+      "id": "t15_03",
+      "audioText": "The movie just finished. That was a great film, wasn't it?",
+      "transcript": "That was a great film, wasn't it?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The speaker thinks the film was excellent and expects agreement."
+        },
+        {
+          "id": "o2",
+          "text": "The speaker did not enjoy the film at all."
+        },
+        {
+          "id": "o3",
+          "text": "The speaker is asking which film they watched."
+        },
+        {
+          "id": "o4",
+          "text": "The speaker wants to watch the film again tomorrow."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Was' is positive, so the tag is negative 'wasn't it?' — the speaker seeks agreement that the film was great.",
+      "mistakeTags": [
+        "entertainment",
+        "question_tags"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_15_question_tags/t15_03.mp3"
+    },
+    {
+      "id": "t15_04",
+      "audioText": "I noticed Emma at the café this morning. She hasn't left the country yet, has she?",
+      "transcript": "She hasn't left the country yet, has she?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The speaker confirms Emma already left the country."
+        },
+        {
+          "id": "o2",
+          "text": "The speaker believes Emma is still here and asks for confirmation."
+        },
+        {
+          "id": "o3",
+          "text": "The speaker wants Emma to leave the country."
+        },
+        {
+          "id": "o4",
+          "text": "The speaker is asking which country Emma is from."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "Negative statement ('hasn't left') with positive tag ('has she?') — the speaker expects Emma is still in the country.",
+      "mistakeTags": [
+        "travel",
+        "question_tags"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_15_question_tags/t15_04.mp3"
+    },
+    {
+      "id": "t15_05",
+      "audioText": "Let me remind you about the meeting. You will be there at three o'clock, won't you?",
+      "transcript": "You will be there at three o'clock, won't you?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The speaker asks the listener to confirm attendance at three."
+        },
+        {
+          "id": "o2",
+          "text": "The speaker cancels the three o'clock meeting."
+        },
+        {
+          "id": "o3",
+          "text": "The speaker asks what time the meeting starts."
+        },
+        {
+          "id": "o4",
+          "text": "The speaker says the meeting was yesterday at three."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Will' is positive, tag is 'won't you?' — the speaker expects confirmation of attendance.",
+      "mistakeTags": [
+        "work",
+        "question_tags"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_15_question_tags/t15_05.mp3"
+    },
+    {
+      "id": "t15_06",
+      "audioText": "We are discussing our neighbours. They have moved to a new house, haven't they?",
+      "transcript": "They have moved to a new house, haven't they?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The speaker asks if the neighbours are planning to move."
+        },
+        {
+          "id": "o2",
+          "text": "The speaker says the neighbours have not moved."
+        },
+        {
+          "id": "o3",
+          "text": "The speaker believes the neighbours moved and seeks confirmation."
+        },
+        {
+          "id": "o4",
+          "text": "The speaker is inviting the neighbours to a new house."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "Positive 'have moved' with negative tag 'haven't they?' — the speaker is fairly sure they moved and wants confirmation.",
+      "mistakeTags": [
+        "home",
+        "question_tags"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_15_question_tags/t15_06.mp3"
+    },
+    {
+      "id": "t15_07",
+      "audioText": "I can hear music from the living room. The children can play the piano, can't they?",
+      "transcript": "The children can play the piano, can't they?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The speaker asks if the children are allowed to buy a piano."
+        },
+        {
+          "id": "o2",
+          "text": "The speaker believes the children have the ability to play piano and asks to confirm."
+        },
+        {
+          "id": "o3",
+          "text": "The speaker says the children cannot play any instrument."
+        },
+        {
+          "id": "o4",
+          "text": "The speaker wants the children to stop playing music."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "Positive 'can play' with negative 'can't they?' — the speaker expects confirmation of the children's ability.",
+      "mistakeTags": [
+        "family",
+        "question_tags"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_15_question_tags/t15_07.mp3"
+    },
+    {
+      "id": "t15_08",
+      "audioText": "I saw your test results on the table. You passed the exam, didn't you?",
+      "transcript": "You passed the exam, didn't you?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The speaker asks when the exam will take place."
+        },
+        {
+          "id": "o2",
+          "text": "The speaker says the listener failed the exam."
+        },
+        {
+          "id": "o3",
+          "text": "The speaker believes the listener passed and wants confirmation."
+        },
+        {
+          "id": "o4",
+          "text": "The speaker is offering to help study for the exam."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "Positive 'passed' with negative 'didn't you?' — the speaker is fairly confident and seeks agreement.",
+      "mistakeTags": [
+        "education",
+        "question_tags"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_15_question_tags/t15_08.mp3"
+    },
+    {
+      "id": "t15_09",
+      "audioText": "We are looking at the restaurant bill. The food wasn't very expensive, was it?",
+      "transcript": "The food wasn't very expensive, was it?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The speaker thinks the food was cheap and expects agreement."
+        },
+        {
+          "id": "o2",
+          "text": "The speaker is complaining that the food was too expensive."
+        },
+        {
+          "id": "o3",
+          "text": "The speaker is asking what they ordered."
+        },
+        {
+          "id": "o4",
+          "text": "The speaker says the food was the most expensive ever."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Negative 'wasn't expensive' with positive tag 'was it?' — the speaker believes the price was reasonable.",
+      "mistakeTags": [
+        "dining",
+        "question_tags"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_15_question_tags/t15_09.mp3"
+    },
+    {
+      "id": "t15_10",
+      "audioText": "I see you have a new phone. You bought it online, didn't you?",
+      "transcript": "You bought it online, didn't you?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The speaker is sure the phone was bought in a physical store."
+        },
+        {
+          "id": "o2",
+          "text": "The speaker asks how much the phone costs."
+        },
+        {
+          "id": "o3",
+          "text": "The speaker thinks it was an online purchase and seeks confirmation."
+        },
+        {
+          "id": "o4",
+          "text": "The speaker wants to sell a phone online."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "Positive 'bought it online' with negative 'didn't you?' — the speaker believes it was online and checks.",
+      "mistakeTags": [
+        "technology",
+        "question_tags"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_15_question_tags/t15_10.mp3"
+    },
+    {
+      "id": "t15_11",
+      "audioText": "I remember the conversation yesterday. He should apologise to her, shouldn't he?",
+      "transcript": "He should apologise to her, shouldn't he?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The speaker says he already apologised."
+        },
+        {
+          "id": "o2",
+          "text": "The speaker believes an apology is needed and expects agreement."
+        },
+        {
+          "id": "o3",
+          "text": "The speaker thinks she should apologise, not he."
+        },
+        {
+          "id": "o4",
+          "text": "The speaker asks who started the argument."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "Positive 'should apologise' with negative 'shouldn't he?' — the speaker expects the listener to agree.",
+      "mistakeTags": [
+        "social",
+        "question_tags"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_15_question_tags/t15_11.mp3"
+    },
+    {
+      "id": "t15_12",
+      "audioText": "We are talking about our colleague. She doesn't speak French, does she?",
+      "transcript": "She doesn't speak French, does she?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The speaker is confident that she speaks French fluently."
+        },
+        {
+          "id": "o2",
+          "text": "The speaker believes she does not speak French and wants to verify."
+        },
+        {
+          "id": "o3",
+          "text": "The speaker is asking her to translate something into French."
+        },
+        {
+          "id": "o4",
+          "text": "The speaker says she is learning French now."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "Negative 'doesn't speak' with positive 'does she?' — the speaker expects the answer is no.",
+      "mistakeTags": [
+        "work",
+        "question_tags"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_15_question_tags/t15_12.mp3"
+    },
+    {
+      "id": "t15_13",
+      "audioText": "I'm checking the schedule with my friend. We are meeting at six, aren't we?",
+      "transcript": "We are meeting at six, aren't we?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The speaker confirms a meeting time of six and asks for agreement."
+        },
+        {
+          "id": "o2",
+          "text": "The speaker cancels the meeting completely."
+        },
+        {
+          "id": "o3",
+          "text": "The speaker proposes meeting at seven instead."
+        },
+        {
+          "id": "o4",
+          "text": "The speaker says they already met at six yesterday."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Positive 'are meeting' with negative 'aren't we?' — the speaker double-checks the agreed time.",
+      "mistakeTags": [
+        "social",
+        "question_tags"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_15_question_tags/t15_13.mp3"
+    },
+    {
+      "id": "t15_14",
+      "audioText": "I noticed you look well. You've been exercising regularly, haven't you?",
+      "transcript": "You've been exercising regularly, haven't you?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The speaker thinks the listener stopped exercising recently."
+        },
+        {
+          "id": "o2",
+          "text": "The speaker believes the listener has been working out and wants confirmation."
+        },
+        {
+          "id": "o3",
+          "text": "The speaker suggests starting a new exercise program."
+        },
+        {
+          "id": "o4",
+          "text": "The speaker says the listener looks unwell."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "Positive 'have been exercising' with negative 'haven't you?' — the speaker notices the result and expects a yes.",
+      "mistakeTags": [
+        "health",
+        "question_tags"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_15_question_tags/t15_14.mp3"
+    },
+    {
+      "id": "t15_15",
+      "audioText": "The streets are wet this morning. It rained last night, didn't it?",
+      "transcript": "It rained last night, didn't it?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The speaker is sure it did not rain last night."
+        },
+        {
+          "id": "o2",
+          "text": "The speaker asks if it will rain tonight."
+        },
+        {
+          "id": "o3",
+          "text": "The speaker believes it rained and asks for confirmation based on evidence."
+        },
+        {
+          "id": "o4",
+          "text": "The speaker says the streets are completely dry."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "Positive 'rained' with negative 'didn't it?' — the wet streets are evidence, and the speaker expects agreement.",
+      "mistakeTags": [
+        "weather",
+        "question_tags"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_15_question_tags/t15_15.mp3"
+    }
+  ],
+  "short_description": "Разделительные вопросы: ..., isn't it? / ..., don't you?"
+}

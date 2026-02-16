@@ -1,0 +1,400 @@
+{
+  "id": "intermediate_bc_02_past_simple_irregular",
+  "title": "Was vs Were",
+  "description": "Was или Were? Единственное или множественное — ошибок больше не будет.",
+  "order": 4,
+  "level": "intermediate",
+  "imageUrl": null,
+  "tasks": [
+    {
+      "id": "wvw_1",
+      "question": "I ___ at home yesterday.",
+      "optionA": "WAS",
+      "optionB": "WERE",
+      "correctIndex": 0,
+      "explanation": "С I всегда was.",
+      "tags": [
+        "was_vs_were",
+        "was",
+        "daily_life"
+      ]
+    },
+    {
+      "id": "wvw_2",
+      "question": "They ___ late for the meeting.",
+      "optionA": "WAS",
+      "optionB": "WERE",
+      "correctIndex": 1,
+      "explanation": "They — множественное число, поэтому were.",
+      "tags": [
+        "was_vs_were",
+        "were",
+        "work"
+      ]
+    },
+    {
+      "id": "wvw_3",
+      "question": "She ___ very happy that day.",
+      "optionA": "WAS",
+      "optionB": "WERE",
+      "correctIndex": 0,
+      "explanation": "She — единственное число, was.",
+      "tags": [
+        "was_vs_were",
+        "was",
+        "emotions"
+      ]
+    },
+    {
+      "id": "wvw_4",
+      "question": "We ___ in Paris last summer.",
+      "optionA": "WAS",
+      "optionB": "WERE",
+      "correctIndex": 1,
+      "explanation": "We — множественное, поэтому were.",
+      "tags": [
+        "was_vs_were",
+        "were",
+        "travel"
+      ]
+    },
+    {
+      "id": "wvw_5",
+      "question": "The cat ___ on the sofa.",
+      "optionA": "WAS",
+      "optionB": "WERE",
+      "correctIndex": 0,
+      "explanation": "The cat — единственное число, was.",
+      "tags": [
+        "was_vs_were",
+        "was",
+        "home"
+      ]
+    },
+    {
+      "id": "wvw_6",
+      "question": "The kids ___ playing outside.",
+      "optionA": "WAS",
+      "optionB": "WERE",
+      "correctIndex": 1,
+      "explanation": "Kids — множественное число, were.",
+      "tags": [
+        "was_vs_were",
+        "were",
+        "daily_life"
+      ]
+    },
+    {
+      "id": "wvw_7",
+      "question": "He ___ born in 1990.",
+      "optionA": "WAS",
+      "optionB": "WERE",
+      "correctIndex": 0,
+      "explanation": "He — единственное число, was.",
+      "tags": [
+        "was_vs_were",
+        "was",
+        "personal"
+      ]
+    },
+    {
+      "id": "wvw_8",
+      "question": "You ___ right about the answer.",
+      "optionA": "WAS",
+      "optionB": "WERE",
+      "correctIndex": 1,
+      "explanation": "You всегда сочетается с were.",
+      "tags": [
+        "was_vs_were",
+        "were",
+        "communication"
+      ]
+    },
+    {
+      "id": "wvw_9",
+      "question": "The food ___ delicious.",
+      "optionA": "WAS",
+      "optionB": "WERE",
+      "correctIndex": 0,
+      "explanation": "Food — неисчисляемое в единственном, was.",
+      "tags": [
+        "was_vs_were",
+        "was",
+        "food"
+      ]
+    },
+    {
+      "id": "wvw_10",
+      "question": "There ___ many people at the party.",
+      "optionA": "WAS",
+      "optionB": "WERE",
+      "correctIndex": 1,
+      "explanation": "Many people — множественное число, were.",
+      "tags": [
+        "was_vs_were",
+        "were",
+        "social"
+      ]
+    },
+    {
+      "id": "wvw_11",
+      "question": "The dog ___ barking all night.",
+      "optionA": "WAS",
+      "optionB": "WERE",
+      "correctIndex": 0,
+      "explanation": "The dog — единственное число, was.",
+      "tags": [
+        "was_vs_were",
+        "was",
+        "home"
+      ]
+    },
+    {
+      "id": "wvw_12",
+      "question": "My parents ___ worried about me.",
+      "optionA": "WAS",
+      "optionB": "WERE",
+      "correctIndex": 1,
+      "explanation": "Parents — множественное число, were.",
+      "tags": [
+        "was_vs_were",
+        "were",
+        "family"
+      ]
+    },
+    {
+      "id": "wvw_13",
+      "question": "It ___ raining when I left.",
+      "optionA": "WAS",
+      "optionB": "WERE",
+      "correctIndex": 0,
+      "explanation": "It — единственное число, was.",
+      "tags": [
+        "was_vs_were",
+        "was",
+        "weather"
+      ]
+    },
+    {
+      "id": "wvw_14",
+      "question": "The flowers ___ beautiful in spring.",
+      "optionA": "WAS",
+      "optionB": "WERE",
+      "correctIndex": 1,
+      "explanation": "Flowers — множественное число, were.",
+      "tags": [
+        "was_vs_were",
+        "were",
+        "nature"
+      ]
+    },
+    {
+      "id": "wvw_15",
+      "question": "My phone ___ in my pocket.",
+      "optionA": "WAS",
+      "optionB": "WERE",
+      "correctIndex": 0,
+      "explanation": "Phone — единственное число, was.",
+      "tags": [
+        "was_vs_were",
+        "was",
+        "daily_life"
+      ]
+    },
+    {
+      "id": "wvw_16",
+      "question": "The students ___ ready for the exam.",
+      "optionA": "WAS",
+      "optionB": "WERE",
+      "correctIndex": 1,
+      "explanation": "Students — множественное число, were.",
+      "tags": [
+        "was_vs_were",
+        "were",
+        "school"
+      ]
+    },
+    {
+      "id": "wvw_17",
+      "question": "The traffic ___ terrible this morning.",
+      "optionA": "WAS",
+      "optionB": "WERE",
+      "correctIndex": 0,
+      "explanation": "Traffic — неисчисляемое, единственное число, was.",
+      "tags": [
+        "was_vs_were",
+        "was",
+        "travel"
+      ]
+    },
+    {
+      "id": "wvw_18",
+      "question": "___ you at the concert last night?",
+      "optionA": "WAS",
+      "optionB": "WERE",
+      "correctIndex": 1,
+      "explanation": "You — всегда were, даже если один человек.",
+      "tags": [
+        "was_vs_were",
+        "were",
+        "entertainment"
+      ]
+    },
+    {
+      "id": "wvw_19",
+      "question": "The news ___ quite shocking.",
+      "optionA": "WAS",
+      "optionB": "WERE",
+      "correctIndex": 0,
+      "explanation": "News — неисчисляемое в единственном числе, was.",
+      "tags": [
+        "was_vs_were",
+        "was",
+        "communication"
+      ]
+    },
+    {
+      "id": "wvw_20",
+      "question": "Those shoes ___ too expensive.",
+      "optionA": "WAS",
+      "optionB": "WERE",
+      "correctIndex": 1,
+      "explanation": "Shoes — множественное число, were.",
+      "tags": [
+        "was_vs_were",
+        "were",
+        "shopping"
+      ]
+    },
+    {
+      "id": "wvw_21",
+      "question": "The information ___ not correct.",
+      "optionA": "WAS",
+      "optionB": "WERE",
+      "correctIndex": 0,
+      "explanation": "Information — неисчисляемое, единственное число, was.",
+      "tags": [
+        "was_vs_were",
+        "was",
+        "work"
+      ]
+    },
+    {
+      "id": "wvw_22",
+      "question": "The instructions ___ unclear to everyone.",
+      "optionA": "WAS",
+      "optionB": "WERE",
+      "correctIndex": 1,
+      "explanation": "Instructions — множественное число, were.",
+      "tags": [
+        "was_vs_were",
+        "were",
+        "work"
+      ]
+    },
+    {
+      "id": "wvw_23",
+      "question": "The furniture ___ old but comfortable.",
+      "optionA": "WAS",
+      "optionB": "WERE",
+      "correctIndex": 0,
+      "explanation": "Furniture — неисчисляемое, единственное число, was.",
+      "tags": [
+        "was_vs_were",
+        "was",
+        "home"
+      ]
+    },
+    {
+      "id": "wvw_24",
+      "question": "All the lights ___ off when I came.",
+      "optionA": "WAS",
+      "optionB": "WERE",
+      "correctIndex": 1,
+      "explanation": "Lights — множественное число, were.",
+      "tags": [
+        "was_vs_were",
+        "were",
+        "home"
+      ]
+    },
+    {
+      "id": "wvw_25",
+      "question": "The homework ___ easier than I thought.",
+      "optionA": "WAS",
+      "optionB": "WERE",
+      "correctIndex": 0,
+      "explanation": "Homework — неисчисляемое, единственное число, was.",
+      "tags": [
+        "was_vs_were",
+        "was",
+        "school"
+      ]
+    },
+    {
+      "id": "wvw_26",
+      "question": "The police ___ already at the scene.",
+      "optionA": "WAS",
+      "optionB": "WERE",
+      "correctIndex": 1,
+      "explanation": "Police — всегда множественное число в английском, were.",
+      "tags": [
+        "was_vs_were",
+        "were",
+        "daily_life"
+      ]
+    },
+    {
+      "id": "wvw_27",
+      "question": "The weather ___ awful last weekend.",
+      "optionA": "WAS",
+      "optionB": "WERE",
+      "correctIndex": 0,
+      "explanation": "Weather — неисчисляемое, единственное число, was.",
+      "tags": [
+        "was_vs_were",
+        "was",
+        "weather"
+      ]
+    },
+    {
+      "id": "wvw_28",
+      "question": "The scissors ___ on the table.",
+      "optionA": "WAS",
+      "optionB": "WERE",
+      "correctIndex": 1,
+      "explanation": "Scissors — всегда множественное число, were.",
+      "tags": [
+        "was_vs_were",
+        "were",
+        "home"
+      ]
+    },
+    {
+      "id": "wvw_29",
+      "question": "The advice ___ very helpful to us.",
+      "optionA": "WAS",
+      "optionB": "WERE",
+      "correctIndex": 0,
+      "explanation": "Advice — неисчисляемое, единственное число, was.",
+      "tags": [
+        "was_vs_were",
+        "was",
+        "communication"
+      ]
+    },
+    {
+      "id": "wvw_30",
+      "question": "The children ___ excited about the trip.",
+      "optionA": "WAS",
+      "optionB": "WERE",
+      "correctIndex": 1,
+      "explanation": "Children — множественное число (неправильная форма от child), were.",
+      "tags": [
+        "was_vs_were",
+        "were",
+        "travel"
+      ]
+    }
+  ]
+}

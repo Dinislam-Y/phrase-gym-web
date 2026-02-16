@@ -1,0 +1,80 @@
+{
+    "level": "pre_intermediate",
+    "lessons": [
+        {
+            "id": "pre_08_can_cant",
+            "file": "08_can_cant.json",
+            "order": 1
+        },
+        {
+            "id": "pre_09_pronouns",
+            "file": "09_pronouns.json",
+            "order": 2
+        },
+        {
+            "id": "pre_10_adjectives",
+            "file": "10_adjectives.json",
+            "order": 3
+        },
+        {
+            "id": "pre_11_articles",
+            "file": "11_articles.json",
+            "order": 4
+        },
+        {
+            "id": "pre_12_numerals",
+            "file": "12_numerals.json",
+            "order": 5
+        },
+        {
+            "id": "pre_13_prepositions_basic",
+            "file": "13_prepositions_basic.json",
+            "order": 6
+        },
+        {
+            "id": "pre_14_present_continuous",
+            "file": "14_present_continuous.json",
+            "order": 7
+        },
+        {
+            "id": "pre_15_was_were",
+            "file": "15_was_were.json",
+            "order": 8
+        },
+        {
+            "id": "pre_16_wh_questions",
+            "file": "16_wh_questions.json",
+            "order": 9
+        },
+        {
+            "id": "pre_17_some_any_no",
+            "file": "17_some_any_no.json",
+            "order": 10
+        },
+        {
+            "id": "pre_18_much_many_a_lot",
+            "file": "18_much_many_a_lot.json",
+            "order": 11
+        },
+        {
+            "id": "pre_19_prepositions_of_time",
+            "file": "19_prepositions_of_time.json",
+            "order": 12
+        },
+        {
+            "id": "pre_20_going_to",
+            "file": "20_going_to.json",
+            "order": 13
+        },
+        {
+            "id": "pre_21_conjunctions",
+            "file": "21_conjunctions.json",
+            "order": 14
+        },
+        {
+            "id": "pre_22_like_love_hate_ing",
+            "file": "22_like_love_hate_ing.json",
+            "order": 15
+        }
+    ]
+}

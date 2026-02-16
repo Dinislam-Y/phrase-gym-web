@@ -1,0 +1,461 @@
+{
+  "id": "intermediate_listening_01_past_simple_regular",
+  "title": "Past Simple: Regular Verbs",
+  "description": "Слушайте истории из жизни и ловите регулярные глаголы в прошлом.",
+  "order": 1,
+  "level": "intermediate",
+  "imageUrl": "assets/images/lessons/past_simple_regular.png",
+  "tasks": [
+    {
+      "id": "t1_01",
+      "audioText": "Last weekend Anna really wanted to relax after work. She booked tickets online. She visited her parents in the countryside.",
+      "transcript": "She visited her parents in the countryside.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She went to see her parents in the village."
+        },
+        {
+          "id": "o2",
+          "text": "She is visiting her parents now."
+        },
+        {
+          "id": "o3",
+          "text": "She visited her friends in the city."
+        },
+        {
+          "id": "o4",
+          "text": "She will visit her parents next week."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence is about a completed past action. Only option 1 has the same meaning.",
+      "mistakeTags": [
+        "family",
+        "past_simple_regular"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_01_past_simple_regular/t1_01.mp3"
+    },
+    {
+      "id": "t1_02",
+      "audioText": "Yesterday Mike needed a new jacket. He went to the shopping centre in the evening. He purchased a black leather jacket.",
+      "transcript": "He purchased a black leather jacket.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He bought a black leather jacket."
+        },
+        {
+          "id": "o2",
+          "text": "He buys jackets every month."
+        },
+        {
+          "id": "o3",
+          "text": "He purchased a blue jacket."
+        },
+        {
+          "id": "o4",
+          "text": "He will purchase it tomorrow."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Past completed action – he bought it yesterday. Option 1 is correct.",
+      "mistakeTags": [
+        "shop",
+        "past_simple_regular"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_01_past_simple_regular/t1_02.mp3"
+    },
+    {
+      "id": "t1_03",
+      "audioText": "Last night we were very hungry after the cinema. We stopped at an Italian place. We ordered pizza and pasta.",
+      "transcript": "We ordered pizza and pasta.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "We got pizza and pasta."
+        },
+        {
+          "id": "o2",
+          "text": "We order pizza every Friday."
+        },
+        {
+          "id": "o3",
+          "text": "We ordered sushi."
+        },
+        {
+          "id": "o4",
+          "text": "We will order pizza tomorrow."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "One-time action in the past. Option 1 matches perfectly.",
+      "mistakeTags": [
+        "restaurant",
+        "past_simple_regular"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_01_past_simple_regular/t1_03.mp3"
+    },
+    {
+      "id": "t1_04",
+      "audioText": "Two hours ago Tom finished all his meetings. He closed his laptop and smiled. He finally relaxed on the sofa.",
+      "transcript": "He finally relaxed on the sofa.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He sat and rested on the sofa."
+        },
+        {
+          "id": "o2",
+          "text": "He is relaxing now."
+        },
+        {
+          "id": "o3",
+          "text": "He relaxed in the office."
+        },
+        {
+          "id": "o4",
+          "text": "He relaxes every evening."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Completed action after work. Only option 1 is correct.",
+      "mistakeTags": [
+        "work",
+        "past_simple_regular"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_01_past_simple_regular/t1_04.mp3"
+    },
+    {
+      "id": "t1_05",
+      "audioText": "Last summer we booked a small hotel by the sea. The weather was perfect. We enjoyed every single day.",
+      "transcript": "We enjoyed every single day.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "We had a great time every day."
+        },
+        {
+          "id": "o2",
+          "text": "We enjoy the sea every summer."
+        },
+        {
+          "id": "o3",
+          "text": "We enjoyed only one day."
+        },
+        {
+          "id": "o4",
+          "text": "We will enjoy it next year."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Past experience – we loved the vacation. Option 1 is right.",
+      "mistakeTags": [
+        "hotel",
+        "past_simple_regular"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_01_past_simple_regular/t1_05.mp3"
+    },
+    {
+      "id": "t1_06",
+      "audioText": "Sarah woke up early on Saturday. She cleaned the whole apartment. She cleaned for three hours straight.",
+      "transcript": "She cleaned for three hours straight.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She spent three hours cleaning."
+        },
+        {
+          "id": "o2",
+          "text": "She cleans every weekend."
+        },
+        {
+          "id": "o3",
+          "text": "She cleaned for one hour."
+        },
+        {
+          "id": "o4",
+          "text": "She will clean tomorrow."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Specific past action with duration. Option 1 matches.",
+      "mistakeTags": [
+        "home",
+        "past_simple_regular"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_01_past_simple_regular/t1_06.mp3"
+    },
+    {
+      "id": "t1_07",
+      "audioText": "During the match the team played very well. The fans shouted loudly. They cheered for ninety minutes.",
+      "transcript": "They cheered for ninety minutes.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The fans shouted and supported the team the whole game."
+        },
+        {
+          "id": "o2",
+          "text": "They cheer every weekend."
+        },
+        {
+          "id": "o3",
+          "text": "They cheered only ten minutes."
+        },
+        {
+          "id": "o4",
+          "text": "They will cheer next match."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Action that lasted the whole match. Option 1 is correct.",
+      "mistakeTags": [
+        "sport",
+        "past_simple_regular"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_01_past_simple_regular/t1_07.mp3"
+    },
+    {
+      "id": "t1_08",
+      "audioText": "Yesterday evening I needed help with my project. I phoned my colleague. I asked him many questions.",
+      "transcript": "I asked him many questions.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "I talked to him and asked a lot."
+        },
+        {
+          "id": "o2",
+          "text": "I ask him every day."
+        },
+        {
+          "id": "o3",
+          "text": "I asked only one question."
+        },
+        {
+          "id": "o4",
+          "text": "I will ask tomorrow."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "One evening in the past. Option 1 has the same meaning.",
+      "mistakeTags": [
+        "work",
+        "past_simple_regular"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_01_past_simple_regular/t1_08.mp3"
+    },
+    {
+      "id": "t1_09",
+      "audioText": "Last month we moved to a new flat. We carried boxes all day. We worked until midnight.",
+      "transcript": "We worked until midnight.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "We did a lot of work until late night."
+        },
+        {
+          "id": "o2",
+          "text": "We work every evening."
+        },
+        {
+          "id": "o3",
+          "text": "We worked until morning."
+        },
+        {
+          "id": "o4",
+          "text": "We will work next weekend."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Hard work on moving day. Option 1 is correct.",
+      "mistakeTags": [
+        "home",
+        "past_simple_regular"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_01_past_simple_regular/t1_09.mp3"
+    },
+    {
+      "id": "t1_10",
+      "audioText": "On Friday the restaurant was full. The waiter was very busy. He served twenty tables.",
+      "transcript": "He served twenty tables.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He took care of twenty tables."
+        },
+        {
+          "id": "o2",
+          "text": "He serves twenty tables every day."
+        },
+        {
+          "id": "o3",
+          "text": "He served only five tables."
+        },
+        {
+          "id": "o4",
+          "text": "He will serve tomorrow."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Specific busy evening. Option 1 matches.",
+      "mistakeTags": [
+        "restaurant",
+        "past_simple_regular"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_01_past_simple_regular/t1_10.mp3"
+    },
+    {
+      "id": "t1_11",
+      "audioText": "Last year John started learning Spanish. He studied every evening. He practised with native speakers.",
+      "transcript": "He practised with native speakers.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He spoke Spanish with natives."
+        },
+        {
+          "id": "o2",
+          "text": "He practises every day now."
+        },
+        {
+          "id": "o3",
+          "text": "He practised alone."
+        },
+        {
+          "id": "o4",
+          "text": "He will practise next year."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Past habit during the learning period. Option 1 is right.",
+      "mistakeTags": [
+        "education",
+        "past_simple_regular"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_01_past_simple_regular/t1_11.mp3"
+    },
+    {
+      "id": "t1_12",
+      "audioText": "At the party everyone danced until morning. The music was loud. They danced all night long.",
+      "transcript": "They danced all night long.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "They had fun dancing the whole night."
+        },
+        {
+          "id": "o2",
+          "text": "They dance every weekend."
+        },
+        {
+          "id": "o3",
+          "text": "They danced only one hour."
+        },
+        {
+          "id": "o4",
+          "text": "They will dance next party."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "One crazy party night. Option 1 is correct.",
+      "mistakeTags": [
+        "party",
+        "past_simple_regular"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_01_past_simple_regular/t1_12.mp3"
+    },
+    {
+      "id": "t1_13",
+      "audioText": "Two days ago I received a strange email. I read it carefully. I answered immediately.",
+      "transcript": "I answered immediately.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "I replied right away."
+        },
+        {
+          "id": "o2",
+          "text": "I answer emails every morning."
+        },
+        {
+          "id": "o3",
+          "text": "I answered the next day."
+        },
+        {
+          "id": "o4",
+          "text": "I will answer tomorrow."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Quick reaction in the past. Option 1 matches.",
+      "mistakeTags": [
+        "work",
+        "past_simple_regular"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_01_past_simple_regular/t1_13.mp3"
+    },
+    {
+      "id": "t1_14",
+      "audioText": "Last weekend we decided to cook something special. We invited friends. We prepared sushi at home.",
+      "transcript": "We prepared sushi at home.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "We made sushi ourselves."
+        },
+        {
+          "id": "o2",
+          "text": "We prepare sushi every week."
+        },
+        {
+          "id": "o3",
+          "text": "We ordered sushi."
+        },
+        {
+          "id": "o4",
+          "text": "We will prepare it next time."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Special occasion in the past. Option 1 is correct.",
+      "mistakeTags": [
+        "home",
+        "past_simple_regular"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_01_past_simple_regular/t1_14.mp3"
+    },
+    {
+      "id": "t1_15",
+      "audioText": "In December the company organised a big conference. Many people arrived. They discussed new projects all day.",
+      "transcript": "They discussed new projects all day.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "They talked about new projects the whole day."
+        },
+        {
+          "id": "o2",
+          "text": "They discuss projects every month."
+        },
+        {
+          "id": "o3",
+          "text": "They discussed old projects."
+        },
+        {
+          "id": "o4",
+          "text": "They will discuss next month."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "One-day conference event. Option 1 has the same meaning.",
+      "mistakeTags": [
+        "work",
+        "past_simple_regular"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_01_past_simple_regular/t1_15.mp3"
+    }
+  ],
+  "short_description": "Past Simple — регулярные глаголы на слух"
+}

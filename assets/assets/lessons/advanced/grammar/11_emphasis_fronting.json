@@ -1,0 +1,2475 @@
+{
+  "id": "advanced_11_emphasis_fronting",
+  "title": "Emphasis & Fronting",
+  "description": "Способы усиления: What I need is..., It is you who..., Not until then did I realize. Акценты в речи.",
+  "order": 11,
+  "level": "advanced",
+  "imageUrl": "assets/images/lessons/emphasis_fronting.png",
+  "vocabulary": [
+    {
+      "id": "v11_seldom",
+      "english": "seldom",
+      "russian": "редко",
+      "partOfSpeech": "adverb",
+      "example": "Seldom have I seen such dedication.",
+      "exampleTranslation": "Редко я видел такую преданность.",
+      "audioPath": "assets/audio/vocabulary/v11_seldom.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_seldom.mp3"
+    },
+    {
+      "id": "v11_rarely",
+      "english": "rarely",
+      "russian": "редко",
+      "partOfSpeech": "adverb",
+      "example": "Rarely does he make mistakes.",
+      "exampleTranslation": "Он редко допускает ошибки.",
+      "audioPath": "assets/audio/vocabulary/v11_rarely.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_rarely.mp3"
+    },
+    {
+      "id": "v11_barely",
+      "english": "barely",
+      "russian": "едва",
+      "partOfSpeech": "adverb",
+      "example": "Barely had she arrived when the meeting started.",
+      "exampleTranslation": "Едва она прибыла, как встреча началась.",
+      "audioPath": "assets/audio/vocabulary/v11_barely.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_barely.mp3"
+    },
+    {
+      "id": "v11_scarcely",
+      "english": "scarcely",
+      "russian": "едва, с трудом",
+      "partOfSpeech": "adverb",
+      "example": "Scarcely had we begun when the power went out.",
+      "exampleTranslation": "Едва мы начали, как отключилось электричество.",
+      "audioPath": "assets/audio/vocabulary/v11_scarcely.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_scarcely.mp3"
+    },
+    {
+      "id": "v11_emphasis",
+      "english": "emphasis",
+      "russian": "акцент, ударение (смысловое)",
+      "partOfSpeech": "noun",
+      "example": "The emphasis is on quality, not quantity.",
+      "exampleTranslation": "Акцент на качестве, а не на количестве.",
+      "audioPath": "assets/audio/vocabulary/v11_emphasis.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_emphasis.mp3"
+    },
+    {
+      "id": "v11_inversion",
+      "english": "inversion",
+      "russian": "инверсия (обратный порядок слов)",
+      "partOfSpeech": "noun",
+      "example": "Inversion is used for emphasis in formal English.",
+      "exampleTranslation": "Инверсия используется для усиления в формальном английском.",
+      "audioPath": "assets/audio/vocabulary/v11_inversion.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_inversion.mp3"
+    },
+    {
+      "id": "v11_cleft",
+      "english": "cleft sentence",
+      "russian": "расщеплённое предложение",
+      "partOfSpeech": "phrase",
+      "example": "It was John who called you yesterday.",
+      "exampleTranslation": "Это Джон звонил тебе вчера.",
+      "audioPath": "assets/audio/vocabulary/v11_cleft.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_cleft.mp3"
+    },
+    {
+      "id": "v11_whatsoever",
+      "english": "whatsoever",
+      "russian": "вообще, какой бы то ни было",
+      "partOfSpeech": "adverb",
+      "example": "There is no doubt whatsoever.",
+      "exampleTranslation": "Нет никаких сомнений вообще.",
+      "audioPath": "assets/audio/vocabulary/v11_whatsoever.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_whatsoever.mp3"
+    },
+    {
+      "id": "v11_merely",
+      "english": "merely",
+      "russian": "лишь, просто, всего лишь",
+      "partOfSpeech": "adverb",
+      "example": "What I need is merely your support.",
+      "exampleTranslation": "Всё, что мне нужно — это лишь ваша поддержка.",
+      "audioPath": "assets/audio/vocabulary/v11_merely.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_merely.mp3"
+    },
+    {
+      "id": "v11_under_no_circumstances",
+      "english": "under no circumstances",
+      "russian": "ни при каких обстоятельствах",
+      "partOfSpeech": "phrase",
+      "example": "Under no circumstances should you reveal the password.",
+      "exampleTranslation": "Ни при каких обстоятельствах не раскрывайте пароль.",
+      "audioPath": "assets/audio/vocabulary/v11_under_no_circumstances.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_under_no_circumstances.mp3"
+    },
+    {
+      "id": "v11_no_sooner",
+      "english": "no sooner... than",
+      "russian": "не успел... как",
+      "partOfSpeech": "phrase",
+      "example": "No sooner had I left than it started raining.",
+      "exampleTranslation": "Не успел я выйти, как пошёл дождь.",
+      "audioPath": "assets/audio/vocabulary/v11_no_sooner.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_no_sooner.mp3"
+    },
+    {
+      "id": "v11_not_only",
+      "english": "not only... but also",
+      "russian": "не только... но и",
+      "partOfSpeech": "phrase",
+      "example": "Not only did she win, but she also broke the record.",
+      "exampleTranslation": "Она не только выиграла, но и побила рекорд.",
+      "audioPath": "assets/audio/vocabulary/v11_not_only.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_not_only.mp3"
+    },
+    {
+      "id": "v11_precisely",
+      "english": "precisely",
+      "russian": "именно, точно",
+      "partOfSpeech": "adverb",
+      "example": "It is precisely this issue that concerns us.",
+      "exampleTranslation": "Именно этот вопрос нас беспокоит.",
+      "audioPath": "assets/audio/vocabulary/v11_precisely.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_precisely.mp3"
+    },
+    {
+      "id": "v11_dedication",
+      "english": "dedication",
+      "russian": "преданность, самоотверженность",
+      "partOfSpeech": "noun",
+      "example": "Her dedication to the project was remarkable.",
+      "exampleTranslation": "Её преданность проекту была замечательной.",
+      "audioPath": "assets/audio/vocabulary/v11_dedication.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_dedication.mp3"
+    },
+    {
+      "id": "v11_circumstances",
+      "english": "circumstances",
+      "russian": "обстоятельства",
+      "partOfSpeech": "noun",
+      "example": "Under no circumstances should this be repeated.",
+      "exampleTranslation": "Ни при каких обстоятельствах это не должно повториться.",
+      "audioPath": "assets/audio/vocabulary/v11_circumstances.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_circumstances.mp3"
+    },
+    {
+      "id": "v11_by_no_means",
+      "english": "by no means",
+      "russian": "ни в коем случае, отнюдь не",
+      "partOfSpeech": "phrase",
+      "example": "By no means is this an easy task.",
+      "exampleTranslation": "Это отнюдь не простая задача.",
+      "audioPath": "assets/audio/vocabulary/v11_by_no_means.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_by_no_means.mp3"
+    },
+    {
+      "id": "v11_at_no_time",
+      "english": "at no time",
+      "russian": "ни в какой момент, никогда",
+      "partOfSpeech": "phrase",
+      "example": "At no time did I agree to this plan.",
+      "exampleTranslation": "Ни в какой момент я не соглашался на этот план.",
+      "audioPath": "assets/audio/vocabulary/v11_at_no_time.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_at_no_time.mp3"
+    },
+    {
+      "id": "v11_fronting",
+      "english": "fronting",
+      "russian": "вынесение на первое место (в предложении)",
+      "partOfSpeech": "noun",
+      "example": "Fronting is a common literary technique.",
+      "exampleTranslation": "Вынесение — распространённый литературный приём.",
+      "audioPath": "assets/audio/vocabulary/v11_fronting.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_fronting.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "Emphasis & Fronting",
+    "subtitle": "Способы сделать высказывание сильнее: расщеплённые предложения (cleft sentences), инверсия с отрицательными наречиями и вынесение элемента на первое место (fronting). Эти конструкции — признак высокого уровня владения языком.",
+    "construction": {
+      "formula": "It is/was + X + who/that... | What + clause + is/was... | Neg adv + aux + S + V",
+      "rules": [
+        {
+          "word": "It-cleft",
+          "description": "It is/was + выделяемый элемент + who/that + остальное: It was SHE who solved it."
+        },
+        {
+          "word": "What-cleft",
+          "description": "What + придаточное + is/was + выделяемый элемент: What I need is time."
+        },
+        {
+          "word": "Negative inversion",
+          "description": "Отрицательное наречие → инверсия (как в вопросе): Never have I seen this."
+        },
+        {
+          "word": "Fronting",
+          "description": "Вынесение дополнения/обстоятельства вперёд: This I cannot accept."
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "bolt",
+        "color": "orange",
+        "title": "Cleft sentences (расщеплённые)",
+        "description": "Для выделения конкретного элемента предложения: кто, что, когда.",
+        "example": {
+          "english": "It was the manager who made the final decision.",
+          "russian": "Именно менеджер принял окончательное решение."
+        }
+      },
+      {
+        "icon": "star",
+        "color": "blue",
+        "title": "What-cleft",
+        "description": "Для выделения действия или объекта через конструкцию What... is/was...",
+        "example": {
+          "english": "What we need is a completely new strategy.",
+          "russian": "Что нам нужно — это совершенно новая стратегия."
+        }
+      },
+      {
+        "icon": "visibility",
+        "color": "purple",
+        "title": "Инверсия с отрицательными наречиями",
+        "description": "Never, rarely, seldom, hardly, no sooner, not only — вызывают инверсию.",
+        "example": {
+          "english": "Never have I seen such a beautiful sunset.",
+          "russian": "Никогда я не видел такого красивого заката."
+        }
+      },
+      {
+        "icon": "explore",
+        "color": "green",
+        "title": "Fronting",
+        "description": "Вынесение элемента вперёд для создания контраста или драматизма.",
+        "example": {
+          "english": "This problem I will not tolerate.",
+          "russian": "Эту проблему я терпеть не буду."
+        }
+      }
+    ],
+    "markers": [
+      "It is/was... who/that",
+      "What... is/was",
+      "Never",
+      "Rarely",
+      "Seldom",
+      "Hardly",
+      "No sooner... than",
+      "Not only... but also",
+      "Under no circumstances",
+      "By no means"
+    ]
+  },
+  "theoryQuiz": [
+    {
+      "id": "tq_11_01",
+      "type": "multipleChoice",
+      "question": "Какая конструкция используется в предложении: \"It was JOHN who called you\"?",
+      "options": [
+        "What-cleft",
+        "It-cleft",
+        "Fronting",
+        "Passive voice"
+      ],
+      "correctIndex": 1,
+      "explanation": "It was + John + who — это it-cleft, расщеплённое предложение для выделения подлежащего."
+    },
+    {
+      "id": "tq_11_02",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"Never ___ I seen such dedication.\"",
+      "options": [
+        "had",
+        "have",
+        "has",
+        "did"
+      ],
+      "correctIndex": 1,
+      "explanation": "Never + have + I + V3 — инверсия с отрицательным наречием. Present Perfect: have seen."
+    },
+    {
+      "id": "tq_11_03",
+      "type": "trueFalse",
+      "question": "\"What I need is more time\" — это пример what-cleft предложения.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "What I need — придаточное с what, is more time — выделяемый элемент. Это классический what-cleft."
+    },
+    {
+      "id": "tq_11_04",
+      "type": "multipleChoice",
+      "question": "Что происходит после отрицательного наречия в начале предложения?",
+      "options": [
+        "Прямой порядок слов",
+        "Инверсия (как в вопросе)",
+        "Пассивный залог",
+        "Герундий"
+      ],
+      "correctIndex": 1,
+      "explanation": "После отрицательных наречий (Never, Rarely, Seldom) следует инверсия: вспомогательный глагол перед подлежащим."
+    },
+    {
+      "id": "tq_11_05",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"Not only ___ she pass the exam, but she also got the highest score.\"",
+      "options": [
+        "does",
+        "did",
+        "has",
+        "was"
+      ],
+      "correctIndex": 1,
+      "explanation": "Not only + did + she + V1 — инверсия в Past Simple. She passed → did she pass."
+    },
+    {
+      "id": "tq_11_06",
+      "type": "trueFalse",
+      "question": "\"Seldom he makes mistakes\" — грамматически правильное предложение.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "После Seldom нужна инверсия: Seldom does he make mistakes (не he makes)."
+    },
+    {
+      "id": "tq_11_07",
+      "type": "multipleChoice",
+      "question": "Какое наречие НЕ требует инверсии в начале предложения?",
+      "options": [
+        "Never",
+        "Often",
+        "Rarely",
+        "Hardly"
+      ],
+      "correctIndex": 1,
+      "explanation": "Often — не отрицательное наречие и не требует инверсии. Never, Rarely, Hardly — требуют."
+    },
+    {
+      "id": "tq_11_08",
+      "type": "multipleChoice",
+      "question": "Как правильно: \"No sooner ___ he arrived ___ the phone rang.\"",
+      "options": [
+        "has / when",
+        "had / than",
+        "did / when",
+        "was / that"
+      ],
+      "correctIndex": 1,
+      "explanation": "No sooner + had + S + V3 + than — устойчивая конструкция с Past Perfect."
+    },
+    {
+      "id": "tq_11_09",
+      "type": "trueFalse",
+      "question": "\"Under no circumstances you should leave\" — правильное предложение.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "Нужна инверсия: Under no circumstances should you leave (should перед you)."
+    },
+    {
+      "id": "tq_11_10",
+      "type": "multipleChoice",
+      "question": "Выберите правильный cleft: \"___ the rain that caused the delay.\"",
+      "options": [
+        "There was",
+        "It was",
+        "What was",
+        "That was"
+      ],
+      "correctIndex": 1,
+      "explanation": "It was + the rain + that — it-cleft для выделения причины (дождь вызвал задержку)."
+    }
+  ],
+  "tasks": [
+    {
+      "id": "t11_1",
+      "type": "sentenceAssembly",
+      "question": "Что мне нужно — это больше времени на подготовку",
+      "correctAnswer": "What I need is more time to prepare properly",
+      "options": [],
+      "variants": [
+        [
+          "What",
+          "That",
+          "Which",
+          "How",
+          "Who"
+        ],
+        [
+          "I",
+          "me",
+          "my",
+          "we"
+        ],
+        [
+          "need",
+          "needs",
+          "needed",
+          "needing"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "more",
+          "much",
+          "most",
+          "many"
+        ],
+        [
+          "time",
+          "times",
+          "timing",
+          "timely"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "prepare",
+          "prepares",
+          "prepared",
+          "preparing"
+        ],
+        [
+          "properly",
+          "proper",
+          "probably",
+          "precisely"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_11_emphasis_fronting/000.mp3"
+    },
+    {
+      "id": "t11_2",
+      "type": "sentenceAssembly",
+      "question": "Именно она приняла это окончательное решение",
+      "correctAnswer": "It was she who made the final decision",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "There",
+          "That",
+          "This"
+        ],
+        [
+          "was",
+          "is",
+          "were",
+          "be"
+        ],
+        [
+          "she",
+          "her",
+          "hers",
+          "herself"
+        ],
+        [
+          "who",
+          "which",
+          "that",
+          "whom"
+        ],
+        [
+          "made",
+          "make",
+          "makes",
+          "making"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "final",
+          "finally",
+          "finish",
+          "finite"
+        ],
+        [
+          "decision",
+          "decisions",
+          "decisive",
+          "decided"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_11_emphasis_fronting/001.mp3"
+    },
+    {
+      "id": "t11_3",
+      "type": "sentenceAssembly",
+      "question": "Никогда я не видел такой преданности делу",
+      "correctAnswer": "Never have I seen such dedication to a cause",
+      "options": [],
+      "variants": [
+        [
+          "Never",
+          "Ever",
+          "Always",
+          "Often"
+        ],
+        [
+          "have",
+          "had",
+          "has",
+          "did"
+        ],
+        [
+          "I",
+          "me",
+          "we",
+          "my"
+        ],
+        [
+          "seen",
+          "see",
+          "saw",
+          "seeing"
+        ],
+        [
+          "such",
+          "so",
+          "this",
+          "that"
+        ],
+        [
+          "dedication",
+          "dedicated",
+          "dedicating",
+          "dedicate"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "a",
+          "the",
+          "an",
+          "this"
+        ],
+        [
+          "cause",
+          "because",
+          "caused",
+          "causing"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_11_emphasis_fronting/002.mp3"
+    },
+    {
+      "id": "t11_4",
+      "type": "sentenceAssembly",
+      "question": "Редко он допускает ошибки в своей работе",
+      "correctAnswer": "Rarely does he make mistakes in his work",
+      "options": [],
+      "variants": [
+        [
+          "Rarely",
+          "Usually",
+          "Often",
+          "Frequently"
+        ],
+        [
+          "does",
+          "do",
+          "did",
+          "has"
+        ],
+        [
+          "he",
+          "him",
+          "his",
+          "himself"
+        ],
+        [
+          "make",
+          "makes",
+          "made",
+          "making"
+        ],
+        [
+          "mistakes",
+          "mistake",
+          "mistaken",
+          "mistaking"
+        ],
+        [
+          "in",
+          "on",
+          "at",
+          "for"
+        ],
+        [
+          "his",
+          "he",
+          "him",
+          "their"
+        ],
+        [
+          "work",
+          "works",
+          "working",
+          "worked"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_11_emphasis_fronting/003.mp3"
+    },
+    {
+      "id": "t11_5",
+      "type": "sentenceAssembly",
+      "question": "Именно эту книгу я рекомендую для начинающих",
+      "correctAnswer": "It is this book that I recommend for beginners",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "There",
+          "That",
+          "This"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "this",
+          "that",
+          "the",
+          "a"
+        ],
+        [
+          "book",
+          "books",
+          "booked",
+          "booking"
+        ],
+        [
+          "that",
+          "which",
+          "who",
+          "whom"
+        ],
+        [
+          "I",
+          "me",
+          "we",
+          "my"
+        ],
+        [
+          "recommend",
+          "recommends",
+          "recommended",
+          "recommending"
+        ],
+        [
+          "for",
+          "to",
+          "at",
+          "in"
+        ],
+        [
+          "beginners",
+          "beginner",
+          "beginning",
+          "begin"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_11_emphasis_fronting/004.mp3"
+    },
+    {
+      "id": "t11_6",
+      "type": "sentenceAssembly",
+      "question": "Не успел я выйти из дома, как пошёл дождь",
+      "correctAnswer": "No sooner had I left the house than it started raining",
+      "options": [],
+      "variants": [
+        [
+          "No",
+          "Not",
+          "None",
+          "Nor"
+        ],
+        [
+          "sooner",
+          "soon",
+          "soonest",
+          "later"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "did"
+        ],
+        [
+          "I",
+          "me",
+          "we",
+          "he"
+        ],
+        [
+          "left",
+          "leave",
+          "leaves",
+          "leaving"
+        ],
+        [
+          "the",
+          "a",
+          "my",
+          "this"
+        ],
+        [
+          "house",
+          "home",
+          "houses",
+          "housed"
+        ],
+        [
+          "than",
+          "then",
+          "that",
+          "when"
+        ],
+        [
+          "it",
+          "he",
+          "she",
+          "they"
+        ],
+        [
+          "started",
+          "start",
+          "starts",
+          "starting"
+        ],
+        [
+          "raining",
+          "rained",
+          "rain",
+          "rains"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_11_emphasis_fronting/005.mp3"
+    },
+    {
+      "id": "t11_7",
+      "type": "sentenceAssembly",
+      "question": "Она не только выиграла, но и побила рекорд",
+      "correctAnswer": "Not only did she win but she also broke the record",
+      "options": [],
+      "variants": [
+        [
+          "Not",
+          "No",
+          "Nor",
+          "None"
+        ],
+        [
+          "only",
+          "just",
+          "merely",
+          "simply"
+        ],
+        [
+          "did",
+          "does",
+          "do",
+          "has"
+        ],
+        [
+          "she",
+          "her",
+          "hers",
+          "herself"
+        ],
+        [
+          "win",
+          "wins",
+          "won",
+          "winning"
+        ],
+        [
+          "but",
+          "and",
+          "or",
+          "yet"
+        ],
+        [
+          "she",
+          "her",
+          "hers",
+          "herself"
+        ],
+        [
+          "also",
+          "too",
+          "as well",
+          "either"
+        ],
+        [
+          "broke",
+          "break",
+          "breaks",
+          "breaking"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "record",
+          "records",
+          "recorded",
+          "recording"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_11_emphasis_fronting/006.mp3"
+    },
+    {
+      "id": "t11_8",
+      "type": "sentenceAssembly",
+      "question": "Ни при каких обстоятельствах вы не должны раскрывать пароль",
+      "correctAnswer": "Under no circumstances should you reveal the password",
+      "options": [],
+      "variants": [
+        [
+          "Under",
+          "In",
+          "At",
+          "On"
+        ],
+        [
+          "no",
+          "any",
+          "some",
+          "the"
+        ],
+        [
+          "circumstances",
+          "circumstance",
+          "conditions",
+          "situations"
+        ],
+        [
+          "should",
+          "shall",
+          "would",
+          "could"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "yourself"
+        ],
+        [
+          "reveal",
+          "reveals",
+          "revealed",
+          "revealing"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "your"
+        ],
+        [
+          "password",
+          "passwords",
+          "pass",
+          "passport"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_11_emphasis_fronting/007.mp3"
+    },
+    {
+      "id": "t11_9",
+      "type": "sentenceAssembly",
+      "question": "Что нас действительно беспокоит — это отсутствие прогресса",
+      "correctAnswer": "What really concerns us is the lack of progress",
+      "options": [],
+      "variants": [
+        [
+          "What",
+          "That",
+          "Which",
+          "How",
+          "Who"
+        ],
+        [
+          "really",
+          "real",
+          "reality",
+          "truly"
+        ],
+        [
+          "concerns",
+          "concern",
+          "concerned",
+          "concerning"
+        ],
+        [
+          "us",
+          "we",
+          "our",
+          "ours"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "lack",
+          "lacking",
+          "lacked",
+          "lacks"
+        ],
+        [
+          "of",
+          "for",
+          "in",
+          "at"
+        ],
+        [
+          "progress",
+          "progressive",
+          "progressed",
+          "progressing"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_11_emphasis_fronting/008.mp3"
+    },
+    {
+      "id": "t11_10",
+      "type": "sentenceAssembly",
+      "question": "Именно в Лондоне они впервые встретились",
+      "correctAnswer": "It was in London that they first met each other",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "There",
+          "That",
+          "This"
+        ],
+        [
+          "was",
+          "is",
+          "were",
+          "be"
+        ],
+        [
+          "in",
+          "at",
+          "on",
+          "to"
+        ],
+        [
+          "London",
+          "Paris",
+          "Rome",
+          "Berlin"
+        ],
+        [
+          "that",
+          "which",
+          "who",
+          "where"
+        ],
+        [
+          "they",
+          "them",
+          "their",
+          "themselves"
+        ],
+        [
+          "first",
+          "firstly",
+          "at first",
+          "initially"
+        ],
+        [
+          "met",
+          "meet",
+          "meets",
+          "meeting"
+        ],
+        [
+          "each",
+          "every",
+          "one",
+          "the"
+        ],
+        [
+          "other",
+          "another",
+          "others",
+          "else"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_11_emphasis_fronting/009.mp3"
+    },
+    {
+      "id": "t11_11",
+      "type": "sentenceAssembly",
+      "question": "Едва мы начали, как отключилось электричество",
+      "correctAnswer": "Scarcely had we begun when the electricity went out",
+      "options": [],
+      "variants": [
+        [
+          "Scarcely",
+          "Barely",
+          "Hardly",
+          "Nearly"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "did"
+        ],
+        [
+          "we",
+          "us",
+          "our",
+          "they"
+        ],
+        [
+          "begun",
+          "begin",
+          "begins",
+          "beginning"
+        ],
+        [
+          "when",
+          "than",
+          "that",
+          "before"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "electricity",
+          "electric",
+          "electrical",
+          "electrician"
+        ],
+        [
+          "went",
+          "goes",
+          "go",
+          "gone"
+        ],
+        [
+          "out",
+          "off",
+          "up",
+          "down"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_11_emphasis_fronting/010.mp3"
+    },
+    {
+      "id": "t11_12",
+      "type": "sentenceAssembly",
+      "question": "Это отнюдь не простая задача для новичков",
+      "correctAnswer": "By no means is this an easy task for beginners",
+      "options": [],
+      "variants": [
+        [
+          "By",
+          "In",
+          "At",
+          "On"
+        ],
+        [
+          "no",
+          "any",
+          "some",
+          "all"
+        ],
+        [
+          "means",
+          "mean",
+          "meant",
+          "meaning"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "this",
+          "that",
+          "it",
+          "there"
+        ],
+        [
+          "an",
+          "a",
+          "the",
+          "one"
+        ],
+        [
+          "easy",
+          "easily",
+          "easier",
+          "easiest"
+        ],
+        [
+          "task",
+          "tasks",
+          "work",
+          "job"
+        ],
+        [
+          "for",
+          "to",
+          "at",
+          "in"
+        ],
+        [
+          "beginners",
+          "beginner",
+          "beginning",
+          "begin"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_11_emphasis_fronting/011.mp3"
+    },
+    {
+      "id": "t11_13",
+      "type": "sentenceAssembly",
+      "question": "Именно ваш совет помог мне принять правильное решение",
+      "correctAnswer": "It was your advice that helped me make the right decision",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "There",
+          "That",
+          "This"
+        ],
+        [
+          "was",
+          "is",
+          "were",
+          "be"
+        ],
+        [
+          "your",
+          "you",
+          "yours",
+          "yourself"
+        ],
+        [
+          "advice",
+          "advise",
+          "advices",
+          "adviser"
+        ],
+        [
+          "that",
+          "which",
+          "who",
+          "what"
+        ],
+        [
+          "helped",
+          "help",
+          "helps",
+          "helping"
+        ],
+        [
+          "me",
+          "I",
+          "my",
+          "mine"
+        ],
+        [
+          "make",
+          "made",
+          "makes",
+          "making"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "right",
+          "rights",
+          "rightly",
+          "correct"
+        ],
+        [
+          "decision",
+          "decisions",
+          "decisive",
+          "decide"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_11_emphasis_fronting/012.mp3"
+    },
+    {
+      "id": "t11_14",
+      "type": "sentenceAssembly",
+      "question": "Ни в какой момент я не соглашался на этот план",
+      "correctAnswer": "At no time did I agree to this particular plan",
+      "options": [],
+      "variants": [
+        [
+          "At",
+          "In",
+          "On",
+          "By"
+        ],
+        [
+          "no",
+          "any",
+          "some",
+          "the"
+        ],
+        [
+          "time",
+          "times",
+          "moment",
+          "point"
+        ],
+        [
+          "did",
+          "do",
+          "does",
+          "has"
+        ],
+        [
+          "I",
+          "me",
+          "we",
+          "my"
+        ],
+        [
+          "agree",
+          "agrees",
+          "agreed",
+          "agreeing"
+        ],
+        [
+          "to",
+          "on",
+          "with",
+          "for"
+        ],
+        [
+          "this",
+          "that",
+          "the",
+          "a"
+        ],
+        [
+          "particular",
+          "particularly",
+          "peculiar",
+          "specific"
+        ],
+        [
+          "plan",
+          "plans",
+          "planned",
+          "planning"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_11_emphasis_fronting/013.mp3"
+    },
+    {
+      "id": "t11_15",
+      "type": "sentenceAssembly",
+      "question": "Что меня удивляет — это его полное безразличие",
+      "correctAnswer": "What surprises me is his complete indifference to everything",
+      "options": [],
+      "variants": [
+        [
+          "What",
+          "That",
+          "Which",
+          "How",
+          "Who"
+        ],
+        [
+          "surprises",
+          "surprise",
+          "surprised",
+          "surprising"
+        ],
+        [
+          "me",
+          "I",
+          "my",
+          "mine"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "his",
+          "he",
+          "him",
+          "their"
+        ],
+        [
+          "complete",
+          "completely",
+          "completing",
+          "completed"
+        ],
+        [
+          "indifference",
+          "indifferent",
+          "difference",
+          "different"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "everything",
+          "everyone",
+          "anything",
+          "something"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_11_emphasis_fronting/014.mp3"
+    },
+    {
+      "id": "t11_16",
+      "type": "sentenceAssembly",
+      "question": "Едва он произнёс эти слова, как зал взорвался аплодисментами",
+      "correctAnswer": "Hardly had he spoken those words when the hall erupted in applause",
+      "options": [],
+      "variants": [
+        [
+          "Hardly",
+          "Barely",
+          "Nearly",
+          "Lately"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "did"
+        ],
+        [
+          "he",
+          "him",
+          "his",
+          "himself"
+        ],
+        [
+          "spoken",
+          "speak",
+          "speaks",
+          "spoke"
+        ],
+        [
+          "those",
+          "these",
+          "that",
+          "the"
+        ],
+        [
+          "words",
+          "word",
+          "worded",
+          "wording"
+        ],
+        [
+          "when",
+          "than",
+          "that",
+          "before"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "hall",
+          "halls",
+          "hole",
+          "whole"
+        ],
+        [
+          "erupted",
+          "erupt",
+          "erupts",
+          "erupting"
+        ],
+        [
+          "in",
+          "on",
+          "at",
+          "with"
+        ],
+        [
+          "applause",
+          "applauded",
+          "applauding",
+          "application"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_11_emphasis_fronting/015.mp3"
+    },
+    {
+      "id": "t11_17",
+      "type": "sentenceAssembly",
+      "question": "Именно дождь вызвал задержку рейса",
+      "correctAnswer": "It was the heavy rain that caused the flight delay",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "There",
+          "That",
+          "This"
+        ],
+        [
+          "was",
+          "is",
+          "were",
+          "be"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "heavy",
+          "heavily",
+          "heavier",
+          "heaviest"
+        ],
+        [
+          "rain",
+          "rains",
+          "rained",
+          "raining"
+        ],
+        [
+          "that",
+          "which",
+          "who",
+          "what"
+        ],
+        [
+          "caused",
+          "cause",
+          "causes",
+          "causing"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "flight",
+          "flights",
+          "fly",
+          "flying"
+        ],
+        [
+          "delay",
+          "delays",
+          "delayed",
+          "delaying"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_11_emphasis_fronting/016.mp3"
+    },
+    {
+      "id": "t11_18",
+      "type": "sentenceAssembly",
+      "question": "Только после провала он осознал свои ошибки",
+      "correctAnswer": "Only after the failure did he realize his mistakes",
+      "options": [],
+      "variants": [
+        [
+          "Only",
+          "Just",
+          "Merely",
+          "Simply"
+        ],
+        [
+          "after",
+          "before",
+          "during",
+          "since"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "his"
+        ],
+        [
+          "failure",
+          "failures",
+          "failing",
+          "failed"
+        ],
+        [
+          "did",
+          "do",
+          "does",
+          "has"
+        ],
+        [
+          "he",
+          "him",
+          "his",
+          "himself"
+        ],
+        [
+          "realize",
+          "realizes",
+          "realized",
+          "realizing"
+        ],
+        [
+          "his",
+          "he",
+          "him",
+          "their"
+        ],
+        [
+          "mistakes",
+          "mistake",
+          "mistaken",
+          "mistaking"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_11_emphasis_fronting/017.mp3"
+    },
+    {
+      "id": "t11_19",
+      "type": "sentenceAssembly",
+      "question": "Что мне больше всего нравится — это тишина по утрам",
+      "correctAnswer": "What I enjoy most is the silence in the morning",
+      "options": [],
+      "variants": [
+        [
+          "What",
+          "That",
+          "Which",
+          "How",
+          "Who"
+        ],
+        [
+          "I",
+          "me",
+          "my",
+          "we"
+        ],
+        [
+          "enjoy",
+          "enjoys",
+          "enjoyed",
+          "enjoying"
+        ],
+        [
+          "most",
+          "more",
+          "much",
+          "mostly"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "silence",
+          "silent",
+          "silently",
+          "silenced"
+        ],
+        [
+          "in",
+          "on",
+          "at",
+          "for"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "morning",
+          "mornings",
+          "evening",
+          "night"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_11_emphasis_fronting/018.mp3"
+    },
+    {
+      "id": "t11_20",
+      "type": "sentenceAssembly",
+      "question": "Не только он опоздал, но ещё и забыл документы",
+      "correctAnswer": "Not only was he late but he also forgot the documents",
+      "options": [],
+      "variants": [
+        [
+          "Not",
+          "No",
+          "Nor",
+          "None"
+        ],
+        [
+          "only",
+          "just",
+          "merely",
+          "simply"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "did"
+        ],
+        [
+          "he",
+          "him",
+          "his",
+          "himself"
+        ],
+        [
+          "late",
+          "lately",
+          "later",
+          "latest"
+        ],
+        [
+          "but",
+          "and",
+          "or",
+          "yet"
+        ],
+        [
+          "he",
+          "him",
+          "his",
+          "himself"
+        ],
+        [
+          "also",
+          "too",
+          "either",
+          "neither"
+        ],
+        [
+          "forgot",
+          "forget",
+          "forgets",
+          "forgetting"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "his"
+        ],
+        [
+          "documents",
+          "document",
+          "documented",
+          "documenting"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_11_emphasis_fronting/019.mp3"
+    },
+    {
+      "id": "t11_21",
+      "type": "sentenceAssembly",
+      "question": "Именно честность делает его таким уважаемым лидером",
+      "correctAnswer": "It is his honesty that makes him such a respected leader",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "There",
+          "That",
+          "This"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "his",
+          "he",
+          "him",
+          "their"
+        ],
+        [
+          "honesty",
+          "honest",
+          "honestly",
+          "honor"
+        ],
+        [
+          "that",
+          "which",
+          "who",
+          "what"
+        ],
+        [
+          "makes",
+          "make",
+          "made",
+          "making"
+        ],
+        [
+          "him",
+          "he",
+          "his",
+          "himself"
+        ],
+        [
+          "such",
+          "so",
+          "this",
+          "that"
+        ],
+        [
+          "a",
+          "the",
+          "an",
+          "one"
+        ],
+        [
+          "respected",
+          "respect",
+          "respectful",
+          "respectable"
+        ],
+        [
+          "leader",
+          "leaders",
+          "leading",
+          "lead"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_11_emphasis_fronting/020.mp3"
+    },
+    {
+      "id": "t11_22",
+      "type": "sentenceAssembly",
+      "question": "Нигде я не чувствовал себя настолько дома, как здесь",
+      "correctAnswer": "Nowhere have I felt so much at home as here",
+      "options": [],
+      "variants": [
+        [
+          "Nowhere",
+          "Everywhere",
+          "Somewhere",
+          "Anywhere"
+        ],
+        [
+          "have",
+          "had",
+          "has",
+          "did"
+        ],
+        [
+          "I",
+          "me",
+          "we",
+          "my"
+        ],
+        [
+          "felt",
+          "feel",
+          "feels",
+          "feeling"
+        ],
+        [
+          "so",
+          "such",
+          "very",
+          "too"
+        ],
+        [
+          "much",
+          "many",
+          "more",
+          "most"
+        ],
+        [
+          "at",
+          "in",
+          "on",
+          "to"
+        ],
+        [
+          "home",
+          "house",
+          "homes",
+          "housed"
+        ],
+        [
+          "as",
+          "like",
+          "than",
+          "that"
+        ],
+        [
+          "here",
+          "there",
+          "where",
+          "everywhere"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_11_emphasis_fronting/021.mp3"
+    },
+    {
+      "id": "t11_23",
+      "type": "sentenceAssembly",
+      "question": "Что делает этот город уникальным — это его архитектура",
+      "correctAnswer": "What makes this city unique is its stunning architecture",
+      "options": [],
+      "variants": [
+        [
+          "What",
+          "That",
+          "Which",
+          "How",
+          "Who"
+        ],
+        [
+          "makes",
+          "make",
+          "made",
+          "making"
+        ],
+        [
+          "this",
+          "that",
+          "the",
+          "a"
+        ],
+        [
+          "city",
+          "cities",
+          "town",
+          "village"
+        ],
+        [
+          "unique",
+          "uniquely",
+          "unity",
+          "universal"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "its",
+          "it's",
+          "their",
+          "his"
+        ],
+        [
+          "stunning",
+          "stunned",
+          "stun",
+          "stunningly"
+        ],
+        [
+          "architecture",
+          "architect",
+          "architectural",
+          "archive"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_11_emphasis_fronting/022.mp3"
+    },
+    {
+      "id": "t11_24",
+      "type": "sentenceAssembly",
+      "question": "Только тогда я понял, насколько серьёзной была ситуация",
+      "correctAnswer": "Not until then did I understand how serious the situation was",
+      "options": [],
+      "variants": [
+        [
+          "Not",
+          "No",
+          "Nor",
+          "None"
+        ],
+        [
+          "until",
+          "before",
+          "after",
+          "since"
+        ],
+        [
+          "then",
+          "than",
+          "there",
+          "that"
+        ],
+        [
+          "did",
+          "do",
+          "does",
+          "has"
+        ],
+        [
+          "I",
+          "me",
+          "we",
+          "my"
+        ],
+        [
+          "understand",
+          "understands",
+          "understood",
+          "understanding"
+        ],
+        [
+          "how",
+          "what",
+          "that",
+          "which"
+        ],
+        [
+          "serious",
+          "seriously",
+          "severe",
+          "several"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "situation",
+          "situations",
+          "situated",
+          "situating"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "be"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_11_emphasis_fronting/023.mp3"
+    },
+    {
+      "id": "t11_25",
+      "type": "sentenceAssembly",
+      "question": "Именно на этом заводе производятся лучшие автомобили",
+      "correctAnswer": "It is at this factory that the best cars are produced",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "There",
+          "That",
+          "This"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "at",
+          "in",
+          "on",
+          "to"
+        ],
+        [
+          "this",
+          "that",
+          "the",
+          "a"
+        ],
+        [
+          "factory",
+          "factories",
+          "factored",
+          "factor"
+        ],
+        [
+          "that",
+          "which",
+          "who",
+          "where"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "these"
+        ],
+        [
+          "best",
+          "better",
+          "good",
+          "greatest"
+        ],
+        [
+          "cars",
+          "car",
+          "card",
+          "care"
+        ],
+        [
+          "are",
+          "is",
+          "was",
+          "were"
+        ],
+        [
+          "produced",
+          "produce",
+          "produces",
+          "producing"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_11_emphasis_fronting/024.mp3"
+    },
+    {
+      "id": "t11_26",
+      "type": "sentenceAssembly",
+      "question": "С трудом она могла сдержать слёзы во время речи",
+      "correctAnswer": "Barely could she hold back tears during the speech",
+      "options": [],
+      "variants": [
+        [
+          "Barely",
+          "Nearly",
+          "Merely",
+          "Lately"
+        ],
+        [
+          "could",
+          "can",
+          "would",
+          "should"
+        ],
+        [
+          "she",
+          "her",
+          "hers",
+          "herself"
+        ],
+        [
+          "hold",
+          "holds",
+          "held",
+          "holding"
+        ],
+        [
+          "back",
+          "up",
+          "down",
+          "off"
+        ],
+        [
+          "tears",
+          "tear",
+          "tearing",
+          "tore"
+        ],
+        [
+          "during",
+          "while",
+          "when",
+          "at"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "her"
+        ],
+        [
+          "speech",
+          "speeches",
+          "speak",
+          "speaker"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_11_emphasis_fronting/025.mp3"
+    },
+    {
+      "id": "t11_27",
+      "type": "sentenceAssembly",
+      "question": "Что мы должны сделать — это полностью пересмотреть стратегию",
+      "correctAnswer": "What we must do is completely revise our current strategy",
+      "options": [],
+      "variants": [
+        [
+          "What",
+          "That",
+          "Which",
+          "How",
+          "Who"
+        ],
+        [
+          "we",
+          "us",
+          "our",
+          "ours"
+        ],
+        [
+          "must",
+          "should",
+          "can",
+          "may"
+        ],
+        [
+          "do",
+          "does",
+          "did",
+          "doing"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "completely",
+          "complete",
+          "completing",
+          "completed"
+        ],
+        [
+          "revise",
+          "revises",
+          "revised",
+          "revising"
+        ],
+        [
+          "our",
+          "we",
+          "us",
+          "their"
+        ],
+        [
+          "current",
+          "currently",
+          "currency",
+          "currant"
+        ],
+        [
+          "strategy",
+          "strategies",
+          "strategic",
+          "strategize"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_11_emphasis_fronting/026.mp3"
+    },
+    {
+      "id": "t11_28",
+      "type": "sentenceAssembly",
+      "question": "Ни разу он не извинился за своё поведение",
+      "correctAnswer": "Not once did he apologize for his unacceptable behavior",
+      "options": [],
+      "variants": [
+        [
+          "Not",
+          "No",
+          "Nor",
+          "None"
+        ],
+        [
+          "once",
+          "one",
+          "ones",
+          "only"
+        ],
+        [
+          "did",
+          "do",
+          "does",
+          "has"
+        ],
+        [
+          "he",
+          "him",
+          "his",
+          "himself"
+        ],
+        [
+          "apologize",
+          "apologizes",
+          "apologized",
+          "apologizing"
+        ],
+        [
+          "for",
+          "of",
+          "to",
+          "about"
+        ],
+        [
+          "his",
+          "he",
+          "him",
+          "their"
+        ],
+        [
+          "unacceptable",
+          "acceptable",
+          "accepted",
+          "accepting"
+        ],
+        [
+          "behavior",
+          "behaviors",
+          "behave",
+          "behaving"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_11_emphasis_fronting/027.mp3"
+    },
+    {
+      "id": "t11_29",
+      "type": "sentenceAssembly",
+      "question": "Именно этот момент изменил ход всей истории",
+      "correctAnswer": "It was precisely this moment that changed the entire course of history",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "There",
+          "That",
+          "This"
+        ],
+        [
+          "was",
+          "is",
+          "were",
+          "be"
+        ],
+        [
+          "precisely",
+          "precise",
+          "previously",
+          "primarily"
+        ],
+        [
+          "this",
+          "that",
+          "the",
+          "a"
+        ],
+        [
+          "moment",
+          "moments",
+          "momentum",
+          "momentary"
+        ],
+        [
+          "that",
+          "which",
+          "who",
+          "what"
+        ],
+        [
+          "changed",
+          "change",
+          "changes",
+          "changing"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "entire",
+          "entirely",
+          "enter",
+          "entice"
+        ],
+        [
+          "course",
+          "courses",
+          "coarse",
+          "cause"
+        ],
+        [
+          "of",
+          "for",
+          "in",
+          "to"
+        ],
+        [
+          "history",
+          "histories",
+          "historic",
+          "historical"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_11_emphasis_fronting/028.mp3"
+    },
+    {
+      "id": "t11_30",
+      "type": "sentenceAssembly",
+      "question": "Лишь после долгих переговоров стороны пришли к соглашению",
+      "correctAnswer": "Only after lengthy negotiations did the parties reach an agreement",
+      "options": [],
+      "variants": [
+        [
+          "Only",
+          "Just",
+          "Merely",
+          "Simply"
+        ],
+        [
+          "after",
+          "before",
+          "during",
+          "since"
+        ],
+        [
+          "lengthy",
+          "length",
+          "long",
+          "longing"
+        ],
+        [
+          "negotiations",
+          "negotiation",
+          "negotiating",
+          "negotiated"
+        ],
+        [
+          "did",
+          "do",
+          "does",
+          "has"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "both"
+        ],
+        [
+          "parties",
+          "party",
+          "parts",
+          "partial"
+        ],
+        [
+          "reach",
+          "reaches",
+          "reached",
+          "reaching"
+        ],
+        [
+          "an",
+          "a",
+          "the",
+          "this"
+        ],
+        [
+          "agreement",
+          "agreements",
+          "agreeing",
+          "agreed"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_11_emphasis_fronting/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionAdvanced11EmphasisFronting"
+}

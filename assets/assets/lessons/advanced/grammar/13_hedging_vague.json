@@ -1,0 +1,2489 @@
+{
+  "id": "advanced_13_hedging_vague",
+  "title": "Hedging & Vague Language",
+  "description": "Смягчение высказываний: It seems, I tend to think, sort of, kind of. Дипломатичность в речи.",
+  "order": 13,
+  "level": "advanced",
+  "imageUrl": "assets/images/lessons/hedging_vague.png",
+  "vocabulary": [
+    {
+      "id": "v13_seem",
+      "english": "seem",
+      "russian": "казаться, по-видимому",
+      "partOfSpeech": "verb",
+      "example": "It seems unlikely that they will agree.",
+      "exampleTranslation": "Представляется маловероятным, что они согласятся.",
+      "audioPath": "assets/audio/vocabulary/v13_seem.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_seem.mp3"
+    },
+    {
+      "id": "v13_tend",
+      "english": "tend to",
+      "russian": "склоняться к, как правило",
+      "partOfSpeech": "verb",
+      "example": "I tend to think it was a mistake.",
+      "exampleTranslation": "Я склоняюсь к мысли, что это была ошибка.",
+      "audioPath": "assets/audio/vocabulary/v13_tend.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_tend.mp3"
+    },
+    {
+      "id": "v13_arguably",
+      "english": "arguably",
+      "russian": "возможно, пожалуй",
+      "partOfSpeech": "adverb",
+      "example": "This is arguably the best solution available.",
+      "exampleTranslation": "Это, пожалуй, лучшее доступное решение.",
+      "audioPath": "assets/audio/vocabulary/v13_arguably.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_arguably.mp3"
+    },
+    {
+      "id": "v13_apparently",
+      "english": "apparently",
+      "russian": "по-видимому, очевидно",
+      "partOfSpeech": "adverb",
+      "example": "Apparently, they have already made their decision.",
+      "exampleTranslation": "По-видимому, они уже приняли решение.",
+      "audioPath": "assets/audio/vocabulary/v13_apparently.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_apparently.mp3"
+    },
+    {
+      "id": "v13_somewhat",
+      "english": "somewhat",
+      "russian": "до некоторой степени, несколько",
+      "partOfSpeech": "adverb",
+      "example": "The results were somewhat disappointing.",
+      "exampleTranslation": "Результаты были несколько разочаровывающими.",
+      "audioPath": "assets/audio/vocabulary/v13_somewhat.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_somewhat.mp3"
+    },
+    {
+      "id": "v13_presumably",
+      "english": "presumably",
+      "russian": "предположительно, вероятно",
+      "partOfSpeech": "adverb",
+      "example": "Presumably, he will attend the meeting.",
+      "exampleTranslation": "Предположительно, он посетит встречу.",
+      "audioPath": "assets/audio/vocabulary/v13_presumably.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_presumably.mp3"
+    },
+    {
+      "id": "v13_sort_of",
+      "english": "sort of",
+      "russian": "вроде как, типа",
+      "partOfSpeech": "phrase",
+      "example": "It was sort of unexpected.",
+      "exampleTranslation": "Это было вроде как неожиданно.",
+      "audioPath": "assets/audio/vocabulary/v13_sort_of.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_sort_of.mp3"
+    },
+    {
+      "id": "v13_kind_of",
+      "english": "kind of",
+      "russian": "как бы, вроде",
+      "partOfSpeech": "phrase",
+      "example": "I kind of agree with you.",
+      "exampleTranslation": "Я как бы согласен с тобой.",
+      "audioPath": "assets/audio/vocabulary/v13_kind_of.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_kind_of.mp3"
+    },
+    {
+      "id": "v13_likely",
+      "english": "likely",
+      "russian": "вероятно, скорее всего",
+      "partOfSpeech": "adverb",
+      "example": "They will most likely accept the offer.",
+      "exampleTranslation": "Они, скорее всего, примут предложение.",
+      "audioPath": "assets/audio/vocabulary/v13_likely.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_likely.mp3"
+    },
+    {
+      "id": "v13_perhaps",
+      "english": "perhaps",
+      "russian": "возможно, может быть",
+      "partOfSpeech": "adverb",
+      "example": "Perhaps we should reconsider our approach.",
+      "exampleTranslation": "Возможно, нам следует пересмотреть наш подход.",
+      "audioPath": "assets/audio/vocabulary/v13_perhaps.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_perhaps.mp3"
+    },
+    {
+      "id": "v13_to_some_extent",
+      "english": "to some extent",
+      "russian": "в некоторой степени",
+      "partOfSpeech": "phrase",
+      "example": "To some extent, I agree with his argument.",
+      "exampleTranslation": "В некоторой степени я согласен с его аргументом.",
+      "audioPath": "assets/audio/vocabulary/v13_to_some_extent.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_to_some_extent.mp3"
+    },
+    {
+      "id": "v13_relatively",
+      "english": "relatively",
+      "russian": "относительно",
+      "partOfSpeech": "adverb",
+      "example": "The task was relatively straightforward.",
+      "exampleTranslation": "Задача была относительно простой.",
+      "audioPath": "assets/audio/vocabulary/v13_relatively.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_relatively.mp3"
+    },
+    {
+      "id": "v13_tend_to_suggest",
+      "english": "tend to suggest",
+      "russian": "скорее указывать на",
+      "partOfSpeech": "phrase",
+      "example": "The evidence tends to suggest a different conclusion.",
+      "exampleTranslation": "Данные скорее указывают на другой вывод.",
+      "audioPath": "assets/audio/vocabulary/v13_tend_to_suggest.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_tend_to_suggest.mp3"
+    },
+    {
+      "id": "v13_indicate",
+      "english": "indicate",
+      "russian": "указывать, свидетельствовать",
+      "partOfSpeech": "verb",
+      "example": "The results indicate a possible correlation.",
+      "exampleTranslation": "Результаты указывают на возможную корреляцию.",
+      "audioPath": "assets/audio/vocabulary/v13_indicate.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_indicate.mp3"
+    },
+    {
+      "id": "v13_broadly",
+      "english": "broadly",
+      "russian": "в целом, в общих чертах",
+      "partOfSpeech": "adverb",
+      "example": "I broadly agree with the proposal.",
+      "exampleTranslation": "В целом я согласен с предложением.",
+      "audioPath": "assets/audio/vocabulary/v13_broadly.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_broadly.mp3"
+    },
+    {
+      "id": "v13_conceivable",
+      "english": "conceivable",
+      "russian": "мыслимый, возможный",
+      "partOfSpeech": "adjective",
+      "example": "It is conceivable that the plan could work.",
+      "exampleTranslation": "Возможно, что план мог бы сработать.",
+      "audioPath": "assets/audio/vocabulary/v13_conceivable.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_conceivable.mp3"
+    },
+    {
+      "id": "v13_inclined",
+      "english": "inclined",
+      "russian": "склонный",
+      "partOfSpeech": "adjective",
+      "example": "I would be inclined to disagree.",
+      "exampleTranslation": "Я был бы склонен не согласиться.",
+      "audioPath": "assets/audio/vocabulary/v13_inclined.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_inclined.mp3"
+    },
+    {
+      "id": "v13_tentative",
+      "english": "tentative",
+      "russian": "предварительный, неуверенный",
+      "partOfSpeech": "adjective",
+      "example": "These are only tentative conclusions.",
+      "exampleTranslation": "Это лишь предварительные выводы.",
+      "audioPath": "assets/audio/vocabulary/v13_tentative.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_tentative.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "Hedging & Vague Language",
+    "subtitle": "Hedging (смягчение) — способ сделать высказывание менее категоричным. В академическом и деловом английском прямолинейность считается невежливой. Умение использовать hedging — признак зрелого владения языком.",
+    "construction": {
+      "formula": "Hedging word/phrase + main statement",
+      "rules": [
+        {
+          "word": "Modal hedges",
+          "description": "might, could, may, would — смягчают утверждение: This could be the reason."
+        },
+        {
+          "word": "Adverb hedges",
+          "description": "perhaps, arguably, presumably, apparently, somewhat, relatively — вставляются в предложение."
+        },
+        {
+          "word": "Verb hedges",
+          "description": "seem, tend, appear, suggest, indicate — делают утверждение менее категоричным."
+        },
+        {
+          "word": "Phrase hedges",
+          "description": "sort of, kind of, to some extent, broadly speaking — добавляют неопределённость."
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "handshake",
+        "color": "blue",
+        "title": "Академическое письмо",
+        "description": "Учёные почти никогда не пишут This IS the cause. Они пишут This appears to be the cause.",
+        "example": {
+          "english": "The data tends to suggest a correlation between the variables.",
+          "russian": "Данные скорее указывают на корреляцию между переменными."
+        }
+      },
+      {
+        "icon": "groups",
+        "color": "purple",
+        "title": "Деловое общение",
+        "description": "Для дипломатичности и избегания конфликтов в переговорах.",
+        "example": {
+          "english": "I would be inclined to suggest a different approach.",
+          "russian": "Я был бы склонен предложить другой подход."
+        }
+      },
+      {
+        "icon": "waving_hand",
+        "color": "orange",
+        "title": "Разговорная речь",
+        "description": "Sort of, kind of, like — смягчители в неформальной речи.",
+        "example": {
+          "english": "It was kind of unexpected, to be honest.",
+          "russian": "Это было вроде как неожиданно, если честно."
+        }
+      },
+      {
+        "icon": "visibility",
+        "color": "green",
+        "title": "Осторожные оценки",
+        "description": "Когда нет 100% уверенности в информации.",
+        "example": {
+          "english": "Presumably, the meeting has been postponed.",
+          "russian": "Предположительно, встреча была перенесена."
+        }
+      }
+    ],
+    "markers": [
+      "it seems",
+      "tend to",
+      "arguably",
+      "apparently",
+      "somewhat",
+      "presumably",
+      "sort of",
+      "kind of",
+      "perhaps",
+      "to some extent",
+      "broadly speaking",
+      "relatively"
+    ]
+  },
+  "theoryQuiz": [
+    {
+      "id": "tq_13_01",
+      "type": "multipleChoice",
+      "question": "Какое предложение является примером hedging?",
+      "options": [
+        "This IS the best solution.",
+        "This is arguably the best solution.",
+        "This is definitely the best solution.",
+        "This must be the best solution."
+      ],
+      "correctIndex": 1,
+      "explanation": "Arguably смягчает утверждение: «пожалуй, это лучшее решение» — оставляет место для других мнений."
+    },
+    {
+      "id": "tq_13_02",
+      "type": "multipleChoice",
+      "question": "Какое слово НЕ является hedging?",
+      "options": [
+        "perhaps",
+        "definitely",
+        "arguably",
+        "presumably"
+      ],
+      "correctIndex": 1,
+      "explanation": "Definitely — усиливает утверждение (категорично). Perhaps, arguably, presumably — смягчают."
+    },
+    {
+      "id": "tq_13_03",
+      "type": "trueFalse",
+      "question": "\"I tend to think\" мягче, чем \"I think\".",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tend to think = склоняюсь к мысли — менее категоричное высказывание, чем прямое I think."
+    },
+    {
+      "id": "tq_13_04",
+      "type": "multipleChoice",
+      "question": "Выберите наиболее дипломатичный вариант:",
+      "options": [
+        "You are wrong.",
+        "I would suggest that perhaps there is a different perspective.",
+        "That's totally incorrect.",
+        "No way, you're mistaken."
+      ],
+      "correctIndex": 1,
+      "explanation": "Would suggest + perhaps — двойной hedging, максимально дипломатичная формулировка."
+    },
+    {
+      "id": "tq_13_05",
+      "type": "multipleChoice",
+      "question": "В каком контексте hedging используется чаще всего?",
+      "options": [
+        "В рекламе",
+        "В академических статьях",
+        "В рецептах",
+        "В спортивных репортажах"
+      ],
+      "correctIndex": 1,
+      "explanation": "В академическом английском hedging — обязательный элемент. Учёные избегают категоричных утверждений."
+    },
+    {
+      "id": "tq_13_06",
+      "type": "trueFalse",
+      "question": "\"Sort of\" и \"kind of\" используются в формальном академическом письме.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sort of и kind of — разговорные hedging-выражения. В академическом письме используются somewhat, to some extent."
+    },
+    {
+      "id": "tq_13_07",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"The results ___ a possible connection.\"",
+      "options": [
+        "prove",
+        "definitely show",
+        "tend to suggest",
+        "certainly demonstrate"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tend to suggest — мягкая формулировка для предварительных выводов. Prove и certainly demonstrate — слишком категоричны."
+    },
+    {
+      "id": "tq_13_08",
+      "type": "multipleChoice",
+      "question": "Какой модальный глагол чаще всего используется для hedging?",
+      "options": [
+        "must",
+        "shall",
+        "might",
+        "will"
+      ],
+      "correctIndex": 2,
+      "explanation": "Might — самый мягкий модальный глагол, часто используется для hedging. Must и will — категоричные."
+    },
+    {
+      "id": "tq_13_09",
+      "type": "trueFalse",
+      "question": "\"Apparently\" означает, что говорящий уверен в информации на 100%.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "Apparently = по-видимому, как кажется. Говорящий передаёт информацию из вторых рук, не гарантируя точность."
+    },
+    {
+      "id": "tq_13_10",
+      "type": "multipleChoice",
+      "question": "Преобразуйте с hedging: \"The economy will collapse.\"",
+      "options": [
+        "The economy might possibly collapse.",
+        "The economy will definitely collapse.",
+        "The economy has collapsed.",
+        "The economy always collapses."
+      ],
+      "correctIndex": 0,
+      "explanation": "Might + possibly — двойной hedging, смягчающий категоричное утверждение."
+    }
+  ],
+  "tasks": [
+    {
+      "id": "t13_1",
+      "type": "sentenceAssembly",
+      "question": "Представляется маловероятным, что они согласятся на эти условия",
+      "correctAnswer": "It seems unlikely that they will agree to these terms",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "There",
+          "That",
+          "This"
+        ],
+        [
+          "seems",
+          "seem",
+          "seemed",
+          "seeming"
+        ],
+        [
+          "unlikely",
+          "likely",
+          "unlike",
+          "liking"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "how"
+        ],
+        [
+          "they",
+          "them",
+          "their",
+          "themselves"
+        ],
+        [
+          "will",
+          "would",
+          "shall",
+          "should"
+        ],
+        [
+          "agree",
+          "agrees",
+          "agreed",
+          "agreeing"
+        ],
+        [
+          "to",
+          "on",
+          "for",
+          "with"
+        ],
+        [
+          "these",
+          "those",
+          "the",
+          "this"
+        ],
+        [
+          "terms",
+          "term",
+          "termination",
+          "terminal"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_13_hedging_vague/000.mp3"
+    },
+    {
+      "id": "t13_2",
+      "type": "sentenceAssembly",
+      "question": "Я склоняюсь к мысли, что это была ошибка",
+      "correctAnswer": "I tend to think that it was probably a mistake",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "We",
+          "He",
+          "Me"
+        ],
+        [
+          "tend",
+          "tends",
+          "tended",
+          "tending"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "think",
+          "thinks",
+          "thought",
+          "thinking"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "how"
+        ],
+        [
+          "it",
+          "that",
+          "this",
+          "he"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "be"
+        ],
+        [
+          "probably",
+          "probable",
+          "perhaps",
+          "possibly"
+        ],
+        [
+          "a",
+          "the",
+          "an",
+          "this"
+        ],
+        [
+          "mistake",
+          "mistakes",
+          "mistaken",
+          "mistaking"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_13_hedging_vague/001.mp3"
+    },
+    {
+      "id": "t13_3",
+      "type": "sentenceAssembly",
+      "question": "Это, пожалуй, лучшее доступное решение на данный момент",
+      "correctAnswer": "This is arguably the best solution available at this time",
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "That",
+          "It",
+          "There"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "arguably",
+          "arguing",
+          "argued",
+          "arguable"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "one"
+        ],
+        [
+          "best",
+          "better",
+          "good",
+          "greatest"
+        ],
+        [
+          "solution",
+          "solutions",
+          "solve",
+          "solving"
+        ],
+        [
+          "available",
+          "availability",
+          "avail",
+          "unavailable"
+        ],
+        [
+          "at",
+          "in",
+          "on",
+          "for"
+        ],
+        [
+          "this",
+          "that",
+          "the",
+          "a"
+        ],
+        [
+          "time",
+          "times",
+          "timing",
+          "moment"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_13_hedging_vague/002.mp3"
+    },
+    {
+      "id": "t13_4",
+      "type": "sentenceAssembly",
+      "question": "По-видимому, они уже приняли окончательное решение",
+      "correctAnswer": "Apparently they have already made their final decision",
+      "options": [],
+      "variants": [
+        [
+          "Apparently",
+          "Obviously",
+          "Clearly",
+          "Certainly"
+        ],
+        [
+          "they",
+          "them",
+          "their",
+          "themselves"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        [
+          "already",
+          "yet",
+          "still",
+          "always"
+        ],
+        [
+          "made",
+          "make",
+          "makes",
+          "making"
+        ],
+        [
+          "their",
+          "they",
+          "them",
+          "his"
+        ],
+        [
+          "final",
+          "finally",
+          "finish",
+          "finite"
+        ],
+        [
+          "decision",
+          "decisions",
+          "decisive",
+          "decided"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_13_hedging_vague/003.mp3"
+    },
+    {
+      "id": "t13_5",
+      "type": "sentenceAssembly",
+      "question": "Результаты были несколько разочаровывающими для команды",
+      "correctAnswer": "The results were somewhat disappointing for the entire team",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "These",
+          "Those"
+        ],
+        [
+          "results",
+          "result",
+          "resulting",
+          "resulted"
+        ],
+        [
+          "were",
+          "was",
+          "is",
+          "be"
+        ],
+        [
+          "somewhat",
+          "somewhere",
+          "somehow",
+          "sometimes"
+        ],
+        [
+          "disappointing",
+          "disappointed",
+          "disappoint",
+          "disappointment"
+        ],
+        [
+          "for",
+          "to",
+          "at",
+          "in"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "entire",
+          "entirely",
+          "enter",
+          "whole"
+        ],
+        [
+          "team",
+          "teams",
+          "staff",
+          "group"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_13_hedging_vague/004.mp3"
+    },
+    {
+      "id": "t13_6",
+      "type": "sentenceAssembly",
+      "question": "Предположительно, он посетит конференцию на следующей неделе",
+      "correctAnswer": "Presumably he will attend the conference next week",
+      "options": [],
+      "variants": [
+        [
+          "Presumably",
+          "Certainly",
+          "Definitely",
+          "Obviously"
+        ],
+        [
+          "he",
+          "him",
+          "his",
+          "himself"
+        ],
+        [
+          "will",
+          "would",
+          "shall",
+          "should"
+        ],
+        [
+          "attend",
+          "attends",
+          "attended",
+          "attending"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "conference",
+          "conferences",
+          "conferring",
+          "conferred"
+        ],
+        [
+          "next",
+          "last",
+          "this",
+          "that"
+        ],
+        [
+          "week",
+          "weeks",
+          "month",
+          "year"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_13_hedging_vague/005.mp3"
+    },
+    {
+      "id": "t13_7",
+      "type": "sentenceAssembly",
+      "question": "Возможно, нам следует пересмотреть наш подход к проблеме",
+      "correctAnswer": "Perhaps we should reconsider our approach to this problem",
+      "options": [],
+      "variants": [
+        [
+          "Perhaps",
+          "Definitely",
+          "Certainly",
+          "Always"
+        ],
+        [
+          "we",
+          "us",
+          "our",
+          "ours"
+        ],
+        [
+          "should",
+          "must",
+          "shall",
+          "will"
+        ],
+        [
+          "reconsider",
+          "reconsiders",
+          "reconsidered",
+          "reconsidering"
+        ],
+        [
+          "our",
+          "we",
+          "us",
+          "their"
+        ],
+        [
+          "approach",
+          "approaches",
+          "approached",
+          "approaching"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "this",
+          "that",
+          "the",
+          "a"
+        ],
+        [
+          "problem",
+          "problems",
+          "problematic",
+          "trouble"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_13_hedging_vague/006.mp3"
+    },
+    {
+      "id": "t13_8",
+      "type": "sentenceAssembly",
+      "question": "В некоторой степени я согласен с его аргументом",
+      "correctAnswer": "To some extent I agree with his argument on this matter",
+      "options": [],
+      "variants": [
+        [
+          "To",
+          "In",
+          "At",
+          "For"
+        ],
+        [
+          "some",
+          "any",
+          "the",
+          "a"
+        ],
+        [
+          "extent",
+          "extends",
+          "extended",
+          "extension"
+        ],
+        [
+          "I",
+          "we",
+          "he",
+          "me"
+        ],
+        [
+          "agree",
+          "agrees",
+          "agreed",
+          "agreeing"
+        ],
+        [
+          "with",
+          "to",
+          "on",
+          "for"
+        ],
+        [
+          "his",
+          "he",
+          "him",
+          "their"
+        ],
+        [
+          "argument",
+          "arguments",
+          "arguing",
+          "argued"
+        ],
+        [
+          "on",
+          "in",
+          "at",
+          "for"
+        ],
+        [
+          "this",
+          "that",
+          "the",
+          "a"
+        ],
+        [
+          "matter",
+          "matters",
+          "material",
+          "material"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_13_hedging_vague/007.mp3"
+    },
+    {
+      "id": "t13_9",
+      "type": "sentenceAssembly",
+      "question": "Данные скорее указывают на другой вывод",
+      "correctAnswer": "The evidence tends to suggest a rather different conclusion",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "This",
+          "That"
+        ],
+        [
+          "evidence",
+          "evident",
+          "evidently",
+          "evidences"
+        ],
+        [
+          "tends",
+          "tend",
+          "tended",
+          "tending"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "suggest",
+          "suggests",
+          "suggested",
+          "suggesting"
+        ],
+        [
+          "a",
+          "the",
+          "an",
+          "this"
+        ],
+        [
+          "rather",
+          "quite",
+          "very",
+          "extremely"
+        ],
+        [
+          "different",
+          "differently",
+          "differ",
+          "difference"
+        ],
+        [
+          "conclusion",
+          "conclusions",
+          "concluding",
+          "concluded"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_13_hedging_vague/008.mp3"
+    },
+    {
+      "id": "t13_10",
+      "type": "sentenceAssembly",
+      "question": "Задача была относительно простой для опытных специалистов",
+      "correctAnswer": "The task was relatively straightforward for experienced professionals",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "This",
+          "That"
+        ],
+        [
+          "task",
+          "tasks",
+          "work",
+          "job"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "be"
+        ],
+        [
+          "relatively",
+          "relative",
+          "relation",
+          "related"
+        ],
+        [
+          "straightforward",
+          "simple",
+          "straight",
+          "forward"
+        ],
+        [
+          "for",
+          "to",
+          "at",
+          "in"
+        ],
+        [
+          "experienced",
+          "experience",
+          "experiencing",
+          "expert"
+        ],
+        [
+          "professionals",
+          "professional",
+          "profession",
+          "profess"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_13_hedging_vague/009.mp3"
+    },
+    {
+      "id": "t13_11",
+      "type": "sentenceAssembly",
+      "question": "Я был бы склонен предложить иной подход к решению",
+      "correctAnswer": "I would be inclined to suggest a different approach entirely",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "We",
+          "He",
+          "Me"
+        ],
+        [
+          "would",
+          "will",
+          "could",
+          "should"
+        ],
+        [
+          "be",
+          "is",
+          "was",
+          "been"
+        ],
+        [
+          "inclined",
+          "incline",
+          "inclining",
+          "includes"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "suggest",
+          "suggests",
+          "suggested",
+          "suggesting"
+        ],
+        [
+          "a",
+          "the",
+          "an",
+          "one"
+        ],
+        [
+          "different",
+          "differently",
+          "differ",
+          "difference"
+        ],
+        [
+          "approach",
+          "approaches",
+          "approached",
+          "approaching"
+        ],
+        [
+          "entirely",
+          "entire",
+          "completely",
+          "totally"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_13_hedging_vague/010.mp3"
+    },
+    {
+      "id": "t13_12",
+      "type": "sentenceAssembly",
+      "question": "Они, скорее всего, примут это предложение без возражений",
+      "correctAnswer": "They will most likely accept this offer without any objections",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "We",
+          "He",
+          "Them"
+        ],
+        [
+          "will",
+          "would",
+          "shall",
+          "should"
+        ],
+        [
+          "most",
+          "more",
+          "much",
+          "many"
+        ],
+        [
+          "likely",
+          "like",
+          "liked",
+          "liking"
+        ],
+        [
+          "accept",
+          "accepts",
+          "accepted",
+          "accepting"
+        ],
+        [
+          "this",
+          "that",
+          "the",
+          "a"
+        ],
+        [
+          "offer",
+          "offers",
+          "offered",
+          "offering"
+        ],
+        [
+          "without",
+          "within",
+          "with",
+          "beyond"
+        ],
+        [
+          "any",
+          "some",
+          "the",
+          "all"
+        ],
+        [
+          "objections",
+          "objection",
+          "objecting",
+          "objective"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_13_hedging_vague/011.mp3"
+    },
+    {
+      "id": "t13_13",
+      "type": "sentenceAssembly",
+      "question": "Это было вроде как неожиданно для всех участников",
+      "correctAnswer": "It was sort of unexpected for all the participants involved",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "There",
+          "That",
+          "This"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "be"
+        ],
+        [
+          "sort",
+          "kind",
+          "type",
+          "form"
+        ],
+        [
+          "of",
+          "for",
+          "in",
+          "at"
+        ],
+        [
+          "unexpected",
+          "expected",
+          "unexpectedly",
+          "expecting"
+        ],
+        [
+          "for",
+          "to",
+          "at",
+          "in"
+        ],
+        [
+          "all",
+          "every",
+          "each",
+          "any"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "these"
+        ],
+        [
+          "participants",
+          "participant",
+          "participating",
+          "participate"
+        ],
+        [
+          "involved",
+          "involve",
+          "involves",
+          "involving"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_13_hedging_vague/012.mp3"
+    },
+    {
+      "id": "t13_14",
+      "type": "sentenceAssembly",
+      "question": "Результаты указывают на возможную связь между переменными",
+      "correctAnswer": "The results indicate a possible correlation between the two variables",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "These",
+          "Those"
+        ],
+        [
+          "results",
+          "result",
+          "resulting",
+          "resulted"
+        ],
+        [
+          "indicate",
+          "indicates",
+          "indicated",
+          "indicating"
+        ],
+        [
+          "a",
+          "the",
+          "an",
+          "one"
+        ],
+        [
+          "possible",
+          "possibly",
+          "possibility",
+          "impossible"
+        ],
+        [
+          "correlation",
+          "correlate",
+          "correlated",
+          "correlating"
+        ],
+        [
+          "between",
+          "among",
+          "within",
+          "across"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "these"
+        ],
+        [
+          "two",
+          "three",
+          "four",
+          "five"
+        ],
+        [
+          "variables",
+          "variable",
+          "variation",
+          "varying"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_13_hedging_vague/013.mp3"
+    },
+    {
+      "id": "t13_15",
+      "type": "sentenceAssembly",
+      "question": "В целом я согласен с основными положениями этого предложения",
+      "correctAnswer": "I broadly agree with the main points of this proposal",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "We",
+          "He",
+          "Me"
+        ],
+        [
+          "broadly",
+          "broad",
+          "broadly",
+          "widely"
+        ],
+        [
+          "agree",
+          "agrees",
+          "agreed",
+          "agreeing"
+        ],
+        [
+          "with",
+          "to",
+          "on",
+          "for"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "these"
+        ],
+        [
+          "main",
+          "mainly",
+          "major",
+          "minor"
+        ],
+        [
+          "points",
+          "point",
+          "pointed",
+          "pointing"
+        ],
+        [
+          "of",
+          "for",
+          "in",
+          "at"
+        ],
+        [
+          "this",
+          "that",
+          "the",
+          "a"
+        ],
+        [
+          "proposal",
+          "proposals",
+          "proposed",
+          "proposing"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_13_hedging_vague/014.mp3"
+    },
+    {
+      "id": "t13_16",
+      "type": "sentenceAssembly",
+      "question": "Возможно, что этот план мог бы сработать при определённых условиях",
+      "correctAnswer": "It is conceivable that this plan could work under certain conditions",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "There",
+          "That",
+          "This"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "conceivable",
+          "conceivably",
+          "conceive",
+          "conceived"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "how"
+        ],
+        [
+          "this",
+          "that",
+          "the",
+          "a"
+        ],
+        [
+          "plan",
+          "plans",
+          "planned",
+          "planning"
+        ],
+        [
+          "could",
+          "can",
+          "would",
+          "should"
+        ],
+        [
+          "work",
+          "works",
+          "worked",
+          "working"
+        ],
+        [
+          "under",
+          "in",
+          "at",
+          "on"
+        ],
+        [
+          "certain",
+          "certainly",
+          "uncertain",
+          "some"
+        ],
+        [
+          "conditions",
+          "condition",
+          "conditioning",
+          "conditional"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_13_hedging_vague/015.mp3"
+    },
+    {
+      "id": "t13_17",
+      "type": "sentenceAssembly",
+      "question": "Это лишь предварительные выводы, требующие дальнейшей проверки",
+      "correctAnswer": "These are only tentative conclusions that require further verification",
+      "options": [],
+      "variants": [
+        [
+          "These",
+          "Those",
+          "This",
+          "That"
+        ],
+        [
+          "are",
+          "is",
+          "was",
+          "were"
+        ],
+        [
+          "only",
+          "just",
+          "merely",
+          "simply"
+        ],
+        [
+          "tentative",
+          "tentatively",
+          "definitive",
+          "final"
+        ],
+        [
+          "conclusions",
+          "conclusion",
+          "concluding",
+          "concluded"
+        ],
+        [
+          "that",
+          "which",
+          "what",
+          "who"
+        ],
+        [
+          "require",
+          "requires",
+          "required",
+          "requiring"
+        ],
+        [
+          "further",
+          "farther",
+          "more",
+          "additional"
+        ],
+        [
+          "verification",
+          "verify",
+          "verified",
+          "verifying"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_13_hedging_vague/016.mp3"
+    },
+    {
+      "id": "t13_18",
+      "type": "sentenceAssembly",
+      "question": "Он, по-видимому, не осведомлён о последних изменениях",
+      "correctAnswer": "He is apparently unaware of the latest changes in policy",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "Him",
+          "They"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "apparently",
+          "obviously",
+          "clearly",
+          "evidently"
+        ],
+        [
+          "unaware",
+          "aware",
+          "unawareness",
+          "ware"
+        ],
+        [
+          "of",
+          "for",
+          "in",
+          "at"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "these"
+        ],
+        [
+          "latest",
+          "last",
+          "later",
+          "late"
+        ],
+        [
+          "changes",
+          "change",
+          "changing",
+          "changed"
+        ],
+        [
+          "in",
+          "on",
+          "at",
+          "for"
+        ],
+        [
+          "policy",
+          "policies",
+          "policing",
+          "police"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_13_hedging_vague/017.mp3"
+    },
+    {
+      "id": "t13_19",
+      "type": "sentenceAssembly",
+      "question": "Мы как бы согласны, но есть несколько оговорок",
+      "correctAnswer": "We kind of agree but there are several important reservations",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "Us",
+          "I"
+        ],
+        [
+          "kind",
+          "sort",
+          "type",
+          "form"
+        ],
+        [
+          "of",
+          "for",
+          "in",
+          "at"
+        ],
+        [
+          "agree",
+          "agrees",
+          "agreed",
+          "agreeing"
+        ],
+        [
+          "but",
+          "and",
+          "or",
+          "yet"
+        ],
+        [
+          "there",
+          "here",
+          "where",
+          "they"
+        ],
+        [
+          "are",
+          "is",
+          "was",
+          "were"
+        ],
+        [
+          "several",
+          "some",
+          "many",
+          "few"
+        ],
+        [
+          "important",
+          "importantly",
+          "importance",
+          "unimportant"
+        ],
+        [
+          "reservations",
+          "reservation",
+          "reserving",
+          "reserved"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_13_hedging_vague/018.mp3"
+    },
+    {
+      "id": "t13_20",
+      "type": "sentenceAssembly",
+      "question": "Этот подход может оказаться более эффективным в долгосрочной перспективе",
+      "correctAnswer": "This approach might prove to be more effective in the long run",
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "That",
+          "The",
+          "A"
+        ],
+        [
+          "approach",
+          "approaches",
+          "approached",
+          "approaching"
+        ],
+        [
+          "might",
+          "must",
+          "shall",
+          "will"
+        ],
+        [
+          "prove",
+          "proves",
+          "proved",
+          "proving"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "be",
+          "is",
+          "was",
+          "been"
+        ],
+        [
+          "more",
+          "most",
+          "much",
+          "many"
+        ],
+        [
+          "effective",
+          "effectively",
+          "effect",
+          "efficient"
+        ],
+        [
+          "in",
+          "on",
+          "at",
+          "for"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "long",
+          "longer",
+          "longest",
+          "short"
+        ],
+        [
+          "run",
+          "runs",
+          "running",
+          "ran"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_13_hedging_vague/019.mp3"
+    },
+    {
+      "id": "t13_21",
+      "type": "sentenceAssembly",
+      "question": "По имеющимся данным, ситуация, по-видимому, улучшается",
+      "correctAnswer": "According to available data the situation appears to be improving",
+      "options": [],
+      "variants": [
+        [
+          "According",
+          "Accord",
+          "Accordingly",
+          "Accorded"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "available",
+          "availability",
+          "avail",
+          "unavailable"
+        ],
+        [
+          "data",
+          "datum",
+          "dates",
+          "database"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "situation",
+          "situations",
+          "situated",
+          "situating"
+        ],
+        [
+          "appears",
+          "appear",
+          "appeared",
+          "appearing"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "be",
+          "is",
+          "was",
+          "been"
+        ],
+        [
+          "improving",
+          "improve",
+          "improved",
+          "improvement"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_13_hedging_vague/020.mp3"
+    },
+    {
+      "id": "t13_22",
+      "type": "sentenceAssembly",
+      "question": "Можно предположить, что эти данные не совсем точны",
+      "correctAnswer": "One might assume that these figures are not entirely accurate",
+      "options": [],
+      "variants": [
+        [
+          "One",
+          "We",
+          "They",
+          "You"
+        ],
+        [
+          "might",
+          "must",
+          "shall",
+          "will"
+        ],
+        [
+          "assume",
+          "assumes",
+          "assumed",
+          "assuming"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "how"
+        ],
+        [
+          "these",
+          "those",
+          "the",
+          "this"
+        ],
+        [
+          "figures",
+          "figure",
+          "figured",
+          "figuring"
+        ],
+        [
+          "are",
+          "is",
+          "was",
+          "were"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "neither"
+        ],
+        [
+          "entirely",
+          "entire",
+          "totally",
+          "wholly"
+        ],
+        [
+          "accurate",
+          "accurately",
+          "accuracy",
+          "inaccurate"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_13_hedging_vague/021.mp3"
+    },
+    {
+      "id": "t13_23",
+      "type": "sentenceAssembly",
+      "question": "Я бы сказал, что это решение имеет определённые недостатки",
+      "correctAnswer": "I would say that this solution has certain notable drawbacks",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "We",
+          "He",
+          "Me"
+        ],
+        [
+          "would",
+          "will",
+          "could",
+          "should"
+        ],
+        [
+          "say",
+          "says",
+          "said",
+          "saying"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "how"
+        ],
+        [
+          "this",
+          "that",
+          "the",
+          "a"
+        ],
+        [
+          "solution",
+          "solutions",
+          "solving",
+          "solved"
+        ],
+        [
+          "has",
+          "have",
+          "had",
+          "having"
+        ],
+        [
+          "certain",
+          "certainly",
+          "some",
+          "several"
+        ],
+        [
+          "notable",
+          "notably",
+          "noted",
+          "noting"
+        ],
+        [
+          "drawbacks",
+          "drawback",
+          "setbacks",
+          "disadvantages"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_13_hedging_vague/022.mp3"
+    },
+    {
+      "id": "t13_24",
+      "type": "sentenceAssembly",
+      "question": "В общем и целом, проект развивается в правильном направлении",
+      "correctAnswer": "Broadly speaking the project is developing in the right direction",
+      "options": [],
+      "variants": [
+        [
+          "Broadly",
+          "Broad",
+          "Widely",
+          "Generally"
+        ],
+        [
+          "speaking",
+          "speak",
+          "spoken",
+          "spoke"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "project",
+          "projects",
+          "projected",
+          "projecting"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "developing",
+          "develop",
+          "developed",
+          "development"
+        ],
+        [
+          "in",
+          "on",
+          "at",
+          "to"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "right",
+          "correct",
+          "proper",
+          "appropriate"
+        ],
+        [
+          "direction",
+          "directions",
+          "directing",
+          "directed"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_13_hedging_vague/023.mp3"
+    },
+    {
+      "id": "t13_25",
+      "type": "sentenceAssembly",
+      "question": "Представляется, что имеющиеся данные подтверждают эту гипотезу",
+      "correctAnswer": "It would appear that the available evidence supports this hypothesis",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "There",
+          "That",
+          "This"
+        ],
+        [
+          "would",
+          "will",
+          "could",
+          "should"
+        ],
+        [
+          "appear",
+          "appears",
+          "appeared",
+          "appearing"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "how"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "available",
+          "availability",
+          "avail",
+          "unavailable"
+        ],
+        [
+          "evidence",
+          "evident",
+          "evidently",
+          "evidences"
+        ],
+        [
+          "supports",
+          "support",
+          "supported",
+          "supporting"
+        ],
+        [
+          "this",
+          "that",
+          "the",
+          "a"
+        ],
+        [
+          "hypothesis",
+          "hypotheses",
+          "hypothetical",
+          "hypotenuse"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_13_hedging_vague/024.mp3"
+    },
+    {
+      "id": "t13_26",
+      "type": "sentenceAssembly",
+      "question": "Не исключено, что они изменят свою позицию по данному вопросу",
+      "correctAnswer": "It is not inconceivable that they might change their position",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "There",
+          "That",
+          "This"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "none"
+        ],
+        [
+          "inconceivable",
+          "conceivable",
+          "conceived",
+          "conceiving"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "how"
+        ],
+        [
+          "they",
+          "them",
+          "their",
+          "themselves"
+        ],
+        [
+          "might",
+          "must",
+          "shall",
+          "will"
+        ],
+        [
+          "change",
+          "changes",
+          "changed",
+          "changing"
+        ],
+        [
+          "their",
+          "they",
+          "them",
+          "his"
+        ],
+        [
+          "position",
+          "positions",
+          "positioned",
+          "positioning"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_13_hedging_vague/025.mp3"
+    },
+    {
+      "id": "t13_27",
+      "type": "sentenceAssembly",
+      "question": "Насколько я понимаю, переговоры зашли в тупик",
+      "correctAnswer": "As far as I understand the negotiations have reached a deadlock",
+      "options": [],
+      "variants": [
+        [
+          "As",
+          "So",
+          "If",
+          "While"
+        ],
+        [
+          "far",
+          "long",
+          "much",
+          "well"
+        ],
+        [
+          "as",
+          "than",
+          "like",
+          "so"
+        ],
+        [
+          "I",
+          "we",
+          "he",
+          "me"
+        ],
+        [
+          "understand",
+          "understands",
+          "understood",
+          "understanding"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "these"
+        ],
+        [
+          "negotiations",
+          "negotiation",
+          "negotiating",
+          "negotiate"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        [
+          "reached",
+          "reach",
+          "reaches",
+          "reaching"
+        ],
+        [
+          "a",
+          "the",
+          "an",
+          "this"
+        ],
+        [
+          "deadlock",
+          "deadline",
+          "dead",
+          "lock"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_13_hedging_vague/026.mp3"
+    },
+    {
+      "id": "t13_28",
+      "type": "sentenceAssembly",
+      "question": "Вполне вероятно, что они откажутся от этого контракта",
+      "correctAnswer": "It is quite likely that they will decline this particular contract",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "There",
+          "That",
+          "This"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "quite",
+          "quiet",
+          "quit",
+          "quickly"
+        ],
+        [
+          "likely",
+          "like",
+          "liked",
+          "liking"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "how"
+        ],
+        [
+          "they",
+          "them",
+          "their",
+          "themselves"
+        ],
+        [
+          "will",
+          "would",
+          "shall",
+          "should"
+        ],
+        [
+          "decline",
+          "declines",
+          "declined",
+          "declining"
+        ],
+        [
+          "this",
+          "that",
+          "the",
+          "a"
+        ],
+        [
+          "particular",
+          "particularly",
+          "partial",
+          "peculiar"
+        ],
+        [
+          "contract",
+          "contacts",
+          "contracts",
+          "contraction"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_13_hedging_vague/027.mp3"
+    },
+    {
+      "id": "t13_29",
+      "type": "sentenceAssembly",
+      "question": "Могу предположить, что проблема кроется в недостаточном финансировании",
+      "correctAnswer": "I would venture to suggest that the problem lies in insufficient funding",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "We",
+          "He",
+          "Me"
+        ],
+        [
+          "would",
+          "will",
+          "could",
+          "should"
+        ],
+        [
+          "venture",
+          "ventures",
+          "ventured",
+          "venturing"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "suggest",
+          "suggests",
+          "suggested",
+          "suggesting"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "how"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "problem",
+          "problems",
+          "problematic",
+          "trouble"
+        ],
+        [
+          "lies",
+          "lie",
+          "lied",
+          "lying"
+        ],
+        [
+          "in",
+          "on",
+          "at",
+          "for"
+        ],
+        [
+          "insufficient",
+          "sufficient",
+          "insufficiently",
+          "sufficiently"
+        ],
+        [
+          "funding",
+          "fund",
+          "funds",
+          "funded"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_13_hedging_vague/028.mp3"
+    },
+    {
+      "id": "t13_30",
+      "type": "sentenceAssembly",
+      "question": "При определённых обстоятельствах этот метод мог бы дать лучшие результаты",
+      "correctAnswer": "Under certain circumstances this method could potentially yield better results",
+      "options": [],
+      "variants": [
+        [
+          "Under",
+          "In",
+          "At",
+          "On"
+        ],
+        [
+          "certain",
+          "certainly",
+          "some",
+          "any"
+        ],
+        [
+          "circumstances",
+          "circumstance",
+          "conditions",
+          "situations"
+        ],
+        [
+          "this",
+          "that",
+          "the",
+          "a"
+        ],
+        [
+          "method",
+          "methods",
+          "methodology",
+          "methodical"
+        ],
+        [
+          "could",
+          "can",
+          "would",
+          "should"
+        ],
+        [
+          "potentially",
+          "potential",
+          "potent",
+          "possibly"
+        ],
+        [
+          "yield",
+          "yields",
+          "yielded",
+          "yielding"
+        ],
+        [
+          "better",
+          "best",
+          "good",
+          "greater"
+        ],
+        [
+          "results",
+          "result",
+          "resulting",
+          "resulted"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_13_hedging_vague/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionAdvanced13HedgingVague"
+}

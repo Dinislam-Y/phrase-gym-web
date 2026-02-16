@@ -1,0 +1,476 @@
+{
+  "id": "pre_listening_20_going_to",
+  "title": "Going To: Future Plans",
+  "description": "Слушайте о будущих планах с конструкцией going to.",
+  "order": 20,
+  "level": "pre_intermediate",
+  "imageUrl": "assets/images/lessons/going_to.png",
+  "tasks": [
+    {
+      "id": "t20_01",
+      "audioText": "I have my suitcase ready. I am going to travel to Italy next week.",
+      "transcript": "I am going to travel to Italy next week.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The person plans to visit Italy soon."
+        },
+        {
+          "id": "o2",
+          "text": "The person travelled to Italy last week."
+        },
+        {
+          "id": "o3",
+          "text": "The person is in Italy right now."
+        },
+        {
+          "id": "o4",
+          "text": "The person does not want to travel."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Am going to travel' shows a future plan that is already decided.",
+      "mistakeTags": [
+        "travel",
+        "going_to",
+        "future_plans"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_20_going_to/t20_01.mp3"
+    },
+    {
+      "id": "t20_02",
+      "audioText": "Look at those dark clouds! It is going to rain soon.",
+      "transcript": "It is going to rain soon.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "It rained yesterday."
+        },
+        {
+          "id": "o2",
+          "text": "Rain will probably start very soon."
+        },
+        {
+          "id": "o3",
+          "text": "The weather is sunny and warm."
+        },
+        {
+          "id": "o4",
+          "text": "It is raining right now."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Is going to rain' predicts something based on what we can see now.",
+      "mistakeTags": [
+        "outdoor",
+        "going_to",
+        "future_plans"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_20_going_to/t20_02.mp3"
+    },
+    {
+      "id": "t20_03",
+      "audioText": "My sister finished university. She is going to start a new job in September.",
+      "transcript": "She is going to start a new job in September.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She started working last September."
+        },
+        {
+          "id": "o2",
+          "text": "She does not want a job."
+        },
+        {
+          "id": "o3",
+          "text": "She plans to begin working in September."
+        },
+        {
+          "id": "o4",
+          "text": "She is working at her job right now."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Is going to start' means she has a plan for the future.",
+      "mistakeTags": [
+        "office",
+        "going_to",
+        "future_plans"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_20_going_to/t20_03.mp3"
+    },
+    {
+      "id": "t20_04",
+      "audioText": "We saved enough money this year. We are going to buy a new car.",
+      "transcript": "We are going to buy a new car.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "They bought a car last year."
+        },
+        {
+          "id": "o2",
+          "text": "They plan to purchase a new car."
+        },
+        {
+          "id": "o3",
+          "text": "They are selling their car."
+        },
+        {
+          "id": "o4",
+          "text": "They don't have enough money."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Are going to buy' means they have decided to buy a car.",
+      "mistakeTags": [
+        "shop",
+        "going_to",
+        "future_plans"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_20_going_to/t20_04.mp3"
+    },
+    {
+      "id": "t20_05",
+      "audioText": "Tom is studying very hard. He is going to pass his exam.",
+      "transcript": "He is going to pass his exam.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Tom failed the exam."
+        },
+        {
+          "id": "o2",
+          "text": "Tom took the exam yesterday."
+        },
+        {
+          "id": "o3",
+          "text": "Tom will probably succeed in the exam."
+        },
+        {
+          "id": "o4",
+          "text": "Tom stopped studying."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Is going to pass' is a prediction based on evidence — he studies hard.",
+      "mistakeTags": [
+        "school",
+        "going_to",
+        "future_plans"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_20_going_to/t20_05.mp3"
+    },
+    {
+      "id": "t20_06",
+      "audioText": "I feel sick today. I am going to see the doctor this afternoon.",
+      "transcript": "I am going to see the doctor this afternoon.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The person plans to visit the doctor today."
+        },
+        {
+          "id": "o2",
+          "text": "The person saw the doctor yesterday."
+        },
+        {
+          "id": "o3",
+          "text": "The person feels fine now."
+        },
+        {
+          "id": "o4",
+          "text": "The doctor is not available today."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Am going to see' shows a planned visit to the doctor.",
+      "mistakeTags": [
+        "hospital",
+        "going_to",
+        "future_plans"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_20_going_to/t20_06.mp3"
+    },
+    {
+      "id": "t20_07",
+      "audioText": "We are tired of the city noise. We are going to move to the countryside.",
+      "transcript": "We are going to move to the countryside.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "They already live in the countryside."
+        },
+        {
+          "id": "o2",
+          "text": "They plan to move out of the city."
+        },
+        {
+          "id": "o3",
+          "text": "They are going to stay in the city."
+        },
+        {
+          "id": "o4",
+          "text": "They moved to the city last year."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Are going to move' means they plan to change where they live.",
+      "mistakeTags": [
+        "home",
+        "going_to",
+        "future_plans"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_20_going_to/t20_07.mp3"
+    },
+    {
+      "id": "t20_08",
+      "audioText": "Maria loves animals. She is going to volunteer at the animal shelter.",
+      "transcript": "She is going to volunteer at the animal shelter.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Maria plans to help at the animal shelter."
+        },
+        {
+          "id": "o2",
+          "text": "Maria adopted an animal last week."
+        },
+        {
+          "id": "o3",
+          "text": "Maria does not like animals."
+        },
+        {
+          "id": "o4",
+          "text": "The shelter is permanently closed."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Is going to volunteer' means she has a plan to help there.",
+      "mistakeTags": [
+        "social",
+        "going_to",
+        "future_plans"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_20_going_to/t20_08.mp3"
+    },
+    {
+      "id": "t20_09",
+      "audioText": "The kids are excited about Saturday. They are going to visit the zoo.",
+      "transcript": "They are going to visit the zoo.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The kids went to the zoo yesterday."
+        },
+        {
+          "id": "o2",
+          "text": "The kids are at the zoo right now."
+        },
+        {
+          "id": "o3",
+          "text": "The kids plan to go to the zoo on Saturday."
+        },
+        {
+          "id": "o4",
+          "text": "The zoo is closed on Saturday."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Are going to visit' means a planned future trip.",
+      "mistakeTags": [
+        "entertainment",
+        "going_to",
+        "future_plans"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_20_going_to/t20_09.mp3"
+    },
+    {
+      "id": "t20_10",
+      "audioText": "I bought all the ingredients. I am going to cook dinner tonight.",
+      "transcript": "I am going to cook dinner tonight.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The person cooked dinner last night."
+        },
+        {
+          "id": "o2",
+          "text": "The person plans to make dinner tonight."
+        },
+        {
+          "id": "o3",
+          "text": "The person is eating dinner now."
+        },
+        {
+          "id": "o4",
+          "text": "The person ordered food from a restaurant."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Am going to cook' means the person plans to prepare food tonight.",
+      "mistakeTags": [
+        "home",
+        "going_to",
+        "future_plans"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_20_going_to/t20_10.mp3"
+    },
+    {
+      "id": "t20_11",
+      "audioText": "Our flat is too small now. We are going to look for a bigger one.",
+      "transcript": "We are going to look for a bigger one.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "They found a new flat already."
+        },
+        {
+          "id": "o2",
+          "text": "They like their small flat."
+        },
+        {
+          "id": "o3",
+          "text": "They plan to search for a larger flat."
+        },
+        {
+          "id": "o4",
+          "text": "They are moving out today."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Are going to look' means they intend to search in the future.",
+      "mistakeTags": [
+        "home",
+        "going_to",
+        "future_plans"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_20_going_to/t20_11.mp3"
+    },
+    {
+      "id": "t20_12",
+      "audioText": "I got a gym membership last week. I am going to exercise every morning.",
+      "transcript": "I am going to exercise every morning.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The person plans to work out each morning."
+        },
+        {
+          "id": "o2",
+          "text": "The person cancelled the gym membership."
+        },
+        {
+          "id": "o3",
+          "text": "The person exercises only at night."
+        },
+        {
+          "id": "o4",
+          "text": "The person exercised yesterday."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Am going to exercise' is a decided plan for the future.",
+      "mistakeTags": [
+        "gym",
+        "going_to",
+        "future_plans"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_20_going_to/t20_12.mp3"
+    },
+    {
+      "id": "t20_13",
+      "audioText": "My friend invited me. I am going to go to her party on Saturday.",
+      "transcript": "I am going to go to her party on Saturday.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The person was at a party last Saturday."
+        },
+        {
+          "id": "o2",
+          "text": "The person plans to attend a party on Saturday."
+        },
+        {
+          "id": "o3",
+          "text": "The person will not go to the party."
+        },
+        {
+          "id": "o4",
+          "text": "The party is cancelled."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Am going to go' means a planned attendance at the party.",
+      "mistakeTags": [
+        "party",
+        "going_to",
+        "future_plans"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_20_going_to/t20_13.mp3"
+    },
+    {
+      "id": "t20_14",
+      "audioText": "I found a great recipe online. I am going to try it this weekend.",
+      "transcript": "I am going to try it this weekend.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The person tried the recipe last weekend."
+        },
+        {
+          "id": "o2",
+          "text": "The person does not like cooking."
+        },
+        {
+          "id": "o3",
+          "text": "The person plans to use the recipe this weekend."
+        },
+        {
+          "id": "o4",
+          "text": "The person lost the recipe."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Am going to try' means a plan to do something in the near future.",
+      "mistakeTags": [
+        "home",
+        "going_to",
+        "future_plans"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_20_going_to/t20_14.mp3"
+    },
+    {
+      "id": "t20_15",
+      "audioText": "We talked about our vacation. We are going to fly to Thailand in December.",
+      "transcript": "We are going to fly to Thailand in December.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "They plan to visit Thailand in December."
+        },
+        {
+          "id": "o2",
+          "text": "They came back from Thailand."
+        },
+        {
+          "id": "o3",
+          "text": "They are in Thailand right now."
+        },
+        {
+          "id": "o4",
+          "text": "They are going to Japan in December."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Are going to fly' means they have a planned trip to Thailand.",
+      "mistakeTags": [
+        "travel",
+        "going_to",
+        "future_plans"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_20_going_to/t20_15.mp3"
+    }
+  ],
+  "short_description": "Going To: будущие планы и предсказания"
+}

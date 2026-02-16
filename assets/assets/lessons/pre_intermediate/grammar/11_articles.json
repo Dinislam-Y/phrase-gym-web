@@ -1,0 +1,1548 @@
+{
+  "id": "pre_11_articles",
+  "title": "Articles (A/An/The)",
+  "description": "Артикли — это ярлыки на предметах. A/An — «один из многих», The — «тот самый».",
+  "order": 11,
+  "level": "pre_intermediate",
+  "imageUrl": "assets/images/lessons/articles.png",
+  "vocabulary": [
+    {
+      "id": "v11_idea",
+      "english": "idea",
+      "russian": "идея",
+      "partOfSpeech": "noun",
+      "example": "I have an idea.",
+      "exampleTranslation": "У меня есть идея.",
+      "audioPath": "assets/audio/vocabulary/v11_idea.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_idea.mp3"
+    },
+    {
+      "id": "v11_book",
+      "english": "book",
+      "russian": "книга",
+      "partOfSpeech": "noun",
+      "example": "This is a book.",
+      "exampleTranslation": "Это книга.",
+      "audioPath": "assets/audio/vocabulary/v11_book.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_book.mp3"
+    },
+    {
+      "id": "v11_table",
+      "english": "table",
+      "russian": "стол",
+      "partOfSpeech": "noun",
+      "example": "On the table.",
+      "exampleTranslation": "На столе.",
+      "audioPath": "assets/audio/vocabulary/v11_table.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_table.mp3"
+    },
+    {
+      "id": "v11_apple",
+      "english": "apple",
+      "russian": "яблоко",
+      "partOfSpeech": "noun",
+      "example": "I want an apple.",
+      "exampleTranslation": "Я хочу яблоко.",
+      "audioPath": "assets/audio/vocabulary/v11_apple.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_apple.mp3"
+    },
+    {
+      "id": "v11_pen",
+      "english": "pen",
+      "russian": "ручка",
+      "partOfSpeech": "noun",
+      "example": "Give me the pen.",
+      "exampleTranslation": "Дай мне ручку.",
+      "audioPath": "assets/audio/vocabulary/v11_pen.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_pen.mp3"
+    },
+    {
+      "id": "v11_doctor",
+      "english": "doctor",
+      "russian": "врач",
+      "partOfSpeech": "noun",
+      "example": "He is a doctor.",
+      "exampleTranslation": "Он врач.",
+      "audioPath": "assets/audio/vocabulary/v11_doctor.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_doctor.mp3"
+    },
+    {
+      "id": "v11_sun",
+      "english": "sun",
+      "russian": "солнце",
+      "partOfSpeech": "noun",
+      "example": "The sun is bright.",
+      "exampleTranslation": "Солнце яркое.",
+      "audioPath": "assets/audio/vocabulary/v11_sun.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_sun.mp3"
+    },
+    {
+      "id": "v11_bright",
+      "english": "bright",
+      "russian": "яркий",
+      "partOfSpeech": "adjective",
+      "example": "The sun is bright.",
+      "exampleTranslation": "Солнце яркое.",
+      "audioPath": "assets/audio/vocabulary/v11_bright.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_bright.mp3"
+    },
+    {
+      "id": "v11_money",
+      "english": "money",
+      "russian": "деньги",
+      "partOfSpeech": "noun",
+      "example": "I need money.",
+      "exampleTranslation": "Мне нужны деньги.",
+      "audioPath": "assets/audio/vocabulary/v11_money.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_money.mp3"
+    },
+    {
+      "id": "v11_moon",
+      "english": "moon",
+      "russian": "луна",
+      "partOfSpeech": "noun",
+      "example": "Did you see the moon?",
+      "exampleTranslation": "Ты видел луну?",
+      "audioPath": "assets/audio/vocabulary/v11_moon.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_moon.mp3"
+    },
+    {
+      "id": "v11_honest",
+      "english": "honest",
+      "russian": "честный",
+      "partOfSpeech": "adjective",
+      "example": "An honest woman.",
+      "exampleTranslation": "Честная женщина.",
+      "audioPath": "assets/audio/vocabulary/v11_honest.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_honest.mp3"
+    },
+    {
+      "id": "v11_woman",
+      "english": "woman",
+      "russian": "женщина",
+      "partOfSpeech": "noun",
+      "example": "An honest woman.",
+      "exampleTranslation": "Честная женщина.",
+      "audioPath": "assets/audio/vocabulary/v11_woman.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_woman.mp3"
+    },
+    {
+      "id": "v11_guitar",
+      "english": "guitar",
+      "russian": "гитара",
+      "partOfSpeech": "noun",
+      "example": "I play the guitar.",
+      "exampleTranslation": "Я играю на гитаре.",
+      "audioPath": "assets/audio/vocabulary/v11_guitar.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_guitar.mp3"
+    },
+    {
+      "id": "v11_music",
+      "english": "music",
+      "russian": "музыка",
+      "partOfSpeech": "noun",
+      "example": "I like music.",
+      "exampleTranslation": "Я люблю музыку.",
+      "audioPath": "assets/audio/vocabulary/v11_music.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_music.mp3"
+    },
+    {
+      "id": "v11_building",
+      "english": "building",
+      "russian": "здание",
+      "partOfSpeech": "noun",
+      "example": "This is the biggest building.",
+      "exampleTranslation": "Это самое большое здание.",
+      "audioPath": "assets/audio/vocabulary/v11_building.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_building.mp3"
+    },
+    {
+      "id": "v11_umbrella",
+      "english": "umbrella",
+      "russian": "зонт",
+      "partOfSpeech": "noun",
+      "example": "I have an umbrella.",
+      "exampleTranslation": "У меня есть зонт.",
+      "audioPath": "assets/audio/vocabulary/v11_umbrella.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_umbrella.mp3"
+    },
+    {
+      "id": "v11_boy",
+      "english": "boy",
+      "russian": "мальчик",
+      "partOfSpeech": "noun",
+      "example": "The boy is in the car.",
+      "exampleTranslation": "Мальчик в машине.",
+      "audioPath": "assets/audio/vocabulary/v11_boy.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_boy.mp3"
+    },
+    {
+      "id": "v11_egg",
+      "english": "egg",
+      "russian": "яйцо",
+      "partOfSpeech": "noun",
+      "example": "She eats an egg.",
+      "exampleTranslation": "Она ест яйцо.",
+      "audioPath": "assets/audio/vocabulary/v11_egg.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_egg.mp3"
+    },
+    {
+      "id": "v11_breakfast",
+      "english": "breakfast",
+      "russian": "завтрак",
+      "partOfSpeech": "noun",
+      "example": "For breakfast.",
+      "exampleTranslation": "На завтрак.",
+      "audioPath": "assets/audio/vocabulary/v11_breakfast.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_breakfast.mp3"
+    },
+    {
+      "id": "v11_world",
+      "english": "world",
+      "russian": "мир",
+      "partOfSpeech": "noun",
+      "example": "The world is small.",
+      "exampleTranslation": "Мир тесен (маленький).",
+      "audioPath": "assets/audio/vocabulary/v11_world.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_world.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "Articles",
+    "subtitle": "Представьте магазин. A/An — это когда вы берете ЛЮБОЕ яблоко с полки. The — это когда вы показываете на КОНКРЕТНОЕ яблоко, которое катится по полу. В русском мы используем интонацию или слова «какой-то/тот самый», в английском — артикли.",
+    "construction": {
+      "formula": "A/An/The + Noun",
+      "rules": [
+        {
+          "word": "A / An (Любой)",
+          "description": "Происходит от слова «One» (один). Значит «какой-то», «один из». A book = какая-то книга. A перед согласными, An перед гласными (an apple)."
+        },
+        {
+          "word": "The (Тот самый)",
+          "description": "Происходит от «This» (этот). Значит, мы оба понимаем, о чем речь. The book = вот эта конкретная книга."
+        },
+        {
+          "word": "Zero (Без артикля)",
+          "description": "Мы не ставим артикли перед именами (Peter), городами (London) и чем-то неконкретным во множественном числе (I like cats — вообще всех котов мира)."
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "check_circle",
+        "color": "blue",
+        "title": "Впервые или нет?",
+        "description": "Первый раз говорим — A. Второй раз — уже The (мы же теперь знаем, о чем речь).",
+        "example": {
+          "english": "I have a cat. The cat is black.",
+          "russian": "У меня есть (какой-то) кот. (Этот) кот черный."
+        }
+      },
+      {
+        "icon": "star",
+        "color": "orange",
+        "title": "Единственный в мире",
+        "description": "Уникальные вещи всегда с The. The Sun, The Internet, The King.",
+        "example": {
+          "english": "The sky is blue.",
+          "russian": "Небо (оно одно) голубое."
+        }
+      },
+      {
+        "icon": "groups",
+        "color": "green",
+        "title": "Профессии",
+        "description": "Кем я являюсь? «Одним из» учителей. I am a teacher.",
+        "example": {
+          "english": "He is a doctor.",
+          "russian": "Он доктор (один из докторов)."
+        }
+      }
+    ],
+    "markers": [
+      "a",
+      "an",
+      "the",
+      "one",
+      "this"
+    ]
+  },
+  "tasks": [
+    {
+      "id": "t11_1",
+      "type": "sentenceAssembly",
+      "question": "У меня есть идея",
+      "correctAnswer": "I have an idea",
+      "mistakeTags": [
+        "articles",
+        "article_a_an"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "My",
+          "Am"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "be"
+        ],
+        [
+          "an",
+          "a",
+          "the",
+          "one"
+        ],
+        [
+          "idea",
+          "thought",
+          "plan",
+          "mind"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_11_articles/000.mp3"
+    },
+    {
+      "id": "t11_2",
+      "type": "sentenceAssembly",
+      "question": "Это книга",
+      "correctAnswer": "This is a book",
+      "mistakeTags": [
+        "articles",
+        "article_a_an"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "That",
+          "It",
+          "There"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "be"
+        ],
+        [
+          "a",
+          "an",
+          "the",
+          "one"
+        ],
+        [
+          "book",
+          "text",
+          "novel",
+          "paper"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_11_articles/001.mp3"
+    },
+    {
+      "id": "t11_3",
+      "type": "sentenceAssembly",
+      "question": "Книга здесь",
+      "correctAnswer": "The book is here",
+      "mistakeTags": [
+        "articles",
+        "article_the"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "This",
+          "My"
+        ],
+        [
+          "book",
+          "cat",
+          "dog",
+          "pen"
+        ],
+        [
+          "is",
+          "was",
+          "are",
+          "has"
+        ],
+        [
+          "here",
+          "there",
+          "good",
+          "new"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_11_articles/002.mp3"
+    },
+    {
+      "id": "t11_4",
+      "type": "sentenceAssembly",
+      "question": "Я хочу яблоко (любое)",
+      "correctAnswer": "I want an apple",
+      "mistakeTags": [
+        "articles",
+        "article_a_an"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "My",
+          "Am"
+        ],
+        [
+          "want",
+          "wants",
+          "like",
+          "need"
+        ],
+        [
+          "an",
+          "a",
+          "the",
+          "one"
+        ],
+        [
+          "apple",
+          "fruit",
+          "food",
+          "red"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_11_articles/003.mp3"
+    },
+    {
+      "id": "t11_5",
+      "type": "sentenceAssembly",
+      "question": "Дай мне ручку (ту самую)",
+      "correctAnswer": "Give me the pen",
+      "mistakeTags": [
+        "articles",
+        "article_the"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "Give",
+          "Take",
+          "Get",
+          "Have"
+        ],
+        [
+          "me",
+          "I",
+          "my",
+          "mine"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "one"
+        ],
+        [
+          "pen",
+          "pencil",
+          "book",
+          "paper"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_11_articles/004.mp3"
+    },
+    {
+      "id": "t11_6",
+      "type": "sentenceAssembly",
+      "question": "Он врач",
+      "correctAnswer": "He is a doctor",
+      "mistakeTags": [
+        "articles",
+        "article_a_an"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "Him",
+          "His",
+          "She"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "be"
+        ],
+        [
+          "a",
+          "an",
+          "the",
+          "one"
+        ],
+        [
+          "doctor",
+          "vet",
+          "nurse",
+          "job"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_11_articles/005.mp3"
+    },
+    {
+      "id": "t11_7",
+      "type": "sentenceAssembly",
+      "question": "Солнце яркое",
+      "correctAnswer": "The sun is bright",
+      "mistakeTags": [
+        "articles",
+        "article_the"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "An",
+          "This"
+        ],
+        [
+          "sun",
+          "moon",
+          "star",
+          "light"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "has"
+        ],
+        [
+          "bright",
+          "light",
+          "shine",
+          "hot"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_11_articles/006.mp3"
+    },
+    {
+      "id": "t11_8",
+      "type": "sentenceAssembly",
+      "question": "Мы в Лондоне (город без артикля)",
+      "correctAnswer": "We are in London",
+      "mistakeTags": [
+        "articles",
+        "article_zero"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "Us",
+          "Our",
+          "They"
+        ],
+        [
+          "are",
+          "is",
+          "am",
+          "be"
+        ],
+        [
+          "in",
+          "at",
+          "on",
+          "to"
+        ],
+        [
+          "London",
+          "a London",
+          "the London",
+          "city"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_11_articles/007.mp3"
+    },
+    {
+      "id": "t11_9",
+      "type": "sentenceAssembly",
+      "question": "Мне нужны деньги (неисчислимое, без a)",
+      "correctAnswer": "I need money",
+      "mistakeTags": [
+        "articles",
+        "article_zero"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "My",
+          "Am"
+        ],
+        [
+          "need",
+          "want",
+          "like",
+          "have"
+        ],
+        [
+          "money",
+          "a money",
+          "the money",
+          "cash"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_11_articles/008.mp3"
+    },
+    {
+      "id": "t11_10",
+      "type": "sentenceAssembly",
+      "question": "Ты видел Луну?",
+      "correctAnswer": "Did you see the moon?",
+      "mistakeTags": [
+        "articles",
+        "article_the"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "Did",
+          "Do",
+          "Have",
+          "Are"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "she"
+        ],
+        [
+          "see",
+          "saw",
+          "look",
+          "watch"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "moon",
+          "sun",
+          "star",
+          "night"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_11_articles/009.mp3"
+    },
+    {
+      "id": "t11_11",
+      "type": "sentenceAssembly",
+      "question": "Она честная женщина (an honest... h не читается)",
+      "correctAnswer": "She is an honest woman",
+      "mistakeTags": [
+        "articles",
+        "article_a_an"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "Her",
+          "Hers",
+          "He"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "be"
+        ],
+        [
+          "an",
+          "a",
+          "the",
+          "one"
+        ],
+        [
+          "honest",
+          "bad",
+          "good",
+          "nice"
+        ],
+        [
+          "woman",
+          "girl",
+          "lady",
+          "person"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_11_articles/010.mp3"
+    },
+    {
+      "id": "t11_12",
+      "type": "sentenceAssembly",
+      "question": "Я играю на гитаре (муз. инструменты с the)",
+      "correctAnswer": "I play the guitar",
+      "mistakeTags": [
+        "articles",
+        "article_the"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "My",
+          "Am"
+        ],
+        [
+          "play",
+          "plays",
+          "playing",
+          "do"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "guitar",
+          "music",
+          "song",
+          "piano"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_11_articles/011.mp3"
+    },
+    {
+      "id": "t11_13",
+      "type": "sentenceAssembly",
+      "question": "Я люблю музыку (вообще)",
+      "correctAnswer": "I like music",
+      "mistakeTags": [
+        "articles",
+        "article_zero"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "My",
+          "Am"
+        ],
+        [
+          "like",
+          "likes",
+          "love",
+          "want"
+        ],
+        [
+          "music",
+          "the music",
+          "a music",
+          "songs"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_11_articles/012.mp3"
+    },
+    {
+      "id": "t11_14",
+      "type": "sentenceAssembly",
+      "question": "Это самое большое здание (превосходная степень)",
+      "correctAnswer": "This is the biggest building",
+      "mistakeTags": [
+        "articles",
+        "article_the"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "That",
+          "It",
+          "There"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "be"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "one"
+        ],
+        [
+          "biggest",
+          "big",
+          "bigger",
+          "large"
+        ],
+        [
+          "building",
+          "house",
+          "place",
+          "home"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_11_articles/013.mp3"
+    },
+    {
+      "id": "t11_15",
+      "type": "sentenceAssembly",
+      "question": "У меня есть зонт",
+      "correctAnswer": "I have an umbrella",
+      "mistakeTags": [
+        "articles",
+        "article_a_an"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "My",
+          "Am"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "got"
+        ],
+        [
+          "an",
+          "a",
+          "the",
+          "one"
+        ],
+        [
+          "umbrella",
+          "rain",
+          "coat",
+          "cover"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_11_articles/014.mp3"
+    },
+    {
+      "id": "t11_16",
+      "type": "sentenceAssembly",
+      "question": "Мальчик счастлив",
+      "correctAnswer": "The boy is happy",
+      "mistakeTags": [
+        "articles",
+        "article_the"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "This",
+          "My"
+        ],
+        [
+          "boy",
+          "girl",
+          "dog",
+          "cat"
+        ],
+        [
+          "is",
+          "was",
+          "are",
+          "has"
+        ],
+        [
+          "happy",
+          "tall",
+          "smart",
+          "kind"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_11_articles/015.mp3"
+    },
+    {
+      "id": "t11_17",
+      "type": "sentenceAssembly",
+      "question": "Она ест яйцо",
+      "correctAnswer": "She eats an egg",
+      "mistakeTags": [
+        "articles",
+        "article_a_an",
+        "article_zero"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "We"
+        ],
+        [
+          "eats",
+          "has",
+          "wants",
+          "likes"
+        ],
+        [
+          "an",
+          "a",
+          "the",
+          "one"
+        ],
+        [
+          "egg",
+          "apple",
+          "orange",
+          "ice"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_11_articles/016.mp3"
+    },
+    {
+      "id": "t11_18",
+      "type": "sentenceAssembly",
+      "question": "Мир маленький",
+      "correctAnswer": "The world is small",
+      "mistakeTags": [
+        "articles",
+        "article_the"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "An",
+          "This"
+        ],
+        [
+          "world",
+          "earth",
+          "planets",
+          "land"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "be"
+        ],
+        [
+          "small",
+          "little",
+          "big",
+          "tiny"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_11_articles/017.mp3"
+    },
+    {
+      "id": "t11_19",
+      "type": "sentenceAssembly",
+      "question": "Я иду в школу (учиться)",
+      "correctAnswer": "I go to school",
+      "mistakeTags": [
+        "articles",
+        "article_zero"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "My",
+          "Am"
+        ],
+        [
+          "go",
+          "goes",
+          "went",
+          "going"
+        ],
+        [
+          "to",
+          "in",
+          "at",
+          "for"
+        ],
+        [
+          "school",
+          "the school",
+          "a school",
+          "class"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_11_articles/018.mp3"
+    },
+    {
+      "id": "t11_20",
+      "type": "sentenceAssembly",
+      "question": "Где собака? (конкретная)",
+      "correctAnswer": "Where is the dog?",
+      "mistakeTags": [
+        "articles",
+        "article_the"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "Where",
+          "What",
+          "When",
+          "Who"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "were"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "one"
+        ],
+        [
+          "dog",
+          "cat",
+          "pet",
+          "animal"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_11_articles/019.mp3"
+    },
+    {
+      "id": "t11_21",
+      "type": "sentenceAssembly",
+      "question": "Это один час",
+      "correctAnswer": "It is an hour",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "This",
+          "That",
+          "There"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "be"
+        ],
+        [
+          "an",
+          "a",
+          "the",
+          "one"
+        ],
+        [
+          "hour",
+          "time",
+          "clock",
+          "minute"
+        ]
+      ],
+      "mistakeTags": [
+        "articles",
+        "article_a_an"
+      ],
+      "audioPath": "assets/audio/grammar/pre_11_articles/020.mp3"
+    },
+    {
+      "id": "t11_22",
+      "type": "sentenceAssembly",
+      "question": "Мне нужна информация (неисчислимое)",
+      "correctAnswer": "I need information",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "My",
+          "Am"
+        ],
+        [
+          "need",
+          "want",
+          "like",
+          "have"
+        ],
+        [
+          "information",
+          "an information",
+          "infos",
+          "data"
+        ]
+      ],
+      "mistakeTags": [
+        "articles"
+      ],
+      "audioPath": "assets/audio/grammar/pre_11_articles/021.mp3"
+    },
+    {
+      "id": "t11_23",
+      "type": "sentenceAssembly",
+      "question": "Небо голубое",
+      "correctAnswer": "The sky is blue",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "An",
+          "This"
+        ],
+        [
+          "sky",
+          "sun",
+          "air",
+          "clouds"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "be"
+        ],
+        [
+          "blue",
+          "red",
+          "white",
+          "black"
+        ]
+      ],
+      "mistakeTags": [
+        "articles",
+        "article_the"
+      ],
+      "audioPath": "assets/audio/grammar/pre_11_articles/022.mp3"
+    },
+    {
+      "id": "t11_24",
+      "type": "sentenceAssembly",
+      "question": "У него есть машина",
+      "correctAnswer": "He has a car",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "Him",
+          "His",
+          "She"
+        ],
+        [
+          "has",
+          "have",
+          "had",
+          "got"
+        ],
+        [
+          "a",
+          "an",
+          "the",
+          "one"
+        ],
+        [
+          "car",
+          "bus",
+          "auto",
+          "vehicle"
+        ]
+      ],
+      "mistakeTags": [
+        "articles",
+        "article_a_an"
+      ],
+      "audioPath": "assets/audio/grammar/pre_11_articles/023.mp3"
+    },
+    {
+      "id": "t11_25",
+      "type": "sentenceAssembly",
+      "question": "Машина красная (та, что у него)",
+      "correctAnswer": "The car is red",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "An",
+          "One"
+        ],
+        [
+          "car",
+          "bus",
+          "auto",
+          "vehicle"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "be"
+        ],
+        [
+          "red",
+          "blue",
+          "green",
+          "black"
+        ]
+      ],
+      "mistakeTags": [
+        "articles",
+        "article_the"
+      ],
+      "audioPath": "assets/audio/grammar/pre_11_articles/024.mp3"
+    },
+    {
+      "id": "t11_26",
+      "type": "sentenceAssembly",
+      "question": "Она живет в Париже",
+      "correctAnswer": "She lives in Paris",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "Her",
+          "Hers",
+          "He"
+        ],
+        [
+          "lives",
+          "live",
+          "living",
+          "life"
+        ],
+        [
+          "in",
+          "at",
+          "on",
+          "to"
+        ],
+        [
+          "Paris",
+          "the Paris",
+          "a Paris",
+          "city"
+        ]
+      ],
+      "mistakeTags": [
+        "articles"
+      ],
+      "audioPath": "assets/audio/grammar/pre_11_articles/025.mp3"
+    },
+    {
+      "id": "t11_27",
+      "type": "sentenceAssembly",
+      "question": "Это интересная книга",
+      "correctAnswer": "This is an interesting book",
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "That",
+          "It",
+          "There"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "be"
+        ],
+        [
+          "an",
+          "a",
+          "the",
+          "one"
+        ],
+        [
+          "interesting",
+          "interest",
+          "good",
+          "nice"
+        ],
+        [
+          "book",
+          "text",
+          "novel",
+          "paper"
+        ]
+      ],
+      "mistakeTags": [
+        "articles",
+        "article_a_an"
+      ],
+      "audioPath": "assets/audio/grammar/pre_11_articles/026.mp3"
+    },
+    {
+      "id": "t11_28",
+      "type": "sentenceAssembly",
+      "question": "Президент здесь (титул)",
+      "correctAnswer": "The President is here",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "An",
+          "One"
+        ],
+        [
+          "President",
+          "king",
+          "boss",
+          "man"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "be"
+        ],
+        [
+          "here",
+          "there",
+          "near",
+          "place"
+        ]
+      ],
+      "mistakeTags": [
+        "articles",
+        "article_the"
+      ],
+      "audioPath": "assets/audio/grammar/pre_11_articles/027.mp3"
+    },
+    {
+      "id": "t11_29",
+      "type": "sentenceAssembly",
+      "question": "Вода холодная (в реке, конкретная)",
+      "correctAnswer": "The water is cold",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "An",
+          "One"
+        ],
+        [
+          "water",
+          "liquid",
+          "drink",
+          "sea"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "be"
+        ],
+        [
+          "cold",
+          "hot",
+          "warm",
+          "ice"
+        ]
+      ],
+      "mistakeTags": [
+        "articles",
+        "article_the"
+      ],
+      "audioPath": "assets/audio/grammar/pre_11_articles/028.mp3"
+    },
+    {
+      "id": "t11_30",
+      "type": "sentenceAssembly",
+      "question": "Вода необходима для жизни (вообще вода)",
+      "correctAnswer": "Water is necessary for life",
+      "options": [],
+      "variants": [
+        [
+          "Water",
+          "The water",
+          "A water",
+          "Drink"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "be"
+        ],
+        [
+          "necessary",
+          "need",
+          "good",
+          "bad"
+        ],
+        [
+          "for",
+          "to",
+          "at",
+          "in"
+        ],
+        [
+          "life",
+          "live",
+          "living",
+          "alive"
+        ]
+      ],
+      "mistakeTags": [
+        "articles"
+      ],
+      "audioPath": "assets/audio/grammar/pre_11_articles/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionBeginner11Articles",
+  "theoryQuiz": [
+    {
+      "id": "tq_01",
+      "type": "trueFalse",
+      "question": "Артикль \"a\" используется перед согласным звуком.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "A используется перед согласным звуком: a book, a cat, a house."
+    },
+    {
+      "id": "tq_02",
+      "type": "multipleChoice",
+      "question": "Какой артикль нужен: \"___ apple\"?",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "без артикля"
+      ],
+      "correctIndex": 1,
+      "explanation": "An используется перед гласным звуком: an apple (a — гласный звук)."
+    },
+    {
+      "id": "tq_03",
+      "type": "multipleChoice",
+      "question": "Когда используется артикль \"the\"?",
+      "options": [
+        "Когда говорим о любом предмете",
+        "Когда говорим о конкретном, известном предмете",
+        "Только с множественным числом",
+        "Только в вопросах"
+      ],
+      "correctIndex": 1,
+      "explanation": "The — определённый артикль, указывает на конкретный, уже известный предмет."
+    },
+    {
+      "id": "tq_04",
+      "type": "trueFalse",
+      "question": "\"I have an umbrella.\" — артикль \"an\" использован правильно.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Umbrella начинается с гласного звука, поэтому используется an."
+    },
+    {
+      "id": "tq_05",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"___ book on the table is mine.\"",
+      "options": [
+        "A",
+        "An",
+        "The",
+        "без артикля"
+      ],
+      "correctIndex": 2,
+      "explanation": "The — потому что речь о конкретной книге (on the table уточняет какая именно)."
+    },
+    {
+      "id": "tq_06",
+      "type": "trueFalse",
+      "question": "С множественным числом в общем смысле артикль не используется: I like cats.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Когда говорим о категории в целом, артикль не нужен: I like cats (кошки вообще)."
+    },
+    {
+      "id": "tq_07",
+      "type": "multipleChoice",
+      "question": "Какой артикль нужен: \"She is ___ honest person\"?",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "без артикля"
+      ],
+      "correctIndex": 1,
+      "explanation": "Honest начинается с гласного звука (h немое), поэтому an."
+    },
+    {
+      "id": "tq_08",
+      "type": "multipleChoice",
+      "question": "Выберите правильное предложение:",
+      "options": [
+        "I see a moon in the sky.",
+        "Give me the salt, please.",
+        "She is an teacher.",
+        "He has a orange."
+      ],
+      "correctIndex": 1,
+      "explanation": "The salt — конкретная соль (на столе). Moon обычно с the, teacher с a, orange с an."
+    },
+    {
+      "id": "tq_09",
+      "type": "trueFalse",
+      "question": "\"A\" и \"an\" — это неопределённые артикли.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "A/an — неопределённые артикли (любой, один из). The — определённый (конкретный)."
+    },
+    {
+      "id": "tq_10",
+      "type": "multipleChoice",
+      "question": "Как правильно: «Я вижу собаку» (любую, в первый раз упоминаем)?",
+      "options": [
+        "I see the dog.",
+        "I see dog.",
+        "I see a dog.",
+        "I see an dog."
+      ],
+      "correctIndex": 2,
+      "explanation": "Первое упоминание неконкретного предмета — неопределённый артикль a (dog начинается с согласного)."
+    }
+  ]
+}

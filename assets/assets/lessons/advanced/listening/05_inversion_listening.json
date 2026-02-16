@@ -1,0 +1,461 @@
+{
+  "id": "advanced_listening_05_inversion",
+  "title": "Inversion",
+  "description": "Слушайте предложения с инверсией для усиления смысла.",
+  "order": 5,
+  "level": "advanced",
+  "imageUrl": "assets/images/lessons/inversion.png",
+  "tasks": [
+    {
+      "id": "t5_01",
+      "audioText": "The journalist described the severity of the humanitarian crisis in her report. Never before had the region experienced such a devastating combination of drought and armed conflict.",
+      "transcript": "Never before had the region experienced such a devastating combination of drought and armed conflict.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The region had previously experienced similar crises many times."
+        },
+        {
+          "id": "o2",
+          "text": "This was the worst combination of drought and conflict the region had ever seen."
+        },
+        {
+          "id": "o3",
+          "text": "The journalist predicted a future drought in the region."
+        },
+        {
+          "id": "o4",
+          "text": "The conflict ended before the drought began."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Never before had... experienced' uses inversion with a negative adverb to emphasise that this crisis was unprecedented.",
+      "mistakeTags": [
+        "inversion",
+        "negative_adverb"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_05_inversion/t5_01.mp3"
+    },
+    {
+      "id": "t5_02",
+      "audioText": "The company's annual report highlighted several achievements. Not only did the firm exceed revenue targets, but it also expanded into four new international markets simultaneously.",
+      "transcript": "Not only did the firm exceed revenue targets, but it also expanded into four new international markets simultaneously.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The firm missed its revenue goals but expanded internationally."
+        },
+        {
+          "id": "o2",
+          "text": "The firm surpassed revenue expectations and additionally entered four new foreign markets at once."
+        },
+        {
+          "id": "o3",
+          "text": "The firm only expanded into one new market."
+        },
+        {
+          "id": "o4",
+          "text": "Revenue targets were met but no international expansion occurred."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Not only did... but also' uses inversion to emphasise two impressive achievements: exceeding targets and international expansion.",
+      "mistakeTags": [
+        "inversion",
+        "not_only"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_05_inversion/t5_02.mp3"
+    },
+    {
+      "id": "t5_03",
+      "audioText": "The ceremony had just begun when something extraordinary happened. Hardly had the conductor raised his baton when the entire concert hall was plunged into complete darkness.",
+      "transcript": "Hardly had the conductor raised his baton when the entire concert hall was plunged into complete darkness.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The concert continued without any interruptions."
+        },
+        {
+          "id": "o2",
+          "text": "The power went out after the concert had been going for a long time."
+        },
+        {
+          "id": "o3",
+          "text": "Almost immediately after the conductor lifted his baton, the concert hall went completely dark."
+        },
+        {
+          "id": "o4",
+          "text": "The conductor refused to start the performance."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Hardly had... when' uses inversion to show one action happened almost immediately after another. The blackout was instant.",
+      "mistakeTags": [
+        "inversion",
+        "hardly_when"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_05_inversion/t5_03.mp3"
+    },
+    {
+      "id": "t5_04",
+      "audioText": "The detective reflected on the most challenging case of her career. At no point during the investigation did she consider giving up despite overwhelming pressure from the media.",
+      "transcript": "At no point during the investigation did she consider giving up despite overwhelming pressure from the media.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She never thought about quitting the case even with intense media scrutiny."
+        },
+        {
+          "id": "o2",
+          "text": "She almost gave up the investigation because of media pressure."
+        },
+        {
+          "id": "o3",
+          "text": "The media supported her throughout the investigation."
+        },
+        {
+          "id": "o4",
+          "text": "She was removed from the case due to media interference."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'At no point did she consider' uses inversion with a negative expression to strongly emphasise her determination throughout.",
+      "mistakeTags": [
+        "inversion",
+        "negative_expression"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_05_inversion/t5_04.mp3"
+    },
+    {
+      "id": "t5_05",
+      "audioText": "The timing of the events was remarkable. No sooner had the president signed the trade agreement than the stock market surged to an all-time high.",
+      "transcript": "No sooner had the president signed the trade agreement than the stock market surged to an all-time high.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The stock market crashed after the trade agreement was signed."
+        },
+        {
+          "id": "o2",
+          "text": "Immediately after the president signed the deal, the stock market reached a record level."
+        },
+        {
+          "id": "o3",
+          "text": "The stock market peak happened long before the agreement was signed."
+        },
+        {
+          "id": "o4",
+          "text": "The president refused to sign the trade agreement."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'No sooner had... than' uses inversion to emphasise the immediate sequence: signing triggered an instant market surge.",
+      "mistakeTags": [
+        "inversion",
+        "no_sooner_than"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_05_inversion/t5_05.mp3"
+    },
+    {
+      "id": "t5_06",
+      "audioText": "The professor addressed the graduating class with a powerful speech. Rarely does one encounter a generation so well-equipped to tackle the challenges of artificial intelligence and climate change.",
+      "transcript": "Rarely does one encounter a generation so well-equipped to tackle the challenges of artificial intelligence and climate change.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The professor said it is uncommon to find a generation as prepared for AI and climate challenges as this one."
+        },
+        {
+          "id": "o2",
+          "text": "The professor said this generation is not prepared for modern challenges."
+        },
+        {
+          "id": "o3",
+          "text": "Previous generations were better equipped for current challenges."
+        },
+        {
+          "id": "o4",
+          "text": "The professor rarely speaks at graduation ceremonies."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Rarely does one encounter' inverts to emphasise the exceptional quality of this generation's preparedness.",
+      "mistakeTags": [
+        "inversion",
+        "negative_adverb"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_05_inversion/t5_06.mp3"
+    },
+    {
+      "id": "t5_07",
+      "audioText": "The expedition team finally reached the mountain summit after weeks of climbing. Only then did they realise the true magnitude of the challenge that still lay ahead of them.",
+      "transcript": "Only then did they realise the true magnitude of the challenge that still lay ahead of them.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "They understood the full difficulty before they reached the summit."
+        },
+        {
+          "id": "o2",
+          "text": "It was only at the summit that they grasped how enormous the remaining challenge really was."
+        },
+        {
+          "id": "o3",
+          "text": "Reaching the summit meant the entire challenge was behind them."
+        },
+        {
+          "id": "o4",
+          "text": "The team decided to turn back after reaching the summit."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Only then did they realise' uses inversion after 'only + time expression' to emphasise the delayed moment of understanding.",
+      "mistakeTags": [
+        "inversion",
+        "only_then"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_05_inversion/t5_07.mp3"
+    },
+    {
+      "id": "t5_08",
+      "audioText": "The literary critic reviewed the controversial novel. Seldom has a debut novel provoked such intense debate among scholars and ordinary readers alike.",
+      "transcript": "Seldom has a debut novel provoked such intense debate among scholars and ordinary readers alike.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "It is very rare for a first novel to generate this level of discussion among both experts and the public."
+        },
+        {
+          "id": "o2",
+          "text": "Debut novels frequently cause intense debates in literary circles."
+        },
+        {
+          "id": "o3",
+          "text": "Only scholars, not ordinary readers, discussed the novel."
+        },
+        {
+          "id": "o4",
+          "text": "The novel received no attention from either critics or the public."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Seldom has a debut novel provoked' uses inversion to highlight how unusual it is for a first novel to spark such widespread controversy.",
+      "mistakeTags": [
+        "inversion",
+        "negative_adverb"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_05_inversion/t5_08.mp3"
+    },
+    {
+      "id": "t5_09",
+      "audioText": "The witness took the stand during the high-profile corruption trial. Under no circumstances would she reveal the identity of her confidential source to the prosecution.",
+      "transcript": "Under no circumstances would she reveal the identity of her confidential source to the prosecution.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She agreed to reveal her source's identity under certain conditions."
+        },
+        {
+          "id": "o2",
+          "text": "She absolutely refused to disclose who her secret informant was, no matter what."
+        },
+        {
+          "id": "o3",
+          "text": "The prosecution already knew the identity of her source."
+        },
+        {
+          "id": "o4",
+          "text": "She accidentally revealed the source's name during questioning."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Under no circumstances would she reveal' uses inversion to express an absolute, unconditional refusal to disclose information.",
+      "mistakeTags": [
+        "inversion",
+        "negative_expression"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_05_inversion/t5_09.mp3"
+    },
+    {
+      "id": "t5_10",
+      "audioText": "The biographer described the artist's remarkable rise to fame. Little did the young painter know that her first exhibition would launch a career spanning five decades.",
+      "transcript": "Little did the young painter know that her first exhibition would launch a career spanning five decades.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The young painter expected her first exhibition to make her famous."
+        },
+        {
+          "id": "o2",
+          "text": "The painter had no idea at the time that her debut show would start a fifty-year career."
+        },
+        {
+          "id": "o3",
+          "text": "The painter's career lasted only a few years after the first exhibition."
+        },
+        {
+          "id": "o4",
+          "text": "The first exhibition was a complete failure."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Little did she know' uses inversion to dramatically convey that the painter was unaware of the impact her first exhibition would have.",
+      "mistakeTags": [
+        "inversion",
+        "little_did"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_05_inversion/t5_10.mp3"
+    },
+    {
+      "id": "t5_11",
+      "audioText": "The surgeon described the complex emergency procedure to medical students. Not until the final scan results came through did the surgical team allow themselves to believe the operation had succeeded.",
+      "transcript": "Not until the final scan results came through did the surgical team allow themselves to believe the operation had succeeded.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The team was confident from the start that the surgery would succeed."
+        },
+        {
+          "id": "o2",
+          "text": "The team only accepted the operation was successful after receiving the last scan results."
+        },
+        {
+          "id": "o3",
+          "text": "The final scan showed the operation had failed."
+        },
+        {
+          "id": "o4",
+          "text": "The team celebrated before the scan results were available."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Not until... did the team allow' uses inversion to stress that confirmation only came with the final scan results.",
+      "mistakeTags": [
+        "inversion",
+        "not_until"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_05_inversion/t5_11.mp3"
+    },
+    {
+      "id": "t5_12",
+      "audioText": "The CEO delivered a keynote address at the technology summit. Not once during his fifteen-year tenure had the company reported a quarterly loss until the global pandemic struck.",
+      "transcript": "Not once during his fifteen-year tenure had the company reported a quarterly loss until the global pandemic struck.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The company had never had a losing quarter in fifteen years until the pandemic caused one."
+        },
+        {
+          "id": "o2",
+          "text": "The company regularly reported losses during the CEO's tenure."
+        },
+        {
+          "id": "o3",
+          "text": "The pandemic had no effect on the company's financial performance."
+        },
+        {
+          "id": "o4",
+          "text": "The CEO resigned after the first quarterly loss."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Not once had the company reported' uses inversion to emphasise the perfect financial record that was finally broken by the pandemic.",
+      "mistakeTags": [
+        "inversion",
+        "negative_expression"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_05_inversion/t5_12.mp3"
+    },
+    {
+      "id": "t5_13",
+      "audioText": "The diplomat recounted the tense negotiations at the peace summit. Only after twelve consecutive hours of discussions did both delegations finally agree on the terms of the ceasefire.",
+      "transcript": "Only after twelve consecutive hours of discussions did both delegations finally agree on the terms of the ceasefire.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The delegations reached agreement quickly at the beginning of talks."
+        },
+        {
+          "id": "o2",
+          "text": "It took twelve straight hours of talks before the two sides finally accepted the ceasefire conditions."
+        },
+        {
+          "id": "o3",
+          "text": "The delegations failed to reach any agreement after twelve hours."
+        },
+        {
+          "id": "o4",
+          "text": "Only one delegation agreed to the ceasefire terms."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Only after twelve hours did both delegations agree' uses inversion to highlight how prolonged and difficult the negotiations were.",
+      "mistakeTags": [
+        "inversion",
+        "only_after"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_05_inversion/t5_13.mp3"
+    },
+    {
+      "id": "t5_14",
+      "audioText": "The financial analyst commented on the unprecedented market volatility. In no way does the current economic data suggest that a full recovery will occur within the next fiscal quarter.",
+      "transcript": "In no way does the current economic data suggest that a full recovery will occur within the next fiscal quarter.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The economic data shows clear signs of recovery next quarter."
+        },
+        {
+          "id": "o2",
+          "text": "The current economic indicators absolutely do not point to a complete recovery in the coming quarter."
+        },
+        {
+          "id": "o3",
+          "text": "The analyst is optimistic about the economy's short-term prospects."
+        },
+        {
+          "id": "o4",
+          "text": "The market has already fully recovered from the volatility."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'In no way does the data suggest' uses inversion with a negative phrase to strongly deny any expectation of imminent recovery.",
+      "mistakeTags": [
+        "inversion",
+        "negative_expression"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_05_inversion/t5_14.mp3"
+    },
+    {
+      "id": "t5_15",
+      "audioText": "The historian concluded her lecture on the space race with a powerful statement. Not since the first moon landing had a single scientific achievement captured the imagination of the entire world so completely.",
+      "transcript": "Not since the first moon landing had a single scientific achievement captured the imagination of the entire world so completely.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Many scientific achievements after the moon landing were equally captivating."
+        },
+        {
+          "id": "o2",
+          "text": "Since the moon landing, no other scientific feat had so thoroughly fascinated the whole world."
+        },
+        {
+          "id": "o3",
+          "text": "The moon landing was not particularly important to the public."
+        },
+        {
+          "id": "o4",
+          "text": "The historian was discussing a recent space mission failure."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Not since... had a single achievement captured' uses inversion to compare the impact of a recent event to the historic moon landing.",
+      "mistakeTags": [
+        "inversion",
+        "not_since"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_05_inversion/t5_15.mp3"
+    }
+  ],
+  "short_description": "Инверсия с отрицательными наречиями для усиления формального стиля."
+}

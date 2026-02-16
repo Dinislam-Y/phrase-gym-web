@@ -1,0 +1,400 @@
+{
+  "id": "upper_bc_09_gerund_infinitive",
+  "title": "Doing vs To Do",
+  "description": "Герундий или инфинитив? Разбираемся, когда после глагола ставить doing, а когда to do.",
+  "order": 9,
+  "level": "upper_intermediate",
+  "imageUrl": null,
+  "tasks": [
+    {
+      "id": "dvtd_1",
+      "question": "She enjoys ___ yoga every single morning.",
+      "optionA": "DOING",
+      "optionB": "TO DO",
+      "correctIndex": 0,
+      "explanation": "После enjoy всегда используется герундий. Enjoy выражает удовольствие от процесса, поэтому требует -ing форму.",
+      "tags": [
+        "doing_vs_to_do",
+        "doing",
+        "habits"
+      ]
+    },
+    {
+      "id": "dvtd_2",
+      "question": "He wants ___ something meaningful with his life.",
+      "optionA": "DOING",
+      "optionB": "TO DO",
+      "correctIndex": 1,
+      "explanation": "После want всегда ставится инфинитив с to. Want направлен на будущее действие, а не на процесс.",
+      "tags": [
+        "doing_vs_to_do",
+        "to_do",
+        "ambitions"
+      ]
+    },
+    {
+      "id": "dvtd_3",
+      "question": "I don't mind ___ the hard work around here.",
+      "optionA": "DOING",
+      "optionB": "TO DO",
+      "correctIndex": 0,
+      "explanation": "Mind требует герундия, потому что речь об отношении к процессу. 'Не возражаю делать' - оценка самого действия.",
+      "tags": [
+        "doing_vs_to_do",
+        "doing",
+        "opinions"
+      ]
+    },
+    {
+      "id": "dvtd_4",
+      "question": "They decided ___ it all by themselves.",
+      "optionA": "DOING",
+      "optionB": "TO DO",
+      "correctIndex": 1,
+      "explanation": "Decide всегда требует инфинитива с to. Решение направлено на будущее действие, которое ещё предстоит выполнить.",
+      "tags": [
+        "doing_vs_to_do",
+        "to_do",
+        "decisions"
+      ]
+    },
+    {
+      "id": "dvtd_5",
+      "question": "She avoids ___ anything risky in relationships.",
+      "optionA": "DOING",
+      "optionB": "TO DO",
+      "correctIndex": 0,
+      "explanation": "Avoid управляет герундием, так как мы избегаем самого процесса. Инфинитив после avoid - грубая ошибка.",
+      "tags": [
+        "doing_vs_to_do",
+        "doing",
+        "relationships"
+      ]
+    },
+    {
+      "id": "dvtd_6",
+      "question": "We hope ___ the right thing this time.",
+      "optionA": "DOING",
+      "optionB": "TO DO",
+      "correctIndex": 1,
+      "explanation": "Hope выражает надежду на будущее и требует инфинитива. Герундий после hope не используется.",
+      "tags": [
+        "doing_vs_to_do",
+        "to_do",
+        "self_reflection"
+      ]
+    },
+    {
+      "id": "dvtd_7",
+      "question": "He keeps ___ the same mistakes over and over.",
+      "optionA": "DOING",
+      "optionB": "TO DO",
+      "correctIndex": 0,
+      "explanation": "Keep в значении 'продолжать' требует герундия. Речь о повторяющемся действии, которое не прекращается.",
+      "tags": [
+        "doing_vs_to_do",
+        "doing",
+        "habits"
+      ]
+    },
+    {
+      "id": "dvtd_8",
+      "question": "I need ___ something about this situation now.",
+      "optionA": "DOING",
+      "optionB": "TO DO",
+      "correctIndex": 1,
+      "explanation": "Need в активном залоге требует инфинитива с to. Необходимость направлена на конкретное будущее действие.",
+      "tags": [
+        "doing_vs_to_do",
+        "to_do",
+        "decisions"
+      ]
+    },
+    {
+      "id": "dvtd_9",
+      "question": "She suggested ___ it a completely different way.",
+      "optionA": "DOING",
+      "optionB": "TO DO",
+      "correctIndex": 0,
+      "explanation": "Suggest требует герундия, а не инфинитива. Это один из глаголов, после которого to do - грамматическая ошибка.",
+      "tags": [
+        "doing_vs_to_do",
+        "doing",
+        "opinions"
+      ]
+    },
+    {
+      "id": "dvtd_10",
+      "question": "They agreed ___ it for us without any hesitation.",
+      "optionA": "DOING",
+      "optionB": "TO DO",
+      "correctIndex": 1,
+      "explanation": "Agree всегда используется с инфинитивом. Согласие направлено на выполнение действия в будущем.",
+      "tags": [
+        "doing_vs_to_do",
+        "to_do",
+        "relationships"
+      ]
+    },
+    {
+      "id": "dvtd_11",
+      "question": "I can't help ___ it whenever I see her smile.",
+      "optionA": "DOING",
+      "optionB": "TO DO",
+      "correctIndex": 0,
+      "explanation": "Can't help требует герундия и означает 'не могу удержаться'. Это устойчивое выражение, инфинитив здесь невозможен.",
+      "tags": [
+        "doing_vs_to_do",
+        "doing",
+        "emotions"
+      ]
+    },
+    {
+      "id": "dvtd_12",
+      "question": "He promised ___ it before the deadline arrives.",
+      "optionA": "DOING",
+      "optionB": "TO DO",
+      "correctIndex": 1,
+      "explanation": "Promise требует инфинитива, так как обещание касается будущего действия. Герундий после promise не употребляется.",
+      "tags": [
+        "doing_vs_to_do",
+        "to_do",
+        "career"
+      ]
+    },
+    {
+      "id": "dvtd_13",
+      "question": "She admitted ___ it behind everyone's back secretly.",
+      "optionA": "DOING",
+      "optionB": "TO DO",
+      "correctIndex": 0,
+      "explanation": "Admit управляет герундием, потому что признание касается уже совершённого действия. Admit + to do - ошибка.",
+      "tags": [
+        "doing_vs_to_do",
+        "doing",
+        "relationships"
+      ]
+    },
+    {
+      "id": "dvtd_14",
+      "question": "We expect ___ it much better next quarter.",
+      "optionA": "DOING",
+      "optionB": "TO DO",
+      "correctIndex": 1,
+      "explanation": "Expect требует инфинитива, так как ожидание направлено в будущее. Это глагол намерения и прогноза.",
+      "tags": [
+        "doing_vs_to_do",
+        "to_do",
+        "career"
+      ]
+    },
+    {
+      "id": "dvtd_15",
+      "question": "He denied ___ anything wrong during the meeting.",
+      "optionA": "DOING",
+      "optionB": "TO DO",
+      "correctIndex": 0,
+      "explanation": "Deny всегда требует герундия, так как отрицание относится к уже произошедшему действию. Deny + to do не существует.",
+      "tags": [
+        "doing_vs_to_do",
+        "doing",
+        "career"
+      ]
+    },
+    {
+      "id": "dvtd_16",
+      "question": "She refused ___ it even when they begged her.",
+      "optionA": "DOING",
+      "optionB": "TO DO",
+      "correctIndex": 1,
+      "explanation": "Refuse требует инфинитива с to. Отказ направлен на действие, которое человек не намерен выполнять.",
+      "tags": [
+        "doing_vs_to_do",
+        "to_do",
+        "decisions"
+      ]
+    },
+    {
+      "id": "dvtd_17",
+      "question": "She can't stand ___ the same thing every single day.",
+      "optionA": "DOING",
+      "optionB": "TO DO",
+      "correctIndex": 0,
+      "explanation": "Can't stand означает 'терпеть не могу' и требует герундия. Эмоция направлена на сам процесс действия.",
+      "tags": [
+        "doing_vs_to_do",
+        "doing",
+        "emotions"
+      ]
+    },
+    {
+      "id": "dvtd_18",
+      "question": "He offered ___ it for free as a personal favor.",
+      "optionA": "DOING",
+      "optionB": "TO DO",
+      "correctIndex": 1,
+      "explanation": "Offer требует инфинитива, так как предложение касается будущего действия. Offer + doing - грамматическая ошибка.",
+      "tags": [
+        "doing_vs_to_do",
+        "to_do",
+        "relationships"
+      ]
+    },
+    {
+      "id": "dvtd_19",
+      "question": "I imagine ___ it differently if I had the chance.",
+      "optionA": "DOING",
+      "optionB": "TO DO",
+      "correctIndex": 0,
+      "explanation": "Imagine управляет герундием, так как мы представляем себе процесс. Imagine + to do не используется.",
+      "tags": [
+        "doing_vs_to_do",
+        "doing",
+        "self_reflection"
+      ]
+    },
+    {
+      "id": "dvtd_20",
+      "question": "She seems ___ it well under all the pressure.",
+      "optionA": "DOING",
+      "optionB": "TO DO",
+      "correctIndex": 1,
+      "explanation": "Seem всегда требует инфинитива. Это глагол восприятия, описывающий впечатление о действии.",
+      "tags": [
+        "doing_vs_to_do",
+        "to_do",
+        "opinions"
+      ]
+    },
+    {
+      "id": "dvtd_21",
+      "question": "He stopped ___ it after years of bad habits.",
+      "optionA": "DOING",
+      "optionB": "TO DO",
+      "correctIndex": 0,
+      "explanation": "Stop doing означает 'прекратить делать что-то'. Он перестал это делать после многих лет вредных привычек.",
+      "tags": [
+        "doing_vs_to_do",
+        "doing",
+        "personal_growth"
+      ]
+    },
+    {
+      "id": "dvtd_22",
+      "question": "She stopped ___ it properly before her big presentation.",
+      "optionA": "DOING",
+      "optionB": "TO DO",
+      "correctIndex": 1,
+      "explanation": "Stop to do означает 'остановиться, чтобы сделать'. Она прервалась, чтобы сделать это как следует перед презентацией.",
+      "tags": [
+        "doing_vs_to_do",
+        "to_do",
+        "career"
+      ]
+    },
+    {
+      "id": "dvtd_23",
+      "question": "I remember ___ it when I was just a child.",
+      "optionA": "DOING",
+      "optionB": "TO DO",
+      "correctIndex": 0,
+      "explanation": "Remember doing означает 'помнить, что делал в прошлом'. Воспоминание о действии, которое уже произошло.",
+      "tags": [
+        "doing_vs_to_do",
+        "doing",
+        "self_reflection"
+      ]
+    },
+    {
+      "id": "dvtd_24",
+      "question": "Please remember ___ it before you leave tonight.",
+      "optionA": "DOING",
+      "optionB": "TO DO",
+      "correctIndex": 1,
+      "explanation": "Remember to do означает 'не забыть сделать'. Напоминание о действии, которое ещё предстоит выполнить.",
+      "tags": [
+        "doing_vs_to_do",
+        "to_do",
+        "habits"
+      ]
+    },
+    {
+      "id": "dvtd_25",
+      "question": "We tried ___ it another way but nothing really changed.",
+      "optionA": "DOING",
+      "optionB": "TO DO",
+      "correctIndex": 0,
+      "explanation": "Try doing означает 'попробовать сделать как эксперимент'. Мы попробовали другой способ, но результат не изменился.",
+      "tags": [
+        "doing_vs_to_do",
+        "doing",
+        "decisions"
+      ]
+    },
+    {
+      "id": "dvtd_26",
+      "question": "He tried ___ it on time but he completely failed.",
+      "optionA": "DOING",
+      "optionB": "TO DO",
+      "correctIndex": 1,
+      "explanation": "Try to do означает 'стараться, прилагать усилия'. Он старался сделать это вовремя, но потерпел неудачу.",
+      "tags": [
+        "doing_vs_to_do",
+        "to_do",
+        "personal_growth"
+      ]
+    },
+    {
+      "id": "dvtd_27",
+      "question": "She risked ___ it alone without anyone's approval.",
+      "optionA": "DOING",
+      "optionB": "TO DO",
+      "correctIndex": 0,
+      "explanation": "Risk всегда требует герундия, так как мы рискуем самим процессом. Risk + to do - грубая ошибка.",
+      "tags": [
+        "doing_vs_to_do",
+        "doing",
+        "decisions"
+      ]
+    },
+    {
+      "id": "dvtd_28",
+      "question": "They managed ___ it despite all the unexpected obstacles.",
+      "optionA": "DOING",
+      "optionB": "TO DO",
+      "correctIndex": 1,
+      "explanation": "Manage требует инфинитива и означает 'суметь, справиться'. Они справились, несмотря на все неожиданные препятствия.",
+      "tags": [
+        "doing_vs_to_do",
+        "to_do",
+        "personal_growth"
+      ]
+    },
+    {
+      "id": "dvtd_29",
+      "question": "I look forward to ___ it with you someday.",
+      "optionA": "DOING",
+      "optionB": "TO DO",
+      "correctIndex": 0,
+      "explanation": "Look forward to - устойчивое выражение, где to - предлог, а не часть инфинитива. После предлога to всегда герундий.",
+      "tags": [
+        "doing_vs_to_do",
+        "doing",
+        "relationships"
+      ]
+    },
+    {
+      "id": "dvtd_30",
+      "question": "He failed ___ it correctly on the very first attempt.",
+      "optionA": "DOING",
+      "optionB": "TO DO",
+      "correctIndex": 1,
+      "explanation": "Fail требует инфинитива и означает 'не суметь сделать'. Он не смог сделать это правильно с первой попытки.",
+      "tags": [
+        "doing_vs_to_do",
+        "to_do",
+        "career"
+      ]
+    }
+  ]
+}

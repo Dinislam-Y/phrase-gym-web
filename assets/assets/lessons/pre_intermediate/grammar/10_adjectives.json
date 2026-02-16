@@ -1,0 +1,1575 @@
+{
+  "id": "pre_10_adjectives",
+  "title": "Adjectives",
+  "description": "Прилагательные — это «фильтры» для реальности. Без них мир серо-черный: «Дом, машина, кот». С ними: «Уютный дом, быстрая машина, пушистый кот».",
+  "order": 10,
+  "level": "pre_intermediate",
+  "imageUrl": "assets/images/lessons/adjectives.png",
+  "vocabulary": [
+    {
+      "id": "v10_good",
+      "english": "good",
+      "russian": "хороший",
+      "partOfSpeech": "adjective",
+      "example": "A good book.",
+      "exampleTranslation": "Хорошая книга.",
+      "audioPath": "assets/audio/vocabulary/v10_good.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_good.mp3"
+    },
+    {
+      "id": "v10_bad",
+      "english": "bad",
+      "russian": "плохой",
+      "partOfSpeech": "adjective",
+      "example": "The worst day.",
+      "exampleTranslation": "Худший день.",
+      "audioPath": "assets/audio/vocabulary/v10_bad.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_bad.mp3"
+    },
+    {
+      "id": "v10_tall",
+      "english": "tall",
+      "russian": "высокий",
+      "partOfSpeech": "adjective",
+      "example": "He is taller.",
+      "exampleTranslation": "Он выше.",
+      "audioPath": "assets/audio/vocabulary/v10_tall.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_tall.mp3"
+    },
+    {
+      "id": "v10_interesting",
+      "english": "interesting",
+      "russian": "интересный",
+      "partOfSpeech": "adjective",
+      "example": "Interesting movie.",
+      "exampleTranslation": "Интересный фильм.",
+      "audioPath": "assets/audio/vocabulary/v10_interesting.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_interesting.mp3"
+    },
+    {
+      "id": "v10_old",
+      "english": "old",
+      "russian": "старый",
+      "partOfSpeech": "adjective",
+      "example": "Old car.",
+      "exampleTranslation": "Старая машина.",
+      "audioPath": "assets/audio/vocabulary/v10_old.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_old.mp3"
+    },
+    {
+      "id": "v10_young",
+      "english": "young",
+      "russian": "молодой",
+      "partOfSpeech": "adjective",
+      "example": "Young man.",
+      "exampleTranslation": "Молодой человек.",
+      "audioPath": "assets/audio/vocabulary/v10_young.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_young.mp3"
+    },
+    {
+      "id": "v10_smart",
+      "english": "smart",
+      "russian": "умный",
+      "partOfSpeech": "adjective",
+      "example": "Smart girl.",
+      "exampleTranslation": "Умная девочка.",
+      "audioPath": "assets/audio/vocabulary/v10_smart.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_smart.mp3"
+    },
+    {
+      "id": "v10_difficult",
+      "english": "difficult",
+      "russian": "трудный",
+      "partOfSpeech": "adjective",
+      "example": "Difficult task.",
+      "exampleTranslation": "Трудная задача.",
+      "audioPath": "assets/audio/vocabulary/v10_difficult.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_difficult.mp3"
+    },
+    {
+      "id": "v10_rich",
+      "english": "rich",
+      "russian": "богатый",
+      "partOfSpeech": "adjective",
+      "example": "He is very rich.",
+      "exampleTranslation": "Он очень богат.",
+      "audioPath": "assets/audio/vocabulary/v10_rich.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_rich.mp3"
+    },
+    {
+      "id": "v10_important",
+      "english": "important",
+      "russian": "важный",
+      "partOfSpeech": "adjective",
+      "example": "Important question.",
+      "exampleTranslation": "Важный вопрос.",
+      "audioPath": "assets/audio/vocabulary/v10_important.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_important.mp3"
+    },
+    {
+      "id": "v10_happy",
+      "english": "happy",
+      "russian": "счастливый",
+      "partOfSpeech": "adjective",
+      "example": "I am happy.",
+      "exampleTranslation": "Я счастлив.",
+      "audioPath": "assets/audio/vocabulary/v10_happy.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_happy.mp3"
+    },
+    {
+      "id": "v10_expensive",
+      "english": "expensive",
+      "russian": "дорогой",
+      "partOfSpeech": "adjective",
+      "example": "Expensive hotel.",
+      "exampleTranslation": "Дорогой отель.",
+      "audioPath": "assets/audio/vocabulary/v10_expensive.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_expensive.mp3"
+    },
+    {
+      "id": "v10_hot",
+      "english": "hot",
+      "russian": "горячий (жаркий)",
+      "partOfSpeech": "adjective",
+      "example": "Summer is hot.",
+      "exampleTranslation": "Лето жаркое.",
+      "audioPath": "assets/audio/vocabulary/v10_hot.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_hot.mp3"
+    },
+    {
+      "id": "v10_beautiful",
+      "english": "beautiful",
+      "russian": "красивый",
+      "partOfSpeech": "adjective",
+      "example": "Beautiful girl.",
+      "exampleTranslation": "Красивая девушка.",
+      "audioPath": "assets/audio/vocabulary/v10_beautiful.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_beautiful.mp3"
+    },
+    {
+      "id": "v10_fast",
+      "english": "fast",
+      "russian": "быстрый",
+      "partOfSpeech": "adjective",
+      "example": "Fast car.",
+      "exampleTranslation": "Быстрая машина.",
+      "audioPath": "assets/audio/vocabulary/v10_fast.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_fast.mp3"
+    },
+    {
+      "id": "v10_strong",
+      "english": "strong",
+      "russian": "сильный",
+      "partOfSpeech": "adjective",
+      "example": "Strong man.",
+      "exampleTranslation": "Сильный мужчина.",
+      "audioPath": "assets/audio/vocabulary/v10_strong.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_strong.mp3"
+    },
+    {
+      "id": "v10_boring",
+      "english": "boring",
+      "russian": "скучный",
+      "partOfSpeech": "adjective",
+      "example": "Boring lesson.",
+      "exampleTranslation": "Скучный урок.",
+      "audioPath": "assets/audio/vocabulary/v10_boring.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_boring.mp3"
+    },
+    {
+      "id": "v10_weather",
+      "english": "weather",
+      "russian": "погода",
+      "partOfSpeech": "noun",
+      "example": "The weather is good.",
+      "exampleTranslation": "Погода хорошая.",
+      "audioPath": "assets/audio/vocabulary/v10_weather.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_weather.mp3"
+    },
+    {
+      "id": "v10_task",
+      "english": "task",
+      "russian": "задача",
+      "partOfSpeech": "noun",
+      "example": "Difficult task.",
+      "exampleTranslation": "Трудная задача.",
+      "audioPath": "assets/audio/vocabulary/v10_task.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_task.mp3"
+    },
+    {
+      "id": "v10_summer",
+      "english": "summer",
+      "russian": "лето",
+      "partOfSpeech": "noun",
+      "example": "Summer is hot.",
+      "exampleTranslation": "Лето жаркое.",
+      "audioPath": "assets/audio/vocabulary/v10_summer.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_summer.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "Adjectives",
+    "subtitle": "Прилагательные (Ad-jectives — «добавленные к объекту») отвечают на вопрос «Какой?». Они как краски в палитре художника.",
+    "construction": {
+      "formula": "Degrees of Comparison",
+      "rules": [
+        {
+          "word": "Короткие слова (1 слог)",
+          "description": "Добавляем хвост -er (быстрее) или -est (самый быстрый). Big -> Bigger -> The Biggest."
+        },
+        {
+          "word": "Длинные слова (2+ слога)",
+          "description": "Слова не резиновые, поэтому добавляем more (более) или most (наиболее). Beautiful -> More beautiful -> The most beautiful."
+        },
+        {
+          "word": "Исключения",
+          "description": "Good -> Better -> The Best. Bad -> Worse -> The Worst."
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "star",
+        "color": "blue",
+        "title": "Описание",
+        "description": "Просто раскрашиваем предмет. A red car. She is happy.",
+        "example": {
+          "english": "It is a dangerous place.",
+          "russian": "Это опасное место."
+        }
+      },
+      {
+        "icon": "check_circle",
+        "color": "purple",
+        "title": "Сравнение (Better)",
+        "description": "Битва двух предметов. Кто быстрее/выше/сильнее? Обязательно слово THAN (чем).",
+        "example": {
+          "english": "My car is faster than yours.",
+          "russian": "Моя машина быстрее, чем твоя."
+        }
+      },
+      {
+        "icon": "favorite",
+        "color": "green",
+        "title": "Чемпион (The Best)",
+        "description": "Самый-самый среди всех. Всегда с артиклем THE.",
+        "example": {
+          "english": "It is the best day ever.",
+          "russian": "Это самый лучший день."
+        }
+      }
+    ],
+    "markers": [
+      "good",
+      "bad",
+      "better",
+      "worse",
+      "than",
+      "the best",
+      "more",
+      "the most"
+    ]
+  },
+  "tasks": [
+    {
+      "id": "t10_1",
+      "type": "sentenceAssembly",
+      "question": "Это хорошая книга",
+      "correctAnswer": "This is a good book",
+      "mistakeTags": [
+        "adjectives",
+        "adjective_be"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "That",
+          "It",
+          "There"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "be"
+        ],
+        [
+          "a",
+          "an",
+          "the",
+          "one"
+        ],
+        [
+          "good",
+          "better",
+          "best",
+          "nice"
+        ],
+        [
+          "book",
+          "text",
+          "novel",
+          "paper"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_10_adjectives/000.mp3"
+    },
+    {
+      "id": "t10_2",
+      "type": "sentenceAssembly",
+      "question": "Он выше меня",
+      "correctAnswer": "He is taller than me",
+      "mistakeTags": [
+        "adjectives",
+        "adjective_be",
+        "adjective_comparative"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "Him",
+          "His",
+          "She"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "be"
+        ],
+        [
+          "taller",
+          "tall",
+          "tallest",
+          "more tall"
+        ],
+        [
+          "than",
+          "then",
+          "that",
+          "the"
+        ],
+        [
+          "me",
+          "I",
+          "my",
+          "mine"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_10_adjectives/001.mp3"
+    },
+    {
+      "id": "t10_3",
+      "type": "sentenceAssembly",
+      "question": "Этот фильм интересный",
+      "correctAnswer": "This movie is interesting",
+      "mistakeTags": [
+        "adjectives",
+        "adjective_be",
+        "adjective_comparative"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "That",
+          "The",
+          "My"
+        ],
+        [
+          "movie",
+          "book",
+          "story",
+          "game"
+        ],
+        [
+          "is",
+          "was",
+          "are",
+          "looks"
+        ],
+        [
+          "interesting",
+          "boring",
+          "funny",
+          "great"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_10_adjectives/002.mp3"
+    },
+    {
+      "id": "t10_4",
+      "type": "sentenceAssembly",
+      "question": "Моя машина старая",
+      "correctAnswer": "My car is old",
+      "mistakeTags": [
+        "adjectives",
+        "adjective_be"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "My",
+          "Me",
+          "Mine",
+          "I"
+        ],
+        [
+          "car",
+          "bus",
+          "auto",
+          "vehicle"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "be"
+        ],
+        [
+          "old",
+          "older",
+          "oldest",
+          "new"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_10_adjectives/003.mp3"
+    },
+    {
+      "id": "t10_5",
+      "type": "sentenceAssembly",
+      "question": "Погода лучше",
+      "correctAnswer": "The weather is better",
+      "mistakeTags": [
+        "adjectives",
+        "adjective_be",
+        "adjective_comparative"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "This",
+          "My",
+          "Our"
+        ],
+        [
+          "weather",
+          "food",
+          "day",
+          "mood"
+        ],
+        [
+          "is",
+          "was",
+          "looks",
+          "seems"
+        ],
+        [
+          "better",
+          "worse",
+          "colder",
+          "nicer"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_10_adjectives/004.mp3"
+    },
+    {
+      "id": "t10_6",
+      "type": "sentenceAssembly",
+      "question": "Она самая умная девочка",
+      "correctAnswer": "She is the smartest girl",
+      "mistakeTags": [
+        "adjectives",
+        "adjective_be",
+        "adjective_comparative"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "Her",
+          "Hers",
+          "He"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "be"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "one"
+        ],
+        [
+          "smartest",
+          "smart",
+          "smarter",
+          "intelligent"
+        ],
+        [
+          "girl",
+          "boy",
+          "woman",
+          "child"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_10_adjectives/005.mp3"
+    },
+    {
+      "id": "t10_7",
+      "type": "sentenceAssembly",
+      "question": "Эта задача трудная",
+      "correctAnswer": "This task is difficult",
+      "mistakeTags": [
+        "adjectives",
+        "adjective_be"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "That",
+          "The",
+          "A"
+        ],
+        [
+          "task",
+          "job",
+          "work",
+          "problem"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "be"
+        ],
+        [
+          "difficult",
+          "hard",
+          "easy",
+          "heavy"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_10_adjectives/006.mp3"
+    },
+    {
+      "id": "t10_8",
+      "type": "sentenceAssembly",
+      "question": "Твоя комната меньше",
+      "correctAnswer": "Your room is smaller",
+      "mistakeTags": [
+        "adjectives",
+        "adjective_be",
+        "adjective_comparative"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "Your",
+          "My",
+          "This",
+          "The"
+        ],
+        [
+          "room",
+          "house",
+          "bag",
+          "car"
+        ],
+        [
+          "is",
+          "was",
+          "looks",
+          "seems"
+        ],
+        [
+          "smaller",
+          "bigger",
+          "nicer",
+          "darker"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_10_adjectives/007.mp3"
+    },
+    {
+      "id": "t10_9",
+      "type": "sentenceAssembly",
+      "question": "Это худший день",
+      "correctAnswer": "This is the worst day",
+      "mistakeTags": [
+        "adjectives",
+        "adjective_be",
+        "adjective_comparative"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "That",
+          "It",
+          "There"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "be"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "one"
+        ],
+        [
+          "worst",
+          "bad",
+          "worse",
+          "baddest"
+        ],
+        [
+          "day",
+          "time",
+          "date",
+          "morning"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_10_adjectives/008.mp3"
+    },
+    {
+      "id": "t10_10",
+      "type": "sentenceAssembly",
+      "question": "Он очень богатый",
+      "correctAnswer": "He is very rich",
+      "mistakeTags": [
+        "adjectives",
+        "adjective_be"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "Him",
+          "His",
+          "She"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "be"
+        ],
+        [
+          "very",
+          "so",
+          "too",
+          "much"
+        ],
+        [
+          "rich",
+          "poor",
+          "money",
+          "cash"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_10_adjectives/009.mp3"
+    },
+    {
+      "id": "t10_11",
+      "type": "sentenceAssembly",
+      "question": "Этот вопрос важный",
+      "correctAnswer": "This question is important",
+      "mistakeTags": [
+        "adjectives",
+        "adjective_be"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "That",
+          "The",
+          "A"
+        ],
+        [
+          "question",
+          "ask",
+          "problem",
+          "issue"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "be"
+        ],
+        [
+          "important",
+          "big",
+          "main",
+          "serious"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_10_adjectives/010.mp3"
+    },
+    {
+      "id": "t10_12",
+      "type": "sentenceAssembly",
+      "question": "Слон больше",
+      "correctAnswer": "An elephant is bigger",
+      "mistakeTags": [
+        "adjectives",
+        "adjective_be",
+        "adjective_comparative"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "An",
+          "The",
+          "This",
+          "My"
+        ],
+        [
+          "elephant",
+          "dog",
+          "cat",
+          "horse"
+        ],
+        [
+          "is",
+          "was",
+          "looks",
+          "seems"
+        ],
+        [
+          "bigger",
+          "smaller",
+          "faster",
+          "slower"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_10_adjectives/011.mp3"
+    },
+    {
+      "id": "t10_13",
+      "type": "sentenceAssembly",
+      "question": "Я счастлив",
+      "correctAnswer": "I am happy",
+      "mistakeTags": [
+        "adjectives",
+        "adjective_be"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "My",
+          "Am"
+        ],
+        [
+          "am",
+          "is",
+          "are",
+          "be"
+        ],
+        [
+          "happy",
+          "sad",
+          "glad",
+          "good"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_10_adjectives/012.mp3"
+    },
+    {
+      "id": "t10_14",
+      "type": "sentenceAssembly",
+      "question": "Это очень дорого",
+      "correctAnswer": "This is very expensive",
+      "mistakeTags": [
+        "adjectives",
+        "adjective_be",
+        "adjective_comparative"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "That",
+          "It",
+          "The"
+        ],
+        [
+          "is",
+          "was",
+          "looks",
+          "seems"
+        ],
+        [
+          "very",
+          "too",
+          "quite",
+          "so"
+        ],
+        [
+          "expensive",
+          "cheap",
+          "big",
+          "nice"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_10_adjectives/013.mp3"
+    },
+    {
+      "id": "t10_15",
+      "type": "sentenceAssembly",
+      "question": "Лето жаркое",
+      "correctAnswer": "Summer is hot",
+      "mistakeTags": [
+        "adjectives",
+        "adjective_be"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "Summer",
+          "Spring",
+          "Winter",
+          "Fall"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "be"
+        ],
+        [
+          "hot",
+          "cold",
+          "warm",
+          "cool"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_10_adjectives/014.mp3"
+    },
+    {
+      "id": "t10_16",
+      "type": "sentenceAssembly",
+      "question": "Эта девушка красивая",
+      "correctAnswer": "This girl is beautiful",
+      "mistakeTags": [
+        "adjectives",
+        "adjective_be"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "That",
+          "The",
+          "A"
+        ],
+        [
+          "girl",
+          "boy",
+          "woman",
+          "lady"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "be"
+        ],
+        [
+          "beautiful",
+          "nice",
+          "pretty",
+          "good"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_10_adjectives/015.mp3"
+    },
+    {
+      "id": "t10_17",
+      "type": "sentenceAssembly",
+      "question": "Феррари быстрее Лады",
+      "correctAnswer": "Ferrari is faster than Lada",
+      "mistakeTags": [
+        "adjectives",
+        "adjective_be",
+        "adjective_comparative"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "Ferrari",
+          "Car",
+          "It",
+          "Auto"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "be"
+        ],
+        [
+          "faster",
+          "fast",
+          "fastest",
+          "quick"
+        ],
+        [
+          "than",
+          "then",
+          "that",
+          "to"
+        ],
+        [
+          "Lada",
+          "car",
+          "auto",
+          "vehicle"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_10_adjectives/016.mp3"
+    },
+    {
+      "id": "t10_18",
+      "type": "sentenceAssembly",
+      "question": "Он самый сильный человек",
+      "correctAnswer": "He is the strongest man",
+      "mistakeTags": [
+        "adjectives",
+        "adjective_be",
+        "adjective_comparative"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "Him",
+          "His",
+          "She"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "be"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "one"
+        ],
+        [
+          "strongest",
+          "strong",
+          "stronger",
+          "power"
+        ],
+        [
+          "man",
+          "human",
+          "person",
+          "boy"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_10_adjectives/017.mp3"
+    },
+    {
+      "id": "t10_19",
+      "type": "sentenceAssembly",
+      "question": "Этот урок скучный",
+      "correctAnswer": "This lesson is boring",
+      "mistakeTags": [
+        "adjectives",
+        "adjective_be"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "That",
+          "The",
+          "A"
+        ],
+        [
+          "lesson",
+          "class",
+          "school",
+          "task"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "be"
+        ],
+        [
+          "boring",
+          "bored",
+          "bore",
+          "bad"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_10_adjectives/018.mp3"
+    },
+    {
+      "id": "t10_20",
+      "type": "sentenceAssembly",
+      "question": "Мой дом очень большой",
+      "correctAnswer": "My house is very big",
+      "mistakeTags": [
+        "adjectives",
+        "adjective_be",
+        "adjective_comparative"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "My",
+          "This",
+          "The",
+          "Your"
+        ],
+        [
+          "house",
+          "room",
+          "car",
+          "dog"
+        ],
+        [
+          "is",
+          "was",
+          "looks",
+          "seems"
+        ],
+        [
+          "very",
+          "too",
+          "quite",
+          "so"
+        ],
+        [
+          "big",
+          "small",
+          "nice",
+          "old"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_10_adjectives/019.mp3"
+    },
+    {
+      "id": "t10_21",
+      "type": "sentenceAssembly",
+      "question": "Суп холодный",
+      "correctAnswer": "The soup is cold",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "An",
+          "One"
+        ],
+        [
+          "soup",
+          "food",
+          "lunch",
+          "meal"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "be"
+        ],
+        [
+          "cold",
+          "hot",
+          "warm",
+          "ice"
+        ]
+      ],
+      "mistakeTags": [
+        "adjectives",
+        "adjective_be"
+      ],
+      "audioPath": "assets/audio/grammar/pre_10_adjectives/020.mp3"
+    },
+    {
+      "id": "t10_22",
+      "type": "sentenceAssembly",
+      "question": "Это легкий тест",
+      "correctAnswer": "This is an easy test",
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "That",
+          "It",
+          "There"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "be"
+        ],
+        [
+          "an",
+          "a",
+          "the",
+          "one"
+        ],
+        [
+          "easy",
+          "hard",
+          "simple",
+          "light"
+        ],
+        [
+          "test",
+          "exam",
+          "check",
+          "task"
+        ]
+      ],
+      "mistakeTags": [
+        "adjectives",
+        "adjective_be"
+      ],
+      "audioPath": "assets/audio/grammar/pre_10_adjectives/021.mp3"
+    },
+    {
+      "id": "t10_23",
+      "type": "sentenceAssembly",
+      "question": "Я занят",
+      "correctAnswer": "I am busy",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "My",
+          "Am"
+        ],
+        [
+          "am",
+          "is",
+          "are",
+          "be"
+        ],
+        [
+          "busy",
+          "free",
+          "work",
+          "full"
+        ]
+      ],
+      "mistakeTags": [
+        "adjectives",
+        "adjective_be"
+      ],
+      "audioPath": "assets/audio/grammar/pre_10_adjectives/022.mp3"
+    },
+    {
+      "id": "t10_24",
+      "type": "sentenceAssembly",
+      "question": "Это опасно",
+      "correctAnswer": "It is dangerous",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "This",
+          "That",
+          "There"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "be"
+        ],
+        [
+          "dangerous",
+          "danger",
+          "safe",
+          "bad"
+        ]
+      ],
+      "mistakeTags": [
+        "adjectives",
+        "adjective_be"
+      ],
+      "audioPath": "assets/audio/grammar/pre_10_adjectives/023.mp3"
+    },
+    {
+      "id": "t10_25",
+      "type": "sentenceAssembly",
+      "question": "Какой цвет тебе нравится?",
+      "correctAnswer": "Which color do you like?",
+      "options": [],
+      "variants": [
+        [
+          "Which",
+          "What",
+          "Where",
+          "Who"
+        ],
+        [
+          "color",
+          "colour",
+          "paint",
+          "bright"
+        ],
+        [
+          "do",
+          "does",
+          "are",
+          "is"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "she"
+        ],
+        [
+          "like",
+          "love",
+          "want",
+          "need"
+        ]
+      ],
+      "mistakeTags": [
+        "adjectives"
+      ],
+      "audioPath": "assets/audio/grammar/pre_10_adjectives/024.mp3"
+    },
+    {
+      "id": "t10_26",
+      "type": "sentenceAssembly",
+      "question": "Он молодой",
+      "correctAnswer": "He is young",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "Him",
+          "His",
+          "She"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "be"
+        ],
+        [
+          "young",
+          "old",
+          "new",
+          "baby"
+        ]
+      ],
+      "mistakeTags": [
+        "adjectives",
+        "adjective_be"
+      ],
+      "audioPath": "assets/audio/grammar/pre_10_adjectives/025.mp3"
+    },
+    {
+      "id": "t10_27",
+      "type": "sentenceAssembly",
+      "question": "Моя сумка тяжелая",
+      "correctAnswer": "My bag is heavy",
+      "options": [],
+      "variants": [
+        [
+          "My",
+          "Me",
+          "Mine",
+          "I"
+        ],
+        [
+          "bag",
+          "box",
+          "case",
+          "purse"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "be"
+        ],
+        [
+          "heavy",
+          "light",
+          "hard",
+          "big"
+        ]
+      ],
+      "mistakeTags": [
+        "adjectives",
+        "adjective_be"
+      ],
+      "audioPath": "assets/audio/grammar/pre_10_adjectives/026.mp3"
+    },
+    {
+      "id": "t10_28",
+      "type": "sentenceAssembly",
+      "question": "Это очень дешево",
+      "correctAnswer": "It is very cheap",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "This",
+          "That",
+          "There"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "be"
+        ],
+        [
+          "very",
+          "so",
+          "too",
+          "much"
+        ],
+        [
+          "cheap",
+          "expensive",
+          "money",
+          "low"
+        ]
+      ],
+      "mistakeTags": [
+        "adjectives",
+        "adjective_be"
+      ],
+      "audioPath": "assets/audio/grammar/pre_10_adjectives/027.mp3"
+    },
+    {
+      "id": "t10_29",
+      "type": "sentenceAssembly",
+      "question": "Она уставшая",
+      "correctAnswer": "She is tired",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "Her",
+          "He",
+          "Hers"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "be"
+        ],
+        [
+          "tired",
+          "sleepy",
+          "sad",
+          "bad"
+        ]
+      ],
+      "mistakeTags": [
+        "adjectives",
+        "adjective_be"
+      ],
+      "audioPath": "assets/audio/grammar/pre_10_adjectives/028.mp3"
+    },
+    {
+      "id": "t10_30",
+      "type": "sentenceAssembly",
+      "question": "Это самый длинный путь",
+      "correctAnswer": "This is the longest way",
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "That",
+          "It",
+          "Here"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "be"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "one"
+        ],
+        [
+          "longest",
+          "long",
+          "longer",
+          "length"
+        ],
+        [
+          "way",
+          "road",
+          "street",
+          "path"
+        ]
+      ],
+      "mistakeTags": [
+        "adjectives",
+        "adjective_be"
+      ],
+      "audioPath": "assets/audio/grammar/pre_10_adjectives/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionBeginner10Adjectives",
+  "theoryQuiz": [
+    {
+      "id": "tq_01",
+      "type": "trueFalse",
+      "question": "Прилагательные в английском языке отвечают на вопрос «Какой?».",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Adjectives описывают качества предмета: big, small, beautiful — «какой?»."
+    },
+    {
+      "id": "tq_02",
+      "type": "multipleChoice",
+      "question": "Где стоит прилагательное в предложении \"a red car\"?",
+      "options": [
+        "После существительного",
+        "Перед существительным",
+        "После глагола",
+        "В конце предложения"
+      ],
+      "correctIndex": 1,
+      "explanation": "Прилагательное стоит перед существительным: a red car, a big house."
+    },
+    {
+      "id": "tq_03",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"The flowers are ___.\"",
+      "options": [
+        "beautifuls",
+        "beautiful",
+        "beautifully",
+        "beautifuler"
+      ],
+      "correctIndex": 1,
+      "explanation": "Прилагательное после be не изменяется: The flowers are beautiful."
+    },
+    {
+      "id": "tq_04",
+      "type": "trueFalse",
+      "question": "Английские прилагательные изменяются по числам: a big house / bigs houses.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "Прилагательные в английском НЕ изменяются по числам: a big house / big houses."
+    },
+    {
+      "id": "tq_05",
+      "type": "multipleChoice",
+      "question": "Какое предложение составлено правильно?",
+      "options": [
+        "She has a hairs long.",
+        "She has a long hair.",
+        "She has long a hair.",
+        "She has hair a long."
+      ],
+      "correctIndex": 1,
+      "explanation": "Прилагательное стоит перед существительным: a long hair."
+    },
+    {
+      "id": "tq_06",
+      "type": "trueFalse",
+      "question": "В предложении \"The cat is small\" прилагательное стоит после глагола be.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Прилагательные могут стоять после глагола be: The cat is small."
+    },
+    {
+      "id": "tq_07",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"These are ___ books.\"",
+      "options": [
+        "interestings",
+        "interesting",
+        "interestingly",
+        "interestinger"
+      ],
+      "correctIndex": 1,
+      "explanation": "Прилагательные не получают окончание -s во множественном числе: interesting books."
+    },
+    {
+      "id": "tq_08",
+      "type": "multipleChoice",
+      "question": "В каком предложении прилагательное используется правильно?",
+      "options": [
+        "He is a man tall.",
+        "The happys children play.",
+        "I have an old phone.",
+        "She wears a dress blues."
+      ],
+      "correctIndex": 2,
+      "explanation": "An old phone — прилагательное перед существительным, без изменения формы."
+    },
+    {
+      "id": "tq_09",
+      "type": "trueFalse",
+      "question": "\"They are talls.\" — прилагательное tall правильно получило окончание -s.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "Прилагательные не изменяются по числам: They are tall (без -s)."
+    },
+    {
+      "id": "tq_10",
+      "type": "multipleChoice",
+      "question": "Как правильно перевести: «Это дорогая машина»?",
+      "options": [
+        "This is car expensive.",
+        "This is expensive a car.",
+        "This is an expensive car.",
+        "This is a car expensive."
+      ],
+      "correctIndex": 2,
+      "explanation": "Прилагательное стоит перед существительным: an expensive car."
+    }
+  ]
+}

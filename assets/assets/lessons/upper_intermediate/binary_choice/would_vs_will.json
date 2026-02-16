@@ -1,0 +1,400 @@
+{
+  "id": "upper_bc_10_future_in_the_past",
+  "title": "Would vs Will",
+  "description": "Would используется для будущего в прошлом и вежливых просьб, а will — для реальных предсказаний и обещаний в настоящем и будущем.",
+  "order": 10,
+  "level": "upper_intermediate",
+  "imageUrl": null,
+  "tasks": [
+    {
+      "id": "wdvwl_1",
+      "question": "He said he ___ come to the party.",
+      "optionA": "WOULD",
+      "optionB": "WILL",
+      "correctIndex": 0,
+      "tags": [
+        "would_vs_will",
+        "would",
+        "future_in_the_past"
+      ],
+      "explanation": "Здесь передаётся чужая речь о будущем в прошлом: он сказал, что придёт. В таких случаях will заменяется на would по правилу согласования времён."
+    },
+    {
+      "id": "wdvwl_2",
+      "question": "I ___ call you back in five minutes.",
+      "optionA": "WOULD",
+      "optionB": "WILL",
+      "correctIndex": 1,
+      "tags": [
+        "would_vs_will",
+        "will",
+        "promise"
+      ],
+      "explanation": "Говорящий даёт обещание в настоящем о конкретном действии в ближайшем будущем. Для таких обещаний используется will."
+    },
+    {
+      "id": "wdvwl_3",
+      "question": "She promised she ___ never forget that moment.",
+      "optionA": "WOULD",
+      "optionB": "WILL",
+      "correctIndex": 0,
+      "tags": [
+        "would_vs_will",
+        "would",
+        "future_in_the_past"
+      ],
+      "explanation": "Глагол promised указывает на прошедшее время, а дальше идёт будущее в прошлом. По правилу согласования времён will переходит в would."
+    },
+    {
+      "id": "wdvwl_4",
+      "question": "Don't worry, I ___ help you with that.",
+      "optionA": "WOULD",
+      "optionB": "WILL",
+      "correctIndex": 1,
+      "tags": [
+        "would_vs_will",
+        "will",
+        "offer"
+      ],
+      "explanation": "Это спонтанное предложение помощи в настоящий момент. Для таких предложений и обещаний используется will."
+    },
+    {
+      "id": "wdvwl_5",
+      "question": "___ you mind closing the window, please?",
+      "optionA": "WOULD",
+      "optionB": "WILL",
+      "correctIndex": 0,
+      "tags": [
+        "would_vs_will",
+        "would",
+        "polite_request"
+      ],
+      "explanation": "Конструкция \"Would you mind...\" — это устойчивая вежливая просьба. Would смягчает тон, делая просьбу более учтивой, чем с will."
+    },
+    {
+      "id": "wdvwl_6",
+      "question": "They believed the project ___ succeed eventually.",
+      "optionA": "WOULD",
+      "optionB": "WILL",
+      "correctIndex": 0,
+      "tags": [
+        "would_vs_will",
+        "would",
+        "future_in_the_past"
+      ],
+      "explanation": "Глагол believed стоит в прошедшем времени, значит, речь идёт о будущем в прошлом. Would передаёт то, что тогда казалось будущим."
+    },
+    {
+      "id": "wdvwl_7",
+      "question": "I think it ___ rain later today.",
+      "optionA": "WOULD",
+      "optionB": "WILL",
+      "correctIndex": 1,
+      "tags": [
+        "would_vs_will",
+        "will",
+        "prediction"
+      ],
+      "explanation": "Говорящий делает предсказание о погоде в настоящем времени. Для прогнозов о реальном будущем используется will."
+    },
+    {
+      "id": "wdvwl_8",
+      "question": "She ___ be twenty-five years old next month.",
+      "optionA": "WOULD",
+      "optionB": "WILL",
+      "correctIndex": 1,
+      "tags": [
+        "would_vs_will",
+        "will",
+        "future_fact"
+      ],
+      "explanation": "Next month указывает на реальное будущее событие — факт о возрасте. Для фактов о будущем всегда используется will."
+    },
+    {
+      "id": "wdvwl_9",
+      "question": "He knew she ___ understand his decision.",
+      "optionA": "WOULD",
+      "optionB": "WILL",
+      "correctIndex": 0,
+      "tags": [
+        "would_vs_will",
+        "would",
+        "future_in_the_past"
+      ],
+      "explanation": "Глагол knew указывает на прошлое, а дальше следует будущее с точки зрения того момента. Это классический пример future in the past с would."
+    },
+    {
+      "id": "wdvwl_10",
+      "question": "I ___ take the one on the left.",
+      "optionA": "WOULD",
+      "optionB": "WILL",
+      "correctIndex": 1,
+      "tags": [
+        "would_vs_will",
+        "will",
+        "spontaneous_decision"
+      ],
+      "explanation": "Говорящий принимает решение прямо сейчас, в момент речи. Спонтанные решения выражаются с помощью will."
+    },
+    {
+      "id": "wdvwl_11",
+      "question": "We thought the meeting ___ last all day.",
+      "optionA": "WOULD",
+      "optionB": "WILL",
+      "correctIndex": 0,
+      "tags": [
+        "would_vs_will",
+        "would",
+        "future_in_the_past"
+      ],
+      "explanation": "Thought стоит в прошедшем времени, поэтому ожидание насчёт будущего передаётся через would. Это согласование времён в косвенной речи."
+    },
+    {
+      "id": "wdvwl_12",
+      "question": "I promise I ___ never let you down.",
+      "optionA": "WOULD",
+      "optionB": "WILL",
+      "correctIndex": 1,
+      "tags": [
+        "would_vs_will",
+        "will",
+        "promise"
+      ],
+      "explanation": "Глагол promise стоит в настоящем времени — это обещание, данное прямо сейчас. Обещания о будущем требуют will."
+    },
+    {
+      "id": "wdvwl_13",
+      "question": "This experience ___ make you a stronger person.",
+      "optionA": "WOULD",
+      "optionB": "WILL",
+      "correctIndex": 1,
+      "tags": [
+        "would_vs_will",
+        "will",
+        "prediction"
+      ],
+      "explanation": "Говорящий делает уверенное предсказание о реальном будущем. Для таких предсказаний о результатах используется will."
+    },
+    {
+      "id": "wdvwl_14",
+      "question": "___ you be so kind as to wait?",
+      "optionA": "WOULD",
+      "optionB": "WILL",
+      "correctIndex": 0,
+      "tags": [
+        "would_vs_will",
+        "would",
+        "polite_request"
+      ],
+      "explanation": "Фраза \"Would you be so kind\" — это формальная вежливая просьба. Would делает обращение мягким и уважительным."
+    },
+    {
+      "id": "wdvwl_15",
+      "question": "One day, people ___ live on other planets.",
+      "optionA": "WOULD",
+      "optionB": "WILL",
+      "correctIndex": 1,
+      "tags": [
+        "would_vs_will",
+        "will",
+        "prediction"
+      ],
+      "explanation": "One day указывает на реальное, хоть и далёкое, будущее. Для предсказаний о том, что действительно произойдёт, используется will."
+    },
+    {
+      "id": "wdvwl_16",
+      "question": "As a child, I ___ spend hours reading.",
+      "optionA": "WOULD",
+      "optionB": "WILL",
+      "correctIndex": 0,
+      "tags": [
+        "would_vs_will",
+        "would",
+        "habitual_past"
+      ],
+      "explanation": "As a child указывает на повторяющееся действие в прошлом. Would используется для описания привычных действий, которые регулярно происходили раньше."
+    },
+    {
+      "id": "wdvwl_17",
+      "question": "She assumed he ___ apologize sooner or later.",
+      "optionA": "WOULD",
+      "optionB": "WILL",
+      "correctIndex": 0,
+      "tags": [
+        "would_vs_will",
+        "would",
+        "future_in_the_past"
+      ],
+      "explanation": "Assumed стоит в прошедшем времени, поэтому ожидание о будущем передаётся через would. Это будущее в прошлом по правилу согласования времён."
+    },
+    {
+      "id": "wdvwl_18",
+      "question": "I ___ do my best to fix this.",
+      "optionA": "WOULD",
+      "optionB": "WILL",
+      "correctIndex": 1,
+      "tags": [
+        "would_vs_will",
+        "will",
+        "promise"
+      ],
+      "explanation": "Говорящий даёт обещание приложить все усилия прямо сейчас. Обещания и заверения о будущих действиях требуют will."
+    },
+    {
+      "id": "wdvwl_19",
+      "question": "Every summer, we ___ visit our grandparents' village.",
+      "optionA": "WOULD",
+      "optionB": "WILL",
+      "correctIndex": 0,
+      "tags": [
+        "would_vs_will",
+        "would",
+        "habitual_past"
+      ],
+      "explanation": "Every summer в сочетании с прошлым контекстом указывает на привычку в прошлом. Would передаёт повторяющиеся действия, которые больше не происходят."
+    },
+    {
+      "id": "wdvwl_20",
+      "question": "Trust me, everything ___ work out in the end.",
+      "optionA": "WOULD",
+      "optionB": "WILL",
+      "correctIndex": 1,
+      "tags": [
+        "would_vs_will",
+        "will",
+        "prediction"
+      ],
+      "explanation": "Говорящий убеждает собеседника, предсказывая хороший исход в реальном будущем. Для таких уверенных прогнозов используется will."
+    },
+    {
+      "id": "wdvwl_21",
+      "question": "No matter what, I ___ always support you.",
+      "optionA": "WOULD",
+      "optionB": "WILL",
+      "correctIndex": 1,
+      "tags": [
+        "would_vs_will",
+        "will",
+        "promise"
+      ],
+      "explanation": "Это твёрдое обещание на будущее, данное в настоящий момент. Will выражает непоколебимое намерение и решимость."
+    },
+    {
+      "id": "wdvwl_22",
+      "question": "He whispered that he ___ wait for her forever.",
+      "optionA": "WOULD",
+      "optionB": "WILL",
+      "correctIndex": 0,
+      "tags": [
+        "would_vs_will",
+        "would",
+        "future_in_the_past"
+      ],
+      "explanation": "Whispered стоит в прошедшем времени, и дальше передаётся его обещание о будущем. В косвенной речи will заменяется на would."
+    },
+    {
+      "id": "wdvwl_23",
+      "question": "Time ___ tell if we made the right choice.",
+      "optionA": "WOULD",
+      "optionB": "WILL",
+      "correctIndex": 1,
+      "tags": [
+        "would_vs_will",
+        "will",
+        "idiom"
+      ],
+      "explanation": "\"Time will tell\" — это устойчивое выражение, означающее «время покажет». В этой идиоме всегда используется will, так как речь о реальном будущем."
+    },
+    {
+      "id": "wdvwl_24",
+      "question": "Nobody expected the truth ___ come out so soon.",
+      "optionA": "WOULD",
+      "optionB": "WILL",
+      "correctIndex": 0,
+      "tags": [
+        "would_vs_will",
+        "would",
+        "future_in_the_past"
+      ],
+      "explanation": "Expected стоит в прошедшем времени, и речь идёт о будущем относительно того момента. Would передаёт будущее в прошлом после глагола ожидания."
+    },
+    {
+      "id": "wdvwl_25",
+      "question": "I'm sure karma ___ take care of everything.",
+      "optionA": "WOULD",
+      "optionB": "WILL",
+      "correctIndex": 1,
+      "tags": [
+        "would_vs_will",
+        "will",
+        "prediction"
+      ],
+      "explanation": "I'm sure указывает на уверенность в настоящем, а предсказание касается реального будущего. Для выражения убеждённости о будущем нужен will."
+    },
+    {
+      "id": "wdvwl_26",
+      "question": "Fine, I ___ admit I was completely wrong.",
+      "optionA": "WOULD",
+      "optionB": "WILL",
+      "correctIndex": 1,
+      "tags": [
+        "would_vs_will",
+        "will",
+        "spontaneous_decision"
+      ],
+      "explanation": "Fine сигнализирует о решении, принятом прямо сейчас под давлением обстоятельств. Спонтанные решения в момент речи выражаются через will."
+    },
+    {
+      "id": "wdvwl_27",
+      "question": "She wondered if life ___ ever feel normal again.",
+      "optionA": "WOULD",
+      "optionB": "WILL",
+      "correctIndex": 0,
+      "tags": [
+        "would_vs_will",
+        "would",
+        "future_in_the_past"
+      ],
+      "explanation": "Wondered стоит в прошедшем времени, и размышление касается будущего с точки зрения того момента. Это будущее в прошлом, поэтому нужен would."
+    },
+    {
+      "id": "wdvwl_28",
+      "question": "Back in college, he ___ debate politics for hours.",
+      "optionA": "WOULD",
+      "optionB": "WILL",
+      "correctIndex": 0,
+      "tags": [
+        "would_vs_will",
+        "would",
+        "habitual_past"
+      ],
+      "explanation": "Back in college указывает на прошлое, а debate — на повторяющееся действие. Would описывает привычки и типичное поведение в прошлом."
+    },
+    {
+      "id": "wdvwl_29",
+      "question": "Mark my words, this ___ change everything forever.",
+      "optionA": "WOULD",
+      "optionB": "WILL",
+      "correctIndex": 1,
+      "tags": [
+        "would_vs_will",
+        "will",
+        "prediction"
+      ],
+      "explanation": "\"Mark my words\" — это выражение, предваряющее уверенное предсказание о будущем. Для категоричных прогнозов о реальном будущем используется will."
+    },
+    {
+      "id": "wdvwl_30",
+      "question": "I ___ rather not discuss this topic right now.",
+      "optionA": "WOULD",
+      "optionB": "WILL",
+      "correctIndex": 0,
+      "tags": [
+        "would_vs_will",
+        "would",
+        "polite_preference"
+      ],
+      "explanation": "\"Would rather\" — это устойчивая конструкция, выражающая предпочтение в вежливой форме. В этом выражении всегда используется would, а не will."
+    }
+  ]
+}

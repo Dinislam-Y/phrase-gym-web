@@ -1,0 +1,400 @@
+{
+  "id": "advanced_bc_06_ellipsis_substitution",
+  "title": "Either vs Neither",
+  "description": "Either или Neither? Тренируем отрицательные конструкции и согласие/несогласие.",
+  "order": 6,
+  "level": "advanced",
+  "imageUrl": null,
+  "tasks": [
+    {
+      "id": "evn_1",
+      "question": "I don't like horror movies, and she doesn't ___.",
+      "optionA": "EITHER",
+      "optionB": "NEITHER",
+      "correctIndex": 0,
+      "explanation": "Either ставится в конце отрицательного предложения: «и она тоже не...» → doesn't either.",
+      "tags": [
+        "either_vs_neither",
+        "either",
+        "negative_addition"
+      ]
+    },
+    {
+      "id": "evn_2",
+      "question": "___ of the proposals met the committee's strict requirements.",
+      "optionA": "EITHER",
+      "optionB": "NEITHER",
+      "correctIndex": 1,
+      "explanation": "Neither of — ни один из (двух). Neither уже содержит отрицание, глагол в утвердительной форме (met).",
+      "tags": [
+        "either_vs_neither",
+        "neither",
+        "pronoun"
+      ]
+    },
+    {
+      "id": "evn_3",
+      "question": "He hasn't been to Japan, and I haven't ___.",
+      "optionA": "EITHER",
+      "optionB": "NEITHER",
+      "correctIndex": 0,
+      "explanation": "Either в конце отрицательного предложения: haven't either = тоже не был.",
+      "tags": [
+        "either_vs_neither",
+        "either",
+        "negative_addition"
+      ]
+    },
+    {
+      "id": "evn_4",
+      "question": "___ the manager nor the director attended the emergency meeting.",
+      "optionA": "EITHER",
+      "optionB": "NEITHER",
+      "correctIndex": 1,
+      "explanation": "Neither... nor — устойчивая парная конструкция: «ни... ни...». Neither + nor всегда вместе.",
+      "tags": [
+        "either_vs_neither",
+        "neither",
+        "conjunction"
+      ]
+    },
+    {
+      "id": "evn_5",
+      "question": "You can ___ accept the terms or reject them entirely.",
+      "optionA": "EITHER",
+      "optionB": "NEITHER",
+      "correctIndex": 0,
+      "explanation": "Either... or — устойчивая парная конструкция: «или... или...». Выбор из двух вариантов.",
+      "tags": [
+        "either_vs_neither",
+        "either",
+        "conjunction"
+      ]
+    },
+    {
+      "id": "evn_6",
+      "question": "She was ___ surprised nor disappointed by the final outcome.",
+      "optionA": "EITHER",
+      "optionB": "NEITHER",
+      "correctIndex": 1,
+      "explanation": "Neither... nor — «ни удивлена, ни разочарована». Neither + nor для двойного отрицания.",
+      "tags": [
+        "either_vs_neither",
+        "neither",
+        "conjunction"
+      ]
+    },
+    {
+      "id": "evn_7",
+      "question": "I can't speak Mandarin and my colleague can't ___.",
+      "optionA": "EITHER",
+      "optionB": "NEITHER",
+      "correctIndex": 0,
+      "explanation": "Either в конце отрицательного предложения: can't either = тоже не может.",
+      "tags": [
+        "either_vs_neither",
+        "either",
+        "negative_addition"
+      ]
+    },
+    {
+      "id": "evn_8",
+      "question": "___ candidate had sufficient experience for the senior position.",
+      "optionA": "EITHER",
+      "optionB": "NEITHER",
+      "correctIndex": 1,
+      "explanation": "Neither + noun — ни один из двух кандидатов. Глагол had в утвердительной форме, т.к. neither содержит отрицание.",
+      "tags": [
+        "either_vs_neither",
+        "neither",
+        "determiner"
+      ]
+    },
+    {
+      "id": "evn_9",
+      "question": "The restaurant is on ___ side of the main square.",
+      "optionA": "EITHER",
+      "optionB": "NEITHER",
+      "correctIndex": 0,
+      "explanation": "Either side = на любой из двух сторон (= on both sides / on one or the other side). Нейтральное значение.",
+      "tags": [
+        "either_vs_neither",
+        "either",
+        "determiner"
+      ]
+    },
+    {
+      "id": "evn_10",
+      "question": "He didn't mention the problem, and ___ did his supervisor.",
+      "optionA": "EITHER",
+      "optionB": "NEITHER",
+      "correctIndex": 1,
+      "explanation": "Neither did his supervisor — инверсия для отрицательного согласия. «И его руководитель тоже не упомянул.»",
+      "tags": [
+        "either_vs_neither",
+        "neither",
+        "inversion"
+      ]
+    },
+    {
+      "id": "evn_11",
+      "question": "She won't resign, and he won't ___.",
+      "optionA": "EITHER",
+      "optionB": "NEITHER",
+      "correctIndex": 0,
+      "explanation": "Either в конце отрицательного предложения: won't either = тоже не уволится.",
+      "tags": [
+        "either_vs_neither",
+        "either",
+        "negative_addition"
+      ]
+    },
+    {
+      "id": "evn_12",
+      "question": "___ explanation was convincing enough to satisfy the auditors.",
+      "optionA": "EITHER",
+      "optionB": "NEITHER",
+      "correctIndex": 1,
+      "explanation": "Neither + noun — ни одно из двух объяснений. Глагол утвердительный, т.к. neither сам отрицает.",
+      "tags": [
+        "either_vs_neither",
+        "neither",
+        "determiner"
+      ]
+    },
+    {
+      "id": "evn_13",
+      "question": "There were trees on ___ side of the narrow cobblestone street.",
+      "optionA": "EITHER",
+      "optionB": "NEITHER",
+      "correctIndex": 0,
+      "explanation": "Either side = на каждой из двух сторон. Деревья были с обеих сторон улицы.",
+      "tags": [
+        "either_vs_neither",
+        "either",
+        "determiner"
+      ]
+    },
+    {
+      "id": "evn_14",
+      "question": "I haven't read the report, and ___ has my assistant.",
+      "optionA": "EITHER",
+      "optionB": "NEITHER",
+      "correctIndex": 1,
+      "explanation": "Neither has my assistant — инверсия: «и мой ассистент тоже не читал». Neither + вспомогательный глагол + подлежащее.",
+      "tags": [
+        "either_vs_neither",
+        "neither",
+        "inversion"
+      ]
+    },
+    {
+      "id": "evn_15",
+      "question": "I don't think ___ of these solutions addresses the root cause.",
+      "optionA": "EITHER",
+      "optionB": "NEITHER",
+      "correctIndex": 0,
+      "explanation": "Either of — в отрицательном контексте (I don't think). «Ни одно из этих решений» — don't think + either.",
+      "tags": [
+        "either_vs_neither",
+        "either",
+        "pronoun"
+      ]
+    },
+    {
+      "id": "evn_16",
+      "question": "___ the prosecution nor the defence could produce a credible witness.",
+      "optionA": "EITHER",
+      "optionB": "NEITHER",
+      "correctIndex": 1,
+      "explanation": "Neither... nor — «ни обвинение, ни защита». Парная конструкция с neither + nor.",
+      "tags": [
+        "either_vs_neither",
+        "neither",
+        "conjunction"
+      ]
+    },
+    {
+      "id": "evn_17",
+      "question": "You could ___ email or call the customer service department directly.",
+      "optionA": "EITHER",
+      "optionB": "NEITHER",
+      "correctIndex": 0,
+      "explanation": "Either... or — «или написать, или позвонить». Выбор из двух вариантов.",
+      "tags": [
+        "either_vs_neither",
+        "either",
+        "conjunction"
+      ]
+    },
+    {
+      "id": "evn_18",
+      "question": "She doesn't support the merger, and ___ do the shareholders.",
+      "optionA": "EITHER",
+      "optionB": "NEITHER",
+      "correctIndex": 1,
+      "explanation": "Neither do the shareholders — инверсия: «и акционеры тоже не поддерживают».",
+      "tags": [
+        "either_vs_neither",
+        "neither",
+        "inversion"
+      ]
+    },
+    {
+      "id": "evn_19",
+      "question": "The deadline won't be extended, and the budget won't increase ___.",
+      "optionA": "EITHER",
+      "optionB": "NEITHER",
+      "correctIndex": 0,
+      "explanation": "Either в конце отрицательного предложения: won't increase either = тоже не увеличится.",
+      "tags": [
+        "either_vs_neither",
+        "either",
+        "negative_addition"
+      ]
+    },
+    {
+      "id": "evn_20",
+      "question": "___ of the two candidates impressed the interview panel sufficiently.",
+      "optionA": "EITHER",
+      "optionB": "NEITHER",
+      "correctIndex": 1,
+      "explanation": "Neither of the two = ни один из двух. Глагол impressed утвердительный, т.к. neither содержит отрицание.",
+      "tags": [
+        "either_vs_neither",
+        "neither",
+        "pronoun"
+      ]
+    },
+    {
+      "id": "evn_21",
+      "question": "The contract doesn't benefit ___ party in its current form.",
+      "optionA": "EITHER",
+      "optionB": "NEITHER",
+      "correctIndex": 0,
+      "explanation": "Either + noun в отрицательном предложении: doesn't benefit either party = не выгоден ни одной стороне.",
+      "tags": [
+        "either_vs_neither",
+        "either",
+        "determiner"
+      ]
+    },
+    {
+      "id": "evn_22",
+      "question": "He wasn't consulted, and ___ were the other department heads.",
+      "optionA": "EITHER",
+      "optionB": "NEITHER",
+      "correctIndex": 1,
+      "explanation": "Neither were they — инверсия: «и другие руководители тоже не были». Neither + auxiliary + subject.",
+      "tags": [
+        "either_vs_neither",
+        "neither",
+        "inversion"
+      ]
+    },
+    {
+      "id": "evn_23",
+      "question": "I'm not entirely comfortable with ___ of the proposed strategies.",
+      "optionA": "EITHER",
+      "optionB": "NEITHER",
+      "correctIndex": 0,
+      "explanation": "Either of — в отрицательном контексте (not comfortable). «Мне не по душе ни одна из стратегий.»",
+      "tags": [
+        "either_vs_neither",
+        "either",
+        "pronoun"
+      ]
+    },
+    {
+      "id": "evn_24",
+      "question": "___ the timing nor the location of the event was convenient for most attendees.",
+      "optionA": "EITHER",
+      "optionB": "NEITHER",
+      "correctIndex": 1,
+      "explanation": "Neither... nor — «ни время, ни место». Парная отрицательная конструкция.",
+      "tags": [
+        "either_vs_neither",
+        "neither",
+        "conjunction"
+      ]
+    },
+    {
+      "id": "evn_25",
+      "question": "She didn't disclose the information to ___ of the competing firms.",
+      "optionA": "EITHER",
+      "optionB": "NEITHER",
+      "correctIndex": 0,
+      "explanation": "Either of — после отрицания (didn't disclose): «ни одной из конкурирующих фирм».",
+      "tags": [
+        "either_vs_neither",
+        "either",
+        "pronoun"
+      ]
+    },
+    {
+      "id": "evn_26",
+      "question": "The medication had ___ a positive nor a negative effect on the patient.",
+      "optionA": "EITHER",
+      "optionB": "NEITHER",
+      "correctIndex": 1,
+      "explanation": "Neither... nor — «ни положительного, ни отрицательного эффекта». Neither + nor в формальном стиле.",
+      "tags": [
+        "either_vs_neither",
+        "neither",
+        "conjunction"
+      ]
+    },
+    {
+      "id": "evn_27",
+      "question": "The terms are non-negotiable — you can ___ take them or leave them.",
+      "optionA": "EITHER",
+      "optionB": "NEITHER",
+      "correctIndex": 0,
+      "explanation": "Either... or — «или принять, или отказаться». Take it or leave it — с either для усиления выбора.",
+      "tags": [
+        "either_vs_neither",
+        "either",
+        "conjunction"
+      ]
+    },
+    {
+      "id": "evn_28",
+      "question": "We cannot afford to lose ___ client in the current economic climate.",
+      "optionA": "EITHER",
+      "optionB": "NEITHER",
+      "correctIndex": 0,
+      "explanation": "Either + noun после отрицания (cannot): «не можем потерять ни одного из двух клиентов».",
+      "tags": [
+        "either_vs_neither",
+        "either",
+        "determiner"
+      ]
+    },
+    {
+      "id": "evn_29",
+      "question": "___ approach is without its drawbacks, as the analysis clearly demonstrates.",
+      "optionA": "EITHER",
+      "optionB": "NEITHER",
+      "correctIndex": 1,
+      "explanation": "Neither approach is without = ни один из подходов не лишён недостатков. Neither + утвердительный глагол.",
+      "tags": [
+        "either_vs_neither",
+        "neither",
+        "determiner"
+      ]
+    },
+    {
+      "id": "evn_30",
+      "question": "She hasn't finalized the design, and the developer hasn't started coding ___.",
+      "optionA": "EITHER",
+      "optionB": "NEITHER",
+      "correctIndex": 0,
+      "explanation": "Either в конце отрицательного предложения: hasn't started either = тоже не начал.",
+      "tags": [
+        "either_vs_neither",
+        "either",
+        "negative_addition"
+      ]
+    }
+  ]
+}

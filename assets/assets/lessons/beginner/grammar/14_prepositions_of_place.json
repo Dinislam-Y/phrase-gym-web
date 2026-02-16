@@ -1,0 +1,1843 @@
+{
+  "id": "beginner_14_prepositions_of_place",
+  "title": "Prepositions of Place",
+  "description": "Предлоги места: in, on, under, next to, between, in front of, behind. Где что находится.",
+  "order": 14,
+  "level": "beginner",
+  "imageUrl": "assets/images/lessons/prepositions_of_place.png",
+  "vocabulary": [
+    {
+      "id": "v14_in",
+      "english": "in",
+      "russian": "в, внутри",
+      "partOfSpeech": "preposition",
+      "example": "The cat is in the box.",
+      "exampleTranslation": "Кот в коробке.",
+      "audioPath": "assets/audio/vocabulary/v14_in.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_in.mp3"
+    },
+    {
+      "id": "v14_on",
+      "english": "on",
+      "russian": "на (поверхности)",
+      "partOfSpeech": "preposition",
+      "example": "The book is on the table.",
+      "exampleTranslation": "Книга на столе.",
+      "audioPath": "assets/audio/vocabulary/v14_on.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_on.mp3"
+    },
+    {
+      "id": "v14_under",
+      "english": "under",
+      "russian": "под",
+      "partOfSpeech": "preposition",
+      "example": "The dog is under the bed.",
+      "exampleTranslation": "Собака под кроватью.",
+      "audioPath": "assets/audio/vocabulary/v14_under.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_under.mp3"
+    },
+    {
+      "id": "v14_next_to",
+      "english": "next to",
+      "russian": "рядом с",
+      "partOfSpeech": "preposition",
+      "example": "The chair is next to the table.",
+      "exampleTranslation": "Стул рядом со столом.",
+      "audioPath": "assets/audio/vocabulary/v14_next_to.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_next_to.mp3"
+    },
+    {
+      "id": "v14_between",
+      "english": "between",
+      "russian": "между",
+      "partOfSpeech": "preposition",
+      "example": "The cat is between the boxes.",
+      "exampleTranslation": "Кот между коробками.",
+      "audioPath": "assets/audio/vocabulary/v14_between.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_between.mp3"
+    },
+    {
+      "id": "v14_behind",
+      "english": "behind",
+      "russian": "за, позади",
+      "partOfSpeech": "preposition",
+      "example": "The dog is behind the door.",
+      "exampleTranslation": "Собака за дверью.",
+      "audioPath": "assets/audio/vocabulary/v14_behind.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_behind.mp3"
+    },
+    {
+      "id": "v14_table",
+      "english": "table",
+      "russian": "стол",
+      "partOfSpeech": "noun",
+      "example": "The cup is on the table.",
+      "exampleTranslation": "Чашка на столе.",
+      "audioPath": "assets/audio/vocabulary/v14_table.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_table.mp3"
+    },
+    {
+      "id": "v14_bed",
+      "english": "bed",
+      "russian": "кровать",
+      "partOfSpeech": "noun",
+      "example": "The cat is on the bed.",
+      "exampleTranslation": "Кот на кровати.",
+      "audioPath": "assets/audio/vocabulary/v14_bed.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_bed.mp3"
+    },
+    {
+      "id": "v14_box",
+      "english": "box",
+      "russian": "коробка",
+      "partOfSpeech": "noun",
+      "example": "The ball is in the box.",
+      "exampleTranslation": "Мяч в коробке.",
+      "audioPath": "assets/audio/vocabulary/v14_box.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_box.mp3"
+    },
+    {
+      "id": "v14_door",
+      "english": "door",
+      "russian": "дверь",
+      "partOfSpeech": "noun",
+      "example": "The bag is behind the door.",
+      "exampleTranslation": "Сумка за дверью.",
+      "audioPath": "assets/audio/vocabulary/v14_door.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_door.mp3"
+    },
+    {
+      "id": "v14_bag",
+      "english": "bag",
+      "russian": "сумка",
+      "partOfSpeech": "noun",
+      "example": "The book is in the bag.",
+      "exampleTranslation": "Книга в сумке.",
+      "audioPath": "assets/audio/vocabulary/v14_bag.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_bag.mp3"
+    },
+    {
+      "id": "v14_chair",
+      "english": "chair",
+      "russian": "стул",
+      "partOfSpeech": "noun",
+      "example": "The cat is on the chair.",
+      "exampleTranslation": "Кот на стуле.",
+      "audioPath": "assets/audio/vocabulary/v14_chair.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_chair.mp3"
+    },
+    {
+      "id": "v14_cat",
+      "english": "cat",
+      "russian": "кот",
+      "partOfSpeech": "noun",
+      "example": "The cat is under the table.",
+      "exampleTranslation": "Кот под столом.",
+      "audioPath": "assets/audio/vocabulary/v14_cat.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_cat.mp3"
+    },
+    {
+      "id": "v14_dog",
+      "english": "dog",
+      "russian": "собака",
+      "partOfSpeech": "noun",
+      "example": "The dog is next to the door.",
+      "exampleTranslation": "Собака рядом с дверью.",
+      "audioPath": "assets/audio/vocabulary/v14_dog.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_dog.mp3"
+    },
+    {
+      "id": "v14_book",
+      "english": "book",
+      "russian": "книга",
+      "partOfSpeech": "noun",
+      "example": "The book is on the table.",
+      "exampleTranslation": "Книга на столе.",
+      "audioPath": "assets/audio/vocabulary/v14_book.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_book.mp3"
+    },
+    {
+      "id": "v14_phone",
+      "english": "phone",
+      "russian": "телефон",
+      "partOfSpeech": "noun",
+      "example": "The phone is on the bed.",
+      "exampleTranslation": "Телефон на кровати.",
+      "audioPath": "assets/audio/vocabulary/v14_phone.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_phone.mp3"
+    },
+    {
+      "id": "v14_cup",
+      "english": "cup",
+      "russian": "чашка",
+      "partOfSpeech": "noun",
+      "example": "The cup is on the table.",
+      "exampleTranslation": "Чашка на столе.",
+      "audioPath": "assets/audio/vocabulary/v14_cup.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_cup.mp3"
+    },
+    {
+      "id": "v14_ball",
+      "english": "ball",
+      "russian": "мяч",
+      "partOfSpeech": "noun",
+      "example": "The ball is under the chair.",
+      "exampleTranslation": "Мяч под стулом.",
+      "audioPath": "assets/audio/vocabulary/v14_ball.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_ball.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "Prepositions of Place",
+    "subtitle": "Предлоги места показывают, ГДЕ находится предмет. Самые важные: in (внутри), on (на поверхности), under (под).",
+    "construction": {
+      "formula": "S + be + preposition + noun",
+      "rules": [
+        {
+          "word": "in",
+          "description": "Внутри чего-то: in the box, in the bag, in the room."
+        },
+        {
+          "word": "on",
+          "description": "На поверхности: on the table, on the bed, on the chair."
+        },
+        {
+          "word": "under",
+          "description": "Под чем-то: under the table, under the bed."
+        },
+        {
+          "word": "next to / behind / between",
+          "description": "Рядом: next to the door. Позади: behind the chair. Между: between the boxes."
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "explore",
+        "color": "blue",
+        "title": "Поиск вещей",
+        "description": "Спрашиваем и говорим, где находятся предметы.",
+        "example": {
+          "english": "The book is on the table.",
+          "russian": "Книга на столе."
+        }
+      },
+      {
+        "icon": "visibility",
+        "color": "purple",
+        "title": "Описание комнаты",
+        "description": "Описываем расположение мебели и предметов.",
+        "example": {
+          "english": "The chair is next to the bed.",
+          "russian": "Стул рядом с кроватью."
+        }
+      },
+      {
+        "icon": "favorite",
+        "color": "orange",
+        "title": "Животные и люди",
+        "description": "Говорим, где кто сидит, стоит, лежит.",
+        "example": {
+          "english": "The cat is under the table.",
+          "russian": "Кот под столом."
+        }
+      }
+    ],
+    "markers": [
+      "in",
+      "on",
+      "under",
+      "next to",
+      "between",
+      "behind"
+    ]
+  },
+  "tasks": [
+    {
+      "id": "t14_1",
+      "type": "sentenceAssembly",
+      "question": "Кот на столе",
+      "correctAnswer": "The cat is on the table",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "My",
+          "This"
+        ],
+        [
+          "cat",
+          "dog",
+          "book",
+          "cup"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "on",
+          "in",
+          "under",
+          "behind"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "my"
+        ],
+        [
+          "table",
+          "bed",
+          "chair",
+          "door"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_14_prepositions_of_place/000.mp3"
+    },
+    {
+      "id": "t14_2",
+      "type": "sentenceAssembly",
+      "question": "Собака под кроватью",
+      "correctAnswer": "The dog is under the bed",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "My",
+          "This"
+        ],
+        [
+          "dog",
+          "cat",
+          "ball",
+          "book"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "under",
+          "on",
+          "in",
+          "behind"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "my"
+        ],
+        [
+          "bed",
+          "table",
+          "chair",
+          "door"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_14_prepositions_of_place/001.mp3"
+    },
+    {
+      "id": "t14_3",
+      "type": "sentenceAssembly",
+      "question": "Книга в сумке",
+      "correctAnswer": "The book is in the bag",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "My",
+          "This"
+        ],
+        [
+          "book",
+          "phone",
+          "cup",
+          "ball"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "in",
+          "on",
+          "under",
+          "behind"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "my"
+        ],
+        [
+          "bag",
+          "box",
+          "bed",
+          "table"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_14_prepositions_of_place/002.mp3"
+    },
+    {
+      "id": "t14_4",
+      "type": "sentenceAssembly",
+      "question": "Чашка на столе",
+      "correctAnswer": "The cup is on the table",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "My",
+          "This"
+        ],
+        [
+          "cup",
+          "book",
+          "phone",
+          "ball"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "on",
+          "in",
+          "under",
+          "behind"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "my"
+        ],
+        [
+          "table",
+          "bed",
+          "chair",
+          "door"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_14_prepositions_of_place/003.mp3"
+    },
+    {
+      "id": "t14_5",
+      "type": "sentenceAssembly",
+      "question": "Мяч под стулом",
+      "correctAnswer": "The ball is under the chair",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "My",
+          "This"
+        ],
+        [
+          "ball",
+          "cat",
+          "dog",
+          "book"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "under",
+          "on",
+          "in",
+          "behind"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "my"
+        ],
+        [
+          "chair",
+          "table",
+          "bed",
+          "door"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_14_prepositions_of_place/004.mp3"
+    },
+    {
+      "id": "t14_6",
+      "type": "sentenceAssembly",
+      "question": "Телефон на кровати",
+      "correctAnswer": "The phone is on the bed",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "My",
+          "This"
+        ],
+        [
+          "phone",
+          "book",
+          "cup",
+          "bag"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "on",
+          "in",
+          "under",
+          "behind"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "my"
+        ],
+        [
+          "bed",
+          "table",
+          "chair",
+          "door"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_14_prepositions_of_place/005.mp3"
+    },
+    {
+      "id": "t14_7",
+      "type": "sentenceAssembly",
+      "question": "Кот в коробке",
+      "correctAnswer": "The cat is in the box",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "My",
+          "This"
+        ],
+        [
+          "cat",
+          "dog",
+          "ball",
+          "book"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "in",
+          "on",
+          "under",
+          "behind"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "my"
+        ],
+        [
+          "box",
+          "bag",
+          "bed",
+          "table"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_14_prepositions_of_place/006.mp3"
+    },
+    {
+      "id": "t14_8",
+      "type": "sentenceAssembly",
+      "question": "Сумка за дверью",
+      "correctAnswer": "The bag is behind the door",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "My",
+          "This"
+        ],
+        [
+          "bag",
+          "book",
+          "cup",
+          "ball"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "behind",
+          "on",
+          "in",
+          "under"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "my"
+        ],
+        [
+          "door",
+          "table",
+          "bed",
+          "chair"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_14_prepositions_of_place/007.mp3"
+    },
+    {
+      "id": "t14_9",
+      "type": "sentenceAssembly",
+      "question": "Собака рядом с дверью",
+      "correctAnswer": "The dog is next to the door",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "My",
+          "This"
+        ],
+        [
+          "dog",
+          "cat",
+          "ball",
+          "book"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "next",
+          "on",
+          "in",
+          "under"
+        ],
+        [
+          "to",
+          "at",
+          "of",
+          "for"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "my"
+        ],
+        [
+          "door",
+          "table",
+          "bed",
+          "chair"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_14_prepositions_of_place/008.mp3"
+    },
+    {
+      "id": "t14_10",
+      "type": "sentenceAssembly",
+      "question": "Книга на стуле",
+      "correctAnswer": "The book is on the chair",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "My",
+          "This"
+        ],
+        [
+          "book",
+          "phone",
+          "cup",
+          "bag"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "on",
+          "in",
+          "under",
+          "behind"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "my"
+        ],
+        [
+          "chair",
+          "table",
+          "bed",
+          "door"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_14_prepositions_of_place/009.mp3"
+    },
+    {
+      "id": "t14_11",
+      "type": "sentenceAssembly",
+      "question": "Мяч в коробке",
+      "correctAnswer": "The ball is in the box",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "My",
+          "This"
+        ],
+        [
+          "ball",
+          "cat",
+          "dog",
+          "book"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "in",
+          "on",
+          "under",
+          "behind"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "my"
+        ],
+        [
+          "box",
+          "bag",
+          "bed",
+          "table"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_14_prepositions_of_place/010.mp3"
+    },
+    {
+      "id": "t14_12",
+      "type": "sentenceAssembly",
+      "question": "Кот за стулом",
+      "correctAnswer": "The cat is behind the chair",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "My",
+          "This"
+        ],
+        [
+          "cat",
+          "dog",
+          "ball",
+          "book"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "behind",
+          "on",
+          "in",
+          "under"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "my"
+        ],
+        [
+          "chair",
+          "table",
+          "bed",
+          "door"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_14_prepositions_of_place/011.mp3"
+    },
+    {
+      "id": "t14_13",
+      "type": "sentenceAssembly",
+      "question": "Телефон в сумке",
+      "correctAnswer": "The phone is in the bag",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "My",
+          "This"
+        ],
+        [
+          "phone",
+          "book",
+          "cup",
+          "ball"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "in",
+          "on",
+          "under",
+          "behind"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "my"
+        ],
+        [
+          "bag",
+          "box",
+          "bed",
+          "table"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_14_prepositions_of_place/012.mp3"
+    },
+    {
+      "id": "t14_14",
+      "type": "sentenceAssembly",
+      "question": "Собака на кровати",
+      "correctAnswer": "The dog is on the bed",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "My",
+          "This"
+        ],
+        [
+          "dog",
+          "cat",
+          "ball",
+          "book"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "on",
+          "in",
+          "under",
+          "behind"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "my"
+        ],
+        [
+          "bed",
+          "table",
+          "chair",
+          "door"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_14_prepositions_of_place/013.mp3"
+    },
+    {
+      "id": "t14_15",
+      "type": "sentenceAssembly",
+      "question": "Чашка под столом",
+      "correctAnswer": "The cup is under the table",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "My",
+          "This"
+        ],
+        [
+          "cup",
+          "book",
+          "phone",
+          "ball"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "under",
+          "on",
+          "in",
+          "behind"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "my"
+        ],
+        [
+          "table",
+          "bed",
+          "chair",
+          "door"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_14_prepositions_of_place/014.mp3"
+    },
+    {
+      "id": "t14_16",
+      "type": "sentenceAssembly",
+      "question": "Стул рядом со столом",
+      "correctAnswer": "The chair is next to the table",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "My",
+          "This"
+        ],
+        [
+          "chair",
+          "bed",
+          "door",
+          "box"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "next",
+          "on",
+          "in",
+          "under"
+        ],
+        [
+          "to",
+          "at",
+          "of",
+          "for"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "my"
+        ],
+        [
+          "table",
+          "bed",
+          "chair",
+          "door"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_14_prepositions_of_place/015.mp3"
+    },
+    {
+      "id": "t14_17",
+      "type": "sentenceAssembly",
+      "question": "Мяч на столе",
+      "correctAnswer": "The ball is on the table",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "My",
+          "This"
+        ],
+        [
+          "ball",
+          "cat",
+          "dog",
+          "cup"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "on",
+          "in",
+          "under",
+          "behind"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "my"
+        ],
+        [
+          "table",
+          "bed",
+          "chair",
+          "door"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_14_prepositions_of_place/016.mp3"
+    },
+    {
+      "id": "t14_18",
+      "type": "sentenceAssembly",
+      "question": "Книга под кроватью",
+      "correctAnswer": "The book is under the bed",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "My",
+          "This"
+        ],
+        [
+          "book",
+          "phone",
+          "cup",
+          "bag"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "under",
+          "on",
+          "in",
+          "behind"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "my"
+        ],
+        [
+          "bed",
+          "table",
+          "chair",
+          "door"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_14_prepositions_of_place/017.mp3"
+    },
+    {
+      "id": "t14_19",
+      "type": "sentenceAssembly",
+      "question": "Кот рядом с собакой",
+      "correctAnswer": "The cat is next to the dog",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "My",
+          "This"
+        ],
+        [
+          "cat",
+          "ball",
+          "cup",
+          "book"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "next",
+          "on",
+          "in",
+          "under"
+        ],
+        [
+          "to",
+          "at",
+          "of",
+          "for"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "my"
+        ],
+        [
+          "dog",
+          "cat",
+          "table",
+          "door"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_14_prepositions_of_place/018.mp3"
+    },
+    {
+      "id": "t14_20",
+      "type": "sentenceAssembly",
+      "question": "Сумка на стуле",
+      "correctAnswer": "The bag is on the chair",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "My",
+          "This"
+        ],
+        [
+          "bag",
+          "book",
+          "phone",
+          "cup"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "on",
+          "in",
+          "under",
+          "behind"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "my"
+        ],
+        [
+          "chair",
+          "table",
+          "bed",
+          "door"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_14_prepositions_of_place/019.mp3"
+    },
+    {
+      "id": "t14_21",
+      "type": "sentenceAssembly",
+      "question": "Кот не на столе",
+      "correctAnswer": "The cat is not on the table",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "My",
+          "This"
+        ],
+        [
+          "cat",
+          "dog",
+          "ball",
+          "cup"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "not",
+          "no",
+          "none",
+          "never"
+        ],
+        [
+          "on",
+          "in",
+          "under",
+          "behind"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "my"
+        ],
+        [
+          "table",
+          "bed",
+          "chair",
+          "door"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_14_prepositions_of_place/020.mp3"
+    },
+    {
+      "id": "t14_22",
+      "type": "sentenceAssembly",
+      "question": "Собака не под кроватью",
+      "correctAnswer": "The dog is not under the bed",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "My",
+          "This"
+        ],
+        [
+          "dog",
+          "cat",
+          "ball",
+          "book"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "not",
+          "no",
+          "none",
+          "never"
+        ],
+        [
+          "under",
+          "on",
+          "in",
+          "behind"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "my"
+        ],
+        [
+          "bed",
+          "table",
+          "chair",
+          "door"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_14_prepositions_of_place/021.mp3"
+    },
+    {
+      "id": "t14_23",
+      "type": "sentenceAssembly",
+      "question": "Книга не в сумке",
+      "correctAnswer": "The book is not in the bag",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "My",
+          "This"
+        ],
+        [
+          "book",
+          "phone",
+          "cup",
+          "ball"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "not",
+          "no",
+          "none",
+          "never"
+        ],
+        [
+          "in",
+          "on",
+          "under",
+          "behind"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "my"
+        ],
+        [
+          "bag",
+          "box",
+          "bed",
+          "table"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_14_prepositions_of_place/022.mp3"
+    },
+    {
+      "id": "t14_24",
+      "type": "sentenceAssembly",
+      "question": "Мяч не на стуле",
+      "correctAnswer": "The ball is not on the chair",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "My",
+          "This"
+        ],
+        [
+          "ball",
+          "cat",
+          "dog",
+          "cup"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "not",
+          "no",
+          "none",
+          "never"
+        ],
+        [
+          "on",
+          "in",
+          "under",
+          "behind"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "my"
+        ],
+        [
+          "chair",
+          "table",
+          "bed",
+          "door"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_14_prepositions_of_place/023.mp3"
+    },
+    {
+      "id": "t14_25",
+      "type": "sentenceAssembly",
+      "question": "Чашка не под столом",
+      "correctAnswer": "The cup is not under the table",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "My",
+          "This"
+        ],
+        [
+          "cup",
+          "book",
+          "phone",
+          "ball"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "not",
+          "no",
+          "none",
+          "never"
+        ],
+        [
+          "under",
+          "on",
+          "in",
+          "behind"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "my"
+        ],
+        [
+          "table",
+          "bed",
+          "chair",
+          "door"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_14_prepositions_of_place/024.mp3"
+    },
+    {
+      "id": "t14_26",
+      "type": "sentenceAssembly",
+      "question": "Телефон не в коробке",
+      "correctAnswer": "The phone is not in the box",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "My",
+          "This"
+        ],
+        [
+          "phone",
+          "book",
+          "cup",
+          "bag"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "not",
+          "no",
+          "none",
+          "never"
+        ],
+        [
+          "in",
+          "on",
+          "under",
+          "behind"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "my"
+        ],
+        [
+          "box",
+          "bag",
+          "bed",
+          "table"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_14_prepositions_of_place/025.mp3"
+    },
+    {
+      "id": "t14_27",
+      "type": "sentenceAssembly",
+      "question": "Сумка не за дверью",
+      "correctAnswer": "The bag is not behind the door",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "My",
+          "This"
+        ],
+        [
+          "bag",
+          "book",
+          "cup",
+          "ball"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "not",
+          "no",
+          "none",
+          "never"
+        ],
+        [
+          "behind",
+          "on",
+          "in",
+          "under"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "my"
+        ],
+        [
+          "door",
+          "table",
+          "bed",
+          "chair"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_14_prepositions_of_place/026.mp3"
+    },
+    {
+      "id": "t14_28",
+      "type": "sentenceAssembly",
+      "question": "Кот не в сумке",
+      "correctAnswer": "The cat is not in the bag",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "My",
+          "This"
+        ],
+        [
+          "cat",
+          "dog",
+          "ball",
+          "book"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "not",
+          "no",
+          "none",
+          "never"
+        ],
+        [
+          "in",
+          "on",
+          "under",
+          "behind"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "my"
+        ],
+        [
+          "bag",
+          "box",
+          "bed",
+          "table"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_14_prepositions_of_place/027.mp3"
+    },
+    {
+      "id": "t14_29",
+      "type": "sentenceAssembly",
+      "question": "Собака не на стуле",
+      "correctAnswer": "The dog is not on the chair",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "My",
+          "This"
+        ],
+        [
+          "dog",
+          "cat",
+          "ball",
+          "cup"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "not",
+          "no",
+          "none",
+          "never"
+        ],
+        [
+          "on",
+          "in",
+          "under",
+          "behind"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "my"
+        ],
+        [
+          "chair",
+          "table",
+          "bed",
+          "door"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_14_prepositions_of_place/028.mp3"
+    },
+    {
+      "id": "t14_30",
+      "type": "sentenceAssembly",
+      "question": "Книга не на кровати",
+      "correctAnswer": "The book is not on the bed",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "My",
+          "This"
+        ],
+        [
+          "book",
+          "phone",
+          "cup",
+          "bag"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "not",
+          "no",
+          "none",
+          "never"
+        ],
+        [
+          "on",
+          "in",
+          "under",
+          "behind"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "my"
+        ],
+        [
+          "bed",
+          "table",
+          "chair",
+          "door"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_14_prepositions_of_place/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionBeginner14PrepositionsOfPlace",
+  "theoryQuiz": [
+    {
+      "id": "tq_14_01",
+      "type": "multipleChoice",
+      "question": "Какой предлог означает «внутри»?",
+      "options": [
+        "on",
+        "in",
+        "under",
+        "behind"
+      ],
+      "correctIndex": 1,
+      "explanation": "In = внутри: in the box, in the bag, in the room."
+    },
+    {
+      "id": "tq_14_02",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: «The book is ___ the table.» (Книга на столе)",
+      "options": [
+        "in",
+        "under",
+        "on",
+        "behind"
+      ],
+      "correctIndex": 2,
+      "explanation": "На поверхности = on: The book is on the table."
+    },
+    {
+      "id": "tq_14_03",
+      "type": "trueFalse",
+      "question": "«The cat is under the bed» означает «Кот на кровати».",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "Under = под. «Кот под кроватью». На кровати = on the bed."
+    },
+    {
+      "id": "tq_14_04",
+      "type": "multipleChoice",
+      "question": "Как сказать «рядом с»?",
+      "options": [
+        "behind",
+        "under",
+        "next to",
+        "between"
+      ],
+      "correctIndex": 2,
+      "explanation": "Next to = рядом с: The chair is next to the table."
+    },
+    {
+      "id": "tq_14_05",
+      "type": "multipleChoice",
+      "question": "Какой предлог означает «между»?",
+      "options": [
+        "behind",
+        "next to",
+        "under",
+        "between"
+      ],
+      "correctIndex": 3,
+      "explanation": "Between = между: The cat is between the boxes."
+    },
+    {
+      "id": "tq_14_06",
+      "type": "trueFalse",
+      "question": "«On» используется, когда предмет находится НА поверхности.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "On = на поверхности: on the table, on the bed, on the chair."
+    },
+    {
+      "id": "tq_14_07",
+      "type": "multipleChoice",
+      "question": "Как правильно: «Собака за дверью»?",
+      "options": [
+        "The dog is in the door.",
+        "The dog is on the door.",
+        "The dog is behind the door.",
+        "The dog is under the door."
+      ],
+      "correctIndex": 2,
+      "explanation": "Behind = за, позади: The dog is behind the door."
+    },
+    {
+      "id": "tq_14_08",
+      "type": "multipleChoice",
+      "question": "Выберите правильный предлог: «The ball is ___ the box.» (Мяч в коробке)",
+      "options": [
+        "on",
+        "under",
+        "behind",
+        "in"
+      ],
+      "correctIndex": 3,
+      "explanation": "In = внутри: The ball is in the box."
+    },
+    {
+      "id": "tq_14_09",
+      "type": "trueFalse",
+      "question": "«Behind» означает «перед».",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "Behind = за, позади (не «перед»). Перед = in front of."
+    },
+    {
+      "id": "tq_14_10",
+      "type": "multipleChoice",
+      "question": "Как сказать «Кот под столом»?",
+      "options": [
+        "The cat is on the table.",
+        "The cat is in the table.",
+        "The cat is under the table.",
+        "The cat is behind the table."
+      ],
+      "correctIndex": 2,
+      "explanation": "Under = под: The cat is under the table."
+    }
+  ]
+}

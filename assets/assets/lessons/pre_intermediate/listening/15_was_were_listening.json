@@ -1,0 +1,476 @@
+{
+  "id": "pre_listening_15_was_were",
+  "title": "Was / Were",
+  "description": "Слушайте предложения с was/were и определяйте прошлое состояние.",
+  "order": 15,
+  "level": "pre_intermediate",
+  "imageUrl": "assets/images/lessons/was_were.png",
+  "tasks": [
+    {
+      "id": "t15_01",
+      "audioText": "I came home after work yesterday. I was very tired.",
+      "transcript": "I was very tired.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "I felt exhausted after work."
+        },
+        {
+          "id": "o2",
+          "text": "I am tired right now."
+        },
+        {
+          "id": "o3",
+          "text": "I was full of energy."
+        },
+        {
+          "id": "o4",
+          "text": "I will be tired tomorrow."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Was tired' means the person felt exhausted in the past.",
+      "mistakeTags": [
+        "home",
+        "was_were",
+        "past_simple"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_15_was_were/t15_01.mp3"
+    },
+    {
+      "id": "t15_02",
+      "audioText": "We had a meeting at nine. All the students were late.",
+      "transcript": "All the students were late.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The students are always on time."
+        },
+        {
+          "id": "o2",
+          "text": "The students arrived after the meeting started."
+        },
+        {
+          "id": "o3",
+          "text": "The students came early."
+        },
+        {
+          "id": "o4",
+          "text": "Only one student was late."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Were late' means they did not arrive on time.",
+      "mistakeTags": [
+        "school",
+        "was_were",
+        "past_simple"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_15_was_were/t15_02.mp3"
+    },
+    {
+      "id": "t15_03",
+      "audioText": "The restaurant opened last month. The food was delicious.",
+      "transcript": "The food was delicious.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The food tasted very bad."
+        },
+        {
+          "id": "o2",
+          "text": "The food is always good there."
+        },
+        {
+          "id": "o3",
+          "text": "The food tasted very good."
+        },
+        {
+          "id": "o4",
+          "text": "The restaurant had no food."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Was delicious' means the food tasted very good in the past.",
+      "mistakeTags": [
+        "restaurant",
+        "was_were",
+        "past_simple"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_15_was_were/t15_03.mp3"
+    },
+    {
+      "id": "t15_04",
+      "audioText": "I called Tom yesterday. He was at the hospital.",
+      "transcript": "He was at the hospital.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Tom is at the hospital now."
+        },
+        {
+          "id": "o2",
+          "text": "Tom was at home yesterday."
+        },
+        {
+          "id": "o3",
+          "text": "Tom was in the hospital when I called."
+        },
+        {
+          "id": "o4",
+          "text": "Tom will go to the hospital tomorrow."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Was at the hospital' means Tom was there at that moment in the past.",
+      "mistakeTags": [
+        "hospital",
+        "was_were",
+        "past_simple"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_15_was_were/t15_04.mp3"
+    },
+    {
+      "id": "t15_05",
+      "audioText": "We went to the beach last weekend. The weather was beautiful.",
+      "transcript": "The weather was beautiful.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The weather is nice today."
+        },
+        {
+          "id": "o2",
+          "text": "The weather was bad at the beach."
+        },
+        {
+          "id": "o3",
+          "text": "The weather was very nice last weekend."
+        },
+        {
+          "id": "o4",
+          "text": "It rained at the beach."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Was beautiful' means the weather was very nice in the past.",
+      "mistakeTags": [
+        "outdoor",
+        "was_were",
+        "past_simple"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_15_was_were/t15_05.mp3"
+    },
+    {
+      "id": "t15_06",
+      "audioText": "My parents visited us last night. They were happy to see the children.",
+      "transcript": "They were happy to see the children.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "My parents felt glad when they saw the kids."
+        },
+        {
+          "id": "o2",
+          "text": "My parents were sad to visit."
+        },
+        {
+          "id": "o3",
+          "text": "The children were not at home."
+        },
+        {
+          "id": "o4",
+          "text": "My parents did not come."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Were happy' means they felt glad at that time.",
+      "mistakeTags": [
+        "home",
+        "was_were",
+        "past_simple"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_15_was_were/t15_06.mp3"
+    },
+    {
+      "id": "t15_07",
+      "audioText": "I checked the fridge this morning. There was no milk left.",
+      "transcript": "There was no milk left.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "There is a lot of milk now."
+        },
+        {
+          "id": "o2",
+          "text": "The fridge had no milk this morning."
+        },
+        {
+          "id": "o3",
+          "text": "I bought milk this morning."
+        },
+        {
+          "id": "o4",
+          "text": "The milk was fresh."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'There was no milk' means the fridge was empty of milk at that moment.",
+      "mistakeTags": [
+        "home",
+        "was_were",
+        "past_simple"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_15_was_were/t15_07.mp3"
+    },
+    {
+      "id": "t15_08",
+      "audioText": "We arrived at the cinema at eight. The movie was already over.",
+      "transcript": "The movie was already over.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The movie had finished before we arrived."
+        },
+        {
+          "id": "o2",
+          "text": "The movie was just starting."
+        },
+        {
+          "id": "o3",
+          "text": "We watched the whole movie."
+        },
+        {
+          "id": "o4",
+          "text": "The movie is playing right now."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Was already over' means the movie ended before they got there.",
+      "mistakeTags": [
+        "entertainment",
+        "was_were",
+        "past_simple"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_15_was_were/t15_08.mp3"
+    },
+    {
+      "id": "t15_09",
+      "audioText": "I met Sarah at the party. She was in a beautiful blue dress.",
+      "transcript": "She was in a beautiful blue dress.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Sarah always wears blue dresses."
+        },
+        {
+          "id": "o2",
+          "text": "Sarah is wearing a blue dress now."
+        },
+        {
+          "id": "o3",
+          "text": "Sarah wore a nice blue dress at the party."
+        },
+        {
+          "id": "o4",
+          "text": "Sarah did not go to the party."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Was in a dress' means she wore that dress at the party.",
+      "mistakeTags": [
+        "party",
+        "was_were",
+        "past_simple"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_15_was_were/t15_09.mp3"
+    },
+    {
+      "id": "t15_10",
+      "audioText": "The kids played outside all afternoon. They were very hungry after that.",
+      "transcript": "They were very hungry after that.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The kids are hungry right now."
+        },
+        {
+          "id": "o2",
+          "text": "The kids wanted to eat after playing."
+        },
+        {
+          "id": "o3",
+          "text": "The kids were not hungry."
+        },
+        {
+          "id": "o4",
+          "text": "The kids ate lunch before playing."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Were very hungry' means they wanted food after playing.",
+      "mistakeTags": [
+        "park",
+        "was_were",
+        "past_simple"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_15_was_were/t15_10.mp3"
+    },
+    {
+      "id": "t15_11",
+      "audioText": "I visited the new office yesterday. It was really big and modern.",
+      "transcript": "It was really big and modern.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The office is small and old."
+        },
+        {
+          "id": "o2",
+          "text": "The office was large and new-looking."
+        },
+        {
+          "id": "o3",
+          "text": "The office will be big in the future."
+        },
+        {
+          "id": "o4",
+          "text": "I did not see the office."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Was really big and modern' describes the office in the past.",
+      "mistakeTags": [
+        "office",
+        "was_were",
+        "past_simple"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_15_was_were/t15_11.mp3"
+    },
+    {
+      "id": "t15_12",
+      "audioText": "We had a test on Monday. The questions were very difficult.",
+      "transcript": "The questions were very difficult.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The test questions were easy."
+        },
+        {
+          "id": "o2",
+          "text": "The questions on the test were hard."
+        },
+        {
+          "id": "o3",
+          "text": "There were no questions on the test."
+        },
+        {
+          "id": "o4",
+          "text": "The test is tomorrow."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Were very difficult' means the questions were hard.",
+      "mistakeTags": [
+        "school",
+        "was_were",
+        "past_simple"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_15_was_were/t15_12.mp3"
+    },
+    {
+      "id": "t15_13",
+      "audioText": "I tried to call the shop at six. It was already closed.",
+      "transcript": "It was already closed.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The shop is open right now."
+        },
+        {
+          "id": "o2",
+          "text": "The shop was still open at six."
+        },
+        {
+          "id": "o3",
+          "text": "The shop had closed before six o'clock."
+        },
+        {
+          "id": "o4",
+          "text": "I went shopping at six."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Was already closed' means the shop closed before the person called.",
+      "mistakeTags": [
+        "shop",
+        "was_were",
+        "past_simple"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_15_was_were/t15_13.mp3"
+    },
+    {
+      "id": "t15_14",
+      "audioText": "My sister flew to London last week. The flight was three hours long.",
+      "transcript": "The flight was three hours long.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The flight took three hours."
+        },
+        {
+          "id": "o2",
+          "text": "The flight took five hours."
+        },
+        {
+          "id": "o3",
+          "text": "My sister drove to London."
+        },
+        {
+          "id": "o4",
+          "text": "The flight is tomorrow."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Was three hours long' means the flight lasted three hours.",
+      "mistakeTags": [
+        "airport",
+        "was_were",
+        "past_simple"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_15_was_were/t15_14.mp3"
+    },
+    {
+      "id": "t15_15",
+      "audioText": "We went camping last summer. The nights were cold in the mountains.",
+      "transcript": "The nights were cold in the mountains.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The nights are always warm there."
+        },
+        {
+          "id": "o2",
+          "text": "It was warm at night in the mountains."
+        },
+        {
+          "id": "o3",
+          "text": "The temperature at night was low in the mountains."
+        },
+        {
+          "id": "o4",
+          "text": "They did not go to the mountains."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Were cold' means the temperature was low at night.",
+      "mistakeTags": [
+        "outdoor",
+        "was_were",
+        "past_simple"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_15_was_were/t15_15.mp3"
+    }
+  ],
+  "short_description": "Was / Were: прошлые состояния и описания"
+}

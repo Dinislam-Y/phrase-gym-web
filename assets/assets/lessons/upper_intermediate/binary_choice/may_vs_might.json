@@ -1,0 +1,400 @@
+{
+  "id": "upper_bc_08_modal_may_might_could",
+  "title": "May vs Might",
+  "description": "May или might? Разница между реальной возможностью и гипотезой, разрешением и упрёком.",
+  "order": 8,
+  "level": "upper_intermediate",
+  "imageUrl": null,
+  "tasks": [
+    {
+      "id": "mvm_1",
+      "question": "You ___ leave the room now, sir.",
+      "optionA": "MAY",
+      "optionB": "MIGHT",
+      "correctIndex": 0,
+      "explanation": "May используется для формального разрешения. Might в значении разрешения звучит устаревше.",
+      "tags": [
+        "may_vs_might",
+        "may",
+        "permission"
+      ]
+    },
+    {
+      "id": "mvm_2",
+      "question": "He ___ come, but I seriously doubt it.",
+      "optionA": "MAY",
+      "optionB": "MIGHT",
+      "correctIndex": 1,
+      "explanation": "Might указывает на малую вероятность события. Фраза 'I doubt it' подтверждает неуверенность говорящего.",
+      "tags": [
+        "may_vs_might",
+        "might",
+        "probability"
+      ]
+    },
+    {
+      "id": "mvm_3",
+      "question": "The meeting ___ start earlier than planned.",
+      "optionA": "MAY",
+      "optionB": "MIGHT",
+      "correctIndex": 0,
+      "explanation": "May выражает реальную возможность события. Нет указаний на сомнение или нереальность ситуации.",
+      "tags": [
+        "may_vs_might",
+        "may",
+        "prediction"
+      ]
+    },
+    {
+      "id": "mvm_4",
+      "question": "If I had more time, I ___ reconsider.",
+      "optionA": "MAY",
+      "optionB": "MIGHT",
+      "correctIndex": 1,
+      "explanation": "Might используется в нереальных условиях (Second Conditional). May не сочетается с if + Past Simple.",
+      "tags": [
+        "may_vs_might",
+        "might",
+        "hypothetical"
+      ]
+    },
+    {
+      "id": "mvm_5",
+      "question": "Visitors ___ not enter without proper identification.",
+      "optionA": "MAY",
+      "optionB": "MIGHT",
+      "correctIndex": 0,
+      "explanation": "May not здесь означает формальный запрет. Might not не используется для выражения запретов.",
+      "tags": [
+        "may_vs_might",
+        "may",
+        "permission"
+      ]
+    },
+    {
+      "id": "mvm_6",
+      "question": "She ___ accept the offer, but who knows.",
+      "optionA": "MAY",
+      "optionB": "MIGHT",
+      "correctIndex": 1,
+      "explanation": "Might передаёт неуверенность говорящего в исходе. Фраза 'who knows' усиливает оттенок сомнения.",
+      "tags": [
+        "may_vs_might",
+        "might",
+        "uncertainty"
+      ]
+    },
+    {
+      "id": "mvm_7",
+      "question": "This approach ___ actually solve the whole problem.",
+      "optionA": "MAY",
+      "optionB": "MIGHT",
+      "correctIndex": 0,
+      "explanation": "May выражает реальную вероятность успеха. Говорящий считает это вполне возможным исходом.",
+      "tags": [
+        "may_vs_might",
+        "may",
+        "prediction"
+      ]
+    },
+    {
+      "id": "mvm_8",
+      "question": "You ___ want to reconsider your decision carefully.",
+      "optionA": "MAY",
+      "optionB": "MIGHT",
+      "correctIndex": 0,
+      "explanation": "May want to — вежливая форма совета в формальном контексте. Это устойчивое выражение для мягких рекомендаций.",
+      "tags": [
+        "may_vs_might",
+        "may",
+        "suggestion"
+      ]
+    },
+    {
+      "id": "mvm_9",
+      "question": "They ___ have already left by now, perhaps.",
+      "optionA": "MAY",
+      "optionB": "MIGHT",
+      "correctIndex": 1,
+      "explanation": "Might have + Past Participle выражает предположение о прошлом. Слово 'perhaps' подчёркивает низкую уверенность.",
+      "tags": [
+        "may_vs_might",
+        "might",
+        "speculation"
+      ]
+    },
+    {
+      "id": "mvm_10",
+      "question": "The new policy ___ affect thousands of employees.",
+      "optionA": "MAY",
+      "optionB": "MIGHT",
+      "correctIndex": 0,
+      "explanation": "May указывает на реальную и весомую вероятность. Говорящий оценивает шанс как достаточно высокий.",
+      "tags": [
+        "may_vs_might",
+        "may",
+        "prediction"
+      ]
+    },
+    {
+      "id": "mvm_11",
+      "question": "If she tried harder, things ___ be different.",
+      "optionA": "MAY",
+      "optionB": "MIGHT",
+      "correctIndex": 1,
+      "explanation": "Might в условном предложении второго типа — нереальная ситуация. Она не старается больше, поэтому may здесь не подходит.",
+      "tags": [
+        "may_vs_might",
+        "might",
+        "hypothetical"
+      ]
+    },
+    {
+      "id": "mvm_12",
+      "question": "___ I ask you a somewhat personal question?",
+      "optionA": "MAY",
+      "optionB": "MIGHT",
+      "correctIndex": 0,
+      "explanation": "May I — стандартная формула вежливой просьбы. Might I звучит чрезмерно формально и архаично.",
+      "tags": [
+        "may_vs_might",
+        "may",
+        "request"
+      ]
+    },
+    {
+      "id": "mvm_13",
+      "question": "He ___ not even remember our conversation at all.",
+      "optionA": "MAY",
+      "optionB": "MIGHT",
+      "correctIndex": 1,
+      "explanation": "Might not выражает сомнение — скорее всего, он не помнит. Говорящий оценивает вероятность как довольно низкую.",
+      "tags": [
+        "may_vs_might",
+        "might",
+        "uncertainty"
+      ]
+    },
+    {
+      "id": "mvm_14",
+      "question": "The results ___ surprise everyone at the conference.",
+      "optionA": "MAY",
+      "optionB": "MIGHT",
+      "correctIndex": 0,
+      "explanation": "May выражает вполне реальную возможность события. Говорящий допускает это с высокой долей вероятности.",
+      "tags": [
+        "may_vs_might",
+        "may",
+        "prediction"
+      ]
+    },
+    {
+      "id": "mvm_15",
+      "question": "You ___ have warned me about the risks!",
+      "optionA": "MAY",
+      "optionB": "MIGHT",
+      "correctIndex": 1,
+      "explanation": "Might have + PP в значении упрёка — могли бы предупредить! Это классическая конструкция для выражения недовольства.",
+      "tags": [
+        "may_vs_might",
+        "might",
+        "reproach"
+      ]
+    },
+    {
+      "id": "mvm_16",
+      "question": "Students ___ use the library until nine o'clock.",
+      "optionA": "MAY",
+      "optionB": "MIGHT",
+      "correctIndex": 0,
+      "explanation": "May здесь означает официальное разрешение пользоваться библиотекой. Это формулировка правил учебного заведения.",
+      "tags": [
+        "may_vs_might",
+        "may",
+        "permission"
+      ]
+    },
+    {
+      "id": "mvm_17",
+      "question": "I ___ be wrong, but something feels off.",
+      "optionA": "MAY",
+      "optionB": "MIGHT",
+      "correctIndex": 1,
+      "explanation": "Might показывает, что говорящий допускает свою ошибку. Это выражение личной неуверенности и осторожности.",
+      "tags": [
+        "may_vs_might",
+        "might",
+        "opinion"
+      ]
+    },
+    {
+      "id": "mvm_18",
+      "question": "Without that scholarship, she ___ never have graduated.",
+      "optionA": "MAY",
+      "optionB": "MIGHT",
+      "correctIndex": 1,
+      "explanation": "Might never have — размышление о нереальном прошлом. Без стипендии она, возможно, не окончила бы учёбу.",
+      "tags": [
+        "may_vs_might",
+        "might",
+        "hypothetical"
+      ]
+    },
+    {
+      "id": "mvm_19",
+      "question": "The economy ___ recover faster than analysts predict.",
+      "optionA": "MAY",
+      "optionB": "MIGHT",
+      "correctIndex": 0,
+      "explanation": "May выражает реальный и правдоподобный прогноз. Говорящий рассматривает это как вероятный сценарий.",
+      "tags": [
+        "may_vs_might",
+        "may",
+        "prediction"
+      ]
+    },
+    {
+      "id": "mvm_20",
+      "question": "He ___ seem confident, but deep down he's terrified.",
+      "optionA": "MAY",
+      "optionB": "MIGHT",
+      "correctIndex": 1,
+      "explanation": "Might в уступительном значении: может, он и кажется уверенным. Это литературная конструкция для контраста видимости и реальности.",
+      "tags": [
+        "may_vs_might",
+        "might",
+        "concession"
+      ]
+    },
+    {
+      "id": "mvm_21",
+      "question": "Be that as it ___, we must move forward.",
+      "optionA": "MAY",
+      "optionB": "MIGHT",
+      "correctIndex": 0,
+      "explanation": "Be that as it may — устойчивое выражение: 'как бы то ни было.' Might здесь невозможен — это фиксированная идиома.",
+      "tags": [
+        "may_vs_might",
+        "may",
+        "idiom"
+      ]
+    },
+    {
+      "id": "mvm_22",
+      "question": "You ___ at least have shown some basic respect!",
+      "optionA": "MAY",
+      "optionB": "MIGHT",
+      "correctIndex": 1,
+      "explanation": "Might have — упрёк: вы могли бы хотя бы проявить уважение. Это выражение разочарования в чьих-то действиях.",
+      "tags": [
+        "may_vs_might",
+        "might",
+        "reproach"
+      ]
+    },
+    {
+      "id": "mvm_23",
+      "question": "The truth ___ be more complicated than we think.",
+      "optionA": "MAY",
+      "optionB": "MIGHT",
+      "correctIndex": 0,
+      "explanation": "May выражает вполне реальную возможность — правда может оказаться сложнее. Говорящий допускает это с высокой вероятностью.",
+      "tags": [
+        "may_vs_might",
+        "may",
+        "opinion"
+      ]
+    },
+    {
+      "id": "mvm_24",
+      "question": "Had we left earlier, we ___ have avoided the delay.",
+      "optionA": "MAY",
+      "optionB": "MIGHT",
+      "correctIndex": 1,
+      "explanation": "Might have в третьем условном — нереальное прошлое. Мы не уехали раньше, и задержка произошла.",
+      "tags": [
+        "may_vs_might",
+        "might",
+        "hypothetical"
+      ]
+    },
+    {
+      "id": "mvm_25",
+      "question": "Guests ___ smoke only in the designated outdoor area.",
+      "optionA": "MAY",
+      "optionB": "MIGHT",
+      "correctIndex": 0,
+      "explanation": "May выражает официальное разрешение с ограничением. Это типичная формулировка правил заведения.",
+      "tags": [
+        "may_vs_might",
+        "may",
+        "permission"
+      ]
+    },
+    {
+      "id": "mvm_26",
+      "question": "You ___ have mentioned that before I signed the contract!",
+      "optionA": "MAY",
+      "optionB": "MIGHT",
+      "correctIndex": 1,
+      "explanation": "Might have — упрёк: стоило сказать до подписания контракта. Говорящий выражает досаду на скрытую информацию.",
+      "tags": [
+        "may_vs_might",
+        "might",
+        "reproach"
+      ]
+    },
+    {
+      "id": "mvm_27",
+      "question": "However difficult it ___ be, we shall persevere.",
+      "optionA": "MAY",
+      "optionB": "MIGHT",
+      "correctIndex": 0,
+      "explanation": "However + adjective + it may be — формальная уступительная конструкция. May здесь закреплён грамматикой, might не используется.",
+      "tags": [
+        "may_vs_might",
+        "may",
+        "formal"
+      ]
+    },
+    {
+      "id": "mvm_28",
+      "question": "Things ___ have turned out differently in another life.",
+      "optionA": "MAY",
+      "optionB": "MIGHT",
+      "correctIndex": 1,
+      "explanation": "Might have — размышление о нереальном прошлом. Это чисто гипотетическая ситуация из воображаемой другой жизни.",
+      "tags": [
+        "may_vs_might",
+        "might",
+        "speculation"
+      ]
+    },
+    {
+      "id": "mvm_29",
+      "question": "The findings ___ well revolutionize modern medicine entirely.",
+      "optionA": "MAY",
+      "optionB": "MIGHT",
+      "correctIndex": 0,
+      "explanation": "May well — устойчивое сочетание со значением 'вполне вероятно.' Оно выражает уверенную оценку реальной возможности.",
+      "tags": [
+        "may_vs_might",
+        "may",
+        "prediction"
+      ]
+    },
+    {
+      "id": "mvm_30",
+      "question": "I ___ have known, but honestly I had no clue.",
+      "optionA": "MAY",
+      "optionB": "MIGHT",
+      "correctIndex": 1,
+      "explanation": "Might have known — идиома: мне следовало бы догадаться. Выражает сожаление о собственной прошлой неосведомлённости.",
+      "tags": [
+        "may_vs_might",
+        "might",
+        "idiom"
+      ]
+    }
+  ]
+}

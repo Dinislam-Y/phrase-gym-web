@@ -1,0 +1,2087 @@
+{
+  "id": "upper_09_gerund_infinitive",
+  "title": "Gerund & Infinitive",
+  "description": "Герундий (Reading) или Инфинитив (To read)? Это выбор между «Процессом» и «Целью». 'Stop smoking' (бросить) или 'Stop to smoke' (остановиться, чтобы).",
+  "order": 9,
+  "level": "upper_intermediate",
+  "imageUrl": "assets/images/lessons/gerund_infinitive.png",
+  "vocabulary": [
+    {
+      "id": "v9_read",
+      "english": "read",
+      "russian": "читать",
+      "partOfSpeech": "verb",
+      "example": "Like reading.",
+      "exampleTranslation": "Люблю читать.",
+      "audioPath": "assets/audio/vocabulary/v9_read.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_read.mp3"
+    },
+    {
+      "id": "v9_book",
+      "english": "book",
+      "russian": "книга",
+      "partOfSpeech": "noun",
+      "example": "Reading books.",
+      "exampleTranslation": "Читать книги.",
+      "audioPath": "assets/audio/vocabulary/v9_book.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_book.mp3"
+    },
+    {
+      "id": "v9_decide",
+      "english": "decide",
+      "russian": "решать",
+      "partOfSpeech": "verb",
+      "example": "He decided.",
+      "exampleTranslation": "Он решил.",
+      "audioPath": "assets/audio/vocabulary/v9_decide.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_decide.mp3"
+    },
+    {
+      "id": "v9_leave",
+      "english": "leave",
+      "russian": "уходить",
+      "partOfSpeech": "verb",
+      "example": "To leave.",
+      "exampleTranslation": "Уйти.",
+      "audioPath": "assets/audio/vocabulary/v9_leave.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_leave.mp3"
+    },
+    {
+      "id": "v9_stop",
+      "english": "stop",
+      "russian": "останавливаться (переставать)",
+      "partOfSpeech": "verb",
+      "example": "Stopped smoking.",
+      "exampleTranslation": "Бросил курить.",
+      "audioPath": "assets/audio/vocabulary/v9_stop.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_stop.mp3"
+    },
+    {
+      "id": "v9_smoke",
+      "english": "smoke",
+      "russian": "курить",
+      "partOfSpeech": "verb",
+      "example": "Stopped smoking.",
+      "exampleTranslation": "Бросил курить.",
+      "audioPath": "assets/audio/vocabulary/v9_smoke.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_smoke.mp3"
+    },
+    {
+      "id": "v9_want",
+      "english": "want",
+      "russian": "хотеть",
+      "partOfSpeech": "verb",
+      "example": "I want.",
+      "exampleTranslation": "Я хочу.",
+      "audioPath": "assets/audio/vocabulary/v9_want.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_want.mp3"
+    },
+    {
+      "id": "v9_buy",
+      "english": "buy",
+      "russian": "покупать",
+      "partOfSpeech": "verb",
+      "example": "To buy.",
+      "exampleTranslation": "Купить.",
+      "audioPath": "assets/audio/vocabulary/v9_buy.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_buy.mp3"
+    },
+    {
+      "id": "v9_ticket",
+      "english": "ticket",
+      "russian": "билет",
+      "partOfSpeech": "noun",
+      "example": "A ticket.",
+      "exampleTranslation": "Билет.",
+      "audioPath": "assets/audio/vocabulary/v9_ticket.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_ticket.mp3"
+    },
+    {
+      "id": "v9_finish",
+      "english": "finish",
+      "russian": "заканчивать",
+      "partOfSpeech": "verb",
+      "example": "Finished working.",
+      "exampleTranslation": "Закончили работать.",
+      "audioPath": "assets/audio/vocabulary/v9_finish.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_finish.mp3"
+    },
+    {
+      "id": "v9_work",
+      "english": "work",
+      "russian": "работать",
+      "partOfSpeech": "verb",
+      "example": "Finished working.",
+      "exampleTranslation": "Закончили работать.",
+      "audioPath": "assets/audio/vocabulary/v9_work.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_work.mp3"
+    },
+    {
+      "id": "v9_promise",
+      "english": "promise",
+      "russian": "обещать",
+      "partOfSpeech": "verb",
+      "example": "I promise.",
+      "exampleTranslation": "Я обещаю.",
+      "audioPath": "assets/audio/vocabulary/v9_promise.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_promise.mp3"
+    },
+    {
+      "id": "v9_help",
+      "english": "help",
+      "russian": "помогать",
+      "partOfSpeech": "verb",
+      "example": "To help.",
+      "exampleTranslation": "Помочь.",
+      "audioPath": "assets/audio/vocabulary/v9_help.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_help.mp3"
+    },
+    {
+      "id": "v9_avoid",
+      "english": "avoid",
+      "russian": "избегать",
+      "partOfSpeech": "verb",
+      "example": "Avoids meeting.",
+      "exampleTranslation": "Избегает встреч.",
+      "audioPath": "assets/audio/vocabulary/v9_avoid.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_avoid.mp3"
+    },
+    {
+      "id": "v9_meet",
+      "english": "meet",
+      "russian": "встречать",
+      "partOfSpeech": "verb",
+      "example": "Meeting him.",
+      "exampleTranslation": "Встреч с ним.",
+      "audioPath": "assets/audio/vocabulary/v9_meet.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_meet.mp3"
+    },
+    {
+      "id": "v9_forget",
+      "english": "forget",
+      "russian": "забывать",
+      "partOfSpeech": "verb",
+      "example": "Forgot to call.",
+      "exampleTranslation": "Забыл позвонить.",
+      "audioPath": "assets/audio/vocabulary/v9_forget.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_forget.mp3"
+    },
+    {
+      "id": "v9_call",
+      "english": "call",
+      "russian": "звонить",
+      "partOfSpeech": "verb",
+      "example": "To call.",
+      "exampleTranslation": "Позвонить.",
+      "audioPath": "assets/audio/vocabulary/v9_call.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_call.mp3"
+    },
+    {
+      "id": "v9_remember",
+      "english": "remember",
+      "russian": "помнить",
+      "partOfSpeech": "verb",
+      "example": "I remember.",
+      "exampleTranslation": "Я помню.",
+      "audioPath": "assets/audio/vocabulary/v9_remember.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_remember.mp3"
+    },
+    {
+      "id": "v9_see",
+      "english": "see",
+      "russian": "видеть (встречаться)",
+      "partOfSpeech": "verb",
+      "example": "Seeing it.",
+      "exampleTranslation": "Как видел это.",
+      "audioPath": "assets/audio/vocabulary/v9_see.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_see.mp3"
+    },
+    {
+      "id": "v9_good",
+      "english": "good",
+      "russian": "хороший",
+      "partOfSpeech": "adjective",
+      "example": "Good at.",
+      "exampleTranslation": "Хорош в.",
+      "audioPath": "assets/audio/vocabulary/v9_good.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_good.mp3"
+    },
+    {
+      "id": "v9_swim",
+      "english": "swim",
+      "russian": "плавать",
+      "partOfSpeech": "verb",
+      "example": "At swimming.",
+      "exampleTranslation": "В плавании.",
+      "audioPath": "assets/audio/vocabulary/v9_swim.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_swim.mp3"
+    },
+    {
+      "id": "v9_close",
+      "english": "close",
+      "russian": "закрывать",
+      "partOfSpeech": "verb",
+      "example": "To close.",
+      "exampleTranslation": "Закрыть.",
+      "audioPath": "assets/audio/vocabulary/v9_close.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_close.mp3"
+    },
+    {
+      "id": "v9_door",
+      "english": "door",
+      "russian": "дверь",
+      "partOfSpeech": "noun",
+      "example": "The door.",
+      "exampleTranslation": "Дверь.",
+      "audioPath": "assets/audio/vocabulary/v9_door.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_door.mp3"
+    },
+    {
+      "id": "v9_mind",
+      "english": "mind",
+      "russian": "возражать",
+      "partOfSpeech": "verb",
+      "example": "Do not mind.",
+      "exampleTranslation": "Не возражаю.",
+      "audioPath": "assets/audio/vocabulary/v9_mind.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_mind.mp3"
+    },
+    {
+      "id": "v9_wait",
+      "english": "wait",
+      "russian": "ждать",
+      "partOfSpeech": "verb",
+      "example": "Mind waiting.",
+      "exampleTranslation": "Возражаю подождать.",
+      "audioPath": "assets/audio/vocabulary/v9_wait.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_wait.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "Gerund or Infinitive?",
+    "subtitle": "Представьте Герундий (-ing) как КАРТИНУ процесса (плавание, чтение). А Инфинитив (To...) как СТРЕЛКУ к цели (чтобы сделать, планировать сделать).",
+    "construction": {
+      "formula": "Verb + V-ing OR Verb + To V1",
+      "rules": [
+        {
+          "word": "Gerund (Процесс)",
+          "description": "После глаголов любви/ненависти и завершения. Enjoy reading (Наслаждаться чтением). Finish working (Закончить работу)."
+        },
+        {
+          "word": "Infinitive (Цель/План)",
+          "description": "После глаголов решения и плана. Want to go (Хотеть пойти). Decide to help (Решить помочь)."
+        },
+        {
+          "word": "Разный смысл",
+          "description": "Stop smoking (Бросить привычку). Stop to smoke (Остановиться ради курения)."
+        },
+        {
+          "word": "После предлогов",
+          "description": "ВСЕГДА Герундий. Good AT painting. Interested IN learning."
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "star",
+        "color": "blue",
+        "title": "Хобби и Эмоции (-ing)",
+        "description": "I like swimming. (Я люблю сам процесс плавания).",
+        "example": {
+          "english": "She enjoys dancing.",
+          "russian": "Она наслаждается танцами."
+        }
+      },
+      {
+        "icon": "star",
+        "color": "orange",
+        "title": "Планы и Цели (To...)",
+        "description": "I decided to go. (Я принял решение -> пойти).",
+        "example": {
+          "english": "I want to sleep.",
+          "russian": "Я хочу спать."
+        }
+      },
+      {
+        "icon": "schedule",
+        "color": "orange",
+        "title": "Изменение смысла",
+        "description": "Remember to close (Не забудь закрыть). Remember closing (Помню, как закрывал).",
+        "example": {
+          "english": "Don't forget to call.",
+          "russian": "Не забудь позвонить."
+        }
+      }
+    ],
+    "markers": [
+      "enjoy",
+      "finish",
+      "mind",
+      "want",
+      "decide",
+      "plan",
+      "stop",
+      "remember"
+    ]
+  },
+  "tasks": [
+    {
+      "id": "t9_1",
+      "type": "sentenceAssembly",
+      "question": "Я люблю анализировать данные по вечерам (процесс)",
+      "correctAnswer": "I like analyzing data in the evening",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "like",
+          "likes",
+          "love",
+          "want"
+        ],
+        [
+          "analyzing",
+          "analyze",
+          "to analyze",
+          "analyses"
+        ],
+        [
+          "data",
+          "reports",
+          "metrics",
+          "charts"
+        ],
+        [
+          "in",
+          "for",
+          "at",
+          "on"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "evening",
+          "morning",
+          "night",
+          "day"
+        ]
+      ],
+      "mistakeTags": [
+        "gerund_infinitive",
+        "ing_to"
+      ],
+      "audioPath": "assets/audio/grammar/upper_09_gerund_infinitive/000.mp3"
+    },
+    {
+      "id": "t9_2",
+      "type": "sentenceAssembly",
+      "question": "Она решила уволиться после конфликта (план)",
+      "correctAnswer": "She decided to resign after the conflict",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "They",
+          "You",
+          "One"
+        ],
+        [
+          "decided",
+          "decide",
+          "plan",
+          "want"
+        ],
+        [
+          "to",
+          "with",
+          "from",
+          "by"
+        ],
+        [
+          "resign",
+          "resigning",
+          "quit",
+          "leave"
+        ],
+        [
+          "after",
+          "before",
+          "during",
+          "until"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "conflict",
+          "meeting",
+          "review",
+          "incident"
+        ]
+      ],
+      "mistakeTags": [
+        "gerund_infinitive",
+        "ing_to"
+      ],
+      "audioPath": "assets/audio/grammar/upper_09_gerund_infinitive/001.mp3"
+    },
+    {
+      "id": "t9_3",
+      "type": "sentenceAssembly",
+      "question": "Он бросил курить два года назад (бросил)",
+      "correctAnswer": "He stopped smoking two years ago",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "It",
+          "Him"
+        ],
+        [
+          "stopped",
+          "stop",
+          "finish",
+          "end"
+        ],
+        [
+          "smoking",
+          "smoke",
+          "to smoke",
+          "smokes"
+        ],
+        [
+          "two",
+          "three",
+          "five",
+          "ten"
+        ],
+        [
+          "years",
+          "months",
+          "weeks",
+          "days"
+        ],
+        [
+          "ago",
+          "before",
+          "back",
+          "past"
+        ]
+      ],
+      "mistakeTags": [
+        "gerund_infinitive",
+        "ing_to"
+      ],
+      "audioPath": "assets/audio/grammar/upper_09_gerund_infinitive/002.mp3"
+    },
+    {
+      "id": "t9_4",
+      "type": "sentenceAssembly",
+      "question": "Я хочу купить билет",
+      "correctAnswer": "I want to buy a ticket",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "want",
+          "wants",
+          "like",
+          "love"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "buy",
+          "buying",
+          "bought",
+          "get"
+        ],
+        [
+          "a",
+          "an",
+          "this",
+          "the"
+        ],
+        [
+          "ticket",
+          "card",
+          "pass",
+          "paper"
+        ]
+      ],
+      "mistakeTags": [
+        "gerund_infinitive",
+        "ing_to"
+      ],
+      "audioPath": "assets/audio/grammar/upper_09_gerund_infinitive/003.mp3"
+    },
+    {
+      "id": "t9_5",
+      "type": "sentenceAssembly",
+      "question": "Мы закончили работать над исследовательским отчётом (процесс)",
+      "correctAnswer": "We finished working on the research report",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "You",
+          "One"
+        ],
+        [
+          "finished",
+          "finish",
+          "stop",
+          "end"
+        ],
+        [
+          "working",
+          "work",
+          "to work",
+          "job"
+        ],
+        [
+          "on",
+          "with",
+          "from",
+          "by"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "research",
+          "annual",
+          "quarterly",
+          "financial"
+        ],
+        [
+          "report",
+          "paper",
+          "analysis",
+          "review"
+        ]
+      ],
+      "mistakeTags": [
+        "gerund_infinitive",
+        "ing_to"
+      ],
+      "audioPath": "assets/audio/grammar/upper_09_gerund_infinitive/004.mp3"
+    },
+    {
+      "id": "t9_6",
+      "type": "sentenceAssembly",
+      "question": "Я обещаю помочь тебе с презентацией для клиента",
+      "correctAnswer": "I promise to help you with this presentation",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "She",
+          "He",
+          "It"
+        ],
+        [
+          "promise",
+          "want",
+          "try",
+          "plan"
+        ],
+        [
+          "to",
+          "about",
+          "through",
+          "into"
+        ],
+        [
+          "help",
+          "call",
+          "meet",
+          "visit"
+        ],
+        [
+          "you",
+          "she",
+          "he",
+          "it"
+        ],
+        [
+          "with",
+          "about",
+          "through",
+          "into"
+        ],
+        [
+          "this",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "presentation",
+          "project",
+          "proposal",
+          "campaign"
+        ]
+      ],
+      "mistakeTags": [
+        "gerund_infinitive",
+        "ing_to"
+      ],
+      "audioPath": "assets/audio/grammar/upper_09_gerund_infinitive/005.mp3"
+    },
+    {
+      "id": "t9_7",
+      "type": "sentenceAssembly",
+      "question": "Она избегает встреч с ним на работе (Avoid + ing)",
+      "correctAnswer": "She avoids meeting him at work",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "We",
+          "Her"
+        ],
+        [
+          "avoids",
+          "avoid",
+          "hate",
+          "stop"
+        ],
+        [
+          "meeting",
+          "meet",
+          "to meet",
+          "met"
+        ],
+        [
+          "him",
+          "he",
+          "his",
+          "her"
+        ],
+        [
+          "at",
+          "for",
+          "in",
+          "on"
+        ],
+        [
+          "work",
+          "school",
+          "home",
+          "office"
+        ]
+      ],
+      "mistakeTags": [
+        "gerund_infinitive",
+        "ing_to"
+      ],
+      "audioPath": "assets/audio/grammar/upper_09_gerund_infinitive/006.mp3"
+    },
+    {
+      "id": "t9_8",
+      "type": "sentenceAssembly",
+      "question": "Он забыл позвонить мне о встрече",
+      "correctAnswer": "He forgot to call me about the meeting",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "They",
+          "You",
+          "One"
+        ],
+        [
+          "forgot",
+          "promised",
+          "tried",
+          "wanted"
+        ],
+        [
+          "to",
+          "with",
+          "from",
+          "by"
+        ],
+        [
+          "call",
+          "help",
+          "meet",
+          "tell"
+        ],
+        [
+          "me",
+          "him",
+          "her",
+          "them"
+        ],
+        [
+          "about",
+          "with",
+          "from",
+          "by"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "meeting",
+          "party",
+          "dinner",
+          "plan"
+        ]
+      ],
+      "mistakeTags": [
+        "gerund_infinitive",
+        "ing_to"
+      ],
+      "audioPath": "assets/audio/grammar/upper_09_gerund_infinitive/007.mp3"
+    },
+    {
+      "id": "t9_9",
+      "type": "sentenceAssembly",
+      "question": "Я помню, как видел это прошлым летом (процесс в прошлом)",
+      "correctAnswer": "I remember seeing it last summer",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "She",
+          "He",
+          "It"
+        ],
+        [
+          "remember",
+          "forget",
+          "think",
+          "know"
+        ],
+        [
+          "seeing",
+          "see",
+          "to see",
+          "saw"
+        ],
+        [
+          "it",
+          "she",
+          "he",
+          "this"
+        ],
+        [
+          "last",
+          "next",
+          "every",
+          "this"
+        ],
+        [
+          "summer",
+          "winter",
+          "year",
+          "week"
+        ]
+      ],
+      "mistakeTags": [
+        "gerund_infinitive",
+        "ing_to"
+      ],
+      "audioPath": "assets/audio/grammar/upper_09_gerund_infinitive/008.mp3"
+    },
+    {
+      "id": "t9_10",
+      "type": "sentenceAssembly",
+      "question": "Хорош ли ты в плавании в бассейне? (Good at + ing)",
+      "correctAnswer": "Are you good at swimming in pools?",
+      "options": [],
+      "variants": [
+        [
+          "Are",
+          "Is",
+          "Do",
+          "Can"
+        ],
+        [
+          "you",
+          "he",
+          "she",
+          "we"
+        ],
+        [
+          "good",
+          "bad",
+          "nice",
+          "well"
+        ],
+        [
+          "at",
+          "for",
+          "in",
+          "on"
+        ],
+        [
+          "swimming",
+          "swim",
+          "to swim",
+          "pool"
+        ],
+        [
+          "in",
+          "for",
+          "at",
+          "on"
+        ],
+        [
+          "pools",
+          "rivers",
+          "lakes",
+          "water"
+        ]
+      ],
+      "mistakeTags": [
+        "gerund_infinitive",
+        "ing_to"
+      ],
+      "audioPath": "assets/audio/grammar/upper_09_gerund_infinitive/009.mp3"
+    },
+    {
+      "id": "t9_11",
+      "type": "sentenceAssembly",
+      "question": "Не забудь закрыть дверь",
+      "correctAnswer": "Do not forget to close the door",
+      "options": [],
+      "variants": [
+        [
+          "Do",
+          "Does",
+          "Did",
+          "Will"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "don't"
+        ],
+        [
+          "forget",
+          "remember",
+          "lose",
+          "miss"
+        ],
+        [
+          "to",
+          "with",
+          "from",
+          "by"
+        ],
+        [
+          "close",
+          "closing",
+          "shut",
+          "open"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "door",
+          "gate",
+          "room",
+          "house"
+        ]
+      ],
+      "mistakeTags": [
+        "gerund_infinitive",
+        "ing_to"
+      ],
+      "audioPath": "assets/audio/grammar/upper_09_gerund_infinitive/010.mp3"
+    },
+    {
+      "id": "t9_12",
+      "type": "sentenceAssembly",
+      "question": "Я не возражаю подождать тебя здесь (Mind + ing)",
+      "correctAnswer": "I do not mind waiting for you",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "She",
+          "He",
+          "It"
+        ],
+        [
+          "do",
+          "does",
+          "did",
+          "am"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "don't"
+        ],
+        [
+          "mind",
+          "care",
+          "worry",
+          "think"
+        ],
+        [
+          "waiting",
+          "wait",
+          "to wait",
+          "stay"
+        ],
+        [
+          "for",
+          "about",
+          "through",
+          "into"
+        ],
+        [
+          "you",
+          "she",
+          "he",
+          "it"
+        ]
+      ],
+      "mistakeTags": [
+        "gerund_infinitive",
+        "ing_to"
+      ],
+      "audioPath": "assets/audio/grammar/upper_09_gerund_infinitive/011.mp3"
+    },
+    {
+      "id": "t9_13",
+      "type": "sentenceAssembly",
+      "question": "Попробуй открыть окно в комнате (сделай попытку)",
+      "correctAnswer": "Try opening the window in the room",
+      "options": [],
+      "variants": [
+        [
+          "Try",
+          "Test",
+          "Do",
+          "Make"
+        ],
+        [
+          "opening",
+          "open",
+          "to open",
+          "close"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "window",
+          "glass",
+          "door",
+          "curtain"
+        ],
+        [
+          "in",
+          "for",
+          "at",
+          "on"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "room",
+          "house",
+          "office",
+          "kitchen"
+        ]
+      ],
+      "mistakeTags": [
+        "gerund_infinitive",
+        "ing_to"
+      ],
+      "audioPath": "assets/audio/grammar/upper_09_gerund_infinitive/012.mp3"
+    },
+    {
+      "id": "t9_14",
+      "type": "sentenceAssembly",
+      "question": "Мы планируем выйти на международный рынок этим летом",
+      "correctAnswer": "We plan to enter the global market soon",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "You",
+          "One"
+        ],
+        [
+          "plan",
+          "want",
+          "hope",
+          "go"
+        ],
+        [
+          "to",
+          "with",
+          "from",
+          "by"
+        ],
+        [
+          "enter",
+          "entering",
+          "reach",
+          "explore"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "global",
+          "foreign",
+          "new",
+          "European"
+        ],
+        [
+          "market",
+          "industry",
+          "sector",
+          "field"
+        ],
+        [
+          "soon",
+          "today",
+          "next",
+          "later"
+        ]
+      ],
+      "mistakeTags": [
+        "gerund_infinitive",
+        "ing_to"
+      ],
+      "audioPath": "assets/audio/grammar/upper_09_gerund_infinitive/013.mp3"
+    },
+    {
+      "id": "t9_15",
+      "type": "sentenceAssembly",
+      "question": "Он предложил пойти в кино (Suggest + ing)",
+      "correctAnswer": "He suggested going to the cinema",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "It",
+          "Him"
+        ],
+        [
+          "suggested",
+          "said",
+          "told",
+          "ask"
+        ],
+        [
+          "going",
+          "go",
+          "to go",
+          "went"
+        ],
+        [
+          "to",
+          "about",
+          "through",
+          "into"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "cinema",
+          "movie",
+          "film",
+          "show"
+        ]
+      ],
+      "mistakeTags": [
+        "gerund_infinitive",
+        "ing_to"
+      ],
+      "audioPath": "assets/audio/grammar/upper_09_gerund_infinitive/014.mp3"
+    },
+    {
+      "id": "t9_16",
+      "type": "sentenceAssembly",
+      "question": "Перестань болтать и слушай учителя (Stop + ing)",
+      "correctAnswer": "Stop talking and listen to me",
+      "options": [],
+      "variants": [
+        [
+          "Stop",
+          "Finish",
+          "End",
+          "Quit"
+        ],
+        [
+          "talking",
+          "talk",
+          "to talk",
+          "speak"
+        ],
+        [
+          "and",
+          "or",
+          "but",
+          "then"
+        ],
+        [
+          "listen",
+          "hear",
+          "look",
+          "wait"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "me",
+          "him",
+          "her",
+          "them"
+        ]
+      ],
+      "mistakeTags": [
+        "gerund_infinitive",
+        "ing_to"
+      ],
+      "audioPath": "assets/audio/grammar/upper_09_gerund_infinitive/015.mp3"
+    },
+    {
+      "id": "t9_17",
+      "type": "sentenceAssembly",
+      "question": "Она остановилась, чтобы спросить дорогу (для цели)",
+      "correctAnswer": "She stopped to ask for the way",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "They",
+          "You",
+          "One"
+        ],
+        [
+          "stopped",
+          "stop",
+          "stand",
+          "wait"
+        ],
+        [
+          "to",
+          "with",
+          "from",
+          "by"
+        ],
+        [
+          "ask",
+          "asking",
+          "say",
+          "tell"
+        ],
+        [
+          "for",
+          "with",
+          "from",
+          "by"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "way",
+          "road",
+          "path",
+          "direction"
+        ]
+      ],
+      "mistakeTags": [
+        "gerund_infinitive",
+        "ing_to"
+      ],
+      "audioPath": "assets/audio/grammar/upper_09_gerund_infinitive/016.mp3"
+    },
+    {
+      "id": "t9_18",
+      "type": "sentenceAssembly",
+      "question": "Я надеюсь увидеть тебя очень скоро",
+      "correctAnswer": "I hope to see you very soon",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "She",
+          "He",
+          "It"
+        ],
+        [
+          "hope",
+          "wish",
+          "want",
+          "plan"
+        ],
+        [
+          "to",
+          "about",
+          "through",
+          "into"
+        ],
+        [
+          "see",
+          "seeing",
+          "look",
+          "watch"
+        ],
+        [
+          "you",
+          "she",
+          "he",
+          "it"
+        ],
+        [
+          "very",
+          "quite",
+          "really",
+          "so"
+        ],
+        [
+          "soon",
+          "fast",
+          "quick",
+          "early"
+        ]
+      ],
+      "mistakeTags": [
+        "gerund_infinitive",
+        "ing_to"
+      ],
+      "audioPath": "assets/audio/grammar/upper_09_gerund_infinitive/017.mp3"
+    },
+    {
+      "id": "t9_19",
+      "type": "sentenceAssembly",
+      "question": "Плавание очень полезно для вашего здоровья",
+      "correctAnswer": "Swimming is very good for your health",
+      "options": [],
+      "variants": [
+        [
+          "Swimming",
+          "Swim",
+          "To swim",
+          "Sport"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "be"
+        ],
+        [
+          "very",
+          "really",
+          "quite",
+          "so"
+        ],
+        [
+          "good",
+          "nice",
+          "well",
+          "fine"
+        ],
+        [
+          "for",
+          "at",
+          "in",
+          "to"
+        ],
+        [
+          "your",
+          "the",
+          "our",
+          "my"
+        ],
+        [
+          "health",
+          "healthy",
+          "body",
+          "life"
+        ]
+      ],
+      "mistakeTags": [
+        "gerund_infinitive",
+        "ing_to"
+      ],
+      "audioPath": "assets/audio/grammar/upper_09_gerund_infinitive/018.mp3"
+    },
+    {
+      "id": "t9_20",
+      "type": "sentenceAssembly",
+      "question": "Курить запрещено в этом здании",
+      "correctAnswer": "Smoking is forbidden in this building",
+      "options": [],
+      "variants": [
+        [
+          "Smoking",
+          "Smoke",
+          "To smoke",
+          "Fire"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "be"
+        ],
+        [
+          "forbidden",
+          "banned",
+          "allowed",
+          "legal"
+        ],
+        [
+          "in",
+          "with",
+          "from",
+          "by"
+        ],
+        [
+          "this",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "building",
+          "place",
+          "area",
+          "room"
+        ]
+      ],
+      "mistakeTags": [
+        "gerund_infinitive",
+        "ing_to"
+      ],
+      "audioPath": "assets/audio/grammar/upper_09_gerund_infinitive/019.mp3"
+    },
+    {
+      "id": "t9_21",
+      "type": "sentenceAssembly",
+      "question": "Учитесь слушать других людей внимательно (Learn + to)",
+      "correctAnswer": "Learn to listen to other people carefully",
+      "options": [],
+      "variants": [
+        [
+          "Learn",
+          "Study",
+          "Read",
+          "Know"
+        ],
+        [
+          "to",
+          "about",
+          "through",
+          "into"
+        ],
+        [
+          "listen",
+          "listening",
+          "hear",
+          "sound"
+        ],
+        [
+          "to",
+          "about",
+          "through",
+          "into"
+        ],
+        [
+          "other",
+          "some",
+          "many",
+          "all"
+        ],
+        [
+          "people",
+          "persons",
+          "friends",
+          "others"
+        ],
+        [
+          "carefully",
+          "closely",
+          "quietly",
+          "slowly"
+        ]
+      ],
+      "mistakeTags": [
+        "gerund_infinitive",
+        "ing_to"
+      ],
+      "audioPath": "assets/audio/grammar/upper_09_gerund_infinitive/020.mp3"
+    },
+    {
+      "id": "t9_22",
+      "type": "sentenceAssembly",
+      "question": "Я не могу позволить себе купить это (Afford + to)",
+      "correctAnswer": "I cannot afford to buy it",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "cannot",
+          "can't",
+          "don't",
+          "not"
+        ],
+        [
+          "afford",
+          "buy",
+          "pay",
+          "get"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "buy",
+          "buying",
+          "get",
+          "take"
+        ],
+        [
+          "it",
+          "he",
+          "she",
+          "we"
+        ]
+      ],
+      "mistakeTags": [
+        "gerund_infinitive",
+        "ing_to"
+      ],
+      "audioPath": "assets/audio/grammar/upper_09_gerund_infinitive/021.mp3"
+    },
+    {
+      "id": "t9_23",
+      "type": "sentenceAssembly",
+      "question": "Они продолжили играть в футбол после дождя (Continue + ing)",
+      "correctAnswer": "They continued playing football after the rain",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "You",
+          "One",
+          "Them"
+        ],
+        [
+          "continued",
+          "continue",
+          "go on",
+          "keep"
+        ],
+        [
+          "playing",
+          "play",
+          "to play",
+          "game"
+        ],
+        [
+          "football",
+          "tennis",
+          "chess",
+          "cards"
+        ],
+        [
+          "after",
+          "before",
+          "during",
+          "until"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "rain",
+          "storm",
+          "break",
+          "lunch"
+        ]
+      ],
+      "mistakeTags": [
+        "gerund_infinitive",
+        "ing_to"
+      ],
+      "audioPath": "assets/audio/grammar/upper_09_gerund_infinitive/022.mp3"
+    },
+    {
+      "id": "t9_24",
+      "type": "sentenceAssembly",
+      "question": "Она уволилась, не предупредив никого заранее (without + ing)",
+      "correctAnswer": "She left without notifying a single colleague",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "It",
+          "Her"
+        ],
+        [
+          "left",
+          "leave",
+          "go",
+          "went"
+        ],
+        [
+          "without",
+          "with",
+          "no",
+          "not"
+        ],
+        [
+          "notifying",
+          "notify",
+          "to notify",
+          "telling"
+        ],
+        [
+          "a",
+          "that",
+          "each",
+          "the"
+        ],
+        [
+          "single",
+          "small",
+          "other",
+          "last"
+        ],
+        [
+          "colleague",
+          "manager",
+          "person",
+          "teammate"
+        ]
+      ],
+      "mistakeTags": [
+        "gerund_infinitive",
+        "ing_to"
+      ],
+      "audioPath": "assets/audio/grammar/upper_09_gerund_infinitive/023.mp3"
+    },
+    {
+      "id": "t9_25",
+      "type": "sentenceAssembly",
+      "question": "Можешь ли ты представить жизнь в деревне? (Imagine + ing)",
+      "correctAnswer": "Can you imagine living in the country?",
+      "options": [],
+      "variants": [
+        [
+          "Can",
+          "Will",
+          "Did",
+          "Do"
+        ],
+        [
+          "you",
+          "he",
+          "she",
+          "we"
+        ],
+        [
+          "imagine",
+          "think",
+          "dream",
+          "see"
+        ],
+        [
+          "living",
+          "live",
+          "to live",
+          "life"
+        ],
+        [
+          "in",
+          "for",
+          "at",
+          "on"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "country",
+          "village",
+          "city",
+          "town"
+        ]
+      ],
+      "mistakeTags": [
+        "gerund_infinitive",
+        "ing_to"
+      ],
+      "audioPath": "assets/audio/grammar/upper_09_gerund_infinitive/024.mp3"
+    },
+    {
+      "id": "t9_26",
+      "type": "sentenceAssembly",
+      "question": "Он предложил помочь нам с переездом (Offered + to)",
+      "correctAnswer": "He offered to help us with moving",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "They",
+          "You",
+          "One"
+        ],
+        [
+          "offered",
+          "offer",
+          "ask",
+          "give"
+        ],
+        [
+          "to",
+          "with",
+          "from",
+          "by"
+        ],
+        [
+          "help",
+          "helping",
+          "helped",
+          "do"
+        ],
+        [
+          "us",
+          "we",
+          "our",
+          "them"
+        ],
+        [
+          "with",
+          "from",
+          "by",
+          "for"
+        ],
+        [
+          "moving",
+          "cleaning",
+          "cooking",
+          "packing"
+        ]
+      ],
+      "mistakeTags": [
+        "gerund_infinitive",
+        "ing_to"
+      ],
+      "audioPath": "assets/audio/grammar/upper_09_gerund_infinitive/025.mp3"
+    },
+    {
+      "id": "t9_27",
+      "type": "sentenceAssembly",
+      "question": "Я ненавижу ждать в длинных очередях",
+      "correctAnswer": "I hate waiting in long lines",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "She",
+          "He",
+          "It"
+        ],
+        [
+          "hate",
+          "love",
+          "like",
+          "dislike"
+        ],
+        [
+          "waiting",
+          "wait",
+          "to wait",
+          "stay"
+        ],
+        [
+          "in",
+          "about",
+          "through",
+          "into"
+        ],
+        [
+          "long",
+          "short",
+          "big",
+          "slow"
+        ],
+        [
+          "lines",
+          "queues",
+          "rows",
+          "places"
+        ]
+      ],
+      "mistakeTags": [
+        "gerund_infinitive",
+        "ing_to"
+      ],
+      "audioPath": "assets/audio/grammar/upper_09_gerund_infinitive/026.mp3"
+    },
+    {
+      "id": "t9_28",
+      "type": "sentenceAssembly",
+      "question": "Начинает идти дождь прямо сейчас (Begin + to)",
+      "correctAnswer": "It begins to rain right now outside",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "begins",
+          "begin",
+          "start",
+          "starts"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "rain",
+          "raining",
+          "rains",
+          "water"
+        ],
+        [
+          "right",
+          "just",
+          "very",
+          "so"
+        ],
+        [
+          "now",
+          "then",
+          "here",
+          "soon"
+        ],
+        [
+          "outside",
+          "inside",
+          "again",
+          "today"
+        ]
+      ],
+      "mistakeTags": [
+        "gerund_infinitive",
+        "ing_to"
+      ],
+      "audioPath": "assets/audio/grammar/upper_09_gerund_infinitive/027.mp3"
+    },
+    {
+      "id": "t9_29",
+      "type": "sentenceAssembly",
+      "question": "Стоит прочитать эту книгу (Worth + ing)",
+      "correctAnswer": "It is worth reading this book",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "They",
+          "You",
+          "One"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "be"
+        ],
+        [
+          "worth",
+          "value",
+          "good",
+          "cost"
+        ],
+        [
+          "reading",
+          "read",
+          "to read",
+          "look"
+        ],
+        [
+          "this",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "book",
+          "text",
+          "novel",
+          "paper"
+        ]
+      ],
+      "mistakeTags": [
+        "gerund_infinitive",
+        "ing_to"
+      ],
+      "audioPath": "assets/audio/grammar/upper_09_gerund_infinitive/028.mp3"
+    },
+    {
+      "id": "t9_30",
+      "type": "sentenceAssembly",
+      "question": "Я с нетерпением жду встречи (Look forward to + ing)",
+      "correctAnswer": "I look forward to meeting you",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "She",
+          "He",
+          "It"
+        ],
+        [
+          "look",
+          "see",
+          "watch",
+          "wait"
+        ],
+        [
+          "forward",
+          "for",
+          "front",
+          "head"
+        ],
+        [
+          "to",
+          "about",
+          "through",
+          "into"
+        ],
+        [
+          "meeting",
+          "meet",
+          "to meet",
+          "met"
+        ],
+        [
+          "you",
+          "she",
+          "he",
+          "it"
+        ]
+      ],
+      "mistakeTags": [
+        "gerund_infinitive",
+        "ing_to"
+      ],
+      "audioPath": "assets/audio/grammar/upper_09_gerund_infinitive/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionUpper09GerundInfinitive",
+  "theoryQuiz": [
+    {
+      "id": "tq_01",
+      "type": "multipleChoice",
+      "question": "Что такое герундий (gerund)?",
+      "options": [
+        "Глагол с окончанием -ed",
+        "Глагол с окончанием -ing, используемый как существительное",
+        "Глагол с to",
+        "Глагол в прошедшем времени"
+      ],
+      "correctIndex": 1,
+      "explanation": "Герундий — это V-ing форма глагола, используемая как существительное: Swimming is fun."
+    },
+    {
+      "id": "tq_02",
+      "type": "trueFalse",
+      "question": "После глагола 'enjoy' используется герундий (V-ing).",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Верно. Enjoy + V-ing: I enjoy swimming. (Не: I enjoy to swim.)"
+    },
+    {
+      "id": "tq_03",
+      "type": "multipleChoice",
+      "question": "Какой глагол требует после себя инфинитив (to + V)?",
+      "options": [
+        "enjoy",
+        "avoid",
+        "decide",
+        "finish"
+      ],
+      "correctIndex": 2,
+      "explanation": "Decide + to + V: I decided to leave. Enjoy, avoid, finish требуют герундий."
+    },
+    {
+      "id": "tq_04",
+      "type": "trueFalse",
+      "question": "'I want going home' — это грамматически правильное предложение.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "Неверно. Want требует инфинитив: I want to go home. (Не: want going.)"
+    },
+    {
+      "id": "tq_05",
+      "type": "multipleChoice",
+      "question": "Какая разница между 'stop smoking' и 'stop to smoke'?",
+      "options": [
+        "Разницы нет",
+        "Stop smoking = бросить курить; stop to smoke = остановиться, чтобы покурить",
+        "Stop smoking = начать курить; stop to smoke = бросить курить",
+        "Оба означают 'бросить курить'"
+      ],
+      "correctIndex": 1,
+      "explanation": "Stop + V-ing = прекратить действие. Stop + to V = остановиться, ЧТОБЫ сделать что-то."
+    },
+    {
+      "id": "tq_06",
+      "type": "multipleChoice",
+      "question": "Какие глаголы требуют герундий? (выберите правильную группу)",
+      "options": [
+        "want, need, hope",
+        "enjoy, avoid, finish",
+        "decide, plan, agree",
+        "promise, learn, hope"
+      ],
+      "correctIndex": 1,
+      "explanation": "Enjoy, avoid, finish, mind, suggest, keep, practice — все требуют герундий (V-ing)."
+    },
+    {
+      "id": "tq_07",
+      "type": "trueFalse",
+      "question": "'Remember doing' и 'remember to do' имеют разные значения.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Верно. Remember doing = помнить, что делал. Remember to do = не забыть сделать (в будущем)."
+    },
+    {
+      "id": "tq_08",
+      "type": "multipleChoice",
+      "question": "Выберите правильное предложение:",
+      "options": [
+        "She suggested to go to the park.",
+        "She suggested going to the park.",
+        "She suggested go to the park.",
+        "She suggested gone to the park."
+      ],
+      "correctIndex": 1,
+      "explanation": "Suggest + V-ing: She suggested going. (Не: suggest to go.)"
+    },
+    {
+      "id": "tq_09",
+      "type": "trueFalse",
+      "question": "После глагола 'hope' используется герундий (V-ing).",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "Неверно. Hope + to + V: I hope to see you. (Не: I hope seeing you.)"
+    },
+    {
+      "id": "tq_10",
+      "type": "multipleChoice",
+      "question": "Какое предложение правильное?",
+      "options": [
+        "I avoid to eat fast food.",
+        "I avoid eating fast food.",
+        "I avoid eat fast food.",
+        "I avoid ate fast food."
+      ],
+      "correctIndex": 1,
+      "explanation": "Avoid + V-ing: I avoid eating fast food. Avoid всегда требует герундий."
+    }
+  ]
+}

@@ -1,0 +1,476 @@
+{
+  "id": "upper_listening_05_passive_simple",
+  "title": "Passive Voice: Simple Tenses",
+  "description": "Слушайте предложения в пассивном залоге простых времён.",
+  "order": 5,
+  "level": "upper_intermediate",
+  "imageUrl": "assets/images/lessons/passive_simple.png",
+  "tasks": [
+    {
+      "id": "t5_01",
+      "audioText": "The museum is one of the oldest in the city. It was built in eighteen ninety-five by a famous Italian architect.",
+      "transcript": "It was built in eighteen ninety-five by a famous Italian architect.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "A well-known Italian architect constructed the museum in 1895."
+        },
+        {
+          "id": "o2",
+          "text": "The museum was destroyed in 1895."
+        },
+        {
+          "id": "o3",
+          "text": "An Italian architect is building the museum now."
+        },
+        {
+          "id": "o4",
+          "text": "The museum will be built next year."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Was built' is Past Simple Passive — the museum was constructed in 1895 by the architect.",
+      "mistakeTags": [
+        "history",
+        "passive_simple",
+        "passive_voice"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_05_passive_simple/t5_01.mp3"
+    },
+    {
+      "id": "t5_02",
+      "audioText": "Security at this airport is extremely strict. Every piece of luggage is checked by trained officers before boarding.",
+      "transcript": "Every piece of luggage is checked by trained officers before boarding.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Trained officers inspect all bags before passengers board the plane."
+        },
+        {
+          "id": "o2",
+          "text": "Passengers check their own luggage."
+        },
+        {
+          "id": "o3",
+          "text": "Luggage was checked yesterday only."
+        },
+        {
+          "id": "o4",
+          "text": "Nobody checks the luggage at this airport."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Is checked' is Present Simple Passive — a routine procedure where officers inspect every bag.",
+      "mistakeTags": [
+        "travel",
+        "passive_simple",
+        "passive_voice"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_05_passive_simple/t5_02.mp3"
+    },
+    {
+      "id": "t5_03",
+      "audioText": "The government announced a new education reform. Thousands of new textbooks will be distributed to schools across the country.",
+      "transcript": "Thousands of new textbooks will be distributed to schools across the country.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Schools distributed textbooks to the government."
+        },
+        {
+          "id": "o2",
+          "text": "New textbooks will be sent to schools nationwide in the future."
+        },
+        {
+          "id": "o3",
+          "text": "Textbooks were distributed last year."
+        },
+        {
+          "id": "o4",
+          "text": "No textbooks will be available for schools."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Will be distributed' is Future Simple Passive — the textbooks will be delivered to schools as a future action.",
+      "mistakeTags": [
+        "education",
+        "passive_simple",
+        "passive_voice"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_05_passive_simple/t5_03.mp3"
+    },
+    {
+      "id": "t5_04",
+      "audioText": "The new shopping centre opened last month. The grand opening ceremony was attended by over five thousand people.",
+      "transcript": "The grand opening ceremony was attended by over five thousand people.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "More than five thousand people came to the opening event."
+        },
+        {
+          "id": "o2",
+          "text": "Five thousand people avoided the ceremony."
+        },
+        {
+          "id": "o3",
+          "text": "The ceremony is happening right now."
+        },
+        {
+          "id": "o4",
+          "text": "Nobody attended the opening ceremony."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Was attended by' is Past Simple Passive — the focus is on the ceremony, with five thousand attendees.",
+      "mistakeTags": [
+        "events",
+        "passive_simple",
+        "passive_voice"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_05_passive_simple/t5_04.mp3"
+    },
+    {
+      "id": "t5_05",
+      "audioText": "Our company takes data protection very seriously. All sensitive information is encrypted before it leaves the server.",
+      "transcript": "All sensitive information is encrypted before it leaves the server.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Sensitive data gets coded for protection before being transmitted from the server."
+        },
+        {
+          "id": "o2",
+          "text": "The server sends unencrypted data."
+        },
+        {
+          "id": "o3",
+          "text": "Information was encrypted only last month."
+        },
+        {
+          "id": "o4",
+          "text": "Encryption happens after the data leaves the server."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Is encrypted' is Present Simple Passive — a standard ongoing process for all sensitive data.",
+      "mistakeTags": [
+        "technology",
+        "passive_simple",
+        "passive_voice"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_05_passive_simple/t5_05.mp3"
+    },
+    {
+      "id": "t5_06",
+      "audioText": "The charity event was a huge success. Over three hundred thousand dollars was raised for children's hospitals.",
+      "transcript": "Over three hundred thousand dollars was raised for children's hospitals.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The event collected more than three hundred thousand dollars to support children's hospitals."
+        },
+        {
+          "id": "o2",
+          "text": "Three hundred thousand dollars was spent at the event."
+        },
+        {
+          "id": "o3",
+          "text": "No money was raised at the event."
+        },
+        {
+          "id": "o4",
+          "text": "The hospitals donated money to the charity."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Was raised' is Past Simple Passive — the focus is on the amount collected, not who donated.",
+      "mistakeTags": [
+        "social",
+        "passive_simple",
+        "passive_voice"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_05_passive_simple/t5_06.mp3"
+    },
+    {
+      "id": "t5_07",
+      "audioText": "The city council has big plans for the old harbour. A brand new park will be created in the waterfront area by next summer.",
+      "transcript": "A brand new park will be created in the waterfront area by next summer.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The park was created last summer."
+        },
+        {
+          "id": "o2",
+          "text": "A new park is planned to be built near the water before next summer."
+        },
+        {
+          "id": "o3",
+          "text": "The waterfront area will be destroyed."
+        },
+        {
+          "id": "o4",
+          "text": "The council cancelled the park project."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Will be created' is Future Simple Passive — a planned future development in the waterfront area.",
+      "mistakeTags": [
+        "urban",
+        "passive_simple",
+        "passive_voice"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_05_passive_simple/t5_07.mp3"
+    },
+    {
+      "id": "t5_08",
+      "audioText": "The painting is incredibly valuable. It was stolen from the national gallery in nineteen sixty-seven and recovered twenty years later.",
+      "transcript": "It was stolen from the national gallery in nineteen sixty-seven and recovered twenty years later.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Someone took the painting from the gallery in 1967 and it was found again in 1987."
+        },
+        {
+          "id": "o2",
+          "text": "The painting is being stolen right now."
+        },
+        {
+          "id": "o3",
+          "text": "The painting was never recovered."
+        },
+        {
+          "id": "o4",
+          "text": "The gallery stole the painting from someone."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Was stolen' and 'recovered' are both Past Simple Passive — two past events in the painting's history.",
+      "mistakeTags": [
+        "art",
+        "passive_simple",
+        "passive_voice"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_05_passive_simple/t5_08.mp3"
+    },
+    {
+      "id": "t5_09",
+      "audioText": "The local newspaper covers community events regularly. Every new business opening is reported in the weekend edition.",
+      "transcript": "Every new business opening is reported in the weekend edition.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The newspaper regularly features new business openings in its weekend issue."
+        },
+        {
+          "id": "o2",
+          "text": "New businesses report news to the newspaper."
+        },
+        {
+          "id": "o3",
+          "text": "The newspaper stopped covering business openings."
+        },
+        {
+          "id": "o4",
+          "text": "Business openings were reported only last weekend."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Is reported' is Present Simple Passive — a regular, habitual action by the newspaper.",
+      "mistakeTags": [
+        "media",
+        "passive_simple",
+        "passive_voice"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_05_passive_simple/t5_09.mp3"
+    },
+    {
+      "id": "t5_10",
+      "audioText": "The documentary revealed shocking facts. Millions of tonnes of plastic waste are dumped into the ocean every single year.",
+      "transcript": "Millions of tonnes of plastic waste are dumped into the ocean every single year.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Vast amounts of plastic are thrown into the sea on an annual basis."
+        },
+        {
+          "id": "o2",
+          "text": "The ocean dumps plastic onto the land."
+        },
+        {
+          "id": "o3",
+          "text": "Plastic waste was dumped into the ocean only once."
+        },
+        {
+          "id": "o4",
+          "text": "No plastic ever enters the ocean."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Are dumped' is Present Simple Passive — a repeated, ongoing environmental problem.",
+      "mistakeTags": [
+        "environment",
+        "passive_simple",
+        "passive_voice"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_05_passive_simple/t5_10.mp3"
+    },
+    {
+      "id": "t5_11",
+      "audioText": "The company is planning major changes. All employees will be informed about the restructuring by the end of this week.",
+      "transcript": "All employees will be informed about the restructuring by the end of this week.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Employees were already informed last week."
+        },
+        {
+          "id": "o2",
+          "text": "Every employee will receive information about the changes before the week ends."
+        },
+        {
+          "id": "o3",
+          "text": "Only managers will be told about the restructuring."
+        },
+        {
+          "id": "o4",
+          "text": "The restructuring has been cancelled."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Will be informed' is Future Simple Passive — a planned notification for all staff before a deadline.",
+      "mistakeTags": [
+        "work",
+        "passive_simple",
+        "passive_voice"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_05_passive_simple/t5_11.mp3"
+    },
+    {
+      "id": "t5_12",
+      "audioText": "The ancient temple has an incredible history. It was discovered by archaeologists during a routine excavation in nineteen twelve.",
+      "transcript": "It was discovered by archaeologists during a routine excavation in nineteen twelve.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Archaeologists found the temple while digging in 1912."
+        },
+        {
+          "id": "o2",
+          "text": "The temple discovered the archaeologists."
+        },
+        {
+          "id": "o3",
+          "text": "The temple is being excavated right now."
+        },
+        {
+          "id": "o4",
+          "text": "Nobody has ever found the temple."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Was discovered' is Past Simple Passive — the temple was found as a result of archaeological work in 1912.",
+      "mistakeTags": [
+        "history",
+        "passive_simple",
+        "passive_voice"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_05_passive_simple/t5_12.mp3"
+    },
+    {
+      "id": "t5_13",
+      "audioText": "Food safety regulations in this country are very strict. Every restaurant is inspected at least twice a year by health officials.",
+      "transcript": "Every restaurant is inspected at least twice a year by health officials.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Restaurants inspect health officials twice yearly."
+        },
+        {
+          "id": "o2",
+          "text": "Health officials check each restaurant a minimum of two times annually."
+        },
+        {
+          "id": "o3",
+          "text": "Restaurants are never inspected in this country."
+        },
+        {
+          "id": "o4",
+          "text": "Inspections were stopped five years ago."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Is inspected' is Present Simple Passive — a routine regulatory process carried out regularly.",
+      "mistakeTags": [
+        "food",
+        "passive_simple",
+        "passive_voice"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_05_passive_simple/t5_13.mp3"
+    },
+    {
+      "id": "t5_14",
+      "audioText": "The old railway bridge needed urgent repair. It was closed to traffic last Tuesday and was repaired within four days.",
+      "transcript": "It was closed to traffic last Tuesday and was repaired within four days.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The bridge shut down on Tuesday and the repairs took four days to complete."
+        },
+        {
+          "id": "o2",
+          "text": "The bridge is open and has never needed repairs."
+        },
+        {
+          "id": "o3",
+          "text": "Traffic closed the bridge permanently."
+        },
+        {
+          "id": "o4",
+          "text": "The bridge will be closed next Tuesday."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Was closed' and 'was repaired' are both Past Simple Passive — two sequential past events describing the bridge maintenance.",
+      "mistakeTags": [
+        "transport",
+        "passive_simple",
+        "passive_voice"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_05_passive_simple/t5_14.mp3"
+    },
+    {
+      "id": "t5_15",
+      "audioText": "The technology conference attracts global attention each year. This year's keynote speech will be delivered by the CEO of a major tech company.",
+      "transcript": "This year's keynote speech will be delivered by the CEO of a major tech company.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The CEO of a big tech firm will give the main presentation at this year's conference."
+        },
+        {
+          "id": "o2",
+          "text": "The keynote was delivered last year by the CEO."
+        },
+        {
+          "id": "o3",
+          "text": "There will be no keynote speech this year."
+        },
+        {
+          "id": "o4",
+          "text": "The audience will deliver the speech to the CEO."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Will be delivered' is Future Simple Passive — the keynote speech is scheduled to be given by the CEO.",
+      "mistakeTags": [
+        "technology",
+        "passive_simple",
+        "passive_voice"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_05_passive_simple/t5_15.mp3"
+    }
+  ],
+  "short_description": "Пассивный залог: простые времена."
+}

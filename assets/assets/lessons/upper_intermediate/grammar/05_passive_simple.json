@@ -1,0 +1,2095 @@
+{
+  "id": "upper_05_passive_simple",
+  "title": "Passive Voice: Simple",
+  "description": "Пассивный залог. Общий обзор времен. Акцент на действии, а не на том, кто его совершил.",
+  "order": 5,
+  "level": "upper_intermediate",
+  "imageUrl": "assets/images/lessons/passive_simple.png",
+  "vocabulary": [
+    {
+      "id": "v5_book",
+      "english": "book",
+      "russian": "книга",
+      "partOfSpeech": "noun",
+      "example": "This book.",
+      "exampleTranslation": "Эта книга.",
+      "audioPath": "assets/audio/vocabulary/v5_book.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_book.mp3"
+    },
+    {
+      "id": "v5_write",
+      "english": "write",
+      "russian": "писать",
+      "partOfSpeech": "verb",
+      "example": "Written by me.",
+      "exampleTranslation": "Написана мной.",
+      "audioPath": "assets/audio/vocabulary/v5_write.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_write.mp3"
+    },
+    {
+      "id": "v5_car",
+      "english": "car",
+      "russian": "машина",
+      "partOfSpeech": "noun",
+      "example": "The car.",
+      "exampleTranslation": "Машина.",
+      "audioPath": "assets/audio/vocabulary/v5_car.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_car.mp3"
+    },
+    {
+      "id": "v5_fix",
+      "english": "fix",
+      "russian": "чинить",
+      "partOfSpeech": "verb",
+      "example": "Was fixed.",
+      "exampleTranslation": "Была починена.",
+      "audioPath": "assets/audio/vocabulary/v5_fix.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_fix.mp3"
+    },
+    {
+      "id": "v5_letter",
+      "english": "letter",
+      "russian": "письмо",
+      "partOfSpeech": "noun",
+      "example": "The letter.",
+      "exampleTranslation": "Письмо.",
+      "audioPath": "assets/audio/vocabulary/v5_letter.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_letter.mp3"
+    },
+    {
+      "id": "v5_send",
+      "english": "send",
+      "russian": "отправлять",
+      "partOfSpeech": "verb",
+      "example": "Will be sent.",
+      "exampleTranslation": "Будет отправлено.",
+      "audioPath": "assets/audio/vocabulary/v5_send.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_send.mp3"
+    },
+    {
+      "id": "v5_tomorrow",
+      "english": "tomorrow",
+      "russian": "завтра",
+      "partOfSpeech": "noun",
+      "example": "Tomorrow.",
+      "exampleTranslation": "Завтра.",
+      "audioPath": "assets/audio/vocabulary/v5_tomorrow.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_tomorrow.mp3"
+    },
+    {
+      "id": "v5_english",
+      "english": "English",
+      "russian": "английский",
+      "partOfSpeech": "noun",
+      "example": "English is spoken.",
+      "exampleTranslation": "Говорят по-английски.",
+      "audioPath": "assets/audio/vocabulary/v5_english.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_english.mp3"
+    },
+    {
+      "id": "v5_speak",
+      "english": "speak",
+      "russian": "говорить",
+      "partOfSpeech": "verb",
+      "example": "Is spoken.",
+      "exampleTranslation": "Говорят.",
+      "audioPath": "assets/audio/vocabulary/v5_speak.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_speak.mp3"
+    },
+    {
+      "id": "v5_house",
+      "english": "house",
+      "russian": "дом",
+      "partOfSpeech": "noun",
+      "example": "The house.",
+      "exampleTranslation": "Дом.",
+      "audioPath": "assets/audio/vocabulary/v5_house.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_house.mp3"
+    },
+    {
+      "id": "v5_build",
+      "english": "build",
+      "russian": "строить",
+      "partOfSpeech": "verb",
+      "example": "Was built.",
+      "exampleTranslation": "Был построен.",
+      "audioPath": "assets/audio/vocabulary/v5_build.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_build.mp3"
+    },
+    {
+      "id": "v5_invite",
+      "english": "invite",
+      "russian": "приглашать",
+      "partOfSpeech": "verb",
+      "example": "Was not invited.",
+      "exampleTranslation": "Не пригласили.",
+      "audioPath": "assets/audio/vocabulary/v5_invite.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_invite.mp3"
+    },
+    {
+      "id": "v5_party",
+      "english": "party",
+      "russian": "вечеринка",
+      "partOfSpeech": "noun",
+      "example": "To the party.",
+      "exampleTranslation": "На вечеринку.",
+      "audioPath": "assets/audio/vocabulary/v5_party.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_party.mp3"
+    },
+    {
+      "id": "v5_find",
+      "english": "find",
+      "russian": "находить",
+      "partOfSpeech": "verb",
+      "example": "Was found.",
+      "exampleTranslation": "Его нашли.",
+      "audioPath": "assets/audio/vocabulary/v5_find.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_find.mp3"
+    },
+    {
+      "id": "v5_window",
+      "english": "window",
+      "russian": "окно",
+      "partOfSpeech": "noun",
+      "example": "The windows.",
+      "exampleTranslation": "Окна.",
+      "audioPath": "assets/audio/vocabulary/v5_window.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_window.mp3"
+    },
+    {
+      "id": "v5_clean",
+      "english": "clean",
+      "russian": "чистить (убирать)",
+      "partOfSpeech": "verb",
+      "example": "Are cleaned.",
+      "exampleTranslation": "Моются.",
+      "audioPath": "assets/audio/vocabulary/v5_clean.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_clean.mp3"
+    },
+    {
+      "id": "v5_article",
+      "english": "article",
+      "russian": "статья",
+      "partOfSpeech": "noun",
+      "example": "The article.",
+      "exampleTranslation": "Статья.",
+      "audioPath": "assets/audio/vocabulary/v5_article.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_article.mp3"
+    },
+    {
+      "id": "v5_room",
+      "english": "room",
+      "russian": "комната",
+      "partOfSpeech": "noun",
+      "example": "The room.",
+      "exampleTranslation": "Комната.",
+      "audioPath": "assets/audio/vocabulary/v5_room.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_room.mp3"
+    },
+    {
+      "id": "v5_question",
+      "english": "question",
+      "russian": "вопрос",
+      "partOfSpeech": "noun",
+      "example": "The questions.",
+      "exampleTranslation": "Вопросы.",
+      "audioPath": "assets/audio/vocabulary/v5_question.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_question.mp3"
+    },
+    {
+      "id": "v5_ask",
+      "english": "ask",
+      "russian": "спрашивать (задавать)",
+      "partOfSpeech": "verb",
+      "example": "Will be asked.",
+      "exampleTranslation": "Будут заданы.",
+      "audioPath": "assets/audio/vocabulary/v5_ask.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_ask.mp3"
+    },
+    {
+      "id": "v5_rule",
+      "english": "rule",
+      "russian": "правило",
+      "partOfSpeech": "noun",
+      "example": "These rules.",
+      "exampleTranslation": "Эти правила.",
+      "audioPath": "assets/audio/vocabulary/v5_rule.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_rule.mp3"
+    },
+    {
+      "id": "v5_follow",
+      "english": "follow",
+      "russian": "следовать (соблюдать)",
+      "partOfSpeech": "verb",
+      "example": "Must be followed.",
+      "exampleTranslation": "Должны соблюдаться.",
+      "audioPath": "assets/audio/vocabulary/v5_follow.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_follow.mp3"
+    },
+    {
+      "id": "v5_mistake",
+      "english": "mistake",
+      "russian": "ошибка",
+      "partOfSpeech": "noun",
+      "example": "The mistake.",
+      "exampleTranslation": "Ошибка.",
+      "audioPath": "assets/audio/vocabulary/v5_mistake.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_mistake.mp3"
+    },
+    {
+      "id": "v5_correct",
+      "english": "correct",
+      "russian": "исправлять",
+      "partOfSpeech": "verb",
+      "example": "Was corrected.",
+      "exampleTranslation": "Была исправлена.",
+      "audioPath": "assets/audio/vocabulary/v5_correct.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_correct.mp3"
+    },
+    {
+      "id": "v5_school",
+      "english": "school",
+      "russian": "школа",
+      "partOfSpeech": "noun",
+      "example": "New school.",
+      "exampleTranslation": "Новая школа.",
+      "audioPath": "assets/audio/vocabulary/v5_school.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_school.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "Passive Voice",
+    "subtitle": "«Окно было разбито». Кем? Неважно или неизвестно. Главное — результат. В английском это очень популярно, когда мы хотим звучать объективно.",
+    "construction": {
+      "formula": "Be + V3 (Past Participle)",
+      "rules": [
+        {
+          "word": "Present Simple Passive",
+          "description": "Am/Is/Are + V3. The room is cleaned everyday (Комнату убирают каждый день)."
+        },
+        {
+          "word": "Past Simple Passive",
+          "description": "Was/Were + V3. The letter was sent yesterday (Письмо было отправлено вчера)."
+        },
+        {
+          "word": "Future Simple Passive",
+          "description": "Will be + V3. The work will be done soon (Работа будет сделана скоро)."
+        },
+        {
+          "word": "By + Agent",
+          "description": "Если хотим сказать КЕМ сделано. It was written by Shakespeare."
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "visibility",
+        "color": "blue",
+        "title": "Исполнитель неизвестен",
+        "description": "Кто-то это сделал, не знаем кто.",
+        "example": {
+          "english": "My wallet was stolen.",
+          "russian": "Мой кошелек украли."
+        }
+      },
+      {
+        "icon": "star",
+        "color": "blue",
+        "title": "Важность события",
+        "description": "Действие важнее исполнителя.",
+        "example": {
+          "english": "Penicillin was discovered in 1928.",
+          "russian": "Пенициллин был открыт в 1928."
+        }
+      },
+      {
+        "icon": "check_circle",
+        "color": "orange",
+        "title": "Новости и заголовки",
+        "description": "Официальный стиль.",
+        "example": {
+          "english": "The road is closed.",
+          "russian": "Дорога закрыта."
+        }
+      }
+    ],
+    "markers": [
+      "by",
+      "is done",
+      "was done",
+      "will be done"
+    ]
+  },
+  "tasks": [
+    {
+      "id": "t5_1",
+      "type": "sentenceAssembly",
+      "question": "Этот отчёт написан аналитиком",
+      "correctAnswer": "This report is written by the analyst",
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "the",
+          "a",
+          "an"
+        ],
+        [
+          "report",
+          "paper",
+          "document",
+          "review"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "will"
+        ],
+        [
+          "written",
+          "write",
+          "wrote",
+          "typed"
+        ],
+        [
+          "by",
+          "to",
+          "for",
+          "at"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "analyst",
+          "expert",
+          "manager",
+          "team"
+        ]
+      ],
+      "mistakeTags": [
+        "passive_voice",
+        "simple_passive"
+      ],
+      "audioPath": "assets/audio/grammar/upper_05_passive_simple/000.mp3"
+    },
+    {
+      "id": "t5_2",
+      "type": "sentenceAssembly",
+      "question": "Машина была починена вчера механиком",
+      "correctAnswer": "The car was fixed yesterday by mechanics",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "car",
+          "bus",
+          "new",
+          "great"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "will"
+        ],
+        [
+          "fixed",
+          "fix",
+          "fixing",
+          "knew"
+        ],
+        [
+          "yesterday",
+          "today",
+          "tomorrow",
+          "sometimes"
+        ],
+        [
+          "by",
+          "to",
+          "with",
+          "from"
+        ],
+        [
+          "mechanics",
+          "mechanic",
+          "workers",
+          "people"
+        ]
+      ],
+      "mistakeTags": [
+        "passive_voice",
+        "simple_passive"
+      ],
+      "audioPath": "assets/audio/grammar/upper_05_passive_simple/001.mp3"
+    },
+    {
+      "id": "t5_3",
+      "type": "sentenceAssembly",
+      "question": "Письмо будет отправлено завтра",
+      "correctAnswer": "The letter will be sent tomorrow",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "letter",
+          "mail",
+          "life",
+          "money"
+        ],
+        [
+          "will",
+          "may",
+          "shall",
+          "must"
+        ],
+        [
+          "be",
+          "bin",
+          "am",
+          "being"
+        ],
+        [
+          "sent",
+          "send",
+          "sending",
+          "taking"
+        ],
+        [
+          "tomorrow",
+          "yesterday",
+          "sometimes",
+          "now"
+        ]
+      ],
+      "mistakeTags": [
+        "passive_voice",
+        "simple_passive"
+      ],
+      "audioPath": "assets/audio/grammar/upper_05_passive_simple/002.mp3"
+    },
+    {
+      "id": "t5_4",
+      "type": "sentenceAssembly",
+      "question": "Английский язык используется в международном бизнесе",
+      "correctAnswer": "English is used in international business",
+      "options": [],
+      "variants": [
+        [
+          "English",
+          "Language",
+          "French",
+          "German"
+        ],
+        [
+          "is",
+          "are",
+          "did",
+          "does"
+        ],
+        [
+          "used",
+          "use",
+          "using",
+          "spoke"
+        ],
+        [
+          "in",
+          "to",
+          "for",
+          "at"
+        ],
+        [
+          "international",
+          "global",
+          "world",
+          "foreign"
+        ],
+        [
+          "business",
+          "trade",
+          "commerce",
+          "work"
+        ]
+      ],
+      "mistakeTags": [
+        "passive_voice",
+        "simple_passive"
+      ],
+      "audioPath": "assets/audio/grammar/upper_05_passive_simple/003.mp3"
+    },
+    {
+      "id": "t5_5",
+      "type": "sentenceAssembly",
+      "question": "Дом был построен в 1990",
+      "correctAnswer": "The house was built in 1990",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "house",
+          "home",
+          "new",
+          "find"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "had"
+        ],
+        [
+          "built",
+          "build",
+          "builded",
+          "said"
+        ],
+        [
+          "in",
+          "to",
+          "with",
+          "from"
+        ],
+        [
+          "1990",
+          "2000",
+          "house",
+          "man"
+        ]
+      ],
+      "mistakeTags": [
+        "passive_voice",
+        "simple_passive"
+      ],
+      "audioPath": "assets/audio/grammar/upper_05_passive_simple/004.mp3"
+    },
+    {
+      "id": "t5_6",
+      "type": "sentenceAssembly",
+      "question": "Меня не пригласили на вечеринку",
+      "correctAnswer": "I was not invited to the party",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "She",
+          "He",
+          "It"
+        ],
+        [
+          "was",
+          "were",
+          "am",
+          "have"
+        ],
+        [
+          "not",
+          "no",
+          "part",
+          "time"
+        ],
+        [
+          "invited",
+          "invite",
+          "inviting",
+          "found"
+        ],
+        [
+          "to",
+          "about",
+          "through",
+          "into"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "party",
+          "club",
+          "go",
+          "week"
+        ]
+      ],
+      "mistakeTags": [
+        "passive_voice",
+        "simple_passive"
+      ],
+      "audioPath": "assets/audio/grammar/upper_05_passive_simple/005.mp3"
+    },
+    {
+      "id": "t5_7",
+      "type": "sentenceAssembly",
+      "question": "Когда этот контракт будет подписан?",
+      "correctAnswer": "When will this contract be signed?",
+      "options": [],
+      "variants": [
+        [
+          "When",
+          "Where",
+          "Why",
+          "How"
+        ],
+        [
+          "will",
+          "shall",
+          "did",
+          "can"
+        ],
+        [
+          "this",
+          "the",
+          "a",
+          "an"
+        ],
+        [
+          "contract",
+          "agreement",
+          "deal",
+          "document"
+        ],
+        [
+          "be",
+          "is",
+          "were",
+          "are"
+        ],
+        [
+          "signed?",
+          "finished?",
+          "completed?",
+          "approved?"
+        ]
+      ],
+      "mistakeTags": [
+        "passive_voice",
+        "simple_passive"
+      ],
+      "audioPath": "assets/audio/grammar/upper_05_passive_simple/006.mp3"
+    },
+    {
+      "id": "t5_8",
+      "type": "sentenceAssembly",
+      "question": "Его нашли в старом здании",
+      "correctAnswer": "He was found in the old building",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "I",
+          "They",
+          "You"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "will"
+        ],
+        [
+          "found",
+          "find",
+          "founded",
+          "knew"
+        ],
+        [
+          "in",
+          "to",
+          "with",
+          "from"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "old",
+          "new",
+          "big",
+          "small"
+        ],
+        [
+          "building",
+          "house",
+          "park",
+          "street"
+        ]
+      ],
+      "mistakeTags": [
+        "passive_voice",
+        "simple_passive"
+      ],
+      "audioPath": "assets/audio/grammar/upper_05_passive_simple/007.mp3"
+    },
+    {
+      "id": "t5_9",
+      "type": "sentenceAssembly",
+      "question": "Окна моются каждую неделю",
+      "correctAnswer": "The windows are cleaned every week",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "windows",
+          "window",
+          "glass",
+          "house"
+        ],
+        [
+          "are",
+          "is",
+          "were",
+          "would"
+        ],
+        [
+          "cleaned",
+          "clean",
+          "cleaning",
+          "told"
+        ],
+        [
+          "every",
+          "each",
+          "all",
+          "find"
+        ],
+        [
+          "week",
+          "day",
+          "month",
+          "old"
+        ]
+      ],
+      "mistakeTags": [
+        "passive_voice",
+        "simple_passive"
+      ],
+      "audioPath": "assets/audio/grammar/upper_05_passive_simple/008.mp3"
+    },
+    {
+      "id": "t5_10",
+      "type": "sentenceAssembly",
+      "question": "Статья написана мною",
+      "correctAnswer": "The article was written by me",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "article",
+          "text",
+          "essay",
+          "house"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "would"
+        ],
+        [
+          "written",
+          "write",
+          "wrote",
+          "make"
+        ],
+        [
+          "by",
+          "to",
+          "for",
+          "at"
+        ],
+        [
+          "me",
+          "I",
+          "my",
+          "him"
+        ]
+      ],
+      "mistakeTags": [
+        "passive_voice",
+        "simple_passive"
+      ],
+      "audioPath": "assets/audio/grammar/upper_05_passive_simple/009.mp3"
+    },
+    {
+      "id": "t5_11",
+      "type": "sentenceAssembly",
+      "question": "Офис был подготовлен перед приходом инспектора",
+      "correctAnswer": "The office was prepared before the inspection",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "office",
+          "building",
+          "room",
+          "hall"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "have"
+        ],
+        [
+          "prepared",
+          "prepare",
+          "preparing",
+          "cleaned"
+        ],
+        [
+          "before",
+          "after",
+          "during",
+          "without"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "inspection",
+          "audit",
+          "review",
+          "visit"
+        ]
+      ],
+      "mistakeTags": [
+        "passive_voice",
+        "simple_passive"
+      ],
+      "audioPath": "assets/audio/grammar/upper_05_passive_simple/010.mp3"
+    },
+    {
+      "id": "t5_12",
+      "type": "sentenceAssembly",
+      "question": "Вопросы будут заданы позже",
+      "correctAnswer": "The questions will be asked later",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "questions",
+          "question",
+          "asks",
+          "give"
+        ],
+        [
+          "will",
+          "would",
+          "were",
+          "is"
+        ],
+        [
+          "be",
+          "is",
+          "been",
+          "being"
+        ],
+        [
+          "asked",
+          "ask",
+          "asking",
+          "wanted"
+        ],
+        [
+          "later",
+          "late",
+          "after",
+          "come"
+        ]
+      ],
+      "mistakeTags": [
+        "passive_voice",
+        "simple_passive"
+      ],
+      "audioPath": "assets/audio/grammar/upper_05_passive_simple/011.mp3"
+    },
+    {
+      "id": "t5_13",
+      "type": "sentenceAssembly",
+      "question": "Эти правила должны соблюдаться всеми сотрудниками",
+      "correctAnswer": "These rules must be followed by everyone",
+      "options": [],
+      "variants": [
+        [
+          "These",
+          "This",
+          "The",
+          "Some"
+        ],
+        [
+          "rules",
+          "rule",
+          "law",
+          "right"
+        ],
+        [
+          "must",
+          "will",
+          "did",
+          "can"
+        ],
+        [
+          "be",
+          "is",
+          "been",
+          "am"
+        ],
+        [
+          "followed",
+          "follow",
+          "following",
+          "thought"
+        ],
+        [
+          "by",
+          "to",
+          "for",
+          "at"
+        ],
+        [
+          "everyone",
+          "everybody",
+          "workers",
+          "students"
+        ]
+      ],
+      "mistakeTags": [
+        "passive_voice",
+        "simple_passive"
+      ],
+      "audioPath": "assets/audio/grammar/upper_05_passive_simple/012.mp3"
+    },
+    {
+      "id": "t5_14",
+      "type": "sentenceAssembly",
+      "question": "Ошибка была обнаружена системой мониторинга",
+      "correctAnswer": "The error was detected by the monitoring system",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "error",
+          "bug",
+          "fault",
+          "problem"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "could"
+        ],
+        [
+          "detected",
+          "found",
+          "fixed",
+          "reported"
+        ],
+        [
+          "by",
+          "to",
+          "with",
+          "from"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "monitoring",
+          "tracking",
+          "security",
+          "testing"
+        ],
+        [
+          "system",
+          "tool",
+          "software",
+          "program"
+        ]
+      ],
+      "mistakeTags": [
+        "passive_voice",
+        "simple_passive"
+      ],
+      "audioPath": "assets/audio/grammar/upper_05_passive_simple/013.mp3"
+    },
+    {
+      "id": "t5_15",
+      "type": "sentenceAssembly",
+      "question": "Новая школа была построена в прошлом году",
+      "correctAnswer": "A new school was built last year",
+      "options": [],
+      "variants": [
+        [
+          "A",
+          "the",
+          "that",
+          "each"
+        ],
+        [
+          "new",
+          "old",
+          "big",
+          "small"
+        ],
+        [
+          "school",
+          "building",
+          "house",
+          "hospital"
+        ],
+        [
+          "was",
+          "is",
+          "were",
+          "are"
+        ],
+        [
+          "built",
+          "build",
+          "building",
+          "builds"
+        ],
+        [
+          "last",
+          "next",
+          "this",
+          "every"
+        ],
+        [
+          "year",
+          "month",
+          "week",
+          "day"
+        ]
+      ],
+      "mistakeTags": [
+        "passive_voice",
+        "simple_passive"
+      ],
+      "audioPath": "assets/audio/grammar/upper_05_passive_simple/014.mp3"
+    },
+    {
+      "id": "t5_16",
+      "type": "sentenceAssembly",
+      "question": "Еда была приготовлена шеф-поваром",
+      "correctAnswer": "The food was cooked by the chef",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "food",
+          "meal",
+          "dinner",
+          "use"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "could"
+        ],
+        [
+          "cooked",
+          "cook",
+          "cooking",
+          "came"
+        ],
+        [
+          "by",
+          "to",
+          "for",
+          "at"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "chef",
+          "cook",
+          "man",
+          "part"
+        ]
+      ],
+      "mistakeTags": [
+        "passive_voice",
+        "simple_passive"
+      ],
+      "audioPath": "assets/audio/grammar/upper_05_passive_simple/015.mp3"
+    },
+    {
+      "id": "t5_17",
+      "type": "sentenceAssembly",
+      "question": "Пицца будет доставлена завтра",
+      "correctAnswer": "The pizza will be delivered tomorrow",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "pizza",
+          "order",
+          "food",
+          "man"
+        ],
+        [
+          "will",
+          "would",
+          "were",
+          "was"
+        ],
+        [
+          "be",
+          "is",
+          "been",
+          "being"
+        ],
+        [
+          "delivered",
+          "deliver",
+          "delivering",
+          "said"
+        ],
+        [
+          "tomorrow",
+          "today",
+          "yesterday",
+          "never"
+        ]
+      ],
+      "mistakeTags": [
+        "passive_voice",
+        "simple_passive"
+      ],
+      "audioPath": "assets/audio/grammar/upper_05_passive_simple/016.mp3"
+    },
+    {
+      "id": "t5_18",
+      "type": "sentenceAssembly",
+      "question": "Меня видели в парке",
+      "correctAnswer": "I was seen in the park",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "She",
+          "He",
+          "It"
+        ],
+        [
+          "was",
+          "were",
+          "am",
+          "had"
+        ],
+        [
+          "seen",
+          "see",
+          "saw",
+          "told"
+        ],
+        [
+          "in",
+          "to",
+          "about",
+          "through"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "park",
+          "street",
+          "garden",
+          "different"
+        ]
+      ],
+      "mistakeTags": [
+        "passive_voice",
+        "simple_passive"
+      ],
+      "audioPath": "assets/audio/grammar/upper_05_passive_simple/017.mp3"
+    },
+    {
+      "id": "t5_19",
+      "type": "sentenceAssembly",
+      "question": "Задача должна быть выполнена до конца квартала",
+      "correctAnswer": "The task must be completed by the end of the quarter",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "task",
+          "job",
+          "assignment",
+          "project"
+        ],
+        [
+          "must",
+          "will",
+          "did",
+          "can"
+        ],
+        [
+          "be",
+          "is",
+          "been",
+          "am"
+        ],
+        [
+          "completed",
+          "complete",
+          "done",
+          "finished"
+        ],
+        [
+          "by",
+          "to",
+          "for",
+          "at"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "end",
+          "close",
+          "start",
+          "middle"
+        ],
+        [
+          "of",
+          "to",
+          "for",
+          "at"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "quarter",
+          "month",
+          "year",
+          "week"
+        ]
+      ],
+      "mistakeTags": [
+        "passive_voice",
+        "simple_passive"
+      ],
+      "audioPath": "assets/audio/grammar/upper_05_passive_simple/018.mp3"
+    },
+    {
+      "id": "t5_20",
+      "type": "sentenceAssembly",
+      "question": "Эти песни поются детьми",
+      "correctAnswer": "These songs are sung by children",
+      "options": [],
+      "variants": [
+        [
+          "These",
+          "This",
+          "The",
+          "a"
+        ],
+        [
+          "songs",
+          "song",
+          "music",
+          "great"
+        ],
+        [
+          "are",
+          "is",
+          "were",
+          "did"
+        ],
+        [
+          "sung",
+          "sing",
+          "sang",
+          "doing"
+        ],
+        [
+          "by",
+          "to",
+          "with",
+          "from"
+        ],
+        [
+          "children",
+          "child",
+          "kids",
+          "hand"
+        ]
+      ],
+      "mistakeTags": [
+        "passive_voice",
+        "simple_passive"
+      ],
+      "audioPath": "assets/audio/grammar/upper_05_passive_simple/019.mp3"
+    },
+    {
+      "id": "t5_21",
+      "type": "sentenceAssembly",
+      "question": "Фильм был снят в Италии",
+      "correctAnswer": "The film was shot in Italy",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "film",
+          "movie",
+          "video",
+          "important"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "do"
+        ],
+        [
+          "shot",
+          "shoot",
+          "shooting",
+          "getting"
+        ],
+        [
+          "in",
+          "to",
+          "about",
+          "through"
+        ],
+        [
+          "Italy",
+          "France",
+          "London",
+          "use"
+        ]
+      ],
+      "mistakeTags": [
+        "passive_voice",
+        "simple_passive"
+      ],
+      "audioPath": "assets/audio/grammar/upper_05_passive_simple/020.mp3"
+    },
+    {
+      "id": "t5_22",
+      "type": "sentenceAssembly",
+      "question": "Музей посещают тысячи туристов",
+      "correctAnswer": "The museum is visited by thousands of tourists",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "museum",
+          "gallery",
+          "place",
+          "day"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "does"
+        ],
+        [
+          "visited",
+          "visit",
+          "visiting",
+          "told"
+        ],
+        [
+          "by",
+          "to",
+          "for",
+          "at"
+        ],
+        [
+          "thousands",
+          "thousand",
+          "millions",
+          "case"
+        ],
+        [
+          "of",
+          "to",
+          "for",
+          "at"
+        ],
+        [
+          "tourists",
+          "tourist",
+          "people",
+          "high"
+        ]
+      ],
+      "mistakeTags": [
+        "passive_voice",
+        "simple_passive"
+      ],
+      "audioPath": "assets/audio/grammar/upper_05_passive_simple/021.mp3"
+    },
+    {
+      "id": "t5_23",
+      "type": "sentenceAssembly",
+      "question": "Картина была продана вчера на аукционе",
+      "correctAnswer": "The painting was sold yesterday at auction",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "painting",
+          "picture",
+          "art",
+          "drawing"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "would"
+        ],
+        [
+          "sold",
+          "sell",
+          "selling",
+          "saying"
+        ],
+        [
+          "yesterday",
+          "today",
+          "tomorrow",
+          "recently"
+        ],
+        [
+          "at",
+          "to",
+          "with",
+          "from"
+        ],
+        [
+          "auction",
+          "market",
+          "gallery",
+          "store"
+        ]
+      ],
+      "mistakeTags": [
+        "passive_voice",
+        "simple_passive"
+      ],
+      "audioPath": "assets/audio/grammar/upper_05_passive_simple/022.mp3"
+    },
+    {
+      "id": "t5_24",
+      "type": "sentenceAssembly",
+      "question": "Правда будет рассказана всему миру",
+      "correctAnswer": "The truth will be told to everyone",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "truth",
+          "lie",
+          "story",
+          "secret"
+        ],
+        [
+          "will",
+          "may",
+          "shall",
+          "must"
+        ],
+        [
+          "be",
+          "is",
+          "been",
+          "being"
+        ],
+        [
+          "told",
+          "tell",
+          "telling",
+          "wanted"
+        ],
+        [
+          "to",
+          "about",
+          "through",
+          "into"
+        ],
+        [
+          "everyone",
+          "everybody",
+          "people",
+          "world"
+        ]
+      ],
+      "mistakeTags": [
+        "passive_voice",
+        "simple_passive"
+      ],
+      "audioPath": "assets/audio/grammar/upper_05_passive_simple/023.mp3"
+    },
+    {
+      "id": "t5_25",
+      "type": "sentenceAssembly",
+      "question": "Этот мост был построен 100 лет назад",
+      "correctAnswer": "This bridge was built one hundred years ago",
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "the",
+          "a",
+          "an"
+        ],
+        [
+          "bridge",
+          "road",
+          "building",
+          "thinking"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "are"
+        ],
+        [
+          "built",
+          "build",
+          "builded",
+          "got"
+        ],
+        [
+          "one",
+          "1",
+          "a",
+          "nine"
+        ],
+        [
+          "hundred",
+          "100",
+          "thousand",
+          "used"
+        ],
+        [
+          "years",
+          "year",
+          "days",
+          "house"
+        ],
+        [
+          "ago",
+          "before",
+          "back",
+          "get"
+        ]
+      ],
+      "mistakeTags": [
+        "passive_voice",
+        "simple_passive"
+      ],
+      "audioPath": "assets/audio/grammar/upper_05_passive_simple/024.mp3"
+    },
+    {
+      "id": "t5_26",
+      "type": "sentenceAssembly",
+      "question": "Тест был написан учителем",
+      "correctAnswer": "The test was written by the teacher",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "test",
+          "exam",
+          "quiz",
+          "report"
+        ],
+        [
+          "was",
+          "is",
+          "were",
+          "are"
+        ],
+        [
+          "written",
+          "write",
+          "writing",
+          "wrote"
+        ],
+        [
+          "by",
+          "from",
+          "with",
+          "for"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "teacher",
+          "student",
+          "professor",
+          "doctor"
+        ]
+      ],
+      "mistakeTags": [
+        "passive_voice",
+        "simple_passive"
+      ],
+      "audioPath": "assets/audio/grammar/upper_05_passive_simple/025.mp3"
+    },
+    {
+      "id": "t5_27",
+      "type": "sentenceAssembly",
+      "question": "Подарок будет подарен ему",
+      "correctAnswer": "The gift will be given to him",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "gift",
+          "present",
+          "prize",
+          "man"
+        ],
+        [
+          "will",
+          "may",
+          "shall",
+          "must"
+        ],
+        [
+          "be",
+          "is",
+          "been",
+          "were"
+        ],
+        [
+          "given",
+          "give",
+          "gave",
+          "went"
+        ],
+        [
+          "to",
+          "about",
+          "through",
+          "into"
+        ],
+        [
+          "him",
+          "he",
+          "his",
+          "them"
+        ]
+      ],
+      "mistakeTags": [
+        "passive_voice",
+        "simple_passive"
+      ],
+      "audioPath": "assets/audio/grammar/upper_05_passive_simple/026.mp3"
+    },
+    {
+      "id": "t5_28",
+      "type": "sentenceAssembly",
+      "question": "Деньги были украдены из этого банка",
+      "correctAnswer": "The money was stolen from the bank",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "money",
+          "cash",
+          "coins",
+          "funds"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "had"
+        ],
+        [
+          "stolen",
+          "steal",
+          "stole",
+          "taken"
+        ],
+        [
+          "from",
+          "to",
+          "for",
+          "at"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "bank",
+          "store",
+          "house",
+          "office"
+        ]
+      ],
+      "mistakeTags": [
+        "passive_voice",
+        "simple_passive"
+      ],
+      "audioPath": "assets/audio/grammar/upper_05_passive_simple/027.mp3"
+    },
+    {
+      "id": "t5_29",
+      "type": "sentenceAssembly",
+      "question": "Эта история была рассказана бабушкой",
+      "correctAnswer": "This story was told by grandmother",
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "the",
+          "a",
+          "some"
+        ],
+        [
+          "story",
+          "tale",
+          "book",
+          "come"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "has"
+        ],
+        [
+          "told",
+          "tell",
+          "telling",
+          "got"
+        ],
+        [
+          "by",
+          "to",
+          "with",
+          "from"
+        ],
+        [
+          "grandmother",
+          "grandma",
+          "mother",
+          "place"
+        ]
+      ],
+      "mistakeTags": [
+        "passive_voice",
+        "simple_passive"
+      ],
+      "audioPath": "assets/audio/grammar/upper_05_passive_simple/028.mp3"
+    },
+    {
+      "id": "t5_30",
+      "type": "sentenceAssembly",
+      "question": "Проблема будет решена скоро",
+      "correctAnswer": "The problem will be solved soon",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "problem",
+          "issue",
+          "question",
+          "part"
+        ],
+        [
+          "will",
+          "would",
+          "were",
+          "had"
+        ],
+        [
+          "be",
+          "is",
+          "been",
+          "are"
+        ],
+        [
+          "solved",
+          "solve",
+          "solving",
+          "wanted"
+        ],
+        [
+          "soon",
+          "now",
+          "today",
+          "always"
+        ]
+      ],
+      "mistakeTags": [
+        "passive_voice",
+        "simple_passive"
+      ],
+      "audioPath": "assets/audio/grammar/upper_05_passive_simple/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionUpper05PassiveSimple",
+  "theoryQuiz": [
+    {
+      "id": "tq_01",
+      "type": "multipleChoice",
+      "question": "Какая общая формула Passive Voice?",
+      "options": [
+        "have + V3",
+        "be + V-ing",
+        "be + V3",
+        "do + V1"
+      ],
+      "correctIndex": 2,
+      "explanation": "Passive Voice образуется: be + V3 (третья форма глагола). Форма be меняется по временам."
+    },
+    {
+      "id": "tq_02",
+      "type": "trueFalse",
+      "question": "Passive Voice ставит фокус на объекте действия, а не на том, кто его совершает.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Верно. В пассиве важно ЧТО произошло, а не КТО сделал: The book was written (кем — не так важно)."
+    },
+    {
+      "id": "tq_03",
+      "type": "multipleChoice",
+      "question": "Как образуется Passive Voice в Present Simple?",
+      "options": [
+        "am/is/are + V-ing",
+        "am/is/are + V3",
+        "was/were + V3",
+        "will be + V3"
+      ],
+      "correctIndex": 1,
+      "explanation": "Present Simple Passive: am/is/are + V3. Например: The letter is written."
+    },
+    {
+      "id": "tq_04",
+      "type": "multipleChoice",
+      "question": "Выберите правильный Past Simple Passive:",
+      "options": [
+        "The cake is baked.",
+        "The cake was baked.",
+        "The cake will be baked.",
+        "The cake baked."
+      ],
+      "correctIndex": 1,
+      "explanation": "Past Simple Passive: was/were + V3. The cake was baked."
+    },
+    {
+      "id": "tq_05",
+      "type": "trueFalse",
+      "question": "В предложении 'The book was written by Tolkien' слово 'by' указывает на автора действия.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Верно. By + agent (исполнитель) используется, когда важно указать, КТО совершил действие."
+    },
+    {
+      "id": "tq_06",
+      "type": "multipleChoice",
+      "question": "Как образуется Future Simple Passive?",
+      "options": [
+        "will + V3",
+        "will be + V3",
+        "will been + V3",
+        "will have + V3"
+      ],
+      "correctIndex": 1,
+      "explanation": "Future Simple Passive: will be + V3. The project will be completed tomorrow."
+    },
+    {
+      "id": "tq_07",
+      "type": "trueFalse",
+      "question": "'English is spoken in many countries' — это правильный пример Passive Voice.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Верно. Is spoken — Present Simple Passive (am/is/are + V3). Фокус на English, а не на говорящих."
+    },
+    {
+      "id": "tq_08",
+      "type": "multipleChoice",
+      "question": "Переведите в Passive: 'They built this house in 1990.'",
+      "options": [
+        "This house built in 1990.",
+        "This house was built in 1990.",
+        "This house is built in 1990.",
+        "This house were built in 1990."
+      ],
+      "correctIndex": 1,
+      "explanation": "Прошлое время, единственное число: was built. This house was built in 1990."
+    },
+    {
+      "id": "tq_09",
+      "type": "trueFalse",
+      "question": "В Passive Voice всегда обязательно указывать, кто совершил действие (by + agent).",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "Неверно. By + agent используется только если важно КЕМ. Часто исполнитель опускается."
+    },
+    {
+      "id": "tq_10",
+      "type": "multipleChoice",
+      "question": "Какое предложение в Passive Voice?",
+      "options": [
+        "She wrote a letter.",
+        "A letter was written by her.",
+        "She is writing a letter.",
+        "She has a letter."
+      ],
+      "correctIndex": 1,
+      "explanation": "A letter was written — подлежащее (letter) получает действие, а не совершает его. Это Passive."
+    }
+  ]
+}

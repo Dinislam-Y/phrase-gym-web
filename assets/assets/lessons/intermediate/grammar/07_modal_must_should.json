@@ -1,0 +1,1704 @@
+{
+  "id": "intermediate_07_modal_must_should",
+  "title": "Modal Verbs: Must & Should",
+  "description": "Must и Should — два командира с разным характером. Must — строгий начальник: «Ты ОБЯЗАН это сделать!». Should — мудрый друг: «Тебе СТОИЛО БЫ это сделать». Путать их — как путать приказ и совет.",
+  "order": 7,
+  "level": "intermediate",
+  "imageUrl": "assets/images/lessons/modal_must_should.png",
+  "vocabulary": [
+    {
+      "id": "v7_must",
+      "english": "must",
+      "russian": "должен, обязан",
+      "partOfSpeech": "modal verb",
+      "example": "You must wear a helmet.",
+      "exampleTranslation": "Ты обязан носить шлем.",
+      "audioPath": "assets/audio/vocabulary/v7_must.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_must.mp3"
+    },
+    {
+      "id": "v7_should",
+      "english": "should",
+      "russian": "следует, стоит",
+      "partOfSpeech": "modal verb",
+      "example": "You should drink more water.",
+      "exampleTranslation": "Тебе стоит пить больше воды.",
+      "audioPath": "assets/audio/vocabulary/v7_should.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_should.mp3"
+    },
+    {
+      "id": "v7_wear",
+      "english": "wear",
+      "russian": "носить (одежду)",
+      "partOfSpeech": "verb",
+      "example": "You must wear a uniform.",
+      "exampleTranslation": "Ты обязан носить форму.",
+      "audioPath": "assets/audio/vocabulary/v7_wear.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_wear.mp3"
+    },
+    {
+      "id": "v7_stop",
+      "english": "stop",
+      "russian": "останавливаться",
+      "partOfSpeech": "verb",
+      "example": "You must stop here.",
+      "exampleTranslation": "Ты должен остановиться здесь.",
+      "audioPath": "assets/audio/vocabulary/v7_stop.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_stop.mp3"
+    },
+    {
+      "id": "v7_careful",
+      "english": "careful",
+      "russian": "осторожный",
+      "partOfSpeech": "adjective",
+      "example": "You should be careful.",
+      "exampleTranslation": "Тебе стоит быть осторожным.",
+      "audioPath": "assets/audio/vocabulary/v7_careful.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_careful.mp3"
+    },
+    {
+      "id": "v7_late",
+      "english": "late",
+      "russian": "поздно, опоздавший",
+      "partOfSpeech": "adjective",
+      "example": "You mustn't be late.",
+      "exampleTranslation": "Ты не должен опаздывать.",
+      "audioPath": "assets/audio/vocabulary/v7_late.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_late.mp3"
+    },
+    {
+      "id": "v7_rule",
+      "english": "rule",
+      "russian": "правило",
+      "partOfSpeech": "noun",
+      "example": "You must follow the rules.",
+      "exampleTranslation": "Ты обязан следовать правилам.",
+      "audioPath": "assets/audio/vocabulary/v7_rule.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_rule.mp3"
+    },
+    {
+      "id": "v7_follow",
+      "english": "follow",
+      "russian": "следовать",
+      "partOfSpeech": "verb",
+      "example": "You must follow the rules.",
+      "exampleTranslation": "Ты обязан следовать правилам.",
+      "audioPath": "assets/audio/vocabulary/v7_follow.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_follow.mp3"
+    },
+    {
+      "id": "v7_exercise",
+      "english": "exercise",
+      "russian": "упражнение, зарядка",
+      "partOfSpeech": "noun",
+      "example": "You should do more exercise.",
+      "exampleTranslation": "Тебе стоит больше заниматься.",
+      "audioPath": "assets/audio/vocabulary/v7_exercise.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_exercise.mp3"
+    },
+    {
+      "id": "v7_smoke",
+      "english": "smoke",
+      "russian": "курить",
+      "partOfSpeech": "verb",
+      "example": "You mustn't smoke here.",
+      "exampleTranslation": "Здесь нельзя курить.",
+      "audioPath": "assets/audio/vocabulary/v7_smoke.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_smoke.mp3"
+    },
+    {
+      "id": "v7_touch",
+      "english": "touch",
+      "russian": "трогать",
+      "partOfSpeech": "verb",
+      "example": "You mustn't touch that.",
+      "exampleTranslation": "Ты не должен это трогать.",
+      "audioPath": "assets/audio/vocabulary/v7_touch.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_touch.mp3"
+    },
+    {
+      "id": "v7_polite",
+      "english": "polite",
+      "russian": "вежливый",
+      "partOfSpeech": "adjective",
+      "example": "You should be polite.",
+      "exampleTranslation": "Тебе стоит быть вежливым.",
+      "audioPath": "assets/audio/vocabulary/v7_polite.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_polite.mp3"
+    },
+    {
+      "id": "v7_pay",
+      "english": "pay",
+      "russian": "платить",
+      "partOfSpeech": "verb",
+      "example": "You must pay the fine.",
+      "exampleTranslation": "Ты обязан заплатить штраф.",
+      "audioPath": "assets/audio/vocabulary/v7_pay.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_pay.mp3"
+    },
+    {
+      "id": "v7_rest",
+      "english": "rest",
+      "russian": "отдыхать",
+      "partOfSpeech": "verb",
+      "example": "You should rest today.",
+      "exampleTranslation": "Тебе стоит отдохнуть сегодня.",
+      "audioPath": "assets/audio/vocabulary/v7_rest.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_rest.mp3"
+    },
+    {
+      "id": "v7_hurry",
+      "english": "hurry",
+      "russian": "спешить, торопиться",
+      "partOfSpeech": "verb",
+      "example": "We must hurry now.",
+      "exampleTranslation": "Мы должны поторопиться.",
+      "audioPath": "assets/audio/vocabulary/v7_hurry.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_hurry.mp3"
+    },
+    {
+      "id": "v7_worry",
+      "english": "worry",
+      "russian": "беспокоиться",
+      "partOfSpeech": "verb",
+      "example": "You shouldn't worry about it.",
+      "exampleTranslation": "Тебе не стоит об этом беспокоиться.",
+      "audioPath": "assets/audio/vocabulary/v7_worry.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_worry.mp3"
+    },
+    {
+      "id": "v7_forget",
+      "english": "forget",
+      "russian": "забывать",
+      "partOfSpeech": "verb",
+      "example": "You mustn't forget your passport.",
+      "exampleTranslation": "Ты не должен забывать паспорт.",
+      "audioPath": "assets/audio/vocabulary/v7_forget.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_forget.mp3"
+    },
+    {
+      "id": "v7_helmet",
+      "english": "helmet",
+      "russian": "шлем",
+      "partOfSpeech": "noun",
+      "example": "You must wear a helmet.",
+      "exampleTranslation": "Ты обязан носить шлем.",
+      "audioPath": "assets/audio/vocabulary/v7_helmet.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_helmet.mp3"
+    },
+    {
+      "id": "v7_advice",
+      "english": "advice",
+      "russian": "совет",
+      "partOfSpeech": "noun",
+      "example": "You should take my advice.",
+      "exampleTranslation": "Тебе стоит принять мой совет.",
+      "audioPath": "assets/audio/vocabulary/v7_advice.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_advice.mp3"
+    },
+    {
+      "id": "v7_doctor",
+      "english": "doctor",
+      "russian": "врач",
+      "partOfSpeech": "noun",
+      "example": "You should see a doctor.",
+      "exampleTranslation": "Тебе стоит обратиться к врачу.",
+      "audioPath": "assets/audio/vocabulary/v7_doctor.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_doctor.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "Modal Verbs: Must & Should",
+    "subtitle": "Представьте двух советчиков. Must — это полицейский с жезлом: «Стой! Ты ОБЯЗАН остановиться!». Should — это доктор с рецептом: «Вам СТОИЛО БЫ пить больше воды». Один приказывает, другой рекомендует.",
+    "construction": {
+      "formula": "Subject + must/should + V (base form)",
+      "rules": [
+        {
+          "word": "Must",
+          "description": "Обязательство или запрет. Без вариантов. Как закон. Must = обязан, Mustn't = запрещено."
+        },
+        {
+          "word": "Should",
+          "description": "Совет или рекомендация. Мягче, чем must. Should = стоит, Shouldn't = не стоит."
+        },
+        {
+          "word": "Без окончаний!",
+          "description": "После must и should глагол всегда в базовой форме: He must GO (не goes!), She should EAT (не eats!)."
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "check_circle",
+        "color": "orange",
+        "title": "Must — Обязанность / Закон",
+        "description": "Правила, законы, строгие требования. Нарушить нельзя.",
+        "example": {
+          "english": "You must stop at the red light.",
+          "russian": "Ты обязан остановиться на красный свет."
+        }
+      },
+      {
+        "icon": "check_circle",
+        "color": "orange",
+        "title": "Mustn't — Запрет",
+        "description": "Категорический запрет. «Ни в коем случае нельзя!»",
+        "example": {
+          "english": "You mustn't smoke here.",
+          "russian": "Здесь нельзя курить."
+        }
+      },
+      {
+        "icon": "favorite",
+        "color": "blue",
+        "title": "Should — Совет",
+        "description": "Рекомендация, хорошая идея. Но решать тебе.",
+        "example": {
+          "english": "You should see a doctor.",
+          "russian": "Тебе стоит сходить к врачу."
+        }
+      },
+      {
+        "icon": "check_circle",
+        "color": "orange",
+        "title": "Shouldn't — Не рекомендуется",
+        "description": "Мягкое «лучше не надо». Не запрет, а предупреждение.",
+        "example": {
+          "english": "You shouldn't eat so much sugar.",
+          "russian": "Тебе не стоит есть столько сахара."
+        }
+      }
+    ],
+    "markers": [
+      "must",
+      "mustn't",
+      "should",
+      "shouldn't",
+      "have to",
+      "obligation",
+      "advice"
+    ]
+  },
+  "tasks": [
+    {
+      "id": "t7_1",
+      "type": "sentenceAssembly",
+      "question": "Ты должен остановиться здесь",
+      "correctAnswer": "You must stop here",
+      "options": [],
+      "variants": [
+        [
+          "You",
+          "Your",
+          "He",
+          "We"
+        ],
+        [
+          "must",
+          "should",
+          "can",
+          "will",
+          "might"
+        ],
+        [
+          "stop",
+          "stops",
+          "stopped",
+          "stopping",
+          "stand"
+        ],
+        [
+          "here",
+          "there",
+          "now",
+          "then"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_verbs",
+        "must_should",
+        "obligation"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_07_modal_must_should/000.mp3"
+    },
+    {
+      "id": "t7_2",
+      "type": "sentenceAssembly",
+      "question": "Тебе стоит отдохнуть сегодня",
+      "correctAnswer": "You should rest today",
+      "options": [],
+      "variants": [
+        [
+          "You",
+          "Your",
+          "She",
+          "They",
+          "He"
+        ],
+        [
+          "should",
+          "must",
+          "shall",
+          "would",
+          "could"
+        ],
+        [
+          "rest",
+          "rests",
+          "rested",
+          "resting"
+        ],
+        [
+          "today",
+          "tomorrow",
+          "here",
+          "always",
+          "soon"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_verbs",
+        "must_should",
+        "obligation"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_07_modal_must_should/001.mp3"
+    },
+    {
+      "id": "t7_3",
+      "type": "sentenceAssembly",
+      "question": "Она обязана носить форму",
+      "correctAnswer": "She must wear a uniform",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "Her",
+          "He",
+          "They"
+        ],
+        [
+          "must",
+          "should",
+          "can",
+          "might",
+          "could",
+          "will"
+        ],
+        [
+          "wear",
+          "wears",
+          "wore",
+          "wearing",
+          "put"
+        ],
+        [
+          "a",
+          "the",
+          "an",
+          "her"
+        ],
+        [
+          "uniform",
+          "helmet",
+          "suit",
+          "dress",
+          "jacket"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_verbs",
+        "must_should",
+        "obligation"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_07_modal_must_should/002.mp3"
+    },
+    {
+      "id": "t7_4",
+      "type": "sentenceAssembly",
+      "question": "Тебе стоит быть осторожным",
+      "correctAnswer": "You should be careful",
+      "options": [],
+      "variants": [
+        [
+          "You",
+          "Your",
+          "He",
+          "We"
+        ],
+        [
+          "should",
+          "must",
+          "could",
+          "would"
+        ],
+        [
+          "be",
+          "been",
+          "being",
+          "is"
+        ],
+        [
+          "careful",
+          "polite",
+          "quiet",
+          "careless"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_verbs",
+        "must_should",
+        "obligation"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_07_modal_must_should/003.mp3"
+    },
+    {
+      "id": "t7_5",
+      "type": "sentenceAssembly",
+      "question": "Мы должны поторопиться сейчас",
+      "correctAnswer": "We must hurry now",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "Us",
+          "Our",
+          "They"
+        ],
+        [
+          "must",
+          "should",
+          "can",
+          "might"
+        ],
+        [
+          "hurry",
+          "hurries",
+          "hurried",
+          "hurrying"
+        ],
+        [
+          "now",
+          "then",
+          "here",
+          "today"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_verbs",
+        "must_should",
+        "obligation"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_07_modal_must_should/004.mp3"
+    },
+    {
+      "id": "t7_6",
+      "type": "sentenceAssembly",
+      "question": "Он должен платить штраф",
+      "correctAnswer": "He must pay the fine",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "Him",
+          "His",
+          "She"
+        ],
+        [
+          "must",
+          "should",
+          "can",
+          "would"
+        ],
+        [
+          "pay",
+          "pays",
+          "paid",
+          "paying"
+        ],
+        [
+          "the",
+          "a",
+          "his",
+          "this"
+        ],
+        [
+          "fine",
+          "bill",
+          "price",
+          "tax"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_verbs",
+        "must_should",
+        "obligation"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_07_modal_must_should/005.mp3"
+    },
+    {
+      "id": "t7_7",
+      "type": "sentenceAssembly",
+      "question": "Тебе стоит обратиться к врачу",
+      "correctAnswer": "You should see a doctor",
+      "options": [],
+      "variants": [
+        [
+          "You",
+          "Your",
+          "He",
+          "She"
+        ],
+        [
+          "should",
+          "must",
+          "could",
+          "shall"
+        ],
+        [
+          "see",
+          "sees",
+          "saw",
+          "seeing"
+        ],
+        [
+          "a",
+          "the",
+          "your",
+          "my"
+        ],
+        [
+          "doctor",
+          "nurse",
+          "teacher",
+          "dentist"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_verbs",
+        "must_should",
+        "obligation"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_07_modal_must_should/006.mp3"
+    },
+    {
+      "id": "t7_8",
+      "type": "sentenceAssembly",
+      "question": "Ты обязан следовать правилам",
+      "correctAnswer": "You must follow the rules",
+      "options": [],
+      "variants": [
+        [
+          "You",
+          "Your",
+          "We",
+          "They"
+        ],
+        [
+          "must",
+          "should",
+          "can",
+          "might"
+        ],
+        [
+          "follow",
+          "follows",
+          "followed",
+          "following",
+          "break"
+        ],
+        [
+          "the",
+          "a",
+          "these",
+          "some",
+          "all"
+        ],
+        [
+          "rules",
+          "laws",
+          "orders",
+          "signs",
+          "steps"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_verbs",
+        "must_should",
+        "obligation"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_07_modal_must_should/007.mp3"
+    },
+    {
+      "id": "t7_9",
+      "type": "sentenceAssembly",
+      "question": "Тебе стоит быть вежливым",
+      "correctAnswer": "You should be polite",
+      "options": [],
+      "variants": [
+        [
+          "You",
+          "Your",
+          "He",
+          "She"
+        ],
+        [
+          "should",
+          "must",
+          "could",
+          "would"
+        ],
+        [
+          "be",
+          "been",
+          "being",
+          "is"
+        ],
+        [
+          "polite",
+          "careful",
+          "quiet",
+          "kind"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_verbs",
+        "must_should",
+        "obligation"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_07_modal_must_should/008.mp3"
+    },
+    {
+      "id": "t7_10",
+      "type": "sentenceAssembly",
+      "question": "Ты обязан носить шлем",
+      "correctAnswer": "You must wear a helmet",
+      "options": [],
+      "variants": [
+        [
+          "You",
+          "Your",
+          "He",
+          "They"
+        ],
+        [
+          "must",
+          "should",
+          "can",
+          "will"
+        ],
+        [
+          "wear",
+          "wears",
+          "wore",
+          "wearing"
+        ],
+        [
+          "a",
+          "the",
+          "your",
+          "this"
+        ],
+        [
+          "helmet",
+          "hat",
+          "cap",
+          "mask"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_verbs",
+        "must_should",
+        "obligation"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_07_modal_must_should/009.mp3"
+    },
+    {
+      "id": "t7_11",
+      "type": "sentenceAssembly",
+      "question": "Здесь нельзя курить",
+      "correctAnswer": "You mustn't smoke here",
+      "options": [],
+      "variants": [
+        [
+          "You",
+          "We",
+          "They",
+          "He"
+        ],
+        [
+          "mustn't",
+          "shouldn't",
+          "can't",
+          "don't",
+          "won't"
+        ],
+        [
+          "smoke",
+          "smokes",
+          "smoked",
+          "smoking",
+          "drink"
+        ],
+        [
+          "here",
+          "there",
+          "now",
+          "inside",
+          "outside"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_verbs",
+        "must_should",
+        "obligation"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_07_modal_must_should/010.mp3"
+    },
+    {
+      "id": "t7_12",
+      "type": "sentenceAssembly",
+      "question": "Тебе не стоит беспокоиться об этом",
+      "correctAnswer": "You shouldn't worry about it",
+      "options": [],
+      "variants": [
+        [
+          "You",
+          "Your",
+          "She",
+          "We"
+        ],
+        [
+          "shouldn't",
+          "mustn't",
+          "can't",
+          "won't"
+        ],
+        [
+          "worry",
+          "worries",
+          "worried",
+          "worrying"
+        ],
+        [
+          "about",
+          "around",
+          "with",
+          "for"
+        ],
+        [
+          "it",
+          "this",
+          "that",
+          "them"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_verbs",
+        "must_should",
+        "obligation"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_07_modal_must_should/011.mp3"
+    },
+    {
+      "id": "t7_13",
+      "type": "sentenceAssembly",
+      "question": "Они обязаны остановиться здесь",
+      "correctAnswer": "They must stop here",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "Them",
+          "Their",
+          "We"
+        ],
+        [
+          "must",
+          "should",
+          "can",
+          "might"
+        ],
+        [
+          "stop",
+          "stops",
+          "stopped",
+          "stopping"
+        ],
+        [
+          "here",
+          "there",
+          "now",
+          "outside"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_verbs",
+        "must_should",
+        "obligation"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_07_modal_must_should/012.mp3"
+    },
+    {
+      "id": "t7_14",
+      "type": "sentenceAssembly",
+      "question": "Ей стоит больше заниматься",
+      "correctAnswer": "She should do more exercise",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "Her",
+          "He",
+          "They"
+        ],
+        [
+          "should",
+          "must",
+          "could",
+          "would"
+        ],
+        [
+          "do",
+          "does",
+          "did",
+          "doing"
+        ],
+        [
+          "more",
+          "much",
+          "many",
+          "some"
+        ],
+        [
+          "exercise",
+          "homework",
+          "work",
+          "training"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_verbs",
+        "must_should",
+        "obligation"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_07_modal_must_should/013.mp3"
+    },
+    {
+      "id": "t7_15",
+      "type": "sentenceAssembly",
+      "question": "Ты не должен это трогать",
+      "correctAnswer": "You mustn't touch that",
+      "options": [],
+      "variants": [
+        [
+          "You",
+          "Your",
+          "He",
+          "She"
+        ],
+        [
+          "mustn't",
+          "shouldn't",
+          "can't",
+          "don't"
+        ],
+        [
+          "touch",
+          "touches",
+          "touched",
+          "touching"
+        ],
+        [
+          "that",
+          "this",
+          "it",
+          "them"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_verbs",
+        "must_should",
+        "obligation"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_07_modal_must_should/014.mp3"
+    },
+    {
+      "id": "t7_16",
+      "type": "sentenceAssembly",
+      "question": "Нам стоит принять его совет",
+      "correctAnswer": "We should take his advice",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "Us",
+          "Our",
+          "They"
+        ],
+        [
+          "should",
+          "must",
+          "could",
+          "shall"
+        ],
+        [
+          "take",
+          "takes",
+          "took",
+          "taking"
+        ],
+        [
+          "his",
+          "her",
+          "my",
+          "the"
+        ],
+        [
+          "advice",
+          "order",
+          "rule",
+          "words"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_verbs",
+        "must_should",
+        "obligation"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_07_modal_must_should/015.mp3"
+    },
+    {
+      "id": "t7_17",
+      "type": "sentenceAssembly",
+      "question": "Он обязан заплатить сейчас",
+      "correctAnswer": "He must pay now",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "Him",
+          "His",
+          "She"
+        ],
+        [
+          "must",
+          "should",
+          "can",
+          "might"
+        ],
+        [
+          "pay",
+          "pays",
+          "paid",
+          "paying"
+        ],
+        [
+          "now",
+          "today",
+          "here",
+          "soon"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_verbs",
+        "must_should",
+        "obligation"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_07_modal_must_should/016.mp3"
+    },
+    {
+      "id": "t7_18",
+      "type": "sentenceAssembly",
+      "question": "Тебе не стоит есть так поздно",
+      "correctAnswer": "You shouldn't eat so late",
+      "options": [],
+      "variants": [
+        [
+          "You",
+          "Your",
+          "She",
+          "He"
+        ],
+        [
+          "shouldn't",
+          "mustn't",
+          "can't",
+          "won't"
+        ],
+        [
+          "eat",
+          "eats",
+          "ate",
+          "eating"
+        ],
+        [
+          "so",
+          "too",
+          "very",
+          "really"
+        ],
+        [
+          "late",
+          "early",
+          "much",
+          "fast"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_verbs",
+        "must_should",
+        "obligation"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_07_modal_must_should/017.mp3"
+    },
+    {
+      "id": "t7_19",
+      "type": "sentenceAssembly",
+      "question": "Ты не должен забывать свой паспорт",
+      "correctAnswer": "You mustn't forget your passport",
+      "options": [],
+      "variants": [
+        [
+          "You",
+          "Your",
+          "He",
+          "We"
+        ],
+        [
+          "mustn't",
+          "shouldn't",
+          "can't",
+          "don't",
+          "won't"
+        ],
+        [
+          "forget",
+          "forgets",
+          "forgot",
+          "forgetting",
+          "lose"
+        ],
+        [
+          "your",
+          "my",
+          "the",
+          "his",
+          "her"
+        ],
+        [
+          "passport",
+          "ticket",
+          "wallet",
+          "phone",
+          "keys"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_verbs",
+        "must_should",
+        "obligation"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_07_modal_must_should/018.mp3"
+    },
+    {
+      "id": "t7_20",
+      "type": "sentenceAssembly",
+      "question": "Ей стоит отдохнуть сегодня",
+      "correctAnswer": "She should rest today",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "Her",
+          "He",
+          "They"
+        ],
+        [
+          "should",
+          "must",
+          "could",
+          "shall"
+        ],
+        [
+          "rest",
+          "rests",
+          "rested",
+          "resting"
+        ],
+        [
+          "today",
+          "tomorrow",
+          "now",
+          "here"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_verbs",
+        "must_should",
+        "obligation"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_07_modal_must_should/019.mp3"
+    },
+    {
+      "id": "t7_21",
+      "type": "sentenceAssembly",
+      "question": "Должен ли я остановиться здесь?",
+      "correctAnswer": "Must I stop here?",
+      "options": [],
+      "variants": [
+        [
+          "Must",
+          "Should",
+          "Can",
+          "Do"
+        ],
+        [
+          "I",
+          "me",
+          "my",
+          "we"
+        ],
+        [
+          "stop",
+          "stops",
+          "stopped",
+          "stopping"
+        ],
+        [
+          "here?",
+          "there?",
+          "now?",
+          "today?"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_verbs",
+        "must_should",
+        "obligation"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_07_modal_must_should/020.mp3"
+    },
+    {
+      "id": "t7_22",
+      "type": "sentenceAssembly",
+      "question": "Стоит ли нам поторопиться?",
+      "correctAnswer": "Should we hurry now?",
+      "options": [],
+      "variants": [
+        [
+          "Should",
+          "Must",
+          "Can",
+          "Will"
+        ],
+        [
+          "we",
+          "us",
+          "our",
+          "they"
+        ],
+        [
+          "hurry",
+          "hurries",
+          "hurried",
+          "hurrying"
+        ],
+        [
+          "now?",
+          "here?",
+          "today?",
+          "there?"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_verbs",
+        "must_should",
+        "obligation"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_07_modal_must_should/021.mp3"
+    },
+    {
+      "id": "t7_23",
+      "type": "sentenceAssembly",
+      "question": "Ты не должен здесь бегать",
+      "correctAnswer": "You mustn't run here",
+      "options": [],
+      "variants": [
+        [
+          "You",
+          "Your",
+          "We",
+          "They"
+        ],
+        [
+          "mustn't",
+          "shouldn't",
+          "can't",
+          "won't"
+        ],
+        [
+          "run",
+          "runs",
+          "ran",
+          "running"
+        ],
+        [
+          "here",
+          "there",
+          "now",
+          "inside"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_verbs",
+        "must_should",
+        "obligation"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_07_modal_must_should/022.mp3"
+    },
+    {
+      "id": "t7_24",
+      "type": "sentenceAssembly",
+      "question": "Стоит ли мне обратиться к врачу?",
+      "correctAnswer": "Should I see a doctor?",
+      "options": [],
+      "variants": [
+        [
+          "Should",
+          "Must",
+          "Can",
+          "Do"
+        ],
+        [
+          "I",
+          "me",
+          "my",
+          "we"
+        ],
+        [
+          "see",
+          "sees",
+          "saw",
+          "seeing"
+        ],
+        [
+          "a",
+          "the",
+          "my",
+          "this"
+        ],
+        [
+          "doctor?",
+          "nurse?",
+          "dentist?",
+          "teacher?"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_verbs",
+        "must_should",
+        "obligation"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_07_modal_must_should/023.mp3"
+    },
+    {
+      "id": "t7_25",
+      "type": "sentenceAssembly",
+      "question": "Ему не стоит так поздно спать",
+      "correctAnswer": "He shouldn't sleep so late",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "Him",
+          "His",
+          "She"
+        ],
+        [
+          "shouldn't",
+          "mustn't",
+          "can't",
+          "won't"
+        ],
+        [
+          "sleep",
+          "sleeps",
+          "slept",
+          "sleeping"
+        ],
+        [
+          "so",
+          "too",
+          "very",
+          "really"
+        ],
+        [
+          "late",
+          "early",
+          "much",
+          "long"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_verbs",
+        "must_should",
+        "obligation"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_07_modal_must_should/024.mp3"
+    },
+    {
+      "id": "t7_26",
+      "type": "sentenceAssembly",
+      "question": "Мы обязаны носить форму здесь",
+      "correctAnswer": "We must wear uniforms here",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "Us",
+          "Our",
+          "They"
+        ],
+        [
+          "must",
+          "should",
+          "can",
+          "might"
+        ],
+        [
+          "wear",
+          "wears",
+          "wore",
+          "wearing"
+        ],
+        [
+          "uniforms",
+          "helmets",
+          "suits",
+          "masks"
+        ],
+        [
+          "here",
+          "there",
+          "now",
+          "always"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_verbs",
+        "must_should",
+        "obligation"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_07_modal_must_should/025.mp3"
+    },
+    {
+      "id": "t7_27",
+      "type": "sentenceAssembly",
+      "question": "Должен ли он платить сейчас?",
+      "correctAnswer": "Must he pay now?",
+      "options": [],
+      "variants": [
+        [
+          "Must",
+          "Should",
+          "Can",
+          "Does"
+        ],
+        [
+          "he",
+          "him",
+          "his",
+          "she"
+        ],
+        [
+          "pay",
+          "pays",
+          "paid",
+          "paying"
+        ],
+        [
+          "now?",
+          "today?",
+          "here?",
+          "soon?"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_verbs",
+        "must_should",
+        "obligation"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_07_modal_must_should/026.mp3"
+    },
+    {
+      "id": "t7_28",
+      "type": "sentenceAssembly",
+      "question": "Тебе не стоит пропускать занятия",
+      "correctAnswer": "You shouldn't skip your classes",
+      "options": [],
+      "variants": [
+        [
+          "You",
+          "Your",
+          "He",
+          "She"
+        ],
+        [
+          "shouldn't",
+          "mustn't",
+          "can't",
+          "won't"
+        ],
+        [
+          "skip",
+          "skips",
+          "skipped",
+          "skipping"
+        ],
+        [
+          "your",
+          "my",
+          "the",
+          "his"
+        ],
+        [
+          "classes",
+          "lessons",
+          "exams",
+          "homework"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_verbs",
+        "must_should",
+        "obligation"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_07_modal_must_should/027.mp3"
+    },
+    {
+      "id": "t7_29",
+      "type": "sentenceAssembly",
+      "question": "Ты не должен опаздывать на работу",
+      "correctAnswer": "You mustn't be late for work",
+      "options": [],
+      "variants": [
+        [
+          "You",
+          "Your",
+          "He",
+          "We"
+        ],
+        [
+          "mustn't",
+          "shouldn't",
+          "can't",
+          "won't",
+          "don't"
+        ],
+        [
+          "be",
+          "been",
+          "being",
+          "is",
+          "get"
+        ],
+        [
+          "late",
+          "early",
+          "ready",
+          "absent"
+        ],
+        [
+          "for",
+          "at",
+          "to",
+          "on"
+        ],
+        [
+          "work",
+          "school",
+          "class",
+          "home",
+          "meeting"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_verbs",
+        "must_should",
+        "obligation"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_07_modal_must_should/028.mp3"
+    },
+    {
+      "id": "t7_30",
+      "type": "sentenceAssembly",
+      "question": "Стоит ли ей следовать этим правилам?",
+      "correctAnswer": "Should she follow these rules?",
+      "options": [],
+      "variants": [
+        [
+          "Should",
+          "Must",
+          "Can",
+          "Does"
+        ],
+        [
+          "she",
+          "her",
+          "he",
+          "they"
+        ],
+        [
+          "follow",
+          "follows",
+          "followed",
+          "following"
+        ],
+        [
+          "these",
+          "those",
+          "the",
+          "some"
+        ],
+        [
+          "rules?",
+          "laws?",
+          "orders?",
+          "signs?"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_verbs",
+        "must_should",
+        "obligation"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_07_modal_must_should/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionIntermediate07ModalMustShould",
+  "theoryQuiz": [
+    {
+      "id": "tq_01",
+      "type": "trueFalse",
+      "question": "Must выражает обязанность или жёсткое требование.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Must используется для строгих обязательств: You must stop!"
+    },
+    {
+      "id": "tq_02",
+      "type": "multipleChoice",
+      "question": "Какой глагол выражает совет или рекомендацию?",
+      "options": [
+        "must",
+        "should",
+        "will",
+        "can"
+      ],
+      "correctIndex": 1,
+      "explanation": "Should используется для советов: You should drink more water."
+    },
+    {
+      "id": "tq_03",
+      "type": "multipleChoice",
+      "question": "Что означает 'must not'?",
+      "options": [
+        "не обязан",
+        "не рекомендуется",
+        "запрет",
+        "не может"
+      ],
+      "correctIndex": 2,
+      "explanation": "Must not выражает запрет: You must not park here."
+    },
+    {
+      "id": "tq_04",
+      "type": "trueFalse",
+      "question": "После модальных глаголов must и should нужно добавлять 'to': He must to go.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "После модальных глаголов to не используется: He must go."
+    },
+    {
+      "id": "tq_05",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: She ___ see a doctor.",
+      "options": [
+        "should to",
+        "should",
+        "shoulds",
+        "should is"
+      ],
+      "correctIndex": 1,
+      "explanation": "Should + V1 без to и без изменений: She should see."
+    },
+    {
+      "id": "tq_06",
+      "type": "trueFalse",
+      "question": "Модальные глаголы must и should добавляют -s с he/she/it: He musts go.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "Модальные глаголы не изменяются: He must go (не musts)."
+    },
+    {
+      "id": "tq_07",
+      "type": "multipleChoice",
+      "question": "Что означает 'should not'?",
+      "options": [
+        "запрет",
+        "не рекомендуется",
+        "невозможно",
+        "обязанность"
+      ],
+      "correctIndex": 1,
+      "explanation": "Should not — мягкая рекомендация не делать: You shouldn't eat so much sugar."
+    },
+    {
+      "id": "tq_08",
+      "type": "multipleChoice",
+      "question": "Какое предложение использует must правильно?",
+      "options": [
+        "He musts work harder.",
+        "You must to stop.",
+        "She must wear a helmet.",
+        "They must goes now."
+      ],
+      "correctIndex": 2,
+      "explanation": "Must + V1 без to и без -s: She must wear."
+    },
+    {
+      "id": "tq_09",
+      "type": "trueFalse",
+      "question": "Разница между must not и should not: must not — запрет, should not — не рекомендуется.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Must not — строгий запрет, should not — мягкий совет не делать."
+    },
+    {
+      "id": "tq_10",
+      "type": "multipleChoice",
+      "question": "Какое предложение содержит ошибку?",
+      "options": [
+        "You must be quiet.",
+        "She should rest.",
+        "He must to leave now.",
+        "They shouldn't run here."
+      ],
+      "correctIndex": 2,
+      "explanation": "После must не нужен to: He must leave now."
+    }
+  ]
+}

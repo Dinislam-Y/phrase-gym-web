@@ -1,0 +1,461 @@
+{
+  "id": "pre_listening_09_pronouns",
+  "title": "Pronouns",
+  "description": "Слушайте короткие истории и понимайте, на кого или на что указывают местоимения.",
+  "order": 9,
+  "level": "pre_intermediate",
+  "imageUrl": "assets/images/lessons/pronouns.png",
+  "tasks": [
+    {
+      "id": "t9_01",
+      "audioText": "This is my family photo. She is my mother. She works in a hospital.",
+      "transcript": "She works in a hospital.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "My mother works in a hospital."
+        },
+        {
+          "id": "o2",
+          "text": "My mother works in a school."
+        },
+        {
+          "id": "o3",
+          "text": "I work in a hospital."
+        },
+        {
+          "id": "o4",
+          "text": "My father works in a hospital."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "She refers to my mother, so the sentence means my mother works in a hospital.",
+      "mistakeTags": [
+        "family",
+        "subject_pronouns"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_09_pronouns/t9_01.mp3"
+    },
+    {
+      "id": "t9_02",
+      "audioText": "In the office, this is my boss David. He is very kind.",
+      "transcript": "He is very kind.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "David is very kind."
+        },
+        {
+          "id": "o2",
+          "text": "David is very strict."
+        },
+        {
+          "id": "o3",
+          "text": "I am very kind."
+        },
+        {
+          "id": "o4",
+          "text": "She is very kind."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "He refers to David, the boss, so the sentence means David is very kind.",
+      "mistakeTags": [
+        "office",
+        "subject_pronouns"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_09_pronouns/t9_02.mp3"
+    },
+    {
+      "id": "t9_03",
+      "audioText": "We are at the cafe with my friends Anna and Mark. They drink coffee.",
+      "transcript": "They drink coffee.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Anna and Mark drink coffee."
+        },
+        {
+          "id": "o2",
+          "text": "Anna and Mark drink tea."
+        },
+        {
+          "id": "o3",
+          "text": "We drink tea."
+        },
+        {
+          "id": "o4",
+          "text": "They drink water."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "They refers to Anna and Mark, so the sentence means Anna and Mark drink coffee.",
+      "mistakeTags": [
+        "cafe",
+        "subject_pronouns"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_09_pronouns/t9_03.mp3"
+    },
+    {
+      "id": "t9_04",
+      "audioText": "In the shop, I look at a nice jacket. It is blue.",
+      "transcript": "It is blue.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The jacket is blue."
+        },
+        {
+          "id": "o2",
+          "text": "The jacket is red."
+        },
+        {
+          "id": "o3",
+          "text": "The shop is blue."
+        },
+        {
+          "id": "o4",
+          "text": "It is green."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "It refers to the jacket, so the sentence means the jacket is blue.",
+      "mistakeTags": [
+        "shop",
+        "subject_pronouns"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_09_pronouns/t9_04.mp3"
+    },
+    {
+      "id": "t9_05",
+      "audioText": "At the hotel, my room is big. It has a nice view.",
+      "transcript": "It has a nice view.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "My room has a nice view."
+        },
+        {
+          "id": "o2",
+          "text": "My room has a bad view."
+        },
+        {
+          "id": "o3",
+          "text": "The hotel has a nice view."
+        },
+        {
+          "id": "o4",
+          "text": "It has a small window."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "It refers to my room, so the sentence means my room has a nice view.",
+      "mistakeTags": [
+        "hotel",
+        "subject_pronouns"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_09_pronouns/t9_05.mp3"
+    },
+    {
+      "id": "t9_06",
+      "audioText": "This is my brother Alex. His bike is red.",
+      "transcript": "His bike is red.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Alex's bike is red."
+        },
+        {
+          "id": "o2",
+          "text": "Alex's bike is black."
+        },
+        {
+          "id": "o3",
+          "text": "My bike is red."
+        },
+        {
+          "id": "o4",
+          "text": "Her bike is red."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "His refers to Alex's, so the sentence means Alex's bike is red.",
+      "mistakeTags": [
+        "family",
+        "possessive_pronouns"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_09_pronouns/t9_06.mp3"
+    },
+    {
+      "id": "t9_07",
+      "audioText": "In the park, I walk with my dog Max. He runs very fast.",
+      "transcript": "He runs very fast.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Max runs very fast."
+        },
+        {
+          "id": "o2",
+          "text": "Max runs slowly."
+        },
+        {
+          "id": "o3",
+          "text": "I run very fast."
+        },
+        {
+          "id": "o4",
+          "text": "She runs very fast."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "He refers to Max, the dog, so the sentence means Max runs very fast.",
+      "mistakeTags": [
+        "park",
+        "subject_pronouns"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_09_pronouns/t9_07.mp3"
+    },
+    {
+      "id": "t9_08",
+      "audioText": "At school, our teacher is Mrs. Green. She smiles a lot.",
+      "transcript": "She smiles a lot.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Mrs. Green smiles a lot."
+        },
+        {
+          "id": "o2",
+          "text": "Mrs. Green never smiles."
+        },
+        {
+          "id": "o3",
+          "text": "We smile a lot."
+        },
+        {
+          "id": "o4",
+          "text": "He smiles a lot."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "She refers to Mrs. Green, so the sentence means Mrs. Green smiles a lot.",
+      "mistakeTags": [
+        "school",
+        "subject_pronouns"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_09_pronouns/t9_08.mp3"
+    },
+    {
+      "id": "t9_09",
+      "audioText": "I have a new phone. My friend likes it.",
+      "transcript": "My friend likes it.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "My friend likes my phone."
+        },
+        {
+          "id": "o2",
+          "text": "My friend likes your phone."
+        },
+        {
+          "id": "o3",
+          "text": "I like my friend's phone."
+        },
+        {
+          "id": "o4",
+          "text": "My friend dislikes it."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "It refers to my phone, so the sentence means my friend likes my phone.",
+      "mistakeTags": [
+        "home",
+        "object_pronouns"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_09_pronouns/t9_09.mp3"
+    },
+    {
+      "id": "t9_10",
+      "audioText": "This is my sister Maria. Her hair is long.",
+      "transcript": "Her hair is long.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Maria's hair is long."
+        },
+        {
+          "id": "o2",
+          "text": "Maria's hair is short."
+        },
+        {
+          "id": "o3",
+          "text": "My hair is long."
+        },
+        {
+          "id": "o4",
+          "text": "His hair is long."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Her refers to Maria's, so the sentence means Maria's hair is long.",
+      "mistakeTags": [
+        "family",
+        "possessive_pronouns"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_09_pronouns/t9_10.mp3"
+    },
+    {
+      "id": "t9_11",
+      "audioText": "We live in London with our parents. Our house is big.",
+      "transcript": "Our house is big.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "My family has a big house."
+        },
+        {
+          "id": "o2",
+          "text": "My family has a small house."
+        },
+        {
+          "id": "o3",
+          "text": "Their house is big."
+        },
+        {
+          "id": "o4",
+          "text": "Your house is big."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Our refers to my family's, so the sentence means my family has a big house.",
+      "mistakeTags": [
+        "home",
+        "possessive_pronouns"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_09_pronouns/t9_11.mp3"
+    },
+    {
+      "id": "t9_12",
+      "audioText": "At the airport, I meet my old friend Sarah. I call her.",
+      "transcript": "I call her.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "I call Sarah."
+        },
+        {
+          "id": "o2",
+          "text": "I call my brother."
+        },
+        {
+          "id": "o3",
+          "text": "She calls me."
+        },
+        {
+          "id": "o4",
+          "text": "I call him."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Her refers to Sarah, so the sentence means I call Sarah.",
+      "mistakeTags": [
+        "airport",
+        "object_pronouns"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_09_pronouns/t9_12.mp3"
+    },
+    {
+      "id": "t9_13",
+      "audioText": "In the market, I buy apples. They are sweet.",
+      "transcript": "They are sweet.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The apples are sweet."
+        },
+        {
+          "id": "o2",
+          "text": "The apples are sour."
+        },
+        {
+          "id": "o3",
+          "text": "The apples are red."
+        },
+        {
+          "id": "o4",
+          "text": "They are cheap."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "They refers to the apples, so the sentence means the apples are sweet.",
+      "mistakeTags": [
+        "market",
+        "subject_pronouns"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_09_pronouns/t9_13.mp3"
+    },
+    {
+      "id": "t9_14",
+      "audioText": "My children play football. I watch them every weekend.",
+      "transcript": "I watch them every weekend.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "I watch my children every weekend."
+        },
+        {
+          "id": "o2",
+          "text": "I watch TV every weekend."
+        },
+        {
+          "id": "o3",
+          "text": "They watch me every weekend."
+        },
+        {
+          "id": "o4",
+          "text": "I watch them every day."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Them refers to my children, so the sentence means I watch my children every weekend.",
+      "mistakeTags": [
+        "family",
+        "object_pronouns"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_09_pronouns/t9_14.mp3"
+    },
+    {
+      "id": "t9_15",
+      "audioText": "This is my car. It is very comfortable.",
+      "transcript": "It is very comfortable.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "My car is very comfortable."
+        },
+        {
+          "id": "o2",
+          "text": "My car is very small."
+        },
+        {
+          "id": "o3",
+          "text": "Your car is very comfortable."
+        },
+        {
+          "id": "o4",
+          "text": "The car is very fast."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "It refers to my car, so the sentence means my car is very comfortable.",
+      "mistakeTags": [
+        "street",
+        "subject_pronouns"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_09_pronouns/t9_15.mp3"
+    }
+  ],
+  "short_description": "Личные и притяжательные местоимения"
+}

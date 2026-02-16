@@ -1,0 +1,400 @@
+{
+  "id": "intermediate_bc_01_past_simple_regular",
+  "title": "Did vs Was",
+  "description": "Did или Was? Разберёмся, когда действие, а когда состояние в прошлом.",
+  "order": 3,
+  "level": "intermediate",
+  "imageUrl": null,
+  "tasks": [
+    {
+      "id": "dvw_1",
+      "question": "___ you call her yesterday?",
+      "optionA": "DID",
+      "optionB": "WAS",
+      "correctIndex": 0,
+      "explanation": "Вопрос с действием (call) — нужен вспомогательный did.",
+      "tags": [
+        "did_vs_was",
+        "did",
+        "daily_life"
+      ]
+    },
+    {
+      "id": "dvw_2",
+      "question": "He ___ tired after work.",
+      "optionA": "DID",
+      "optionB": "WAS",
+      "correctIndex": 1,
+      "explanation": "Tired — прилагательное, описывающее состояние. Нужен was.",
+      "tags": [
+        "did_vs_was",
+        "was",
+        "work"
+      ]
+    },
+    {
+      "id": "dvw_3",
+      "question": "She ___ not finish the task.",
+      "optionA": "DID",
+      "optionB": "WAS",
+      "correctIndex": 0,
+      "explanation": "Отрицание с действием (finish) — did not.",
+      "tags": [
+        "did_vs_was",
+        "did",
+        "work"
+      ]
+    },
+    {
+      "id": "dvw_4",
+      "question": "It ___ cold this morning.",
+      "optionA": "DID",
+      "optionB": "WAS",
+      "correctIndex": 1,
+      "explanation": "Cold — состояние погоды, описываем через was.",
+      "tags": [
+        "did_vs_was",
+        "was",
+        "weather"
+      ]
+    },
+    {
+      "id": "dvw_5",
+      "question": "___ he play football last week?",
+      "optionA": "DID",
+      "optionB": "WAS",
+      "correctIndex": 0,
+      "explanation": "Вопрос о действии (play) — используем did.",
+      "tags": [
+        "did_vs_was",
+        "did",
+        "sport"
+      ]
+    },
+    {
+      "id": "dvw_6",
+      "question": "The movie ___ really boring.",
+      "optionA": "DID",
+      "optionB": "WAS",
+      "correctIndex": 1,
+      "explanation": "Boring — прилагательное, описываем фильм через was.",
+      "tags": [
+        "did_vs_was",
+        "was",
+        "entertainment"
+      ]
+    },
+    {
+      "id": "dvw_7",
+      "question": "They ___ not like the food.",
+      "optionA": "DID",
+      "optionB": "WAS",
+      "correctIndex": 0,
+      "explanation": "Like — глагол действия, отрицание через did not.",
+      "tags": [
+        "did_vs_was",
+        "did",
+        "food"
+      ]
+    },
+    {
+      "id": "dvw_8",
+      "question": "She ___ happy about the news.",
+      "optionA": "DID",
+      "optionB": "WAS",
+      "correctIndex": 1,
+      "explanation": "Happy — состояние, описываем через was.",
+      "tags": [
+        "did_vs_was",
+        "was",
+        "emotions"
+      ]
+    },
+    {
+      "id": "dvw_9",
+      "question": "___ you enjoy the party?",
+      "optionA": "DID",
+      "optionB": "WAS",
+      "correctIndex": 0,
+      "explanation": "Enjoy — действие, вопрос с did.",
+      "tags": [
+        "did_vs_was",
+        "did",
+        "social"
+      ]
+    },
+    {
+      "id": "dvw_10",
+      "question": "The shop ___ closed on Sunday.",
+      "optionA": "DID",
+      "optionB": "WAS",
+      "correctIndex": 1,
+      "explanation": "Closed — состояние магазина, поэтому was.",
+      "tags": [
+        "did_vs_was",
+        "was",
+        "daily_life"
+      ]
+    },
+    {
+      "id": "dvw_11",
+      "question": "I ___ not expect that answer.",
+      "optionA": "DID",
+      "optionB": "WAS",
+      "correctIndex": 0,
+      "explanation": "Expect — глагол действия, отрицание через did not.",
+      "tags": [
+        "did_vs_was",
+        "did",
+        "communication"
+      ]
+    },
+    {
+      "id": "dvw_12",
+      "question": "The test ___ really difficult.",
+      "optionA": "DID",
+      "optionB": "WAS",
+      "correctIndex": 1,
+      "explanation": "Difficult — характеристика теста, описываем через was.",
+      "tags": [
+        "did_vs_was",
+        "was",
+        "school"
+      ]
+    },
+    {
+      "id": "dvw_13",
+      "question": "___ she arrive on time?",
+      "optionA": "DID",
+      "optionB": "WAS",
+      "correctIndex": 0,
+      "explanation": "Arrive — действие, вопрос формируем с did.",
+      "tags": [
+        "did_vs_was",
+        "did",
+        "travel"
+      ]
+    },
+    {
+      "id": "dvw_14",
+      "question": "He ___ at home all evening.",
+      "optionA": "DID",
+      "optionB": "WAS",
+      "correctIndex": 1,
+      "explanation": "At home — местонахождение, описываем через was.",
+      "tags": [
+        "did_vs_was",
+        "was",
+        "daily_life"
+      ]
+    },
+    {
+      "id": "dvw_15",
+      "question": "They ___ not agree with me.",
+      "optionA": "DID",
+      "optionB": "WAS",
+      "correctIndex": 0,
+      "explanation": "Agree — действие, отрицание через did not.",
+      "tags": [
+        "did_vs_was",
+        "did",
+        "communication"
+      ]
+    },
+    {
+      "id": "dvw_16",
+      "question": "The weather ___ perfect for a walk.",
+      "optionA": "DID",
+      "optionB": "WAS",
+      "correctIndex": 1,
+      "explanation": "Perfect — состояние погоды, was.",
+      "tags": [
+        "did_vs_was",
+        "was",
+        "weather"
+      ]
+    },
+    {
+      "id": "dvw_17",
+      "question": "___ it cost a lot?",
+      "optionA": "DID",
+      "optionB": "WAS",
+      "correctIndex": 0,
+      "explanation": "Cost — глагол, вопрос о цене через did.",
+      "tags": [
+        "did_vs_was",
+        "did",
+        "shopping"
+      ]
+    },
+    {
+      "id": "dvw_18",
+      "question": "She ___ the best in class.",
+      "optionA": "DID",
+      "optionB": "WAS",
+      "correctIndex": 1,
+      "explanation": "The best — характеристика, описываем через was.",
+      "tags": [
+        "did_vs_was",
+        "was",
+        "school"
+      ]
+    },
+    {
+      "id": "dvw_19",
+      "question": "I ___ not notice the mistake.",
+      "optionA": "DID",
+      "optionB": "WAS",
+      "correctIndex": 0,
+      "explanation": "Notice — глагол действия, отрицание через did not.",
+      "tags": [
+        "did_vs_was",
+        "did",
+        "work"
+      ]
+    },
+    {
+      "id": "dvw_20",
+      "question": "The meeting ___ at nine o'clock.",
+      "optionA": "DID",
+      "optionB": "WAS",
+      "correctIndex": 1,
+      "explanation": "Встреча была в 9 — описание факта через was.",
+      "tags": [
+        "did_vs_was",
+        "was",
+        "work"
+      ]
+    },
+    {
+      "id": "dvw_21",
+      "question": "___ the manager approve the plan?",
+      "optionA": "DID",
+      "optionB": "WAS",
+      "correctIndex": 0,
+      "explanation": "Approve — действие менеджера, вопрос через did.",
+      "tags": [
+        "did_vs_was",
+        "did",
+        "work"
+      ]
+    },
+    {
+      "id": "dvw_22",
+      "question": "He ___ nervous before the speech.",
+      "optionA": "DID",
+      "optionB": "WAS",
+      "correctIndex": 1,
+      "explanation": "Nervous — эмоциональное состояние, was.",
+      "tags": [
+        "did_vs_was",
+        "was",
+        "emotions"
+      ]
+    },
+    {
+      "id": "dvw_23",
+      "question": "I ___ not realize it was so late.",
+      "optionA": "DID",
+      "optionB": "WAS",
+      "correctIndex": 0,
+      "explanation": "Первый пропуск: realize — действие, did not. Второй was дан явно.",
+      "tags": [
+        "did_vs_was",
+        "did",
+        "daily_life"
+      ]
+    },
+    {
+      "id": "dvw_24",
+      "question": "The hotel ___ right near the beach.",
+      "optionA": "DID",
+      "optionB": "WAS",
+      "correctIndex": 1,
+      "explanation": "Описание расположения отеля — was.",
+      "tags": [
+        "did_vs_was",
+        "was",
+        "travel"
+      ]
+    },
+    {
+      "id": "dvw_25",
+      "question": "___ they mention the deadline?",
+      "optionA": "DID",
+      "optionB": "WAS",
+      "correctIndex": 0,
+      "explanation": "Mention — действие, вопрос через did.",
+      "tags": [
+        "did_vs_was",
+        "did",
+        "work"
+      ]
+    },
+    {
+      "id": "dvw_26",
+      "question": "The restaurant ___ full when we arrived.",
+      "optionA": "DID",
+      "optionB": "WAS",
+      "correctIndex": 1,
+      "explanation": "Full — состояние ресторана, was.",
+      "tags": [
+        "did_vs_was",
+        "was",
+        "food"
+      ]
+    },
+    {
+      "id": "dvw_27",
+      "question": "She ___ not remember my name.",
+      "optionA": "DID",
+      "optionB": "WAS",
+      "correctIndex": 0,
+      "explanation": "Remember — глагол, отрицание через did not.",
+      "tags": [
+        "did_vs_was",
+        "did",
+        "social"
+      ]
+    },
+    {
+      "id": "dvw_28",
+      "question": "He ___ absent from the meeting.",
+      "optionA": "DID",
+      "optionB": "WAS",
+      "correctIndex": 1,
+      "explanation": "Absent — состояние (отсутствовал), was.",
+      "tags": [
+        "did_vs_was",
+        "was",
+        "work"
+      ]
+    },
+    {
+      "id": "dvw_29",
+      "question": "___ you check the schedule before?",
+      "optionA": "DID",
+      "optionB": "WAS",
+      "correctIndex": 0,
+      "explanation": "Check — действие, вопрос через did.",
+      "tags": [
+        "did_vs_was",
+        "did",
+        "work"
+      ]
+    },
+    {
+      "id": "dvw_30",
+      "question": "The concert ___ absolutely amazing.",
+      "optionA": "DID",
+      "optionB": "WAS",
+      "correctIndex": 1,
+      "explanation": "Amazing — описание впечатления, was.",
+      "tags": [
+        "did_vs_was",
+        "was",
+        "entertainment"
+      ]
+    }
+  ]
+}

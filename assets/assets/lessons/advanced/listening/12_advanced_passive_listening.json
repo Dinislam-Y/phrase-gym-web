@@ -1,0 +1,476 @@
+{
+  "id": "advanced_listening_12_advanced_passive",
+  "title": "Advanced Passive",
+  "description": "Слушайте сложные пассивные конструкции в формальном контексте.",
+  "order": 12,
+  "level": "advanced",
+  "imageUrl": "assets/images/lessons/advanced_passive.png",
+  "tasks": [
+    {
+      "id": "t12_01",
+      "audioText": "The pharmaceutical company faced regulatory scrutiny. It is believed that the drug's side effects were deliberately understated in the original report.",
+      "transcript": "It is believed that the drug's side effects were deliberately understated in the original report.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "People think the adverse reactions were intentionally downplayed in the initial documentation."
+        },
+        {
+          "id": "o2",
+          "text": "The drug had no side effects whatsoever."
+        },
+        {
+          "id": "o3",
+          "text": "The report accurately described all side effects."
+        },
+        {
+          "id": "o4",
+          "text": "The company voluntarily disclosed all side effects."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'It is believed that...' is an impersonal passive reporting a widely held opinion without attributing it to a specific source.",
+      "mistakeTags": [
+        "advanced_passive",
+        "passive_voice",
+        "pharmaceutical"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_12_advanced_passive/t12_01.mp3"
+    },
+    {
+      "id": "t12_02",
+      "audioText": "The suspect was brought in for questioning again. He is thought to have been involved in at least three similar incidents previously.",
+      "transcript": "He is thought to have been involved in at least three similar incidents previously.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He has been cleared of all previous charges."
+        },
+        {
+          "id": "o2",
+          "text": "It is suspected that he participated in three or more comparable cases before."
+        },
+        {
+          "id": "o3",
+          "text": "He has confessed to all the incidents."
+        },
+        {
+          "id": "o4",
+          "text": "This is his first time being questioned by police."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Is thought to have been involved' combines the passive with a perfect infinitive to express a belief about past actions. The suspicion covers multiple incidents.",
+      "mistakeTags": [
+        "advanced_passive",
+        "passive_voice",
+        "crime"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_12_advanced_passive/t12_02.mp3"
+    },
+    {
+      "id": "t12_03",
+      "audioText": "The ancient manuscript was discovered in a monastery library. It is said to contain previously unknown accounts of medieval trade routes.",
+      "transcript": "It is said to contain previously unknown accounts of medieval trade routes.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The manuscript is reportedly empty."
+        },
+        {
+          "id": "o2",
+          "text": "According to reports, the text includes undiscovered descriptions of trade paths from the Middle Ages."
+        },
+        {
+          "id": "o3",
+          "text": "The manuscript was a modern forgery."
+        },
+        {
+          "id": "o4",
+          "text": "The trade routes described are already well documented."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'It is said to contain' is a passive construction with a to-infinitive expressing what people reportedly claim about the manuscript's contents.",
+      "mistakeTags": [
+        "advanced_passive",
+        "passive_voice",
+        "history"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_12_advanced_passive/t12_03.mp3"
+    },
+    {
+      "id": "t12_04",
+      "audioText": "The young entrepreneur's latest venture attracted media attention. She is reported to have secured over fifty million dollars in venture capital funding.",
+      "transcript": "She is reported to have secured over fifty million dollars in venture capital funding.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "According to reports, she raised more than fifty million in investment capital."
+        },
+        {
+          "id": "o2",
+          "text": "She failed to attract any investors."
+        },
+        {
+          "id": "o3",
+          "text": "She invested fifty million of her own money."
+        },
+        {
+          "id": "o4",
+          "text": "The media ignored her business venture."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Is reported to have secured' uses the passive with perfect infinitive to convey a reported completed action without naming the source.",
+      "mistakeTags": [
+        "advanced_passive",
+        "passive_voice",
+        "business"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_12_advanced_passive/t12_04.mp3"
+    },
+    {
+      "id": "t12_05",
+      "audioText": "The data breach affected millions of users worldwide. Customers are being urged to change their passwords and enable two-factor authentication.",
+      "transcript": "Customers are being urged to change their passwords and enable two-factor authentication.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Users are currently being encouraged to update their security credentials and add extra verification."
+        },
+        {
+          "id": "o2",
+          "text": "Customers do not need to take any action."
+        },
+        {
+          "id": "o3",
+          "text": "The company disabled all customer accounts."
+        },
+        {
+          "id": "o4",
+          "text": "Two-factor authentication was removed from the platform."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Are being urged' is the present continuous passive, showing that the encouragement to act is happening right now in response to the breach.",
+      "mistakeTags": [
+        "advanced_passive",
+        "passive_voice",
+        "cybersecurity"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_12_advanced_passive/t12_05.mp3"
+    },
+    {
+      "id": "t12_06",
+      "audioText": "The professor lectured on economic inequality. The wealth gap is understood to have widened considerably over the past two decades.",
+      "transcript": "The wealth gap is understood to have widened considerably over the past two decades.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The wealth gap has narrowed significantly."
+        },
+        {
+          "id": "o2",
+          "text": "It is generally recognized that economic disparity has grown substantially in the last twenty years."
+        },
+        {
+          "id": "o3",
+          "text": "Nobody has studied economic inequality recently."
+        },
+        {
+          "id": "o4",
+          "text": "The wealth gap remained exactly the same."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Is understood to have widened' uses the passive with perfect infinitive to express a commonly accepted view about a past trend.",
+      "mistakeTags": [
+        "advanced_passive",
+        "passive_voice",
+        "economics"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_12_advanced_passive/t12_06.mp3"
+    },
+    {
+      "id": "t12_07",
+      "audioText": "The infrastructure project ran significantly over budget. The contractor is alleged to have submitted fraudulent invoices throughout the construction period.",
+      "transcript": "The contractor is alleged to have submitted fraudulent invoices throughout the construction period.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The contractor was praised for transparent billing."
+        },
+        {
+          "id": "o2",
+          "text": "It is claimed that the builder filed fake bills during the entire construction phase."
+        },
+        {
+          "id": "o3",
+          "text": "The project was completed under budget."
+        },
+        {
+          "id": "o4",
+          "text": "The contractor refused to submit any invoices."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Is alleged to have submitted' is a passive with perfect infinitive used for unproven accusations. The claim covers the whole construction period.",
+      "mistakeTags": [
+        "advanced_passive",
+        "passive_voice",
+        "construction"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_12_advanced_passive/t12_07.mp3"
+    },
+    {
+      "id": "t12_08",
+      "audioText": "The new employee struggled with the complex filing system at first. Eventually, she got accustomed to the procedure and handled it with ease.",
+      "transcript": "Eventually, she got accustomed to the procedure and handled it with ease.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She never adapted to the filing system."
+        },
+        {
+          "id": "o2",
+          "text": "She quit her job because the system was too difficult."
+        },
+        {
+          "id": "o3",
+          "text": "Over time, she became familiar with the process and managed it effortlessly."
+        },
+        {
+          "id": "o4",
+          "text": "Someone else did the filing for her."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Got accustomed to' uses the 'get + past participle' passive, emphasizing the process of becoming adapted. She transitioned from struggling to competence.",
+      "mistakeTags": [
+        "advanced_passive",
+        "passive_voice",
+        "workplace"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_12_advanced_passive/t12_08.mp3"
+    },
+    {
+      "id": "t12_09",
+      "audioText": "The archaeological site yielded remarkable findings. The artefacts are estimated to date back over three thousand years.",
+      "transcript": "The artefacts are estimated to date back over three thousand years.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The objects are thought to be more than three millennia old."
+        },
+        {
+          "id": "o2",
+          "text": "The artefacts are modern reproductions."
+        },
+        {
+          "id": "o3",
+          "text": "Scientists cannot determine the age of the artefacts."
+        },
+        {
+          "id": "o4",
+          "text": "The artefacts are less than a century old."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Are estimated to date back' uses the passive with to-infinitive to report an expert assessment of age without specifying who made the estimate.",
+      "mistakeTags": [
+        "advanced_passive",
+        "passive_voice",
+        "archaeology"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_12_advanced_passive/t12_09.mp3"
+    },
+    {
+      "id": "t12_10",
+      "audioText": "The international summit addressed the refugee crisis. It was agreed that humanitarian corridors should be established along the affected borders.",
+      "transcript": "It was agreed that humanitarian corridors should be established along the affected borders.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The summit participants reached a consensus to create safe passage routes near the impacted borders."
+        },
+        {
+          "id": "o2",
+          "text": "No agreement was reached at the summit."
+        },
+        {
+          "id": "o3",
+          "text": "The borders were permanently closed."
+        },
+        {
+          "id": "o4",
+          "text": "Humanitarian corridors were deemed unnecessary."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'It was agreed that... should be established' uses the impersonal passive to report a collective decision without attributing it to any individual.",
+      "mistakeTags": [
+        "advanced_passive",
+        "passive_voice",
+        "humanitarian"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_12_advanced_passive/t12_10.mp3"
+    },
+    {
+      "id": "t12_11",
+      "audioText": "The cycling race became chaotic in the final stretch. Several competitors got knocked off their bikes in a pile-up near the finish line.",
+      "transcript": "Several competitors got knocked off their bikes in a pile-up near the finish line.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "All riders finished the race without incident."
+        },
+        {
+          "id": "o2",
+          "text": "Multiple racers were thrown from their bicycles in a crash close to the end."
+        },
+        {
+          "id": "o3",
+          "text": "The finish line was moved to a different location."
+        },
+        {
+          "id": "o4",
+          "text": "The race was cancelled before it started."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Got knocked off' uses the 'get + past participle' passive to describe a sudden, dynamic event. It conveys the action happening to the riders involuntarily.",
+      "mistakeTags": [
+        "advanced_passive",
+        "passive_voice",
+        "sports"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_12_advanced_passive/t12_11.mp3"
+    },
+    {
+      "id": "t12_12",
+      "audioText": "The government announced new environmental regulations. The policy is expected to reduce carbon emissions by thirty percent within five years.",
+      "transcript": "The policy is expected to reduce carbon emissions by thirty percent within five years.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Carbon emissions are predicted to increase under the new policy."
+        },
+        {
+          "id": "o2",
+          "text": "The regulation is anticipated to cut carbon output by nearly a third in half a decade."
+        },
+        {
+          "id": "o3",
+          "text": "The policy has no environmental targets."
+        },
+        {
+          "id": "o4",
+          "text": "Carbon emissions have already been eliminated entirely."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Is expected to reduce' uses the passive with to-infinitive to express a forecast. The anticipated outcome is a significant emissions cut.",
+      "mistakeTags": [
+        "advanced_passive",
+        "passive_voice",
+        "environment"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_12_advanced_passive/t12_12.mp3"
+    },
+    {
+      "id": "t12_13",
+      "audioText": "The media covered the election extensively. The incumbent is widely considered to have lost the debate by a significant margin.",
+      "transcript": "The incumbent is widely considered to have lost the debate by a significant margin.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Most people believe the current officeholder clearly lost the debate."
+        },
+        {
+          "id": "o2",
+          "text": "The incumbent won the debate convincingly."
+        },
+        {
+          "id": "o3",
+          "text": "No debate took place during the election."
+        },
+        {
+          "id": "o4",
+          "text": "Media coverage of the debate was minimal."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Is widely considered to have lost' combines an adverb-modified passive with a perfect infinitive, reporting a broadly shared assessment of the debate outcome.",
+      "mistakeTags": [
+        "advanced_passive",
+        "passive_voice",
+        "politics"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_12_advanced_passive/t12_13.mp3"
+    },
+    {
+      "id": "t12_14",
+      "audioText": "The gallery displayed controversial contemporary art. The exhibition was intended to provoke discussion about the boundaries of artistic expression.",
+      "transcript": "The exhibition was intended to provoke discussion about the boundaries of artistic expression.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The show aimed to spark debate about the limits of art."
+        },
+        {
+          "id": "o2",
+          "text": "The exhibition was intended to be calming and non-controversial."
+        },
+        {
+          "id": "o3",
+          "text": "The gallery only displayed traditional paintings."
+        },
+        {
+          "id": "o4",
+          "text": "Visitors were prohibited from discussing the artwork."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Was intended to provoke' uses a passive with to-infinitive to describe the purpose behind the exhibition. The goal was deliberate provocation of dialogue.",
+      "mistakeTags": [
+        "advanced_passive",
+        "passive_voice",
+        "art"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_12_advanced_passive/t12_14.mp3"
+    },
+    {
+      "id": "t12_15",
+      "audioText": "The investigation uncovered a network of shell companies. The funds are known to have been laundered through several offshore accounts before reaching their final destination.",
+      "transcript": "The funds are known to have been laundered through several offshore accounts before reaching their final destination.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The money was legally transferred through domestic banks."
+        },
+        {
+          "id": "o2",
+          "text": "It is established that the money was illegally processed via multiple foreign accounts prior to arriving at its endpoint."
+        },
+        {
+          "id": "o3",
+          "text": "No suspicious financial activity was found."
+        },
+        {
+          "id": "o4",
+          "text": "The funds disappeared without a trace."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Are known to have been laundered' layers multiple passives — the reporting passive and the perfect passive infinitive — to describe an established fact about past illegal activity.",
+      "mistakeTags": [
+        "advanced_passive",
+        "passive_voice",
+        "finance"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_12_advanced_passive/t12_15.mp3"
+    }
+  ],
+  "short_description": "Сложные пассивные конструкции в формальной речи."
+}

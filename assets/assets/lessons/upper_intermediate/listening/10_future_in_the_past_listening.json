@@ -1,0 +1,461 @@
+{
+  "id": "upper_listening_10_future_in_the_past",
+  "title": "Future in the Past",
+  "description": "Слушайте о планах и предсказаниях, которые были в прошлом.",
+  "order": 10,
+  "level": "upper_intermediate",
+  "imageUrl": "assets/images/lessons/future_in_the_past.png",
+  "tasks": [
+    {
+      "id": "t10_01",
+      "audioText": "Last summer, we had big travel plans. We were going to visit Japan, but our flights got cancelled at the last minute.",
+      "transcript": "We were going to visit Japan, but our flights got cancelled at the last minute.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "They planned a trip to Japan but it didn't happen due to cancelled flights."
+        },
+        {
+          "id": "o2",
+          "text": "They successfully travelled to Japan last summer."
+        },
+        {
+          "id": "o3",
+          "text": "They cancelled their flights voluntarily."
+        },
+        {
+          "id": "o4",
+          "text": "They are currently planning to visit Japan next summer."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Were going to' expresses a plan that existed in the past but was not fulfilled. The cancelled flights prevented the trip.",
+      "mistakeTags": [
+        "future_in_the_past",
+        "travel"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_10_future_in_the_past/t10_01.mp3"
+    },
+    {
+      "id": "t10_02",
+      "audioText": "Maria told me about her career plans at the party. She said she would apply for the manager position the following week.",
+      "transcript": "She said she would apply for the manager position the following week.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Maria is applying for the position right now."
+        },
+        {
+          "id": "o2",
+          "text": "Maria stated her intention to submit an application for the managerial role."
+        },
+        {
+          "id": "o3",
+          "text": "Maria already got the manager position."
+        },
+        {
+          "id": "o4",
+          "text": "Maria decided not to apply for any positions."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Would' in reported speech represents a future intention viewed from the past. She expressed her plan to apply.",
+      "mistakeTags": [
+        "future_in_the_past",
+        "career"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_10_future_in_the_past/t10_02.mp3"
+    },
+    {
+      "id": "t10_03",
+      "audioText": "The forecast predicted heavy rain for the weekend. It was going to rain all day Saturday, so we changed our picnic plans.",
+      "transcript": "It was going to rain all day Saturday, so we changed our picnic plans.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The expected rain caused them to alter their Saturday picnic arrangements."
+        },
+        {
+          "id": "o2",
+          "text": "They went on the picnic despite the rain forecast."
+        },
+        {
+          "id": "o3",
+          "text": "It rained on Sunday, not Saturday."
+        },
+        {
+          "id": "o4",
+          "text": "The weather was perfect for their picnic."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Was going to rain' indicates a prediction about the future made in the past. The expected rain led to a change of plans.",
+      "mistakeTags": [
+        "future_in_the_past",
+        "weather"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_10_future_in_the_past/t10_03.mp3"
+    },
+    {
+      "id": "t10_04",
+      "audioText": "David had everything planned for his wedding anniversary. He was going to surprise his wife with a weekend getaway to Paris.",
+      "transcript": "He was going to surprise his wife with a weekend getaway to Paris.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He surprised his wife with a trip to London."
+        },
+        {
+          "id": "o2",
+          "text": "His wife planned the surprise for him."
+        },
+        {
+          "id": "o3",
+          "text": "He had a plan to take his wife on a surprise trip to Paris."
+        },
+        {
+          "id": "o4",
+          "text": "He forgot about his wedding anniversary completely."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Was going to surprise' shows a past intention or plan. Whether it happened is uncertain, but the plan existed.",
+      "mistakeTags": [
+        "future_in_the_past",
+        "relationships"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_10_future_in_the_past/t10_04.mp3"
+    },
+    {
+      "id": "t10_05",
+      "audioText": "The tech company made a bold announcement last year. They claimed the new product would revolutionize the entire industry.",
+      "transcript": "They claimed the new product would revolutionize the entire industry.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The company said their product was going to transform the whole industry."
+        },
+        {
+          "id": "o2",
+          "text": "The company admitted their product was a failure."
+        },
+        {
+          "id": "o3",
+          "text": "The product has already changed the industry completely."
+        },
+        {
+          "id": "o4",
+          "text": "The company is launching the product next year."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Would revolutionize' is the future in the past form, expressing a prediction made at an earlier time about what was expected to happen.",
+      "mistakeTags": [
+        "future_in_the_past",
+        "technology"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_10_future_in_the_past/t10_05.mp3"
+    },
+    {
+      "id": "t10_06",
+      "audioText": "My sister was very excited about university. She told our parents she was going to study medicine and become a surgeon.",
+      "transcript": "She told our parents she was going to study medicine and become a surgeon.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She informed her parents about her intention to pursue a medical career."
+        },
+        {
+          "id": "o2",
+          "text": "Her parents told her to study medicine."
+        },
+        {
+          "id": "o3",
+          "text": "She has already graduated from medical school."
+        },
+        {
+          "id": "o4",
+          "text": "She decided against studying medicine."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Was going to study' and 'become' express future plans as seen from the past. She shared her ambitions with her parents.",
+      "mistakeTags": [
+        "future_in_the_past",
+        "education"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_10_future_in_the_past/t10_06.mp3"
+    },
+    {
+      "id": "t10_07",
+      "audioText": "The coach had prepared an intense training schedule. He believed the team would win the championship that season.",
+      "transcript": "He believed the team would win the championship that season.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The coach had no faith in the team's ability."
+        },
+        {
+          "id": "o2",
+          "text": "The team has already won the championship."
+        },
+        {
+          "id": "o3",
+          "text": "The coach was confident about the team's chances of becoming champions."
+        },
+        {
+          "id": "o4",
+          "text": "The coach decided to cancel the training schedule."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Would win' expresses the coach's past belief about a future outcome. He expected them to become champions.",
+      "mistakeTags": [
+        "future_in_the_past",
+        "sports"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_10_future_in_the_past/t10_07.mp3"
+    },
+    {
+      "id": "t10_08",
+      "audioText": "I had an important meeting scheduled for Thursday morning. I was going to present the quarterly report to the board of directors.",
+      "transcript": "I was going to present the quarterly report to the board of directors.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "I planned to deliver the quarterly results to senior leadership."
+        },
+        {
+          "id": "o2",
+          "text": "I presented the report successfully on Thursday."
+        },
+        {
+          "id": "o3",
+          "text": "The board cancelled the quarterly report entirely."
+        },
+        {
+          "id": "o4",
+          "text": "Someone else was assigned to give the presentation."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Was going to present' indicates a planned action in the past. The speaker had the intention to deliver the report.",
+      "mistakeTags": [
+        "future_in_the_past",
+        "business"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_10_future_in_the_past/t10_08.mp3"
+    },
+    {
+      "id": "t10_09",
+      "audioText": "Emily looked at the old photographs from her childhood. She never imagined she would become a successful architect one day.",
+      "transcript": "She never imagined she would become a successful architect one day.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She always knew she would be an architect."
+        },
+        {
+          "id": "o2",
+          "text": "She didn't expect that her future career would be in architecture."
+        },
+        {
+          "id": "o3",
+          "text": "She imagined becoming a doctor, not an architect."
+        },
+        {
+          "id": "o4",
+          "text": "She is still trying to become an architect."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Would become' shows an unexpected future outcome from a past perspective. She didn't foresee her architectural career.",
+      "mistakeTags": [
+        "future_in_the_past",
+        "career"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_10_future_in_the_past/t10_09.mp3"
+    },
+    {
+      "id": "t10_10",
+      "audioText": "The restaurant had received excellent reviews online. We thought it would be fully booked, but we managed to get a table.",
+      "transcript": "We thought it would be fully booked, but we managed to get a table.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "They expected no available tables, yet they found one."
+        },
+        {
+          "id": "o2",
+          "text": "The restaurant was indeed fully booked and they couldn't eat there."
+        },
+        {
+          "id": "o3",
+          "text": "They had a reservation at the restaurant."
+        },
+        {
+          "id": "o4",
+          "text": "They chose a different restaurant because of the reviews."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Would be fully booked' was their past expectation about the future. The reality was different: they got a table.",
+      "mistakeTags": [
+        "future_in_the_past",
+        "dining"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_10_future_in_the_past/t10_10.mp3"
+    },
+    {
+      "id": "t10_11",
+      "audioText": "Before moving to London, Jake was nervous about the change. He wasn't sure he was going to adapt to the fast pace of life there.",
+      "transcript": "He wasn't sure he was going to adapt to the fast pace of life there.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He was confident about adjusting to London quickly."
+        },
+        {
+          "id": "o2",
+          "text": "He had doubts about whether he could get used to London's lifestyle."
+        },
+        {
+          "id": "o3",
+          "text": "He decided not to move to London after all."
+        },
+        {
+          "id": "o4",
+          "text": "He had already adapted to London before moving."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Wasn't sure he was going to adapt' expresses uncertainty about a future outcome, viewed from the past.",
+      "mistakeTags": [
+        "future_in_the_past",
+        "lifestyle"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_10_future_in_the_past/t10_11.mp3"
+    },
+    {
+      "id": "t10_12",
+      "audioText": "The news reporter covered the election results live. Analysts predicted that the opposition party would gain a significant number of seats.",
+      "transcript": "Analysts predicted that the opposition party would gain a significant number of seats.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Experts forecasted a substantial increase in seats for the opposition."
+        },
+        {
+          "id": "o2",
+          "text": "The opposition party lost all their seats in the election."
+        },
+        {
+          "id": "o3",
+          "text": "Analysts refused to make any predictions about the election."
+        },
+        {
+          "id": "o4",
+          "text": "The ruling party was expected to win every seat."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Would gain' is a past prediction about a future event. The analysts expected more seats for the opposition.",
+      "mistakeTags": [
+        "future_in_the_past",
+        "politics"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_10_future_in_the_past/t10_12.mp3"
+    },
+    {
+      "id": "t10_13",
+      "audioText": "Sophie had been saving money for months. She was going to buy a new laptop for her university coursework.",
+      "transcript": "She was going to buy a new laptop for her university coursework.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She already bought the laptop last month."
+        },
+        {
+          "id": "o2",
+          "text": "She planned to purchase a laptop for her studies."
+        },
+        {
+          "id": "o3",
+          "text": "She decided to spend the money on a holiday instead."
+        },
+        {
+          "id": "o4",
+          "text": "She borrowed a laptop from her friend."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Was going to buy' indicates a past intention. She had been saving money with the plan of getting a new laptop.",
+      "mistakeTags": [
+        "future_in_the_past",
+        "shopping"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_10_future_in_the_past/t10_13.mp3"
+    },
+    {
+      "id": "t10_14",
+      "audioText": "The construction company faced unexpected problems with the site. The project manager warned that the building would not be finished on time.",
+      "transcript": "The project manager warned that the building would not be finished on time.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The manager assured everyone the building would be completed early."
+        },
+        {
+          "id": "o2",
+          "text": "The building was finished ahead of schedule."
+        },
+        {
+          "id": "o3",
+          "text": "The manager cautioned that the construction deadline would be missed."
+        },
+        {
+          "id": "o4",
+          "text": "The construction company abandoned the project entirely."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Would not be finished' expresses a negative future prediction from a past viewpoint. The manager expected delays.",
+      "mistakeTags": [
+        "future_in_the_past",
+        "construction"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_10_future_in_the_past/t10_14.mp3"
+    },
+    {
+      "id": "t10_15",
+      "audioText": "When I was a child, my father often talked about space exploration. He always said that humans would live on Mars within his lifetime.",
+      "transcript": "He always said that humans would live on Mars within his lifetime.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He never discussed space exploration with his children."
+        },
+        {
+          "id": "o2",
+          "text": "He repeatedly expressed his belief that people would colonize Mars during his life."
+        },
+        {
+          "id": "o3",
+          "text": "He thought Mars exploration was impossible."
+        },
+        {
+          "id": "o4",
+          "text": "Humans have already established colonies on Mars."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Would live' in reported speech shows a recurring past prediction about the future. He often shared this optimistic belief.",
+      "mistakeTags": [
+        "future_in_the_past",
+        "science"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_10_future_in_the_past/t10_15.mp3"
+    }
+  ],
+  "short_description": "Будущее в прошедшем: was going to, would."
+}

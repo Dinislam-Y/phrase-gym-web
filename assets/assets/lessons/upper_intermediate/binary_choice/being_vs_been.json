@@ -1,0 +1,400 @@
+{
+  "id": "upper_bc_06_passive_continuous_perfect",
+  "title": "Being vs Been",
+  "description": "Being — процесс в пассиве или герундий, been — завершённое действие в перфекте. Разберёмся, когда пассив «в моменте», а когда уже «за плечами».",
+  "order": 6,
+  "level": "upper_intermediate",
+  "imageUrl": null,
+  "tasks": [
+    {
+      "id": "bvb_1",
+      "question": "The proposal is ___ reviewed by the board.",
+      "optionA": "BEING",
+      "optionB": "BEEN",
+      "correctIndex": 0,
+      "explanation": "Is being reviewed — пассивный процесс, который происходит прямо сейчас. Present Continuous Passive требует being.",
+      "tags": [
+        "being_vs_been",
+        "being",
+        "passive_continuous"
+      ]
+    },
+    {
+      "id": "bvb_2",
+      "question": "Her complaint has ___ addressed by management.",
+      "optionA": "BEING",
+      "optionB": "BEEN",
+      "correctIndex": 1,
+      "explanation": "Has been addressed — завершённое действие в Present Perfect Passive. После has/have всегда been.",
+      "tags": [
+        "being_vs_been",
+        "been",
+        "passive_perfect"
+      ]
+    },
+    {
+      "id": "bvb_3",
+      "question": "The contract is ___ negotiated as we speak.",
+      "optionA": "BEING",
+      "optionB": "BEEN",
+      "correctIndex": 0,
+      "explanation": "Is being negotiated — действие в процессе прямо сейчас. As we speak подчёркивает длительность.",
+      "tags": [
+        "being_vs_been",
+        "being",
+        "passive_continuous"
+      ]
+    },
+    {
+      "id": "bvb_4",
+      "question": "The decision had ___ made long before that.",
+      "optionA": "BEING",
+      "optionB": "BEEN",
+      "correctIndex": 1,
+      "explanation": "Had been made — Past Perfect Passive, действие завершилось до другого момента. После had только been.",
+      "tags": [
+        "being_vs_been",
+        "been",
+        "passive_perfect"
+      ]
+    },
+    {
+      "id": "bvb_5",
+      "question": "His reputation is ___ damaged by the rumors.",
+      "optionA": "BEING",
+      "optionB": "BEEN",
+      "correctIndex": 0,
+      "explanation": "Is being damaged — процесс разрушения репутации идёт прямо сейчас. Пассивный Continuous нуждается в being.",
+      "tags": [
+        "being_vs_been",
+        "being",
+        "passive_continuous"
+      ]
+    },
+    {
+      "id": "bvb_6",
+      "question": "Trust has ___ broken between them forever.",
+      "optionA": "BEING",
+      "optionB": "BEEN",
+      "correctIndex": 1,
+      "explanation": "Has been broken — результат уже есть, доверие разрушено. Present Perfect Passive с has требует been.",
+      "tags": [
+        "being_vs_been",
+        "been",
+        "passive_perfect"
+      ]
+    },
+    {
+      "id": "bvb_7",
+      "question": "She has ___ warned about this several times.",
+      "optionA": "BEING",
+      "optionB": "BEEN",
+      "correctIndex": 1,
+      "explanation": "Has been warned — она уже получала предупреждения. Several times указывает на завершённые повторения.",
+      "tags": [
+        "being_vs_been",
+        "been",
+        "passive_perfect"
+      ]
+    },
+    {
+      "id": "bvb_8",
+      "question": "The situation is ___ handled by professionals now.",
+      "optionA": "BEING",
+      "optionB": "BEEN",
+      "correctIndex": 0,
+      "explanation": "Is being handled — процесс происходит сейчас, на это указывает now. Passive Continuous требует being.",
+      "tags": [
+        "being_vs_been",
+        "being",
+        "passive_continuous"
+      ]
+    },
+    {
+      "id": "bvb_9",
+      "question": "The report had ___ submitted before the deadline.",
+      "optionA": "BEING",
+      "optionB": "BEEN",
+      "correctIndex": 1,
+      "explanation": "Had been submitted — действие завершено до дедлайна. Past Perfect Passive всегда с been.",
+      "tags": [
+        "being_vs_been",
+        "been",
+        "passive_perfect"
+      ]
+    },
+    {
+      "id": "bvb_10",
+      "question": "Their relationship is ___ tested by this conflict.",
+      "optionA": "BEING",
+      "optionB": "BEEN",
+      "correctIndex": 0,
+      "explanation": "Is being tested — конфликт проверяет отношения прямо сейчас. Процесс в моменте требует being.",
+      "tags": [
+        "being_vs_been",
+        "being",
+        "passive_continuous"
+      ]
+    },
+    {
+      "id": "bvb_11",
+      "question": "He has ___ overlooked for promotion yet again.",
+      "optionA": "BEING",
+      "optionB": "BEEN",
+      "correctIndex": 1,
+      "explanation": "Has been overlooked — факт свершился, его снова не повысили. Present Perfect Passive с been.",
+      "tags": [
+        "being_vs_been",
+        "been",
+        "career"
+      ]
+    },
+    {
+      "id": "bvb_12",
+      "question": "She resents ___ treated like a child constantly.",
+      "optionA": "BEING",
+      "optionB": "BEEN",
+      "correctIndex": 0,
+      "explanation": "Resents being treated — после глагола resent нужен герундий. Being treated — пассивный герундий.",
+      "tags": [
+        "being_vs_been",
+        "being",
+        "gerund"
+      ]
+    },
+    {
+      "id": "bvb_13",
+      "question": "He enjoys ___ praised for his leadership skills.",
+      "optionA": "BEING",
+      "optionB": "BEEN",
+      "correctIndex": 0,
+      "explanation": "Enjoys being praised — после enjoy идёт герундий. Being praised — пассивный герундий, процесс.",
+      "tags": [
+        "being_vs_been",
+        "being",
+        "gerund"
+      ]
+    },
+    {
+      "id": "bvb_14",
+      "question": "The issue has ___ resolved quite effectively already.",
+      "optionA": "BEING",
+      "optionB": "BEEN",
+      "correctIndex": 1,
+      "explanation": "Has been resolved — вопрос уже решён, результат налицо. Already подтверждает завершённость.",
+      "tags": [
+        "being_vs_been",
+        "been",
+        "passive_perfect"
+      ]
+    },
+    {
+      "id": "bvb_15",
+      "question": "Nobody likes ___ judged by first impressions alone.",
+      "optionA": "BEING",
+      "optionB": "BEEN",
+      "correctIndex": 0,
+      "explanation": "Likes being judged — после like нужен герундий. Being judged — пассивный герундий как дополнение.",
+      "tags": [
+        "being_vs_been",
+        "being",
+        "gerund"
+      ]
+    },
+    {
+      "id": "bvb_16",
+      "question": "Their efforts have ___ recognized by the committee.",
+      "optionA": "BEING",
+      "optionB": "BEEN",
+      "correctIndex": 1,
+      "explanation": "Have been recognized — усилия уже получили признание. Present Perfect Passive с have требует been.",
+      "tags": [
+        "being_vs_been",
+        "been",
+        "passive_perfect"
+      ]
+    },
+    {
+      "id": "bvb_17",
+      "question": "She is tired of ___ underestimated by colleagues.",
+      "optionA": "BEING",
+      "optionB": "BEEN",
+      "correctIndex": 0,
+      "explanation": "Tired of being underestimated — после предлога of нужен герундий. Being — пассивный герундий.",
+      "tags": [
+        "being_vs_been",
+        "being",
+        "gerund_preposition"
+      ]
+    },
+    {
+      "id": "bvb_18",
+      "question": "The budget had ___ approved without any discussion.",
+      "optionA": "BEING",
+      "optionB": "BEEN",
+      "correctIndex": 1,
+      "explanation": "Had been approved — бюджет утвердили ещё раньше. Past Perfect Passive всегда строится с been.",
+      "tags": [
+        "being_vs_been",
+        "been",
+        "formal_process"
+      ]
+    },
+    {
+      "id": "bvb_19",
+      "question": "Opinions have ___ divided on this matter lately.",
+      "optionA": "BEING",
+      "optionB": "BEEN",
+      "correctIndex": 1,
+      "explanation": "Have been divided — мнения уже разделились, это результат. Present Perfect Passive требует been.",
+      "tags": [
+        "being_vs_been",
+        "been",
+        "passive_perfect"
+      ]
+    },
+    {
+      "id": "bvb_20",
+      "question": "He fears ___ excluded from important career decisions.",
+      "optionA": "BEING",
+      "optionB": "BEEN",
+      "correctIndex": 0,
+      "explanation": "Fears being excluded — после глагола fear нужен герундий. Being excluded — пассивный герундий.",
+      "tags": [
+        "being_vs_been",
+        "being",
+        "gerund"
+      ]
+    },
+    {
+      "id": "bvb_21",
+      "question": "The matter has ___ dealt with quite thoroughly.",
+      "optionA": "BEING",
+      "optionB": "BEEN",
+      "correctIndex": 1,
+      "explanation": "Has been dealt with — вопрос уже решён. Фразовый глагол deal with в Perfect Passive с been.",
+      "tags": [
+        "being_vs_been",
+        "been",
+        "passive_perfect"
+      ]
+    },
+    {
+      "id": "bvb_22",
+      "question": "Despite ___ criticized harshly, she stayed confident.",
+      "optionA": "BEING",
+      "optionB": "BEEN",
+      "correctIndex": 0,
+      "explanation": "Despite being criticized — после предлога despite нужен герундий. Being — пассивный герундий.",
+      "tags": [
+        "being_vs_been",
+        "being",
+        "gerund_preposition"
+      ]
+    },
+    {
+      "id": "bvb_23",
+      "question": "Standards have ___ lowered across the entire industry.",
+      "optionA": "BEING",
+      "optionB": "BEEN",
+      "correctIndex": 1,
+      "explanation": "Have been lowered — стандарты уже снижены, результат виден. Present Perfect Passive с been.",
+      "tags": [
+        "being_vs_been",
+        "been",
+        "passive_perfect"
+      ]
+    },
+    {
+      "id": "bvb_24",
+      "question": "___ seen as weak is his biggest fear.",
+      "optionA": "BEING",
+      "optionB": "BEEN",
+      "correctIndex": 0,
+      "explanation": "Being seen — герундий в роли подлежащего. Пассивный герундий being описывает процесс-состояние.",
+      "tags": [
+        "being_vs_been",
+        "being",
+        "gerund_subject"
+      ]
+    },
+    {
+      "id": "bvb_25",
+      "question": "Boundaries had ___ crossed far too many times.",
+      "optionA": "BEING",
+      "optionB": "BEEN",
+      "correctIndex": 1,
+      "explanation": "Had been crossed — границы были нарушены ранее. Past Perfect Passive строится только с been.",
+      "tags": [
+        "being_vs_been",
+        "been",
+        "relationships"
+      ]
+    },
+    {
+      "id": "bvb_26",
+      "question": "Has the policy ___ enforced since last year?",
+      "optionA": "BEING",
+      "optionB": "BEEN",
+      "correctIndex": 1,
+      "explanation": "Has been enforced — вопрос о результате с прошлого года. Present Perfect Passive в вопросе с been.",
+      "tags": [
+        "being_vs_been",
+        "been",
+        "formal_process"
+      ]
+    },
+    {
+      "id": "bvb_27",
+      "question": "The rules are ___ bent to suit their needs.",
+      "optionA": "BEING",
+      "optionB": "BEEN",
+      "correctIndex": 0,
+      "explanation": "Are being bent — правила искажают прямо сейчас. Present Continuous Passive описывает текущий процесс.",
+      "tags": [
+        "being_vs_been",
+        "being",
+        "passive_continuous"
+      ]
+    },
+    {
+      "id": "bvb_28",
+      "question": "___ taken for granted really hurts a lot.",
+      "optionA": "BEING",
+      "optionB": "BEEN",
+      "correctIndex": 0,
+      "explanation": "Being taken for granted — герундий-подлежащее в пассиве. Идиома «принимать как должное» с being.",
+      "tags": [
+        "being_vs_been",
+        "being",
+        "gerund_subject"
+      ]
+    },
+    {
+      "id": "bvb_29",
+      "question": "His integrity has ___ questioned by many colleagues.",
+      "optionA": "BEING",
+      "optionB": "BEEN",
+      "correctIndex": 1,
+      "explanation": "Has been questioned — честность уже поставлена под сомнение. Present Perfect Passive с been.",
+      "tags": [
+        "being_vs_been",
+        "been",
+        "career"
+      ]
+    },
+    {
+      "id": "bvb_30",
+      "question": "She hates ___ kept waiting without any explanation.",
+      "optionA": "BEING",
+      "optionB": "BEEN",
+      "correctIndex": 0,
+      "explanation": "Hates being kept — после hate нужен герундий. Being kept — пассивный герундий, процесс ожидания.",
+      "tags": [
+        "being_vs_been",
+        "being",
+        "gerund"
+      ]
+    }
+  ]
+}

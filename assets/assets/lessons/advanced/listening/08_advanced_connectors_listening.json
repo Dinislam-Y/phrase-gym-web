@@ -1,0 +1,461 @@
+{
+  "id": "advanced_listening_08_advanced_connectors",
+  "title": "Advanced Connectors",
+  "description": "Слушайте сложные связующие выражения в формальных контекстах.",
+  "order": 8,
+  "level": "advanced",
+  "imageUrl": "assets/images/lessons/advanced_connectors.png",
+  "tasks": [
+    {
+      "id": "t8_01",
+      "audioText": "The university updated its scholarship policy after lengthy deliberations. Provided that applicants maintain a grade point average above 3.5, their funding will be renewed automatically each semester.",
+      "transcript": "Provided that applicants maintain a grade point average above 3.5, their funding will be renewed automatically each semester.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Scholarship renewal is guaranteed regardless of academic performance."
+        },
+        {
+          "id": "o2",
+          "text": "If students keep their GPA above 3.5, their scholarship will continue automatically every semester."
+        },
+        {
+          "id": "o3",
+          "text": "All scholarships were cancelled after the policy change."
+        },
+        {
+          "id": "o4",
+          "text": "Students must reapply for funding every semester regardless of grades."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Provided that' sets a formal condition. Maintaining high grades is the requirement for automatic scholarship renewal.",
+      "mistakeTags": [
+        "advanced_connectors",
+        "provided_that"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_08_advanced_connectors/t8_01.mp3"
+    },
+    {
+      "id": "t8_02",
+      "audioText": "The pharmaceutical company faced significant regulatory scrutiny. Notwithstanding the negative publicity surrounding the clinical trial, the drug received approval from the regulatory authority last week.",
+      "transcript": "Notwithstanding the negative publicity surrounding the clinical trial, the drug received approval from the regulatory authority last week.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Despite the bad press about the trial, the drug was approved by regulators."
+        },
+        {
+          "id": "o2",
+          "text": "The drug was rejected because of the negative publicity."
+        },
+        {
+          "id": "o3",
+          "text": "There was no negative publicity about the clinical trial."
+        },
+        {
+          "id": "o4",
+          "text": "The regulatory authority postponed its decision indefinitely."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Notwithstanding' means 'despite' or 'in spite of'. The bad press did not prevent regulatory approval.",
+      "mistakeTags": [
+        "advanced_connectors",
+        "notwithstanding"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_08_advanced_connectors/t8_02.mp3"
+    },
+    {
+      "id": "t8_03",
+      "audioText": "The insurance company revised its terms for natural disaster coverage. In the event that a Category 5 hurricane strikes the coastal region, all policyholders will receive immediate emergency compensation.",
+      "transcript": "In the event that a Category 5 hurricane strikes the coastal region, all policyholders will receive immediate emergency compensation.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Policyholders must wait months for compensation after a hurricane."
+        },
+        {
+          "id": "o2",
+          "text": "If a major hurricane hits the coast, all insured customers will get emergency payments right away."
+        },
+        {
+          "id": "o3",
+          "text": "The insurance company stopped covering natural disasters entirely."
+        },
+        {
+          "id": "o4",
+          "text": "Only certain policyholders qualify for hurricane compensation."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'In the event that' is a formal conditional connector meaning 'if it happens that'. Immediate compensation is promised for a severe hurricane.",
+      "mistakeTags": [
+        "advanced_connectors",
+        "in_the_event_that"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_08_advanced_connectors/t8_03.mp3"
+    },
+    {
+      "id": "t8_04",
+      "audioText": "The trade union negotiated new employment terms with the factory management. As long as the company guarantees job security for the next five years, the workers will accept the revised pension scheme.",
+      "transcript": "As long as the company guarantees job security for the next five years, the workers will accept the revised pension scheme.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Workers accepted the pension changes with no conditions attached."
+        },
+        {
+          "id": "o2",
+          "text": "Workers will only agree to the pension changes if the company promises five years of employment stability."
+        },
+        {
+          "id": "o3",
+          "text": "The company refused to discuss job security guarantees."
+        },
+        {
+          "id": "o4",
+          "text": "Workers rejected the revised pension scheme completely."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'As long as' introduces a condition that must be met. Job security for five years is the workers' requirement for accepting pension changes.",
+      "mistakeTags": [
+        "advanced_connectors",
+        "as_long_as"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_08_advanced_connectors/t8_04.mp3"
+    },
+    {
+      "id": "t8_05",
+      "audioText": "The environmental agency published a comprehensive report on industrial pollution. Irrespective of the economic benefits the factories bring to the region, stricter emission standards must be enforced without delay.",
+      "transcript": "Irrespective of the economic benefits the factories bring to the region, stricter emission standards must be enforced without delay.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Economic benefits should be prioritised over environmental regulations."
+        },
+        {
+          "id": "o2",
+          "text": "Regardless of the financial advantages factories provide, tighter pollution rules need to be applied immediately."
+        },
+        {
+          "id": "o3",
+          "text": "The factories produce no economic benefits for the region."
+        },
+        {
+          "id": "o4",
+          "text": "Emission standards were relaxed to attract more factories."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Irrespective of' means the economic advantages do not change the conclusion. Stricter rules are needed regardless of financial impact.",
+      "mistakeTags": [
+        "advanced_connectors",
+        "irrespective_of"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_08_advanced_connectors/t8_05.mp3"
+    },
+    {
+      "id": "t8_06",
+      "audioText": "The law firm outlined the terms of the settlement agreement to both parties. On condition that the defendant issues a formal public apology, the plaintiff will withdraw the defamation lawsuit entirely.",
+      "transcript": "On condition that the defendant issues a formal public apology, the plaintiff will withdraw the defamation lawsuit entirely.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The plaintiff will drop the lawsuit only if the defendant publicly apologises formally."
+        },
+        {
+          "id": "o2",
+          "text": "The plaintiff withdrew the lawsuit with no conditions."
+        },
+        {
+          "id": "o3",
+          "text": "The defendant already issued the public apology."
+        },
+        {
+          "id": "o4",
+          "text": "The plaintiff plans to continue the lawsuit regardless of an apology."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'On condition that' sets a formal requirement. A public apology from the defendant is the specific condition for dropping the case.",
+      "mistakeTags": [
+        "advanced_connectors",
+        "on_condition_that"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_08_advanced_connectors/t8_06.mp3"
+    },
+    {
+      "id": "t8_07",
+      "audioText": "The research committee evaluated the proposal from the biology department. Insofar as the methodology meets international ethical standards, the committee will approve full funding for the study.",
+      "transcript": "Insofar as the methodology meets international ethical standards, the committee will approve full funding for the study.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The committee approved funding without reviewing the methodology."
+        },
+        {
+          "id": "o2",
+          "text": "Funding will be granted to the extent that the research methods comply with global ethical requirements."
+        },
+        {
+          "id": "o3",
+          "text": "The committee rejected the proposal due to ethical violations."
+        },
+        {
+          "id": "o4",
+          "text": "International ethical standards are not relevant to this type of research."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Insofar as' means 'to the extent that'. Approval depends on how well the methods align with ethical standards.",
+      "mistakeTags": [
+        "advanced_connectors",
+        "insofar_as"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_08_advanced_connectors/t8_07.mp3"
+    },
+    {
+      "id": "t8_08",
+      "audioText": "The CEO addressed shareholders about the company's future direction. Inasmuch as our competitors have shifted to cloud-based services, we too must accelerate our digital transformation strategy.",
+      "transcript": "Inasmuch as our competitors have shifted to cloud-based services, we too must accelerate our digital transformation strategy.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Because competitors have moved to cloud services, the company needs to speed up its own digital shift."
+        },
+        {
+          "id": "o2",
+          "text": "The company's competitors have not adopted cloud-based services."
+        },
+        {
+          "id": "o3",
+          "text": "The CEO sees no need to change the company's current strategy."
+        },
+        {
+          "id": "o4",
+          "text": "The company plans to abandon digital transformation entirely."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Inasmuch as' provides a formal reason. Competitors' cloud adoption justifies accelerating the company's own digital strategy.",
+      "mistakeTags": [
+        "advanced_connectors",
+        "inasmuch_as"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_08_advanced_connectors/t8_08.mp3"
+    },
+    {
+      "id": "t8_09",
+      "audioText": "The charity's annual report was presented to donors. Albeit the economic downturn reduced overall donations, the organisation still managed to fund thirty-five community projects across the country.",
+      "transcript": "Albeit the economic downturn reduced overall donations, the organisation still managed to fund thirty-five community projects across the country.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The economic downturn had no effect on the charity's donations."
+        },
+        {
+          "id": "o2",
+          "text": "Although the recession decreased donations, the charity still financed thirty-five community projects nationwide."
+        },
+        {
+          "id": "o3",
+          "text": "The charity was unable to fund any projects due to the downturn."
+        },
+        {
+          "id": "o4",
+          "text": "Donations increased during the economic downturn."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Albeit' is a formal concession connector meaning 'although'. Despite fewer donations, the charity achieved significant outcomes.",
+      "mistakeTags": [
+        "advanced_connectors",
+        "albeit"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_08_advanced_connectors/t8_09.mp3"
+    },
+    {
+      "id": "t8_10",
+      "audioText": "The city council debated the controversial housing development proposal for months. Whereas local businesses support the project for its economic potential, residents oppose it due to environmental concerns.",
+      "transcript": "Whereas local businesses support the project for its economic potential, residents oppose it due to environmental concerns.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Both businesses and residents support the housing development."
+        },
+        {
+          "id": "o2",
+          "text": "In contrast, businesses back the project for economic reasons while residents are against it for environmental reasons."
+        },
+        {
+          "id": "o3",
+          "text": "Residents support the project but businesses oppose it."
+        },
+        {
+          "id": "o4",
+          "text": "Neither businesses nor residents have an opinion on the development."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Whereas' formally introduces a contrast. Businesses see economic opportunity; residents see environmental harm.",
+      "mistakeTags": [
+        "advanced_connectors",
+        "whereas"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_08_advanced_connectors/t8_10.mp3"
+    },
+    {
+      "id": "t8_11",
+      "audioText": "The technology firm updated its data protection policies comprehensively. For the purpose of complying with the new European privacy regulations, all customer data older than seven years will be permanently deleted.",
+      "transcript": "For the purpose of complying with the new European privacy regulations, all customer data older than seven years will be permanently deleted.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Customer data will be kept indefinitely regardless of any regulations."
+        },
+        {
+          "id": "o2",
+          "text": "To meet new European privacy laws, the company will erase all customer data more than seven years old."
+        },
+        {
+          "id": "o3",
+          "text": "Only data less than one year old will be deleted."
+        },
+        {
+          "id": "o4",
+          "text": "The European regulations do not affect the company's data practices."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'For the purpose of' states a formal objective. Deleting old data is specifically to satisfy European privacy requirements.",
+      "mistakeTags": [
+        "advanced_connectors",
+        "for_the_purpose_of"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_08_advanced_connectors/t8_11.mp3"
+    },
+    {
+      "id": "t8_12",
+      "audioText": "The minister of health gave a press conference about the vaccination programme. Granted that some side effects have been reported in a small number of cases, the overall benefits of vaccination far outweigh the risks.",
+      "transcript": "Granted that some side effects have been reported in a small number of cases, the overall benefits of vaccination far outweigh the risks.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "While acknowledging minor side effects in some cases, the minister emphasised that vaccination benefits greatly exceed the dangers."
+        },
+        {
+          "id": "o2",
+          "text": "The minister denied any side effects from the vaccination programme."
+        },
+        {
+          "id": "o3",
+          "text": "The risks of vaccination are greater than its benefits."
+        },
+        {
+          "id": "o4",
+          "text": "The vaccination programme was suspended because of widespread side effects."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Granted that' formally concedes a point before presenting a stronger counterargument. Side effects exist but benefits dominate.",
+      "mistakeTags": [
+        "advanced_connectors",
+        "granted_that"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_08_advanced_connectors/t8_12.mp3"
+    },
+    {
+      "id": "t8_13",
+      "audioText": "The judge explained her reasoning in the landmark court ruling. Given that the defendant demonstrated genuine remorse and cooperated fully with the investigation, a reduced sentence was deemed appropriate.",
+      "transcript": "Given that the defendant demonstrated genuine remorse and cooperated fully with the investigation, a reduced sentence was deemed appropriate.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The defendant received the maximum possible sentence."
+        },
+        {
+          "id": "o2",
+          "text": "Because the defendant showed true regret and fully cooperated, a lighter punishment was considered justified."
+        },
+        {
+          "id": "o3",
+          "text": "The defendant showed no remorse during the trial."
+        },
+        {
+          "id": "o4",
+          "text": "The defendant refused to cooperate with investigators."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Given that' formally establishes the factual basis for a conclusion. Remorse and cooperation justified leniency.",
+      "mistakeTags": [
+        "advanced_connectors",
+        "given_that"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_08_advanced_connectors/t8_13.mp3"
+    },
+    {
+      "id": "t8_14",
+      "audioText": "The academic journal published new guidelines for peer review. In order that the review process remains fair and unbiased, all submissions will now be evaluated through a double-blind system.",
+      "transcript": "In order that the review process remains fair and unbiased, all submissions will now be evaluated through a double-blind system.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "So that reviews stay impartial, all papers will be assessed using a double-blind method going forward."
+        },
+        {
+          "id": "o2",
+          "text": "The journal abandoned peer review altogether."
+        },
+        {
+          "id": "o3",
+          "text": "Reviewers will now know the authors' identities."
+        },
+        {
+          "id": "o4",
+          "text": "The current review system is already perfectly unbiased."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'In order that' is a formal purpose connector. The double-blind system is introduced specifically to ensure fairness.",
+      "mistakeTags": [
+        "advanced_connectors",
+        "in_order_that"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_08_advanced_connectors/t8_14.mp3"
+    },
+    {
+      "id": "t8_15",
+      "audioText": "The ambassador concluded her speech at the international peace forum. Insofar as all parties commit to the ceasefire agreement with genuine intent, lasting peace in the region remains achievable within our generation.",
+      "transcript": "Insofar as all parties commit to the ceasefire agreement with genuine intent, lasting peace in the region remains achievable within our generation.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Peace is impossible regardless of any agreements."
+        },
+        {
+          "id": "o2",
+          "text": "To the extent that everyone sincerely honours the ceasefire, enduring peace in the region can be reached in our lifetime."
+        },
+        {
+          "id": "o3",
+          "text": "All parties have already fully committed to the ceasefire."
+        },
+        {
+          "id": "o4",
+          "text": "The ambassador believes peace will take several generations to achieve."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Insofar as' means the outcome depends on the degree of genuine commitment. Peace is conditional on sincere ceasefire adherence.",
+      "mistakeTags": [
+        "advanced_connectors",
+        "insofar_as"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_08_advanced_connectors/t8_15.mp3"
+    }
+  ],
+  "short_description": "Сложные связующие: provided that, notwithstanding, in the event that и другие."
+}

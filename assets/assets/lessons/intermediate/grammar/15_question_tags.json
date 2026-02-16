@@ -1,0 +1,1642 @@
+{
+  "id": "intermediate_15_question_tags",
+  "title": "Question Tags",
+  "description": "Разделительные вопросы: You like coffee, don't you? She's coming, isn't she?",
+  "order": 15,
+  "level": "intermediate",
+  "imageUrl": "assets/images/lessons/question_tags.png",
+  "vocabulary": [
+    {
+      "id": "v15_tag",
+      "english": "tag",
+      "russian": "хвостик (вопрос-уточнение)",
+      "partOfSpeech": "noun",
+      "example": "Add a question tag at the end.",
+      "exampleTranslation": "Добавь вопрос-хвостик в конце.",
+      "audioPath": "assets/audio/vocabulary/v15_tag.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_tag.mp3"
+    },
+    {
+      "id": "v15_confirm",
+      "english": "confirm",
+      "russian": "подтверждать",
+      "partOfSpeech": "verb",
+      "example": "You want to confirm the answer.",
+      "exampleTranslation": "Ты хочешь подтвердить ответ.",
+      "audioPath": "assets/audio/vocabulary/v15_confirm.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_confirm.mp3"
+    },
+    {
+      "id": "v15_agree",
+      "english": "agree",
+      "russian": "соглашаться",
+      "partOfSpeech": "verb",
+      "example": "You agree with me, don't you?",
+      "exampleTranslation": "Ты согласен со мной, правда?",
+      "audioPath": "assets/audio/vocabulary/v15_agree.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_agree.mp3"
+    },
+    {
+      "id": "v15_suppose",
+      "english": "suppose",
+      "russian": "предполагать",
+      "partOfSpeech": "verb",
+      "example": "I suppose he is right.",
+      "exampleTranslation": "Полагаю, он прав.",
+      "audioPath": "assets/audio/vocabulary/v15_suppose.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_suppose.mp3"
+    },
+    {
+      "id": "v15_expect",
+      "english": "expect",
+      "russian": "ожидать",
+      "partOfSpeech": "verb",
+      "example": "You expected that, didn't you?",
+      "exampleTranslation": "Ты этого ожидал, правда?",
+      "audioPath": "assets/audio/vocabulary/v15_expect.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_expect.mp3"
+    },
+    {
+      "id": "v15_arrive",
+      "english": "arrive",
+      "russian": "прибывать",
+      "partOfSpeech": "verb",
+      "example": "The train arrived on time, didn't it?",
+      "exampleTranslation": "Поезд прибыл вовремя, не так ли?",
+      "audioPath": "assets/audio/vocabulary/v15_arrive.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_arrive.mp3"
+    },
+    {
+      "id": "v15_forget",
+      "english": "forget",
+      "russian": "забывать",
+      "partOfSpeech": "verb",
+      "example": "You forgot the keys, didn't you?",
+      "exampleTranslation": "Ты забыл ключи, да?",
+      "audioPath": "assets/audio/vocabulary/v15_forget.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_forget.mp3"
+    },
+    {
+      "id": "v15_remember",
+      "english": "remember",
+      "russian": "помнить",
+      "partOfSpeech": "verb",
+      "example": "She remembers us, doesn't she?",
+      "exampleTranslation": "Она помнит нас, правда?",
+      "audioPath": "assets/audio/vocabulary/v15_remember.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_remember.mp3"
+    },
+    {
+      "id": "v15_believe",
+      "english": "believe",
+      "russian": "верить",
+      "partOfSpeech": "verb",
+      "example": "You believe me, don't you?",
+      "exampleTranslation": "Ты мне веришь, да?",
+      "audioPath": "assets/audio/vocabulary/v15_believe.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_believe.mp3"
+    },
+    {
+      "id": "v15_worry",
+      "english": "worry",
+      "russian": "беспокоиться",
+      "partOfSpeech": "verb",
+      "example": "She is worried, isn't she?",
+      "exampleTranslation": "Она беспокоится, не так ли?",
+      "audioPath": "assets/audio/vocabulary/v15_worry.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_worry.mp3"
+    },
+    {
+      "id": "v15_enjoy",
+      "english": "enjoy",
+      "russian": "наслаждаться",
+      "partOfSpeech": "verb",
+      "example": "You enjoyed the trip, didn't you?",
+      "exampleTranslation": "Тебе понравилась поездка, правда?",
+      "audioPath": "assets/audio/vocabulary/v15_enjoy.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_enjoy.mp3"
+    },
+    {
+      "id": "v15_finish",
+      "english": "finish",
+      "russian": "заканчивать",
+      "partOfSpeech": "verb",
+      "example": "He finished the work, didn't he?",
+      "exampleTranslation": "Он закончил работу, да?",
+      "audioPath": "assets/audio/vocabulary/v15_finish.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_finish.mp3"
+    },
+    {
+      "id": "v15_ready",
+      "english": "ready",
+      "russian": "готов",
+      "partOfSpeech": "adjective",
+      "example": "You are ready, aren't you?",
+      "exampleTranslation": "Ты готов, не так ли?",
+      "audioPath": "assets/audio/vocabulary/v15_ready.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_ready.mp3"
+    },
+    {
+      "id": "v15_late",
+      "english": "late",
+      "russian": "поздний, опоздавший",
+      "partOfSpeech": "adjective",
+      "example": "We are late, aren't we?",
+      "exampleTranslation": "Мы опаздываем, правда?",
+      "audioPath": "assets/audio/vocabulary/v15_late.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_late.mp3"
+    },
+    {
+      "id": "v15_beautiful",
+      "english": "beautiful",
+      "russian": "красивый",
+      "partOfSpeech": "adjective",
+      "example": "It is beautiful, isn't it?",
+      "exampleTranslation": "Красиво, правда?",
+      "audioPath": "assets/audio/vocabulary/v15_beautiful.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_beautiful.mp3"
+    },
+    {
+      "id": "v15_expensive",
+      "english": "expensive",
+      "russian": "дорогой",
+      "partOfSpeech": "adjective",
+      "example": "This is expensive, isn't it?",
+      "exampleTranslation": "Это дорого, не так ли?",
+      "audioPath": "assets/audio/vocabulary/v15_expensive.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_expensive.mp3"
+    },
+    {
+      "id": "v15_possible",
+      "english": "possible",
+      "russian": "возможный",
+      "partOfSpeech": "adjective",
+      "example": "It is possible, isn't it?",
+      "exampleTranslation": "Это возможно, не так ли?",
+      "audioPath": "assets/audio/vocabulary/v15_possible.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_possible.mp3"
+    },
+    {
+      "id": "v15_right",
+      "english": "right",
+      "russian": "правильный, верный",
+      "partOfSpeech": "adjective",
+      "example": "This is right, isn't it?",
+      "exampleTranslation": "Это правильно, не так ли?",
+      "audioPath": "assets/audio/vocabulary/v15_right.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_right.mp3"
+    },
+    {
+      "id": "v15_sure",
+      "english": "sure",
+      "russian": "уверенный",
+      "partOfSpeech": "adjective",
+      "example": "You are sure, aren't you?",
+      "exampleTranslation": "Ты уверен, не так ли?",
+      "audioPath": "assets/audio/vocabulary/v15_sure.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_sure.mp3"
+    },
+    {
+      "id": "v15_opposite",
+      "english": "opposite",
+      "russian": "противоположный",
+      "partOfSpeech": "adjective",
+      "example": "The tag is always opposite.",
+      "exampleTranslation": "Хвостик всегда противоположный.",
+      "audioPath": "assets/audio/vocabulary/v15_opposite.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_opposite.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "Question Tags",
+    "subtitle": "Короткие вопросы-хвостики в конце предложения. Используем, чтобы уточнить, подтвердить или выразить удивление.",
+    "construction": {
+      "formula": "Statement + opposite tag?",
+      "rules": [
+        {
+          "word": "Positive + negative tag",
+          "description": "You like coffee, don't you? She is smart, isn't she?"
+        },
+        {
+          "word": "Negative + positive tag",
+          "description": "You don't like tea, do you? He isn't here, is he?"
+        },
+        {
+          "word": "Вспомогательный глагол",
+          "description": "В tag используем тот же вспомогательный глагол: is/isn't, do/don't, can/can't, have/haven't."
+        },
+        {
+          "word": "Местоимение",
+          "description": "В tag всегда местоимение, а не имя: Tom is here, isn't he? (не isn't Tom)"
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "check_circle",
+        "color": "green",
+        "title": "Подтверждение",
+        "description": "Ожидаем, что собеседник согласится: «Правда?», «Да ведь?»",
+        "example": {
+          "english": "You like coffee, don't you?",
+          "russian": "Ты любишь кофе, правда?"
+        }
+      },
+      {
+        "icon": "waving_hand",
+        "color": "blue",
+        "title": "Вежливый вопрос",
+        "description": "Звучит мягче, чем прямой вопрос.",
+        "example": {
+          "english": "You are coming, aren't you?",
+          "russian": "Ты придёшь, да?"
+        }
+      },
+      {
+        "icon": "bolt",
+        "color": "orange",
+        "title": "Удивление",
+        "description": "Когда что-то неожиданно: «Неужели?», «Серьёзно?»",
+        "example": {
+          "english": "She won the prize, didn't she?",
+          "russian": "Она выиграла приз, правда?"
+        }
+      }
+    ],
+    "markers": [
+      "don't you",
+      "isn't it",
+      "aren't you",
+      "doesn't she",
+      "didn't they",
+      "can't we",
+      "won't he"
+    ]
+  },
+  "theoryQuiz": [
+    {
+      "id": "tq_15_01",
+      "type": "multipleChoice",
+      "question": "Какой tag подходит: \"You like music, ___?\"",
+      "options": [
+        "do you",
+        "don't you",
+        "aren't you",
+        "isn't it"
+      ],
+      "correctIndex": 1,
+      "explanation": "Утверждение (positive) -> отрицательный tag: don't you."
+    },
+    {
+      "id": "tq_15_02",
+      "type": "multipleChoice",
+      "question": "Какой tag подходит: \"She is coming, ___?\"",
+      "options": [
+        "is she",
+        "isn't she",
+        "doesn't she",
+        "does she"
+      ],
+      "correctIndex": 1,
+      "explanation": "She is (positive) -> отрицательный tag с тем же глаголом: isn't she."
+    },
+    {
+      "id": "tq_15_03",
+      "type": "trueFalse",
+      "question": "В question tag используется имя собеседника, а не местоимение.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "В tag всегда местоимение: Tom is here, isn't he? (не isn't Tom)."
+    },
+    {
+      "id": "tq_15_04",
+      "type": "multipleChoice",
+      "question": "Какой tag правильный: \"They don't know, ___?\"",
+      "options": [
+        "don't they",
+        "do they",
+        "aren't they",
+        "didn't they"
+      ],
+      "correctIndex": 1,
+      "explanation": "Отрицание (negative) -> положительный tag: do they."
+    },
+    {
+      "id": "tq_15_05",
+      "type": "multipleChoice",
+      "question": "Какой tag правильный: \"He can swim, ___?\"",
+      "options": [
+        "doesn't he",
+        "can he",
+        "can't he",
+        "isn't he"
+      ],
+      "correctIndex": 2,
+      "explanation": "He can (positive) -> отрицательный tag с тем же модальным: can't he."
+    },
+    {
+      "id": "tq_15_06",
+      "type": "trueFalse",
+      "question": "\"You are ready, aren't you?\" — предложение составлено правильно.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Верно. You are (positive) -> aren't you (negative tag)."
+    },
+    {
+      "id": "tq_15_07",
+      "type": "multipleChoice",
+      "question": "Какой tag правильный: \"She doesn't like tea, ___?\"",
+      "options": [
+        "doesn't she",
+        "does she",
+        "isn't she",
+        "is she"
+      ],
+      "correctIndex": 1,
+      "explanation": "She doesn't (negative) -> положительный tag: does she."
+    },
+    {
+      "id": "tq_15_08",
+      "type": "multipleChoice",
+      "question": "Какой tag правильный: \"It was cold, ___?\"",
+      "options": [
+        "was it",
+        "wasn't it",
+        "isn't it",
+        "is it"
+      ],
+      "correctIndex": 1,
+      "explanation": "It was (positive, past) -> отрицательный tag в прошедшем: wasn't it."
+    },
+    {
+      "id": "tq_15_09",
+      "type": "trueFalse",
+      "question": "Если основное предложение отрицательное, tag тоже отрицательный.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "Наоборот: отрицательное предложение -> положительный tag. You don't know, do you?"
+    },
+    {
+      "id": "tq_15_10",
+      "type": "multipleChoice",
+      "question": "Какой tag правильный: \"We should go, ___?\"",
+      "options": [
+        "don't we",
+        "shouldn't we",
+        "should we",
+        "won't we"
+      ],
+      "correctIndex": 1,
+      "explanation": "We should (positive) -> отрицательный tag с тем же модальным: shouldn't we."
+    }
+  ],
+  "tasks": [
+    {
+      "id": "t15_1",
+      "type": "sentenceAssembly",
+      "question": "Ты любишь кофе, правда?",
+      "correctAnswer": "You like coffee, don't you",
+      "options": [],
+      "variants": [
+        [
+          "You",
+          "He",
+          "She",
+          "They"
+        ],
+        [
+          "like",
+          "likes",
+          "liked",
+          "liking"
+        ],
+        [
+          "coffee,",
+          "tea,",
+          "milk,",
+          "water,"
+        ],
+        [
+          "don't",
+          "doesn't",
+          "isn't",
+          "aren't"
+        ],
+        [
+          "you",
+          "he",
+          "she",
+          "they"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_15_question_tags/000.mp3"
+    },
+    {
+      "id": "t15_2",
+      "type": "sentenceAssembly",
+      "question": "Она умная, не так ли?",
+      "correctAnswer": "She is smart, isn't she",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "They"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "were"
+        ],
+        [
+          "smart,",
+          "kind,",
+          "tall,",
+          "nice,"
+        ],
+        [
+          "isn't",
+          "aren't",
+          "doesn't",
+          "don't"
+        ],
+        [
+          "she",
+          "he",
+          "they",
+          "we"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_15_question_tags/001.mp3"
+    },
+    {
+      "id": "t15_3",
+      "type": "sentenceAssembly",
+      "question": "Они живут здесь, да?",
+      "correctAnswer": "They live here, don't they",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "We",
+          "He",
+          "She"
+        ],
+        [
+          "live",
+          "lives",
+          "lived",
+          "living"
+        ],
+        [
+          "here,",
+          "there,",
+          "near,",
+          "home,"
+        ],
+        [
+          "don't",
+          "doesn't",
+          "aren't",
+          "isn't"
+        ],
+        [
+          "they",
+          "we",
+          "he",
+          "she"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_15_question_tags/002.mp3"
+    },
+    {
+      "id": "t15_4",
+      "type": "sentenceAssembly",
+      "question": "Он говорит по-английски, правда?",
+      "correctAnswer": "He speaks English, doesn't he",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "I",
+          "They"
+        ],
+        [
+          "speaks",
+          "speak",
+          "spoke",
+          "speaking"
+        ],
+        [
+          "English,",
+          "French,",
+          "Spanish,",
+          "Russian,"
+        ],
+        [
+          "doesn't",
+          "don't",
+          "isn't",
+          "aren't"
+        ],
+        [
+          "he",
+          "she",
+          "they",
+          "we"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_15_question_tags/003.mp3"
+    },
+    {
+      "id": "t15_5",
+      "type": "sentenceAssembly",
+      "question": "Мы опаздываем, да?",
+      "correctAnswer": "We are late, aren't we",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "He",
+          "She"
+        ],
+        [
+          "are",
+          "is",
+          "was",
+          "were"
+        ],
+        [
+          "late,",
+          "early,",
+          "ready,",
+          "here,"
+        ],
+        [
+          "aren't",
+          "isn't",
+          "don't",
+          "doesn't"
+        ],
+        [
+          "we",
+          "they",
+          "he",
+          "she"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_15_question_tags/004.mp3"
+    },
+    {
+      "id": "t15_6",
+      "type": "sentenceAssembly",
+      "question": "Это красиво, правда?",
+      "correctAnswer": "It is beautiful, isn't it",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "He",
+          "She",
+          "This"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "were"
+        ],
+        [
+          "beautiful,",
+          "nice,",
+          "great,",
+          "good,"
+        ],
+        [
+          "isn't",
+          "aren't",
+          "doesn't",
+          "don't"
+        ],
+        [
+          "it",
+          "he",
+          "she",
+          "that"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_15_question_tags/005.mp3"
+    },
+    {
+      "id": "t15_7",
+      "type": "sentenceAssembly",
+      "question": "Ты готов, не так ли?",
+      "correctAnswer": "You are ready, aren't you",
+      "options": [],
+      "variants": [
+        [
+          "You",
+          "He",
+          "She",
+          "They"
+        ],
+        [
+          "are",
+          "is",
+          "was",
+          "were"
+        ],
+        [
+          "ready,",
+          "sure,",
+          "fine,",
+          "here,"
+        ],
+        [
+          "aren't",
+          "isn't",
+          "don't",
+          "doesn't"
+        ],
+        [
+          "you",
+          "he",
+          "she",
+          "they"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_15_question_tags/006.mp3"
+    },
+    {
+      "id": "t15_8",
+      "type": "sentenceAssembly",
+      "question": "Она помнит нас, правда?",
+      "correctAnswer": "She remembers us, doesn't she",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "They"
+        ],
+        [
+          "remembers",
+          "remember",
+          "remembered",
+          "remembering"
+        ],
+        [
+          "us,",
+          "them,",
+          "him,",
+          "her,"
+        ],
+        [
+          "doesn't",
+          "don't",
+          "isn't",
+          "aren't"
+        ],
+        [
+          "she",
+          "he",
+          "they",
+          "we"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_15_question_tags/007.mp3"
+    },
+    {
+      "id": "t15_9",
+      "type": "sentenceAssembly",
+      "question": "Том здесь, не так ли?",
+      "correctAnswer": "Tom is here, isn't he",
+      "options": [],
+      "variants": [
+        [
+          "Tom",
+          "She",
+          "They",
+          "We"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "were"
+        ],
+        [
+          "here,",
+          "there,",
+          "near,",
+          "ready,"
+        ],
+        [
+          "isn't",
+          "aren't",
+          "doesn't",
+          "don't"
+        ],
+        [
+          "he",
+          "she",
+          "they",
+          "it"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_15_question_tags/008.mp3"
+    },
+    {
+      "id": "t15_10",
+      "type": "sentenceAssembly",
+      "question": "Ты мне веришь, да?",
+      "correctAnswer": "You believe me, don't you",
+      "options": [],
+      "variants": [
+        [
+          "You",
+          "He",
+          "She",
+          "They"
+        ],
+        [
+          "believe",
+          "believes",
+          "believed",
+          "believing"
+        ],
+        [
+          "me,",
+          "him,",
+          "her,",
+          "us,"
+        ],
+        [
+          "don't",
+          "doesn't",
+          "aren't",
+          "isn't"
+        ],
+        [
+          "you",
+          "he",
+          "she",
+          "they"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_15_question_tags/009.mp3"
+    },
+    {
+      "id": "t15_11",
+      "type": "sentenceAssembly",
+      "question": "Он не знает, да?",
+      "correctAnswer": "He doesn't know, does he",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "I",
+          "They"
+        ],
+        [
+          "doesn't",
+          "don't",
+          "isn't",
+          "aren't"
+        ],
+        [
+          "know,",
+          "see,",
+          "hear,",
+          "think,"
+        ],
+        [
+          "does",
+          "do",
+          "is",
+          "are"
+        ],
+        [
+          "he",
+          "she",
+          "they",
+          "we"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_15_question_tags/010.mp3"
+    },
+    {
+      "id": "t15_12",
+      "type": "sentenceAssembly",
+      "question": "Они не пришли, правда?",
+      "correctAnswer": "They didn't come, did they",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "We",
+          "He",
+          "She"
+        ],
+        [
+          "didn't",
+          "don't",
+          "doesn't",
+          "aren't"
+        ],
+        [
+          "come,",
+          "go,",
+          "leave,",
+          "arrive,"
+        ],
+        [
+          "did",
+          "do",
+          "does",
+          "are"
+        ],
+        [
+          "they",
+          "we",
+          "he",
+          "she"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_15_question_tags/011.mp3"
+    },
+    {
+      "id": "t15_13",
+      "type": "sentenceAssembly",
+      "question": "Она не здесь, да?",
+      "correctAnswer": "She isn't here, is she",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "They"
+        ],
+        [
+          "isn't",
+          "aren't",
+          "doesn't",
+          "don't"
+        ],
+        [
+          "here,",
+          "there,",
+          "ready,",
+          "late,"
+        ],
+        [
+          "is",
+          "are",
+          "does",
+          "do"
+        ],
+        [
+          "she",
+          "he",
+          "they",
+          "we"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_15_question_tags/012.mp3"
+    },
+    {
+      "id": "t15_14",
+      "type": "sentenceAssembly",
+      "question": "Ты не помнишь, да?",
+      "correctAnswer": "You don't remember, do you",
+      "options": [],
+      "variants": [
+        [
+          "You",
+          "He",
+          "She",
+          "They"
+        ],
+        [
+          "don't",
+          "doesn't",
+          "aren't",
+          "isn't"
+        ],
+        [
+          "remember,",
+          "forget,",
+          "know,",
+          "see,"
+        ],
+        [
+          "do",
+          "does",
+          "are",
+          "is"
+        ],
+        [
+          "you",
+          "he",
+          "she",
+          "they"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_15_question_tags/013.mp3"
+    },
+    {
+      "id": "t15_15",
+      "type": "sentenceAssembly",
+      "question": "Мы не опаздываем, правда?",
+      "correctAnswer": "We aren't late, are we",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "He",
+          "She"
+        ],
+        [
+          "aren't",
+          "isn't",
+          "don't",
+          "doesn't"
+        ],
+        [
+          "late,",
+          "early,",
+          "ready,",
+          "here,"
+        ],
+        [
+          "are",
+          "is",
+          "do",
+          "does"
+        ],
+        [
+          "we",
+          "they",
+          "he",
+          "she"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_15_question_tags/014.mp3"
+    },
+    {
+      "id": "t15_16",
+      "type": "sentenceAssembly",
+      "question": "Он не может плавать, да?",
+      "correctAnswer": "He can't swim, can he",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "I",
+          "They"
+        ],
+        [
+          "can't",
+          "couldn't",
+          "doesn't",
+          "isn't"
+        ],
+        [
+          "swim,",
+          "run,",
+          "drive,",
+          "fly,"
+        ],
+        [
+          "can",
+          "could",
+          "does",
+          "is"
+        ],
+        [
+          "he",
+          "she",
+          "they",
+          "we"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_15_question_tags/015.mp3"
+    },
+    {
+      "id": "t15_17",
+      "type": "sentenceAssembly",
+      "question": "Она не работает здесь, да?",
+      "correctAnswer": "She doesn't work here, does she",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "They"
+        ],
+        [
+          "doesn't",
+          "don't",
+          "isn't",
+          "aren't"
+        ],
+        [
+          "work",
+          "live",
+          "study",
+          "teach"
+        ],
+        [
+          "here,",
+          "there,",
+          "near,",
+          "now,"
+        ],
+        [
+          "does",
+          "do",
+          "is",
+          "are"
+        ],
+        [
+          "she",
+          "he",
+          "they",
+          "we"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_15_question_tags/016.mp3"
+    },
+    {
+      "id": "t15_18",
+      "type": "sentenceAssembly",
+      "question": "Мы не забыли, правда?",
+      "correctAnswer": "We didn't forget, did we",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "He",
+          "She"
+        ],
+        [
+          "didn't",
+          "don't",
+          "doesn't",
+          "aren't"
+        ],
+        [
+          "forget,",
+          "remember,",
+          "know,",
+          "see,"
+        ],
+        [
+          "did",
+          "do",
+          "does",
+          "are"
+        ],
+        [
+          "we",
+          "they",
+          "he",
+          "she"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_15_question_tags/017.mp3"
+    },
+    {
+      "id": "t15_19",
+      "type": "sentenceAssembly",
+      "question": "Это не дорого, да?",
+      "correctAnswer": "It isn't expensive, is it",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "He",
+          "She",
+          "This"
+        ],
+        [
+          "isn't",
+          "aren't",
+          "doesn't",
+          "don't"
+        ],
+        [
+          "expensive,",
+          "cheap,",
+          "good,",
+          "bad,"
+        ],
+        [
+          "is",
+          "are",
+          "does",
+          "do"
+        ],
+        [
+          "it",
+          "he",
+          "she",
+          "that"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_15_question_tags/018.mp3"
+    },
+    {
+      "id": "t15_20",
+      "type": "sentenceAssembly",
+      "question": "Ты не уверен, правда?",
+      "correctAnswer": "You aren't sure, are you",
+      "options": [],
+      "variants": [
+        [
+          "You",
+          "He",
+          "She",
+          "They"
+        ],
+        [
+          "aren't",
+          "isn't",
+          "don't",
+          "doesn't"
+        ],
+        [
+          "sure,",
+          "ready,",
+          "right,",
+          "fine,"
+        ],
+        [
+          "are",
+          "is",
+          "do",
+          "does"
+        ],
+        [
+          "you",
+          "he",
+          "she",
+          "they"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_15_question_tags/019.mp3"
+    },
+    {
+      "id": "t15_21",
+      "type": "sentenceAssembly",
+      "question": "Было холодно, не так ли?",
+      "correctAnswer": "It was cold, wasn't it",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "He",
+          "She",
+          "They"
+        ],
+        [
+          "was",
+          "is",
+          "were",
+          "are"
+        ],
+        [
+          "cold,",
+          "warm,",
+          "hot,",
+          "nice,"
+        ],
+        [
+          "wasn't",
+          "isn't",
+          "weren't",
+          "aren't"
+        ],
+        [
+          "it",
+          "he",
+          "she",
+          "they"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_15_question_tags/020.mp3"
+    },
+    {
+      "id": "t15_22",
+      "type": "sentenceAssembly",
+      "question": "Они были счастливы, правда?",
+      "correctAnswer": "They were happy, weren't they",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "We",
+          "He",
+          "She"
+        ],
+        [
+          "were",
+          "was",
+          "are",
+          "is"
+        ],
+        [
+          "happy,",
+          "sad,",
+          "tired,",
+          "busy,"
+        ],
+        [
+          "weren't",
+          "wasn't",
+          "aren't",
+          "isn't"
+        ],
+        [
+          "they",
+          "we",
+          "he",
+          "she"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_15_question_tags/021.mp3"
+    },
+    {
+      "id": "t15_23",
+      "type": "sentenceAssembly",
+      "question": "Он умеет плавать, правда?",
+      "correctAnswer": "He can swim, can't he",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "I",
+          "They"
+        ],
+        [
+          "can",
+          "could",
+          "does",
+          "is"
+        ],
+        [
+          "swim,",
+          "run,",
+          "drive,",
+          "fly,"
+        ],
+        [
+          "can't",
+          "couldn't",
+          "doesn't",
+          "isn't"
+        ],
+        [
+          "he",
+          "she",
+          "they",
+          "we"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_15_question_tags/022.mp3"
+    },
+    {
+      "id": "t15_24",
+      "type": "sentenceAssembly",
+      "question": "Нам стоит уйти, да?",
+      "correctAnswer": "We should leave, shouldn't we",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "He",
+          "She"
+        ],
+        [
+          "should",
+          "could",
+          "would",
+          "must"
+        ],
+        [
+          "leave,",
+          "go,",
+          "stay,",
+          "wait,"
+        ],
+        [
+          "shouldn't",
+          "couldn't",
+          "wouldn't",
+          "mustn't"
+        ],
+        [
+          "we",
+          "they",
+          "he",
+          "she"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_15_question_tags/023.mp3"
+    },
+    {
+      "id": "t15_25",
+      "type": "sentenceAssembly",
+      "question": "Ты закончил работу, да?",
+      "correctAnswer": "You finished the work, didn't you",
+      "options": [],
+      "variants": [
+        [
+          "You",
+          "He",
+          "She",
+          "They"
+        ],
+        [
+          "finished",
+          "finish",
+          "finishes",
+          "finishing"
+        ],
+        [
+          "the",
+          "a",
+          "this",
+          "that"
+        ],
+        [
+          "work,",
+          "task,",
+          "job,",
+          "test,"
+        ],
+        [
+          "didn't",
+          "don't",
+          "doesn't",
+          "wasn't"
+        ],
+        [
+          "you",
+          "he",
+          "she",
+          "they"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_15_question_tags/024.mp3"
+    },
+    {
+      "id": "t15_26",
+      "type": "sentenceAssembly",
+      "question": "Она выиграла приз, правда?",
+      "correctAnswer": "She won the prize, didn't she",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "They"
+        ],
+        [
+          "won",
+          "win",
+          "wins",
+          "winning"
+        ],
+        [
+          "the",
+          "a",
+          "this",
+          "that"
+        ],
+        [
+          "prize,",
+          "game,",
+          "race,",
+          "match,"
+        ],
+        [
+          "didn't",
+          "doesn't",
+          "isn't",
+          "wasn't"
+        ],
+        [
+          "she",
+          "he",
+          "they",
+          "we"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_15_question_tags/025.mp3"
+    },
+    {
+      "id": "t15_27",
+      "type": "sentenceAssembly",
+      "question": "Он не придёт, правда?",
+      "correctAnswer": "He won't come, will he",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "I",
+          "They"
+        ],
+        [
+          "won't",
+          "doesn't",
+          "can't",
+          "isn't"
+        ],
+        [
+          "come,",
+          "go,",
+          "leave,",
+          "arrive,"
+        ],
+        [
+          "will",
+          "does",
+          "can",
+          "is"
+        ],
+        [
+          "he",
+          "she",
+          "they",
+          "we"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_15_question_tags/026.mp3"
+    },
+    {
+      "id": "t15_28",
+      "type": "sentenceAssembly",
+      "question": "Ты видел её, да?",
+      "correctAnswer": "You saw her, didn't you",
+      "options": [],
+      "variants": [
+        [
+          "You",
+          "He",
+          "She",
+          "They"
+        ],
+        [
+          "saw",
+          "see",
+          "sees",
+          "seeing"
+        ],
+        [
+          "her,",
+          "him,",
+          "them,",
+          "us,"
+        ],
+        [
+          "didn't",
+          "don't",
+          "doesn't",
+          "wasn't"
+        ],
+        [
+          "you",
+          "he",
+          "she",
+          "they"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_15_question_tags/027.mp3"
+    },
+    {
+      "id": "t15_29",
+      "type": "sentenceAssembly",
+      "question": "Поезд прибыл вовремя, да?",
+      "correctAnswer": "The train arrived on time, didn't it",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "This",
+          "That"
+        ],
+        [
+          "train",
+          "bus",
+          "plane",
+          "car"
+        ],
+        [
+          "arrived",
+          "arrive",
+          "arrives",
+          "arriving"
+        ],
+        [
+          "on",
+          "in",
+          "at",
+          "for"
+        ],
+        [
+          "time,",
+          "day,",
+          "date,",
+          "hour,"
+        ],
+        [
+          "didn't",
+          "doesn't",
+          "isn't",
+          "wasn't"
+        ],
+        [
+          "it",
+          "he",
+          "she",
+          "they"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_15_question_tags/028.mp3"
+    },
+    {
+      "id": "t15_30",
+      "type": "sentenceAssembly",
+      "question": "Тебе понравился фильм, правда?",
+      "correctAnswer": "You enjoyed the film, didn't you",
+      "options": [],
+      "variants": [
+        [
+          "You",
+          "He",
+          "She",
+          "They"
+        ],
+        [
+          "enjoyed",
+          "enjoy",
+          "enjoys",
+          "enjoying"
+        ],
+        [
+          "the",
+          "a",
+          "this",
+          "that"
+        ],
+        [
+          "film,",
+          "book,",
+          "show,",
+          "trip,"
+        ],
+        [
+          "didn't",
+          "don't",
+          "doesn't",
+          "wasn't"
+        ],
+        [
+          "you",
+          "he",
+          "she",
+          "they"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_15_question_tags/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionIntermediate15QuestionTags"
+}

@@ -1,0 +1,461 @@
+{
+  "id": "pre_listening_19_prepositions_of_time",
+  "title": "Prepositions of Time: in, on, at",
+  "description": "Слушайте и различайте предлоги времени in, on, at.",
+  "order": 19,
+  "level": "pre_intermediate",
+  "imageUrl": "assets/images/lessons/prepositions_of_time.png",
+  "tasks": [
+    {
+      "id": "t19_01",
+      "audioText": "I have an early start tomorrow. My meeting is at nine o'clock.",
+      "transcript": "My meeting is at nine o'clock.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The meeting is in the afternoon."
+        },
+        {
+          "id": "o2",
+          "text": "The meeting is at a specific time — nine."
+        },
+        {
+          "id": "o3",
+          "text": "The meeting is on Monday."
+        },
+        {
+          "id": "o4",
+          "text": "The meeting was yesterday at nine."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'At' is used with exact times: at nine o'clock.",
+      "mistakeTags": [
+        "office",
+        "prepositions_of_time"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_19_prepositions_of_time/t19_01.mp3"
+    },
+    {
+      "id": "t19_02",
+      "audioText": "We are planning a trip. We are going to Spain in July.",
+      "transcript": "We are going to Spain in July.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "They are going to Spain on a specific day."
+        },
+        {
+          "id": "o2",
+          "text": "They are going to Spain during the month of July."
+        },
+        {
+          "id": "o3",
+          "text": "They went to Spain last July."
+        },
+        {
+          "id": "o4",
+          "text": "They are going to France in July."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'In' is used with months: in July.",
+      "mistakeTags": [
+        "travel",
+        "prepositions_of_time"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_19_prepositions_of_time/t19_02.mp3"
+    },
+    {
+      "id": "t19_03",
+      "audioText": "I have a dentist appointment. It is on Wednesday this week.",
+      "transcript": "It is on Wednesday this week.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The appointment is at a specific hour."
+        },
+        {
+          "id": "o2",
+          "text": "The appointment is in the morning."
+        },
+        {
+          "id": "o3",
+          "text": "The appointment is on a specific day — Wednesday."
+        },
+        {
+          "id": "o4",
+          "text": "The appointment was last Wednesday."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'On' is used with days of the week: on Wednesday.",
+      "mistakeTags": [
+        "hospital",
+        "prepositions_of_time"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_19_prepositions_of_time/t19_03.mp3"
+    },
+    {
+      "id": "t19_04",
+      "audioText": "I love quiet hours. I usually read books at night.",
+      "transcript": "I usually read books at night.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The person reads in the morning."
+        },
+        {
+          "id": "o2",
+          "text": "The person reads during the night time."
+        },
+        {
+          "id": "o3",
+          "text": "The person reads on Sundays."
+        },
+        {
+          "id": "o4",
+          "text": "The person never reads."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'At night' means during the dark hours of the day.",
+      "mistakeTags": [
+        "home",
+        "prepositions_of_time"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_19_prepositions_of_time/t19_04.mp3"
+    },
+    {
+      "id": "t19_05",
+      "audioText": "My birthday is special this year. It is on the fifteenth of March.",
+      "transcript": "It is on the fifteenth of March.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The birthday is in March but no date is given."
+        },
+        {
+          "id": "o2",
+          "text": "The birthday is at three o'clock."
+        },
+        {
+          "id": "o3",
+          "text": "The birthday is on a specific date — March fifteenth."
+        },
+        {
+          "id": "o4",
+          "text": "The birthday was in February."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'On' is used with specific dates: on the fifteenth of March.",
+      "mistakeTags": [
+        "social",
+        "prepositions_of_time"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_19_prepositions_of_time/t19_05.mp3"
+    },
+    {
+      "id": "t19_06",
+      "audioText": "The weather is cold now. It always snows here in winter.",
+      "transcript": "It always snows here in winter.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "It snows during the winter season."
+        },
+        {
+          "id": "o2",
+          "text": "It snows on one specific day."
+        },
+        {
+          "id": "o3",
+          "text": "It snows at noon."
+        },
+        {
+          "id": "o4",
+          "text": "It never snows here."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'In winter' refers to the whole season.",
+      "mistakeTags": [
+        "outdoor",
+        "prepositions_of_time"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_19_prepositions_of_time/t19_06.mp3"
+    },
+    {
+      "id": "t19_07",
+      "audioText": "I enjoy mornings at the cafe. I always have breakfast at half past seven.",
+      "transcript": "I always have breakfast at half past seven.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Breakfast is in the afternoon."
+        },
+        {
+          "id": "o2",
+          "text": "Breakfast is on Saturdays only."
+        },
+        {
+          "id": "o3",
+          "text": "Breakfast is at a specific time — seven thirty."
+        },
+        {
+          "id": "o4",
+          "text": "The person skips breakfast."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'At half past seven' is a specific time — 7:30.",
+      "mistakeTags": [
+        "cafe",
+        "prepositions_of_time"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_19_prepositions_of_time/t19_07.mp3"
+    },
+    {
+      "id": "t19_08",
+      "audioText": "I am getting ready for work. I exercise in the morning before work.",
+      "transcript": "I exercise in the morning before work.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The person exercises at night."
+        },
+        {
+          "id": "o2",
+          "text": "The person exercises during the morning hours."
+        },
+        {
+          "id": "o3",
+          "text": "The person exercises on Fridays."
+        },
+        {
+          "id": "o4",
+          "text": "The person does not exercise."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'In the morning' means during the early part of the day.",
+      "mistakeTags": [
+        "gym",
+        "prepositions_of_time"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_19_prepositions_of_time/t19_08.mp3"
+    },
+    {
+      "id": "t19_09",
+      "audioText": "We have family traditions. We always have a big dinner on Christmas Day.",
+      "transcript": "We always have a big dinner on Christmas Day.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The family has dinner in December but no day is given."
+        },
+        {
+          "id": "o2",
+          "text": "The family has dinner at midnight."
+        },
+        {
+          "id": "o3",
+          "text": "The family does not celebrate Christmas."
+        },
+        {
+          "id": "o4",
+          "text": "The family has a big dinner on a specific holiday."
+        }
+      ],
+      "correctIndex": 3,
+      "explanation": "'On Christmas Day' uses 'on' for a specific named day.",
+      "mistakeTags": [
+        "home",
+        "prepositions_of_time"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_19_prepositions_of_time/t19_09.mp3"
+    },
+    {
+      "id": "t19_10",
+      "audioText": "I was born a long time ago. I was born in nineteen ninety-five.",
+      "transcript": "I was born in nineteen ninety-five.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The person was born on a specific date."
+        },
+        {
+          "id": "o2",
+          "text": "The person was born in the year 1995."
+        },
+        {
+          "id": "o3",
+          "text": "The person was born at five o'clock."
+        },
+        {
+          "id": "o4",
+          "text": "The person was born in 2005."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'In' is used with years: in nineteen ninety-five.",
+      "mistakeTags": [
+        "social",
+        "prepositions_of_time"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_19_prepositions_of_time/t19_10.mp3"
+    },
+    {
+      "id": "t19_11",
+      "audioText": "The city is quiet now. The shops close at six o'clock in the evening.",
+      "transcript": "The shops close at six o'clock in the evening.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The shops close at a specific time — six PM."
+        },
+        {
+          "id": "o2",
+          "text": "The shops close in the morning."
+        },
+        {
+          "id": "o3",
+          "text": "The shops are open all night."
+        },
+        {
+          "id": "o4",
+          "text": "The shops close on Sundays only."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'At six o'clock in the evening' combines a specific time with a part of the day.",
+      "mistakeTags": [
+        "shop",
+        "prepositions_of_time"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_19_prepositions_of_time/t19_11.mp3"
+    },
+    {
+      "id": "t19_12",
+      "audioText": "We have a school concert. It will be on Friday afternoon.",
+      "transcript": "It will be on Friday afternoon.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The concert is at noon exactly."
+        },
+        {
+          "id": "o2",
+          "text": "The concert is on a specific day — Friday."
+        },
+        {
+          "id": "o3",
+          "text": "The concert is in the summer."
+        },
+        {
+          "id": "o4",
+          "text": "The concert was last Friday."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'On Friday afternoon' uses 'on' with a specific day and time of day.",
+      "mistakeTags": [
+        "school",
+        "prepositions_of_time"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_19_prepositions_of_time/t19_12.mp3"
+    },
+    {
+      "id": "t19_13",
+      "audioText": "I work long hours during the week. I relax at the weekend.",
+      "transcript": "I relax at the weekend.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The person relaxes during Saturday and Sunday."
+        },
+        {
+          "id": "o2",
+          "text": "The person relaxes in the morning only."
+        },
+        {
+          "id": "o3",
+          "text": "The person relaxes on Mondays."
+        },
+        {
+          "id": "o4",
+          "text": "The person never relaxes."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'At the weekend' means during Saturday and Sunday.",
+      "mistakeTags": [
+        "home",
+        "prepositions_of_time"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_19_prepositions_of_time/t19_13.mp3"
+    },
+    {
+      "id": "t19_14",
+      "audioText": "I love autumn colours. The leaves change colour in October.",
+      "transcript": "The leaves change colour in October.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The leaves change on one specific day."
+        },
+        {
+          "id": "o2",
+          "text": "The leaves change during the month of October."
+        },
+        {
+          "id": "o3",
+          "text": "The leaves change at three o'clock."
+        },
+        {
+          "id": "o4",
+          "text": "The leaves change in summer."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'In October' uses 'in' with a month.",
+      "mistakeTags": [
+        "outdoor",
+        "prepositions_of_time"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_19_prepositions_of_time/t19_14.mp3"
+    },
+    {
+      "id": "t19_15",
+      "audioText": "Our flight is very early. The plane leaves at five in the morning.",
+      "transcript": "The plane leaves at five in the morning.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The plane departs at a specific early time — five AM."
+        },
+        {
+          "id": "o2",
+          "text": "The plane leaves in the evening."
+        },
+        {
+          "id": "o3",
+          "text": "The plane leaves on Monday."
+        },
+        {
+          "id": "o4",
+          "text": "The plane leaves at five PM."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'At five in the morning' means the departure is at 5:00 AM.",
+      "mistakeTags": [
+        "airport",
+        "prepositions_of_time"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_19_prepositions_of_time/t19_15.mp3"
+    }
+  ],
+  "short_description": "Prepositions of Time: in, on, at с временными выражениями"
+}

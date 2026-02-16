@@ -1,0 +1,2339 @@
+{
+  "id": "advanced_15_register",
+  "title": "Formal vs Informal Register",
+  "description": "Стилистический регистр: purchase vs buy, reside vs live, commence vs start. Переключение стилей.",
+  "short_description": "shortDescriptionAdvanced15Register",
+  "order": 15,
+  "level": "advanced",
+  "imageUrl": "assets/images/lessons/register.png",
+  "vocabulary": [
+    {
+      "id": "adv15_vocab_1",
+      "english": "purchase",
+      "russian": "приобретать (формальн.)",
+      "partOfSpeech": "verb",
+      "example": "We purchased the property last year.",
+      "exampleTranslation": "Мы приобрели эту недвижимость в прошлом году.",
+      "audioPath": "assets/audio/vocabulary/adv15_vocab_1.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/adv15_vocab_1.mp3"
+    },
+    {
+      "id": "adv15_vocab_2",
+      "english": "reside",
+      "russian": "проживать (формальн.)",
+      "partOfSpeech": "verb",
+      "example": "She resides in the capital city.",
+      "exampleTranslation": "Она проживает в столице.",
+      "audioPath": "assets/audio/vocabulary/adv15_vocab_2.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/adv15_vocab_2.mp3"
+    },
+    {
+      "id": "adv15_vocab_3",
+      "english": "commence",
+      "russian": "начинать (формальн.)",
+      "partOfSpeech": "verb",
+      "example": "The ceremony will commence at noon.",
+      "exampleTranslation": "Церемония начнётся в полдень.",
+      "audioPath": "assets/audio/vocabulary/adv15_vocab_3.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/adv15_vocab_3.mp3"
+    },
+    {
+      "id": "adv15_vocab_4",
+      "english": "enquire",
+      "russian": "осведомляться (формальн.)",
+      "partOfSpeech": "verb",
+      "example": "I am writing to enquire about your services.",
+      "exampleTranslation": "Пишу, чтобы осведомиться о ваших услугах.",
+      "audioPath": "assets/audio/vocabulary/adv15_vocab_4.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/adv15_vocab_4.mp3"
+    },
+    {
+      "id": "adv15_vocab_5",
+      "english": "assist",
+      "russian": "оказывать содействие (формальн.)",
+      "partOfSpeech": "verb",
+      "example": "We are happy to assist you with this matter.",
+      "exampleTranslation": "Мы рады оказать вам содействие в этом вопросе.",
+      "audioPath": "assets/audio/vocabulary/adv15_vocab_5.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/adv15_vocab_5.mp3"
+    },
+    {
+      "id": "adv15_vocab_6",
+      "english": "obtain",
+      "russian": "получать (формальн.)",
+      "partOfSpeech": "verb",
+      "example": "You must obtain permission before proceeding.",
+      "exampleTranslation": "Вы должны получить разрешение, прежде чем продолжить.",
+      "audioPath": "assets/audio/vocabulary/adv15_vocab_6.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/adv15_vocab_6.mp3"
+    },
+    {
+      "id": "adv15_vocab_7",
+      "english": "inform",
+      "russian": "уведомлять (формальн.)",
+      "partOfSpeech": "verb",
+      "example": "We wish to inform you of the changes.",
+      "exampleTranslation": "Мы хотим уведомить вас об изменениях.",
+      "audioPath": "assets/audio/vocabulary/adv15_vocab_7.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/adv15_vocab_7.mp3"
+    },
+    {
+      "id": "adv15_vocab_8",
+      "english": "require",
+      "russian": "требовать (формальн.)",
+      "partOfSpeech": "verb",
+      "example": "All applicants are required to submit documents.",
+      "exampleTranslation": "От всех заявителей требуется подать документы.",
+      "audioPath": "assets/audio/vocabulary/adv15_vocab_8.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/adv15_vocab_8.mp3"
+    },
+    {
+      "id": "adv15_vocab_9",
+      "english": "terminate",
+      "russian": "прекращать (формальн.)",
+      "partOfSpeech": "verb",
+      "example": "The contract was terminated by mutual agreement.",
+      "exampleTranslation": "Контракт был расторгнут по обоюдному согласию.",
+      "audioPath": "assets/audio/vocabulary/adv15_vocab_9.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/adv15_vocab_9.mp3"
+    },
+    {
+      "id": "adv15_vocab_10",
+      "english": "prior to",
+      "russian": "до / перед (формальн.)",
+      "partOfSpeech": "preposition",
+      "example": "Prior to the meeting, please review the agenda.",
+      "exampleTranslation": "До встречи, пожалуйста, ознакомьтесь с повесткой.",
+      "audioPath": "assets/audio/vocabulary/adv15_vocab_10.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/adv15_vocab_10.mp3"
+    },
+    {
+      "id": "adv15_vocab_11",
+      "english": "subsequent",
+      "russian": "последующий (формальн.)",
+      "partOfSpeech": "adjective",
+      "example": "Subsequent events confirmed our prediction.",
+      "exampleTranslation": "Последующие события подтвердили наш прогноз.",
+      "audioPath": "assets/audio/vocabulary/adv15_vocab_11.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/adv15_vocab_11.mp3"
+    },
+    {
+      "id": "adv15_vocab_12",
+      "english": "regarding",
+      "russian": "касательно (формальн.)",
+      "partOfSpeech": "preposition",
+      "example": "I am writing regarding your recent application.",
+      "exampleTranslation": "Пишу касательно вашего недавнего заявления.",
+      "audioPath": "assets/audio/vocabulary/adv15_vocab_12.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/adv15_vocab_12.mp3"
+    },
+    {
+      "id": "adv15_vocab_13",
+      "english": "nevertheless",
+      "russian": "тем не менее (формальн.)",
+      "partOfSpeech": "adverb",
+      "example": "The results were disappointing; nevertheless, we continued.",
+      "exampleTranslation": "Результаты были разочаровывающими; тем не менее мы продолжили.",
+      "audioPath": "assets/audio/vocabulary/adv15_vocab_13.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/adv15_vocab_13.mp3"
+    },
+    {
+      "id": "adv15_vocab_14",
+      "english": "furthermore",
+      "russian": "более того / кроме того (формальн.)",
+      "partOfSpeech": "adverb",
+      "example": "The plan is expensive; furthermore, it is impractical.",
+      "exampleTranslation": "План дорогостоящий; более того, он непрактичен.",
+      "audioPath": "assets/audio/vocabulary/adv15_vocab_14.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/adv15_vocab_14.mp3"
+    },
+    {
+      "id": "adv15_vocab_15",
+      "english": "colloquial",
+      "russian": "разговорный",
+      "partOfSpeech": "adjective",
+      "example": "This expression is too colloquial for a formal letter.",
+      "exampleTranslation": "Это выражение слишком разговорное для официального письма.",
+      "audioPath": "assets/audio/vocabulary/adv15_vocab_15.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/adv15_vocab_15.mp3"
+    },
+    {
+      "id": "adv15_vocab_16",
+      "english": "appropriate",
+      "russian": "уместный / подходящий",
+      "partOfSpeech": "adjective",
+      "example": "Please use language appropriate for the context.",
+      "exampleTranslation": "Пожалуйста, используйте язык, уместный для данного контекста.",
+      "audioPath": "assets/audio/vocabulary/adv15_vocab_16.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/adv15_vocab_16.mp3"
+    },
+    {
+      "id": "adv15_vocab_17",
+      "english": "convey",
+      "russian": "передавать / выражать (формальн.)",
+      "partOfSpeech": "verb",
+      "example": "I would like to convey my sincere gratitude.",
+      "exampleTranslation": "Я хотел бы выразить свою искреннюю благодарность.",
+      "audioPath": "assets/audio/vocabulary/adv15_vocab_17.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/adv15_vocab_17.mp3"
+    },
+    {
+      "id": "adv15_vocab_18",
+      "english": "consequently",
+      "russian": "следовательно / вследствие этого",
+      "partOfSpeech": "adverb",
+      "example": "He missed the deadline; consequently, he lost the contract.",
+      "exampleTranslation": "Он пропустил срок; вследствие этого он потерял контракт.",
+      "audioPath": "assets/audio/vocabulary/adv15_vocab_18.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/adv15_vocab_18.mp3"
+    }
+  ],
+  "theory": {
+    "title": "Formal vs Informal Register",
+    "content": "Регистр — это уровень формальности языка, который мы выбираем в зависимости от ситуации. В английском существует чёткое разделение между формальным (formal) и неформальным (informal) стилями.",
+    "useCases": [
+      {
+        "title": "Лексические пары: формальное vs разговорное",
+        "explanation": "В английском многие понятия имеют два варианта: латинский/французский корень (формально) и германский (разговорно). Выбор слова сигнализирует уровень формальности.",
+        "examples": [
+          "purchase → buy, reside → live, commence → start/begin",
+          "obtain → get, assist → help, enquire → ask",
+          "terminate → end/stop, inform → tell, require → need",
+          "prior to → before, subsequently → after that, regarding → about"
+        ]
+      },
+      {
+        "title": "Грамматические маркеры формального стиля",
+        "explanation": "Формальный регистр предпочитает пассивный залог, полные формы (do not вместо don't), сложные предложения и безличные конструкции. Неформальный стиль использует сокращения, фразовые глаголы и простые структуры.",
+        "examples": [
+          "Formal: It is recommended that you do not attend. → Informal: I'd skip it if I were you.",
+          "Formal: The meeting has been postponed. → Informal: They've put off the meeting.",
+          "Formal: One should consider the consequences. → Informal: You should think about what happens.",
+          "Formal: We regret to inform you... → Informal: Sorry, but..."
+        ]
+      },
+      {
+        "title": "Связующие слова и переходы",
+        "explanation": "Формальные тексты используют латинские коннекторы (furthermore, nevertheless, consequently), в то время как неформальная речь предпочитает простые связки (also, but, so).",
+        "examples": [
+          "Formal: Furthermore, the data supports... → Informal: Also, the data shows...",
+          "Formal: Nevertheless, we proceeded. → Informal: Still, we went ahead.",
+          "Formal: Consequently, the project was delayed. → Informal: So the project got delayed.",
+          "Formal: In addition to the above... → Informal: On top of that..."
+        ]
+      },
+      {
+        "title": "Контекст определяет регистр",
+        "explanation": "Академические работы, деловая переписка, юридические документы требуют формального регистра. Повседневное общение, переписка с друзьями и социальные сети — неформального. Ошибка в выборе регистра может звучать неуместно или даже грубо.",
+        "examples": [
+          "Job application: I am writing to enquire about the position. (formal ✓)",
+          "Text to friend: Hey, just asking about the job thing. (informal ✓)",
+          "Business email: We wish to inform you of changes. (formal ✓)",
+          "Chat message: Just letting you know things changed. (informal ✓)"
+        ]
+      }
+    ]
+  },
+  "theoryQuiz": [
+    {
+      "id": "adv15_quiz_1",
+      "type": "multipleChoice",
+      "question": "Какое слово является формальным эквивалентом 'buy'?",
+      "options": [
+        "purchase",
+        "get",
+        "grab",
+        "pick up"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "'Purchase' — формальный латинский эквивалент германского 'buy'. 'Get', 'grab', 'pick up' — разговорные варианты."
+    },
+    {
+      "id": "adv15_quiz_2",
+      "type": "multipleChoice",
+      "question": "Какой вариант подходит для делового письма?",
+      "options": [
+        "I am writing regarding your proposal.",
+        "Just writing about your thing.",
+        "Hey, about that proposal of yours.",
+        "Writing ya about the proposal stuff."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "'I am writing regarding...' использует формальные маркеры: полная форма глагола, предлог 'regarding' вместо 'about'."
+    },
+    {
+      "id": "adv15_quiz_3",
+      "type": "multipleChoice",
+      "question": "Какой коннектор типичен для формального стиля?",
+      "options": [
+        "nevertheless",
+        "but",
+        "still",
+        "anyway"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "'Nevertheless' — формальный латинский коннектор со значением 'тем не менее'. 'But', 'still', 'anyway' — разговорные."
+    },
+    {
+      "id": "adv15_quiz_4",
+      "type": "multipleChoice",
+      "question": "Какая грамматическая черта характерна для формального регистра?",
+      "options": [
+        "Пассивный залог и полные формы",
+        "Сокращения и фразовые глаголы",
+        "Простые предложения и слэнг",
+        "Восклицания и междометия"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Формальный регистр предпочитает пассивный залог (It was decided...), полные формы (do not), сложные предложения."
+    },
+    {
+      "id": "adv15_quiz_5",
+      "type": "multipleChoice",
+      "question": "Какое предложение использует НЕФОРМАЛЬНЫЙ регистр?",
+      "options": [
+        "They've put off the meeting till next week.",
+        "The meeting has been postponed until next week.",
+        "It has been decided to reschedule the meeting.",
+        "We wish to inform you of the schedule change."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "'They've put off' использует сокращение + фразовый глагол + 'till' — все признаки неформального регистра."
+    },
+    {
+      "id": "adv15_quiz_6",
+      "type": "multipleChoice",
+      "question": "Какой формальный глагол заменяет 'ask'?",
+      "options": [
+        "enquire",
+        "wonder",
+        "check",
+        "quiz"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "'Enquire' (или 'inquire') — формальный эквивалент 'ask' в значении 'осведомляться, наводить справки'."
+    },
+    {
+      "id": "adv15_quiz_7",
+      "type": "multipleChoice",
+      "question": "Какое предложение уместно в академической работе?",
+      "options": [
+        "Consequently, the hypothesis was rejected.",
+        "So basically they ditched the idea.",
+        "The idea kinda didn't work out.",
+        "Turns out the theory was wrong."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "'Consequently' + пассивный залог — маркеры академического формального стиля."
+    },
+    {
+      "id": "adv15_quiz_8",
+      "type": "trueFalse",
+      "question": "Фразовые глаголы (put off, look into, come up with) типичны для формального регистра.",
+      "correctAnswer": false,
+      "explanation": "Неверно. Фразовые глаголы — признак неформального стиля. Формальный регистр предпочитает однословные латинские глаголы: postpone, investigate, devise."
+    },
+    {
+      "id": "adv15_quiz_9",
+      "type": "trueFalse",
+      "question": "В деловом письме следует использовать полные формы (do not, I am) вместо сокращений (don't, I'm).",
+      "correctAnswer": true,
+      "explanation": "Верно. Полные формы — маркер формального стиля, обязательный в деловой переписке и официальных документах."
+    },
+    {
+      "id": "adv15_quiz_10",
+      "type": "trueFalse",
+      "question": "Слова 'regarding', 'furthermore', 'consequently' происходят из латыни и используются в формальном регистре.",
+      "correctAnswer": true,
+      "explanation": "Верно. Эти слова имеют латинские корни и являются типичными маркерами формального академического и делового стиля."
+    }
+  ],
+  "tasks": [
+    {
+      "id": "adv15_task_1",
+      "type": "sentenceAssembly",
+      "correctAnswer": "We wish to inform you of the changes.",
+      "translation": "Мы хотим уведомить вас об изменениях.",
+      "variants": [
+        [
+          "We",
+          "I",
+          "They",
+          "Us"
+        ],
+        [
+          "wish",
+          "want",
+          "wanna",
+          "gonna"
+        ],
+        [
+          "to",
+          "for",
+          "of",
+          "too"
+        ],
+        [
+          "inform",
+          "tell",
+          "say",
+          "let"
+        ],
+        [
+          "you",
+          "ya",
+          "yourself",
+          "yours"
+        ],
+        [
+          "of",
+          "about",
+          "on",
+          "with"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "them"
+        ],
+        [
+          "changes",
+          "stuff",
+          "things",
+          "change"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_15_register/000.mp3",
+      "question": "Составьте предложение в формальном регистре"
+    },
+    {
+      "id": "adv15_task_2",
+      "type": "sentenceAssembly",
+      "correctAnswer": "I am writing to enquire about your services.",
+      "translation": "Пишу, чтобы осведомиться о ваших услугах.",
+      "variants": [
+        [
+          "I",
+          "Me",
+          "We",
+          "Myself"
+        ],
+        [
+          "am",
+          "is",
+          "are",
+          "was"
+        ],
+        [
+          "writing",
+          "write",
+          "wrote",
+          "texting"
+        ],
+        [
+          "to",
+          "for",
+          "too",
+          "of"
+        ],
+        [
+          "enquire",
+          "ask",
+          "check",
+          "wonder"
+        ],
+        [
+          "about",
+          "of",
+          "regarding",
+          "on"
+        ],
+        [
+          "your",
+          "you",
+          "yours",
+          "ya"
+        ],
+        [
+          "services",
+          "stuff",
+          "things",
+          "service"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_15_register/001.mp3",
+      "question": "Составьте предложение в формальном регистре"
+    },
+    {
+      "id": "adv15_task_3",
+      "type": "sentenceAssembly",
+      "correctAnswer": "The meeting has been postponed until further notice.",
+      "translation": "Встреча перенесена до дальнейшего уведомления.",
+      "variants": [
+        [
+          "The",
+          "A",
+          "This",
+          "That"
+        ],
+        [
+          "meeting",
+          "meet",
+          "meetings",
+          "session"
+        ],
+        [
+          "has",
+          "have",
+          "had",
+          "is"
+        ],
+        [
+          "been",
+          "being",
+          "be",
+          "was"
+        ],
+        [
+          "postponed",
+          "put off",
+          "delayed",
+          "canceled"
+        ],
+        [
+          "until",
+          "till",
+          "to",
+          "by"
+        ],
+        [
+          "further",
+          "more",
+          "another",
+          "next"
+        ],
+        [
+          "notice",
+          "news",
+          "update",
+          "info"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_15_register/002.mp3",
+      "question": "Составьте предложение в формальном регистре"
+    },
+    {
+      "id": "adv15_task_4",
+      "type": "sentenceAssembly",
+      "correctAnswer": "All applicants are required to submit their documents.",
+      "translation": "От всех заявителей требуется подать свои документы.",
+      "variants": [
+        [
+          "All",
+          "Every",
+          "Each",
+          "Some"
+        ],
+        [
+          "applicants",
+          "people",
+          "guys",
+          "folks"
+        ],
+        [
+          "are",
+          "is",
+          "were",
+          "was"
+        ],
+        [
+          "required",
+          "need",
+          "got",
+          "supposed"
+        ],
+        [
+          "to",
+          "for",
+          "too",
+          "of"
+        ],
+        [
+          "submit",
+          "send",
+          "give",
+          "hand"
+        ],
+        [
+          "their",
+          "the",
+          "them",
+          "they"
+        ],
+        [
+          "documents",
+          "papers",
+          "stuff",
+          "docs"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_15_register/003.mp3",
+      "question": "Составьте предложение в формальном регистре"
+    },
+    {
+      "id": "adv15_task_5",
+      "type": "sentenceAssembly",
+      "correctAnswer": "We regret to inform you that your application was unsuccessful.",
+      "translation": "С сожалением сообщаем, что ваша заявка не была одобрена.",
+      "variants": [
+        [
+          "We",
+          "I",
+          "They",
+          "Us"
+        ],
+        [
+          "regret",
+          "sorry",
+          "hate",
+          "sad"
+        ],
+        [
+          "to",
+          "for",
+          "too",
+          "of"
+        ],
+        [
+          "inform",
+          "tell",
+          "say",
+          "let"
+        ],
+        [
+          "you",
+          "ya",
+          "yourself",
+          "u"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "this"
+        ],
+        [
+          "your",
+          "you",
+          "the",
+          "ya"
+        ],
+        [
+          "application",
+          "app",
+          "thing",
+          "request"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "been"
+        ],
+        [
+          "unsuccessful",
+          "bad",
+          "rejected",
+          "failed"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_15_register/004.mp3",
+      "question": "Составьте предложение в формальном регистре"
+    },
+    {
+      "id": "adv15_task_6",
+      "type": "sentenceAssembly",
+      "correctAnswer": "Please do not hesitate to contact us.",
+      "translation": "Не стесняйтесь обращаться к нам.",
+      "variants": [
+        [
+          "Please",
+          "Pls",
+          "Just",
+          "Hey"
+        ],
+        [
+          "do",
+          "does",
+          "did",
+          "don't"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "none"
+        ],
+        [
+          "hesitate",
+          "wait",
+          "hold",
+          "stop"
+        ],
+        [
+          "to",
+          "for",
+          "too",
+          "of"
+        ],
+        [
+          "contact",
+          "call",
+          "hit up",
+          "text"
+        ],
+        [
+          "us",
+          "we",
+          "our",
+          "me"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_15_register/005.mp3",
+      "question": "Составьте предложение в формальном регистре"
+    },
+    {
+      "id": "adv15_task_7",
+      "type": "sentenceAssembly",
+      "correctAnswer": "The company wishes to convey its sincere gratitude.",
+      "translation": "Компания желает выразить свою искреннюю благодарность.",
+      "variants": [
+        [
+          "The",
+          "A",
+          "Our",
+          "This"
+        ],
+        [
+          "company",
+          "firm",
+          "guys",
+          "people"
+        ],
+        [
+          "wishes",
+          "wants",
+          "wanna",
+          "likes"
+        ],
+        [
+          "to",
+          "for",
+          "too",
+          "of"
+        ],
+        [
+          "convey",
+          "say",
+          "show",
+          "give"
+        ],
+        [
+          "its",
+          "it's",
+          "their",
+          "the"
+        ],
+        [
+          "sincere",
+          "big",
+          "real",
+          "honest"
+        ],
+        [
+          "gratitude",
+          "thanks",
+          "cheers",
+          "appreciation"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_15_register/006.mp3",
+      "question": "Составьте предложение в формальном регистре"
+    },
+    {
+      "id": "adv15_task_8",
+      "type": "sentenceAssembly",
+      "correctAnswer": "You must obtain permission prior to commencing work.",
+      "translation": "Вы должны получить разрешение до начала работ.",
+      "variants": [
+        [
+          "You",
+          "Ya",
+          "We",
+          "They"
+        ],
+        [
+          "must",
+          "gotta",
+          "should",
+          "need"
+        ],
+        [
+          "obtain",
+          "get",
+          "grab",
+          "pick up"
+        ],
+        [
+          "permission",
+          "okay",
+          "approval",
+          "permit"
+        ],
+        [
+          "prior",
+          "before",
+          "ahead",
+          "earlier"
+        ],
+        [
+          "to",
+          "of",
+          "for",
+          "than"
+        ],
+        [
+          "commencing",
+          "starting",
+          "beginning",
+          "doing"
+        ],
+        [
+          "work",
+          "working",
+          "stuff",
+          "job"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_15_register/007.mp3",
+      "question": "Составьте предложение в формальном регистре"
+    },
+    {
+      "id": "adv15_task_9",
+      "type": "sentenceAssembly",
+      "correctAnswer": "Furthermore, the evidence supports our initial hypothesis.",
+      "translation": "Более того, доказательства подтверждают нашу первоначальную гипотезу.",
+      "variants": [
+        [
+          "Furthermore",
+          "Also",
+          "Plus",
+          "And"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "this"
+        ],
+        [
+          "evidence",
+          "proof",
+          "stuff",
+          "data"
+        ],
+        [
+          "supports",
+          "backs up",
+          "shows",
+          "proves"
+        ],
+        [
+          "our",
+          "the",
+          "my",
+          "them"
+        ],
+        [
+          "initial",
+          "first",
+          "early",
+          "starting"
+        ],
+        [
+          "hypothesis",
+          "idea",
+          "guess",
+          "theory"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_15_register/008.mp3",
+      "question": "Составьте предложение в формальном регистре"
+    },
+    {
+      "id": "adv15_task_10",
+      "type": "sentenceAssembly",
+      "correctAnswer": "The contract was terminated by mutual agreement.",
+      "translation": "Контракт был расторгнут по обоюдному согласию.",
+      "variants": [
+        [
+          "The",
+          "A",
+          "This",
+          "That"
+        ],
+        [
+          "contract",
+          "deal",
+          "thing",
+          "arrangement"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "got"
+        ],
+        [
+          "terminated",
+          "ended",
+          "killed",
+          "stopped"
+        ],
+        [
+          "by",
+          "with",
+          "through",
+          "from"
+        ],
+        [
+          "mutual",
+          "both",
+          "shared",
+          "common"
+        ],
+        [
+          "agreement",
+          "okay",
+          "deal",
+          "consent"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_15_register/009.mp3",
+      "question": "Составьте предложение в формальном регистре"
+    },
+    {
+      "id": "adv15_task_11",
+      "type": "sentenceAssembly",
+      "correctAnswer": "It has come to our attention that errors have occurred.",
+      "translation": "До нашего сведения дошло, что произошли ошибки.",
+      "variants": [
+        [
+          "It",
+          "There",
+          "This",
+          "That"
+        ],
+        [
+          "has",
+          "have",
+          "had",
+          "is"
+        ],
+        [
+          "come",
+          "came",
+          "comes",
+          "gotten"
+        ],
+        [
+          "to",
+          "for",
+          "into",
+          "at"
+        ],
+        [
+          "our",
+          "my",
+          "the",
+          "their"
+        ],
+        [
+          "attention",
+          "notice",
+          "eyes",
+          "knowledge"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "how"
+        ],
+        [
+          "errors",
+          "mistakes",
+          "mess-ups",
+          "problems"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "are"
+        ],
+        [
+          "occurred",
+          "happened",
+          "come up",
+          "showed"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_15_register/010.mp3",
+      "question": "Составьте предложение в формальном регистре"
+    },
+    {
+      "id": "adv15_task_12",
+      "type": "sentenceAssembly",
+      "correctAnswer": "We would appreciate it if you could respond promptly.",
+      "translation": "Мы были бы признательны, если бы вы ответили оперативно.",
+      "variants": [
+        [
+          "We",
+          "I",
+          "They",
+          "Us"
+        ],
+        [
+          "would",
+          "will",
+          "could",
+          "can"
+        ],
+        [
+          "appreciate",
+          "like",
+          "love",
+          "want"
+        ],
+        [
+          "it",
+          "that",
+          "this",
+          "things"
+        ],
+        [
+          "if",
+          "when",
+          "whether",
+          "once"
+        ],
+        [
+          "you",
+          "ya",
+          "they",
+          "we"
+        ],
+        [
+          "could",
+          "can",
+          "would",
+          "will"
+        ],
+        [
+          "respond",
+          "reply",
+          "get back",
+          "answer"
+        ],
+        [
+          "promptly",
+          "quickly",
+          "fast",
+          "ASAP"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_15_register/011.mp3",
+      "question": "Составьте предложение в формальном регистре"
+    },
+    {
+      "id": "adv15_task_13",
+      "type": "sentenceAssembly",
+      "correctAnswer": "Subsequent investigations revealed significant discrepancies in the data.",
+      "translation": "Последующие расследования выявили значительные расхождения в данных.",
+      "variants": [
+        [
+          "Subsequent",
+          "Later",
+          "Next",
+          "Following"
+        ],
+        [
+          "investigations",
+          "checks",
+          "look-ins",
+          "searches"
+        ],
+        [
+          "revealed",
+          "showed",
+          "found",
+          "uncovered"
+        ],
+        [
+          "significant",
+          "big",
+          "major",
+          "huge"
+        ],
+        [
+          "discrepancies",
+          "differences",
+          "gaps",
+          "issues"
+        ],
+        [
+          "in",
+          "with",
+          "on",
+          "at"
+        ],
+        [
+          "the",
+          "some",
+          "a",
+          "this"
+        ],
+        [
+          "data",
+          "info",
+          "numbers",
+          "stuff"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_15_register/012.mp3",
+      "question": "Составьте предложение в формальном регистре"
+    },
+    {
+      "id": "adv15_task_14",
+      "type": "sentenceAssembly",
+      "correctAnswer": "I would like to express my deepest condolences.",
+      "translation": "Я хотел бы выразить мои глубочайшие соболезнования.",
+      "variants": [
+        [
+          "I",
+          "We",
+          "Me",
+          "Myself"
+        ],
+        [
+          "would",
+          "will",
+          "could",
+          "wanna"
+        ],
+        [
+          "like",
+          "love",
+          "want",
+          "wish"
+        ],
+        [
+          "to",
+          "for",
+          "too",
+          "of"
+        ],
+        [
+          "express",
+          "say",
+          "show",
+          "give"
+        ],
+        [
+          "my",
+          "mine",
+          "me",
+          "the"
+        ],
+        [
+          "deepest",
+          "deep",
+          "biggest",
+          "real"
+        ],
+        [
+          "condolences",
+          "sorry",
+          "sympathies",
+          "feelings"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_15_register/013.mp3",
+      "question": "Составьте предложение в формальном регистре"
+    },
+    {
+      "id": "adv15_task_15",
+      "type": "sentenceAssembly",
+      "correctAnswer": "Nevertheless, the committee decided to proceed with the proposal.",
+      "translation": "Тем не менее комитет решил продолжить работу над предложением.",
+      "variants": [
+        [
+          "Nevertheless",
+          "But",
+          "Still",
+          "Anyway"
+        ],
+        [
+          "the",
+          "a",
+          "this",
+          "our"
+        ],
+        [
+          "committee",
+          "group",
+          "team",
+          "guys"
+        ],
+        [
+          "decided",
+          "chose",
+          "went",
+          "picked"
+        ],
+        [
+          "to",
+          "for",
+          "too",
+          "of"
+        ],
+        [
+          "proceed",
+          "go on",
+          "carry on",
+          "keep going"
+        ],
+        [
+          "with",
+          "on",
+          "about",
+          "for"
+        ],
+        [
+          "the",
+          "a",
+          "this",
+          "that"
+        ],
+        [
+          "proposal",
+          "idea",
+          "thing",
+          "plan"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_15_register/014.mp3",
+      "question": "Составьте предложение в формальном регистре"
+    },
+    {
+      "id": "adv15_task_16",
+      "type": "sentenceAssembly",
+      "correctAnswer": "Your cooperation in this matter is greatly appreciated.",
+      "translation": "Ваше сотрудничество в этом вопросе высоко ценится.",
+      "variants": [
+        [
+          "Your",
+          "You",
+          "Ya",
+          "Yours"
+        ],
+        [
+          "cooperation",
+          "help",
+          "support",
+          "teamwork"
+        ],
+        [
+          "in",
+          "on",
+          "with",
+          "at"
+        ],
+        [
+          "this",
+          "the",
+          "that",
+          "a"
+        ],
+        [
+          "matter",
+          "thing",
+          "issue",
+          "stuff"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "were"
+        ],
+        [
+          "greatly",
+          "really",
+          "super",
+          "very"
+        ],
+        [
+          "appreciated",
+          "liked",
+          "loved",
+          "valued"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_15_register/015.mp3",
+      "question": "Составьте предложение в формальном регистре"
+    },
+    {
+      "id": "adv15_task_17",
+      "type": "sentenceAssembly",
+      "correctAnswer": "I am writing to request a meeting at your earliest convenience.",
+      "translation": "Пишу с просьбой о встрече при первой удобной возможности.",
+      "variants": [
+        [
+          "I",
+          "We",
+          "Me",
+          "Myself"
+        ],
+        [
+          "am",
+          "is",
+          "are",
+          "was"
+        ],
+        [
+          "writing",
+          "texting",
+          "messaging",
+          "emailing"
+        ],
+        [
+          "to",
+          "for",
+          "too",
+          "of"
+        ],
+        [
+          "request",
+          "ask for",
+          "want",
+          "need"
+        ],
+        [
+          "a",
+          "the",
+          "some",
+          "this"
+        ],
+        [
+          "meeting",
+          "meet",
+          "chat",
+          "talk"
+        ],
+        [
+          "at",
+          "in",
+          "on",
+          "for"
+        ],
+        [
+          "your",
+          "you",
+          "ya",
+          "the"
+        ],
+        [
+          "earliest",
+          "first",
+          "soonest",
+          "quickest"
+        ],
+        [
+          "convenience",
+          "chance",
+          "time",
+          "moment"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_15_register/016.mp3",
+      "question": "Составьте предложение в формальном регистре"
+    },
+    {
+      "id": "adv15_task_18",
+      "type": "sentenceAssembly",
+      "correctAnswer": "Consequently, the project timeline has been revised accordingly.",
+      "translation": "Вследствие этого сроки проекта были соответствующим образом пересмотрены.",
+      "variants": [
+        [
+          "Consequently",
+          "So",
+          "Therefore",
+          "Thus"
+        ],
+        [
+          "the",
+          "a",
+          "our",
+          "this"
+        ],
+        [
+          "project",
+          "work",
+          "job",
+          "plan"
+        ],
+        [
+          "timeline",
+          "schedule",
+          "dates",
+          "time"
+        ],
+        [
+          "has",
+          "have",
+          "had",
+          "is"
+        ],
+        [
+          "been",
+          "being",
+          "be",
+          "got"
+        ],
+        [
+          "revised",
+          "changed",
+          "fixed",
+          "updated"
+        ],
+        [
+          "accordingly",
+          "too",
+          "also",
+          "properly"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_15_register/017.mp3",
+      "question": "Составьте предложение в формальном регистре"
+    },
+    {
+      "id": "adv15_task_19",
+      "type": "sentenceAssembly",
+      "correctAnswer": "It is imperative that all participants adhere to the guidelines.",
+      "translation": "Крайне необходимо, чтобы все участники соблюдали руководящие принципы.",
+      "variants": [
+        [
+          "It",
+          "This",
+          "That",
+          "There"
+        ],
+        [
+          "is",
+          "was",
+          "are",
+          "were"
+        ],
+        [
+          "imperative",
+          "important",
+          "crucial",
+          "key"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "for"
+        ],
+        [
+          "all",
+          "every",
+          "each",
+          "the"
+        ],
+        [
+          "participants",
+          "people",
+          "guys",
+          "members"
+        ],
+        [
+          "adhere",
+          "stick",
+          "follow",
+          "keep"
+        ],
+        [
+          "to",
+          "with",
+          "by",
+          "for"
+        ],
+        [
+          "the",
+          "a",
+          "our",
+          "these"
+        ],
+        [
+          "guidelines",
+          "rules",
+          "stuff",
+          "things"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_15_register/018.mp3",
+      "question": "Составьте предложение в формальном регистре"
+    },
+    {
+      "id": "adv15_task_20",
+      "type": "sentenceAssembly",
+      "correctAnswer": "We hereby acknowledge receipt of your correspondence dated March fifth.",
+      "translation": "Настоящим подтверждаем получение вашей корреспонденции от пятого марта.",
+      "variants": [
+        [
+          "We",
+          "I",
+          "They",
+          "Us"
+        ],
+        [
+          "hereby",
+          "here",
+          "now",
+          "officially"
+        ],
+        [
+          "acknowledge",
+          "confirm",
+          "got",
+          "received"
+        ],
+        [
+          "receipt",
+          "receiving",
+          "getting",
+          "delivery"
+        ],
+        [
+          "of",
+          "for",
+          "from",
+          "about"
+        ],
+        [
+          "your",
+          "you",
+          "ya",
+          "the"
+        ],
+        [
+          "correspondence",
+          "letter",
+          "email",
+          "message"
+        ],
+        [
+          "dated",
+          "from",
+          "on",
+          "of"
+        ],
+        [
+          "March",
+          "march",
+          "Mar",
+          "3rd"
+        ],
+        [
+          "fifth",
+          "five",
+          "5",
+          "5th"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_15_register/019.mp3",
+      "question": "Составьте предложение в формальном регистре"
+    },
+    {
+      "id": "adv15_task_21",
+      "type": "sentenceAssembly",
+      "correctAnswer": "Notwithstanding the challenges, the organization remained committed to its objectives.",
+      "translation": "Несмотря на трудности, организация оставалась верна своим целям.",
+      "variants": [
+        [
+          "Notwithstanding",
+          "Despite",
+          "Although",
+          "Even though"
+        ],
+        [
+          "the",
+          "some",
+          "all",
+          "these"
+        ],
+        [
+          "challenges",
+          "problems",
+          "issues",
+          "troubles"
+        ],
+        [
+          "the",
+          "our",
+          "this",
+          "a"
+        ],
+        [
+          "organization",
+          "company",
+          "group",
+          "team"
+        ],
+        [
+          "remained",
+          "stayed",
+          "kept",
+          "was"
+        ],
+        [
+          "committed",
+          "dedicated",
+          "loyal",
+          "true"
+        ],
+        [
+          "to",
+          "for",
+          "with",
+          "about"
+        ],
+        [
+          "its",
+          "it's",
+          "their",
+          "the"
+        ],
+        [
+          "objectives",
+          "goals",
+          "targets",
+          "aims"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_15_register/020.mp3",
+      "question": "Составьте предложение в формальном регистре"
+    },
+    {
+      "id": "adv15_task_22",
+      "type": "sentenceAssembly",
+      "correctAnswer": "The aforementioned issues have been addressed in the revised proposal.",
+      "translation": "Вышеупомянутые проблемы были рассмотрены в пересмотренном предложении.",
+      "variants": [
+        [
+          "The",
+          "Those",
+          "These",
+          "Some"
+        ],
+        [
+          "aforementioned",
+          "above",
+          "said",
+          "previous"
+        ],
+        [
+          "issues",
+          "problems",
+          "things",
+          "stuff"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "are"
+        ],
+        [
+          "been",
+          "being",
+          "be",
+          "got"
+        ],
+        [
+          "addressed",
+          "fixed",
+          "dealt with",
+          "sorted"
+        ],
+        [
+          "in",
+          "on",
+          "at",
+          "by"
+        ],
+        [
+          "the",
+          "a",
+          "our",
+          "this"
+        ],
+        [
+          "revised",
+          "new",
+          "updated",
+          "changed"
+        ],
+        [
+          "proposal",
+          "plan",
+          "document",
+          "paper"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_15_register/021.mp3",
+      "question": "Составьте предложение в формальном регистре"
+    },
+    {
+      "id": "adv15_task_23",
+      "type": "sentenceAssembly",
+      "correctAnswer": "I would be grateful if you could furnish us with the requisite information.",
+      "translation": "Я был бы благодарен, если бы вы предоставили нам необходимую информацию.",
+      "variants": [
+        [
+          "I",
+          "We",
+          "Me",
+          "Myself"
+        ],
+        [
+          "would",
+          "will",
+          "could",
+          "can"
+        ],
+        [
+          "be",
+          "been",
+          "being",
+          "am"
+        ],
+        [
+          "grateful",
+          "thankful",
+          "happy",
+          "glad"
+        ],
+        [
+          "if",
+          "when",
+          "whether",
+          "once"
+        ],
+        [
+          "you",
+          "ya",
+          "they",
+          "we"
+        ],
+        [
+          "could",
+          "can",
+          "would",
+          "will"
+        ],
+        [
+          "furnish",
+          "give",
+          "provide",
+          "send"
+        ],
+        [
+          "us",
+          "me",
+          "we",
+          "them"
+        ],
+        [
+          "with",
+          "to",
+          "for",
+          "about"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "this"
+        ],
+        [
+          "requisite",
+          "needed",
+          "required",
+          "necessary"
+        ],
+        [
+          "information",
+          "info",
+          "details",
+          "stuff"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_15_register/022.mp3",
+      "question": "Составьте предложение в формальном регистре"
+    },
+    {
+      "id": "adv15_task_24",
+      "type": "sentenceAssembly",
+      "correctAnswer": "In light of recent developments, the policy has been amended.",
+      "translation": "В свете недавних событий политика была изменена.",
+      "variants": [
+        [
+          "In",
+          "With",
+          "By",
+          "At"
+        ],
+        [
+          "light",
+          "view",
+          "terms",
+          "face"
+        ],
+        [
+          "of",
+          "from",
+          "about",
+          "for"
+        ],
+        [
+          "recent",
+          "new",
+          "latest",
+          "last"
+        ],
+        [
+          "developments",
+          "events",
+          "changes",
+          "news"
+        ],
+        [
+          "the",
+          "a",
+          "our",
+          "this"
+        ],
+        [
+          "policy",
+          "rule",
+          "plan",
+          "thing"
+        ],
+        [
+          "has",
+          "have",
+          "had",
+          "was"
+        ],
+        [
+          "been",
+          "being",
+          "be",
+          "got"
+        ],
+        [
+          "amended",
+          "changed",
+          "fixed",
+          "updated"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_15_register/023.mp3",
+      "question": "Составьте предложение в формальном регистре"
+    },
+    {
+      "id": "adv15_task_25",
+      "type": "sentenceAssembly",
+      "correctAnswer": "It is with great pleasure that we announce your appointment.",
+      "translation": "С большим удовольствием объявляем о вашем назначении.",
+      "variants": [
+        [
+          "It",
+          "This",
+          "That",
+          "There"
+        ],
+        [
+          "is",
+          "was",
+          "are",
+          "were"
+        ],
+        [
+          "with",
+          "in",
+          "by",
+          "of"
+        ],
+        [
+          "great",
+          "big",
+          "huge",
+          "real"
+        ],
+        [
+          "pleasure",
+          "joy",
+          "happiness",
+          "fun"
+        ],
+        [
+          "that",
+          "which",
+          "what",
+          "when"
+        ],
+        [
+          "we",
+          "I",
+          "they",
+          "us"
+        ],
+        [
+          "announce",
+          "say",
+          "tell",
+          "share"
+        ],
+        [
+          "your",
+          "you",
+          "the",
+          "ya"
+        ],
+        [
+          "appointment",
+          "job",
+          "position",
+          "role"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_15_register/024.mp3",
+      "question": "Составьте предложение в формальном регистре"
+    },
+    {
+      "id": "adv15_task_26",
+      "type": "sentenceAssembly",
+      "correctAnswer": "Should you require any further assistance, please do not hesitate to contact us.",
+      "translation": "Если вам потребуется дополнительная помощь, не стесняйтесь обращаться к нам.",
+      "variants": [
+        [
+          "Should",
+          "If",
+          "When",
+          "Once"
+        ],
+        [
+          "you",
+          "ya",
+          "they",
+          "we"
+        ],
+        [
+          "require",
+          "need",
+          "want",
+          "got"
+        ],
+        [
+          "any",
+          "some",
+          "more",
+          "the"
+        ],
+        [
+          "further",
+          "more",
+          "extra",
+          "other"
+        ],
+        [
+          "assistance",
+          "help",
+          "support",
+          "aid"
+        ],
+        [
+          "please",
+          "pls",
+          "just",
+          "then"
+        ],
+        [
+          "do",
+          "does",
+          "did",
+          "don't"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "none"
+        ],
+        [
+          "hesitate",
+          "wait",
+          "hold",
+          "pause"
+        ],
+        [
+          "to",
+          "for",
+          "too",
+          "of"
+        ],
+        [
+          "contact",
+          "call",
+          "reach",
+          "text"
+        ],
+        [
+          "us",
+          "me",
+          "we",
+          "them"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_15_register/025.mp3",
+      "question": "Составьте предложение в формальном регистре"
+    },
+    {
+      "id": "adv15_task_27",
+      "type": "sentenceAssembly",
+      "correctAnswer": "The board unanimously resolved to implement the proposed amendments forthwith.",
+      "translation": "Правление единогласно решило немедленно внедрить предложенные поправки.",
+      "variants": [
+        [
+          "The",
+          "A",
+          "Our",
+          "This"
+        ],
+        [
+          "board",
+          "group",
+          "team",
+          "bosses"
+        ],
+        [
+          "unanimously",
+          "all",
+          "together",
+          "fully"
+        ],
+        [
+          "resolved",
+          "decided",
+          "chose",
+          "agreed"
+        ],
+        [
+          "to",
+          "for",
+          "too",
+          "of"
+        ],
+        [
+          "implement",
+          "do",
+          "start",
+          "make"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "those"
+        ],
+        [
+          "proposed",
+          "suggested",
+          "new",
+          "planned"
+        ],
+        [
+          "amendments",
+          "changes",
+          "fixes",
+          "updates"
+        ],
+        [
+          "forthwith",
+          "now",
+          "quickly",
+          "soon"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_15_register/026.mp3",
+      "question": "Составьте предложение в формальном регистре"
+    },
+    {
+      "id": "adv15_task_28",
+      "type": "sentenceAssembly",
+      "correctAnswer": "We respectfully decline the offer and wish you every success.",
+      "translation": "Мы с уважением отклоняем предложение и желаем вам всяческих успехов.",
+      "variants": [
+        [
+          "We",
+          "I",
+          "They",
+          "Us"
+        ],
+        [
+          "respectfully",
+          "politely",
+          "kindly",
+          "nicely"
+        ],
+        [
+          "decline",
+          "reject",
+          "refuse",
+          "pass on"
+        ],
+        [
+          "the",
+          "your",
+          "this",
+          "that"
+        ],
+        [
+          "offer",
+          "deal",
+          "thing",
+          "proposal"
+        ],
+        [
+          "and",
+          "but",
+          "yet",
+          "while"
+        ],
+        [
+          "wish",
+          "hope",
+          "want",
+          "desire"
+        ],
+        [
+          "you",
+          "ya",
+          "them",
+          "everyone"
+        ],
+        [
+          "every",
+          "all",
+          "much",
+          "great"
+        ],
+        [
+          "success",
+          "luck",
+          "best",
+          "good"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_15_register/027.mp3",
+      "question": "Составьте предложение в формальном регистре"
+    },
+    {
+      "id": "adv15_task_29",
+      "type": "sentenceAssembly",
+      "correctAnswer": "Kindly be advised that the premises will be vacated by the stipulated date.",
+      "translation": "Настоящим уведомляем, что помещения будут освобождены к установленному сроку.",
+      "variants": [
+        [
+          "Kindly",
+          "Please",
+          "Just",
+          "Hey"
+        ],
+        [
+          "be",
+          "been",
+          "being",
+          "are"
+        ],
+        [
+          "advised",
+          "told",
+          "informed",
+          "notified"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "how"
+        ],
+        [
+          "the",
+          "our",
+          "these",
+          "some"
+        ],
+        [
+          "premises",
+          "place",
+          "building",
+          "office"
+        ],
+        [
+          "will",
+          "shall",
+          "would",
+          "could"
+        ],
+        [
+          "be",
+          "been",
+          "being",
+          "get"
+        ],
+        [
+          "vacated",
+          "emptied",
+          "cleared",
+          "left"
+        ],
+        [
+          "by",
+          "before",
+          "until",
+          "on"
+        ],
+        [
+          "the",
+          "a",
+          "our",
+          "this"
+        ],
+        [
+          "stipulated",
+          "agreed",
+          "set",
+          "given"
+        ],
+        [
+          "date",
+          "time",
+          "deadline",
+          "day"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_15_register/028.mp3",
+      "question": "Составьте предложение в формальном регистре"
+    },
+    {
+      "id": "adv15_task_30",
+      "type": "sentenceAssembly",
+      "correctAnswer": "In accordance with the regulations, all personnel must undergo mandatory training annually.",
+      "translation": "В соответствии с правилами весь персонал должен ежегодно проходить обязательное обучение.",
+      "variants": [
+        [
+          "In",
+          "With",
+          "By",
+          "Under"
+        ],
+        [
+          "accordance",
+          "line",
+          "keeping",
+          "agreement"
+        ],
+        [
+          "with",
+          "to",
+          "of",
+          "by"
+        ],
+        [
+          "the",
+          "our",
+          "these",
+          "all"
+        ],
+        [
+          "regulations",
+          "rules",
+          "laws",
+          "policies"
+        ],
+        [
+          "all",
+          "every",
+          "each",
+          "the"
+        ],
+        [
+          "personnel",
+          "staff",
+          "people",
+          "workers"
+        ],
+        [
+          "must",
+          "should",
+          "need",
+          "gotta"
+        ],
+        [
+          "undergo",
+          "do",
+          "take",
+          "have"
+        ],
+        [
+          "mandatory",
+          "required",
+          "needed",
+          "compulsory"
+        ],
+        [
+          "training",
+          "course",
+          "class",
+          "lesson"
+        ],
+        [
+          "annually",
+          "yearly",
+          "every year",
+          "once"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_15_register/029.mp3",
+      "question": "Составьте предложение в формальном регистре"
+    }
+  ]
+}

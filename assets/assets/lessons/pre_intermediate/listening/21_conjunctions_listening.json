@@ -1,0 +1,461 @@
+{
+  "id": "pre_listening_21_conjunctions",
+  "title": "Conjunctions: and, but, or, because",
+  "description": "Слушайте и определяйте связь между частями предложения.",
+  "order": 21,
+  "level": "pre_intermediate",
+  "imageUrl": "assets/images/lessons/conjunctions.png",
+  "tasks": [
+    {
+      "id": "t21_01",
+      "audioText": "We went to a restaurant last night. I had pasta and my wife had fish.",
+      "transcript": "I had pasta and my wife had fish.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Only the person ate at the restaurant."
+        },
+        {
+          "id": "o2",
+          "text": "Both the person and his wife ordered food."
+        },
+        {
+          "id": "o3",
+          "text": "The wife did not eat anything."
+        },
+        {
+          "id": "o4",
+          "text": "They both had pasta."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'And' connects two things — both people ordered different meals.",
+      "mistakeTags": [
+        "restaurant",
+        "conjunctions"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_21_conjunctions/t21_01.mp3"
+    },
+    {
+      "id": "t21_02",
+      "audioText": "I wanted to go for a walk. But it was raining outside.",
+      "transcript": "But it was raining outside.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The weather was good for a walk."
+        },
+        {
+          "id": "o2",
+          "text": "The rain stopped the person from walking."
+        },
+        {
+          "id": "o3",
+          "text": "The person went for a long walk."
+        },
+        {
+          "id": "o4",
+          "text": "It was sunny outside."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'But' shows a contrast — wanting to walk versus the rain.",
+      "mistakeTags": [
+        "outdoor",
+        "conjunctions"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_21_conjunctions/t21_02.mp3"
+    },
+    {
+      "id": "t21_03",
+      "audioText": "We can eat at home tonight. Or we can go to that new Italian place.",
+      "transcript": "Or we can go to that new Italian place.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "There is a second option — eating at an Italian restaurant."
+        },
+        {
+          "id": "o2",
+          "text": "They must eat at home tonight."
+        },
+        {
+          "id": "o3",
+          "text": "They already ate at the Italian place."
+        },
+        {
+          "id": "o4",
+          "text": "The Italian restaurant is closed."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Or' offers a choice between two options.",
+      "mistakeTags": [
+        "home",
+        "conjunctions"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_21_conjunctions/t21_03.mp3"
+    },
+    {
+      "id": "t21_04",
+      "audioText": "Lisa did not come to work today. She stayed at home because she was ill.",
+      "transcript": "She stayed at home because she was ill.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Lisa stayed home — the reason was her illness."
+        },
+        {
+          "id": "o2",
+          "text": "Lisa went to work even though she was ill."
+        },
+        {
+          "id": "o3",
+          "text": "Lisa is at the office today."
+        },
+        {
+          "id": "o4",
+          "text": "Lisa stayed home because of the weather."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Because' gives the reason — she was ill, so she stayed home.",
+      "mistakeTags": [
+        "office",
+        "conjunctions"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_21_conjunctions/t21_04.mp3"
+    },
+    {
+      "id": "t21_05",
+      "audioText": "I like this coffee shop. The coffee is good and the prices are low.",
+      "transcript": "The coffee is good and the prices are low.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The coffee is bad but cheap."
+        },
+        {
+          "id": "o2",
+          "text": "The prices are very high."
+        },
+        {
+          "id": "o3",
+          "text": "Both the quality and the price are positive."
+        },
+        {
+          "id": "o4",
+          "text": "Only the coffee is good."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'And' adds two positive facts together — good coffee plus low prices.",
+      "mistakeTags": [
+        "cafe",
+        "conjunctions"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_21_conjunctions/t21_05.mp3"
+    },
+    {
+      "id": "t21_06",
+      "audioText": "I studied hard for the exam. But I didn't get a good mark.",
+      "transcript": "But I didn't get a good mark.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The person got a great result."
+        },
+        {
+          "id": "o2",
+          "text": "Despite studying hard, the result was poor."
+        },
+        {
+          "id": "o3",
+          "text": "The person did not study at all."
+        },
+        {
+          "id": "o4",
+          "text": "The exam was cancelled."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'But' shows an unexpected contrast — studying hard versus a poor mark.",
+      "mistakeTags": [
+        "school",
+        "conjunctions"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_21_conjunctions/t21_06.mp3"
+    },
+    {
+      "id": "t21_07",
+      "audioText": "Would you like something to drink? You can have tea or coffee.",
+      "transcript": "You can have tea or coffee.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "There are two drink options to choose from."
+        },
+        {
+          "id": "o2",
+          "text": "Only tea is available."
+        },
+        {
+          "id": "o3",
+          "text": "There are no drinks available."
+        },
+        {
+          "id": "o4",
+          "text": "You must have both tea and coffee."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Or' presents a choice between two drinks.",
+      "mistakeTags": [
+        "cafe",
+        "conjunctions"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_21_conjunctions/t21_07.mp3"
+    },
+    {
+      "id": "t21_08",
+      "audioText": "I decided to take a taxi today. I took a taxi because I was late for work.",
+      "transcript": "I took a taxi because I was late for work.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The person took a taxi — the reason was being late."
+        },
+        {
+          "id": "o2",
+          "text": "The person walked to work."
+        },
+        {
+          "id": "o3",
+          "text": "The person was early for work."
+        },
+        {
+          "id": "o4",
+          "text": "The person took a taxi because it was cheap."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Because' explains the reason — being late caused the taxi decision.",
+      "mistakeTags": [
+        "street",
+        "conjunctions"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_21_conjunctions/t21_08.mp3"
+    },
+    {
+      "id": "t21_09",
+      "audioText": "I packed my bags for the trip. I brought a jacket and an umbrella.",
+      "transcript": "I brought a jacket and an umbrella.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The person packed two items — a jacket and an umbrella."
+        },
+        {
+          "id": "o2",
+          "text": "The person brought only a jacket."
+        },
+        {
+          "id": "o3",
+          "text": "The person forgot to pack anything."
+        },
+        {
+          "id": "o4",
+          "text": "The person brought sunglasses instead."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'And' connects two items that were both packed.",
+      "mistakeTags": [
+        "travel",
+        "conjunctions"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_21_conjunctions/t21_09.mp3"
+    },
+    {
+      "id": "t21_10",
+      "audioText": "I tried the new gym near my house. The equipment is great but it is very expensive.",
+      "transcript": "The equipment is great but it is very expensive.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The gym has good equipment but costs a lot."
+        },
+        {
+          "id": "o2",
+          "text": "The gym is cheap and has good equipment."
+        },
+        {
+          "id": "o3",
+          "text": "The equipment is old and broken."
+        },
+        {
+          "id": "o4",
+          "text": "The gym is free to use."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'But' shows a contrast — the quality is good, however the price is high.",
+      "mistakeTags": [
+        "gym",
+        "conjunctions"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_21_conjunctions/t21_10.mp3"
+    },
+    {
+      "id": "t21_11",
+      "audioText": "I need a break from work. Should I go to the beach or stay at home?",
+      "transcript": "Should I go to the beach or stay at home?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The person is choosing between two places for a break."
+        },
+        {
+          "id": "o2",
+          "text": "The person decided to go to the beach."
+        },
+        {
+          "id": "o3",
+          "text": "The person must stay at home."
+        },
+        {
+          "id": "o4",
+          "text": "The person does not want a break."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Or' presents a choice between the beach and home.",
+      "mistakeTags": [
+        "home",
+        "conjunctions"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_21_conjunctions/t21_11.mp3"
+    },
+    {
+      "id": "t21_12",
+      "audioText": "I could not sleep well last night. I am tired today because I slept only four hours.",
+      "transcript": "I am tired today because I slept only four hours.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The person is tired — the reason is not enough sleep."
+        },
+        {
+          "id": "o2",
+          "text": "The person slept very well."
+        },
+        {
+          "id": "o3",
+          "text": "The person is full of energy today."
+        },
+        {
+          "id": "o4",
+          "text": "The person slept eight hours."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Because' gives the reason for being tired — only four hours of sleep.",
+      "mistakeTags": [
+        "home",
+        "conjunctions"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_21_conjunctions/t21_12.mp3"
+    },
+    {
+      "id": "t21_13",
+      "audioText": "We visited the museum yesterday. We saw paintings and sculptures.",
+      "transcript": "We saw paintings and sculptures.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "They saw two types of art at the museum."
+        },
+        {
+          "id": "o2",
+          "text": "They saw only paintings."
+        },
+        {
+          "id": "o3",
+          "text": "The museum was closed."
+        },
+        {
+          "id": "o4",
+          "text": "They only saw sculptures."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'And' connects two things they saw — paintings plus sculptures.",
+      "mistakeTags": [
+        "entertainment",
+        "conjunctions"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_21_conjunctions/t21_13.mp3"
+    },
+    {
+      "id": "t21_14",
+      "audioText": "I wanted to buy the dress I saw. But it was not available in my size.",
+      "transcript": "But it was not available in my size.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The dress was available in the right size."
+        },
+        {
+          "id": "o2",
+          "text": "The person bought the dress."
+        },
+        {
+          "id": "o3",
+          "text": "The dress did not come in the person's size."
+        },
+        {
+          "id": "o4",
+          "text": "The person did not like the dress."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'But' shows that despite wanting the dress, the size was not there.",
+      "mistakeTags": [
+        "shop",
+        "conjunctions"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_21_conjunctions/t21_14.mp3"
+    },
+    {
+      "id": "t21_15",
+      "audioText": "We need to hurry up now. We should leave now because the train leaves in ten minutes.",
+      "transcript": "We should leave now because the train leaves in ten minutes.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "They have plenty of time."
+        },
+        {
+          "id": "o2",
+          "text": "They need to go now — the reason is the train departs soon."
+        },
+        {
+          "id": "o3",
+          "text": "The train already left."
+        },
+        {
+          "id": "o4",
+          "text": "They are taking a bus instead."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Because' gives the reason for leaving — the train departs in ten minutes.",
+      "mistakeTags": [
+        "station",
+        "conjunctions"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_21_conjunctions/t21_15.mp3"
+    }
+  ],
+  "short_description": "Conjunctions: связь частей предложения с and, but, or, because"
+}

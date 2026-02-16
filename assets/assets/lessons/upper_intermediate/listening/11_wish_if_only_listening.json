@@ -1,0 +1,461 @@
+{
+  "id": "upper_listening_11_wish_if_only",
+  "title": "Wish / If Only",
+  "description": "Слушайте выражения сожаления с wish и if only.",
+  "order": 11,
+  "level": "upper_intermediate",
+  "imageUrl": "assets/images/lessons/wish_if_only.png",
+  "tasks": [
+    {
+      "id": "t11_01",
+      "audioText": "Tom is stuck in traffic again on his way to work. He wishes he lived closer to the office.",
+      "transcript": "He wishes he lived closer to the office.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He regrets that his home is far from his workplace."
+        },
+        {
+          "id": "o2",
+          "text": "He recently moved closer to the office."
+        },
+        {
+          "id": "o3",
+          "text": "He enjoys the long commute to work every day."
+        },
+        {
+          "id": "o4",
+          "text": "He is planning to change his office location."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Wish + past simple' expresses a desire for the present situation to be different. He wants to live closer but doesn't.",
+      "mistakeTags": [
+        "wish_if_only",
+        "commute"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_11_wish_if_only/t11_01.mp3"
+    },
+    {
+      "id": "t11_02",
+      "audioText": "Clara failed her driving test for the third time yesterday. She wishes she had practised parallel parking more before the exam.",
+      "transcript": "She wishes she had practised parallel parking more before the exam.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She practised enough and passed the test easily."
+        },
+        {
+          "id": "o2",
+          "text": "She regrets not spending more time on parallel parking preparation."
+        },
+        {
+          "id": "o3",
+          "text": "She plans to practise parking before her next test."
+        },
+        {
+          "id": "o4",
+          "text": "She doesn't need to learn parallel parking."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Wish + past perfect' expresses regret about a past event. She didn't practise enough and now regrets it.",
+      "mistakeTags": [
+        "wish_if_only",
+        "driving"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_11_wish_if_only/t11_02.mp3"
+    },
+    {
+      "id": "t11_03",
+      "audioText": "The neighbours are having a loud party at midnight. If only they would turn the music down so we could sleep.",
+      "transcript": "If only they would turn the music down so we could sleep.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The speaker wants the neighbours to reduce the volume."
+        },
+        {
+          "id": "o2",
+          "text": "The neighbours agreed to turn down the music."
+        },
+        {
+          "id": "o3",
+          "text": "The speaker enjoys listening to the neighbours' music."
+        },
+        {
+          "id": "o4",
+          "text": "The speaker is planning to join the neighbours' party."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'If only + would' expresses annoyance about someone else's behaviour and a wish for them to change it.",
+      "mistakeTags": [
+        "wish_if_only",
+        "neighbours"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_11_wish_if_only/t11_03.mp3"
+    },
+    {
+      "id": "t11_04",
+      "audioText": "Robert invested all his savings in a risky startup that failed. He wishes he hadn't put all his money into one company.",
+      "transcript": "He wishes he hadn't put all his money into one company.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He is glad he invested everything in the startup."
+        },
+        {
+          "id": "o2",
+          "text": "He regrets concentrating all his investment in a single business."
+        },
+        {
+          "id": "o3",
+          "text": "He never invested any money in startups."
+        },
+        {
+          "id": "o4",
+          "text": "He plans to invest more money in the same company."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Wish + past perfect negative' expresses regret about something that did happen. He invested everything and now regrets it.",
+      "mistakeTags": [
+        "wish_if_only",
+        "finance"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_11_wish_if_only/t11_04.mp3"
+    },
+    {
+      "id": "t11_05",
+      "audioText": "Emma is sitting in a boring meeting that has been going on for three hours. She wishes she could leave right now.",
+      "transcript": "She wishes she could leave right now.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She is free to leave the meeting whenever she wants."
+        },
+        {
+          "id": "o2",
+          "text": "She wants to leave the meeting but is unable to."
+        },
+        {
+          "id": "o3",
+          "text": "She left the meeting after the first hour."
+        },
+        {
+          "id": "o4",
+          "text": "She finds the meeting extremely interesting."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Wish + could' expresses a desire for an ability or possibility that doesn't currently exist. She can't leave but wants to.",
+      "mistakeTags": [
+        "wish_if_only",
+        "work"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_11_wish_if_only/t11_05.mp3"
+    },
+    {
+      "id": "t11_06",
+      "audioText": "Michael dropped out of university twenty years ago to pursue music. If only he had finished his degree, he might have more career options now.",
+      "transcript": "If only he had finished his degree, he might have more career options now.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He completed his degree and has many career choices."
+        },
+        {
+          "id": "o2",
+          "text": "He feels that not completing university limited his career possibilities."
+        },
+        {
+          "id": "o3",
+          "text": "He is currently studying for his degree part-time."
+        },
+        {
+          "id": "o4",
+          "text": "He doesn't regret leaving university at all."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'If only + past perfect' expresses a strong regret about a past decision. Not finishing his degree reduced his opportunities.",
+      "mistakeTags": [
+        "wish_if_only",
+        "education"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_11_wish_if_only/t11_06.mp3"
+    },
+    {
+      "id": "t11_07",
+      "audioText": "Anna is a talented artist who works as an accountant. She wishes she were brave enough to pursue her passion full-time.",
+      "transcript": "She wishes she were brave enough to pursue her passion full-time.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She already works as a full-time artist."
+        },
+        {
+          "id": "o2",
+          "text": "She desires more courage to follow her artistic dreams professionally."
+        },
+        {
+          "id": "o3",
+          "text": "She has no interest in art as a career."
+        },
+        {
+          "id": "o4",
+          "text": "She is very brave and pursues every opportunity."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Wish + were' (subjunctive) expresses a wish about the present. She feels she lacks the courage to become a full-time artist.",
+      "mistakeTags": [
+        "wish_if_only",
+        "career"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_11_wish_if_only/t11_07.mp3"
+    },
+    {
+      "id": "t11_08",
+      "audioText": "It hasn't rained in weeks and the garden is completely dried out. I wish it would rain soon so the plants could recover.",
+      "transcript": "I wish it would rain soon so the plants could recover.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The speaker hopes for rainfall to help the dying garden."
+        },
+        {
+          "id": "o2",
+          "text": "It has been raining too much and the garden is flooded."
+        },
+        {
+          "id": "o3",
+          "text": "The speaker doesn't care about the garden plants."
+        },
+        {
+          "id": "o4",
+          "text": "The garden is thriving despite the dry weather."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Wish + would' can express a desire for a situation or external circumstances to change in the future.",
+      "mistakeTags": [
+        "wish_if_only",
+        "nature"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_11_wish_if_only/t11_08.mp3"
+    },
+    {
+      "id": "t11_09",
+      "audioText": "Sandra missed the deadline for a scholarship application by one day. If only she had submitted it on time, she would have received the funding.",
+      "transcript": "If only she had submitted it on time, she would have received the funding.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She submitted the application on time and got the scholarship."
+        },
+        {
+          "id": "o2",
+          "text": "She regrets missing the deadline because it cost her the scholarship."
+        },
+        {
+          "id": "o3",
+          "text": "She decided not to apply for the scholarship."
+        },
+        {
+          "id": "o4",
+          "text": "The scholarship deadline was extended for her."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'If only + past perfect' combined with 'would have received' expresses deep regret about a missed opportunity in the past.",
+      "mistakeTags": [
+        "wish_if_only",
+        "education"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_11_wish_if_only/t11_09.mp3"
+    },
+    {
+      "id": "t11_10",
+      "audioText": "Peter speaks only English and often struggles when travelling abroad. He wishes he spoke at least one more language fluently.",
+      "transcript": "He wishes he spoke at least one more language fluently.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He is fluent in several foreign languages."
+        },
+        {
+          "id": "o2",
+          "text": "He has no desire to learn other languages."
+        },
+        {
+          "id": "o3",
+          "text": "He regrets being monolingual and wants to know another language well."
+        },
+        {
+          "id": "o4",
+          "text": "He is currently studying three languages at once."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Wish + past simple' (spoke) expresses dissatisfaction with the current situation. He wants to be multilingual but isn't.",
+      "mistakeTags": [
+        "wish_if_only",
+        "languages"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_11_wish_if_only/t11_10.mp3"
+    },
+    {
+      "id": "t11_11",
+      "audioText": "Lucy ate an entire chocolate cake by herself last night. She wishes she hadn't eaten so much because she feels terrible today.",
+      "transcript": "She wishes she hadn't eaten so much because she feels terrible today.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She regrets overeating since it made her feel unwell."
+        },
+        {
+          "id": "o2",
+          "text": "She ate a small piece of cake and feels fine."
+        },
+        {
+          "id": "o3",
+          "text": "She is happy about eating the whole cake."
+        },
+        {
+          "id": "o4",
+          "text": "She plans to eat another cake tonight."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Wish + past perfect negative' shows regret about a completed past action. She ate too much and now suffers the consequences.",
+      "mistakeTags": [
+        "wish_if_only",
+        "health"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_11_wish_if_only/t11_11.mp3"
+    },
+    {
+      "id": "t11_12",
+      "audioText": "James is working on a tight project deadline with no help. He wishes his colleagues would offer to assist instead of watching him struggle.",
+      "transcript": "He wishes his colleagues would offer to assist instead of watching him struggle.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "His colleagues are helping him with the project."
+        },
+        {
+          "id": "o2",
+          "text": "He is frustrated that his coworkers aren't volunteering to help."
+        },
+        {
+          "id": "o3",
+          "text": "He prefers to work alone on all projects."
+        },
+        {
+          "id": "o4",
+          "text": "He asked his colleagues for help and they agreed."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Wish + would' expresses irritation about others' behaviour. He's annoyed that his colleagues are not offering help.",
+      "mistakeTags": [
+        "wish_if_only",
+        "teamwork"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_11_wish_if_only/t11_12.mp3"
+    },
+    {
+      "id": "t11_13",
+      "audioText": "The old house is beautiful but in terrible condition. If only we had enough money to restore it properly.",
+      "transcript": "If only we had enough money to restore it properly.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "They have sufficient funds to renovate the house."
+        },
+        {
+          "id": "o2",
+          "text": "They wish they could afford the proper restoration of the house."
+        },
+        {
+          "id": "o3",
+          "text": "They have no interest in restoring the old house."
+        },
+        {
+          "id": "o4",
+          "text": "They already finished restoring the house."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'If only + past simple' expresses a strong wish about the present. They lack the money needed for restoration.",
+      "mistakeTags": [
+        "wish_if_only",
+        "property"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_11_wish_if_only/t11_13.mp3"
+    },
+    {
+      "id": "t11_14",
+      "audioText": "Daniel said something hurtful to his best friend during an argument. He wishes he could take back what he said.",
+      "transcript": "He wishes he could take back what he said.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He wants to unsay his hurtful words but knows it's impossible."
+        },
+        {
+          "id": "o2",
+          "text": "He doesn't regret what he said to his friend."
+        },
+        {
+          "id": "o3",
+          "text": "He successfully apologized and everything is fine."
+        },
+        {
+          "id": "o4",
+          "text": "His friend said something hurtful to him first."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Wish + could' expresses a desire for an impossible present action. He can't undo his words but wants to.",
+      "mistakeTags": [
+        "wish_if_only",
+        "relationships"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_11_wish_if_only/t11_14.mp3"
+    },
+    {
+      "id": "t11_15",
+      "audioText": "Maria's flight was cancelled due to a snowstorm. She wishes she had booked a train ticket as a backup option.",
+      "transcript": "She wishes she had booked a train ticket as a backup option.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She had a backup train ticket ready."
+        },
+        {
+          "id": "o2",
+          "text": "She prefers flying over taking the train."
+        },
+        {
+          "id": "o3",
+          "text": "She regrets not arranging alternative transportation in advance."
+        },
+        {
+          "id": "o4",
+          "text": "The snowstorm didn't affect her travel plans at all."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Wish + past perfect' expresses regret about a past decision. She didn't book a train ticket and now wishes she had.",
+      "mistakeTags": [
+        "wish_if_only",
+        "travel"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_11_wish_if_only/t11_15.mp3"
+    }
+  ],
+  "short_description": "Сожаления и пожелания с wish и if only."
+}

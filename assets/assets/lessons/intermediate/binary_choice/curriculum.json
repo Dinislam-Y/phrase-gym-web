@@ -1,0 +1,18 @@
+{
+  "type": "binary_choice",
+  "lessons": [
+    { "id": "bc_since_vs_for", "file": "since_vs_for.json", "order": 1 },
+    { "id": "bc_already_vs_yet", "file": "already_vs_yet.json", "order": 2 },
+    { "id": "intermediate_bc_01_past_simple_regular", "file": "did_vs_was.json", "order": 3 },
+    { "id": "intermediate_bc_02_past_simple_irregular", "file": "was_vs_were.json", "order": 4 },
+    { "id": "intermediate_bc_03_future_simple", "file": "will_vs_going_to.json", "order": 5 },
+    { "id": "intermediate_bc_04_past_continuous", "file": "while_vs_when.json", "order": 6 },
+    { "id": "intermediate_bc_06_comparatives", "file": "more_vs_most.json", "order": 7 },
+    { "id": "intermediate_bc_07_modal_must_should", "file": "must_vs_should.json", "order": 8 },
+    { "id": "intermediate_bc_08_future_forms", "file": "will_vs_would.json", "order": 9 },
+    { "id": "intermediate_bc_09_adverbs", "file": "hard_vs_hardly.json", "order": 10 },
+    { "id": "intermediate_bc_10_used_to", "file": "used_to_vs_would.json", "order": 11 },
+    { "id": "intermediate_bc_11_relative_clauses", "file": "who_vs_which.json", "order": 12 },
+    { "id": "intermediate_bc_12_prepositions_advanced", "file": "by_vs_until.json", "order": 13 }
+  ]
+}

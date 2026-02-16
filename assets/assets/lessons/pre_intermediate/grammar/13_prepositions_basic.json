@@ -1,0 +1,1627 @@
+{
+  "id": "pre_13_prepositions_basic",
+  "title": "Basic Prepositions: In, On, At",
+  "description": "Предлоги in, on, at — это GPS английского языка. Они показывают, ГДЕ и КОГДА что-то происходит.",
+  "order": 13,
+  "level": "pre_intermediate",
+  "imageUrl": "assets/images/lessons/prepositions_basic.png",
+  "short_description": "shortDescriptionBeginner13PrepositionsBasic",
+  "vocabulary": [
+    {
+      "id": "v13_room",
+      "english": "room",
+      "russian": "комната",
+      "partOfSpeech": "noun",
+      "example": "I am in the room.",
+      "exampleTranslation": "Я в комнате.",
+      "audioPath": "assets/audio/vocabulary/v13_room.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_room.mp3"
+    },
+    {
+      "id": "v13_table",
+      "english": "table",
+      "russian": "стол",
+      "partOfSpeech": "noun",
+      "example": "The book is on the table.",
+      "exampleTranslation": "Книга на столе.",
+      "audioPath": "assets/audio/vocabulary/v13_table.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_table.mp3"
+    },
+    {
+      "id": "v13_school",
+      "english": "school",
+      "russian": "школа",
+      "partOfSpeech": "noun",
+      "example": "She is at school.",
+      "exampleTranslation": "Она в школе.",
+      "audioPath": "assets/audio/vocabulary/v13_school.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_school.mp3"
+    },
+    {
+      "id": "v13_home",
+      "english": "home",
+      "russian": "дом",
+      "partOfSpeech": "noun",
+      "example": "He is at home.",
+      "exampleTranslation": "Он дома.",
+      "audioPath": "assets/audio/vocabulary/v13_home.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_home.mp3"
+    },
+    {
+      "id": "v13_morning",
+      "english": "morning",
+      "russian": "утро",
+      "partOfSpeech": "noun",
+      "example": "I run in the morning.",
+      "exampleTranslation": "Я бегаю утром.",
+      "audioPath": "assets/audio/vocabulary/v13_morning.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_morning.mp3"
+    },
+    {
+      "id": "v13_night",
+      "english": "night",
+      "russian": "ночь",
+      "partOfSpeech": "noun",
+      "example": "He works at night.",
+      "exampleTranslation": "Он работает ночью.",
+      "audioPath": "assets/audio/vocabulary/v13_night.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_night.mp3"
+    },
+    {
+      "id": "v13_wall",
+      "english": "wall",
+      "russian": "стена",
+      "partOfSpeech": "noun",
+      "example": "The picture is on the wall.",
+      "exampleTranslation": "Картина на стене.",
+      "audioPath": "assets/audio/vocabulary/v13_wall.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_wall.mp3"
+    },
+    {
+      "id": "v13_park",
+      "english": "park",
+      "russian": "парк",
+      "partOfSpeech": "noun",
+      "example": "We are in the park.",
+      "exampleTranslation": "Мы в парке.",
+      "audioPath": "assets/audio/vocabulary/v13_park.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_park.mp3"
+    },
+    {
+      "id": "v13_street",
+      "english": "street",
+      "russian": "улица",
+      "partOfSpeech": "noun",
+      "example": "I live on this street.",
+      "exampleTranslation": "Я живу на этой улице.",
+      "audioPath": "assets/audio/vocabulary/v13_street.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_street.mp3"
+    },
+    {
+      "id": "v13_office",
+      "english": "office",
+      "russian": "офис",
+      "partOfSpeech": "noun",
+      "example": "She is at the office.",
+      "exampleTranslation": "Она в офисе.",
+      "audioPath": "assets/audio/vocabulary/v13_office.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_office.mp3"
+    },
+    {
+      "id": "v13_city",
+      "english": "city",
+      "russian": "город",
+      "partOfSpeech": "noun",
+      "example": "I live in the city.",
+      "exampleTranslation": "Я живу в городе.",
+      "audioPath": "assets/audio/vocabulary/v13_city.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_city.mp3"
+    },
+    {
+      "id": "v13_work",
+      "english": "work",
+      "russian": "работа",
+      "partOfSpeech": "noun",
+      "example": "He is at work.",
+      "exampleTranslation": "Он на работе.",
+      "audioPath": "assets/audio/vocabulary/v13_work.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_work.mp3"
+    },
+    {
+      "id": "v13_floor",
+      "english": "floor",
+      "russian": "пол / этаж",
+      "partOfSpeech": "noun",
+      "example": "The cat is on the floor.",
+      "exampleTranslation": "Кот на полу.",
+      "audioPath": "assets/audio/vocabulary/v13_floor.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_floor.mp3"
+    },
+    {
+      "id": "v13_bus",
+      "english": "bus",
+      "russian": "автобус",
+      "partOfSpeech": "noun",
+      "example": "She is on the bus.",
+      "exampleTranslation": "Она в автобусе.",
+      "audioPath": "assets/audio/vocabulary/v13_bus.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_bus.mp3"
+    },
+    {
+      "id": "v13_kitchen",
+      "english": "kitchen",
+      "russian": "кухня",
+      "partOfSpeech": "noun",
+      "example": "He is in the kitchen.",
+      "exampleTranslation": "Он на кухне.",
+      "audioPath": "assets/audio/vocabulary/v13_kitchen.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_kitchen.mp3"
+    },
+    {
+      "id": "v13_bed",
+      "english": "bed",
+      "russian": "кровать",
+      "partOfSpeech": "noun",
+      "example": "The cat is on the bed.",
+      "exampleTranslation": "Кот на кровати.",
+      "audioPath": "assets/audio/vocabulary/v13_bed.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_bed.mp3"
+    },
+    {
+      "id": "v13_door",
+      "english": "door",
+      "russian": "дверь",
+      "partOfSpeech": "noun",
+      "example": "He is at the door.",
+      "exampleTranslation": "Он у двери.",
+      "audioPath": "assets/audio/vocabulary/v13_door.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_door.mp3"
+    },
+    {
+      "id": "v13_between",
+      "english": "between",
+      "russian": "между",
+      "partOfSpeech": "preposition",
+      "example": "The park is between the school and the shop.",
+      "exampleTranslation": "Парк находится между школой и магазином.",
+      "audioPath": "assets/audio/vocabulary/v13_between.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_between.mp3"
+    },
+    {
+      "id": "v13_around",
+      "english": "around",
+      "russian": "вокруг",
+      "partOfSpeech": "preposition",
+      "example": "There are trees around the house.",
+      "exampleTranslation": "Вокруг дома есть деревья.",
+      "audioPath": "assets/audio/vocabulary/v13_around.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_around.mp3"
+    },
+    {
+      "id": "v13_nearby",
+      "english": "nearby",
+      "russian": "поблизости, рядом",
+      "partOfSpeech": "adverb",
+      "example": "The school is nearby.",
+      "exampleTranslation": "Школа поблизости.",
+      "audioPath": "assets/audio/vocabulary/v13_nearby.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_nearby.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "Basic Prepositions: In, On, At",
+    "subtitle": "Предлоги in, on, at — три кита местоположения в английском. Каждый отвечает за свою зону: IN — внутри, ON — на поверхности, AT — в точке.",
+    "construction": {
+      "formula": "Subject + verb + in / on / at + place/time",
+      "rules": [
+        {
+          "word": "IN (внутри)",
+          "description": "Закрытые пространства (in the room), города и страны (in London), месяцы и годы (in May), части дня (in the morning / in the evening)."
+        },
+        {
+          "word": "ON (на поверхности)",
+          "description": "Поверхности (on the table, on the wall), дни недели (on Monday), даты (on May 5th), транспорт-платформы (on the bus)."
+        },
+        {
+          "word": "AT (в точке)",
+          "description": "Конкретные точки и места (at home, at school, at work), адреса (at 5 Baker Street), время (at night, at 5 o'clock)."
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "explore",
+        "color": "blue",
+        "title": "IN — вы внутри",
+        "description": "Представьте коробку: вы ВНУТРИ неё. Комната, город, страна — всё это контейнеры.",
+        "example": {
+          "english": "I am in the room.",
+          "russian": "Я в комнате (внутри пространства)."
+        }
+      },
+      {
+        "icon": "visibility",
+        "color": "green",
+        "title": "ON — вы на поверхности",
+        "description": "Представьте стол: книга лежит НА нём. Поверхность, день недели — это ON.",
+        "example": {
+          "english": "The book is on the table.",
+          "russian": "Книга на столе (на поверхности)."
+        }
+      },
+      {
+        "icon": "star",
+        "color": "purple",
+        "title": "AT — вы в точке",
+        "description": "Представьте точку на карте: вы именно ТАМ. Дом, школа, работа — конкретная точка.",
+        "example": {
+          "english": "She is at home.",
+          "russian": "Она дома (в конкретной точке)."
+        }
+      },
+      {
+        "icon": "schedule",
+        "color": "orange",
+        "title": "Время: IN vs ON vs AT",
+        "description": "IN the morning/evening, ON Monday/Friday, AT night/noon. Чем точнее время, тем меньше предлог: IN > ON > AT.",
+        "example": {
+          "english": "I work in the morning, on Monday, at nine.",
+          "russian": "Я работаю утром, в понедельник, в девять."
+        }
+      }
+    ],
+    "markers": [
+      "in the room / in London / in the morning",
+      "on the table / on Monday / on the wall",
+      "at home / at school / at night / at work",
+      "in = внутри контейнера",
+      "on = на поверхности",
+      "at = в конкретной точке"
+    ]
+  },
+  "tasks": [
+    {
+      "id": "t13_1",
+      "type": "sentenceAssembly",
+      "question": "Я дома",
+      "correctAnswer": "I am at home",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "am",
+          "is",
+          "are",
+          "was"
+        ],
+        [
+          "at",
+          "in",
+          "on",
+          "to"
+        ],
+        [
+          "home",
+          "house",
+          "room",
+          "work"
+        ]
+      ],
+      "mistakeTags": [
+        "prepositions_basic",
+        "in_on_at"
+      ],
+      "audioPath": "assets/audio/grammar/pre_13_prepositions_basic/000.mp3"
+    },
+    {
+      "id": "t13_2",
+      "type": "sentenceAssembly",
+      "question": "Кот здесь",
+      "correctAnswer": "The cat is here",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "My",
+          "This"
+        ],
+        [
+          "cat",
+          "dog",
+          "book",
+          "pen"
+        ],
+        [
+          "is",
+          "was",
+          "are",
+          "sits"
+        ],
+        [
+          "here",
+          "there",
+          "near",
+          "inside"
+        ]
+      ],
+      "mistakeTags": [
+        "prepositions_basic",
+        "in_on_at"
+      ],
+      "audioPath": "assets/audio/grammar/pre_13_prepositions_basic/001.mp3"
+    },
+    {
+      "id": "t13_3",
+      "type": "sentenceAssembly",
+      "question": "Она в комнате",
+      "correctAnswer": "She is in the room",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "It",
+          "They"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "in",
+          "on",
+          "at",
+          "to"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "room",
+          "house",
+          "park",
+          "kitchen"
+        ]
+      ],
+      "mistakeTags": [
+        "prepositions_basic",
+        "in_on_at"
+      ],
+      "audioPath": "assets/audio/grammar/pre_13_prepositions_basic/002.mp3"
+    },
+    {
+      "id": "t13_4",
+      "type": "sentenceAssembly",
+      "question": "Он на работе",
+      "correctAnswer": "He is at work",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "I",
+          "They"
+        ],
+        [
+          "is",
+          "am",
+          "are",
+          "was"
+        ],
+        [
+          "at",
+          "in",
+          "on",
+          "to"
+        ],
+        [
+          "work",
+          "home",
+          "school",
+          "office"
+        ]
+      ],
+      "mistakeTags": [
+        "prepositions_basic",
+        "in_on_at"
+      ],
+      "audioPath": "assets/audio/grammar/pre_13_prepositions_basic/003.mp3"
+    },
+    {
+      "id": "t13_5",
+      "type": "sentenceAssembly",
+      "question": "Книга здесь",
+      "correctAnswer": "The book is here",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "My",
+          "This"
+        ],
+        [
+          "book",
+          "bag",
+          "pen",
+          "cup"
+        ],
+        [
+          "is",
+          "was",
+          "sits",
+          "lies"
+        ],
+        [
+          "here",
+          "there",
+          "near",
+          "inside"
+        ]
+      ],
+      "mistakeTags": [
+        "prepositions_basic",
+        "in_on_at"
+      ],
+      "audioPath": "assets/audio/grammar/pre_13_prepositions_basic/004.mp3"
+    },
+    {
+      "id": "t13_6",
+      "type": "sentenceAssembly",
+      "question": "Мы в парке",
+      "correctAnswer": "We are in the park",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "I",
+          "He"
+        ],
+        [
+          "are",
+          "is",
+          "am",
+          "was"
+        ],
+        [
+          "in",
+          "on",
+          "at",
+          "to"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "park",
+          "garden",
+          "street",
+          "city"
+        ]
+      ],
+      "mistakeTags": [
+        "prepositions_basic",
+        "in_on_at"
+      ],
+      "audioPath": "assets/audio/grammar/pre_13_prepositions_basic/005.mp3"
+    },
+    {
+      "id": "t13_7",
+      "type": "sentenceAssembly",
+      "question": "Она в школе",
+      "correctAnswer": "She is at school",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "We"
+        ],
+        [
+          "is",
+          "am",
+          "are",
+          "was"
+        ],
+        [
+          "at",
+          "in",
+          "on",
+          "to"
+        ],
+        [
+          "school",
+          "home",
+          "work",
+          "office"
+        ]
+      ],
+      "mistakeTags": [
+        "prepositions_basic",
+        "in_on_at"
+      ],
+      "audioPath": "assets/audio/grammar/pre_13_prepositions_basic/006.mp3"
+    },
+    {
+      "id": "t13_8",
+      "type": "sentenceAssembly",
+      "question": "Картина здесь",
+      "correctAnswer": "The picture is here",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "My",
+          "This"
+        ],
+        [
+          "picture",
+          "phone",
+          "lamp",
+          "clock"
+        ],
+        [
+          "is",
+          "was",
+          "sits",
+          "hangs"
+        ],
+        [
+          "here",
+          "there",
+          "near",
+          "above"
+        ]
+      ],
+      "mistakeTags": [
+        "prepositions_basic",
+        "in_on_at"
+      ],
+      "audioPath": "assets/audio/grammar/pre_13_prepositions_basic/007.mp3"
+    },
+    {
+      "id": "t13_9",
+      "type": "sentenceAssembly",
+      "question": "Я в городе",
+      "correctAnswer": "I am in the city",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "am",
+          "is",
+          "are",
+          "was"
+        ],
+        [
+          "in",
+          "on",
+          "at",
+          "to"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "city",
+          "town",
+          "park",
+          "street"
+        ]
+      ],
+      "mistakeTags": [
+        "prepositions_basic",
+        "in_on_at"
+      ],
+      "audioPath": "assets/audio/grammar/pre_13_prepositions_basic/008.mp3"
+    },
+    {
+      "id": "t13_10",
+      "type": "sentenceAssembly",
+      "question": "Он у двери",
+      "correctAnswer": "He is at the door",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "I",
+          "They"
+        ],
+        [
+          "is",
+          "am",
+          "are",
+          "was"
+        ],
+        [
+          "at",
+          "in",
+          "on",
+          "to"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "door",
+          "wall",
+          "window",
+          "gate"
+        ]
+      ],
+      "mistakeTags": [
+        "prepositions_basic",
+        "in_on_at"
+      ],
+      "audioPath": "assets/audio/grammar/pre_13_prepositions_basic/009.mp3"
+    },
+    {
+      "id": "t13_11",
+      "type": "sentenceAssembly",
+      "question": "Я живу в Лондоне",
+      "correctAnswer": "I live in London",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "live",
+          "lives",
+          "living",
+          "stay"
+        ],
+        [
+          "in",
+          "on",
+          "at",
+          "to"
+        ],
+        [
+          "London",
+          "Paris",
+          "Moscow",
+          "Rome"
+        ]
+      ],
+      "mistakeTags": [
+        "prepositions_basic",
+        "in_on_at"
+      ],
+      "audioPath": "assets/audio/grammar/pre_13_prepositions_basic/010.mp3"
+    },
+    {
+      "id": "t13_12",
+      "type": "sentenceAssembly",
+      "question": "Кот на улице",
+      "correctAnswer": "The cat is outside",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "My",
+          "Our"
+        ],
+        [
+          "cat",
+          "dog",
+          "bird",
+          "child"
+        ],
+        [
+          "is",
+          "was",
+          "sits",
+          "plays"
+        ],
+        [
+          "outside",
+          "inside",
+          "here",
+          "there"
+        ]
+      ],
+      "mistakeTags": [
+        "prepositions_basic",
+        "in_on_at"
+      ],
+      "audioPath": "assets/audio/grammar/pre_13_prepositions_basic/011.mp3"
+    },
+    {
+      "id": "t13_13",
+      "type": "sentenceAssembly",
+      "question": "Она в автобусе",
+      "correctAnswer": "She is on the bus",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "They"
+        ],
+        [
+          "is",
+          "am",
+          "are",
+          "was"
+        ],
+        [
+          "on",
+          "in",
+          "at",
+          "to"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "bus",
+          "car",
+          "train",
+          "taxi"
+        ]
+      ],
+      "mistakeTags": [
+        "prepositions_basic",
+        "in_on_at"
+      ],
+      "audioPath": "assets/audio/grammar/pre_13_prepositions_basic/012.mp3"
+    },
+    {
+      "id": "t13_14",
+      "type": "sentenceAssembly",
+      "question": "Он на кухне",
+      "correctAnswer": "He is in the kitchen",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "I",
+          "They"
+        ],
+        [
+          "is",
+          "am",
+          "are",
+          "was"
+        ],
+        [
+          "in",
+          "on",
+          "at",
+          "to"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "kitchen",
+          "room",
+          "garden",
+          "office"
+        ]
+      ],
+      "mistakeTags": [
+        "prepositions_basic",
+        "in_on_at"
+      ],
+      "audioPath": "assets/audio/grammar/pre_13_prepositions_basic/013.mp3"
+    },
+    {
+      "id": "t13_15",
+      "type": "sentenceAssembly",
+      "question": "Они в саду",
+      "correctAnswer": "They are in the garden",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "We",
+          "He",
+          "She"
+        ],
+        [
+          "are",
+          "is",
+          "am",
+          "was"
+        ],
+        [
+          "in",
+          "on",
+          "at",
+          "to"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "garden",
+          "park",
+          "street",
+          "yard"
+        ]
+      ],
+      "mistakeTags": [
+        "prepositions_basic",
+        "in_on_at"
+      ],
+      "audioPath": "assets/audio/grammar/pre_13_prepositions_basic/014.mp3"
+    },
+    {
+      "id": "t13_16",
+      "type": "sentenceAssembly",
+      "question": "Я бегаю утром",
+      "correctAnswer": "I run in the morning",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "run",
+          "runs",
+          "running",
+          "walk"
+        ],
+        [
+          "in",
+          "on",
+          "at",
+          "to"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "morning",
+          "evening",
+          "night",
+          "day"
+        ]
+      ],
+      "mistakeTags": [
+        "prepositions_basic",
+        "in_on_at"
+      ],
+      "audioPath": "assets/audio/grammar/pre_13_prepositions_basic/015.mp3"
+    },
+    {
+      "id": "t13_17",
+      "type": "sentenceAssembly",
+      "question": "Она в офисе",
+      "correctAnswer": "She is at the office",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "They"
+        ],
+        [
+          "is",
+          "am",
+          "are",
+          "was"
+        ],
+        [
+          "at",
+          "in",
+          "on",
+          "to"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "office",
+          "school",
+          "home",
+          "work"
+        ]
+      ],
+      "mistakeTags": [
+        "prepositions_basic",
+        "in_on_at"
+      ],
+      "audioPath": "assets/audio/grammar/pre_13_prepositions_basic/016.mp3"
+    },
+    {
+      "id": "t13_18",
+      "type": "sentenceAssembly",
+      "question": "Мы живём на этой улице",
+      "correctAnswer": "We live on this street",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "I",
+          "He"
+        ],
+        [
+          "live",
+          "lives",
+          "living",
+          "stay"
+        ],
+        [
+          "on",
+          "in",
+          "at",
+          "to"
+        ],
+        [
+          "this",
+          "the",
+          "a",
+          "that"
+        ],
+        [
+          "street",
+          "road",
+          "park",
+          "city"
+        ]
+      ],
+      "mistakeTags": [
+        "prepositions_basic",
+        "in_on_at"
+      ],
+      "audioPath": "assets/audio/grammar/pre_13_prepositions_basic/017.mp3"
+    },
+    {
+      "id": "t13_19",
+      "type": "sentenceAssembly",
+      "question": "Он работает ночью",
+      "correctAnswer": "He works at night",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "I",
+          "They"
+        ],
+        [
+          "works",
+          "work",
+          "working",
+          "plays"
+        ],
+        [
+          "at",
+          "in",
+          "on",
+          "to"
+        ],
+        [
+          "night",
+          "morning",
+          "day",
+          "evening"
+        ]
+      ],
+      "mistakeTags": [
+        "prepositions_basic",
+        "in_on_at"
+      ],
+      "audioPath": "assets/audio/grammar/pre_13_prepositions_basic/018.mp3"
+    },
+    {
+      "id": "t13_20",
+      "type": "sentenceAssembly",
+      "question": "Кот внутри",
+      "correctAnswer": "The cat is inside",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "My",
+          "Our"
+        ],
+        [
+          "cat",
+          "dog",
+          "child",
+          "book"
+        ],
+        [
+          "is",
+          "was",
+          "sits",
+          "stays"
+        ],
+        [
+          "inside",
+          "outside",
+          "near",
+          "here"
+        ]
+      ],
+      "mistakeTags": [
+        "prepositions_basic",
+        "in_on_at"
+      ],
+      "audioPath": "assets/audio/grammar/pre_13_prepositions_basic/019.mp3"
+    },
+    {
+      "id": "t13_21",
+      "type": "sentenceAssembly",
+      "question": "Она не дома",
+      "correctAnswer": "She is not at home",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "They"
+        ],
+        [
+          "is",
+          "am",
+          "are",
+          "was"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "none"
+        ],
+        [
+          "at",
+          "in",
+          "on",
+          "to"
+        ],
+        [
+          "home",
+          "work",
+          "school",
+          "office"
+        ]
+      ],
+      "mistakeTags": [
+        "prepositions_basic",
+        "in_on_at"
+      ],
+      "audioPath": "assets/audio/grammar/pre_13_prepositions_basic/020.mp3"
+    },
+    {
+      "id": "t13_22",
+      "type": "sentenceAssembly",
+      "question": "Я хожу в школу",
+      "correctAnswer": "I go to school",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "go",
+          "walk",
+          "run",
+          "come"
+        ],
+        [
+          "to",
+          "at",
+          "in",
+          "from"
+        ],
+        [
+          "school",
+          "work",
+          "home",
+          "park"
+        ]
+      ],
+      "mistakeTags": [
+        "prepositions_basic",
+        "in_on_at"
+      ],
+      "audioPath": "assets/audio/grammar/pre_13_prepositions_basic/021.mp3"
+    },
+    {
+      "id": "t13_23",
+      "type": "sentenceAssembly",
+      "question": "Книги здесь нет",
+      "correctAnswer": "The book is not here",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "My",
+          "This"
+        ],
+        [
+          "book",
+          "pen",
+          "bag",
+          "cup"
+        ],
+        [
+          "is",
+          "was",
+          "are",
+          "has"
+        ],
+        [
+          "not",
+          "still",
+          "also",
+          "just"
+        ],
+        [
+          "here",
+          "there",
+          "near",
+          "inside"
+        ]
+      ],
+      "mistakeTags": [
+        "prepositions_basic",
+        "in_on_at"
+      ],
+      "audioPath": "assets/audio/grammar/pre_13_prepositions_basic/022.mp3"
+    },
+    {
+      "id": "t13_24",
+      "type": "sentenceAssembly",
+      "question": "Она дома",
+      "correctAnswer": "She is at home",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "We"
+        ],
+        [
+          "is",
+          "was",
+          "stays",
+          "sits"
+        ],
+        [
+          "at",
+          "in",
+          "on",
+          "to"
+        ],
+        [
+          "home",
+          "work",
+          "school",
+          "park"
+        ]
+      ],
+      "mistakeTags": [
+        "prepositions_basic",
+        "in_on_at"
+      ],
+      "audioPath": "assets/audio/grammar/pre_13_prepositions_basic/023.mp3"
+    },
+    {
+      "id": "t13_25",
+      "type": "sentenceAssembly",
+      "question": "Я отсюда",
+      "correctAnswer": "I come from here",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "come",
+          "go",
+          "walk",
+          "live"
+        ],
+        [
+          "from",
+          "to",
+          "at",
+          "in"
+        ],
+        [
+          "here",
+          "there",
+          "home",
+          "school"
+        ]
+      ],
+      "mistakeTags": [
+        "prepositions_basic",
+        "in_on_at"
+      ],
+      "audioPath": "assets/audio/grammar/pre_13_prepositions_basic/024.mp3"
+    },
+    {
+      "id": "t13_26",
+      "type": "sentenceAssembly",
+      "question": "Она в школе?",
+      "correctAnswer": "Is she at school?",
+      "options": [],
+      "variants": [
+        [
+          "Is",
+          "Are",
+          "Do",
+          "Does"
+        ],
+        [
+          "she",
+          "he",
+          "they",
+          "we"
+        ],
+        [
+          "at",
+          "in",
+          "on",
+          "to"
+        ],
+        [
+          "school",
+          "home",
+          "work",
+          "office"
+        ]
+      ],
+      "mistakeTags": [
+        "prepositions_basic",
+        "in_on_at"
+      ],
+      "audioPath": "assets/audio/grammar/pre_13_prepositions_basic/025.mp3"
+    },
+    {
+      "id": "t13_27",
+      "type": "sentenceAssembly",
+      "question": "Парк рядом",
+      "correctAnswer": "The park is near",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "My",
+          "This"
+        ],
+        [
+          "park",
+          "shop",
+          "bank",
+          "school"
+        ],
+        [
+          "is",
+          "was",
+          "lies",
+          "sits"
+        ],
+        [
+          "near",
+          "far",
+          "here",
+          "there"
+        ]
+      ],
+      "mistakeTags": [
+        "prepositions_basic",
+        "in_on_at"
+      ],
+      "audioPath": "assets/audio/grammar/pre_13_prepositions_basic/026.mp3"
+    },
+    {
+      "id": "t13_28",
+      "type": "sentenceAssembly",
+      "question": "Они в саду?",
+      "correctAnswer": "Are they in the garden?",
+      "options": [],
+      "variants": [
+        [
+          "Are",
+          "Is",
+          "Do",
+          "Does"
+        ],
+        [
+          "they",
+          "he",
+          "she",
+          "we"
+        ],
+        [
+          "in",
+          "on",
+          "at",
+          "to"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "garden",
+          "park",
+          "street",
+          "yard"
+        ]
+      ],
+      "mistakeTags": [
+        "prepositions_basic",
+        "in_on_at"
+      ],
+      "audioPath": "assets/audio/grammar/pre_13_prepositions_basic/027.mp3"
+    },
+    {
+      "id": "t13_29",
+      "type": "sentenceAssembly",
+      "question": "Я живу рядом со школой",
+      "correctAnswer": "I live near school",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "live",
+          "work",
+          "study",
+          "play"
+        ],
+        [
+          "near",
+          "at",
+          "in",
+          "by"
+        ],
+        [
+          "school",
+          "home",
+          "park",
+          "work"
+        ]
+      ],
+      "mistakeTags": [
+        "prepositions_basic",
+        "in_on_at"
+      ],
+      "audioPath": "assets/audio/grammar/pre_13_prepositions_basic/028.mp3"
+    },
+    {
+      "id": "t13_30",
+      "type": "sentenceAssembly",
+      "question": "Картина здесь?",
+      "correctAnswer": "Is the picture here?",
+      "options": [],
+      "variants": [
+        [
+          "Is",
+          "Are",
+          "Was",
+          "Has"
+        ],
+        [
+          "the",
+          "a",
+          "my",
+          "this"
+        ],
+        [
+          "picture",
+          "phone",
+          "bag",
+          "book"
+        ],
+        [
+          "here",
+          "there",
+          "near",
+          "inside"
+        ]
+      ],
+      "mistakeTags": [
+        "prepositions_basic",
+        "in_on_at"
+      ],
+      "audioPath": "assets/audio/grammar/pre_13_prepositions_basic/029.mp3"
+    }
+  ],
+  "theoryQuiz": [
+    {
+      "id": "tq_01",
+      "type": "trueFalse",
+      "question": "Предлог \"in\" используется для обозначения нахождения внутри чего-либо.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "In означает «внутри»: in the room, in the box, in Moscow."
+    },
+    {
+      "id": "tq_02",
+      "type": "multipleChoice",
+      "question": "Какой предлог используется с днями недели?",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "to"
+      ],
+      "correctIndex": 1,
+      "explanation": "С днями недели используется on: on Monday, on Friday."
+    },
+    {
+      "id": "tq_03",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"The book is ___ the table.\"",
+      "options": [
+        "in",
+        "at",
+        "on",
+        "to"
+      ],
+      "correctIndex": 2,
+      "explanation": "On — на поверхности: on the table (на столе)."
+    },
+    {
+      "id": "tq_04",
+      "type": "trueFalse",
+      "question": "\"At\" используется с точным временем: at 5 o'clock.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "At указывает на точку времени: at 5 o'clock, at noon, at midnight."
+    },
+    {
+      "id": "tq_05",
+      "type": "multipleChoice",
+      "question": "Какой предлог правильный: \"___ the morning\"?",
+      "options": [
+        "on",
+        "at",
+        "in",
+        "to"
+      ],
+      "correctIndex": 2,
+      "explanation": "С частями дня используется in: in the morning, in the evening."
+    },
+    {
+      "id": "tq_06",
+      "type": "trueFalse",
+      "question": "\"She is at home.\" — предлог \"at\" использован правильно.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "At home — устойчивое выражение, at указывает на точку/место."
+    },
+    {
+      "id": "tq_07",
+      "type": "multipleChoice",
+      "question": "Какой предлог используется с месяцами?",
+      "options": [
+        "on",
+        "at",
+        "in",
+        "by"
+      ],
+      "correctIndex": 2,
+      "explanation": "С месяцами используется in: in January, in March, in September."
+    },
+    {
+      "id": "tq_08",
+      "type": "multipleChoice",
+      "question": "Выберите правильное предложение:",
+      "options": [
+        "I was born at January.",
+        "The meeting is in Monday.",
+        "He arrived at the bus stop.",
+        "She lives in 5 o'clock."
+      ],
+      "correctIndex": 2,
+      "explanation": "At the bus stop — at указывает на конкретную точку. In January, on Monday, at 5 o'clock."
+    },
+    {
+      "id": "tq_09",
+      "type": "trueFalse",
+      "question": "\"On the 5th of March\" — предлог \"on\" используется с датами.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "С конкретными датами используется on: on the 5th, on March 1st."
+    },
+    {
+      "id": "tq_10",
+      "type": "multipleChoice",
+      "question": "Заполните пропуски: \"I live ___ Moscow, ___ Pushkin Street.\"",
+      "options": [
+        "on / in",
+        "at / on",
+        "in / on",
+        "in / at"
+      ],
+      "correctIndex": 2,
+      "explanation": "In Moscow (внутри города), on Pushkin Street (на улице — поверхность)."
+    }
+  ]
+}

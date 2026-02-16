@@ -1,0 +1,1664 @@
+{
+  "id": "pre_21_conjunctions",
+  "title": "Conjunctions: And, But, Or, Because",
+  "description": "Союзы для связи предложений: and, but, or, so, because. Построение сложных предложений.",
+  "order": 14,
+  "level": "pre_intermediate",
+  "imageUrl": "assets/images/lessons/conjunctions.png",
+  "vocabulary": [
+    {
+      "id": "v14_and",
+      "english": "and",
+      "russian": "и",
+      "partOfSpeech": "conjunction",
+      "example": "I like tea and coffee.",
+      "exampleTranslation": "Я люблю чай и кофе.",
+      "audioPath": "assets/audio/vocabulary/v14_and.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_and.mp3"
+    },
+    {
+      "id": "v14_but",
+      "english": "but",
+      "russian": "но",
+      "partOfSpeech": "conjunction",
+      "example": "I like tea but not coffee.",
+      "exampleTranslation": "Я люблю чай, но не кофе.",
+      "audioPath": "assets/audio/vocabulary/v14_but.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_but.mp3"
+    },
+    {
+      "id": "v14_or",
+      "english": "or",
+      "russian": "или",
+      "partOfSpeech": "conjunction",
+      "example": "Tea or coffee?",
+      "exampleTranslation": "Чай или кофе?",
+      "audioPath": "assets/audio/vocabulary/v14_or.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_or.mp3"
+    },
+    {
+      "id": "v14_so",
+      "english": "so",
+      "russian": "поэтому, так что",
+      "partOfSpeech": "conjunction",
+      "example": "I was tired so I slept.",
+      "exampleTranslation": "Я устал, поэтому я уснул.",
+      "audioPath": "assets/audio/vocabulary/v14_so.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_so.mp3"
+    },
+    {
+      "id": "v14_because",
+      "english": "because",
+      "russian": "потому что",
+      "partOfSpeech": "conjunction",
+      "example": "I stayed because I was tired.",
+      "exampleTranslation": "Я остался, потому что устал.",
+      "audioPath": "assets/audio/vocabulary/v14_because.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_because.mp3"
+    },
+    {
+      "id": "v14_like",
+      "english": "like",
+      "russian": "любить, нравиться",
+      "partOfSpeech": "verb",
+      "example": "I like music and films.",
+      "exampleTranslation": "Я люблю музыку и фильмы.",
+      "audioPath": "assets/audio/vocabulary/v14_like.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_like.mp3"
+    },
+    {
+      "id": "v14_want",
+      "english": "want",
+      "russian": "хотеть",
+      "partOfSpeech": "verb",
+      "example": "I want tea or juice.",
+      "exampleTranslation": "Я хочу чай или сок.",
+      "audioPath": "assets/audio/vocabulary/v14_want.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_want.mp3"
+    },
+    {
+      "id": "v14_stay",
+      "english": "stay",
+      "russian": "оставаться",
+      "partOfSpeech": "verb",
+      "example": "I stayed because it was cold.",
+      "exampleTranslation": "Я остался, потому что было холодно.",
+      "audioPath": "assets/audio/vocabulary/v14_stay.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_stay.mp3"
+    },
+    {
+      "id": "v14_tired",
+      "english": "tired",
+      "russian": "уставший",
+      "partOfSpeech": "adjective",
+      "example": "I was tired but happy.",
+      "exampleTranslation": "Я устал, но был счастлив.",
+      "audioPath": "assets/audio/vocabulary/v14_tired.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_tired.mp3"
+    },
+    {
+      "id": "v14_hungry",
+      "english": "hungry",
+      "russian": "голодный",
+      "partOfSpeech": "adjective",
+      "example": "I was hungry so I ate.",
+      "exampleTranslation": "Я был голоден, поэтому поел.",
+      "audioPath": "assets/audio/vocabulary/v14_hungry.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_hungry.mp3"
+    },
+    {
+      "id": "v14_tea",
+      "english": "tea",
+      "russian": "чай",
+      "partOfSpeech": "noun",
+      "example": "I drink tea and water.",
+      "exampleTranslation": "Я пью чай и воду.",
+      "audioPath": "assets/audio/vocabulary/v14_tea.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_tea.mp3"
+    },
+    {
+      "id": "v14_coffee",
+      "english": "coffee",
+      "russian": "кофе",
+      "partOfSpeech": "noun",
+      "example": "Tea or coffee?",
+      "exampleTranslation": "Чай или кофе?",
+      "audioPath": "assets/audio/vocabulary/v14_coffee.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_coffee.mp3"
+    },
+    {
+      "id": "v14_cold",
+      "english": "cold",
+      "russian": "холодный, холодно",
+      "partOfSpeech": "adjective",
+      "example": "It was cold so I stayed.",
+      "exampleTranslation": "Было холодно, поэтому я остался.",
+      "audioPath": "assets/audio/vocabulary/v14_cold.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_cold.mp3"
+    },
+    {
+      "id": "v14_rain",
+      "english": "rain",
+      "russian": "дождь",
+      "partOfSpeech": "noun",
+      "example": "It was rain so I stayed.",
+      "exampleTranslation": "Шёл дождь, поэтому я остался.",
+      "audioPath": "assets/audio/vocabulary/v14_rain.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_rain.mp3"
+    },
+    {
+      "id": "v14_small",
+      "english": "small",
+      "russian": "маленький",
+      "partOfSpeech": "adjective",
+      "example": "It is small but nice.",
+      "exampleTranslation": "Он маленький, но милый.",
+      "audioPath": "assets/audio/vocabulary/v14_small.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_small.mp3"
+    },
+    {
+      "id": "v14_cheap",
+      "english": "cheap",
+      "russian": "дешёвый",
+      "partOfSpeech": "adjective",
+      "example": "It is cheap but good.",
+      "exampleTranslation": "Это дёшево, но хорошо.",
+      "audioPath": "assets/audio/vocabulary/v14_cheap.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_cheap.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "Conjunctions",
+    "subtitle": "Союзы — клей для предложений. And (и), but (но), or (или), so (поэтому), because (потому что) — пять слов, которые делают речь связной.",
+    "construction": {
+      "formula": "Предложение 1 + and/but/or/so/because + Предложение 2",
+      "rules": [
+        {
+          "word": "and",
+          "description": "Соединяет похожее: I like tea and coffee. (И то, и то.)"
+        },
+        {
+          "word": "but",
+          "description": "Противопоставление: I like tea but not coffee. (Одно да, другое нет.)"
+        },
+        {
+          "word": "or",
+          "description": "Выбор: Tea or coffee? (Одно или другое.)"
+        },
+        {
+          "word": "so",
+          "description": "Результат: I was tired so I slept. (Причина → результат.)"
+        },
+        {
+          "word": "because",
+          "description": "Причина: I slept because I was tired. (Результат ← причина.)"
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "handshake",
+        "color": "blue",
+        "title": "Добавляем информацию",
+        "description": "And соединяет два факта или действия.",
+        "example": {
+          "english": "I like tea and coffee.",
+          "russian": "Я люблю чай и кофе."
+        }
+      },
+      {
+        "icon": "bolt",
+        "color": "purple",
+        "title": "Противопоставляем",
+        "description": "But показывает контраст между двумя частями.",
+        "example": {
+          "english": "It is small but nice.",
+          "russian": "Он маленький, но милый."
+        }
+      },
+      {
+        "icon": "check_circle",
+        "color": "orange",
+        "title": "Объясняем причину",
+        "description": "Because и so объясняют почему.",
+        "example": {
+          "english": "I stayed because it was cold.",
+          "russian": "Я остался, потому что было холодно."
+        }
+      }
+    ],
+    "markers": [
+      "and",
+      "but",
+      "or",
+      "so",
+      "because"
+    ]
+  },
+  "tasks": [
+    {
+      "id": "t14_1",
+      "type": "sentenceAssembly",
+      "question": "Я люблю чай и кофе",
+      "correctAnswer": "I like tea and coffee",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "We",
+          "Me"
+        ],
+        [
+          "like",
+          "likes",
+          "liked",
+          "liking"
+        ],
+        [
+          "tea",
+          "milk",
+          "water",
+          "juice"
+        ],
+        [
+          "and",
+          "but",
+          "or",
+          "so"
+        ],
+        [
+          "coffee",
+          "tea",
+          "milk",
+          "water"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_21_conjunctions/000.mp3"
+    },
+    {
+      "id": "t14_2",
+      "type": "sentenceAssembly",
+      "question": "Он высокий и сильный",
+      "correctAnswer": "He is tall and strong",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "They",
+          "Him"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "were"
+        ],
+        [
+          "tall",
+          "short",
+          "big",
+          "small"
+        ],
+        [
+          "and",
+          "but",
+          "or",
+          "so"
+        ],
+        [
+          "strong",
+          "weak",
+          "fast",
+          "slow"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_21_conjunctions/001.mp3"
+    },
+    {
+      "id": "t14_3",
+      "type": "sentenceAssembly",
+      "question": "Мы едим и пьём",
+      "correctAnswer": "We eat and drink",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "I",
+          "Us"
+        ],
+        [
+          "eat",
+          "eats",
+          "ate",
+          "eating"
+        ],
+        [
+          "and",
+          "but",
+          "or",
+          "so"
+        ],
+        [
+          "drink",
+          "drinks",
+          "ate",
+          "drinking"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_21_conjunctions/002.mp3"
+    },
+    {
+      "id": "t14_4",
+      "type": "sentenceAssembly",
+      "question": "Она читает и пишет",
+      "correctAnswer": "She reads and writes",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "They",
+          "Her"
+        ],
+        [
+          "reads",
+          "read",
+          "reading",
+          "wrote"
+        ],
+        [
+          "and",
+          "but",
+          "or",
+          "so"
+        ],
+        [
+          "writes",
+          "write",
+          "writing",
+          "read"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_21_conjunctions/003.mp3"
+    },
+    {
+      "id": "t14_5",
+      "type": "sentenceAssembly",
+      "question": "Я люблю музыку и фильмы",
+      "correctAnswer": "I like music and films",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "We",
+          "Me"
+        ],
+        [
+          "like",
+          "likes",
+          "liked",
+          "liking"
+        ],
+        [
+          "music",
+          "books",
+          "food",
+          "sport"
+        ],
+        [
+          "and",
+          "but",
+          "or",
+          "so"
+        ],
+        [
+          "films",
+          "books",
+          "games",
+          "songs"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_21_conjunctions/004.mp3"
+    },
+    {
+      "id": "t14_6",
+      "type": "sentenceAssembly",
+      "question": "Маленький но хороший",
+      "correctAnswer": "It is small but good",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "He",
+          "She",
+          "They"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "were"
+        ],
+        [
+          "small",
+          "big",
+          "tall",
+          "short"
+        ],
+        [
+          "but",
+          "and",
+          "or",
+          "so"
+        ],
+        [
+          "good",
+          "bad",
+          "nice",
+          "old"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_21_conjunctions/005.mp3"
+    },
+    {
+      "id": "t14_7",
+      "type": "sentenceAssembly",
+      "question": "Я устал но счастлив",
+      "correctAnswer": "I am tired but happy",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "We",
+          "Me"
+        ],
+        [
+          "am",
+          "is",
+          "are",
+          "was"
+        ],
+        [
+          "tired",
+          "hungry",
+          "busy",
+          "sick"
+        ],
+        [
+          "but",
+          "and",
+          "or",
+          "so"
+        ],
+        [
+          "happy",
+          "sad",
+          "angry",
+          "busy"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_21_conjunctions/006.mp3"
+    },
+    {
+      "id": "t14_8",
+      "type": "sentenceAssembly",
+      "question": "Дешёвый но хороший",
+      "correctAnswer": "It is cheap but good",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "He",
+          "She",
+          "They"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "were"
+        ],
+        [
+          "cheap",
+          "old",
+          "small",
+          "fast"
+        ],
+        [
+          "but",
+          "and",
+          "or",
+          "so"
+        ],
+        [
+          "good",
+          "bad",
+          "nice",
+          "new"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_21_conjunctions/007.mp3"
+    },
+    {
+      "id": "t14_9",
+      "type": "sentenceAssembly",
+      "question": "Она умная но ленивая",
+      "correctAnswer": "She is smart but lazy",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "They",
+          "Her"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "were"
+        ],
+        [
+          "smart",
+          "tall",
+          "fast",
+          "kind"
+        ],
+        [
+          "but",
+          "and",
+          "or",
+          "so"
+        ],
+        [
+          "lazy",
+          "busy",
+          "tired",
+          "happy"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_21_conjunctions/008.mp3"
+    },
+    {
+      "id": "t14_10",
+      "type": "sentenceAssembly",
+      "question": "Чай или кофе?",
+      "correctAnswer": "Tea or coffee",
+      "options": [],
+      "variants": [
+        [
+          "Tea",
+          "Milk",
+          "Water",
+          "Juice"
+        ],
+        [
+          "or",
+          "and",
+          "but",
+          "so"
+        ],
+        [
+          "coffee",
+          "tea",
+          "milk",
+          "water"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_21_conjunctions/009.mp3"
+    },
+    {
+      "id": "t14_11",
+      "type": "sentenceAssembly",
+      "question": "Ты хочешь чай или сок?",
+      "correctAnswer": "Do you want tea or juice",
+      "options": [],
+      "variants": [
+        [
+          "Do",
+          "Does",
+          "Did",
+          "Is"
+        ],
+        [
+          "you",
+          "he",
+          "she",
+          "they"
+        ],
+        [
+          "want",
+          "wants",
+          "like",
+          "need"
+        ],
+        [
+          "tea",
+          "milk",
+          "water",
+          "coffee"
+        ],
+        [
+          "or",
+          "and",
+          "but",
+          "so"
+        ],
+        [
+          "juice",
+          "milk",
+          "water",
+          "coffee"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_21_conjunctions/010.mp3"
+    },
+    {
+      "id": "t14_12",
+      "type": "sentenceAssembly",
+      "question": "Остаться или уйти?",
+      "correctAnswer": "Stay or leave",
+      "options": [],
+      "variants": [
+        [
+          "Stay",
+          "Go",
+          "Come",
+          "Run"
+        ],
+        [
+          "or",
+          "and",
+          "but",
+          "so"
+        ],
+        [
+          "leave",
+          "stay",
+          "come",
+          "go"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_21_conjunctions/011.mp3"
+    },
+    {
+      "id": "t14_13",
+      "type": "sentenceAssembly",
+      "question": "Да или нет?",
+      "correctAnswer": "Yes or no",
+      "options": [],
+      "variants": [
+        [
+          "Yes",
+          "No",
+          "Maybe",
+          "Sure"
+        ],
+        [
+          "or",
+          "and",
+          "but",
+          "so"
+        ],
+        [
+          "no",
+          "yes",
+          "maybe",
+          "sure"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_21_conjunctions/012.mp3"
+    },
+    {
+      "id": "t14_14",
+      "type": "sentenceAssembly",
+      "question": "Я устал поэтому я спал",
+      "correctAnswer": "I was tired so I slept",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "We",
+          "Me"
+        ],
+        [
+          "was",
+          "were",
+          "am",
+          "is"
+        ],
+        [
+          "tired",
+          "hungry",
+          "busy",
+          "sick"
+        ],
+        [
+          "so",
+          "but",
+          "and",
+          "or"
+        ],
+        [
+          "I",
+          "he",
+          "she",
+          "we"
+        ],
+        [
+          "slept",
+          "sleep",
+          "sleeping",
+          "sleeps"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_21_conjunctions/013.mp3"
+    },
+    {
+      "id": "t14_15",
+      "type": "sentenceAssembly",
+      "question": "Было холодно поэтому я остался",
+      "correctAnswer": "It was cold so I stayed",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "He",
+          "She",
+          "They"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "are"
+        ],
+        [
+          "cold",
+          "warm",
+          "hot",
+          "cool"
+        ],
+        [
+          "so",
+          "but",
+          "and",
+          "or"
+        ],
+        [
+          "I",
+          "he",
+          "she",
+          "we"
+        ],
+        [
+          "stayed",
+          "stay",
+          "staying",
+          "stays"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_21_conjunctions/014.mp3"
+    },
+    {
+      "id": "t14_16",
+      "type": "sentenceAssembly",
+      "question": "Я был голоден поэтому я поел",
+      "correctAnswer": "I was hungry so I ate",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "We",
+          "Me"
+        ],
+        [
+          "was",
+          "were",
+          "am",
+          "is"
+        ],
+        [
+          "hungry",
+          "tired",
+          "busy",
+          "sick"
+        ],
+        [
+          "so",
+          "but",
+          "and",
+          "or"
+        ],
+        [
+          "I",
+          "he",
+          "she",
+          "we"
+        ],
+        [
+          "ate",
+          "eat",
+          "eating",
+          "eats"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_21_conjunctions/015.mp3"
+    },
+    {
+      "id": "t14_17",
+      "type": "sentenceAssembly",
+      "question": "Он опоздал поэтому он бежал",
+      "correctAnswer": "He was late so he ran",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "They",
+          "Him"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "are"
+        ],
+        [
+          "late",
+          "early",
+          "tired",
+          "busy"
+        ],
+        [
+          "so",
+          "but",
+          "and",
+          "or"
+        ],
+        [
+          "he",
+          "she",
+          "they",
+          "I"
+        ],
+        [
+          "ran",
+          "run",
+          "running",
+          "runs"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_21_conjunctions/016.mp3"
+    },
+    {
+      "id": "t14_18",
+      "type": "sentenceAssembly",
+      "question": "Шёл дождь поэтому я остался",
+      "correctAnswer": "It was raining so I stayed",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "He",
+          "She",
+          "They"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "are"
+        ],
+        [
+          "raining",
+          "cold",
+          "warm",
+          "hot"
+        ],
+        [
+          "so",
+          "but",
+          "and",
+          "or"
+        ],
+        [
+          "I",
+          "he",
+          "she",
+          "we"
+        ],
+        [
+          "stayed",
+          "stay",
+          "staying",
+          "stays"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_21_conjunctions/017.mp3"
+    },
+    {
+      "id": "t14_19",
+      "type": "sentenceAssembly",
+      "question": "Она устала поэтому она спала",
+      "correctAnswer": "She was tired so she slept",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "They",
+          "Her"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "are"
+        ],
+        [
+          "tired",
+          "hungry",
+          "busy",
+          "sick"
+        ],
+        [
+          "so",
+          "but",
+          "and",
+          "or"
+        ],
+        [
+          "she",
+          "he",
+          "they",
+          "I"
+        ],
+        [
+          "slept",
+          "sleep",
+          "sleeping",
+          "sleeps"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_21_conjunctions/018.mp3"
+    },
+    {
+      "id": "t14_20",
+      "type": "sentenceAssembly",
+      "question": "Они были заняты поэтому ушли",
+      "correctAnswer": "They were busy so they left",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "We",
+          "He",
+          "Them"
+        ],
+        [
+          "were",
+          "was",
+          "are",
+          "is"
+        ],
+        [
+          "busy",
+          "tired",
+          "happy",
+          "late"
+        ],
+        [
+          "so",
+          "but",
+          "and",
+          "or"
+        ],
+        [
+          "they",
+          "he",
+          "she",
+          "I"
+        ],
+        [
+          "left",
+          "leave",
+          "leaving",
+          "leaves"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_21_conjunctions/019.mp3"
+    },
+    {
+      "id": "t14_21",
+      "type": "sentenceAssembly",
+      "question": "Я остался потому что устал",
+      "correctAnswer": "I stayed because I was tired",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "We",
+          "Me"
+        ],
+        [
+          "stayed",
+          "stay",
+          "staying",
+          "stays"
+        ],
+        [
+          "because",
+          "so",
+          "but",
+          "and"
+        ],
+        [
+          "I",
+          "he",
+          "she",
+          "we"
+        ],
+        [
+          "was",
+          "were",
+          "am",
+          "is"
+        ],
+        [
+          "tired",
+          "hungry",
+          "busy",
+          "happy"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_21_conjunctions/020.mp3"
+    },
+    {
+      "id": "t14_22",
+      "type": "sentenceAssembly",
+      "question": "Она счастлива потому что любит работу",
+      "correctAnswer": "She is happy because she likes work",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "They",
+          "Her"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "were"
+        ],
+        [
+          "happy",
+          "sad",
+          "tired",
+          "busy"
+        ],
+        [
+          "because",
+          "so",
+          "but",
+          "and"
+        ],
+        [
+          "she",
+          "he",
+          "they",
+          "I"
+        ],
+        [
+          "likes",
+          "like",
+          "liked",
+          "liking"
+        ],
+        [
+          "work",
+          "school",
+          "food",
+          "books"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_21_conjunctions/021.mp3"
+    },
+    {
+      "id": "t14_23",
+      "type": "sentenceAssembly",
+      "question": "Он учится потому что хочет",
+      "correctAnswer": "He studies because he wants",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "They",
+          "Him"
+        ],
+        [
+          "studies",
+          "study",
+          "studied",
+          "studying"
+        ],
+        [
+          "because",
+          "so",
+          "but",
+          "and"
+        ],
+        [
+          "he",
+          "she",
+          "they",
+          "I"
+        ],
+        [
+          "wants",
+          "want",
+          "wanted",
+          "wanting"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_21_conjunctions/022.mp3"
+    },
+    {
+      "id": "t14_24",
+      "type": "sentenceAssembly",
+      "question": "Мы дома потому что холодно",
+      "correctAnswer": "We are home because it is cold",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "I",
+          "Us"
+        ],
+        [
+          "are",
+          "is",
+          "was",
+          "were"
+        ],
+        [
+          "home",
+          "here",
+          "there",
+          "late"
+        ],
+        [
+          "because",
+          "so",
+          "but",
+          "and"
+        ],
+        [
+          "it",
+          "he",
+          "she",
+          "they"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "were"
+        ],
+        [
+          "cold",
+          "warm",
+          "hot",
+          "nice"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_21_conjunctions/023.mp3"
+    },
+    {
+      "id": "t14_25",
+      "type": "sentenceAssembly",
+      "question": "Я пью воду потому что жарко",
+      "correctAnswer": "I drink water because it is hot",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "We",
+          "Me"
+        ],
+        [
+          "drink",
+          "drinks",
+          "drank",
+          "drinking"
+        ],
+        [
+          "water",
+          "tea",
+          "milk",
+          "juice"
+        ],
+        [
+          "because",
+          "so",
+          "but",
+          "and"
+        ],
+        [
+          "it",
+          "he",
+          "she",
+          "they"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "were"
+        ],
+        [
+          "hot",
+          "cold",
+          "warm",
+          "cool"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_21_conjunctions/024.mp3"
+    },
+    {
+      "id": "t14_26",
+      "type": "sentenceAssembly",
+      "question": "Она не пришла потому что была занята",
+      "correctAnswer": "She did not come because she was busy",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "They",
+          "Her"
+        ],
+        [
+          "did",
+          "do",
+          "does",
+          "was"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "none"
+        ],
+        [
+          "come",
+          "came",
+          "coming",
+          "comes"
+        ],
+        [
+          "because",
+          "so",
+          "but",
+          "and"
+        ],
+        [
+          "she",
+          "he",
+          "they",
+          "I"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "are"
+        ],
+        [
+          "busy",
+          "tired",
+          "happy",
+          "late"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_21_conjunctions/025.mp3"
+    },
+    {
+      "id": "t14_27",
+      "type": "sentenceAssembly",
+      "question": "Он бежал потому что опоздал",
+      "correctAnswer": "He ran because he was late",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "They",
+          "Him"
+        ],
+        [
+          "ran",
+          "run",
+          "running",
+          "runs"
+        ],
+        [
+          "because",
+          "so",
+          "but",
+          "and"
+        ],
+        [
+          "he",
+          "she",
+          "they",
+          "I"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "are"
+        ],
+        [
+          "late",
+          "early",
+          "tired",
+          "busy"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_21_conjunctions/026.mp3"
+    },
+    {
+      "id": "t14_28",
+      "type": "sentenceAssembly",
+      "question": "Я люблю чай но не кофе",
+      "correctAnswer": "I like tea but not coffee",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "We",
+          "Me"
+        ],
+        [
+          "like",
+          "likes",
+          "liked",
+          "liking"
+        ],
+        [
+          "tea",
+          "milk",
+          "water",
+          "juice"
+        ],
+        [
+          "but",
+          "and",
+          "or",
+          "so"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "none"
+        ],
+        [
+          "coffee",
+          "tea",
+          "milk",
+          "water"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_21_conjunctions/027.mp3"
+    },
+    {
+      "id": "t14_29",
+      "type": "sentenceAssembly",
+      "question": "Ты хочешь есть или пить?",
+      "correctAnswer": "Do you want to eat or drink",
+      "options": [],
+      "variants": [
+        [
+          "Do",
+          "Does",
+          "Did",
+          "Is"
+        ],
+        [
+          "you",
+          "he",
+          "she",
+          "they"
+        ],
+        [
+          "want",
+          "wants",
+          "like",
+          "need"
+        ],
+        [
+          "to",
+          "a",
+          "the",
+          "for"
+        ],
+        [
+          "eat",
+          "eats",
+          "eating",
+          "ate"
+        ],
+        [
+          "or",
+          "and",
+          "but",
+          "so"
+        ],
+        [
+          "drink",
+          "drinks",
+          "drinking",
+          "drank"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_21_conjunctions/028.mp3"
+    },
+    {
+      "id": "t14_30",
+      "type": "sentenceAssembly",
+      "question": "Мы устали но мы счастливы",
+      "correctAnswer": "We are tired but we are happy",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "I",
+          "Us"
+        ],
+        [
+          "are",
+          "is",
+          "was",
+          "were"
+        ],
+        [
+          "tired",
+          "hungry",
+          "busy",
+          "sick"
+        ],
+        [
+          "but",
+          "and",
+          "or",
+          "so"
+        ],
+        [
+          "we",
+          "they",
+          "he",
+          "she"
+        ],
+        [
+          "are",
+          "is",
+          "was",
+          "were"
+        ],
+        [
+          "happy",
+          "sad",
+          "angry",
+          "busy"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_21_conjunctions/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionPreIntermediate14Conjunctions",
+  "theoryQuiz": [
+    {
+      "id": "tq_14_01",
+      "type": "multipleChoice",
+      "question": "Какой союз означает «и»?",
+      "options": [
+        "but",
+        "or",
+        "and",
+        "so"
+      ],
+      "correctIndex": 2,
+      "explanation": "And = и. I like tea and coffee."
+    },
+    {
+      "id": "tq_14_02",
+      "type": "multipleChoice",
+      "question": "Какой союз используем для противопоставления?",
+      "options": [
+        "and",
+        "but",
+        "or",
+        "because"
+      ],
+      "correctIndex": 1,
+      "explanation": "But = но. Показывает контраст: I am tired but happy."
+    },
+    {
+      "id": "tq_14_03",
+      "type": "trueFalse",
+      "question": "\"I like tea or coffee\" означает «Я люблю чай и кофе».",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "Or = или (выбор). «Я люблю чай или кофе» — одно из двух."
+    },
+    {
+      "id": "tq_14_04",
+      "type": "multipleChoice",
+      "question": "Выберите правильный союз: \"I was tired ___ I slept.\" (поэтому)",
+      "options": [
+        "but",
+        "and",
+        "because",
+        "so"
+      ],
+      "correctIndex": 3,
+      "explanation": "So = поэтому. I was tired so I slept."
+    },
+    {
+      "id": "tq_14_05",
+      "type": "multipleChoice",
+      "question": "Какой союз означает «потому что»?",
+      "options": [
+        "so",
+        "but",
+        "because",
+        "or"
+      ],
+      "correctIndex": 2,
+      "explanation": "Because = потому что. I stayed because I was tired."
+    },
+    {
+      "id": "tq_14_06",
+      "type": "trueFalse",
+      "question": "\"So\" и \"because\" выражают причинно-следственную связь.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "So = результат (поэтому), because = причина (потому что). Оба связаны с причиной и следствием."
+    },
+    {
+      "id": "tq_14_07",
+      "type": "multipleChoice",
+      "question": "Выберите правильный союз: \"Tea ___ coffee?\" (выбор)",
+      "options": [
+        "and",
+        "but",
+        "or",
+        "so"
+      ],
+      "correctIndex": 2,
+      "explanation": "Or = или. Tea or coffee? — Чай или кофе?"
+    },
+    {
+      "id": "tq_14_08",
+      "type": "multipleChoice",
+      "question": "Как правильно: «Он маленький, но сильный»?",
+      "options": [
+        "He is small and strong.",
+        "He is small but strong.",
+        "He is small or strong.",
+        "He is small so strong."
+      ],
+      "correctIndex": 1,
+      "explanation": "But показывает контраст: He is small but strong."
+    },
+    {
+      "id": "tq_14_09",
+      "type": "trueFalse",
+      "question": "\"I stayed because it was cold\" — правильное предложение.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Because объясняет причину: I stayed because it was cold. Верно."
+    },
+    {
+      "id": "tq_14_10",
+      "type": "multipleChoice",
+      "question": "Выберите правильный союз: \"I like music ___ films.\" (и)",
+      "options": [
+        "but",
+        "or",
+        "so",
+        "and"
+      ],
+      "correctIndex": 3,
+      "explanation": "And = и. I like music and films."
+    }
+  ]
+}

@@ -1,0 +1,461 @@
+{
+  "id": "advanced_listening_13_hedging_vague",
+  "title": "Hedging & Vague Language",
+  "description": "Слушайте смягчающие и неопределённые выражения.",
+  "order": 13,
+  "level": "advanced",
+  "imageUrl": "assets/images/lessons/hedging_vague.png",
+  "tasks": [
+    {
+      "id": "t13_01",
+      "audioText": "The researcher presented preliminary findings at the conference. The data tends to suggest that prolonged screen time may adversely affect children's cognitive development.",
+      "transcript": "The data tends to suggest that prolonged screen time may adversely affect children's cognitive development.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The data conclusively proves that screens harm children."
+        },
+        {
+          "id": "o2",
+          "text": "The evidence leans towards indicating that extended screen exposure could negatively impact young minds."
+        },
+        {
+          "id": "o3",
+          "text": "Screen time has absolutely no effect on children."
+        },
+        {
+          "id": "o4",
+          "text": "The researcher recommends more screen time for children."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Tends to suggest' and 'may adversely affect' are hedging devices. The researcher avoids definitive claims, presenting a cautious interpretation of the data.",
+      "mistakeTags": [
+        "hedging_vague",
+        "academia"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_13_hedging_vague/t13_01.mp3"
+    },
+    {
+      "id": "t13_02",
+      "audioText": "The manager discussed the quarterly performance with the team. It seems that our marketing strategy hasn't quite delivered the results we were hoping for.",
+      "transcript": "It seems that our marketing strategy hasn't quite delivered the results we were hoping for.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The marketing strategy was a complete disaster."
+        },
+        {
+          "id": "o2",
+          "text": "The marketing strategy exceeded all expectations."
+        },
+        {
+          "id": "o3",
+          "text": "The marketing approach appears to have fallen somewhat short of their desired outcomes."
+        },
+        {
+          "id": "o4",
+          "text": "They never had a marketing strategy."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'It seems' and 'hasn't quite delivered' soften the criticism. Rather than directly saying the strategy failed, the speaker uses vague language to cushion the assessment.",
+      "mistakeTags": [
+        "hedging_vague",
+        "business"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_13_hedging_vague/t13_02.mp3"
+    },
+    {
+      "id": "t13_03",
+      "audioText": "The doctor discussed the test results with the patient. There appears to be some sort of irregularity in your blood work, but it could be nothing serious.",
+      "transcript": "There appears to be some sort of irregularity in your blood work, but it could be nothing serious.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The blood tests revealed a life-threatening condition."
+        },
+        {
+          "id": "o2",
+          "text": "Something slightly unusual showed up in the blood tests, though it might not be a cause for concern."
+        },
+        {
+          "id": "o3",
+          "text": "The blood work was perfectly normal."
+        },
+        {
+          "id": "o4",
+          "text": "The doctor refused to discuss the results."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Appears to be', 'some sort of', and 'could be nothing serious' are hedging expressions. The doctor cautiously acknowledges an abnormality while avoiding alarm.",
+      "mistakeTags": [
+        "hedging_vague",
+        "medical"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_13_hedging_vague/t13_03.mp3"
+    },
+    {
+      "id": "t13_04",
+      "audioText": "The economist was interviewed about the housing market. Prices are sort of plateauing, I suppose, though predicting the next quarter is rather tricky.",
+      "transcript": "Prices are sort of plateauing, I suppose, though predicting the next quarter is rather tricky.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Housing prices are definitely going to crash next quarter."
+        },
+        {
+          "id": "o2",
+          "text": "Prices seem to be levelling off, although forecasting the near future is quite difficult."
+        },
+        {
+          "id": "o3",
+          "text": "The economist is certain prices will rise sharply."
+        },
+        {
+          "id": "o4",
+          "text": "The housing market has completely collapsed."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Sort of', 'I suppose', and 'rather tricky' are hedging and vague expressions. The economist avoids committing to a firm prediction.",
+      "mistakeTags": [
+        "hedging_vague",
+        "economics"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_13_hedging_vague/t13_04.mp3"
+    },
+    {
+      "id": "t13_05",
+      "audioText": "The diplomat briefed journalists after the meeting. Apparently, both sides have expressed a willingness to resume talks, though nothing concrete has been agreed upon yet.",
+      "transcript": "Apparently, both sides have expressed a willingness to resume talks, though nothing concrete has been agreed upon yet.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "A comprehensive peace deal has been signed."
+        },
+        {
+          "id": "o2",
+          "text": "Both parties have reportedly shown interest in continuing negotiations, but no firm commitments have been made."
+        },
+        {
+          "id": "o3",
+          "text": "Both sides refuse to negotiate under any conditions."
+        },
+        {
+          "id": "o4",
+          "text": "The meeting was cancelled at the last moment."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Apparently' signals reported information, and 'nothing concrete' hedges against overstatement. The diplomat conveys cautious optimism without certainty.",
+      "mistakeTags": [
+        "hedging_vague",
+        "diplomacy"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_13_hedging_vague/t13_05.mp3"
+    },
+    {
+      "id": "t13_06",
+      "audioText": "The professor reviewed the student's thesis draft. Your argument is somewhat compelling, but it might benefit from a more nuanced analysis of the counterarguments.",
+      "transcript": "Your argument is somewhat compelling, but it might benefit from a more nuanced analysis of the counterarguments.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The thesis is perfect and needs no revision."
+        },
+        {
+          "id": "o2",
+          "text": "The thesis is terrible and should be completely rewritten."
+        },
+        {
+          "id": "o3",
+          "text": "The argument has some merit, but could be improved by addressing opposing viewpoints more thoroughly."
+        },
+        {
+          "id": "o4",
+          "text": "The professor refused to read the thesis."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Somewhat compelling' and 'might benefit from' are hedging phrases that soften the feedback. The professor offers constructive criticism diplomatically.",
+      "mistakeTags": [
+        "hedging_vague",
+        "academia"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_13_hedging_vague/t13_06.mp3"
+    },
+    {
+      "id": "t13_07",
+      "audioText": "The lawyer addressed the court cautiously. It would appear that the evidence, such as it is, does not conclusively establish the defendant's involvement.",
+      "transcript": "It would appear that the evidence, such as it is, does not conclusively establish the defendant's involvement.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The evidence clearly proves the defendant is guilty."
+        },
+        {
+          "id": "o2",
+          "text": "The available evidence, limited as it may be, does not definitively prove the accused person's participation."
+        },
+        {
+          "id": "o3",
+          "text": "There is no evidence in this case at all."
+        },
+        {
+          "id": "o4",
+          "text": "The lawyer confirmed the defendant's guilt."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'It would appear', 'such as it is', and 'not conclusively' are layered hedging devices. The lawyer carefully questions the strength of the evidence.",
+      "mistakeTags": [
+        "hedging_vague",
+        "law"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_13_hedging_vague/t13_07.mp3"
+    },
+    {
+      "id": "t13_08",
+      "audioText": "The project manager updated the stakeholders. We're more or less on schedule, though there have been a couple of minor setbacks with the supply chain.",
+      "transcript": "We're more or less on schedule, though there have been a couple of minor setbacks with the supply chain.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The project is significantly behind schedule."
+        },
+        {
+          "id": "o2",
+          "text": "The project is roughly on track despite a few small supply issues."
+        },
+        {
+          "id": "o3",
+          "text": "The project was completed ahead of schedule."
+        },
+        {
+          "id": "o4",
+          "text": "The supply chain is functioning perfectly."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'More or less', 'a couple of', and 'minor setbacks' are vague and minimizing expressions. The manager softens the impact of delays.",
+      "mistakeTags": [
+        "hedging_vague",
+        "project_management"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_13_hedging_vague/t13_08.mp3"
+    },
+    {
+      "id": "t13_09",
+      "audioText": "The climate scientist was asked about rising sea levels. There is a reasonable likelihood that coastal flooding will become increasingly frequent over the coming decades.",
+      "transcript": "There is a reasonable likelihood that coastal flooding will become increasingly frequent over the coming decades.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Coastal flooding will definitely stop within the next decade."
+        },
+        {
+          "id": "o2",
+          "text": "It is fairly probable that floods in coastal areas will occur more often in the next several decades."
+        },
+        {
+          "id": "o3",
+          "text": "Sea levels have no connection to coastal flooding."
+        },
+        {
+          "id": "o4",
+          "text": "The scientist guarantees no flooding will occur."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'A reasonable likelihood' and 'increasingly frequent' are measured hedging terms typical of academic discourse. The scientist avoids absolute predictions.",
+      "mistakeTags": [
+        "hedging_vague",
+        "climate_science"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_13_hedging_vague/t13_09.mp3"
+    },
+    {
+      "id": "t13_10",
+      "audioText": "The art critic reviewed the controversial installation. The piece is kind of thought-provoking, in a way, though its artistic merit is open to interpretation.",
+      "transcript": "The piece is kind of thought-provoking, in a way, though its artistic merit is open to interpretation.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The critic declared the installation a masterpiece."
+        },
+        {
+          "id": "o2",
+          "text": "The work is somewhat stimulating intellectually, but whether it qualifies as good art is debatable."
+        },
+        {
+          "id": "o3",
+          "text": "The critic found the piece completely uninteresting."
+        },
+        {
+          "id": "o4",
+          "text": "Everyone agrees the installation has no artistic value."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Kind of', 'in a way', and 'open to interpretation' are vague language markers. The critic avoids a definitive aesthetic judgement.",
+      "mistakeTags": [
+        "hedging_vague",
+        "art"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_13_hedging_vague/t13_10.mp3"
+    },
+    {
+      "id": "t13_11",
+      "audioText": "The HR director spoke to the department heads. I would tentatively suggest that we might want to consider restructuring the onboarding process at some point.",
+      "transcript": "I would tentatively suggest that we might want to consider restructuring the onboarding process at some point.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She demanded an immediate overhaul of the onboarding process."
+        },
+        {
+          "id": "o2",
+          "text": "She very cautiously raised the idea that it could be worth rethinking how new employees are introduced."
+        },
+        {
+          "id": "o3",
+          "text": "The onboarding process has already been restructured."
+        },
+        {
+          "id": "o4",
+          "text": "She said the current onboarding process is perfect."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Would tentatively suggest', 'might want to consider', and 'at some point' create multiple layers of hedging. The speaker is extremely cautious about proposing change.",
+      "mistakeTags": [
+        "hedging_vague",
+        "human_resources"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_13_hedging_vague/t13_11.mp3"
+    },
+    {
+      "id": "t13_12",
+      "audioText": "The financial analyst briefed the investors. The market seems to be showing signs of recovery, although it is perhaps too early to draw any definitive conclusions.",
+      "transcript": "The market seems to be showing signs of recovery, although it is perhaps too early to draw any definitive conclusions.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The market recovery is guaranteed and complete."
+        },
+        {
+          "id": "o2",
+          "text": "The market appears to be recovering, but it may be premature to make firm judgements."
+        },
+        {
+          "id": "o3",
+          "text": "The market is in total collapse with no hope of recovery."
+        },
+        {
+          "id": "o4",
+          "text": "The analyst refused to comment on the market."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Seems to be showing signs' and 'perhaps too early' use hedging to express cautious optimism. The analyst acknowledges positive indicators without committing.",
+      "mistakeTags": [
+        "hedging_vague",
+        "finance"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_13_hedging_vague/t13_12.mp3"
+    },
+    {
+      "id": "t13_13",
+      "audioText": "The sociologist discussed social media's influence on youth. One might argue that online platforms have, to some extent, reshaped the way young people form their identities.",
+      "transcript": "One might argue that online platforms have, to some extent, reshaped the way young people form their identities.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Social media has completely destroyed young people's sense of identity."
+        },
+        {
+          "id": "o2",
+          "text": "Social media has no influence on identity formation."
+        },
+        {
+          "id": "o3",
+          "text": "It could be said that digital platforms have partially changed how the youth construct their sense of self."
+        },
+        {
+          "id": "o4",
+          "text": "The sociologist avoided discussing social media entirely."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'One might argue' and 'to some extent' are classic academic hedging. The sociologist suggests a partial influence without overstating the claim.",
+      "mistakeTags": [
+        "hedging_vague",
+        "sociology"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_13_hedging_vague/t13_13.mp3"
+    },
+    {
+      "id": "t13_14",
+      "audioText": "The engineer presented the safety report to the board. The structural integrity of the bridge is, as far as we can tell, adequate, but ongoing monitoring would be advisable.",
+      "transcript": "The structural integrity of the bridge is, as far as we can tell, adequate, but ongoing monitoring would be advisable.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The bridge is perfectly safe and needs no further monitoring."
+        },
+        {
+          "id": "o2",
+          "text": "The bridge should be demolished immediately."
+        },
+        {
+          "id": "o3",
+          "text": "Based on current knowledge, the bridge appears sufficiently sound, though continued observation is recommended."
+        },
+        {
+          "id": "o4",
+          "text": "The engineer has not inspected the bridge."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'As far as we can tell' and 'would be advisable' hedge the assessment. The engineer signals confidence limits while recommending precautionary measures.",
+      "mistakeTags": [
+        "hedging_vague",
+        "engineering"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_13_hedging_vague/t13_14.mp3"
+    },
+    {
+      "id": "t13_15",
+      "audioText": "The psychologist discussed the study's limitations. The findings are broadly consistent with the hypothesis, although certain variables may not have been adequately controlled for.",
+      "transcript": "The findings are broadly consistent with the hypothesis, although certain variables may not have been adequately controlled for.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The study perfectly confirmed the hypothesis with no limitations."
+        },
+        {
+          "id": "o2",
+          "text": "The results generally support the theory, but some factors might not have been sufficiently accounted for."
+        },
+        {
+          "id": "o3",
+          "text": "The findings completely contradict the hypothesis."
+        },
+        {
+          "id": "o4",
+          "text": "The psychologist found no variables worth discussing."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Broadly consistent', 'certain variables', and 'may not have been adequately controlled' hedge the conclusions. The researcher acknowledges limitations while affirming general support.",
+      "mistakeTags": [
+        "hedging_vague",
+        "psychology"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_13_hedging_vague/t13_15.mp3"
+    }
+  ],
+  "short_description": "Смягчающие и неопределённые выражения."
+}

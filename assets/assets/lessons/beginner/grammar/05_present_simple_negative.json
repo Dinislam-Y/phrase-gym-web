@@ -1,0 +1,1554 @@
+{
+  "id": "beginner_05_present_simple_negative",
+  "title": "Present Simple: Negative",
+  "description": "Учимся говорить «нет» по-английски. Don't и doesn't — ваши помощники для отрицания в настоящем времени.",
+  "order": 5,
+  "level": "beginner",
+  "imageUrl": "assets/images/lessons/present_simple_negative.png",
+  "vocabulary": [
+    {
+      "id": "v5_like",
+      "english": "like",
+      "russian": "любить, нравиться",
+      "partOfSpeech": "verb",
+      "example": "I don't like coffee.",
+      "exampleTranslation": "Я не люблю кофе.",
+      "audioPath": "assets/audio/vocabulary/v5_like.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_like.mp3"
+    },
+    {
+      "id": "v5_work",
+      "english": "work",
+      "russian": "работать",
+      "partOfSpeech": "verb",
+      "example": "I don't work here.",
+      "exampleTranslation": "Я не работаю здесь.",
+      "audioPath": "assets/audio/vocabulary/v5_work.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_work.mp3"
+    },
+    {
+      "id": "v5_play",
+      "english": "play",
+      "russian": "играть",
+      "partOfSpeech": "verb",
+      "example": "He doesn't play football.",
+      "exampleTranslation": "Он не играет в футбол.",
+      "audioPath": "assets/audio/vocabulary/v5_play.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_play.mp3"
+    },
+    {
+      "id": "v5_eat",
+      "english": "eat",
+      "russian": "есть, кушать",
+      "partOfSpeech": "verb",
+      "example": "She doesn't eat meat.",
+      "exampleTranslation": "Она не ест мясо.",
+      "audioPath": "assets/audio/vocabulary/v5_eat.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_eat.mp3"
+    },
+    {
+      "id": "v5_know",
+      "english": "know",
+      "russian": "знать",
+      "partOfSpeech": "verb",
+      "example": "They don't know him.",
+      "exampleTranslation": "Они не знают его.",
+      "audioPath": "assets/audio/vocabulary/v5_know.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_know.mp3"
+    },
+    {
+      "id": "v5_speak",
+      "english": "speak",
+      "russian": "говорить (на языке)",
+      "partOfSpeech": "verb",
+      "example": "He doesn't speak French.",
+      "exampleTranslation": "Он не говорит по-французски.",
+      "audioPath": "assets/audio/vocabulary/v5_speak.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_speak.mp3"
+    },
+    {
+      "id": "v5_drink",
+      "english": "drink",
+      "russian": "пить",
+      "partOfSpeech": "verb",
+      "example": "I don't drink milk.",
+      "exampleTranslation": "Я не пью молоко.",
+      "audioPath": "assets/audio/vocabulary/v5_drink.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_drink.mp3"
+    },
+    {
+      "id": "v5_live",
+      "english": "live",
+      "russian": "жить",
+      "partOfSpeech": "verb",
+      "example": "She doesn't live here.",
+      "exampleTranslation": "Она не живет здесь.",
+      "audioPath": "assets/audio/vocabulary/v5_live.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_live.mp3"
+    },
+    {
+      "id": "v5_want",
+      "english": "want",
+      "russian": "хотеть",
+      "partOfSpeech": "verb",
+      "example": "I don't want this.",
+      "exampleTranslation": "Я не хочу это.",
+      "audioPath": "assets/audio/vocabulary/v5_want.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_want.mp3"
+    },
+    {
+      "id": "v5_need",
+      "english": "need",
+      "russian": "нуждаться",
+      "partOfSpeech": "verb",
+      "example": "We don't need help.",
+      "exampleTranslation": "Нам не нужна помощь.",
+      "audioPath": "assets/audio/vocabulary/v5_need.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_need.mp3"
+    },
+    {
+      "id": "v5_have",
+      "english": "have",
+      "russian": "иметь",
+      "partOfSpeech": "verb",
+      "example": "We don't have time.",
+      "exampleTranslation": "У нас нет времени.",
+      "audioPath": "assets/audio/vocabulary/v5_have.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_have.mp3"
+    },
+    {
+      "id": "v5_drive",
+      "english": "drive",
+      "russian": "водить (машину)",
+      "partOfSpeech": "verb",
+      "example": "She doesn't drive a car.",
+      "exampleTranslation": "Она не водит машину.",
+      "audioPath": "assets/audio/vocabulary/v5_drive.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_drive.mp3"
+    },
+    {
+      "id": "v5_cook",
+      "english": "cook",
+      "russian": "готовить (еду)",
+      "partOfSpeech": "verb",
+      "example": "He doesn't cook dinner.",
+      "exampleTranslation": "Он не готовит ужин.",
+      "audioPath": "assets/audio/vocabulary/v5_cook.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_cook.mp3"
+    },
+    {
+      "id": "v5_run",
+      "english": "run",
+      "russian": "бегать",
+      "partOfSpeech": "verb",
+      "example": "I don't run fast.",
+      "exampleTranslation": "Я не бегаю быстро.",
+      "audioPath": "assets/audio/vocabulary/v5_run.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_run.mp3"
+    },
+    {
+      "id": "v5_coffee",
+      "english": "coffee",
+      "russian": "кофе",
+      "partOfSpeech": "noun",
+      "example": "I don't like coffee.",
+      "exampleTranslation": "Я не люблю кофе.",
+      "audioPath": "assets/audio/vocabulary/v5_coffee.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_coffee.mp3"
+    },
+    {
+      "id": "v5_meat",
+      "english": "meat",
+      "russian": "мясо",
+      "partOfSpeech": "noun",
+      "example": "She doesn't eat meat.",
+      "exampleTranslation": "Она не ест мясо.",
+      "audioPath": "assets/audio/vocabulary/v5_meat.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_meat.mp3"
+    },
+    {
+      "id": "v5_football",
+      "english": "football",
+      "russian": "футбол",
+      "partOfSpeech": "noun",
+      "example": "He doesn't play football.",
+      "exampleTranslation": "Он не играет в футбол.",
+      "audioPath": "assets/audio/vocabulary/v5_football.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_football.mp3"
+    },
+    {
+      "id": "v5_time",
+      "english": "time",
+      "russian": "время",
+      "partOfSpeech": "noun",
+      "example": "We don't have time.",
+      "exampleTranslation": "У нас нет времени.",
+      "audioPath": "assets/audio/vocabulary/v5_time.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_time.mp3"
+    },
+    {
+      "id": "v5_tea",
+      "english": "tea",
+      "russian": "чай",
+      "partOfSpeech": "noun",
+      "example": "Do you like tea?",
+      "exampleTranslation": "Ты любишь чай?",
+      "audioPath": "assets/audio/vocabulary/v5_tea.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_tea.mp3"
+    },
+    {
+      "id": "v5_fish",
+      "english": "fish",
+      "russian": "рыба",
+      "partOfSpeech": "noun",
+      "example": "He doesn't eat fish.",
+      "exampleTranslation": "Он не ест рыбу.",
+      "audioPath": "assets/audio/vocabulary/v5_fish.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v5_fish.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "Present Simple: Negative",
+    "subtitle": "Чтобы сказать «я НЕ делаю», в английском нужен помощник — do not (don't) или does not (doesn't). Главный глагол при этом всегда остается без окончания -s. Запомните: does уже забрал -s себе, поэтому глагол стоит в базовой форме.",
+    "construction": {
+      "formula": "I/You/We/They + don't + verb | He/She/It + doesn't + verb",
+      "rules": [
+        {
+          "word": "don't",
+          "description": "Сокращение от do not. Используем с I, you, we, they. Пример: I don't like coffee."
+        },
+        {
+          "word": "doesn't",
+          "description": "Сокращение от does not. Используем с he, she, it. Пример: He doesn't play football."
+        },
+        {
+          "word": "Глагол без -s",
+          "description": "После don't/doesn't глагол всегда в базовой форме: She doesn't like (НЕ likes!)."
+        },
+        {
+          "word": "Do / Does в вопросах",
+          "description": "Для вопросов ставим Do/Does в начало: Do you like tea? Does she work here?"
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "explore",
+        "color": "blue",
+        "title": "Привычки, которых нет",
+        "description": "Когда вы рассказываете о том, что обычно НЕ делаете.",
+        "example": {
+          "english": "I don't drink coffee.",
+          "russian": "Я не пью кофе."
+        }
+      },
+      {
+        "icon": "check_circle",
+        "color": "green",
+        "title": "Факты-отрицания",
+        "description": "Когда что-то не является правдой как факт.",
+        "example": {
+          "english": "She doesn't live here.",
+          "russian": "Она не живет здесь."
+        }
+      },
+      {
+        "icon": "visibility",
+        "color": "purple",
+        "title": "Don't vs Doesn't",
+        "description": "Don't — для I/you/we/they. Doesn't — только для he/she/it. Это главная ловушка!",
+        "example": {
+          "english": "He doesn't know. They don't know.",
+          "russian": "Он не знает. Они не знают."
+        }
+      },
+      {
+        "icon": "star",
+        "color": "orange",
+        "title": "Вопросы с Do / Does",
+        "description": "Чтобы спросить, ставим Do или Does перед подлежащим. Глагол — без -s.",
+        "example": {
+          "english": "Does she work here?",
+          "russian": "Она работает здесь?"
+        }
+      }
+    ],
+    "markers": [
+      "don't",
+      "doesn't",
+      "do not",
+      "does not",
+      "Do you",
+      "Does he",
+      "Does she"
+    ]
+  },
+  "tasks": [
+    {
+      "id": "t5_1",
+      "type": "sentenceAssembly",
+      "question": "Я не люблю кофе",
+      "correctAnswer": "I don't like coffee",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "don't",
+          "doesn't",
+          "not",
+          "do"
+        ],
+        [
+          "like",
+          "likes",
+          "want",
+          "drink"
+        ],
+        [
+          "coffee",
+          "tea",
+          "milk",
+          "water"
+        ]
+      ],
+      "mistakeTags": [
+        "present_simple_negative",
+        "dont_doesnt"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_05_present_simple_negative/000.mp3"
+    },
+    {
+      "id": "t5_2",
+      "type": "sentenceAssembly",
+      "question": "Мы не работаем здесь",
+      "correctAnswer": "We don't work here",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "He",
+          "She",
+          "I"
+        ],
+        [
+          "don't",
+          "doesn't",
+          "not",
+          "do"
+        ],
+        [
+          "work",
+          "works",
+          "working",
+          "live"
+        ],
+        [
+          "here",
+          "there",
+          "now",
+          "today"
+        ]
+      ],
+      "mistakeTags": [
+        "present_simple_negative",
+        "dont_doesnt"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_05_present_simple_negative/001.mp3"
+    },
+    {
+      "id": "t5_3",
+      "type": "sentenceAssembly",
+      "question": "Они не знают",
+      "correctAnswer": "They don't know",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "don't",
+          "doesn't",
+          "not",
+          "do"
+        ],
+        [
+          "know",
+          "knows",
+          "knowing",
+          "see"
+        ]
+      ],
+      "mistakeTags": [
+        "present_simple_negative",
+        "dont_doesnt"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_05_present_simple_negative/002.mp3"
+    },
+    {
+      "id": "t5_4",
+      "type": "sentenceAssembly",
+      "question": "Я не хочу это",
+      "correctAnswer": "I don't want this",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "don't",
+          "doesn't",
+          "not",
+          "do"
+        ],
+        [
+          "want",
+          "wants",
+          "need",
+          "like"
+        ],
+        [
+          "this",
+          "that",
+          "it",
+          "here"
+        ]
+      ],
+      "mistakeTags": [
+        "present_simple_negative",
+        "dont_doesnt"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_05_present_simple_negative/003.mp3"
+    },
+    {
+      "id": "t5_5",
+      "type": "sentenceAssembly",
+      "question": "Ты не пьешь чай",
+      "correctAnswer": "You don't drink tea",
+      "options": [],
+      "variants": [
+        [
+          "You",
+          "He",
+          "She",
+          "It"
+        ],
+        [
+          "don't",
+          "doesn't",
+          "not",
+          "do"
+        ],
+        [
+          "drink",
+          "drinks",
+          "eat",
+          "like"
+        ],
+        [
+          "tea",
+          "coffee",
+          "milk",
+          "water"
+        ]
+      ],
+      "mistakeTags": [
+        "present_simple_negative",
+        "dont_doesnt"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_05_present_simple_negative/004.mp3"
+    },
+    {
+      "id": "t5_6",
+      "type": "sentenceAssembly",
+      "question": "Я не бегаю быстро",
+      "correctAnswer": "I don't run fast",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "don't",
+          "doesn't",
+          "not",
+          "do"
+        ],
+        [
+          "run",
+          "runs",
+          "walk",
+          "go"
+        ],
+        [
+          "fast",
+          "slow",
+          "well",
+          "much"
+        ]
+      ],
+      "mistakeTags": [
+        "present_simple_negative",
+        "dont_doesnt"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_05_present_simple_negative/005.mp3"
+    },
+    {
+      "id": "t5_7",
+      "type": "sentenceAssembly",
+      "question": "У нас нет времени",
+      "correctAnswer": "We don't have time",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "He",
+          "She",
+          "I"
+        ],
+        [
+          "don't",
+          "doesn't",
+          "not",
+          "do"
+        ],
+        [
+          "have",
+          "has",
+          "need",
+          "want"
+        ],
+        [
+          "time",
+          "money",
+          "food",
+          "work"
+        ]
+      ],
+      "mistakeTags": [
+        "present_simple_negative",
+        "dont_doesnt"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_05_present_simple_negative/006.mp3"
+    },
+    {
+      "id": "t5_8",
+      "type": "sentenceAssembly",
+      "question": "Я не ем рыбу",
+      "correctAnswer": "I don't eat fish",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "don't",
+          "doesn't",
+          "not",
+          "do"
+        ],
+        [
+          "eat",
+          "eats",
+          "drink",
+          "like"
+        ],
+        [
+          "fish",
+          "meat",
+          "food",
+          "bread"
+        ]
+      ],
+      "mistakeTags": [
+        "present_simple_negative",
+        "dont_doesnt"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_05_present_simple_negative/007.mp3"
+    },
+    {
+      "id": "t5_9",
+      "type": "sentenceAssembly",
+      "question": "Они не живут здесь",
+      "correctAnswer": "They don't live here",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "don't",
+          "doesn't",
+          "not",
+          "do"
+        ],
+        [
+          "live",
+          "lives",
+          "work",
+          "stay"
+        ],
+        [
+          "here",
+          "there",
+          "now",
+          "today"
+        ]
+      ],
+      "mistakeTags": [
+        "present_simple_negative",
+        "dont_doesnt"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_05_present_simple_negative/008.mp3"
+    },
+    {
+      "id": "t5_10",
+      "type": "sentenceAssembly",
+      "question": "Нам не нужна помощь",
+      "correctAnswer": "We don't need help",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "He",
+          "She",
+          "I"
+        ],
+        [
+          "don't",
+          "doesn't",
+          "not",
+          "do"
+        ],
+        [
+          "need",
+          "needs",
+          "want",
+          "have"
+        ],
+        [
+          "help",
+          "time",
+          "money",
+          "food"
+        ]
+      ],
+      "mistakeTags": [
+        "present_simple_negative",
+        "dont_doesnt"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_05_present_simple_negative/009.mp3"
+    },
+    {
+      "id": "t5_11",
+      "type": "sentenceAssembly",
+      "question": "Он не играет в футбол",
+      "correctAnswer": "He doesn't play football",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "I",
+          "We",
+          "They"
+        ],
+        [
+          "doesn't",
+          "don't",
+          "not",
+          "does"
+        ],
+        [
+          "play",
+          "plays",
+          "playing",
+          "like"
+        ],
+        [
+          "football",
+          "tennis",
+          "basketball",
+          "games"
+        ]
+      ],
+      "mistakeTags": [
+        "present_simple_negative",
+        "dont_doesnt"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_05_present_simple_negative/010.mp3"
+    },
+    {
+      "id": "t5_12",
+      "type": "sentenceAssembly",
+      "question": "Она не ест мясо",
+      "correctAnswer": "She doesn't eat meat",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "I",
+          "We",
+          "They"
+        ],
+        [
+          "doesn't",
+          "don't",
+          "not",
+          "does"
+        ],
+        [
+          "eat",
+          "eats",
+          "eating",
+          "drink"
+        ],
+        [
+          "meat",
+          "fish",
+          "food",
+          "bread"
+        ]
+      ],
+      "mistakeTags": [
+        "present_simple_negative",
+        "dont_doesnt"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_05_present_simple_negative/011.mp3"
+    },
+    {
+      "id": "t5_13",
+      "type": "sentenceAssembly",
+      "question": "Он не говорит по-французски",
+      "correctAnswer": "He doesn't speak French",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "I",
+          "We",
+          "They"
+        ],
+        [
+          "doesn't",
+          "don't",
+          "not",
+          "does"
+        ],
+        [
+          "speak",
+          "speaks",
+          "talk",
+          "say"
+        ],
+        [
+          "French",
+          "English",
+          "Spanish",
+          "German"
+        ]
+      ],
+      "mistakeTags": [
+        "present_simple_negative",
+        "dont_doesnt"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_05_present_simple_negative/012.mp3"
+    },
+    {
+      "id": "t5_14",
+      "type": "sentenceAssembly",
+      "question": "Она не живет здесь",
+      "correctAnswer": "She doesn't live here",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "I",
+          "We",
+          "They"
+        ],
+        [
+          "doesn't",
+          "don't",
+          "not",
+          "does"
+        ],
+        [
+          "live",
+          "lives",
+          "work",
+          "stay"
+        ],
+        [
+          "here",
+          "there",
+          "now",
+          "today"
+        ]
+      ],
+      "mistakeTags": [
+        "present_simple_negative",
+        "dont_doesnt"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_05_present_simple_negative/013.mp3"
+    },
+    {
+      "id": "t5_15",
+      "type": "sentenceAssembly",
+      "question": "Он не водит машину",
+      "correctAnswer": "He doesn't drive a car",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "I",
+          "We",
+          "They"
+        ],
+        [
+          "doesn't",
+          "don't",
+          "not",
+          "does"
+        ],
+        [
+          "drive",
+          "drives",
+          "ride",
+          "take"
+        ],
+        [
+          "a",
+          "the",
+          "this",
+          "my"
+        ],
+        [
+          "car",
+          "bus",
+          "bike",
+          "taxi"
+        ]
+      ],
+      "mistakeTags": [
+        "present_simple_negative",
+        "dont_doesnt"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_05_present_simple_negative/014.mp3"
+    },
+    {
+      "id": "t5_16",
+      "type": "sentenceAssembly",
+      "question": "Она не готовит ужин",
+      "correctAnswer": "She doesn't cook dinner",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "I",
+          "We",
+          "They"
+        ],
+        [
+          "doesn't",
+          "don't",
+          "not",
+          "does"
+        ],
+        [
+          "cook",
+          "cooks",
+          "make",
+          "eat"
+        ],
+        [
+          "dinner",
+          "lunch",
+          "food",
+          "breakfast"
+        ]
+      ],
+      "mistakeTags": [
+        "present_simple_negative",
+        "dont_doesnt"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_05_present_simple_negative/015.mp3"
+    },
+    {
+      "id": "t5_17",
+      "type": "sentenceAssembly",
+      "question": "Он не хочет еду",
+      "correctAnswer": "He doesn't want food",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "I",
+          "We",
+          "They"
+        ],
+        [
+          "doesn't",
+          "don't",
+          "not",
+          "does"
+        ],
+        [
+          "want",
+          "wants",
+          "need",
+          "like"
+        ],
+        [
+          "food",
+          "meat",
+          "help",
+          "time"
+        ]
+      ],
+      "mistakeTags": [
+        "present_simple_negative",
+        "dont_doesnt"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_05_present_simple_negative/016.mp3"
+    },
+    {
+      "id": "t5_18",
+      "type": "sentenceAssembly",
+      "question": "Она не пьет молоко",
+      "correctAnswer": "She doesn't drink milk",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "I",
+          "We",
+          "They"
+        ],
+        [
+          "doesn't",
+          "don't",
+          "not",
+          "does"
+        ],
+        [
+          "drink",
+          "drinks",
+          "eat",
+          "like"
+        ],
+        [
+          "milk",
+          "coffee",
+          "tea",
+          "water"
+        ]
+      ],
+      "mistakeTags": [
+        "present_simple_negative",
+        "dont_doesnt"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_05_present_simple_negative/017.mp3"
+    },
+    {
+      "id": "t5_19",
+      "type": "sentenceAssembly",
+      "question": "Он не знает меня",
+      "correctAnswer": "He doesn't know me",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "I",
+          "We",
+          "They"
+        ],
+        [
+          "doesn't",
+          "don't",
+          "not",
+          "does"
+        ],
+        [
+          "know",
+          "knows",
+          "see",
+          "like"
+        ],
+        [
+          "me",
+          "him",
+          "her",
+          "them"
+        ]
+      ],
+      "mistakeTags": [
+        "present_simple_negative",
+        "dont_doesnt"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_05_present_simple_negative/018.mp3"
+    },
+    {
+      "id": "t5_20",
+      "type": "sentenceAssembly",
+      "question": "Ему это не нужно",
+      "correctAnswer": "He doesn't need this",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "I",
+          "We",
+          "They"
+        ],
+        [
+          "doesn't",
+          "don't",
+          "not",
+          "does"
+        ],
+        [
+          "need",
+          "needs",
+          "want",
+          "have"
+        ],
+        [
+          "this",
+          "that",
+          "it",
+          "here"
+        ]
+      ],
+      "mistakeTags": [
+        "present_simple_negative",
+        "dont_doesnt"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_05_present_simple_negative/019.mp3"
+    },
+    {
+      "id": "t5_21",
+      "type": "sentenceAssembly",
+      "question": "Я не люблю чай",
+      "correctAnswer": "I don't like tea",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "don't",
+          "doesn't",
+          "not",
+          "do"
+        ],
+        [
+          "like",
+          "likes",
+          "want",
+          "drink"
+        ],
+        [
+          "tea",
+          "coffee",
+          "milk",
+          "water"
+        ]
+      ],
+      "mistakeTags": [
+        "present_simple_negative",
+        "dont_doesnt"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_05_present_simple_negative/020.mp3"
+    },
+    {
+      "id": "t5_22",
+      "type": "sentenceAssembly",
+      "question": "Она не работает здесь",
+      "correctAnswer": "She doesn't work here",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "They",
+          "We"
+        ],
+        [
+          "doesn't",
+          "don't",
+          "not",
+          "does"
+        ],
+        [
+          "work",
+          "works",
+          "working",
+          "live"
+        ],
+        [
+          "here",
+          "there",
+          "now",
+          "today"
+        ]
+      ],
+      "mistakeTags": [
+        "present_simple_negative",
+        "dont_doesnt"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_05_present_simple_negative/021.mp3"
+    },
+    {
+      "id": "t5_23",
+      "type": "sentenceAssembly",
+      "question": "Он не ест рыбу",
+      "correctAnswer": "He doesn't eat fish",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "I",
+          "We",
+          "They"
+        ],
+        [
+          "doesn't",
+          "don't",
+          "not",
+          "does"
+        ],
+        [
+          "eat",
+          "eats",
+          "like",
+          "drink"
+        ],
+        [
+          "fish",
+          "meat",
+          "food",
+          "bread"
+        ]
+      ],
+      "mistakeTags": [
+        "present_simple_negative",
+        "dont_doesnt"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_05_present_simple_negative/022.mp3"
+    },
+    {
+      "id": "t5_24",
+      "type": "sentenceAssembly",
+      "question": "Они не едят мясо",
+      "correctAnswer": "They don't eat meat",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "We",
+          "He",
+          "She"
+        ],
+        [
+          "don't",
+          "doesn't",
+          "not",
+          "do"
+        ],
+        [
+          "eat",
+          "eats",
+          "like",
+          "drink"
+        ],
+        [
+          "meat",
+          "fish",
+          "food",
+          "bread"
+        ]
+      ],
+      "mistakeTags": [
+        "present_simple_negative",
+        "dont_doesnt"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_05_present_simple_negative/023.mp3"
+    },
+    {
+      "id": "t5_25",
+      "type": "sentenceAssembly",
+      "question": "Он не играет в футбол",
+      "correctAnswer": "He doesn't play football",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "They",
+          "We"
+        ],
+        [
+          "doesn't",
+          "don't",
+          "not",
+          "does"
+        ],
+        [
+          "play",
+          "plays",
+          "playing",
+          "like"
+        ],
+        [
+          "football",
+          "tennis",
+          "basketball",
+          "games"
+        ]
+      ],
+      "mistakeTags": [
+        "present_simple_negative",
+        "dont_doesnt"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_05_present_simple_negative/024.mp3"
+    },
+    {
+      "id": "t5_26",
+      "type": "sentenceAssembly",
+      "question": "Мы не хотим этого",
+      "correctAnswer": "We don't want this",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "He",
+          "She",
+          "It"
+        ],
+        [
+          "don't",
+          "doesn't",
+          "not",
+          "do"
+        ],
+        [
+          "want",
+          "wants",
+          "need",
+          "like"
+        ],
+        [
+          "this",
+          "that",
+          "it",
+          "here"
+        ]
+      ],
+      "mistakeTags": [
+        "present_simple_negative",
+        "dont_doesnt"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_05_present_simple_negative/025.mp3"
+    },
+    {
+      "id": "t5_27",
+      "type": "sentenceAssembly",
+      "question": "Я не знаю его",
+      "correctAnswer": "I don't know him",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "don't",
+          "doesn't",
+          "not",
+          "do"
+        ],
+        [
+          "know",
+          "knows",
+          "see",
+          "like"
+        ],
+        [
+          "him",
+          "her",
+          "me",
+          "them"
+        ]
+      ],
+      "mistakeTags": [
+        "present_simple_negative",
+        "dont_doesnt"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_05_present_simple_negative/026.mp3"
+    },
+    {
+      "id": "t5_28",
+      "type": "sentenceAssembly",
+      "question": "Ей не нужна помощь",
+      "correctAnswer": "She doesn't want help",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "I",
+          "We",
+          "They"
+        ],
+        [
+          "doesn't",
+          "don't",
+          "not",
+          "does"
+        ],
+        [
+          "want",
+          "wants",
+          "need",
+          "like"
+        ],
+        [
+          "help",
+          "time",
+          "money",
+          "food"
+        ]
+      ],
+      "mistakeTags": [
+        "present_simple_negative",
+        "dont_doesnt"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_05_present_simple_negative/027.mp3"
+    },
+    {
+      "id": "t5_29",
+      "type": "sentenceAssembly",
+      "question": "Она не любит кофе",
+      "correctAnswer": "She doesn't like coffee",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "They",
+          "We"
+        ],
+        [
+          "doesn't",
+          "don't",
+          "not",
+          "does"
+        ],
+        [
+          "like",
+          "likes",
+          "want",
+          "drink"
+        ],
+        [
+          "coffee",
+          "tea",
+          "milk",
+          "water"
+        ]
+      ],
+      "mistakeTags": [
+        "present_simple_negative",
+        "dont_doesnt"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_05_present_simple_negative/028.mp3"
+    },
+    {
+      "id": "t5_30",
+      "type": "sentenceAssembly",
+      "question": "Они не говорят по-английски",
+      "correctAnswer": "They don't speak English",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "He",
+          "She",
+          "It"
+        ],
+        [
+          "don't",
+          "doesn't",
+          "not",
+          "do"
+        ],
+        [
+          "speak",
+          "speaks",
+          "talk",
+          "say"
+        ],
+        [
+          "English",
+          "French",
+          "Spanish",
+          "German"
+        ]
+      ],
+      "mistakeTags": [
+        "present_simple_negative",
+        "dont_doesnt"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_05_present_simple_negative/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionBeginner05PresentSimpleNegative",
+  "theoryQuiz": [
+    {
+      "id": "tq_01",
+      "type": "trueFalse",
+      "question": "Для отрицания в Present Simple с \"I\" используется \"doesn't\".",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "С I используется don't: I don't like coffee."
+    },
+    {
+      "id": "tq_02",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"She ___ like spicy food.\"",
+      "options": [
+        "don't",
+        "doesn't",
+        "isn't",
+        "not"
+      ],
+      "correctIndex": 1,
+      "explanation": "С she используется doesn't для отрицания в Present Simple."
+    },
+    {
+      "id": "tq_03",
+      "type": "multipleChoice",
+      "question": "Какая формула отрицания в Present Simple?",
+      "options": [
+        "Subject + not + V1",
+        "Subject + don't/doesn't + V1",
+        "Subject + V1 + not",
+        "Subject + isn't + V1"
+      ],
+      "correctIndex": 1,
+      "explanation": "Отрицание строится по формуле: Subject + don't/doesn't + V1 (глагол без -s)."
+    },
+    {
+      "id": "tq_04",
+      "type": "trueFalse",
+      "question": "После \"doesn't\" глагол стоит без окончания -s: He doesn't play.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "После doesn't глагол всегда используется в базовой форме без -s."
+    },
+    {
+      "id": "tq_05",
+      "type": "multipleChoice",
+      "question": "Найдите ошибку: \"He doesn't goes to the gym.\"",
+      "options": [
+        "Нужно \"don't\" вместо \"doesn't\"",
+        "Нужно \"go\" вместо \"goes\"",
+        "Нужно \"going\" вместо \"goes\"",
+        "Ошибки нет"
+      ],
+      "correctIndex": 1,
+      "explanation": "После doesn't глагол теряет -s/-es: He doesn't go to the gym."
+    },
+    {
+      "id": "tq_06",
+      "type": "trueFalse",
+      "question": "\"We doesn't want pizza.\" — предложение составлено правильно.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "С we используется don't: We don't want pizza."
+    },
+    {
+      "id": "tq_07",
+      "type": "multipleChoice",
+      "question": "С какими местоимениями используется \"don't\"?",
+      "options": [
+        "he, she, it",
+        "I, you, we, they",
+        "только I и you",
+        "только we и they"
+      ],
+      "correctIndex": 1,
+      "explanation": "Don't используется с I, you, we, they. Doesn't — с he, she, it."
+    },
+    {
+      "id": "tq_08",
+      "type": "multipleChoice",
+      "question": "Выберите правильное предложение:",
+      "options": [
+        "They doesn't eat meat.",
+        "She don't speak French.",
+        "I don't have a car.",
+        "He don't know the answer."
+      ],
+      "correctIndex": 2,
+      "explanation": "I + don't — верная комбинация. They don't, She doesn't, He doesn't — в остальных ошибки."
+    },
+    {
+      "id": "tq_09",
+      "type": "trueFalse",
+      "question": "\"Don't\" — это сокращённая форма от \"do not\".",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Don't = do not, doesn't = does not."
+    },
+    {
+      "id": "tq_10",
+      "type": "multipleChoice",
+      "question": "Как правильно перевести: «Она не работает по воскресеньям»?",
+      "options": [
+        "She don't work on Sundays.",
+        "She doesn't works on Sundays.",
+        "She doesn't work on Sundays.",
+        "She not work on Sundays."
+      ],
+      "correctIndex": 2,
+      "explanation": "She + doesn't + work (без -s). Это правильная формула отрицания в Present Simple."
+    }
+  ]
+}

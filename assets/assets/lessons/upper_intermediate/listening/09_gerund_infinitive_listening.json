@@ -1,0 +1,461 @@
+{
+  "id": "upper_listening_09_gerund_infinitive",
+  "title": "Gerund & Infinitive",
+  "description": "Слушайте и различайте герундий и инфинитив после глаголов.",
+  "order": 9,
+  "level": "upper_intermediate",
+  "imageUrl": "assets/images/lessons/gerund_infinitive.png",
+  "tasks": [
+    {
+      "id": "t9_01",
+      "audioText": "After years of hesitation, Mark finally decided to start his own business. He enjoys working independently and setting his own schedule.",
+      "transcript": "He enjoys working independently and setting his own schedule.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He likes being his own boss and choosing when to work."
+        },
+        {
+          "id": "o2",
+          "text": "He wants to find a new job with flexible hours."
+        },
+        {
+          "id": "o3",
+          "text": "He stopped working because of the schedule."
+        },
+        {
+          "id": "o4",
+          "text": "He avoids making decisions about his schedule."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Enjoy' is followed by a gerund (-ing). 'Enjoys working' means he likes the process of working independently.",
+      "mistakeTags": [
+        "gerund_infinitive",
+        "work"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_09_gerund_infinitive/t9_01.mp3"
+    },
+    {
+      "id": "t9_02",
+      "audioText": "Sarah had a long day at the office. On her way home, she stopped to buy some groceries for dinner.",
+      "transcript": "On her way home, she stopped to buy some groceries for dinner.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She quit buying groceries altogether."
+        },
+        {
+          "id": "o2",
+          "text": "She paused her journey in order to purchase food."
+        },
+        {
+          "id": "o3",
+          "text": "She finished shopping before leaving work."
+        },
+        {
+          "id": "o4",
+          "text": "She continued driving without stopping anywhere."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Stop to do' means to pause in order to do something else. She interrupted her trip home to go shopping.",
+      "mistakeTags": [
+        "gerund_infinitive",
+        "daily_routine"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_09_gerund_infinitive/t9_02.mp3"
+    },
+    {
+      "id": "t9_03",
+      "audioText": "The doctor warned Tom about his unhealthy habits. Tom needs to quit smoking as soon as possible.",
+      "transcript": "Tom needs to quit smoking as soon as possible.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Tom should start smoking less frequently."
+        },
+        {
+          "id": "o2",
+          "text": "Tom plans to smoke more in the future."
+        },
+        {
+          "id": "o3",
+          "text": "Tom must stop the habit of smoking immediately."
+        },
+        {
+          "id": "o4",
+          "text": "Tom refused to listen to his doctor's advice."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Quit' is followed by a gerund. 'Quit smoking' means to completely stop the habit of smoking.",
+      "mistakeTags": [
+        "gerund_infinitive",
+        "health"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_09_gerund_infinitive/t9_03.mp3"
+    },
+    {
+      "id": "t9_04",
+      "audioText": "Lisa is incredibly talented but lacks confidence. She can't help feeling nervous before every presentation.",
+      "transcript": "She can't help feeling nervous before every presentation.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She deliberately makes herself nervous before presenting."
+        },
+        {
+          "id": "o2",
+          "text": "She never feels nervous during presentations."
+        },
+        {
+          "id": "o3",
+          "text": "She is unable to avoid getting nervous before presentations."
+        },
+        {
+          "id": "o4",
+          "text": "She helps others overcome their nervousness."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Can't help doing' means being unable to prevent oneself from doing something. It's an involuntary reaction.",
+      "mistakeTags": [
+        "gerund_infinitive",
+        "emotions"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_09_gerund_infinitive/t9_04.mp3"
+    },
+    {
+      "id": "t9_05",
+      "audioText": "The company offered James a promotion last month. He refused to accept it because it required relocating abroad.",
+      "transcript": "He refused to accept it because it required relocating abroad.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He turned down the promotion since it meant moving to another country."
+        },
+        {
+          "id": "o2",
+          "text": "He happily accepted the promotion and moved abroad."
+        },
+        {
+          "id": "o3",
+          "text": "He asked for more time to consider the relocation."
+        },
+        {
+          "id": "o4",
+          "text": "He accepted the promotion but stayed in his current city."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Refuse' takes a to-infinitive, while 'require' takes a gerund. He said no because moving abroad was necessary.",
+      "mistakeTags": [
+        "gerund_infinitive",
+        "career"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_09_gerund_infinitive/t9_05.mp3"
+    },
+    {
+      "id": "t9_06",
+      "audioText": "My grandmother is eighty years old but very active. She keeps forgetting where she put her glasses.",
+      "transcript": "She keeps forgetting where she put her glasses.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She remembers exactly where her glasses are."
+        },
+        {
+          "id": "o2",
+          "text": "She repeatedly forgets the location of her glasses."
+        },
+        {
+          "id": "o3",
+          "text": "She intentionally hides her glasses from others."
+        },
+        {
+          "id": "o4",
+          "text": "She stopped wearing glasses recently."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Keep doing' means to continue doing something repeatedly. She forgets again and again where her glasses are.",
+      "mistakeTags": [
+        "gerund_infinitive",
+        "family"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_09_gerund_infinitive/t9_06.mp3"
+    },
+    {
+      "id": "t9_07",
+      "audioText": "The students were struggling with the assignment. The professor suggested breaking the project into smaller tasks.",
+      "transcript": "The professor suggested breaking the project into smaller tasks.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The professor recommended dividing the work into manageable parts."
+        },
+        {
+          "id": "o2",
+          "text": "The professor told students to abandon the project entirely."
+        },
+        {
+          "id": "o3",
+          "text": "The professor assigned an additional project to the class."
+        },
+        {
+          "id": "o4",
+          "text": "The professor refused to help the struggling students."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Suggest' is always followed by a gerund, never a to-infinitive. 'Suggested breaking' means recommended splitting it up.",
+      "mistakeTags": [
+        "gerund_infinitive",
+        "education"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_09_gerund_infinitive/t9_07.mp3"
+    },
+    {
+      "id": "t9_08",
+      "audioText": "We were driving through the countryside when it started raining. We decided to stop driving and wait at a cafe.",
+      "transcript": "We decided to stop driving and wait at a cafe.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "We chose to continue driving despite the rain."
+        },
+        {
+          "id": "o2",
+          "text": "We made the choice to cease driving and rest at a cafe."
+        },
+        {
+          "id": "o3",
+          "text": "We stopped at a cafe to start driving again."
+        },
+        {
+          "id": "o4",
+          "text": "We drove faster to reach the cafe before the rain."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Decide' takes a to-infinitive. 'Stop driving' (stop + gerund) means to cease the activity of driving.",
+      "mistakeTags": [
+        "gerund_infinitive",
+        "travel"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_09_gerund_infinitive/t9_08.mp3"
+    },
+    {
+      "id": "t9_09",
+      "audioText": "Elena is considering several career options. She is thinking about applying to a graduate program in psychology.",
+      "transcript": "She is thinking about applying to a graduate program in psychology.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She already enrolled in a psychology program."
+        },
+        {
+          "id": "o2",
+          "text": "She rejected the idea of studying psychology."
+        },
+        {
+          "id": "o3",
+          "text": "She is contemplating submitting an application for a psychology degree."
+        },
+        {
+          "id": "o4",
+          "text": "She finished her graduate program last year."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "After prepositions like 'about,' we always use a gerund. 'Thinking about applying' means she is considering it but hasn't decided yet.",
+      "mistakeTags": [
+        "gerund_infinitive",
+        "education"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_09_gerund_infinitive/t9_09.mp3"
+    },
+    {
+      "id": "t9_10",
+      "audioText": "The new employee is very diligent and motivated. He promised to finish the report before the Friday deadline.",
+      "transcript": "He promised to finish the report before the Friday deadline.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He gave his word that the report would be completed by Friday."
+        },
+        {
+          "id": "o2",
+          "text": "He asked for an extension on the Friday deadline."
+        },
+        {
+          "id": "o3",
+          "text": "He admitted he could not finish the report in time."
+        },
+        {
+          "id": "o4",
+          "text": "He denied being responsible for the report."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Promise' takes a to-infinitive. He committed to completing the work before the deadline.",
+      "mistakeTags": [
+        "gerund_infinitive",
+        "work"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_09_gerund_infinitive/t9_10.mp3"
+    },
+    {
+      "id": "t9_11",
+      "audioText": "I lent my neighbour some tools last week. I remember lending him the drill, but he says I didn't.",
+      "transcript": "I remember lending him the drill, but he says I didn't.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "I need to remember to lend him the drill later."
+        },
+        {
+          "id": "o2",
+          "text": "I have a clear memory of giving him the drill, though he denies it."
+        },
+        {
+          "id": "o3",
+          "text": "I forgot to lend him the drill entirely."
+        },
+        {
+          "id": "o4",
+          "text": "He remembers borrowing the drill from me."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Remember doing' refers to having a memory of a past action. 'Remember to do' means not to forget a future action.",
+      "mistakeTags": [
+        "gerund_infinitive",
+        "daily_routine"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_09_gerund_infinitive/t9_11.mp3"
+    },
+    {
+      "id": "t9_12",
+      "audioText": "The weather was terrible during our vacation. We regret not booking a hotel with indoor activities.",
+      "transcript": "We regret not booking a hotel with indoor activities.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "We are sorry that we didn't choose a hotel with things to do inside."
+        },
+        {
+          "id": "o2",
+          "text": "We are glad we picked a hotel without indoor facilities."
+        },
+        {
+          "id": "o3",
+          "text": "We plan to book a different hotel next time."
+        },
+        {
+          "id": "o4",
+          "text": "We regret to inform you that the hotel is fully booked."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Regret doing' means feeling sorry about a past action. The negative gerund 'not booking' expresses what they failed to do.",
+      "mistakeTags": [
+        "gerund_infinitive",
+        "travel"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_09_gerund_infinitive/t9_12.mp3"
+    },
+    {
+      "id": "t9_13",
+      "audioText": "The children were making too much noise in the library. The librarian asked them to stop talking immediately.",
+      "transcript": "The librarian asked them to stop talking immediately.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The librarian encouraged the children to speak louder."
+        },
+        {
+          "id": "o2",
+          "text": "The librarian requested that they be quiet right away."
+        },
+        {
+          "id": "o3",
+          "text": "The children asked the librarian to be quiet."
+        },
+        {
+          "id": "o4",
+          "text": "The librarian invited them to continue their conversation."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Ask someone to do' uses a to-infinitive. 'Stop talking' (stop + gerund) means cease the activity. The librarian wanted silence.",
+      "mistakeTags": [
+        "gerund_infinitive",
+        "social"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_09_gerund_infinitive/t9_13.mp3"
+    },
+    {
+      "id": "t9_14",
+      "audioText": "Anna tried a new approach to learning Spanish. She tried watching movies without subtitles to improve her listening skills.",
+      "transcript": "She tried watching movies without subtitles to improve her listening skills.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She attempted to watch movies but failed every time."
+        },
+        {
+          "id": "o2",
+          "text": "She experimented with viewing films without subtitles as a learning method."
+        },
+        {
+          "id": "o3",
+          "text": "She stopped watching movies because they didn't help."
+        },
+        {
+          "id": "o4",
+          "text": "She always uses subtitles when watching foreign films."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Try doing' means to experiment with something as a method. 'Try to do' means to attempt something difficult.",
+      "mistakeTags": [
+        "gerund_infinitive",
+        "education"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_09_gerund_infinitive/t9_14.mp3"
+    },
+    {
+      "id": "t9_15",
+      "audioText": "The manager noticed some irregularities in the accounts. He denied having anything to do with the missing funds.",
+      "transcript": "He denied having anything to do with the missing funds.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He admitted his involvement with the missing money."
+        },
+        {
+          "id": "o2",
+          "text": "He confirmed that he took the funds."
+        },
+        {
+          "id": "o3",
+          "text": "He said he was not connected to the disappearance of the money."
+        },
+        {
+          "id": "o4",
+          "text": "He promised to investigate the missing funds himself."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Deny' is always followed by a gerund. 'Denied having anything to do with' means he claimed no involvement.",
+      "mistakeTags": [
+        "gerund_infinitive",
+        "business"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_09_gerund_infinitive/t9_15.mp3"
+    }
+  ],
+  "short_description": "Герундий и инфинитив после глаголов."
+}

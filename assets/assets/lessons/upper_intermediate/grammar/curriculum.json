@@ -1,0 +1,80 @@
+{
+    "level": "upper_intermediate",
+    "lessons": [
+        {
+            "id": "upper_01_past_perfect",
+            "file": "01_past_perfect.json",
+            "order": 1
+        },
+        {
+            "id": "upper_02_future_perfect",
+            "file": "02_future_perfect.json",
+            "order": 2
+        },
+        {
+            "id": "upper_03_conditionals_0_1",
+            "file": "03_conditionals_0_1.json",
+            "order": 3
+        },
+        {
+            "id": "upper_04_conditionals_2_3",
+            "file": "04_conditionals_2_3.json",
+            "order": 4
+        },
+        {
+            "id": "upper_05_passive_simple",
+            "file": "05_passive_simple.json",
+            "order": 5
+        },
+        {
+            "id": "upper_06_passive_continuous_perfect",
+            "file": "06_passive_continuous_perfect.json",
+            "order": 6
+        },
+        {
+            "id": "upper_07_phrasal_verbs",
+            "file": "07_phrasal_verbs.json",
+            "order": 7
+        },
+        {
+            "id": "upper_08_modal_may_might_could",
+            "file": "08_modal_may_might_could.json",
+            "order": 8
+        },
+        {
+            "id": "upper_09_gerund_infinitive",
+            "file": "09_gerund_infinitive.json",
+            "order": 9
+        },
+        {
+            "id": "upper_10_future_in_the_past",
+            "file": "10_future_in_the_past.json",
+            "order": 10
+        },
+        {
+            "id": "upper_11_wish_if_only",
+            "file": "11_wish_if_only.json",
+            "order": 11
+        },
+        {
+            "id": "upper_12_causative",
+            "file": "12_causative.json",
+            "order": 12
+        },
+        {
+            "id": "upper_13_so_such_too_enough",
+            "file": "13_so_such_too_enough.json",
+            "order": 13
+        },
+        {
+            "id": "upper_14_past_perfect_continuous",
+            "file": "14_past_perfect_continuous.json",
+            "order": 14
+        },
+        {
+            "id": "upper_15_linking_words",
+            "file": "15_linking_words.json",
+            "order": 15
+        }
+    ]
+}

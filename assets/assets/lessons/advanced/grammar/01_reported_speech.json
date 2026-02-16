@@ -1,0 +1,2542 @@
+{
+  "id": "advanced_01_reported_speech",
+  "title": "Reported Speech",
+  "description": "Косвенная речь — это «Игра в испорченный телефон» или «Машину времени». Когда мы пересказываем слова, мы делаем шаг НАЗАД во времени.",
+  "order": 1,
+  "level": "advanced",
+  "imageUrl": "assets/images/lessons/reported_speech.png",
+  "vocabulary": [
+    {
+      "id": "v1_say",
+      "english": "say",
+      "russian": "сказать",
+      "partOfSpeech": "verb",
+      "example": "He said.",
+      "exampleTranslation": "Он сказал.",
+      "audioPath": "assets/audio/vocabulary/v1_say.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_say.mp3"
+    },
+    {
+      "id": "v1_busy",
+      "english": "busy",
+      "russian": "занят",
+      "partOfSpeech": "adjective",
+      "example": "Was busy.",
+      "exampleTranslation": "Он был занят.",
+      "audioPath": "assets/audio/vocabulary/v1_busy.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_busy.mp3"
+    },
+    {
+      "id": "v1_ask",
+      "english": "ask",
+      "russian": "спрашивать",
+      "partOfSpeech": "verb",
+      "example": "She asked.",
+      "exampleTranslation": "Она спросила.",
+      "audioPath": "assets/audio/vocabulary/v1_ask.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_ask.mp3"
+    },
+    {
+      "id": "v1_live",
+      "english": "live",
+      "russian": "жить",
+      "partOfSpeech": "verb",
+      "example": "I lived.",
+      "exampleTranslation": "Я жил.",
+      "audioPath": "assets/audio/vocabulary/v1_live.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_live.mp3"
+    },
+    {
+      "id": "v1_come",
+      "english": "come",
+      "russian": "приходить",
+      "partOfSpeech": "verb",
+      "example": "Would come.",
+      "exampleTranslation": "Придут.",
+      "audioPath": "assets/audio/vocabulary/v1_come.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_come.mp3"
+    },
+    {
+      "id": "v1_tell",
+      "english": "tell",
+      "russian": "говорить (кому-то)",
+      "partOfSpeech": "verb",
+      "example": "Told me.",
+      "exampleTranslation": "Сказал мне.",
+      "audioPath": "assets/audio/vocabulary/v1_tell.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_tell.mp3"
+    },
+    {
+      "id": "v1_open",
+      "english": "open",
+      "russian": "открывать",
+      "partOfSpeech": "verb",
+      "example": "To open.",
+      "exampleTranslation": "Открыть.",
+      "audioPath": "assets/audio/vocabulary/v1_open.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_open.mp3"
+    },
+    {
+      "id": "v1_door",
+      "english": "door",
+      "russian": "дверь",
+      "partOfSpeech": "noun",
+      "example": "The door.",
+      "exampleTranslation": "Дверь.",
+      "audioPath": "assets/audio/vocabulary/v1_door.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_door.mp3"
+    },
+    {
+      "id": "v1_ready",
+      "english": "ready",
+      "russian": "готов",
+      "partOfSpeech": "adjective",
+      "example": "Was ready.",
+      "exampleTranslation": "Был готов.",
+      "audioPath": "assets/audio/vocabulary/v1_ready.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_ready.mp3"
+    },
+    {
+      "id": "v1_win",
+      "english": "win",
+      "russian": "выигрывать",
+      "partOfSpeech": "verb",
+      "example": "Had won.",
+      "exampleTranslation": "Выиграл.",
+      "audioPath": "assets/audio/vocabulary/v1_win.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_win.mp3"
+    },
+    {
+      "id": "v1_prize",
+      "english": "prize",
+      "russian": "приз",
+      "partOfSpeech": "noun",
+      "example": "A prize.",
+      "exampleTranslation": "Приз.",
+      "audioPath": "assets/audio/vocabulary/v1_prize.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_prize.mp3"
+    },
+    {
+      "id": "v1_love",
+      "english": "love",
+      "russian": "любить",
+      "partOfSpeech": "verb",
+      "example": "He loved.",
+      "exampleTranslation": "Он любит.",
+      "audioPath": "assets/audio/vocabulary/v1_love.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_love.mp3"
+    },
+    {
+      "id": "v1_pizza",
+      "english": "pizza",
+      "russian": "пицца",
+      "partOfSpeech": "noun",
+      "example": "Loved pizza.",
+      "exampleTranslation": "Любил пиццу.",
+      "audioPath": "assets/audio/vocabulary/v1_pizza.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_pizza.mp3"
+    },
+    {
+      "id": "v1_do",
+      "english": "do",
+      "russian": "делать",
+      "partOfSpeech": "verb",
+      "example": "Was doing.",
+      "exampleTranslation": "Делаю.",
+      "audioPath": "assets/audio/vocabulary/v1_do.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_do.mp3"
+    },
+    {
+      "id": "v1_true",
+      "english": "true",
+      "russian": "правда",
+      "partOfSpeech": "noun",
+      "example": "Be true.",
+      "exampleTranslation": "Быть правдой.",
+      "audioPath": "assets/audio/vocabulary/v1_true.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_true.mp3"
+    },
+    {
+      "id": "v1_scream",
+      "english": "scream",
+      "russian": "кричать",
+      "partOfSpeech": "verb",
+      "example": "Not to scream.",
+      "exampleTranslation": "Не кричать.",
+      "audioPath": "assets/audio/vocabulary/v1_scream.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_scream.mp3"
+    },
+    {
+      "id": "v1_think",
+      "english": "think",
+      "russian": "думать",
+      "partOfSpeech": "verb",
+      "example": "I thought.",
+      "exampleTranslation": "Я думал.",
+      "audioPath": "assets/audio/vocabulary/v1_think.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_think.mp3"
+    },
+    {
+      "id": "v1_sleep",
+      "english": "sleep",
+      "russian": "спать",
+      "partOfSpeech": "verb",
+      "example": "Were sleeping.",
+      "exampleTranslation": "Ты спишь.",
+      "audioPath": "assets/audio/vocabulary/v1_sleep.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_sleep.mp3"
+    },
+    {
+      "id": "v1_explain",
+      "english": "explain",
+      "russian": "объяснять",
+      "partOfSpeech": "verb",
+      "example": "She explained.",
+      "exampleTranslation": "Она объяснила.",
+      "audioPath": "assets/audio/vocabulary/v1_explain.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_explain.mp3"
+    },
+    {
+      "id": "v1_late",
+      "english": "late",
+      "russian": "опоздал (поздно)",
+      "partOfSpeech": "adjective",
+      "example": "Was late.",
+      "exampleTranslation": "Опоздала.",
+      "audioPath": "assets/audio/vocabulary/v1_late.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_late.mp3"
+    },
+    {
+      "id": "v1_promise",
+      "english": "promise",
+      "russian": "обещать",
+      "partOfSpeech": "verb",
+      "example": "He promised.",
+      "exampleTranslation": "Он обещал.",
+      "audioPath": "assets/audio/vocabulary/v1_promise.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_promise.mp3"
+    },
+    {
+      "id": "v1_call",
+      "english": "call",
+      "russian": "звонить",
+      "partOfSpeech": "verb",
+      "example": "Would call.",
+      "exampleTranslation": "Позвонит.",
+      "audioPath": "assets/audio/vocabulary/v1_call.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_call.mp3"
+    },
+    {
+      "id": "v1_cost",
+      "english": "cost",
+      "russian": "стоить",
+      "partOfSpeech": "verb",
+      "example": "It cost.",
+      "exampleTranslation": "Это стоит.",
+      "audioPath": "assets/audio/vocabulary/v1_cost.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_cost.mp3"
+    },
+    {
+      "id": "v1_help",
+      "english": "help",
+      "russian": "помогать",
+      "partOfSpeech": "verb",
+      "example": "Could help.",
+      "exampleTranslation": "Может помочь.",
+      "audioPath": "assets/audio/vocabulary/v1_help.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v1_help.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "The Echo",
+    "subtitle": "Представьте, что вы ЭХО. Вы повторяете чужие слова, но пока вы их повторяете, время проходит. Поэтому Present становится Past, Past становится Past Perfect, а Will становится Would.",
+    "construction": {
+      "formula": "Said (that) + Backshift (Шаг назад)",
+      "rules": [
+        {
+          "word": "Present -> Past",
+          "description": "\"I love you\" -> He said he LOVED me. (Он сказал тогда, поэтому любил тогда)."
+        },
+        {
+          "word": "Past -> Past Perfect",
+          "description": "\"I bought it\" -> He said he HAD bought it. (Купил еще раньше, чем сказал)."
+        },
+        {
+          "word": "Will -> Would",
+          "description": "\"I will come\" -> He said he WOULD come. (Будущее из прошлого)."
+        },
+        {
+          "word": "Here -> There / Now -> Then",
+          "description": "Меняем координаты. \"I am here now\" -> He said he was THERE THEN."
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "groups",
+        "color": "blue",
+        "title": "Пересказ (Statements)",
+        "description": "She SAID she was busy. (Она просто сказала информацию).",
+        "example": {
+          "english": "He told me he was tired.",
+          "russian": "Он сказал мне, что устал."
+        }
+      },
+      {
+        "icon": "check_circle",
+        "color": "green",
+        "title": "Вопросы (Ask If)",
+        "description": "He ASKED IF I knew him. (Он спросил, знаю ли я его. Порядок слов прямой!).",
+        "example": {
+          "english": "She asked where I lived.",
+          "russian": "Она спросила, где я живу."
+        }
+      },
+      {
+        "icon": "bolt",
+        "color": "orange",
+        "title": "Команды (Told to)",
+        "description": "He TOLD me TO stop. (Он велел мне остановиться. Используем инфинитив).",
+        "example": {
+          "english": "Mom told me to eat.",
+          "russian": "Мама сказала мне поесть."
+        }
+      }
+    ],
+    "markers": [
+      "said that",
+      "told me",
+      "asked if",
+      "asked where",
+      "thought that"
+    ]
+  },
+  "tasks": [
+    {
+      "id": "t1_1",
+      "type": "sentenceAssembly",
+      "question": "Он сказал, что он был очень занят сегодня (Original: I am very busy today)",
+      "correctAnswer": "He said that he was very busy today",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "I",
+          "They",
+          "You"
+        ],
+        [
+          "said",
+          "say",
+          "told",
+          "asked"
+        ],
+        [
+          "that",
+          "what",
+          "if",
+          "which"
+        ],
+        [
+          "he",
+          "I",
+          "him",
+          "his"
+        ],
+        [
+          "was",
+          "is",
+          "were",
+          "been"
+        ],
+        [
+          "very",
+          "so",
+          "too",
+          "quite"
+        ],
+        [
+          "busy",
+          "free",
+          "tired",
+          "work"
+        ],
+        [
+          "today",
+          "now",
+          "here",
+          "always"
+        ]
+      ],
+      "mistakeTags": [
+        "reported_speech",
+        "indirect_speech"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_01_reported_speech/000.mp3"
+    },
+    {
+      "id": "t1_2",
+      "type": "sentenceAssembly",
+      "question": "Она спросила меня, где я жил в то время (Original: Where do you live?)",
+      "correctAnswer": "She asked me where I lived at that time",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "They",
+          "You",
+          "One"
+        ],
+        [
+          "asked",
+          "ask",
+          "said",
+          "told"
+        ],
+        [
+          "me",
+          "I",
+          "my",
+          "him"
+        ],
+        [
+          "where",
+          "what",
+          "when",
+          "why"
+        ],
+        [
+          "I",
+          "me",
+          "my",
+          "you"
+        ],
+        [
+          "lived",
+          "live",
+          "lives",
+          "living"
+        ],
+        [
+          "at",
+          "in",
+          "on",
+          "for"
+        ],
+        [
+          "that",
+          "the",
+          "a",
+          "some"
+        ],
+        [
+          "time",
+          "moment",
+          "day",
+          "place"
+        ]
+      ],
+      "mistakeTags": [
+        "reported_speech",
+        "indirect_speech"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_01_reported_speech/001.mp3"
+    },
+    {
+      "id": "t1_3",
+      "type": "sentenceAssembly",
+      "question": "Философ сказал, что свобода потребует от людей ответственности (Original: Freedom will demand responsibility from people)",
+      "correctAnswer": "The philosopher said that freedom would demand responsibility from people",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "philosopher",
+          "thinker",
+          "scholar",
+          "speaker"
+        ],
+        [
+          "said",
+          "say",
+          "told",
+          "asked"
+        ],
+        [
+          "that",
+          "what",
+          "if",
+          "which"
+        ],
+        [
+          "freedom",
+          "justice",
+          "truth",
+          "peace"
+        ],
+        [
+          "would",
+          "could",
+          "might",
+          "should"
+        ],
+        [
+          "demand",
+          "require",
+          "need",
+          "expect"
+        ],
+        [
+          "responsibility",
+          "courage",
+          "wisdom",
+          "effort"
+        ],
+        [
+          "from",
+          "with",
+          "by",
+          "about"
+        ],
+        [
+          "people",
+          "citizens",
+          "leaders",
+          "nations"
+        ]
+      ],
+      "mistakeTags": [
+        "reported_speech",
+        "indirect_speech"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_01_reported_speech/002.mp3"
+    },
+    {
+      "id": "t1_4",
+      "type": "sentenceAssembly",
+      "question": "Он сказал мне открыть дверь немедленно",
+      "correctAnswer": "He told me to open the door right away",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "I",
+          "They"
+        ],
+        [
+          "told",
+          "asked",
+          "ordered",
+          "wanted"
+        ],
+        [
+          "me",
+          "him",
+          "her",
+          "them"
+        ],
+        [
+          "to",
+          "not",
+          "and",
+          "but"
+        ],
+        [
+          "open",
+          "close",
+          "lock",
+          "find"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "this"
+        ],
+        [
+          "door",
+          "window",
+          "gate",
+          "box"
+        ],
+        [
+          "right",
+          "very",
+          "quite",
+          "just"
+        ],
+        [
+          "away",
+          "now",
+          "soon",
+          "quickly"
+        ]
+      ],
+      "mistakeTags": [
+        "reported_speech",
+        "indirect_speech"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_01_reported_speech/003.mp3"
+    },
+    {
+      "id": "t1_5",
+      "type": "sentenceAssembly",
+      "question": "Я спросил его, готов ли он к тесту (Original: Are you ready for the test?)",
+      "correctAnswer": "I asked him if he was ready for the test",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "They",
+          "You",
+          "One"
+        ],
+        [
+          "asked",
+          "ask",
+          "said",
+          "told"
+        ],
+        [
+          "him",
+          "he",
+          "his",
+          "her"
+        ],
+        [
+          "if",
+          "that",
+          "what",
+          "where"
+        ],
+        [
+          "he",
+          "they",
+          "you",
+          "one"
+        ],
+        [
+          "was",
+          "is",
+          "were",
+          "been"
+        ],
+        [
+          "ready",
+          "done",
+          "ok",
+          "fine"
+        ],
+        [
+          "for",
+          "to",
+          "at",
+          "in"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "test",
+          "exam",
+          "task",
+          "work"
+        ]
+      ],
+      "mistakeTags": [
+        "reported_speech",
+        "indirect_speech"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_01_reported_speech/004.mp3"
+    },
+    {
+      "id": "t1_6",
+      "type": "sentenceAssembly",
+      "question": "Учёный сказала, что доказала свою гипотезу несколькими экспериментами (Original: I proved my hypothesis with several experiments)",
+      "correctAnswer": "The scientist said that she had proved her hypothesis experimentally",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "scientist",
+          "researcher",
+          "professor",
+          "analyst"
+        ],
+        [
+          "said",
+          "say",
+          "told",
+          "asked"
+        ],
+        [
+          "that",
+          "what",
+          "if",
+          "which"
+        ],
+        [
+          "she",
+          "he",
+          "they",
+          "we"
+        ],
+        [
+          "had",
+          "has",
+          "have",
+          "was"
+        ],
+        [
+          "proved",
+          "prove",
+          "shown",
+          "tested"
+        ],
+        [
+          "her",
+          "his",
+          "the",
+          "their"
+        ],
+        [
+          "hypothesis",
+          "theory",
+          "concept",
+          "model"
+        ],
+        [
+          "experimentally",
+          "conclusively",
+          "thoroughly",
+          "repeatedly"
+        ]
+      ],
+      "mistakeTags": [
+        "reported_speech",
+        "indirect_speech"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_01_reported_speech/005.mp3"
+    },
+    {
+      "id": "t1_7",
+      "type": "sentenceAssembly",
+      "question": "Джон сказал, что любил пиццу больше всего (Original: I love pizza more than anything)",
+      "correctAnswer": "John said that he loved pizza more than anything",
+      "options": [],
+      "variants": [
+        [
+          "John",
+          "He",
+          "Him",
+          "Boy"
+        ],
+        [
+          "said",
+          "say",
+          "told",
+          "asked"
+        ],
+        [
+          "that",
+          "what",
+          "if",
+          "which"
+        ],
+        [
+          "he",
+          "I",
+          "she",
+          "we"
+        ],
+        [
+          "loved",
+          "love",
+          "like",
+          "liked"
+        ],
+        [
+          "pizza",
+          "food",
+          "pie",
+          "bread"
+        ],
+        [
+          "more",
+          "much",
+          "most",
+          "less"
+        ],
+        [
+          "than",
+          "then",
+          "that",
+          "as"
+        ],
+        [
+          "anything",
+          "nothing",
+          "something",
+          "everything"
+        ]
+      ],
+      "mistakeTags": [
+        "reported_speech",
+        "indirect_speech"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_01_reported_speech/006.mp3"
+    },
+    {
+      "id": "t1_8",
+      "type": "sentenceAssembly",
+      "question": "Она спросила меня, что я делал тем вечером (Original: What are you doing this evening?)",
+      "correctAnswer": "She asked me what I was doing that evening",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "They",
+          "You",
+          "One"
+        ],
+        [
+          "asked",
+          "ask",
+          "said",
+          "told"
+        ],
+        [
+          "me",
+          "I",
+          "my",
+          "him"
+        ],
+        [
+          "what",
+          "where",
+          "when",
+          "why"
+        ],
+        [
+          "I",
+          "me",
+          "my",
+          "you"
+        ],
+        [
+          "was",
+          "is",
+          "were",
+          "been"
+        ],
+        [
+          "doing",
+          "do",
+          "make",
+          "did"
+        ],
+        [
+          "that",
+          "the",
+          "a",
+          "some"
+        ],
+        [
+          "evening",
+          "night",
+          "morning",
+          "day"
+        ]
+      ],
+      "mistakeTags": [
+        "reported_speech",
+        "indirect_speech"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_01_reported_speech/007.mp3"
+    },
+    {
+      "id": "t1_9",
+      "type": "sentenceAssembly",
+      "question": "Политик сказал, что реформа может оказаться решающей в конечном счёте (Original: The reform may be decisive after all)",
+      "correctAnswer": "The politician said that the reform might be decisive after all",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "politician",
+          "minister",
+          "senator",
+          "diplomat"
+        ],
+        [
+          "said",
+          "say",
+          "told",
+          "stated"
+        ],
+        [
+          "that",
+          "what",
+          "if",
+          "which"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "reform",
+          "policy",
+          "measure",
+          "strategy"
+        ],
+        [
+          "might",
+          "may",
+          "can",
+          "could"
+        ],
+        [
+          "be",
+          "been",
+          "is",
+          "was"
+        ],
+        [
+          "decisive",
+          "crucial",
+          "vital",
+          "critical"
+        ],
+        [
+          "after",
+          "before",
+          "at",
+          "in"
+        ],
+        [
+          "all",
+          "once",
+          "then",
+          "last"
+        ]
+      ],
+      "mistakeTags": [
+        "reported_speech",
+        "indirect_speech"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_01_reported_speech/008.mp3"
+    },
+    {
+      "id": "t1_10",
+      "type": "sentenceAssembly",
+      "question": "Мама сказала мне не кричать в доме (Command: Don't scream in the house)",
+      "correctAnswer": "Mom told me not to scream in the house",
+      "options": [],
+      "variants": [
+        [
+          "Mom",
+          "She",
+          "Her",
+          "Mother"
+        ],
+        [
+          "told",
+          "said",
+          "ask",
+          "say"
+        ],
+        [
+          "me",
+          "I",
+          "my",
+          "you"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "don't"
+        ],
+        [
+          "to",
+          "that",
+          "if",
+          "for"
+        ],
+        [
+          "scream",
+          "shout",
+          "cry",
+          "yell"
+        ],
+        [
+          "in",
+          "to",
+          "for",
+          "at"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "house",
+          "room",
+          "class",
+          "hall"
+        ]
+      ],
+      "mistakeTags": [
+        "reported_speech",
+        "indirect_speech"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_01_reported_speech/009.mp3"
+    },
+    {
+      "id": "t1_11",
+      "type": "sentenceAssembly",
+      "question": "Они спросили, могут ли они войти и сесть (Original: Can we come in and sit down?)",
+      "correctAnswer": "They asked if they could come in and sit down",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "He",
+          "She",
+          "It"
+        ],
+        [
+          "asked",
+          "ask",
+          "said",
+          "told"
+        ],
+        [
+          "if",
+          "that",
+          "what",
+          "where"
+        ],
+        [
+          "they",
+          "I",
+          "you",
+          "one"
+        ],
+        [
+          "could",
+          "can",
+          "would",
+          "should"
+        ],
+        [
+          "come",
+          "go",
+          "get",
+          "walk"
+        ],
+        [
+          "in",
+          "on",
+          "at",
+          "into"
+        ],
+        [
+          "and",
+          "or",
+          "but",
+          "then"
+        ],
+        [
+          "sit",
+          "sat",
+          "seat",
+          "stand"
+        ],
+        [
+          "down",
+          "up",
+          "back",
+          "here"
+        ]
+      ],
+      "mistakeTags": [
+        "reported_speech",
+        "indirect_speech"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_01_reported_speech/010.mp3"
+    },
+    {
+      "id": "t1_12",
+      "type": "sentenceAssembly",
+      "question": "Я думал, что ты спишь в своей комнате (Original: You are sleeping in your room)",
+      "correctAnswer": "I thought that you were sleeping in your room",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "She",
+          "He",
+          "It"
+        ],
+        [
+          "thought",
+          "think",
+          "knew",
+          "said"
+        ],
+        [
+          "that",
+          "what",
+          "if",
+          "which"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "she"
+        ],
+        [
+          "were",
+          "was",
+          "are",
+          "been"
+        ],
+        [
+          "sleeping",
+          "sleep",
+          "asleep",
+          "resting"
+        ],
+        [
+          "in",
+          "at",
+          "on",
+          "by"
+        ],
+        [
+          "your",
+          "the",
+          "a",
+          "my"
+        ],
+        [
+          "room",
+          "bed",
+          "house",
+          "place"
+        ]
+      ],
+      "mistakeTags": [
+        "reported_speech",
+        "indirect_speech"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_01_reported_speech/011.mp3"
+    },
+    {
+      "id": "t1_13",
+      "type": "sentenceAssembly",
+      "question": "Она объяснила, что опоздала из-за пробок (Original: I was late because of traffic)",
+      "correctAnswer": "She explained that she was late because of traffic",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "I",
+          "They",
+          "You"
+        ],
+        [
+          "explained",
+          "explain",
+          "said",
+          "told"
+        ],
+        [
+          "that",
+          "what",
+          "if",
+          "which"
+        ],
+        [
+          "she",
+          "he",
+          "I",
+          "we"
+        ],
+        [
+          "was",
+          "is",
+          "were",
+          "been"
+        ],
+        [
+          "late",
+          "later",
+          "early",
+          "slow"
+        ],
+        [
+          "because",
+          "since",
+          "as",
+          "when"
+        ],
+        [
+          "of",
+          "for",
+          "from",
+          "by"
+        ],
+        [
+          "traffic",
+          "rain",
+          "work",
+          "bus"
+        ]
+      ],
+      "mistakeTags": [
+        "reported_speech",
+        "indirect_speech"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_01_reported_speech/012.mp3"
+    },
+    {
+      "id": "t1_14",
+      "type": "sentenceAssembly",
+      "question": "Критик обещал, что напишет честную рецензию на произведение утром (Original: I will write an honest review in the morning)",
+      "correctAnswer": "The critic promised that he would write an honest review",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "critic",
+          "reviewer",
+          "editor",
+          "analyst"
+        ],
+        [
+          "promised",
+          "promise",
+          "say",
+          "said"
+        ],
+        [
+          "that",
+          "what",
+          "if",
+          "which"
+        ],
+        [
+          "he",
+          "she",
+          "they",
+          "I"
+        ],
+        [
+          "would",
+          "will",
+          "did",
+          "can"
+        ],
+        [
+          "write",
+          "publish",
+          "draft",
+          "submit"
+        ],
+        [
+          "an",
+          "a",
+          "the",
+          "one"
+        ],
+        [
+          "honest",
+          "fair",
+          "detailed",
+          "thorough"
+        ],
+        [
+          "review",
+          "critique",
+          "report",
+          "essay"
+        ]
+      ],
+      "mistakeTags": [
+        "reported_speech",
+        "indirect_speech"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_01_reported_speech/013.mp3"
+    },
+    {
+      "id": "t1_15",
+      "type": "sentenceAssembly",
+      "question": "Мы спросили продавца, сколько это стоит всего (Original: How much does it cost altogether?)",
+      "correctAnswer": "We asked the seller how much it cost altogether",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "She",
+          "He",
+          "It"
+        ],
+        [
+          "asked",
+          "ask",
+          "said",
+          "told"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "seller",
+          "shop",
+          "man",
+          "clerk"
+        ],
+        [
+          "how",
+          "what",
+          "where",
+          "who"
+        ],
+        [
+          "much",
+          "many",
+          "lot",
+          "very"
+        ],
+        [
+          "it",
+          "this",
+          "that",
+          "there"
+        ],
+        [
+          "cost",
+          "price",
+          "pay",
+          "buy"
+        ],
+        [
+          "altogether",
+          "total",
+          "already",
+          "usually"
+        ]
+      ],
+      "mistakeTags": [
+        "reported_speech",
+        "indirect_speech"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_01_reported_speech/014.mp3"
+    },
+    {
+      "id": "t1_16",
+      "type": "sentenceAssembly",
+      "question": "Том сказал, что никогда раньше там не был (Original: I have never been there before)",
+      "correctAnswer": "Tom said that he had never been there before",
+      "options": [],
+      "variants": [
+        [
+          "Tom",
+          "He",
+          "Him",
+          "Boy"
+        ],
+        [
+          "said",
+          "say",
+          "told",
+          "asked"
+        ],
+        [
+          "that",
+          "what",
+          "if",
+          "which"
+        ],
+        [
+          "he",
+          "I",
+          "she",
+          "we"
+        ],
+        [
+          "had",
+          "has",
+          "have",
+          "was"
+        ],
+        [
+          "never",
+          "not",
+          "no",
+          "ever"
+        ],
+        [
+          "been",
+          "be",
+          "was",
+          "were"
+        ],
+        [
+          "there",
+          "here",
+          "place",
+          "then"
+        ],
+        [
+          "before",
+          "ago",
+          "once",
+          "early"
+        ]
+      ],
+      "mistakeTags": [
+        "reported_speech",
+        "indirect_speech"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_01_reported_speech/015.mp3"
+    },
+    {
+      "id": "t1_17",
+      "type": "sentenceAssembly",
+      "question": "Она сказала, что может помочь нам с проектом (Original: I can help you with the project)",
+      "correctAnswer": "She said that she could help us with the project",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "They",
+          "You",
+          "One"
+        ],
+        [
+          "said",
+          "say",
+          "told",
+          "asked"
+        ],
+        [
+          "that",
+          "what",
+          "if",
+          "which"
+        ],
+        [
+          "she",
+          "they",
+          "you",
+          "one"
+        ],
+        [
+          "could",
+          "can",
+          "would",
+          "able"
+        ],
+        [
+          "help",
+          "helping",
+          "helped",
+          "do"
+        ],
+        [
+          "us",
+          "we",
+          "our",
+          "them"
+        ],
+        [
+          "with",
+          "to",
+          "from",
+          "by"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "project",
+          "task",
+          "work",
+          "plan"
+        ]
+      ],
+      "mistakeTags": [
+        "reported_speech",
+        "indirect_speech"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_01_reported_speech/016.mp3"
+    },
+    {
+      "id": "t1_18",
+      "type": "sentenceAssembly",
+      "question": "Он спросил меня, почему я плакал так громко (Original: Why are you crying so loudly?)",
+      "correctAnswer": "He asked me why I was crying so loudly",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "I",
+          "We",
+          "They"
+        ],
+        [
+          "asked",
+          "ask",
+          "said",
+          "told"
+        ],
+        [
+          "me",
+          "I",
+          "my",
+          "him"
+        ],
+        [
+          "why",
+          "what",
+          "where",
+          "when"
+        ],
+        [
+          "I",
+          "me",
+          "my",
+          "you"
+        ],
+        [
+          "was",
+          "is",
+          "were",
+          "been"
+        ],
+        [
+          "crying",
+          "cry",
+          "sad",
+          "tear"
+        ],
+        [
+          "so",
+          "too",
+          "very",
+          "quite"
+        ],
+        [
+          "loudly",
+          "loud",
+          "hard",
+          "much"
+        ]
+      ],
+      "mistakeTags": [
+        "reported_speech",
+        "indirect_speech"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_01_reported_speech/017.mp3"
+    },
+    {
+      "id": "t1_19",
+      "type": "sentenceAssembly",
+      "question": "Врач велел мне отдыхать целую неделю (Command: Rest for a week)",
+      "correctAnswer": "The doctor told me to rest for a week",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "An",
+          "This"
+        ],
+        [
+          "doctor",
+          "doc",
+          "medic",
+          "nurse"
+        ],
+        [
+          "told",
+          "said",
+          "ask",
+          "say"
+        ],
+        [
+          "me",
+          "I",
+          "my",
+          "you"
+        ],
+        [
+          "to",
+          "that",
+          "if",
+          "for"
+        ],
+        [
+          "rest",
+          "sleep",
+          "relax",
+          "stay"
+        ],
+        [
+          "for",
+          "at",
+          "in",
+          "on"
+        ],
+        [
+          "a",
+          "the",
+          "one",
+          "this"
+        ],
+        [
+          "week",
+          "day",
+          "month",
+          "while"
+        ]
+      ],
+      "mistakeTags": [
+        "reported_speech",
+        "indirect_speech"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_01_reported_speech/018.mp3"
+    },
+    {
+      "id": "t1_20",
+      "type": "sentenceAssembly",
+      "question": "Она сказала, что это была её любимая кожаная сумка (Original: This is my favorite leather bag)",
+      "correctAnswer": "She said that it was her favorite leather bag",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "They",
+          "You",
+          "One"
+        ],
+        [
+          "said",
+          "say",
+          "told",
+          "asked"
+        ],
+        [
+          "that",
+          "what",
+          "if",
+          "which"
+        ],
+        [
+          "it",
+          "this",
+          "that",
+          "there"
+        ],
+        [
+          "was",
+          "is",
+          "were",
+          "been"
+        ],
+        [
+          "her",
+          "she",
+          "hers",
+          "his"
+        ],
+        [
+          "favorite",
+          "best",
+          "nice",
+          "good"
+        ],
+        [
+          "leather",
+          "old",
+          "new",
+          "big"
+        ],
+        [
+          "bag",
+          "pack",
+          "case",
+          "box"
+        ]
+      ],
+      "mistakeTags": [
+        "reported_speech",
+        "indirect_speech"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_01_reported_speech/019.mp3"
+    },
+    {
+      "id": "t1_21",
+      "type": "sentenceAssembly",
+      "question": "Этик знал, что совесть вернётся к нему в конце концов (Original: Conscience will come back for him)",
+      "correctAnswer": "The ethicist knew that conscience would come back eventually",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "Some",
+          "That"
+        ],
+        [
+          "ethicist",
+          "philosopher",
+          "scholar",
+          "thinker"
+        ],
+        [
+          "knew",
+          "know",
+          "think",
+          "said"
+        ],
+        [
+          "that",
+          "what",
+          "if",
+          "which"
+        ],
+        [
+          "conscience",
+          "justice",
+          "morality",
+          "truth"
+        ],
+        [
+          "would",
+          "may",
+          "shall",
+          "must"
+        ],
+        [
+          "come",
+          "came",
+          "go",
+          "arrive"
+        ],
+        [
+          "back",
+          "again",
+          "home",
+          "here"
+        ],
+        [
+          "eventually",
+          "certainly",
+          "undoubtedly",
+          "inevitably"
+        ]
+      ],
+      "mistakeTags": [
+        "reported_speech",
+        "indirect_speech"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_01_reported_speech/020.mp3"
+    },
+    {
+      "id": "t1_22",
+      "type": "sentenceAssembly",
+      "question": "Они сказали, что закончили всю работу (Original: We have finished all the work)",
+      "correctAnswer": "They said that they had finished all the work",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "said",
+          "say",
+          "told",
+          "asked"
+        ],
+        [
+          "that",
+          "what",
+          "if",
+          "which"
+        ],
+        [
+          "they",
+          "he",
+          "she",
+          "we"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "did"
+        ],
+        [
+          "finished",
+          "finish",
+          "done",
+          "ended"
+        ],
+        [
+          "all",
+          "every",
+          "each",
+          "most"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "work",
+          "task",
+          "job",
+          "project"
+        ]
+      ],
+      "mistakeTags": [
+        "reported_speech",
+        "indirect_speech"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_01_reported_speech/021.mp3"
+    },
+    {
+      "id": "t1_23",
+      "type": "sentenceAssembly",
+      "question": "Он спросил меня, хочу ли я потанцевать с ним (Original: Do you want to dance with me?)",
+      "correctAnswer": "He asked me if I wanted to dance with him",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "They",
+          "You",
+          "One"
+        ],
+        [
+          "asked",
+          "ask",
+          "said",
+          "told"
+        ],
+        [
+          "me",
+          "I",
+          "my",
+          "her"
+        ],
+        [
+          "if",
+          "that",
+          "what",
+          "where"
+        ],
+        [
+          "I",
+          "me",
+          "my",
+          "you"
+        ],
+        [
+          "wanted",
+          "want",
+          "like",
+          "love"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "dance",
+          "dancing",
+          "move",
+          "step"
+        ],
+        [
+          "with",
+          "for",
+          "to",
+          "at"
+        ],
+        [
+          "him",
+          "he",
+          "his",
+          "them"
+        ]
+      ],
+      "mistakeTags": [
+        "reported_speech",
+        "indirect_speech"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_01_reported_speech/022.mp3"
+    },
+    {
+      "id": "t1_24",
+      "type": "sentenceAssembly",
+      "question": "Она ответила, что не знает ответа (Original: I do not know the answer)",
+      "correctAnswer": "She answered that she did not know the answer",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "I",
+          "We",
+          "They"
+        ],
+        [
+          "answered",
+          "answer",
+          "said",
+          "told"
+        ],
+        [
+          "that",
+          "what",
+          "if",
+          "which"
+        ],
+        [
+          "she",
+          "I",
+          "he",
+          "it"
+        ],
+        [
+          "did",
+          "do",
+          "does",
+          "was"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "none"
+        ],
+        [
+          "know",
+          "knew",
+          "think",
+          "tell"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "answer",
+          "truth",
+          "reason",
+          "way"
+        ]
+      ],
+      "mistakeTags": [
+        "reported_speech",
+        "indirect_speech"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_01_reported_speech/023.mp3"
+    },
+    {
+      "id": "t1_25",
+      "type": "sentenceAssembly",
+      "question": "Он сказал, что видел фильм раньше",
+      "correctAnswer": "He said he had seen the movie before",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "I",
+          "They",
+          "You"
+        ],
+        [
+          "said",
+          "say",
+          "told",
+          "ask"
+        ],
+        [
+          "he",
+          "I",
+          "she",
+          "we"
+        ],
+        [
+          "had",
+          "has",
+          "have",
+          "was"
+        ],
+        [
+          "seen",
+          "see",
+          "saw",
+          "watch"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "movie",
+          "film",
+          "cinema",
+          "show"
+        ],
+        [
+          "before",
+          "ago",
+          "early",
+          "once"
+        ]
+      ],
+      "mistakeTags": [
+        "reported_speech",
+        "indirect_speech"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_01_reported_speech/024.mp3"
+    },
+    {
+      "id": "t1_26",
+      "type": "sentenceAssembly",
+      "question": "Мы сказали им подождать нас на станции (Command: Wait for us at the station)",
+      "correctAnswer": "We told them to wait for us at the station",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "You",
+          "One"
+        ],
+        [
+          "told",
+          "said",
+          "say",
+          "asked"
+        ],
+        [
+          "them",
+          "they",
+          "their",
+          "us"
+        ],
+        [
+          "to",
+          "that",
+          "if",
+          "for"
+        ],
+        [
+          "wait",
+          "waiting",
+          "stay",
+          "stand"
+        ],
+        [
+          "for",
+          "to",
+          "at",
+          "on"
+        ],
+        [
+          "us",
+          "we",
+          "our",
+          "me"
+        ],
+        [
+          "at",
+          "in",
+          "on",
+          "by"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "station",
+          "stop",
+          "place",
+          "door"
+        ]
+      ],
+      "mistakeTags": [
+        "reported_speech",
+        "indirect_speech"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_01_reported_speech/025.mp3"
+    },
+    {
+      "id": "t1_27",
+      "type": "sentenceAssembly",
+      "question": "Она думала, что позже в тот день пойдет дождь (Original: It will rain later today)",
+      "correctAnswer": "She thought that it would rain later that day",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "I",
+          "We",
+          "They"
+        ],
+        [
+          "thought",
+          "think",
+          "said",
+          "knew"
+        ],
+        [
+          "that",
+          "what",
+          "if",
+          "which"
+        ],
+        [
+          "it",
+          "that",
+          "this",
+          "there"
+        ],
+        [
+          "would",
+          "will",
+          "can",
+          "should"
+        ],
+        [
+          "rain",
+          "rains",
+          "raining",
+          "snow"
+        ],
+        [
+          "later",
+          "soon",
+          "early",
+          "after"
+        ],
+        [
+          "that",
+          "the",
+          "a",
+          "each"
+        ],
+        [
+          "day",
+          "night",
+          "time",
+          "week"
+        ]
+      ],
+      "mistakeTags": [
+        "reported_speech",
+        "indirect_speech"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_01_reported_speech/026.mp3"
+    },
+    {
+      "id": "t1_28",
+      "type": "sentenceAssembly",
+      "question": "Он сказал, что жил в Лондоне со своей семьёй (Original: I live in London with my family)",
+      "correctAnswer": "He said that he lived in London with his family",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "I",
+          "They",
+          "You"
+        ],
+        [
+          "said",
+          "say",
+          "told",
+          "asked"
+        ],
+        [
+          "that",
+          "what",
+          "if",
+          "which"
+        ],
+        [
+          "he",
+          "I",
+          "she",
+          "we"
+        ],
+        [
+          "lived",
+          "live",
+          "lives",
+          "living"
+        ],
+        [
+          "in",
+          "to",
+          "for",
+          "at"
+        ],
+        [
+          "London",
+          "Paris",
+          "city",
+          "town"
+        ],
+        [
+          "with",
+          "for",
+          "and",
+          "near"
+        ],
+        [
+          "his",
+          "her",
+          "my",
+          "the"
+        ],
+        [
+          "family",
+          "wife",
+          "friends",
+          "kids"
+        ]
+      ],
+      "mistakeTags": [
+        "reported_speech",
+        "indirect_speech"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_01_reported_speech/027.mp3"
+    },
+    {
+      "id": "t1_29",
+      "type": "sentenceAssembly",
+      "question": "Я спросил их, были ли они довольны результатом (Original: Are you happy with the result?)",
+      "correctAnswer": "I asked them if they were happy with the result",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "They",
+          "You",
+          "One"
+        ],
+        [
+          "asked",
+          "ask",
+          "said",
+          "told"
+        ],
+        [
+          "them",
+          "they",
+          "their",
+          "him"
+        ],
+        [
+          "if",
+          "that",
+          "what",
+          "where"
+        ],
+        [
+          "they",
+          "I",
+          "you",
+          "one"
+        ],
+        [
+          "were",
+          "was",
+          "are",
+          "been"
+        ],
+        [
+          "happy",
+          "glad",
+          "nice",
+          "good"
+        ],
+        [
+          "with",
+          "to",
+          "from",
+          "by"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "result",
+          "answer",
+          "work",
+          "score"
+        ]
+      ],
+      "mistakeTags": [
+        "reported_speech",
+        "indirect_speech"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_01_reported_speech/028.mp3"
+    },
+    {
+      "id": "t1_30",
+      "type": "sentenceAssembly",
+      "question": "Он добавил, что это было очень важно для всех (Original: It is very important for everyone)",
+      "correctAnswer": "He added that it was very important for everyone",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "I",
+          "We",
+          "They"
+        ],
+        [
+          "added",
+          "add",
+          "said",
+          "told"
+        ],
+        [
+          "that",
+          "it",
+          "this",
+          "if"
+        ],
+        [
+          "it",
+          "this",
+          "that",
+          "there"
+        ],
+        [
+          "was",
+          "is",
+          "were",
+          "been"
+        ],
+        [
+          "very",
+          "so",
+          "too",
+          "quite"
+        ],
+        [
+          "important",
+          "big",
+          "main",
+          "key"
+        ],
+        [
+          "for",
+          "to",
+          "at",
+          "by"
+        ],
+        [
+          "everyone",
+          "all",
+          "us",
+          "them"
+        ]
+      ],
+      "mistakeTags": [
+        "reported_speech",
+        "indirect_speech"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_01_reported_speech/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionAdvanced01ReportedSpeech",
+  "theoryQuiz": [
+    {
+      "id": "tq_01",
+      "type": "multipleChoice",
+      "question": "Как изменится 'am/is' в косвенной речи после 'He said...'?",
+      "options": [
+        "am/is",
+        "was/were",
+        "had been",
+        "would be"
+      ],
+      "correctIndex": 1,
+      "explanation": "Present Simple (am/is/are) сдвигается в Past Simple (was/were) в reported speech."
+    },
+    {
+      "id": "tq_02",
+      "type": "trueFalse",
+      "question": "В reported speech 'will' превращается в 'would'.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Верно: 'I will go' -> She said she would go. Will сдвигается в would."
+    },
+    {
+      "id": "tq_03",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: She said: 'I saw it.' -> She said she ___ it.",
+      "options": [
+        "saw",
+        "had seen",
+        "has seen",
+        "sees"
+      ],
+      "correctIndex": 1,
+      "explanation": "Past Simple (saw) сдвигается в Past Perfect (had seen) в косвенной речи."
+    },
+    {
+      "id": "tq_04",
+      "type": "trueFalse",
+      "question": "'Here' в косвенной речи меняется на 'there'.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Верно: указатели места меняются: here -> there, this -> that."
+    },
+    {
+      "id": "tq_05",
+      "type": "multipleChoice",
+      "question": "Как передать команду 'Don't scream!' в косвенной речи?",
+      "options": [
+        "He said don't scream.",
+        "He told me not to scream.",
+        "He told me to don't scream.",
+        "He said me not scream."
+      ],
+      "correctIndex": 1,
+      "explanation": "Команды передаются через told + object + (not) to + infinitive."
+    },
+    {
+      "id": "tq_06",
+      "type": "multipleChoice",
+      "question": "Какое слово используется для передачи yes/no вопроса? He asked ___ I was ready.",
+      "options": [
+        "that",
+        "what",
+        "if",
+        "which"
+      ],
+      "correctIndex": 2,
+      "explanation": "Для yes/no вопросов в reported speech используется if (или whether)."
+    },
+    {
+      "id": "tq_07",
+      "type": "trueFalse",
+      "question": "В reported questions сохраняется обратный порядок слов (как в вопросе).",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "Неверно: в reported questions используется прямой порядок слов: She asked where I lived (не 'where did I live')."
+    },
+    {
+      "id": "tq_08",
+      "type": "multipleChoice",
+      "question": "'Today' в косвенной речи меняется на:",
+      "options": [
+        "yesterday",
+        "that day",
+        "the day",
+        "this day"
+      ],
+      "correctIndex": 1,
+      "explanation": "Today -> that day, now -> then, yesterday -> the day before."
+    },
+    {
+      "id": "tq_09",
+      "type": "trueFalse",
+      "question": "'He said he loved pizza' — здесь 'loved' это пример backshift из Present Simple.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Верно: оригинал 'I love pizza' — Present Simple сдвигается в Past Simple (loved)."
+    },
+    {
+      "id": "tq_10",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: 'I have finished,' he said. -> He said he ___.",
+      "options": [
+        "has finished",
+        "have finished",
+        "had finished",
+        "finished"
+      ],
+      "correctIndex": 2,
+      "explanation": "Present Perfect (have finished) сдвигается в Past Perfect (had finished)."
+    }
+  ]
+}

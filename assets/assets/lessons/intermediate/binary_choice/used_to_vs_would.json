@@ -1,0 +1,400 @@
+{
+  "id": "intermediate_bc_10_used_to",
+  "title": "Used to vs Would",
+  "description": "Used to или Would? Привычки прошлого — одна для всего, другая только для действий.",
+  "order": 11,
+  "level": "intermediate",
+  "imageUrl": null,
+  "tasks": [
+    {
+      "id": "uvw_1",
+      "question": "I ___ live in a small town.",
+      "optionA": "USED TO",
+      "optionB": "WOULD",
+      "correctIndex": 0,
+      "explanation": "Состояние (live) — только used to. Would не работает с состояниями.",
+      "tags": [
+        "used_to_vs_would",
+        "used_to",
+        "home"
+      ]
+    },
+    {
+      "id": "uvw_2",
+      "question": "Every summer, we ___ go to the lake.",
+      "optionA": "USED TO",
+      "optionB": "WOULD",
+      "correctIndex": 1,
+      "explanation": "Повторяющееся действие в прошлом (every summer) — would подходит.",
+      "tags": [
+        "used_to_vs_would",
+        "would",
+        "travel"
+      ]
+    },
+    {
+      "id": "uvw_3",
+      "question": "She ___ have long hair as a child.",
+      "optionA": "USED TO",
+      "optionB": "WOULD",
+      "correctIndex": 0,
+      "explanation": "Have — состояние, would не используется с состояниями.",
+      "tags": [
+        "used_to_vs_would",
+        "used_to",
+        "personal"
+      ]
+    },
+    {
+      "id": "uvw_4",
+      "question": "He ___ always bring us sweets on Fridays.",
+      "optionA": "USED TO",
+      "optionB": "WOULD",
+      "correctIndex": 1,
+      "explanation": "Повторяющееся действие (bring, always) — would.",
+      "tags": [
+        "used_to_vs_would",
+        "would",
+        "family"
+      ]
+    },
+    {
+      "id": "uvw_5",
+      "question": "I ___ be afraid of the dark.",
+      "optionA": "USED TO",
+      "optionB": "WOULD",
+      "correctIndex": 0,
+      "explanation": "Be afraid — состояние, только used to.",
+      "tags": [
+        "used_to_vs_would",
+        "used_to",
+        "emotions"
+      ]
+    },
+    {
+      "id": "uvw_6",
+      "question": "We ___ play football after school every day.",
+      "optionA": "USED TO",
+      "optionB": "WOULD",
+      "correctIndex": 1,
+      "explanation": "Повторяющееся действие (every day) — would.",
+      "tags": [
+        "used_to_vs_would",
+        "would",
+        "sport"
+      ]
+    },
+    {
+      "id": "uvw_7",
+      "question": "They ___ own a big house by the sea.",
+      "optionA": "USED TO",
+      "optionB": "WOULD",
+      "correctIndex": 0,
+      "explanation": "Own — глагол состояния, только used to.",
+      "tags": [
+        "used_to_vs_would",
+        "used_to",
+        "home"
+      ]
+    },
+    {
+      "id": "uvw_8",
+      "question": "Grandma ___ read us stories before bed.",
+      "optionA": "USED TO",
+      "optionB": "WOULD",
+      "correctIndex": 1,
+      "explanation": "Повторяющееся действие (read stories) — would подходит.",
+      "tags": [
+        "used_to_vs_would",
+        "would",
+        "family"
+      ]
+    },
+    {
+      "id": "uvw_9",
+      "question": "He ___ know a lot about cars.",
+      "optionA": "USED TO",
+      "optionB": "WOULD",
+      "correctIndex": 0,
+      "explanation": "Know — состояние, would невозможен.",
+      "tags": [
+        "used_to_vs_would",
+        "used_to",
+        "daily_life"
+      ]
+    },
+    {
+      "id": "uvw_10",
+      "question": "She ___ walk to school when it was sunny.",
+      "optionA": "USED TO",
+      "optionB": "WOULD",
+      "correctIndex": 1,
+      "explanation": "Повторяющееся действие при условии (when) — would.",
+      "tags": [
+        "used_to_vs_would",
+        "would",
+        "school"
+      ]
+    },
+    {
+      "id": "uvw_11",
+      "question": "I ___ like spicy food, but now I love it.",
+      "optionA": "USED TO",
+      "optionB": "WOULD",
+      "correctIndex": 0,
+      "explanation": "Like — состояние, перемена вкусов — used to (не would).",
+      "tags": [
+        "used_to_vs_would",
+        "used_to",
+        "food"
+      ]
+    },
+    {
+      "id": "uvw_12",
+      "question": "Dad ___ take us fishing on weekends.",
+      "optionA": "USED TO",
+      "optionB": "WOULD",
+      "correctIndex": 1,
+      "explanation": "Повторяющееся действие (on weekends) — would.",
+      "tags": [
+        "used_to_vs_would",
+        "would",
+        "family"
+      ]
+    },
+    {
+      "id": "uvw_13",
+      "question": "This building ___ be a hospital.",
+      "optionA": "USED TO",
+      "optionB": "WOULD",
+      "correctIndex": 0,
+      "explanation": "Be — состояние. Would не используется с be.",
+      "tags": [
+        "used_to_vs_would",
+        "used_to",
+        "daily_life"
+      ]
+    },
+    {
+      "id": "uvw_14",
+      "question": "After lunch, he ___ sit in the garden and read.",
+      "optionA": "USED TO",
+      "optionB": "WOULD",
+      "correctIndex": 1,
+      "explanation": "Повторяющееся действие с привычной последовательностью — would.",
+      "tags": [
+        "used_to_vs_would",
+        "would",
+        "daily_life"
+      ]
+    },
+    {
+      "id": "uvw_15",
+      "question": "She ___ believe in Santa Claus.",
+      "optionA": "USED TO",
+      "optionB": "WOULD",
+      "correctIndex": 0,
+      "explanation": "Believe — состояние, только used to.",
+      "tags": [
+        "used_to_vs_would",
+        "used_to",
+        "emotions"
+      ]
+    },
+    {
+      "id": "uvw_16",
+      "question": "We ___ spend hours talking on the phone.",
+      "optionA": "USED TO",
+      "optionB": "WOULD",
+      "correctIndex": 1,
+      "explanation": "Повторяющееся действие — would.",
+      "tags": [
+        "used_to_vs_would",
+        "would",
+        "communication"
+      ]
+    },
+    {
+      "id": "uvw_17",
+      "question": "He ___ want to be a pilot when he was young.",
+      "optionA": "USED TO",
+      "optionB": "WOULD",
+      "correctIndex": 0,
+      "explanation": "Want — глагол состояния, только used to.",
+      "tags": [
+        "used_to_vs_would",
+        "used_to",
+        "personal"
+      ]
+    },
+    {
+      "id": "uvw_18",
+      "question": "My cat ___ sleep on my pillow every night.",
+      "optionA": "USED TO",
+      "optionB": "WOULD",
+      "correctIndex": 1,
+      "explanation": "Повторяющееся действие (every night) — would.",
+      "tags": [
+        "used_to_vs_would",
+        "would",
+        "home"
+      ]
+    },
+    {
+      "id": "uvw_19",
+      "question": "I ___ hate waking up early.",
+      "optionA": "USED TO",
+      "optionB": "WOULD",
+      "correctIndex": 0,
+      "explanation": "Hate — состояние, только used to.",
+      "tags": [
+        "used_to_vs_would",
+        "used_to",
+        "daily_life"
+      ]
+    },
+    {
+      "id": "uvw_20",
+      "question": "On rainy days, we ___ stay inside and play games.",
+      "optionA": "USED TO",
+      "optionB": "WOULD",
+      "correctIndex": 1,
+      "explanation": "Повторяющееся действие при условии — would.",
+      "tags": [
+        "used_to_vs_would",
+        "would",
+        "home"
+      ]
+    },
+    {
+      "id": "uvw_21",
+      "question": "There ___ be a park near our house.",
+      "optionA": "USED TO",
+      "optionB": "WOULD",
+      "correctIndex": 0,
+      "explanation": "There + be — состояние, would невозможен.",
+      "tags": [
+        "used_to_vs_would",
+        "used_to",
+        "home"
+      ]
+    },
+    {
+      "id": "uvw_22",
+      "question": "She ___ cook a big meal every Sunday.",
+      "optionA": "USED TO",
+      "optionB": "WOULD",
+      "correctIndex": 1,
+      "explanation": "Повторяющееся действие (every Sunday) — would.",
+      "tags": [
+        "used_to_vs_would",
+        "would",
+        "food"
+      ]
+    },
+    {
+      "id": "uvw_23",
+      "question": "I ___ think that English was easy.",
+      "optionA": "USED TO",
+      "optionB": "WOULD",
+      "correctIndex": 0,
+      "explanation": "Think (мнение) — состояние, только used to.",
+      "tags": [
+        "used_to_vs_would",
+        "used_to",
+        "school"
+      ]
+    },
+    {
+      "id": "uvw_24",
+      "question": "Every morning he ___ jog around the park.",
+      "optionA": "USED TO",
+      "optionB": "WOULD",
+      "correctIndex": 1,
+      "explanation": "Повторяющееся действие (every morning) — would.",
+      "tags": [
+        "used_to_vs_would",
+        "would",
+        "sport"
+      ]
+    },
+    {
+      "id": "uvw_25",
+      "question": "She ___ love chocolate, but now she avoids it.",
+      "optionA": "USED TO",
+      "optionB": "WOULD",
+      "correctIndex": 0,
+      "explanation": "Love — состояние, would невозможен.",
+      "tags": [
+        "used_to_vs_would",
+        "used_to",
+        "food"
+      ]
+    },
+    {
+      "id": "uvw_26",
+      "question": "In winter, we ___ build snowmen in the yard.",
+      "optionA": "USED TO",
+      "optionB": "WOULD",
+      "correctIndex": 1,
+      "explanation": "Повторяющееся действие в прошлом (in winter) — would.",
+      "tags": [
+        "used_to_vs_would",
+        "would",
+        "home"
+      ]
+    },
+    {
+      "id": "uvw_27",
+      "question": "I ___ have a different opinion about this.",
+      "optionA": "USED TO",
+      "optionB": "WOULD",
+      "correctIndex": 0,
+      "explanation": "Have (мнение) — состояние, только used to.",
+      "tags": [
+        "used_to_vs_would",
+        "used_to",
+        "communication"
+      ]
+    },
+    {
+      "id": "uvw_28",
+      "question": "He ___ tell the funniest jokes at dinner.",
+      "optionA": "USED TO",
+      "optionB": "WOULD",
+      "correctIndex": 1,
+      "explanation": "Повторяющееся действие (tell jokes) — would.",
+      "tags": [
+        "used_to_vs_would",
+        "would",
+        "social"
+      ]
+    },
+    {
+      "id": "uvw_29",
+      "question": "The shop ___ belong to my grandfather.",
+      "optionA": "USED TO",
+      "optionB": "WOULD",
+      "correctIndex": 0,
+      "explanation": "Belong — глагол состояния, только used to.",
+      "tags": [
+        "used_to_vs_would",
+        "used_to",
+        "family"
+      ]
+    },
+    {
+      "id": "uvw_30",
+      "question": "She ___ write long letters to her friends abroad.",
+      "optionA": "USED TO",
+      "optionB": "WOULD",
+      "correctIndex": 1,
+      "explanation": "Повторяющееся действие (write letters) — would.",
+      "tags": [
+        "used_to_vs_would",
+        "would",
+        "communication"
+      ]
+    }
+  ]
+}

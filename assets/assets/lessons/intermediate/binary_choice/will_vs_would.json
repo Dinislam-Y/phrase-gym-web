@@ -1,0 +1,400 @@
+{
+  "id": "intermediate_bc_08_future_forms",
+  "title": "Will vs Would",
+  "description": "Will или Would? Реальность или вежливость — поймай разницу на лету.",
+  "order": 9,
+  "level": "intermediate",
+  "imageUrl": null,
+  "tasks": [
+    {
+      "id": "wvwd_1",
+      "question": "I ___ call you tomorrow.",
+      "optionA": "WILL",
+      "optionB": "WOULD",
+      "correctIndex": 0,
+      "explanation": "Простое обещание о будущем — will.",
+      "tags": [
+        "will_vs_would",
+        "will",
+        "communication"
+      ]
+    },
+    {
+      "id": "wvwd_2",
+      "question": "___ you like some coffee?",
+      "optionA": "WILL",
+      "optionB": "WOULD",
+      "correctIndex": 1,
+      "explanation": "Вежливое предложение — would you like.",
+      "tags": [
+        "will_vs_would",
+        "would",
+        "food"
+      ]
+    },
+    {
+      "id": "wvwd_3",
+      "question": "She ___ be here in ten minutes.",
+      "optionA": "WILL",
+      "optionB": "WOULD",
+      "correctIndex": 0,
+      "explanation": "Факт о будущем — will.",
+      "tags": [
+        "will_vs_would",
+        "will",
+        "daily_life"
+      ]
+    },
+    {
+      "id": "wvwd_4",
+      "question": "I ___ prefer to stay at home tonight.",
+      "optionA": "WILL",
+      "optionB": "WOULD",
+      "correctIndex": 1,
+      "explanation": "Вежливое выражение предпочтения — would prefer.",
+      "tags": [
+        "will_vs_would",
+        "would",
+        "daily_life"
+      ]
+    },
+    {
+      "id": "wvwd_5",
+      "question": "It ___ be sunny this weekend.",
+      "optionA": "WILL",
+      "optionB": "WOULD",
+      "correctIndex": 0,
+      "explanation": "Прогноз на будущее — will.",
+      "tags": [
+        "will_vs_would",
+        "will",
+        "weather"
+      ]
+    },
+    {
+      "id": "wvwd_6",
+      "question": "___ you mind closing the door?",
+      "optionA": "WILL",
+      "optionB": "WOULD",
+      "correctIndex": 1,
+      "explanation": "Вежливая просьба — would you mind.",
+      "tags": [
+        "will_vs_would",
+        "would",
+        "communication"
+      ]
+    },
+    {
+      "id": "wvwd_7",
+      "question": "The meeting ___ start at two o'clock.",
+      "optionA": "WILL",
+      "optionB": "WOULD",
+      "correctIndex": 0,
+      "explanation": "Расписание, будущий факт — will.",
+      "tags": [
+        "will_vs_would",
+        "will",
+        "work"
+      ]
+    },
+    {
+      "id": "wvwd_8",
+      "question": "I ___ love to join you for dinner.",
+      "optionA": "WILL",
+      "optionB": "WOULD",
+      "correctIndex": 1,
+      "explanation": "Вежливое выражение желания — would love to.",
+      "tags": [
+        "will_vs_would",
+        "would",
+        "social"
+      ]
+    },
+    {
+      "id": "wvwd_9",
+      "question": "Don't worry, I ___ help you.",
+      "optionA": "WILL",
+      "optionB": "WOULD",
+      "correctIndex": 0,
+      "explanation": "Спонтанное решение помочь — will.",
+      "tags": [
+        "will_vs_would",
+        "will",
+        "daily_life"
+      ]
+    },
+    {
+      "id": "wvwd_10",
+      "question": "I ___ rather have tea than coffee.",
+      "optionA": "WILL",
+      "optionB": "WOULD",
+      "correctIndex": 1,
+      "explanation": "Would rather — устойчивое выражение предпочтения.",
+      "tags": [
+        "will_vs_would",
+        "would",
+        "food"
+      ]
+    },
+    {
+      "id": "wvwd_11",
+      "question": "He ___ finish the project by Friday.",
+      "optionA": "WILL",
+      "optionB": "WOULD",
+      "correctIndex": 0,
+      "explanation": "Обещание/план на будущее — will.",
+      "tags": [
+        "will_vs_would",
+        "will",
+        "work"
+      ]
+    },
+    {
+      "id": "wvwd_12",
+      "question": "___ you pass me the salt, please?",
+      "optionA": "WILL",
+      "optionB": "WOULD",
+      "correctIndex": 1,
+      "explanation": "Вежливая просьба за столом — would.",
+      "tags": [
+        "will_vs_would",
+        "would",
+        "food"
+      ]
+    },
+    {
+      "id": "wvwd_13",
+      "question": "I think they ___ win the match.",
+      "optionA": "WILL",
+      "optionB": "WOULD",
+      "correctIndex": 0,
+      "explanation": "Предсказание о будущем — will.",
+      "tags": [
+        "will_vs_would",
+        "will",
+        "sport"
+      ]
+    },
+    {
+      "id": "wvwd_14",
+      "question": "If I were you, I ___ accept the offer.",
+      "optionA": "WILL",
+      "optionB": "WOULD",
+      "correctIndex": 1,
+      "explanation": "If I were you — нереальное условие, would.",
+      "tags": [
+        "will_vs_would",
+        "would",
+        "work"
+      ]
+    },
+    {
+      "id": "wvwd_15",
+      "question": "We ___ have a party next Saturday.",
+      "optionA": "WILL",
+      "optionB": "WOULD",
+      "correctIndex": 0,
+      "explanation": "Реальный план на будущее — will.",
+      "tags": [
+        "will_vs_would",
+        "will",
+        "social"
+      ]
+    },
+    {
+      "id": "wvwd_16",
+      "question": "She ___ always help us when we asked.",
+      "optionA": "WILL",
+      "optionB": "WOULD",
+      "correctIndex": 1,
+      "explanation": "Would — повторяющееся действие в прошлом (she would always).",
+      "tags": [
+        "will_vs_would",
+        "would",
+        "social"
+      ]
+    },
+    {
+      "id": "wvwd_17",
+      "question": "I ___ never lie to you, I promise.",
+      "optionA": "WILL",
+      "optionB": "WOULD",
+      "correctIndex": 0,
+      "explanation": "Обещание о будущем — will.",
+      "tags": [
+        "will_vs_would",
+        "will",
+        "communication"
+      ]
+    },
+    {
+      "id": "wvwd_18",
+      "question": "I ___ be grateful if you could help.",
+      "optionA": "WILL",
+      "optionB": "WOULD",
+      "correctIndex": 1,
+      "explanation": "Вежливая формулировка с if — would.",
+      "tags": [
+        "will_vs_would",
+        "would",
+        "communication"
+      ]
+    },
+    {
+      "id": "wvwd_19",
+      "question": "The bus ___ arrive at six as usual.",
+      "optionA": "WILL",
+      "optionB": "WOULD",
+      "correctIndex": 0,
+      "explanation": "Факт о расписании — will.",
+      "tags": [
+        "will_vs_would",
+        "will",
+        "travel"
+      ]
+    },
+    {
+      "id": "wvwd_20",
+      "question": "I ___ recommend the seafood pasta here.",
+      "optionA": "WILL",
+      "optionB": "WOULD",
+      "correctIndex": 1,
+      "explanation": "Вежливая рекомендация — would recommend.",
+      "tags": [
+        "will_vs_would",
+        "would",
+        "food"
+      ]
+    },
+    {
+      "id": "wvwd_21",
+      "question": "Technology ___ change the world even more.",
+      "optionA": "WILL",
+      "optionB": "WOULD",
+      "correctIndex": 0,
+      "explanation": "Предсказание о реальном будущем — will.",
+      "tags": [
+        "will_vs_would",
+        "will",
+        "future"
+      ]
+    },
+    {
+      "id": "wvwd_22",
+      "question": "It ___ be nice to travel together someday.",
+      "optionA": "WILL",
+      "optionB": "WOULD",
+      "correctIndex": 1,
+      "explanation": "Мечта/гипотетическая ситуация — would be nice.",
+      "tags": [
+        "will_vs_would",
+        "would",
+        "travel"
+      ]
+    },
+    {
+      "id": "wvwd_23",
+      "question": "I believe prices ___ go up next year.",
+      "optionA": "WILL",
+      "optionB": "WOULD",
+      "correctIndex": 0,
+      "explanation": "Реальное предсказание (I believe) — will.",
+      "tags": [
+        "will_vs_would",
+        "will",
+        "daily_life"
+      ]
+    },
+    {
+      "id": "wvwd_24",
+      "question": "I ___ suggest arriving early just in case.",
+      "optionA": "WILL",
+      "optionB": "WOULD",
+      "correctIndex": 1,
+      "explanation": "Мягкий, вежливый совет — would suggest.",
+      "tags": [
+        "will_vs_would",
+        "would",
+        "travel"
+      ]
+    },
+    {
+      "id": "wvwd_25",
+      "question": "We ___ see the results by Monday.",
+      "optionA": "WILL",
+      "optionB": "WOULD",
+      "correctIndex": 0,
+      "explanation": "Ожидание конкретного результата — will.",
+      "tags": [
+        "will_vs_would",
+        "will",
+        "work"
+      ]
+    },
+    {
+      "id": "wvwd_26",
+      "question": "She ___ never agree to those terms.",
+      "optionA": "WILL",
+      "optionB": "WOULD",
+      "correctIndex": 1,
+      "explanation": "Гипотетическое утверждение — she would never.",
+      "tags": [
+        "will_vs_would",
+        "would",
+        "work"
+      ]
+    },
+    {
+      "id": "wvwd_27",
+      "question": "I ___ let you know as soon as I can.",
+      "optionA": "WILL",
+      "optionB": "WOULD",
+      "correctIndex": 0,
+      "explanation": "Обещание сообщить — will.",
+      "tags": [
+        "will_vs_would",
+        "will",
+        "communication"
+      ]
+    },
+    {
+      "id": "wvwd_28",
+      "question": "I ___ imagine it must be very difficult.",
+      "optionA": "WILL",
+      "optionB": "WOULD",
+      "correctIndex": 1,
+      "explanation": "I would imagine — вежливое предположение.",
+      "tags": [
+        "will_vs_would",
+        "would",
+        "emotions"
+      ]
+    },
+    {
+      "id": "wvwd_29",
+      "question": "The report ___ be ready by next week.",
+      "optionA": "WILL",
+      "optionB": "WOULD",
+      "correctIndex": 0,
+      "explanation": "Реальный план на будущее — will.",
+      "tags": [
+        "will_vs_would",
+        "will",
+        "work"
+      ]
+    },
+    {
+      "id": "wvwd_30",
+      "question": "I ___ say it's the best option for now.",
+      "optionA": "WILL",
+      "optionB": "WOULD",
+      "correctIndex": 1,
+      "explanation": "I would say — мягкое, вежливое высказывание мнения.",
+      "tags": [
+        "will_vs_would",
+        "would",
+        "communication"
+      ]
+    }
+  ]
+}

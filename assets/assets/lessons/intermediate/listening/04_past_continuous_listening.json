@@ -1,0 +1,461 @@
+{
+  "id": "intermediate_listening_04_past_continuous",
+  "title": "Past Continuous",
+  "description": "Слушайте, что происходило в определённый момент в прошлом — чистый Past Continuous.",
+  "order": 4,
+  "level": "intermediate",
+  "imageUrl": "assets/images/lessons/past_continuous.png",
+  "tasks": [
+    {
+      "id": "t4_01",
+      "audioText": "At 8 p.m. yesterday my phone rang. I was having dinner with my family.",
+      "transcript": "I was having dinner with my family.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "I was eating with my family."
+        },
+        {
+          "id": "o2",
+          "text": "I had dinner alone."
+        },
+        {
+          "id": "o3",
+          "text": "I have dinner every evening."
+        },
+        {
+          "id": "o4",
+          "text": "I will have dinner later."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Action in progress at 8 p.m. yesterday. Option 1 is exact.",
+      "mistakeTags": [
+        "home",
+        "past_continuous"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_04_past_continuous/t4_01.mp3"
+    },
+    {
+      "id": "t4_02",
+      "audioText": "When Sarah arrived at the office, everyone was laughing loudly.",
+      "transcript": "Everyone was laughing loudly.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "People were laughing when she came."
+        },
+        {
+          "id": "o2",
+          "text": "Everyone laughed yesterday."
+        },
+        {
+          "id": "o3",
+          "text": "Nobody was laughing."
+        },
+        {
+          "id": "o4",
+          "text": "They are laughing now."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Background action at the moment of arrival.",
+      "mistakeTags": [
+        "office",
+        "past_continuous"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_04_past_continuous/t4_02.mp3"
+    },
+    {
+      "id": "t4_03",
+      "audioText": "Last night at 11 p.m. I was watching the new Netflix series.",
+      "transcript": "I was watching the new Netflix series.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "I was enjoying a series at 11."
+        },
+        {
+          "id": "o2",
+          "text": "I watched it last week."
+        },
+        {
+          "id": "o3",
+          "text": "I was sleeping at 11."
+        },
+        {
+          "id": "o4",
+          "text": "I will watch it tomorrow."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Exact time + long action = Past Continuous.",
+      "mistakeTags": [
+        "home",
+        "past_continuous"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_04_past_continuous/t4_03.mp3"
+    },
+    {
+      "id": "t4_04",
+      "audioText": "While we were driving home, it started snowing heavily.",
+      "transcript": "We were driving home.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "We were on our way home in the car."
+        },
+        {
+          "id": "o2",
+          "text": "We drove home yesterday."
+        },
+        {
+          "id": "o3",
+          "text": "We were walking home."
+        },
+        {
+          "id": "o4",
+          "text": "We are driving now."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Longer action interrupted by 'started'.",
+      "mistakeTags": [
+        "street",
+        "past_continuous"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_04_past_continuous/t4_04.mp3"
+    },
+    {
+      "id": "t4_05",
+      "audioText": "I saw Anna at the gym yesterday. She was running on the treadmill.",
+      "transcript": "She was running on the treadmill.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She was using the treadmill."
+        },
+        {
+          "id": "o2",
+          "text": "She ran yesterday morning."
+        },
+        {
+          "id": "o3",
+          "text": "She was lifting weights."
+        },
+        {
+          "id": "o4",
+          "text": "She runs every day."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Action in progress when I saw her.",
+      "mistakeTags": [
+        "gym",
+        "past_continuous"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_04_past_continuous/t4_05.mp3"
+    },
+    {
+      "id": "t4_06",
+      "audioText": "At this time last year we were living in Barcelona.",
+      "transcript": "We were living in Barcelona.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "We were staying in Barcelona a year ago."
+        },
+        {
+          "id": "o2",
+          "text": "We lived there ten years ago."
+        },
+        {
+          "id": "o3",
+          "text": "We live in Barcelona now."
+        },
+        {
+          "id": "o4",
+          "text": "We will live there next year."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Temporary situation in the past.",
+      "mistakeTags": [
+        "travel",
+        "past_continuous"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_04_past_continuous/t4_06.mp3"
+    },
+    {
+      "id": "t4_07",
+      "audioText": "When the teacher entered the classroom, the students were talking loudly.",
+      "transcript": "The students were talking loudly.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The kids were chatting when she came in."
+        },
+        {
+          "id": "o2",
+          "text": "They talked after class."
+        },
+        {
+          "id": "o3",
+          "text": "They were silent."
+        },
+        {
+          "id": "o4",
+          "text": "They are talking now."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Classic interruption situation.",
+      "mistakeTags": [
+        "school",
+        "past_continuous"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_04_past_continuous/t4_07.mp3"
+    },
+    {
+      "id": "t4_08",
+      "audioText": "All evening yesterday Tom was playing online games with friends.",
+      "transcript": "Tom was playing online games with friends.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Tom spent the whole evening gaming."
+        },
+        {
+          "id": "o2",
+          "text": "He played only one hour."
+        },
+        {
+          "id": "o3",
+          "text": "He was studying all evening."
+        },
+        {
+          "id": "o4",
+          "text": "He plays every evening."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Long action throughout the evening.",
+      "mistakeTags": [
+        "home",
+        "past_continuous"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_04_past_continuous/t4_08.mp3"
+    },
+    {
+      "id": "t4_09",
+      "audioText": "While I was waiting for the bus, I met my old classmate.",
+      "transcript": "I was waiting for the bus.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "I was at the bus stop."
+        },
+        {
+          "id": "o2",
+          "text": "I waited yesterday."
+        },
+        {
+          "id": "o3",
+          "text": "I was driving."
+        },
+        {
+          "id": "o4",
+          "text": "I am waiting now."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Background for sudden meeting.",
+      "mistakeTags": [
+        "bus_station",
+        "past_continuous"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_04_past_continuous/t4_09.mp3"
+    },
+    {
+      "id": "t4_10",
+      "audioText": "At midnight last night the baby was crying very loudly.",
+      "transcript": "The baby was crying very loudly.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The baby was crying at midnight."
+        },
+        {
+          "id": "o2",
+          "text": "The baby cried in the morning."
+        },
+        {
+          "id": "o3",
+          "text": "The baby was sleeping."
+        },
+        {
+          "id": "o4",
+          "text": "The baby cries every night."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Specific moment action.",
+      "mistakeTags": [
+        "home",
+        "past_continuous"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_04_past_continuous/t4_10.mp3"
+    },
+    {
+      "id": "t4_11",
+      "audioText": "When the fire alarm went off, we were having a meeting.",
+      "transcript": "We were having a meeting.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "We were in a meeting when the alarm rang."
+        },
+        {
+          "id": "o2",
+          "text": "We had a meeting yesterday."
+        },
+        {
+          "id": "o3",
+          "text": "We were sleeping."
+        },
+        {
+          "id": "o4",
+          "text": "We are having a meeting now."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Interrupted longer action.",
+      "mistakeTags": [
+        "office",
+        "past_continuous"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_04_past_continuous/t4_11.mp3"
+    },
+    {
+      "id": "t4_12",
+      "audioText": "All morning yesterday it was raining cats and dogs.",
+      "transcript": "It was raining cats and dogs.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "It was pouring the whole morning."
+        },
+        {
+          "id": "o2",
+          "text": "It rained only ten minutes."
+        },
+        {
+          "id": "o3",
+          "text": "It was sunny."
+        },
+        {
+          "id": "o4",
+          "text": "It is raining now."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Long weather action.",
+      "mistakeTags": [
+        "weather",
+        "past_continuous"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_04_past_continuous/t4_12.mp3"
+    },
+    {
+      "id": "t4_13",
+      "audioText": "When I called you yesterday, you were taking a shower.",
+      "transcript": "You were taking a shower.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "You were in the shower when I phoned."
+        },
+        {
+          "id": "o2",
+          "text": "You took a shower later."
+        },
+        {
+          "id": "o3",
+          "text": "You were working."
+        },
+        {
+          "id": "o4",
+          "text": "You take a shower every morning."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Reason for not answering the call.",
+      "mistakeTags": [
+        "home",
+        "past_continuous"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_04_past_continuous/t4_13.mp3"
+    },
+    {
+      "id": "t4_14",
+      "audioText": "Between 2 and 4 p.m. yesterday the workers were repairing the road.",
+      "transcript": "The workers were repairing the road.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "They were fixing the street in the afternoon."
+        },
+        {
+          "id": "o2",
+          "text": "They repaired it last week."
+        },
+        {
+          "id": "o3",
+          "text": "They were building a house."
+        },
+        {
+          "id": "o4",
+          "text": "They are repairing it now."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Action during a time period.",
+      "mistakeTags": [
+        "street",
+        "past_continuous"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_04_past_continuous/t4_14.mp3"
+    },
+    {
+      "id": "t4_15",
+      "audioText": "When the plane landed, most passengers were sleeping.",
+      "transcript": "Most passengers were sleeping.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Many people were asleep during landing."
+        },
+        {
+          "id": "o2",
+          "text": "Everyone slept last night."
+        },
+        {
+          "id": "o3",
+          "text": "They were watching movies."
+        },
+        {
+          "id": "o4",
+          "text": "They are sleeping now."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "State at the moment of landing.",
+      "mistakeTags": [
+        "airport",
+        "past_continuous"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_04_past_continuous/t4_15.mp3"
+    }
+  ],
+  "short_description": "Past Continuous — что происходило в момент Х"
+}

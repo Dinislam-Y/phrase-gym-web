@@ -1,0 +1,461 @@
+{
+  "id": "upper_listening_13_so_such_too_enough",
+  "title": "So / Such / Too / Enough",
+  "description": "Слушайте конструкции степени: so, such, too, enough.",
+  "order": 13,
+  "level": "upper_intermediate",
+  "imageUrl": "assets/images/lessons/so_such_too_enough.png",
+  "tasks": [
+    {
+      "id": "t13_01",
+      "audioText": "We arrived at the beach after a long drive. The water was so warm that we jumped in immediately.",
+      "transcript": "The water was so warm that we jumped in immediately.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The water was extremely warm, which made them swim right away."
+        },
+        {
+          "id": "o2",
+          "text": "The water was too cold to swim in."
+        },
+        {
+          "id": "o3",
+          "text": "They decided not to go swimming at the beach."
+        },
+        {
+          "id": "o4",
+          "text": "The water temperature was just average."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'So + adjective + that' shows the degree of warmth was high enough to cause an immediate reaction — they jumped in.",
+      "mistakeTags": [
+        "so_such_too_enough",
+        "beach"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_13_so_such_too_enough/t13_01.mp3"
+    },
+    {
+      "id": "t13_02",
+      "audioText": "The restaurant we visited downtown was remarkable. It was such a delicious meal that we decided to go back the next evening.",
+      "transcript": "It was such a delicious meal that we decided to go back the next evening.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The food was disappointing and they never returned."
+        },
+        {
+          "id": "o2",
+          "text": "The meal was so good they chose to visit the restaurant again."
+        },
+        {
+          "id": "o3",
+          "text": "They only went to the restaurant once and forgot about it."
+        },
+        {
+          "id": "o4",
+          "text": "The meal was average but the service was excellent."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Such + a/an + adjective + noun + that' emphasizes the quality of the meal. The food quality led to a return visit.",
+      "mistakeTags": [
+        "so_such_too_enough",
+        "dining"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_13_so_such_too_enough/t13_02.mp3"
+    },
+    {
+      "id": "t13_03",
+      "audioText": "My grandfather tried to use the new smartphone we gave him. The text on the screen was too small for him to read without glasses.",
+      "transcript": "The text on the screen was too small for him to read without glasses.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He could read the text perfectly without any assistance."
+        },
+        {
+          "id": "o2",
+          "text": "The font size was excessively small, making it unreadable without spectacles."
+        },
+        {
+          "id": "o3",
+          "text": "He enlarged the text and could read everything easily."
+        },
+        {
+          "id": "o4",
+          "text": "The screen was big enough for comfortable reading."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Too + adjective + for someone + to do' means excessively. The text was excessively small, preventing reading.",
+      "mistakeTags": [
+        "so_such_too_enough",
+        "technology"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_13_so_such_too_enough/t13_03.mp3"
+    },
+    {
+      "id": "t13_04",
+      "audioText": "The students prepared thoroughly for the final examination. Fortunately, the questions were easy enough for everyone to pass.",
+      "transcript": "The questions were easy enough for everyone to pass.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The exam was too difficult and many students failed."
+        },
+        {
+          "id": "o2",
+          "text": "The exam questions were sufficiently simple that all students succeeded."
+        },
+        {
+          "id": "o3",
+          "text": "Only a few students managed to pass the exam."
+        },
+        {
+          "id": "o4",
+          "text": "The exam was cancelled due to its difficulty."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Adjective + enough + for someone + to do' means sufficiently. The questions reached the level needed for passing.",
+      "mistakeTags": [
+        "so_such_too_enough",
+        "education"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_13_so_such_too_enough/t13_04.mp3"
+    },
+    {
+      "id": "t13_05",
+      "audioText": "Elena presented her research findings at the international conference. She spoke so confidently that the audience assumed she was a seasoned professor.",
+      "transcript": "She spoke so confidently that the audience assumed she was a seasoned professor.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Her confident delivery led people to think she was an experienced professor."
+        },
+        {
+          "id": "o2",
+          "text": "She was visibly nervous during the entire presentation."
+        },
+        {
+          "id": "o3",
+          "text": "The audience knew she was a student, not a professor."
+        },
+        {
+          "id": "o4",
+          "text": "She refused to present her research at the conference."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'So + adverb + that' indicates the high degree of her confidence created a false impression about her experience level.",
+      "mistakeTags": [
+        "so_such_too_enough",
+        "academic"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_13_so_such_too_enough/t13_05.mp3"
+    },
+    {
+      "id": "t13_06",
+      "audioText": "The traffic jam on the highway lasted for hours during the holiday weekend. There were such long delays that many people missed their flights.",
+      "transcript": "There were such long delays that many people missed their flights.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The delays were significant enough to cause people to miss their planes."
+        },
+        {
+          "id": "o2",
+          "text": "Everyone arrived at the airport on time despite the traffic."
+        },
+        {
+          "id": "o3",
+          "text": "The traffic moved quickly and there were no delays."
+        },
+        {
+          "id": "o4",
+          "text": "Only one person missed their flight due to the traffic."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Such + adjective + plural noun + that' emphasizes the severity of the delays and their consequence — missed flights.",
+      "mistakeTags": [
+        "so_such_too_enough",
+        "traffic"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_13_so_such_too_enough/t13_06.mp3"
+    },
+    {
+      "id": "t13_07",
+      "audioText": "Jack tried to climb the mountain without proper equipment. The slope was too steep for him to continue safely beyond the midpoint.",
+      "transcript": "The slope was too steep for him to continue safely beyond the midpoint.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He reached the summit without any problems."
+        },
+        {
+          "id": "o2",
+          "text": "The incline was excessively sharp, preventing him from going further safely."
+        },
+        {
+          "id": "o3",
+          "text": "The slope was gentle enough for a comfortable hike."
+        },
+        {
+          "id": "o4",
+          "text": "He gave up at the very beginning of the climb."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Too + adjective + for someone + to do' expresses excessive degree. The steepness exceeded safe limits.",
+      "mistakeTags": [
+        "so_such_too_enough",
+        "adventure"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_13_so_such_too_enough/t13_07.mp3"
+    },
+    {
+      "id": "t13_08",
+      "audioText": "The charity event was a tremendous success this year. They raised enough money to build three new schools in the rural area.",
+      "transcript": "They raised enough money to build three new schools in the rural area.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "They collected sufficient funds to construct three schools in the countryside."
+        },
+        {
+          "id": "o2",
+          "text": "They didn't raise enough money for even one school."
+        },
+        {
+          "id": "o3",
+          "text": "They raised money but spent it on other projects."
+        },
+        {
+          "id": "o4",
+          "text": "The charity event was cancelled this year."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Enough + noun + to do' means a sufficient amount. The donations reached the level needed for three schools.",
+      "mistakeTags": [
+        "so_such_too_enough",
+        "charity"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_13_so_such_too_enough/t13_08.mp3"
+    },
+    {
+      "id": "t13_09",
+      "audioText": "The new employee made a critical error on her first day. It was such an embarrassing mistake that she considered resigning immediately.",
+      "transcript": "It was such an embarrassing mistake that she considered resigning immediately.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Her error was minor and nobody noticed it."
+        },
+        {
+          "id": "o2",
+          "text": "She made a small mistake but was proud of her first day."
+        },
+        {
+          "id": "o3",
+          "text": "The mistake was so humiliating she thought about quitting right away."
+        },
+        {
+          "id": "o4",
+          "text": "She resigned before making any mistakes."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Such + an + adjective + noun + that' emphasizes how embarrassing the mistake was. It nearly drove her to resign.",
+      "mistakeTags": [
+        "so_such_too_enough",
+        "work"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_13_so_such_too_enough/t13_09.mp3"
+    },
+    {
+      "id": "t13_10",
+      "audioText": "The children wanted to play football in the park after school. Unfortunately, it was too dark outside for them to play safely.",
+      "transcript": "Unfortunately, it was too dark outside for them to play safely.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "They played football in the park until midnight."
+        },
+        {
+          "id": "o2",
+          "text": "The lack of daylight made it unsafe for them to play outside."
+        },
+        {
+          "id": "o3",
+          "text": "The park had bright floodlights for evening games."
+        },
+        {
+          "id": "o4",
+          "text": "The weather was perfect for playing football."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Too dark for them to play' — 'too' indicates an excessive degree of darkness that prevented safe play.",
+      "mistakeTags": [
+        "so_such_too_enough",
+        "sports"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_13_so_such_too_enough/t13_10.mp3"
+    },
+    {
+      "id": "t13_11",
+      "audioText": "The documentary about ocean pollution was deeply moving. The footage was so shocking that it changed many viewers' habits completely.",
+      "transcript": "The footage was so shocking that it changed many viewers' habits completely.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The film content was extremely disturbing and transformed people's behaviour."
+        },
+        {
+          "id": "o2",
+          "text": "The documentary was boring and nobody watched it."
+        },
+        {
+          "id": "o3",
+          "text": "Viewers found the footage uninteresting and ordinary."
+        },
+        {
+          "id": "o4",
+          "text": "The documentary had no impact on anyone's habits."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'So shocking that' — the extreme degree of the shocking content produced a result: permanent behavioural change.",
+      "mistakeTags": [
+        "so_such_too_enough",
+        "environment"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_13_so_such_too_enough/t13_11.mp3"
+    },
+    {
+      "id": "t13_12",
+      "audioText": "The applicant had impressive qualifications and outstanding references. She was experienced enough to handle the most challenging projects alone.",
+      "transcript": "She was experienced enough to handle the most challenging projects alone.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She lacked the experience to manage difficult projects."
+        },
+        {
+          "id": "o2",
+          "text": "She had sufficient expertise to independently manage the hardest assignments."
+        },
+        {
+          "id": "o3",
+          "text": "She needed constant supervision on every project."
+        },
+        {
+          "id": "o4",
+          "text": "She only worked on simple tasks with a team."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Adjective + enough + to do' means having a sufficient level. Her experience met the threshold for solo complex work.",
+      "mistakeTags": [
+        "so_such_too_enough",
+        "career"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_13_so_such_too_enough/t13_12.mp3"
+    },
+    {
+      "id": "t13_13",
+      "audioText": "The summer heatwave broke all temperature records in the region. It was so hot that the roads started to melt in several areas.",
+      "transcript": "It was so hot that the roads started to melt in several areas.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The temperature was moderate and comfortable."
+        },
+        {
+          "id": "o2",
+          "text": "The extreme heat caused road surfaces to soften and deform."
+        },
+        {
+          "id": "o3",
+          "text": "The roads were in perfect condition despite the heatwave."
+        },
+        {
+          "id": "o4",
+          "text": "It was cold enough for the roads to freeze over."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'So hot that' introduces the consequence of extreme heat. The temperature was high enough to physically damage roads.",
+      "mistakeTags": [
+        "so_such_too_enough",
+        "weather"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_13_so_such_too_enough/t13_13.mp3"
+    },
+    {
+      "id": "t13_14",
+      "audioText": "The apartment looked perfect in the online photos. However, it turned out to be too noisy for us to consider living there permanently.",
+      "transcript": "However, it turned out to be too noisy for us to consider living there permanently.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The apartment was quiet and peaceful in reality."
+        },
+        {
+          "id": "o2",
+          "text": "The excessive noise level made the apartment unsuitable for long-term residence."
+        },
+        {
+          "id": "o3",
+          "text": "They moved into the apartment despite the noise."
+        },
+        {
+          "id": "o4",
+          "text": "The apartment matched the online description perfectly."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Too noisy for us to consider' — the noise exceeded the acceptable level, ruling out permanent residence.",
+      "mistakeTags": [
+        "so_such_too_enough",
+        "housing"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_13_so_such_too_enough/t13_14.mp3"
+    },
+    {
+      "id": "t13_15",
+      "audioText": "The rescue team worked through the night after the earthquake. They showed such incredible bravery that the entire nation praised their efforts.",
+      "transcript": "They showed such incredible bravery that the entire nation praised their efforts.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The rescue team displayed remarkable courage, earning nationwide admiration."
+        },
+        {
+          "id": "o2",
+          "text": "The rescue team was criticised for their poor performance."
+        },
+        {
+          "id": "o3",
+          "text": "Nobody noticed the rescue team's efforts after the earthquake."
+        },
+        {
+          "id": "o4",
+          "text": "The rescue team refused to work during the night."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Such + adjective + noun + that' emphasizes the extraordinary nature of their bravery and its national impact.",
+      "mistakeTags": [
+        "so_such_too_enough",
+        "heroism"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_13_so_such_too_enough/t13_15.mp3"
+    }
+  ],
+  "short_description": "Конструкции степени: so, such, too, enough."
+}

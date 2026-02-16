@@ -1,0 +1,270 @@
+{
+  "id": "bc_already_vs_yet",
+  "title": "Already vs Yet",
+  "description": "Already сделал или всё ещё yet? Разберём, кто уже, а кто ещё в пролёте!",
+  "order": 2,
+  "level": "intermediate",
+  "imageUrl": null,
+  "tasks": [
+    {
+      "id": "avy_1",
+      "question": "I've ___ finished my lunch.",
+      "optionA": "ALREADY",
+      "optionB": "YET",
+      "correctIndex": 0,
+      "explanation": "Уже закончил — утверждение, поэтому already.",
+      "tags": [
+        "already_vs_yet",
+        "already",
+        "food"
+      ]
+    },
+    {
+      "id": "avy_2",
+      "question": "Have you done it ___?",
+      "optionA": "ALREADY",
+      "optionB": "YET",
+      "correctIndex": 1,
+      "explanation": "В вопросе «уже?» — используем yet.",
+      "tags": [
+        "already_vs_yet",
+        "yet",
+        "question"
+      ]
+    },
+    {
+      "id": "avy_3",
+      "question": "She has ___ left the office.",
+      "optionA": "ALREADY",
+      "optionB": "YET",
+      "correctIndex": 0,
+      "explanation": "Уже ушла — утверждение, поэтому already.",
+      "tags": [
+        "already_vs_yet",
+        "already",
+        "work"
+      ]
+    },
+    {
+      "id": "avy_4",
+      "question": "I haven't seen it ___.",
+      "optionA": "ALREADY",
+      "optionB": "YET",
+      "correctIndex": 1,
+      "explanation": "Ещё не видел — отрицание, поэтому yet.",
+      "tags": [
+        "already_vs_yet",
+        "yet",
+        "daily_routine"
+      ]
+    },
+    {
+      "id": "avy_5",
+      "question": "We've ___ bought the tickets.",
+      "optionA": "ALREADY",
+      "optionB": "YET",
+      "correctIndex": 0,
+      "explanation": "Уже купили — утверждение, поэтому already.",
+      "tags": [
+        "already_vs_yet",
+        "already",
+        "travel"
+      ]
+    },
+    {
+      "id": "avy_6",
+      "question": "He hasn't called ___.",
+      "optionA": "ALREADY",
+      "optionB": "YET",
+      "correctIndex": 1,
+      "explanation": "Ещё не позвонил — отрицание, поэтому yet.",
+      "tags": [
+        "already_vs_yet",
+        "yet",
+        "social"
+      ]
+    },
+    {
+      "id": "avy_7",
+      "question": "Have they arrived ___?",
+      "optionA": "ALREADY",
+      "optionB": "YET",
+      "correctIndex": 1,
+      "explanation": "В вопросе «уже?» — yet.",
+      "tags": [
+        "already_vs_yet",
+        "yet",
+        "travel"
+      ]
+    },
+    {
+      "id": "avy_8",
+      "question": "I've ___ read this book.",
+      "optionA": "ALREADY",
+      "optionB": "YET",
+      "correctIndex": 0,
+      "explanation": "Уже прочитал — утверждение, поэтому already.",
+      "tags": [
+        "already_vs_yet",
+        "already",
+        "school"
+      ]
+    },
+    {
+      "id": "avy_9",
+      "question": "She hasn't replied ___.",
+      "optionA": "ALREADY",
+      "optionB": "YET",
+      "correctIndex": 1,
+      "explanation": "Ещё не ответила — отрицание, поэтому yet.",
+      "tags": [
+        "already_vs_yet",
+        "yet",
+        "social"
+      ]
+    },
+    {
+      "id": "avy_10",
+      "question": "They've ___ started the meeting.",
+      "optionA": "ALREADY",
+      "optionB": "YET",
+      "correctIndex": 0,
+      "explanation": "Уже начали — утверждение, поэтому already.",
+      "tags": [
+        "already_vs_yet",
+        "already",
+        "work"
+      ]
+    },
+    {
+      "id": "avy_11",
+      "question": "Has the bus come ___?",
+      "optionA": "ALREADY",
+      "optionB": "YET",
+      "correctIndex": 1,
+      "explanation": "В вопросе «уже?» — yet.",
+      "tags": [
+        "already_vs_yet",
+        "yet",
+        "travel"
+      ]
+    },
+    {
+      "id": "avy_12",
+      "question": "I've ___ told you twice!",
+      "optionA": "ALREADY",
+      "optionB": "YET",
+      "correctIndex": 0,
+      "explanation": "Уже говорил (с раздражением) — already.",
+      "tags": [
+        "already_vs_yet",
+        "already",
+        "daily_routine"
+      ]
+    },
+    {
+      "id": "avy_13",
+      "question": "We haven't decided ___.",
+      "optionA": "ALREADY",
+      "optionB": "YET",
+      "correctIndex": 1,
+      "explanation": "Ещё не решили — отрицание, поэтому yet.",
+      "tags": [
+        "already_vs_yet",
+        "yet",
+        "work"
+      ]
+    },
+    {
+      "id": "avy_14",
+      "question": "He's ___ passed the exam.",
+      "optionA": "ALREADY",
+      "optionB": "YET",
+      "correctIndex": 0,
+      "explanation": "Уже сдал — утверждение, поэтому already.",
+      "tags": [
+        "already_vs_yet",
+        "already",
+        "school"
+      ]
+    },
+    {
+      "id": "avy_15",
+      "question": "I haven't finished my coffee ___.",
+      "optionA": "ALREADY",
+      "optionB": "YET",
+      "correctIndex": 1,
+      "explanation": "Ещё не допил — отрицание, поэтому yet.",
+      "tags": [
+        "already_vs_yet",
+        "yet",
+        "food"
+      ]
+    },
+    {
+      "id": "avy_16",
+      "question": "She's ___ moved to London.",
+      "optionA": "ALREADY",
+      "optionB": "YET",
+      "correctIndex": 0,
+      "explanation": "Уже переехала — утверждение, поэтому already.",
+      "tags": [
+        "already_vs_yet",
+        "already",
+        "travel"
+      ]
+    },
+    {
+      "id": "avy_17",
+      "question": "Have you eaten ___?",
+      "optionA": "ALREADY",
+      "optionB": "YET",
+      "correctIndex": 1,
+      "explanation": "В вопросе «уже?» — yet.",
+      "tags": [
+        "already_vs_yet",
+        "yet",
+        "food"
+      ]
+    },
+    {
+      "id": "avy_18",
+      "question": "I've ___ seen this movie.",
+      "optionA": "ALREADY",
+      "optionB": "YET",
+      "correctIndex": 0,
+      "explanation": "Уже смотрел — утверждение, поэтому already.",
+      "tags": [
+        "already_vs_yet",
+        "already",
+        "daily_routine"
+      ]
+    },
+    {
+      "id": "avy_19",
+      "question": "They haven't paid us ___.",
+      "optionA": "ALREADY",
+      "optionB": "YET",
+      "correctIndex": 1,
+      "explanation": "Ещё не заплатили — отрицание, поэтому yet.",
+      "tags": [
+        "already_vs_yet",
+        "yet",
+        "work"
+      ]
+    },
+    {
+      "id": "avy_20",
+      "question": "He's ___ gone to bed.",
+      "optionA": "ALREADY",
+      "optionB": "YET",
+      "correctIndex": 0,
+      "explanation": "Уже лёг спать — утверждение, поэтому already.",
+      "tags": [
+        "already_vs_yet",
+        "already",
+        "daily_routine"
+      ]
+    }
+  ]
+}

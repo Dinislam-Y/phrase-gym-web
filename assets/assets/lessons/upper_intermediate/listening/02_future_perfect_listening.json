@@ -1,0 +1,461 @@
+{
+  "id": "upper_listening_02_future_perfect",
+  "title": "Future Perfect",
+  "description": "Слушайте о действиях, которые будут завершены к определённому моменту.",
+  "order": 2,
+  "level": "upper_intermediate",
+  "imageUrl": "assets/images/lessons/future_perfect.png",
+  "tasks": [
+    {
+      "id": "t2_01",
+      "audioText": "The construction workers are making great progress. They will have finished the bridge by the end of December.",
+      "transcript": "They will have finished the bridge by the end of December.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The bridge will be complete before January starts."
+        },
+        {
+          "id": "o2",
+          "text": "They are finishing the bridge right now."
+        },
+        {
+          "id": "o3",
+          "text": "They finished the bridge last December."
+        },
+        {
+          "id": "o4",
+          "text": "The bridge will never be completed."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Will have finished by the end of December' uses Future Perfect to indicate the bridge completion before a specific future deadline.",
+      "mistakeTags": [
+        "construction",
+        "future_perfect"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_02_future_perfect/t2_01.mp3"
+    },
+    {
+      "id": "t2_02",
+      "audioText": "I started this book two weeks ago. By Friday, I will have read all five hundred pages.",
+      "transcript": "By Friday, I will have read all five hundred pages.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "I read the book last Friday."
+        },
+        {
+          "id": "o2",
+          "text": "I will finish reading the entire book before Friday ends."
+        },
+        {
+          "id": "o3",
+          "text": "I am reading right now."
+        },
+        {
+          "id": "o4",
+          "text": "I will start reading on Friday."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Will have read by Friday' means the reading will be completed before or on Friday — a future deadline with a completed action.",
+      "mistakeTags": [
+        "education",
+        "future_perfect"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_02_future_perfect/t2_02.mp3"
+    },
+    {
+      "id": "t2_03",
+      "audioText": "Our CEO announced a bold plan this morning. The company will have expanded to fifteen countries by 2030.",
+      "transcript": "The company will have expanded to fifteen countries by 2030.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The company expanded to fifteen countries last year."
+        },
+        {
+          "id": "o2",
+          "text": "The company is expanding right now."
+        },
+        {
+          "id": "o3",
+          "text": "The company plans to be operating in fifteen countries before 2030 arrives."
+        },
+        {
+          "id": "o4",
+          "text": "The company will start expanding after 2030."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Will have expanded by 2030' uses Future Perfect to project a completed business goal before a specific year.",
+      "mistakeTags": [
+        "business",
+        "future_perfect"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_02_future_perfect/t2_03.mp3"
+    },
+    {
+      "id": "t2_04",
+      "audioText": "Sarah is training hard every day. She will have run over a thousand kilometres by the time the marathon season begins.",
+      "transcript": "She will have run over a thousand kilometres by the time the marathon season begins.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She will accumulate more than a thousand kilometres of running before the season starts."
+        },
+        {
+          "id": "o2",
+          "text": "She ran a thousand kilometres last season."
+        },
+        {
+          "id": "o3",
+          "text": "She runs a thousand kilometres every week."
+        },
+        {
+          "id": "o4",
+          "text": "She will start running when the season begins."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Will have run by the time' combines Future Perfect with a time clause to show accumulated distance before a future event.",
+      "mistakeTags": [
+        "sports",
+        "future_perfect"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_02_future_perfect/t2_04.mp3"
+    },
+    {
+      "id": "t2_05",
+      "audioText": "We moved into this flat three years ago. Next month, we will have lived here for exactly four years.",
+      "transcript": "Next month, we will have lived here for exactly four years.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "We lived here for four years in the past."
+        },
+        {
+          "id": "o2",
+          "text": "By next month, our time in this flat will total four years."
+        },
+        {
+          "id": "o3",
+          "text": "We are moving out next month."
+        },
+        {
+          "id": "o4",
+          "text": "We will move in next month."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Will have lived for four years' uses Future Perfect to describe a duration that reaches a milestone at a future point.",
+      "mistakeTags": [
+        "home",
+        "future_perfect"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_02_future_perfect/t2_05.mp3"
+    },
+    {
+      "id": "t2_06",
+      "audioText": "Dr. Chen is an incredible researcher. By the end of this year, she will have published over fifty scientific papers.",
+      "transcript": "She will have published over fifty scientific papers by the end of this year.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She published fifty papers last year."
+        },
+        {
+          "id": "o2",
+          "text": "She is writing her first paper now."
+        },
+        {
+          "id": "o3",
+          "text": "Her total publications will exceed fifty before the year is over."
+        },
+        {
+          "id": "o4",
+          "text": "She stopped publishing papers recently."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Will have published by the end of this year' projects a cumulative achievement reaching completion at a future point.",
+      "mistakeTags": [
+        "education",
+        "future_perfect"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_02_future_perfect/t2_06.mp3"
+    },
+    {
+      "id": "t2_07",
+      "audioText": "The electricians started on Monday. They will have installed all the wiring before the painters arrive next week.",
+      "transcript": "They will have installed all the wiring before the painters arrive next week.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The wiring installation will be done before the painting crew comes."
+        },
+        {
+          "id": "o2",
+          "text": "The painters will arrive before the wiring is installed."
+        },
+        {
+          "id": "o3",
+          "text": "The electricians and painters will work at the same time."
+        },
+        {
+          "id": "o4",
+          "text": "The wiring was installed last week already."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Will have installed before the painters arrive' uses Future Perfect to sequence two future events — wiring first, then painting.",
+      "mistakeTags": [
+        "construction",
+        "future_perfect"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_02_future_perfect/t2_07.mp3"
+    },
+    {
+      "id": "t2_08",
+      "audioText": "My parents are celebrating a special anniversary soon. They will have been married for thirty years this June.",
+      "transcript": "They will have been married for thirty years this June.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "They got married thirty years after June."
+        },
+        {
+          "id": "o2",
+          "text": "Their marriage will reach its thirtieth anniversary in June."
+        },
+        {
+          "id": "o3",
+          "text": "They are getting married this June."
+        },
+        {
+          "id": "o4",
+          "text": "They divorced after thirty years."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Will have been married for thirty years' uses Future Perfect to mark a duration milestone at a specific future date.",
+      "mistakeTags": [
+        "family",
+        "future_perfect"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_02_future_perfect/t2_08.mp3"
+    },
+    {
+      "id": "t2_09",
+      "audioText": "The server migration is underway at our office. The IT team will have transferred all the data by midnight tonight.",
+      "transcript": "The IT team will have transferred all the data by midnight tonight.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The data transfer will be complete before midnight."
+        },
+        {
+          "id": "o2",
+          "text": "The IT team transferred the data yesterday."
+        },
+        {
+          "id": "o3",
+          "text": "The team will start transferring data at midnight."
+        },
+        {
+          "id": "o4",
+          "text": "The data transfer was cancelled."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Will have transferred by midnight' sets a clear deadline for completion — all data moved before that time.",
+      "mistakeTags": [
+        "technology",
+        "future_perfect"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_02_future_perfect/t2_09.mp3"
+    },
+    {
+      "id": "t2_10",
+      "audioText": "Elena is a dedicated volunteer at the shelter. By next spring, she will have donated over two hundred hours of her time.",
+      "transcript": "She will have donated over two hundred hours of her time by next spring.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She donated two hundred hours last spring."
+        },
+        {
+          "id": "o2",
+          "text": "Her total volunteer hours will surpass two hundred before next spring."
+        },
+        {
+          "id": "o3",
+          "text": "She volunteers for exactly two hundred hours every spring."
+        },
+        {
+          "id": "o4",
+          "text": "She will begin volunteering next spring."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Will have donated by next spring' uses Future Perfect for an accumulated total reaching a milestone at a future time.",
+      "mistakeTags": [
+        "social",
+        "future_perfect"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_02_future_perfect/t2_10.mp3"
+    },
+    {
+      "id": "t2_11",
+      "audioText": "I need to hurry with my assignment. The professor will have collected all the essays before I get to class.",
+      "transcript": "The professor will have collected all the essays before I get to class.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The professor will collect essays after I arrive."
+        },
+        {
+          "id": "o2",
+          "text": "I will arrive before the professor starts collecting."
+        },
+        {
+          "id": "o3",
+          "text": "All essays will already be gathered by the time I reach the classroom."
+        },
+        {
+          "id": "o4",
+          "text": "The professor never collects essays in class."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Will have collected before I get to class' shows the collection ending before the speaker's arrival — sequencing two future events.",
+      "mistakeTags": [
+        "education",
+        "future_perfect"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_02_future_perfect/t2_11.mp3"
+    },
+    {
+      "id": "t2_12",
+      "audioText": "The airline announced new routes today. By summer, they will have added direct flights to twelve new destinations.",
+      "transcript": "They will have added direct flights to twelve new destinations by summer.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Twelve new flight routes will be operational before the summer season."
+        },
+        {
+          "id": "o2",
+          "text": "They added twelve routes last summer."
+        },
+        {
+          "id": "o3",
+          "text": "They are cancelling twelve routes this summer."
+        },
+        {
+          "id": "o4",
+          "text": "They will begin planning new routes in summer."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Will have added by summer' projects a completed expansion of routes before the summer deadline.",
+      "mistakeTags": [
+        "travel",
+        "future_perfect"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_02_future_perfect/t2_12.mp3"
+    },
+    {
+      "id": "t2_13",
+      "audioText": "Our neighbours are renovating their kitchen. They will have spent over twenty thousand dollars on it by the time it is done.",
+      "transcript": "They will have spent over twenty thousand dollars on it by the time it is done.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The total cost will exceed twenty thousand dollars when the renovation finishes."
+        },
+        {
+          "id": "o2",
+          "text": "They spent twenty thousand dollars last year."
+        },
+        {
+          "id": "o3",
+          "text": "They are saving twenty thousand dollars for the future."
+        },
+        {
+          "id": "o4",
+          "text": "The renovation costs nothing."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Will have spent by the time it is done' combines Future Perfect with a time clause to project the total cost at completion.",
+      "mistakeTags": [
+        "home",
+        "future_perfect"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_02_future_perfect/t2_13.mp3"
+    },
+    {
+      "id": "t2_14",
+      "audioText": "The patient is recovering well after the surgery. The doctors say he will have fully recovered by the end of the month.",
+      "transcript": "He will have fully recovered by the end of the month.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He recovered last month."
+        },
+        {
+          "id": "o2",
+          "text": "His recovery will be complete before the month finishes."
+        },
+        {
+          "id": "o3",
+          "text": "He will start recovering at the end of the month."
+        },
+        {
+          "id": "o4",
+          "text": "He is not recovering at all."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Will have fully recovered by the end of the month' uses Future Perfect to predict complete recovery before a deadline.",
+      "mistakeTags": [
+        "health",
+        "future_perfect"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_02_future_perfect/t2_14.mp3"
+    },
+    {
+      "id": "t2_15",
+      "audioText": "The chef is preparing a special tasting menu for tonight. He will have cooked eight different courses by the time the guests sit down.",
+      "transcript": "He will have cooked eight different courses by the time the guests sit down.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He will start cooking when the guests arrive."
+        },
+        {
+          "id": "o2",
+          "text": "He cooked eight courses yesterday."
+        },
+        {
+          "id": "o3",
+          "text": "All eight courses will be ready before the guests take their seats."
+        },
+        {
+          "id": "o4",
+          "text": "The guests will cook the courses themselves."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Will have cooked by the time the guests sit down' uses Future Perfect to show preparation completed before a future event.",
+      "mistakeTags": [
+        "food",
+        "future_perfect"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_02_future_perfect/t2_15.mp3"
+    }
+  ],
+  "short_description": "Будущее завершённое: will have + V3."
+}

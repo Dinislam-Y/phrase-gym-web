@@ -1,0 +1,2074 @@
+{
+  "id": "upper_08_modal_may_might_could",
+  "title": "Modal Verbs: May, Might, Could",
+  "description": "May/Might — это «Гадание на ромашке» (Вероятность). Может быть да, а может нет. May — 50%, Might — 30%.",
+  "order": 8,
+  "level": "upper_intermediate",
+  "imageUrl": "assets/images/lessons/modal_may_might_could.png",
+  "vocabulary": [
+    {
+      "id": "v8_rain",
+      "english": "rain",
+      "russian": "дождь",
+      "partOfSpeech": "noun",
+      "example": "May rain.",
+      "exampleTranslation": "Может пойти дождь.",
+      "audioPath": "assets/audio/vocabulary/v8_rain.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_rain.mp3"
+    },
+    {
+      "id": "v8_today",
+      "english": "today",
+      "russian": "сегодня",
+      "partOfSpeech": "noun",
+      "example": "Rain today.",
+      "exampleTranslation": "Дождь сегодня.",
+      "audioPath": "assets/audio/vocabulary/v8_today.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_today.mp3"
+    },
+    {
+      "id": "v8_home",
+      "english": "home",
+      "russian": "дом",
+      "partOfSpeech": "noun",
+      "example": "At home.",
+      "exampleTranslation": "Дома.",
+      "audioPath": "assets/audio/vocabulary/v8_home.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_home.mp3"
+    },
+    {
+      "id": "v8_come",
+      "english": "come",
+      "russian": "приходить",
+      "partOfSpeech": "verb",
+      "example": "Come in.",
+      "exampleTranslation": "Войти.",
+      "audioPath": "assets/audio/vocabulary/v8_come.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_come.mp3"
+    },
+    {
+      "id": "v8_know",
+      "english": "know",
+      "russian": "знать",
+      "partOfSpeech": "verb",
+      "example": "May not know.",
+      "exampleTranslation": "Может не знать.",
+      "audioPath": "assets/audio/vocabulary/v8_know.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_know.mp3"
+    },
+    {
+      "id": "v8_late",
+      "english": "late",
+      "russian": "поздно (опаздывать)",
+      "partOfSpeech": "adjective",
+      "example": "Been late.",
+      "exampleTranslation": "Опоздали.",
+      "audioPath": "assets/audio/vocabulary/v8_late.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_late.mp3"
+    },
+    {
+      "id": "v8_take",
+      "english": "take",
+      "russian": "брать",
+      "partOfSpeech": "verb",
+      "example": "Take this.",
+      "exampleTranslation": "Взять это.",
+      "audioPath": "assets/audio/vocabulary/v8_take.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_take.mp3"
+    },
+    {
+      "id": "v8_dangerous",
+      "english": "dangerous",
+      "russian": "опасный",
+      "partOfSpeech": "adjective",
+      "example": "Be dangerous.",
+      "exampleTranslation": "Быть опасным.",
+      "audioPath": "assets/audio/vocabulary/v8_dangerous.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_dangerous.mp3"
+    },
+    {
+      "id": "v8_buy",
+      "english": "buy",
+      "russian": "покупать",
+      "partOfSpeech": "verb",
+      "example": "Might buy.",
+      "exampleTranslation": "Может куплю.",
+      "audioPath": "assets/audio/vocabulary/v8_buy.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_buy.mp3"
+    },
+    {
+      "id": "v8_forget",
+      "english": "forget",
+      "russian": "забывать",
+      "partOfSpeech": "verb",
+      "example": "Have forgotten.",
+      "exampleTranslation": "Забыли.",
+      "audioPath": "assets/audio/vocabulary/v8_forget.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_forget.mp3"
+    },
+    {
+      "id": "v8_ask",
+      "english": "ask",
+      "russian": "спрашивать",
+      "partOfSpeech": "verb",
+      "example": "May I ask?",
+      "exampleTranslation": "Можно спросить?",
+      "audioPath": "assets/audio/vocabulary/v8_ask.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_ask.mp3"
+    },
+    {
+      "id": "v8_question",
+      "english": "question",
+      "russian": "вопрос",
+      "partOfSpeech": "noun",
+      "example": "A question.",
+      "exampleTranslation": "Вопрос.",
+      "audioPath": "assets/audio/vocabulary/v8_question.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_question.mp3"
+    },
+    {
+      "id": "v8_park",
+      "english": "park",
+      "russian": "парк (парковаться)",
+      "partOfSpeech": "noun",
+      "example": "In the park.",
+      "exampleTranslation": "В парке.",
+      "audioPath": "assets/audio/vocabulary/v8_park.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_park.mp3"
+    },
+    {
+      "id": "v8_sleep",
+      "english": "sleep",
+      "russian": "спать",
+      "partOfSpeech": "verb",
+      "example": "Be sleeping.",
+      "exampleTranslation": "Спит.",
+      "audioPath": "assets/audio/vocabulary/v8_sleep.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_sleep.mp3"
+    },
+    {
+      "id": "v8_true",
+      "english": "true",
+      "russian": "правда",
+      "partOfSpeech": "adjective",
+      "example": "Be true.",
+      "exampleTranslation": "Быть правдой.",
+      "audioPath": "assets/audio/vocabulary/v8_true.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_true.mp3"
+    },
+    {
+      "id": "v8_call",
+      "english": "call",
+      "russian": "звонить",
+      "partOfSpeech": "verb",
+      "example": "Might call.",
+      "exampleTranslation": "Может позвоню.",
+      "audioPath": "assets/audio/vocabulary/v8_call.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_call.mp3"
+    },
+    {
+      "id": "v8_worse",
+      "english": "worse",
+      "russian": "хуже",
+      "partOfSpeech": "adjective",
+      "example": "Been worse.",
+      "exampleTranslation": "Было хуже.",
+      "audioPath": "assets/audio/vocabulary/v8_worse.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_worse.mp3"
+    },
+    {
+      "id": "v8_lost",
+      "english": "lost",
+      "russian": "потерянный",
+      "partOfSpeech": "adjective",
+      "example": "Be lost.",
+      "exampleTranslation": "Потерялся.",
+      "audioPath": "assets/audio/vocabulary/v8_lost.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_lost.mp3"
+    },
+    {
+      "id": "v8_sit",
+      "english": "sit",
+      "russian": "сидеть",
+      "partOfSpeech": "verb",
+      "example": "Sit here.",
+      "exampleTranslation": "Сесть здесь.",
+      "audioPath": "assets/audio/vocabulary/v8_sit.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_sit.mp3"
+    },
+    {
+      "id": "v8_leave",
+      "english": "leave",
+      "russian": "уходить",
+      "partOfSpeech": "verb",
+      "example": "Have left.",
+      "exampleTranslation": "Ушли.",
+      "audioPath": "assets/audio/vocabulary/v8_leave.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_leave.mp3"
+    },
+    {
+      "id": "v8_snow",
+      "english": "snow",
+      "russian": "снег",
+      "partOfSpeech": "noun",
+      "example": "May snow.",
+      "exampleTranslation": "Может пойти снег.",
+      "audioPath": "assets/audio/vocabulary/v8_snow.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_snow.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "Probabilities",
+    "subtitle": "Это «Туман Вероятности». May — туман густой (наверное будет дождь). Might — легкая дымка (вряд ли, но вдруг?).",
+    "construction": {
+      "formula": "Subject + May/Might + V1",
+      "rules": [
+        {
+          "word": "May (50%)",
+          "description": "Реальная вероятность. It may rain (Тучи уже видно, может польет)."
+        },
+        {
+          "word": "Might (30%)",
+          "description": "Слабая вероятность. It might rain (Небо ясное, но... мало ли)."
+        },
+        {
+          "word": "May I? (Этикет)",
+          "description": "Очень формальное разрешение. May I come in? (Разрешите войти? - учителю)."
+        },
+        {
+          "word": "May/Might Have V3",
+          "description": "Гадание о прошлом. He might have missed the bus. (Наверное, он опоздал на автобус - мы не знаем точно)."
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "visibility",
+        "color": "blue",
+        "title": "Прогноз (Prediction)",
+        "description": "We may be late. (Может, опоздаем).",
+        "example": {
+          "english": "She may not like it.",
+          "russian": "Возможно, ей это не понравится."
+        }
+      },
+      {
+        "icon": "check_circle",
+        "color": "purple",
+        "title": "Неуверенность (Doubt)",
+        "description": "I might go to Paris. (Я подумываю, но еще не решил).",
+        "example": {
+          "english": "I might join you later.",
+          "russian": "Может быть, присоединюсь к вам позже."
+        }
+      },
+      {
+        "icon": "schedule",
+        "color": "green",
+        "title": "Прошлые догадки",
+        "description": "She may have forgotten. (Она, наверное, забыла).",
+        "example": {
+          "english": "They might have lost the way.",
+          "russian": "Должно быть (возможно), они заблудились."
+        }
+      }
+    ],
+    "markers": [
+      "may",
+      "might",
+      "may be",
+      "might be",
+      "may have"
+    ]
+  },
+  "tasks": [
+    {
+      "id": "t8_1",
+      "type": "sentenceAssembly",
+      "question": "Возможно, проект столкнётся с серьёзными задержками (May)",
+      "correctAnswer": "It may face serious delays this quarter",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "may",
+          "will",
+          "did",
+          "can"
+        ],
+        [
+          "face",
+          "meet",
+          "hit",
+          "cause"
+        ],
+        [
+          "serious",
+          "major",
+          "big",
+          "real"
+        ],
+        [
+          "delays",
+          "issues",
+          "risks",
+          "costs"
+        ],
+        [
+          "this",
+          "a",
+          "an",
+          "the"
+        ],
+        [
+          "quarter",
+          "month",
+          "year",
+          "week"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_verbs",
+        "may_might_could"
+      ],
+      "audioPath": "assets/audio/grammar/upper_08_modal_may_might_could/000.mp3"
+    },
+    {
+      "id": "t8_2",
+      "type": "sentenceAssembly",
+      "question": "Может быть, он сейчас дома (Might - неуверенно)",
+      "correctAnswer": "He might be at home right now",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "They",
+          "You",
+          "One"
+        ],
+        [
+          "might",
+          "could",
+          "should",
+          "may"
+        ],
+        [
+          "be",
+          "been",
+          "is",
+          "was"
+        ],
+        [
+          "at",
+          "with",
+          "from",
+          "by"
+        ],
+        [
+          "home",
+          "house",
+          "place",
+          "flat"
+        ],
+        [
+          "right",
+          "just",
+          "still",
+          "only"
+        ],
+        [
+          "now",
+          "here",
+          "then",
+          "today"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_verbs",
+        "may_might_could"
+      ],
+      "audioPath": "assets/audio/grammar/upper_08_modal_may_might_could/001.mp3"
+    },
+    {
+      "id": "t8_3",
+      "type": "sentenceAssembly",
+      "question": "Можно мне войти и сесть? (формально - May)",
+      "correctAnswer": "May I come in and sit down?",
+      "options": [],
+      "variants": [
+        [
+          "May",
+          "Shall",
+          "Must",
+          "Can"
+        ],
+        [
+          "I",
+          "She",
+          "He",
+          "It"
+        ],
+        [
+          "come",
+          "go",
+          "get",
+          "walk"
+        ],
+        [
+          "in",
+          "about",
+          "through",
+          "into"
+        ],
+        [
+          "and",
+          "or",
+          "but",
+          "then"
+        ],
+        [
+          "sit",
+          "seat",
+          "stay",
+          "stand"
+        ],
+        [
+          "down",
+          "here",
+          "there",
+          "up"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_verbs",
+        "may_might_could"
+      ],
+      "audioPath": "assets/audio/grammar/upper_08_modal_may_might_could/002.mp3"
+    },
+    {
+      "id": "t8_4",
+      "type": "sentenceAssembly",
+      "question": "Она, возможно, не знает о реструктуризации отдела (May)",
+      "correctAnswer": "She may not know about the restructuring",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "We",
+          "Her"
+        ],
+        [
+          "may",
+          "will",
+          "did",
+          "can"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "none"
+        ],
+        [
+          "know",
+          "thinks",
+          "knew",
+          "tell"
+        ],
+        [
+          "about",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "restructuring",
+          "changes",
+          "merger",
+          "layoffs"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_verbs",
+        "may_might_could"
+      ],
+      "audioPath": "assets/audio/grammar/upper_08_modal_may_might_could/003.mp3"
+    },
+    {
+      "id": "t8_5",
+      "type": "sentenceAssembly",
+      "question": "Возможно, они опоздали на работу (Might have - прошлое)",
+      "correctAnswer": "They might have been late for work",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "You",
+          "One",
+          "Them"
+        ],
+        [
+          "might",
+          "could",
+          "should",
+          "may"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "be"
+        ],
+        [
+          "been",
+          "be",
+          "was",
+          "were"
+        ],
+        [
+          "late",
+          "later",
+          "time",
+          "slow"
+        ],
+        [
+          "for",
+          "with",
+          "from",
+          "by"
+        ],
+        [
+          "work",
+          "job",
+          "office",
+          "class"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_verbs",
+        "may_might_could"
+      ],
+      "audioPath": "assets/audio/grammar/upper_08_modal_may_might_could/004.mp3"
+    },
+    {
+      "id": "t8_6",
+      "type": "sentenceAssembly",
+      "question": "Можно мне взять эту книгу с собой?",
+      "correctAnswer": "May I take this book with me?",
+      "options": [],
+      "variants": [
+        [
+          "May",
+          "Shall",
+          "Must",
+          "Can"
+        ],
+        [
+          "I",
+          "She",
+          "He",
+          "It"
+        ],
+        [
+          "take",
+          "get",
+          "have",
+          "pick"
+        ],
+        [
+          "this",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "book",
+          "pen",
+          "bag",
+          "thing"
+        ],
+        [
+          "with",
+          "about",
+          "through",
+          "into"
+        ],
+        [
+          "me",
+          "you",
+          "us",
+          "him"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_verbs",
+        "may_might_could"
+      ],
+      "audioPath": "assets/audio/grammar/upper_08_modal_may_might_could/005.mp3"
+    },
+    {
+      "id": "t8_7",
+      "type": "sentenceAssembly",
+      "question": "Может быть опасно идти туда одному (May)",
+      "correctAnswer": "It may be dangerous to go alone",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "may",
+          "will",
+          "did",
+          "can"
+        ],
+        [
+          "be",
+          "been",
+          "is",
+          "was"
+        ],
+        [
+          "dangerous",
+          "danger",
+          "safe",
+          "bad"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "go",
+          "walk",
+          "run",
+          "move"
+        ],
+        [
+          "alone",
+          "there",
+          "out",
+          "away"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_verbs",
+        "may_might_could"
+      ],
+      "audioPath": "assets/audio/grammar/upper_08_modal_may_might_could/006.mp3"
+    },
+    {
+      "id": "t8_8",
+      "type": "sentenceAssembly",
+      "question": "Я, возможно, куплю это в магазине (Might)",
+      "correctAnswer": "I might buy it at the store",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "They",
+          "You",
+          "One"
+        ],
+        [
+          "might",
+          "could",
+          "should",
+          "may"
+        ],
+        [
+          "buy",
+          "get",
+          "take",
+          "pay"
+        ],
+        [
+          "it",
+          "they",
+          "you",
+          "one"
+        ],
+        [
+          "at",
+          "with",
+          "from",
+          "by"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "store",
+          "shop",
+          "market",
+          "mall"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_verbs",
+        "may_might_could"
+      ],
+      "audioPath": "assets/audio/grammar/upper_08_modal_may_might_could/007.mp3"
+    },
+    {
+      "id": "t8_9",
+      "type": "sentenceAssembly",
+      "question": "Они, наверное, забыли о дедлайне проекта (May have)",
+      "correctAnswer": "They may have forgotten about the deadline",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "She",
+          "He",
+          "It"
+        ],
+        [
+          "may",
+          "shall",
+          "must",
+          "might"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "be"
+        ],
+        [
+          "forgotten",
+          "forgot",
+          "lost",
+          "missed"
+        ],
+        [
+          "about",
+          "through",
+          "into",
+          "of"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "deadline",
+          "milestone",
+          "target",
+          "schedule"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_verbs",
+        "may_might_could"
+      ],
+      "audioPath": "assets/audio/grammar/upper_08_modal_may_might_could/008.mp3"
+    },
+    {
+      "id": "t8_10",
+      "type": "sentenceAssembly",
+      "question": "Можно задать вам быстрый вопрос?",
+      "correctAnswer": "May I ask you a quick question?",
+      "options": [],
+      "variants": [
+        [
+          "May",
+          "Will",
+          "Did",
+          "Can"
+        ],
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "ask",
+          "say",
+          "tell",
+          "speak"
+        ],
+        [
+          "you",
+          "he",
+          "she",
+          "we"
+        ],
+        [
+          "a",
+          "an",
+          "this",
+          "the"
+        ],
+        [
+          "quick",
+          "small",
+          "short",
+          "simple"
+        ],
+        [
+          "question",
+          "thing",
+          "query",
+          "favor"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_verbs",
+        "may_might_could"
+      ],
+      "audioPath": "assets/audio/grammar/upper_08_modal_may_might_could/009.mp3"
+    },
+    {
+      "id": "t8_11",
+      "type": "sentenceAssembly",
+      "question": "Мы могли бы пойти в парк (вариант - might)",
+      "correctAnswer": "We might go to the park",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "You",
+          "One"
+        ],
+        [
+          "might",
+          "could",
+          "should",
+          "may"
+        ],
+        [
+          "go",
+          "went",
+          "gone",
+          "walk"
+        ],
+        [
+          "to",
+          "with",
+          "from",
+          "by"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "park",
+          "garden",
+          "place",
+          "yard"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_verbs",
+        "may_might_could"
+      ],
+      "audioPath": "assets/audio/grammar/upper_08_modal_may_might_could/010.mp3"
+    },
+    {
+      "id": "t8_12",
+      "type": "sentenceAssembly",
+      "question": "Она, возможно, спит в своей комнате",
+      "correctAnswer": "She might be sleeping in her room",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "It",
+          "Her"
+        ],
+        [
+          "might",
+          "may",
+          "shall",
+          "must"
+        ],
+        [
+          "be",
+          "been",
+          "is",
+          "was"
+        ],
+        [
+          "sleeping",
+          "sleep",
+          "asleep",
+          "resting"
+        ],
+        [
+          "in",
+          "about",
+          "through",
+          "into"
+        ],
+        [
+          "her",
+          "the",
+          "his",
+          "a"
+        ],
+        [
+          "room",
+          "bed",
+          "house",
+          "place"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_verbs",
+        "may_might_could"
+      ],
+      "audioPath": "assets/audio/grammar/upper_08_modal_may_might_could/011.mp3"
+    },
+    {
+      "id": "t8_13",
+      "type": "sentenceAssembly",
+      "question": "Возможно, в конце концов это правда (May)",
+      "correctAnswer": "It may be true after all",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "may",
+          "will",
+          "did",
+          "can"
+        ],
+        [
+          "be",
+          "been",
+          "is",
+          "was"
+        ],
+        [
+          "true",
+          "truth",
+          "real",
+          "right"
+        ],
+        [
+          "after",
+          "at",
+          "in",
+          "for"
+        ],
+        [
+          "all",
+          "a",
+          "an",
+          "this"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_verbs",
+        "may_might_could"
+      ],
+      "audioPath": "assets/audio/grammar/upper_08_modal_may_might_could/012.mp3"
+    },
+    {
+      "id": "t8_14",
+      "type": "sentenceAssembly",
+      "question": "Вам нельзя парковать здесь свою машину (formal)",
+      "correctAnswer": "You may not park your car here",
+      "options": [],
+      "variants": [
+        [
+          "You",
+          "They",
+          "One",
+          "Your"
+        ],
+        [
+          "may",
+          "could",
+          "might",
+          "should"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "none"
+        ],
+        [
+          "park",
+          "stop",
+          "drive",
+          "leave"
+        ],
+        [
+          "your",
+          "the",
+          "a",
+          "my"
+        ],
+        [
+          "car",
+          "bus",
+          "van",
+          "bike"
+        ],
+        [
+          "here",
+          "there",
+          "outside",
+          "now"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_verbs",
+        "may_might_could"
+      ],
+      "audioPath": "assets/audio/grammar/upper_08_modal_may_might_could/013.mp3"
+    },
+    {
+      "id": "t8_15",
+      "type": "sentenceAssembly",
+      "question": "Я, может быть, перезвоню тебе позже вечером",
+      "correctAnswer": "I might call you back later tonight",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "She",
+          "He",
+          "It"
+        ],
+        [
+          "might",
+          "may",
+          "shall",
+          "must"
+        ],
+        [
+          "call",
+          "phone",
+          "ring",
+          "tell"
+        ],
+        [
+          "you",
+          "she",
+          "he",
+          "it"
+        ],
+        [
+          "back",
+          "up",
+          "out",
+          "over"
+        ],
+        [
+          "later",
+          "soon",
+          "after",
+          "again"
+        ],
+        [
+          "tonight",
+          "today",
+          "tomorrow",
+          "now"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_verbs",
+        "may_might_could"
+      ],
+      "audioPath": "assets/audio/grammar/upper_08_modal_may_might_could/014.mp3"
+    },
+    {
+      "id": "t8_16",
+      "type": "sentenceAssembly",
+      "question": "Возможно, мы опоздаем на презентацию для клиента",
+      "correctAnswer": "We may be late for the presentation",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "He",
+          "She",
+          "Us"
+        ],
+        [
+          "may",
+          "will",
+          "did",
+          "can"
+        ],
+        [
+          "be",
+          "been",
+          "is",
+          "was"
+        ],
+        [
+          "late",
+          "later",
+          "time",
+          "slow"
+        ],
+        [
+          "for",
+          "at",
+          "in",
+          "to"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "presentation",
+          "conference",
+          "briefing",
+          "meeting"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_verbs",
+        "may_might_could"
+      ],
+      "audioPath": "assets/audio/grammar/upper_08_modal_may_might_could/015.mp3"
+    },
+    {
+      "id": "t8_17",
+      "type": "sentenceAssembly",
+      "question": "Могло быть гораздо хуже, чем это (прошлое)",
+      "correctAnswer": "It could have been much worse than this",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "They",
+          "You",
+          "One"
+        ],
+        [
+          "could",
+          "might",
+          "should",
+          "can"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "be"
+        ],
+        [
+          "been",
+          "be",
+          "was",
+          "were"
+        ],
+        [
+          "much",
+          "very",
+          "far",
+          "way"
+        ],
+        [
+          "worse",
+          "bad",
+          "worst",
+          "harder"
+        ],
+        [
+          "than",
+          "then",
+          "that",
+          "from"
+        ],
+        [
+          "this",
+          "a",
+          "some",
+          "every"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_verbs",
+        "may_might_could"
+      ],
+      "audioPath": "assets/audio/grammar/upper_08_modal_may_might_could/016.mp3"
+    },
+    {
+      "id": "t8_18",
+      "type": "sentenceAssembly",
+      "question": "Возможно, он потерялся в городе",
+      "correctAnswer": "He might be lost in the city",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "It",
+          "Him"
+        ],
+        [
+          "might",
+          "may",
+          "shall",
+          "must"
+        ],
+        [
+          "be",
+          "been",
+          "is",
+          "was"
+        ],
+        [
+          "lost",
+          "lose",
+          "gone",
+          "miss"
+        ],
+        [
+          "in",
+          "about",
+          "through",
+          "into"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "city",
+          "town",
+          "park",
+          "forest"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_verbs",
+        "may_might_could"
+      ],
+      "audioPath": "assets/audio/grammar/upper_08_modal_may_might_could/017.mp3"
+    },
+    {
+      "id": "t8_19",
+      "type": "sentenceAssembly",
+      "question": "Могу я сесть здесь рядом с вами?",
+      "correctAnswer": "May I sit here next to you?",
+      "options": [],
+      "variants": [
+        [
+          "May",
+          "Will",
+          "Did",
+          "Can"
+        ],
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "sit",
+          "seat",
+          "stand",
+          "stay"
+        ],
+        [
+          "here",
+          "there",
+          "down",
+          "now"
+        ],
+        [
+          "next",
+          "close",
+          "near",
+          "right"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "you",
+          "he",
+          "she",
+          "we"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_verbs",
+        "may_might_could"
+      ],
+      "audioPath": "assets/audio/grammar/upper_08_modal_may_might_could/018.mp3"
+    },
+    {
+      "id": "t8_20",
+      "type": "sentenceAssembly",
+      "question": "Возможно, они уже покинули офис после совещания (Might have)",
+      "correctAnswer": "They might have already left the office",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "You",
+          "One",
+          "Them"
+        ],
+        [
+          "might",
+          "could",
+          "should",
+          "may"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "be"
+        ],
+        [
+          "already",
+          "just",
+          "yet",
+          "now"
+        ],
+        [
+          "left",
+          "leave",
+          "gone",
+          "quit"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "office",
+          "building",
+          "department",
+          "floor"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_verbs",
+        "may_might_could"
+      ],
+      "audioPath": "assets/audio/grammar/upper_08_modal_may_might_could/019.mp3"
+    },
+    {
+      "id": "t8_21",
+      "type": "sentenceAssembly",
+      "question": "Может пойти сильный снег позже вечером",
+      "correctAnswer": "It may snow heavily later this evening",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "She",
+          "He",
+          "This"
+        ],
+        [
+          "may",
+          "shall",
+          "must",
+          "might"
+        ],
+        [
+          "snow",
+          "rain",
+          "ice",
+          "blow"
+        ],
+        [
+          "heavily",
+          "heavy",
+          "hard",
+          "strong"
+        ],
+        [
+          "later",
+          "early",
+          "soon",
+          "much"
+        ],
+        [
+          "this",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "evening",
+          "night",
+          "morning",
+          "week"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_verbs",
+        "may_might_could"
+      ],
+      "audioPath": "assets/audio/grammar/upper_08_modal_may_might_could/020.mp3"
+    },
+    {
+      "id": "t8_22",
+      "type": "sentenceAssembly",
+      "question": "Она, может, не придет на вечеринку",
+      "correctAnswer": "She might not come to the party",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "We",
+          "Her"
+        ],
+        [
+          "might",
+          "will",
+          "did",
+          "can"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "none"
+        ],
+        [
+          "come",
+          "came",
+          "go",
+          "arrive"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "party",
+          "meeting",
+          "dinner",
+          "event"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_verbs",
+        "may_might_could"
+      ],
+      "audioPath": "assets/audio/grammar/upper_08_modal_may_might_could/021.mp3"
+    },
+    {
+      "id": "t8_23",
+      "type": "sentenceAssembly",
+      "question": "Вы свободны во вторник? (Может, вы свободны?)",
+      "correctAnswer": "You might be free on Tuesday",
+      "options": [],
+      "variants": [
+        [
+          "You",
+          "They",
+          "One",
+          "Your"
+        ],
+        [
+          "might",
+          "could",
+          "should",
+          "may"
+        ],
+        [
+          "be",
+          "been",
+          "is",
+          "was"
+        ],
+        [
+          "free",
+          "open",
+          "empty",
+          "busy"
+        ],
+        [
+          "on",
+          "with",
+          "from",
+          "by"
+        ],
+        [
+          "Tuesday",
+          "day",
+          "week",
+          "noon"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_verbs",
+        "may_might_could"
+      ],
+      "audioPath": "assets/audio/grammar/upper_08_modal_may_might_could/022.mp3"
+    },
+    {
+      "id": "t8_24",
+      "type": "sentenceAssembly",
+      "question": "Я, возможно, не успею сегодня (May not)",
+      "correctAnswer": "I may not have enough time today",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "She",
+          "He",
+          "It"
+        ],
+        [
+          "may",
+          "shall",
+          "must",
+          "might"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "none"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "get"
+        ],
+        [
+          "enough",
+          "much",
+          "any",
+          "some"
+        ],
+        [
+          "time",
+          "hour",
+          "space",
+          "room"
+        ],
+        [
+          "today",
+          "now",
+          "tonight",
+          "yet"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_verbs",
+        "may_might_could"
+      ],
+      "audioPath": "assets/audio/grammar/upper_08_modal_may_might_could/023.mp3"
+    },
+    {
+      "id": "t8_25",
+      "type": "sentenceAssembly",
+      "question": "Возможно, это серьезная ошибка с его стороны",
+      "correctAnswer": "It might be a very serious mistake",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "might",
+          "will",
+          "did",
+          "can"
+        ],
+        [
+          "be",
+          "been",
+          "is",
+          "was"
+        ],
+        [
+          "a",
+          "an",
+          "this",
+          "the"
+        ],
+        [
+          "very",
+          "quite",
+          "really",
+          "most"
+        ],
+        [
+          "serious",
+          "big",
+          "bad",
+          "real"
+        ],
+        [
+          "mistake",
+          "error",
+          "fault",
+          "problem"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_verbs",
+        "may_might_could"
+      ],
+      "audioPath": "assets/audio/grammar/upper_08_modal_may_might_could/024.mp3"
+    },
+    {
+      "id": "t8_26",
+      "type": "sentenceAssembly",
+      "question": "Можно мне взглянуть на это?",
+      "correctAnswer": "May I have a look at this?",
+      "options": [],
+      "variants": [
+        [
+          "May",
+          "Could",
+          "Might",
+          "Should"
+        ],
+        [
+          "I",
+          "They",
+          "You",
+          "One"
+        ],
+        [
+          "have",
+          "take",
+          "get",
+          "do"
+        ],
+        [
+          "a",
+          "some",
+          "every",
+          "the"
+        ],
+        [
+          "look",
+          "see",
+          "view",
+          "watch"
+        ],
+        [
+          "at",
+          "with",
+          "from",
+          "by"
+        ],
+        [
+          "this",
+          "a",
+          "some",
+          "every"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_verbs",
+        "may_might_could"
+      ],
+      "audioPath": "assets/audio/grammar/upper_08_modal_may_might_could/025.mp3"
+    },
+    {
+      "id": "t8_27",
+      "type": "sentenceAssembly",
+      "question": "Он может быть прав насчет стратегии компании",
+      "correctAnswer": "He may be right about the strategy",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "It",
+          "Him"
+        ],
+        [
+          "may",
+          "shall",
+          "must",
+          "might"
+        ],
+        [
+          "be",
+          "been",
+          "is",
+          "was"
+        ],
+        [
+          "right",
+          "correct",
+          "true",
+          "good"
+        ],
+        [
+          "about",
+          "through",
+          "into",
+          "of"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "strategy",
+          "approach",
+          "direction",
+          "method"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_verbs",
+        "may_might_could"
+      ],
+      "audioPath": "assets/audio/grammar/upper_08_modal_may_might_could/026.mp3"
+    },
+    {
+      "id": "t8_28",
+      "type": "sentenceAssembly",
+      "question": "Мы, наверное, увидимся завтра",
+      "correctAnswer": "We might see each other tomorrow",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "He",
+          "She",
+          "Us"
+        ],
+        [
+          "might",
+          "will",
+          "did",
+          "can"
+        ],
+        [
+          "see",
+          "look",
+          "watch",
+          "meet"
+        ],
+        [
+          "each",
+          "every",
+          "one",
+          "all"
+        ],
+        [
+          "other",
+          "another",
+          "else",
+          "more"
+        ],
+        [
+          "tomorrow",
+          "today",
+          "next",
+          "soon"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_verbs",
+        "may_might_could"
+      ],
+      "audioPath": "assets/audio/grammar/upper_08_modal_may_might_could/027.mp3"
+    },
+    {
+      "id": "t8_29",
+      "type": "sentenceAssembly",
+      "question": "Вам нельзя курить в этом здании (formal)",
+      "correctAnswer": "You may not smoke in this building",
+      "options": [],
+      "variants": [
+        [
+          "You",
+          "They",
+          "One",
+          "Your"
+        ],
+        [
+          "may",
+          "could",
+          "might",
+          "should"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "none"
+        ],
+        [
+          "smoke",
+          "fire",
+          "burn",
+          "drink"
+        ],
+        [
+          "in",
+          "with",
+          "from",
+          "by"
+        ],
+        [
+          "this",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "building",
+          "room",
+          "place",
+          "area"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_verbs",
+        "may_might_could"
+      ],
+      "audioPath": "assets/audio/grammar/upper_08_modal_may_might_could/028.mp3"
+    },
+    {
+      "id": "t8_30",
+      "type": "sentenceAssembly",
+      "question": "Возможно, я передумаю насчет этого",
+      "correctAnswer": "I may change my mind about it",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "She",
+          "He",
+          "It"
+        ],
+        [
+          "may",
+          "shall",
+          "must",
+          "might"
+        ],
+        [
+          "change",
+          "turn",
+          "move",
+          "fix"
+        ],
+        [
+          "my",
+          "me",
+          "mine",
+          "the"
+        ],
+        [
+          "mind",
+          "head",
+          "brain",
+          "thought"
+        ],
+        [
+          "about",
+          "through",
+          "into",
+          "on"
+        ],
+        [
+          "it",
+          "she",
+          "he",
+          "this"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_verbs",
+        "may_might_could"
+      ],
+      "audioPath": "assets/audio/grammar/upper_08_modal_may_might_could/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionUpper08ModalMayMightCould",
+  "theoryQuiz": [
+    {
+      "id": "tq_01",
+      "type": "multipleChoice",
+      "question": "Какой модальный глагол выражает вероятность около 50%?",
+      "options": [
+        "must",
+        "may",
+        "will",
+        "should"
+      ],
+      "correctIndex": 1,
+      "explanation": "May выражает среднюю вероятность (~50%): It may rain today."
+    },
+    {
+      "id": "tq_02",
+      "type": "trueFalse",
+      "question": "Might выражает меньшую вероятность, чем may.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Верно. Might показывает меньшую уверенность, чем may: It might rain (менее вероятно)."
+    },
+    {
+      "id": "tq_03",
+      "type": "multipleChoice",
+      "question": "Что выражает 'could' в контексте вероятности?",
+      "options": [
+        "Обязанность",
+        "Теоретическую возможность",
+        "Уверенность на 100%",
+        "Запрет"
+      ],
+      "correctIndex": 1,
+      "explanation": "Could выражает теоретическую возможность: It could be true (это теоретически возможно)."
+    },
+    {
+      "id": "tq_04",
+      "type": "trueFalse",
+      "question": "'It may rain tomorrow' и 'It might rain tomorrow' имеют абсолютно одинаковую степень уверенности.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "Неверно. May показывает чуть большую вероятность, чем might. Разница небольшая, но она есть."
+    },
+    {
+      "id": "tq_05",
+      "type": "multipleChoice",
+      "question": "Как выразить вероятность в прошлом с may?",
+      "options": [
+        "may + V1",
+        "may + V-ing",
+        "may + have + V3",
+        "may + had + V3"
+      ],
+      "correctIndex": 2,
+      "explanation": "Для прошлого: may/might + have + V3. He may have left already."
+    },
+    {
+      "id": "tq_06",
+      "type": "multipleChoice",
+      "question": "Выберите правильный перевод: 'Возможно, он потерял ключи (в прошлом).'",
+      "options": [
+        "He may lose his keys.",
+        "He may have lost his keys.",
+        "He may losing his keys.",
+        "He may lost his keys."
+      ],
+      "correctIndex": 1,
+      "explanation": "Вероятность о прошлом: may + have + V3. He may have lost his keys."
+    },
+    {
+      "id": "tq_07",
+      "type": "trueFalse",
+      "question": "После may, might и could используется глагол в базовой форме (V1) для настоящего/будущего.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Верно. May/might/could + V1: It may rain. She might come. He could be right."
+    },
+    {
+      "id": "tq_08",
+      "type": "multipleChoice",
+      "question": "Какое предложение грамматически верно?",
+      "options": [
+        "She might comes later.",
+        "She might come later.",
+        "She might came later.",
+        "She might to come later."
+      ],
+      "correctIndex": 1,
+      "explanation": "После модальных глаголов идёт базовая форма без to: might come (не comes, came, to come)."
+    },
+    {
+      "id": "tq_09",
+      "type": "trueFalse",
+      "question": "'He could have been a doctor' означает, что он теоретически мог бы стать врачом (но не стал).",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Верно. Could have + V3 выражает нереализованную возможность в прошлом."
+    },
+    {
+      "id": "tq_10",
+      "type": "multipleChoice",
+      "question": "Расположите по убыванию вероятности: must, may, might.",
+      "options": [
+        "might > may > must",
+        "may > might > must",
+        "must > may > might",
+        "must > might > may"
+      ],
+      "correctIndex": 2,
+      "explanation": "Must (~95%) > May (~50%) > Might (~30%). Must — почти уверенность, might — маленький шанс."
+    }
+  ]
+}

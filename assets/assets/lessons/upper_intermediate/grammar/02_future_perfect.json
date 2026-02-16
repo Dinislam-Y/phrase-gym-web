@@ -1,0 +1,2282 @@
+{
+  "id": "upper_02_future_perfect",
+  "title": "Future Perfect",
+  "description": "Future Perfect — это время-«дедлайн». Обещание, что к определенному моменту всё будет готово и сделано.",
+  "order": 2,
+  "level": "upper_intermediate",
+  "imageUrl": "assets/images/lessons/future_perfect.png",
+  "vocabulary": [
+    {
+      "id": "v2_finish",
+      "english": "finish",
+      "russian": "заканчивать",
+      "partOfSpeech": "verb",
+      "example": "I will have finished by 5 PM.",
+      "exampleTranslation": "Я закончу к 5 вечера.",
+      "audioPath": "assets/audio/vocabulary/v2_finish.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_finish.mp3"
+    },
+    {
+      "id": "v2_tomorrow",
+      "english": "tomorrow",
+      "russian": "завтра",
+      "partOfSpeech": "adverb",
+      "example": "By tomorrow.",
+      "exampleTranslation": "К завтрашнему дню.",
+      "audioPath": "assets/audio/vocabulary/v2_tomorrow.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_tomorrow.mp3"
+    },
+    {
+      "id": "v2_arrive",
+      "english": "arrive",
+      "russian": "прибывать",
+      "partOfSpeech": "verb",
+      "example": "She will have arrived.",
+      "exampleTranslation": "Она уже приедет.",
+      "audioPath": "assets/audio/vocabulary/v2_arrive.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_arrive.mp3"
+    },
+    {
+      "id": "v2_build",
+      "english": "build",
+      "russian": "строить",
+      "partOfSpeech": "verb",
+      "example": "We will have built the house.",
+      "exampleTranslation": "Мы построим дом.",
+      "audioPath": "assets/audio/vocabulary/v2_build.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_build.mp3"
+    },
+    {
+      "id": "v2_house",
+      "english": "house",
+      "russian": "дом",
+      "partOfSpeech": "noun",
+      "example": "We will have built the house.",
+      "exampleTranslation": "Мы построим дом.",
+      "audioPath": "assets/audio/vocabulary/v2_house.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_house.mp3"
+    },
+    {
+      "id": "v2_leave",
+      "english": "leave",
+      "russian": "уходить (покидать)",
+      "partOfSpeech": "verb",
+      "example": "They will have left.",
+      "exampleTranslation": "Они уйдут.",
+      "audioPath": "assets/audio/vocabulary/v2_leave.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_leave.mp3"
+    },
+    {
+      "id": "v2_time",
+      "english": "time",
+      "russian": "время",
+      "partOfSpeech": "noun",
+      "example": "By that time.",
+      "exampleTranslation": "К тому времени.",
+      "audioPath": "assets/audio/vocabulary/v2_time.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_time.mp3"
+    },
+    {
+      "id": "v2_read",
+      "english": "read",
+      "russian": "читать",
+      "partOfSpeech": "verb",
+      "example": "She will have read the book.",
+      "exampleTranslation": "Она прочитает книгу.",
+      "audioPath": "assets/audio/vocabulary/v2_read.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_read.mp3"
+    },
+    {
+      "id": "v2_live",
+      "english": "live",
+      "russian": "жить",
+      "partOfSpeech": "verb",
+      "example": "We will have lived here.",
+      "exampleTranslation": "Мы проживем здесь.",
+      "audioPath": "assets/audio/vocabulary/v2_live.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_live.mp3"
+    },
+    {
+      "id": "v2_year",
+      "english": "year",
+      "russian": "год",
+      "partOfSpeech": "noun",
+      "example": "For ten years.",
+      "exampleTranslation": "В течение десяти лет.",
+      "audioPath": "assets/audio/vocabulary/v2_year.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_year.mp3"
+    },
+    {
+      "id": "v2_month",
+      "english": "month",
+      "russian": "месяц",
+      "partOfSpeech": "noun",
+      "example": "Next month.",
+      "exampleTranslation": "В следующем месяце.",
+      "audioPath": "assets/audio/vocabulary/v2_month.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_month.mp3"
+    },
+    {
+      "id": "v2_forget",
+      "english": "forget",
+      "russian": "забывать",
+      "partOfSpeech": "verb",
+      "example": "I will have forgotten.",
+      "exampleTranslation": "Я забуду.",
+      "audioPath": "assets/audio/vocabulary/v2_forget.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_forget.mp3"
+    },
+    {
+      "id": "v2_repair",
+      "english": "repair",
+      "russian": "ремонтировать",
+      "partOfSpeech": "verb",
+      "example": "He will not have repaired the car.",
+      "exampleTranslation": "Он не отремонтирует машину.",
+      "audioPath": "assets/audio/vocabulary/v2_repair.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_repair.mp3"
+    },
+    {
+      "id": "v2_car",
+      "english": "car",
+      "russian": "машина",
+      "partOfSpeech": "noun",
+      "example": "He will not have repaired the car.",
+      "exampleTranslation": "Он не отремонтирует машину.",
+      "audioPath": "assets/audio/vocabulary/v2_car.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_car.mp3"
+    },
+    {
+      "id": "v2_land",
+      "english": "land",
+      "russian": "приземляться",
+      "partOfSpeech": "verb",
+      "example": "The plane will have landed.",
+      "exampleTranslation": "Самолет приземлится.",
+      "audioPath": "assets/audio/vocabulary/v2_land.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_land.mp3"
+    },
+    {
+      "id": "v2_bridge",
+      "english": "bridge",
+      "russian": "мост",
+      "partOfSpeech": "noun",
+      "example": "They will have built the bridge.",
+      "exampleTranslation": "Они построят мост.",
+      "audioPath": "assets/audio/vocabulary/v2_bridge.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_bridge.mp3"
+    },
+    {
+      "id": "v2_cook",
+      "english": "cook",
+      "russian": "готовить",
+      "partOfSpeech": "verb",
+      "example": "I will have cooked dinner.",
+      "exampleTranslation": "Я приготовлю ужин.",
+      "audioPath": "assets/audio/vocabulary/v2_cook.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v2_cook.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "Future Perfect",
+    "subtitle": "Представьте себе финишную черту (Дедлайн). Вы стоите СЕЙЧАС, но обещаете, что когда доберетесь до финиша, медаль уже будет у вас на шее. Это взгляд из будущего назад.",
+    "construction": {
+      "formula": "Will have + V3",
+      "rules": [
+        {
+          "word": "Will have",
+          "description": "Никаких has! Всегда will have. I will have, She will have."
+        },
+        {
+          "word": "V3 (Сделанный)",
+          "description": "Причастие (Done, Finished). Оно показывает, что действие будет ЗАВЕРШЕНО, а не будет длиться."
+        },
+        {
+          "word": "Маркер By (К)",
+          "description": "Главное слово — «К какому-то моменту». By tomorrow, By 5 PM. Не просто «завтра», а «к завтрашнему дню»."
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "star",
+        "color": "green",
+        "title": "Результат к сроку",
+        "description": "«Я сделаю это К пятнице». То есть в пятницу работа уже будет лежать готовая.",
+        "example": {
+          "english": "I will have finished by 5 PM.",
+          "russian": "Я (уже) закончу к 5 вечера."
+        }
+      },
+      {
+        "icon": "schedule",
+        "color": "blue",
+        "title": "Стаж к дате",
+        "description": "Как долго это будет длиться на момент в будущем. «В следующем году будет 10 лет, как мы женаты».",
+        "example": {
+          "english": "Next year we will have successfully worked for 10 years.",
+          "russian": "В следующем году будет 10 лет, как мы успешно работаем."
+        }
+      },
+      {
+        "icon": "bolt",
+        "color": "purple",
+        "title": "Сделаю до того как...",
+        "description": "Одно действие завершится раньше, чем наступит другое будущее событие.",
+        "example": {
+          "english": "He will have left before you arrive.",
+          "russian": "Он уже уедет к тому моменту, как ты приедешь."
+        }
+      }
+    ],
+    "markers": [
+      "by tomorrow",
+      "by next week",
+      "by 5 o'clock",
+      "by the time",
+      "before"
+    ]
+  },
+  "tasks": [
+    {
+      "id": "t2_1",
+      "type": "sentenceAssembly",
+      "question": "Я закончу этот отчёт к завтрашнему дню",
+      "correctAnswer": "I will have finished this report by tomorrow",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "will",
+          "would",
+          "do",
+          "am"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "be"
+        ],
+        [
+          "finished",
+          "finish",
+          "finishing",
+          "done"
+        ],
+        [
+          "this",
+          "the",
+          "a",
+          "an"
+        ],
+        [
+          "report",
+          "paper",
+          "project",
+          "task"
+        ],
+        [
+          "by",
+          "to",
+          "for",
+          "at"
+        ],
+        [
+          "tomorrow",
+          "today",
+          "yesterday",
+          "now"
+        ]
+      ],
+      "mistakeTags": [
+        "future_perfect",
+        "will_have_done"
+      ],
+      "audioPath": "assets/audio/grammar/upper_02_future_perfect/000.mp3"
+    },
+    {
+      "id": "t2_2",
+      "type": "sentenceAssembly",
+      "question": "Она приедет к 5 часам (она уже будет на месте)",
+      "correctAnswer": "She will have arrived by five o'clock",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "I",
+          "They",
+          "You"
+        ],
+        [
+          "will",
+          "could",
+          "might",
+          "should"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "be"
+        ],
+        [
+          "arrived",
+          "arrive",
+          "coming",
+          "come"
+        ],
+        [
+          "by",
+          "to",
+          "with",
+          "from"
+        ],
+        [
+          "five",
+          "5",
+          "fifth",
+          "fives"
+        ],
+        [
+          "o'clock",
+          "hours",
+          "time",
+          "clock"
+        ]
+      ],
+      "mistakeTags": [
+        "future_perfect",
+        "will_have_done"
+      ],
+      "audioPath": "assets/audio/grammar/upper_02_future_perfect/001.mp3"
+    },
+    {
+      "id": "t2_3",
+      "type": "sentenceAssembly",
+      "question": "К следующему году мы построим дом",
+      "correctAnswer": "By next year we will have built the house",
+      "options": [],
+      "variants": [
+        [
+          "By",
+          "to",
+          "about",
+          "through"
+        ],
+        [
+          "next",
+          "last",
+          "this",
+          "new"
+        ],
+        [
+          "year",
+          "years",
+          "time",
+          "month"
+        ],
+        [
+          "we",
+          "us",
+          "our",
+          "they"
+        ],
+        [
+          "will",
+          "would",
+          "are",
+          "do"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "be"
+        ],
+        [
+          "built",
+          "build",
+          "building",
+          "make"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "house",
+          "home",
+          "flat",
+          "place"
+        ]
+      ],
+      "mistakeTags": [
+        "future_perfect",
+        "will_have_done"
+      ],
+      "audioPath": "assets/audio/grammar/upper_02_future_perfect/002.mp3"
+    },
+    {
+      "id": "t2_4",
+      "type": "sentenceAssembly",
+      "question": "Я не закончу анализ к пятнице",
+      "correctAnswer": "I will not have finished the analysis by Friday",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "will",
+          "shall",
+          "did",
+          "can"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "don't"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "be"
+        ],
+        [
+          "finished",
+          "finish",
+          "done",
+          "end"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "analysis",
+          "review",
+          "audit",
+          "study"
+        ],
+        [
+          "by",
+          "to",
+          "for",
+          "at"
+        ],
+        [
+          "Friday",
+          "weekend",
+          "day",
+          "week"
+        ]
+      ],
+      "mistakeTags": [
+        "future_perfect",
+        "will_have_done"
+      ],
+      "audioPath": "assets/audio/grammar/upper_02_future_perfect/003.mp3"
+    },
+    {
+      "id": "t2_5",
+      "type": "sentenceAssembly",
+      "question": "Они уйдут к тому времени, как ты придешь",
+      "correctAnswer": "They will have left by the time you arrive",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "I",
+          "You",
+          "One"
+        ],
+        [
+          "will",
+          "would",
+          "are",
+          "do"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "be"
+        ],
+        [
+          "left",
+          "leave",
+          "gone",
+          "go"
+        ],
+        [
+          "by",
+          "to",
+          "with",
+          "from"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "time",
+          "moment",
+          "hour",
+          "clock"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "she"
+        ],
+        [
+          "arrive",
+          "come",
+          "reach",
+          "here"
+        ]
+      ],
+      "mistakeTags": [
+        "future_perfect",
+        "will_have_done"
+      ],
+      "audioPath": "assets/audio/grammar/upper_02_future_perfect/004.mp3"
+    },
+    {
+      "id": "t2_6",
+      "type": "sentenceAssembly",
+      "question": "Ты уже сделаешь это к завтра?",
+      "correctAnswer": "Will you have done it by tomorrow?",
+      "options": [],
+      "variants": [
+        [
+          "Will",
+          "Do",
+          "Are",
+          "Did"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "she"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "be"
+        ],
+        [
+          "done",
+          "do",
+          "did",
+          "make"
+        ],
+        [
+          "it",
+          "this",
+          "that",
+          "thing"
+        ],
+        [
+          "by",
+          "to",
+          "about",
+          "through"
+        ],
+        [
+          "tomorrow",
+          "today",
+          "yesterday",
+          "now"
+        ]
+      ],
+      "mistakeTags": [
+        "future_perfect",
+        "will_have_done"
+      ],
+      "audioPath": "assets/audio/grammar/upper_02_future_perfect/005.mp3"
+    },
+    {
+      "id": "t2_7",
+      "type": "sentenceAssembly",
+      "question": "Команда рассмотрит заявку к воскресенью",
+      "correctAnswer": "The team will have reviewed the application by Sunday",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "team",
+          "board",
+          "group",
+          "staff"
+        ],
+        [
+          "will",
+          "shall",
+          "did",
+          "can"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "be"
+        ],
+        [
+          "reviewed",
+          "review",
+          "checking",
+          "read"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "application",
+          "request",
+          "proposal",
+          "case"
+        ],
+        [
+          "by",
+          "to",
+          "for",
+          "at"
+        ],
+        [
+          "Sunday",
+          "weekend",
+          "week",
+          "day"
+        ]
+      ],
+      "mistakeTags": [
+        "future_perfect",
+        "will_have_done"
+      ],
+      "audioPath": "assets/audio/grammar/upper_02_future_perfect/006.mp3"
+    },
+    {
+      "id": "t2_8",
+      "type": "sentenceAssembly",
+      "question": "Мы проживем здесь 10 лет в следующем месяце",
+      "correctAnswer": "Next month we will have lived here for ten years",
+      "options": [],
+      "variants": [
+        [
+          "Next",
+          "Last",
+          "This",
+          "New"
+        ],
+        [
+          "month",
+          "months",
+          "week",
+          "year"
+        ],
+        [
+          "we",
+          "us",
+          "our",
+          "they"
+        ],
+        [
+          "will",
+          "would",
+          "are",
+          "do"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "be"
+        ],
+        [
+          "lived",
+          "live",
+          "living",
+          "life"
+        ],
+        [
+          "here",
+          "there",
+          "place",
+          "home"
+        ],
+        [
+          "for",
+          "since",
+          "in",
+          "during"
+        ],
+        [
+          "ten",
+          "10",
+          "tenth",
+          "tens"
+        ],
+        [
+          "years",
+          "year",
+          "days",
+          "time"
+        ]
+      ],
+      "mistakeTags": [
+        "future_perfect",
+        "will_have_done"
+      ],
+      "audioPath": "assets/audio/grammar/upper_02_future_perfect/007.mp3"
+    },
+    {
+      "id": "t2_9",
+      "type": "sentenceAssembly",
+      "question": "К понедельнику я забуду его имя",
+      "correctAnswer": "By Monday I will have forgotten his name",
+      "options": [],
+      "variants": [
+        [
+          "By",
+          "to",
+          "about",
+          "through"
+        ],
+        [
+          "Monday",
+          "day",
+          "week",
+          "tomorrow"
+        ],
+        [
+          "I",
+          "She",
+          "He",
+          "It"
+        ],
+        [
+          "will",
+          "would",
+          "am",
+          "do"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "be"
+        ],
+        [
+          "forgotten",
+          "forgot",
+          "forget",
+          "forgetting"
+        ],
+        [
+          "his",
+          "him",
+          "he",
+          "her"
+        ],
+        [
+          "name",
+          "word",
+          "text",
+          "names"
+        ]
+      ],
+      "mistakeTags": [
+        "future_perfect",
+        "will_have_done"
+      ],
+      "audioPath": "assets/audio/grammar/upper_02_future_perfect/008.mp3"
+    },
+    {
+      "id": "t2_10",
+      "type": "sentenceAssembly",
+      "question": "Он не завершит исследование к вечеру",
+      "correctAnswer": "He will not have completed the research by evening",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "I",
+          "She",
+          "We"
+        ],
+        [
+          "will",
+          "would",
+          "do",
+          "am"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "don't"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "be"
+        ],
+        [
+          "completed",
+          "complete",
+          "done",
+          "finished"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "research",
+          "study",
+          "experiment",
+          "analysis"
+        ],
+        [
+          "by",
+          "to",
+          "for",
+          "at"
+        ],
+        [
+          "evening",
+          "night",
+          "morning",
+          "day"
+        ]
+      ],
+      "mistakeTags": [
+        "future_perfect",
+        "will_have_done"
+      ],
+      "audioPath": "assets/audio/grammar/upper_02_future_perfect/009.mp3"
+    },
+    {
+      "id": "t2_11",
+      "type": "sentenceAssembly",
+      "question": "Самолёт уже приземлится к тому времени?",
+      "correctAnswer": "Will the plane have already landed by then?",
+      "options": [],
+      "variants": [
+        [
+          "Will",
+          "could",
+          "might",
+          "should"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "plane",
+          "train",
+          "bus",
+          "ship"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "be"
+        ],
+        [
+          "already",
+          "just",
+          "never",
+          "still"
+        ],
+        [
+          "landed",
+          "arrived",
+          "left",
+          "started"
+        ],
+        [
+          "by",
+          "to",
+          "with",
+          "from"
+        ],
+        [
+          "then",
+          "now",
+          "noon",
+          "night"
+        ]
+      ],
+      "mistakeTags": [
+        "future_perfect",
+        "will_have_done"
+      ],
+      "audioPath": "assets/audio/grammar/upper_02_future_perfect/010.mp3"
+    },
+    {
+      "id": "t2_12",
+      "type": "sentenceAssembly",
+      "question": "К 2025 году они построят мост",
+      "correctAnswer": "By 2025 they will have built the bridge",
+      "options": [],
+      "variants": [
+        [
+          "By",
+          "to",
+          "about",
+          "through"
+        ],
+        [
+          "2025",
+          "year",
+          "time",
+          "date"
+        ],
+        [
+          "they",
+          "them",
+          "their",
+          "we"
+        ],
+        [
+          "will",
+          "would",
+          "are",
+          "do"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "be"
+        ],
+        [
+          "built",
+          "build",
+          "building",
+          "make"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "bridge",
+          "road",
+          "house",
+          "way"
+        ]
+      ],
+      "mistakeTags": [
+        "future_perfect",
+        "will_have_done"
+      ],
+      "audioPath": "assets/audio/grammar/upper_02_future_perfect/011.mp3"
+    },
+    {
+      "id": "t2_13",
+      "type": "sentenceAssembly",
+      "question": "Я подготовлю презентацию к твоему приходу",
+      "correctAnswer": "I will have prepared the presentation by the time you arrive",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "will",
+          "shall",
+          "did",
+          "can"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "be"
+        ],
+        [
+          "prepared",
+          "prepare",
+          "creating",
+          "made"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "presentation",
+          "report",
+          "slides",
+          "briefing"
+        ],
+        [
+          "by",
+          "to",
+          "for",
+          "at"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "time",
+          "moment",
+          "hour",
+          "when"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "she"
+        ],
+        [
+          "arrive",
+          "come",
+          "reach",
+          "here"
+        ]
+      ],
+      "mistakeTags": [
+        "future_perfect",
+        "will_have_done"
+      ],
+      "audioPath": "assets/audio/grammar/upper_02_future_perfect/012.mp3"
+    },
+    {
+      "id": "t2_14",
+      "type": "sentenceAssembly",
+      "question": "Мы скоро потратим все деньги",
+      "correctAnswer": "We will have spent all the money soon",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "I",
+          "They",
+          "You"
+        ],
+        [
+          "will",
+          "could",
+          "might",
+          "should"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "be"
+        ],
+        [
+          "spent",
+          "saved",
+          "earned",
+          "lost"
+        ],
+        [
+          "all",
+          "some",
+          "most",
+          "our"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "money",
+          "time",
+          "food",
+          "energy"
+        ],
+        [
+          "soon",
+          "already",
+          "finally",
+          "then"
+        ]
+      ],
+      "mistakeTags": [
+        "future_perfect",
+        "will_have_done"
+      ],
+      "audioPath": "assets/audio/grammar/upper_02_future_perfect/013.mp3"
+    },
+    {
+      "id": "t2_15",
+      "type": "sentenceAssembly",
+      "question": "Она выучит 100 слов к завтрашнему уроку",
+      "correctAnswer": "She will have learned 100 words by tomorrow's lesson",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "I",
+          "He",
+          "It"
+        ],
+        [
+          "will",
+          "may",
+          "shall",
+          "must"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "be"
+        ],
+        [
+          "learned",
+          "learn",
+          "learning",
+          "studies"
+        ],
+        [
+          "100",
+          "hundred",
+          "ten",
+          "one"
+        ],
+        [
+          "words",
+          "word",
+          "text",
+          "names"
+        ],
+        [
+          "by",
+          "to",
+          "about",
+          "through"
+        ],
+        [
+          "tomorrow's",
+          "tomorrow",
+          "today",
+          "next"
+        ],
+        [
+          "lesson",
+          "class",
+          "school",
+          "test"
+        ]
+      ],
+      "mistakeTags": [
+        "future_perfect",
+        "will_have_done"
+      ],
+      "audioPath": "assets/audio/grammar/upper_02_future_perfect/014.mp3"
+    },
+    {
+      "id": "t2_16",
+      "type": "sentenceAssembly",
+      "question": "К тому времени я буду дома",
+      "correctAnswer": "By that time I will have been home",
+      "options": [],
+      "variants": [
+        [
+          "By",
+          "to",
+          "for",
+          "at"
+        ],
+        [
+          "that",
+          "the",
+          "a",
+          "an"
+        ],
+        [
+          "time",
+          "moment",
+          "hour",
+          "clock"
+        ],
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "will",
+          "would",
+          "am",
+          "do"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "be"
+        ],
+        [
+          "been",
+          "be",
+          "was",
+          "come"
+        ],
+        [
+          "home",
+          "house",
+          "place",
+          "back"
+        ]
+      ],
+      "mistakeTags": [
+        "future_perfect",
+        "will_have_done"
+      ],
+      "audioPath": "assets/audio/grammar/upper_02_future_perfect/015.mp3"
+    },
+    {
+      "id": "t2_17",
+      "type": "sentenceAssembly",
+      "question": "Снег растает к весне",
+      "correctAnswer": "The snow will have melted by spring",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "snow",
+          "ice",
+          "weather",
+          "cold"
+        ],
+        [
+          "will",
+          "could",
+          "might",
+          "should"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "be"
+        ],
+        [
+          "melted",
+          "melt",
+          "melting",
+          "water"
+        ],
+        [
+          "by",
+          "to",
+          "with",
+          "from"
+        ],
+        [
+          "spring",
+          "summer",
+          "winter",
+          "season"
+        ]
+      ],
+      "mistakeTags": [
+        "future_perfect",
+        "will_have_done"
+      ],
+      "audioPath": "assets/audio/grammar/upper_02_future_perfect/016.mp3"
+    },
+    {
+      "id": "t2_18",
+      "type": "sentenceAssembly",
+      "question": "Ты закончишь школу в следующем году?",
+      "correctAnswer": "Will you have finished school next year?",
+      "options": [],
+      "variants": [
+        [
+          "Will",
+          "Do",
+          "Are",
+          "Did"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "she"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "be"
+        ],
+        [
+          "finished",
+          "finish",
+          "done",
+          "end"
+        ],
+        [
+          "school",
+          "college",
+          "class",
+          "study"
+        ],
+        [
+          "next",
+          "last",
+          "this",
+          "new"
+        ],
+        [
+          "year",
+          "years",
+          "time",
+          "date"
+        ]
+      ],
+      "mistakeTags": [
+        "future_perfect",
+        "will_have_done"
+      ],
+      "audioPath": "assets/audio/grammar/upper_02_future_perfect/017.mp3"
+    },
+    {
+      "id": "t2_19",
+      "type": "sentenceAssembly",
+      "question": "Она не купит билеты к этому времени",
+      "correctAnswer": "She will not have bought tickets by this time",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "I",
+          "He",
+          "We"
+        ],
+        [
+          "will",
+          "shall",
+          "did",
+          "can"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "don't"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "be"
+        ],
+        [
+          "bought",
+          "buy",
+          "buying",
+          "get"
+        ],
+        [
+          "tickets",
+          "ticket",
+          "pass",
+          "paper"
+        ],
+        [
+          "by",
+          "to",
+          "for",
+          "at"
+        ],
+        [
+          "this",
+          "the",
+          "a",
+          "an"
+        ],
+        [
+          "time",
+          "hour",
+          "moment",
+          "clock"
+        ]
+      ],
+      "mistakeTags": [
+        "future_perfect",
+        "will_have_done"
+      ],
+      "audioPath": "assets/audio/grammar/upper_02_future_perfect/018.mp3"
+    },
+    {
+      "id": "t2_20",
+      "type": "sentenceAssembly",
+      "question": "Я завершу аудит к вечеру",
+      "correctAnswer": "I will have completed the audit by evening",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "They",
+          "You",
+          "One"
+        ],
+        [
+          "will",
+          "could",
+          "might",
+          "should"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "be"
+        ],
+        [
+          "completed",
+          "complete",
+          "finishing",
+          "done"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "audit",
+          "review",
+          "check",
+          "report"
+        ],
+        [
+          "by",
+          "to",
+          "with",
+          "from"
+        ],
+        [
+          "evening",
+          "night",
+          "morning",
+          "day"
+        ]
+      ],
+      "mistakeTags": [
+        "future_perfect",
+        "will_have_done"
+      ],
+      "audioPath": "assets/audio/grammar/upper_02_future_perfect/019.mp3"
+    },
+    {
+      "id": "t2_21",
+      "type": "sentenceAssembly",
+      "question": "Фильм закончится к 9 часам",
+      "correctAnswer": "The movie will have ended by nine o'clock",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "movie",
+          "film",
+          "cinema",
+          "show"
+        ],
+        [
+          "will",
+          "may",
+          "shall",
+          "must"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "be"
+        ],
+        [
+          "ended",
+          "end",
+          "finish",
+          "finished"
+        ],
+        [
+          "by",
+          "to",
+          "about",
+          "through"
+        ],
+        [
+          "nine",
+          "9",
+          "ten",
+          "eight"
+        ],
+        [
+          "o'clock",
+          "hours",
+          "time",
+          "pm"
+        ]
+      ],
+      "mistakeTags": [
+        "future_perfect",
+        "will_have_done"
+      ],
+      "audioPath": "assets/audio/grammar/upper_02_future_perfect/020.mp3"
+    },
+    {
+      "id": "t2_22",
+      "type": "sentenceAssembly",
+      "question": "Мы приготовим всё до того, как гости придут",
+      "correctAnswer": "We will have prepared everything before guests come",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "I",
+          "He",
+          "She"
+        ],
+        [
+          "will",
+          "would",
+          "are",
+          "do"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "be"
+        ],
+        [
+          "prepared",
+          "prepare",
+          "ready",
+          "make"
+        ],
+        [
+          "everything",
+          "all",
+          "anything",
+          "things"
+        ],
+        [
+          "before",
+          "after",
+          "by",
+          "until"
+        ],
+        [
+          "guests",
+          "guest",
+          "people",
+          "friends"
+        ],
+        [
+          "come",
+          "arrive",
+          "visit",
+          "go"
+        ]
+      ],
+      "mistakeTags": [
+        "future_perfect",
+        "will_have_done"
+      ],
+      "audioPath": "assets/audio/grammar/upper_02_future_perfect/021.mp3"
+    },
+    {
+      "id": "t2_23",
+      "type": "sentenceAssembly",
+      "question": "Он не проснется к 8 утра",
+      "correctAnswer": "He won't have woken up by 8 am",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "I",
+          "They",
+          "You"
+        ],
+        [
+          "won't",
+          "will",
+          "doesn't",
+          "is"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "be"
+        ],
+        [
+          "woken",
+          "wake",
+          "waking",
+          "woke"
+        ],
+        [
+          "up",
+          "down",
+          "on",
+          "in"
+        ],
+        [
+          "by",
+          "to",
+          "with",
+          "from"
+        ],
+        [
+          "8",
+          "eight",
+          "seven",
+          "9"
+        ],
+        [
+          "am",
+          "pm",
+          "morning",
+          "clock"
+        ]
+      ],
+      "mistakeTags": [
+        "future_perfect",
+        "will_have_done"
+      ],
+      "audioPath": "assets/audio/grammar/upper_02_future_perfect/022.mp3"
+    },
+    {
+      "id": "t2_24",
+      "type": "sentenceAssembly",
+      "question": "Сколько страниц ты прочитаешь к завтра?",
+      "correctAnswer": "How many pages will you have read by tomorrow?",
+      "options": [],
+      "variants": [
+        [
+          "How",
+          "What",
+          "When",
+          "Why"
+        ],
+        [
+          "many",
+          "much",
+          "more",
+          "lot"
+        ],
+        [
+          "pages",
+          "page",
+          "paper",
+          "book"
+        ],
+        [
+          "will",
+          "do",
+          "are",
+          "did"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "she"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "be"
+        ],
+        [
+          "read",
+          "reading",
+          "red",
+          "learn"
+        ],
+        [
+          "by",
+          "to",
+          "about",
+          "through"
+        ],
+        [
+          "tomorrow",
+          "today",
+          "yesterday",
+          "now"
+        ]
+      ],
+      "mistakeTags": [
+        "future_perfect",
+        "will_have_done"
+      ],
+      "audioPath": "assets/audio/grammar/upper_02_future_perfect/023.mp3"
+    },
+    {
+      "id": "t2_25",
+      "type": "sentenceAssembly",
+      "question": "Я уже уйду, когда ты вернешься",
+      "correctAnswer": "I will have already left when you return",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "will",
+          "would",
+          "do",
+          "am"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "be"
+        ],
+        [
+          "already",
+          "just",
+          "yet",
+          "now"
+        ],
+        [
+          "left",
+          "leave",
+          "gone",
+          "go"
+        ],
+        [
+          "when",
+          "where",
+          "while",
+          "what"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "she"
+        ],
+        [
+          "return",
+          "back",
+          "come",
+          "arrive"
+        ]
+      ],
+      "mistakeTags": [
+        "future_perfect",
+        "will_have_done"
+      ],
+      "audioPath": "assets/audio/grammar/upper_02_future_perfect/024.mp3"
+    },
+    {
+      "id": "t2_26",
+      "type": "sentenceAssembly",
+      "question": "Они починят дорогу к лету",
+      "correctAnswer": "They will have fixed the road by summer",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "I",
+          "You",
+          "One"
+        ],
+        [
+          "will",
+          "would",
+          "are",
+          "do"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "be"
+        ],
+        [
+          "fixed",
+          "fix",
+          "repair",
+          "make"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "road",
+          "street",
+          "way",
+          "path"
+        ],
+        [
+          "by",
+          "to",
+          "with",
+          "from"
+        ],
+        [
+          "summer",
+          "winter",
+          "spring",
+          "season"
+        ]
+      ],
+      "mistakeTags": [
+        "future_perfect",
+        "will_have_done"
+      ],
+      "audioPath": "assets/audio/grammar/upper_02_future_perfect/025.mp3"
+    },
+    {
+      "id": "t2_27",
+      "type": "sentenceAssembly",
+      "question": "Ты получишь ответ к полудню",
+      "correctAnswer": "You will have received the answer by noon",
+      "options": [],
+      "variants": [
+        [
+          "You",
+          "I",
+          "She",
+          "He"
+        ],
+        [
+          "will",
+          "would",
+          "are",
+          "do"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "be"
+        ],
+        [
+          "received",
+          "receive",
+          "get",
+          "got"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "answer",
+          "reply",
+          "text",
+          "mail"
+        ],
+        [
+          "by",
+          "to",
+          "about",
+          "through"
+        ],
+        [
+          "noon",
+          "midday",
+          "lunch",
+          "night"
+        ]
+      ],
+      "mistakeTags": [
+        "future_perfect",
+        "will_have_done"
+      ],
+      "audioPath": "assets/audio/grammar/upper_02_future_perfect/026.mp3"
+    },
+    {
+      "id": "t2_28",
+      "type": "sentenceAssembly",
+      "question": "Он накопит достаточно денег к декабрю",
+      "correctAnswer": "He will have saved enough money by December",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "I",
+          "She",
+          "We"
+        ],
+        [
+          "will",
+          "shall",
+          "did",
+          "can"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "be"
+        ],
+        [
+          "saved",
+          "spent",
+          "earned",
+          "lost"
+        ],
+        [
+          "enough",
+          "some",
+          "more",
+          "all"
+        ],
+        [
+          "money",
+          "time",
+          "food",
+          "energy"
+        ],
+        [
+          "by",
+          "to",
+          "for",
+          "at"
+        ],
+        [
+          "December",
+          "Monday",
+          "summer",
+          "tonight"
+        ]
+      ],
+      "mistakeTags": [
+        "future_perfect",
+        "will_have_done"
+      ],
+      "audioPath": "assets/audio/grammar/upper_02_future_perfect/027.mp3"
+    },
+    {
+      "id": "t2_29",
+      "type": "sentenceAssembly",
+      "question": "Мы не успеем к началу",
+      "correctAnswer": "We won't have arrived by the start",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "I",
+          "They",
+          "You"
+        ],
+        [
+          "won't",
+          "will",
+          "don't",
+          "not"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "be"
+        ],
+        [
+          "arrived",
+          "arrive",
+          "come",
+          "done"
+        ],
+        [
+          "by",
+          "to",
+          "with",
+          "from"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "start",
+          "beginning",
+          "open",
+          "first"
+        ]
+      ],
+      "mistakeTags": [
+        "future_perfect",
+        "will_have_done"
+      ],
+      "audioPath": "assets/audio/grammar/upper_02_future_perfect/028.mp3"
+    },
+    {
+      "id": "t2_30",
+      "type": "sentenceAssembly",
+      "question": "Она напишет отчет к завтрашнему утру",
+      "correctAnswer": "She will have written the report by tomorrow morning",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "I",
+          "He",
+          "It"
+        ],
+        [
+          "will",
+          "may",
+          "shall",
+          "must"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "be"
+        ],
+        [
+          "written",
+          "write",
+          "wrote",
+          "text"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "report",
+          "paper",
+          "news",
+          "text"
+        ],
+        [
+          "by",
+          "to",
+          "about",
+          "through"
+        ],
+        [
+          "tomorrow",
+          "today",
+          "yesterday",
+          "next"
+        ],
+        [
+          "morning",
+          "evening",
+          "night",
+          "day"
+        ]
+      ],
+      "mistakeTags": [
+        "future_perfect",
+        "will_have_done"
+      ],
+      "audioPath": "assets/audio/grammar/upper_02_future_perfect/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionUpper02FuturePerfect",
+  "theoryQuiz": [
+    {
+      "id": "tq_01",
+      "type": "multipleChoice",
+      "question": "Какая формула Future Perfect?",
+      "options": [
+        "will + V1",
+        "will be + V-ing",
+        "will have + V3",
+        "had + V3"
+      ],
+      "correctIndex": 2,
+      "explanation": "Future Perfect образуется: will have + V3 (третья форма глагола)."
+    },
+    {
+      "id": "tq_02",
+      "type": "trueFalse",
+      "question": "Future Perfect описывает действие, которое будет завершено к определённому моменту в будущем.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Верно. Future Perfect показывает, что действие будет завершено К определённому сроку."
+    },
+    {
+      "id": "tq_03",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: 'By 2025, I ___ graduated.'",
+      "options": [
+        "will has",
+        "will have",
+        "will had",
+        "would has"
+      ],
+      "correctIndex": 1,
+      "explanation": "В Future Perfect всегда используется will have (не has, не had): will have graduated."
+    },
+    {
+      "id": "tq_04",
+      "type": "trueFalse",
+      "question": "В Future Perfect можно использовать 'has' вместо 'have': 'She will has finished.'",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "Неверно. В Future Perfect всегда will have, даже с he/she/it. Никогда will has."
+    },
+    {
+      "id": "tq_05",
+      "type": "multipleChoice",
+      "question": "Какой маркер наиболее характерен для Future Perfect?",
+      "options": [
+        "yesterday",
+        "ago",
+        "by (к)",
+        "last week"
+      ],
+      "correctIndex": 2,
+      "explanation": "Главный маркер — by (к): by tomorrow, by 5 PM, by the time, by next year."
+    },
+    {
+      "id": "tq_06",
+      "type": "multipleChoice",
+      "question": "Как образуется отрицание в Future Perfect?",
+      "options": [
+        "will not have + V3",
+        "will have not + V3",
+        "won't has + V3",
+        "don't will have + V3"
+      ],
+      "correctIndex": 0,
+      "explanation": "Отрицание: will not (won't) have + V3. Например: I will not have finished."
+    },
+    {
+      "id": "tq_07",
+      "type": "trueFalse",
+      "question": "'They will have left by the time you arrive' означает, что они уедут раньше, чем вы приедете.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Верно. Will have left показывает, что отъезд произойдет ДО вашего приезда."
+    },
+    {
+      "id": "tq_08",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вопрос в Future Perfect:",
+      "options": [
+        "Will you have finished by 5?",
+        "Have you will finished by 5?",
+        "Do you will have finished by 5?",
+        "Will have you finished by 5?"
+      ],
+      "correctIndex": 0,
+      "explanation": "Вопрос: Will + subject + have + V3? Will you have finished by 5?"
+    },
+    {
+      "id": "tq_09",
+      "type": "trueFalse",
+      "question": "Future Perfect можно использовать для описания стажа к будущей дате: 'Next year we will have worked here for 10 years.'",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Верно. Future Perfect описывает длительность к моменту в будущем: will have worked for 10 years."
+    },
+    {
+      "id": "tq_10",
+      "type": "multipleChoice",
+      "question": "Какое предложение грамматически верно?",
+      "options": [
+        "By Friday I will finished the project.",
+        "By Friday I will have finished the project.",
+        "By Friday I have will finished the project.",
+        "By Friday I had finished the project."
+      ],
+      "correctIndex": 1,
+      "explanation": "Правильная структура: will have + V3. By Friday I will have finished the project."
+    }
+  ]
+}

@@ -1,0 +1,1425 @@
+{
+  "id": "beginner_10_plurals",
+  "title": "Plural Nouns",
+  "description": "Множественное число: cats, boxes, babies, children, teeth. Правила образования.",
+  "order": 10,
+  "level": "beginner",
+  "imageUrl": "assets/images/lessons/plurals.png",
+  "vocabulary": [
+    {
+      "id": "v10_cat",
+      "english": "cat / cats",
+      "russian": "кот / коты",
+      "partOfSpeech": "noun",
+      "example": "I have two cats.",
+      "exampleTranslation": "У меня два кота.",
+      "audioPath": "assets/audio/vocabulary/v10_cat.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_cat.mp3"
+    },
+    {
+      "id": "v10_box",
+      "english": "box / boxes",
+      "russian": "коробка / коробки",
+      "partOfSpeech": "noun",
+      "example": "Three boxes are here.",
+      "exampleTranslation": "Три коробки здесь.",
+      "audioPath": "assets/audio/vocabulary/v10_box.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_box.mp3"
+    },
+    {
+      "id": "v10_child",
+      "english": "child / children",
+      "russian": "ребёнок / дети",
+      "partOfSpeech": "noun",
+      "example": "Many children play here.",
+      "exampleTranslation": "Много детей играют здесь.",
+      "audioPath": "assets/audio/vocabulary/v10_child.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_child.mp3"
+    },
+    {
+      "id": "v10_man",
+      "english": "man / men",
+      "russian": "мужчина / мужчины",
+      "partOfSpeech": "noun",
+      "example": "Two men work here.",
+      "exampleTranslation": "Два мужчины работают здесь.",
+      "audioPath": "assets/audio/vocabulary/v10_man.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_man.mp3"
+    },
+    {
+      "id": "v10_woman",
+      "english": "woman / women",
+      "russian": "женщина / женщины",
+      "partOfSpeech": "noun",
+      "example": "Three women are here.",
+      "exampleTranslation": "Три женщины здесь.",
+      "audioPath": "assets/audio/vocabulary/v10_woman.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_woman.mp3"
+    },
+    {
+      "id": "v10_book",
+      "english": "book / books",
+      "russian": "книга / книги",
+      "partOfSpeech": "noun",
+      "example": "I read many books.",
+      "exampleTranslation": "Я читаю много книг.",
+      "audioPath": "assets/audio/vocabulary/v10_book.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_book.mp3"
+    },
+    {
+      "id": "v10_dog",
+      "english": "dog / dogs",
+      "russian": "собака / собаки",
+      "partOfSpeech": "noun",
+      "example": "We have three dogs.",
+      "exampleTranslation": "У нас три собаки.",
+      "audioPath": "assets/audio/vocabulary/v10_dog.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_dog.mp3"
+    },
+    {
+      "id": "v10_baby",
+      "english": "baby / babies",
+      "russian": "малыш / малыши",
+      "partOfSpeech": "noun",
+      "example": "Two babies are sleeping.",
+      "exampleTranslation": "Два малыша спят.",
+      "audioPath": "assets/audio/vocabulary/v10_baby.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_baby.mp3"
+    },
+    {
+      "id": "v10_tomato",
+      "english": "tomato / tomatoes",
+      "russian": "помидор / помидоры",
+      "partOfSpeech": "noun",
+      "example": "I need two tomatoes.",
+      "exampleTranslation": "Мне нужны два помидора.",
+      "audioPath": "assets/audio/vocabulary/v10_tomato.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_tomato.mp3"
+    },
+    {
+      "id": "v10_dish",
+      "english": "dish / dishes",
+      "russian": "тарелка / тарелки",
+      "partOfSpeech": "noun",
+      "example": "She washes the dishes.",
+      "exampleTranslation": "Она моет тарелки.",
+      "audioPath": "assets/audio/vocabulary/v10_dish.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_dish.mp3"
+    },
+    {
+      "id": "v10_tooth",
+      "english": "tooth / teeth",
+      "russian": "зуб / зубы",
+      "partOfSpeech": "noun",
+      "example": "My teeth are white.",
+      "exampleTranslation": "Мои зубы белые.",
+      "audioPath": "assets/audio/vocabulary/v10_tooth.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_tooth.mp3"
+    },
+    {
+      "id": "v10_foot",
+      "english": "foot / feet",
+      "russian": "нога (стопа) / ноги",
+      "partOfSpeech": "noun",
+      "example": "My feet are cold.",
+      "exampleTranslation": "Мои ноги замёрзли.",
+      "audioPath": "assets/audio/vocabulary/v10_foot.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_foot.mp3"
+    },
+    {
+      "id": "v10_apple",
+      "english": "apple / apples",
+      "russian": "яблоко / яблоки",
+      "partOfSpeech": "noun",
+      "example": "I eat two apples.",
+      "exampleTranslation": "Я ем два яблока.",
+      "audioPath": "assets/audio/vocabulary/v10_apple.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_apple.mp3"
+    },
+    {
+      "id": "v10_city",
+      "english": "city / cities",
+      "russian": "город / города",
+      "partOfSpeech": "noun",
+      "example": "Big cities are noisy.",
+      "exampleTranslation": "Большие города шумные.",
+      "audioPath": "assets/audio/vocabulary/v10_city.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_city.mp3"
+    },
+    {
+      "id": "v10_bus",
+      "english": "bus / buses",
+      "russian": "автобус / автобусы",
+      "partOfSpeech": "noun",
+      "example": "Three buses are here.",
+      "exampleTranslation": "Три автобуса здесь.",
+      "audioPath": "assets/audio/vocabulary/v10_bus.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_bus.mp3"
+    },
+    {
+      "id": "v10_two",
+      "english": "two",
+      "russian": "два",
+      "partOfSpeech": "other",
+      "example": "I have two cats.",
+      "exampleTranslation": "У меня два кота.",
+      "audioPath": "assets/audio/vocabulary/v10_two.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_two.mp3"
+    },
+    {
+      "id": "v10_three",
+      "english": "three",
+      "russian": "три",
+      "partOfSpeech": "other",
+      "example": "Three dogs play here.",
+      "exampleTranslation": "Три собаки играют здесь.",
+      "audioPath": "assets/audio/vocabulary/v10_three.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_three.mp3"
+    },
+    {
+      "id": "v10_many",
+      "english": "many",
+      "russian": "много",
+      "partOfSpeech": "other",
+      "example": "Many children are here.",
+      "exampleTranslation": "Много детей здесь.",
+      "audioPath": "assets/audio/vocabulary/v10_many.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_many.mp3"
+    },
+    {
+      "id": "v10_have",
+      "english": "have",
+      "russian": "иметь",
+      "partOfSpeech": "verb",
+      "example": "I have two books.",
+      "exampleTranslation": "У меня две книги.",
+      "audioPath": "assets/audio/vocabulary/v10_have.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_have.mp3"
+    },
+    {
+      "id": "v10_fish",
+      "english": "fish / fish",
+      "russian": "рыба / рыбы",
+      "partOfSpeech": "noun",
+      "example": "I see three fish.",
+      "exampleTranslation": "Я вижу трёх рыб.",
+      "audioPath": "assets/audio/vocabulary/v10_fish.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_fish.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "Plural Nouns",
+    "subtitle": "Когда предметов больше одного, существительное меняется. Большинство просто получают -s, но есть хитрости.",
+    "construction": {
+      "formula": "Noun + -s / -es / -ies / irregular",
+      "rules": [
+        {
+          "word": "+s",
+          "description": "Большинство слов: cat → cats, book → books, dog → dogs."
+        },
+        {
+          "word": "+es",
+          "description": "После -s, -ss, -sh, -ch, -x, -o: box → boxes, dish → dishes, bus → buses."
+        },
+        {
+          "word": "y → ies",
+          "description": "Согласная + y: baby → babies, city → cities. НО: boy → boys (гласная + y)."
+        },
+        {
+          "word": "Irregular",
+          "description": "Слова-исключения: man → men, child → children, tooth → teeth, foot → feet, fish → fish."
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "groups",
+        "color": "blue",
+        "title": "Когда больше одного",
+        "description": "Считаем предметы, людей, животных.",
+        "example": {
+          "english": "I have two cats.",
+          "russian": "У меня два кота."
+        }
+      },
+      {
+        "icon": "visibility",
+        "color": "purple",
+        "title": "Описание групп",
+        "description": "Говорим о нескольких предметах сразу.",
+        "example": {
+          "english": "Many children play here.",
+          "russian": "Много детей играют здесь."
+        }
+      },
+      {
+        "icon": "star",
+        "color": "orange",
+        "title": "Неправильные формы",
+        "description": "Некоторые слова меняются полностью, их нужно запомнить.",
+        "example": {
+          "english": "Two men work here.",
+          "russian": "Два мужчины работают здесь."
+        }
+      }
+    ],
+    "markers": [
+      "two",
+      "three",
+      "many",
+      "some",
+      "a lot of",
+      "several"
+    ]
+  },
+  "tasks": [
+    {
+      "id": "t10_1",
+      "type": "sentenceAssembly",
+      "question": "Два кота здесь",
+      "correctAnswer": "Two cats are here",
+      "options": [],
+      "variants": [
+        [
+          "Two",
+          "Three",
+          "Many",
+          "One"
+        ],
+        [
+          "cats",
+          "cat",
+          "cates",
+          "cats's"
+        ],
+        [
+          "are",
+          "is",
+          "am",
+          "was"
+        ],
+        [
+          "here",
+          "there",
+          "now",
+          "home"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_10_plurals/000.mp3"
+    },
+    {
+      "id": "t10_2",
+      "type": "sentenceAssembly",
+      "question": "Три коробки большие",
+      "correctAnswer": "Three boxes are big",
+      "options": [],
+      "variants": [
+        [
+          "Three",
+          "Two",
+          "Many",
+          "One"
+        ],
+        [
+          "boxes",
+          "boxs",
+          "box",
+          "boxen"
+        ],
+        [
+          "are",
+          "is",
+          "am",
+          "was"
+        ],
+        [
+          "big",
+          "small",
+          "new",
+          "old"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_10_plurals/001.mp3"
+    },
+    {
+      "id": "t10_3",
+      "type": "sentenceAssembly",
+      "question": "Я вижу две собаки",
+      "correctAnswer": "I see two dogs",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "see",
+          "sees",
+          "look",
+          "watch"
+        ],
+        [
+          "two",
+          "three",
+          "many",
+          "one"
+        ],
+        [
+          "dogs",
+          "dog",
+          "doges",
+          "dogz"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_10_plurals/002.mp3"
+    },
+    {
+      "id": "t10_4",
+      "type": "sentenceAssembly",
+      "question": "Много детей играют",
+      "correctAnswer": "Many children play here",
+      "options": [],
+      "variants": [
+        [
+          "Many",
+          "Two",
+          "Three",
+          "Some"
+        ],
+        [
+          "children",
+          "childs",
+          "childrens",
+          "child"
+        ],
+        [
+          "play",
+          "plays",
+          "playing",
+          "run"
+        ],
+        [
+          "here",
+          "there",
+          "now",
+          "home"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_10_plurals/003.mp3"
+    },
+    {
+      "id": "t10_5",
+      "type": "sentenceAssembly",
+      "question": "У меня два яблока",
+      "correctAnswer": "I have two apples",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "have",
+          "has",
+          "having",
+          "had"
+        ],
+        [
+          "two",
+          "three",
+          "many",
+          "one"
+        ],
+        [
+          "apples",
+          "apple",
+          "applez",
+          "apples's"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_10_plurals/004.mp3"
+    },
+    {
+      "id": "t10_6",
+      "type": "sentenceAssembly",
+      "question": "Три мужчины работают здесь",
+      "correctAnswer": "Three men work here",
+      "options": [],
+      "variants": [
+        [
+          "Three",
+          "Two",
+          "Many",
+          "Some"
+        ],
+        [
+          "men",
+          "mans",
+          "man",
+          "mens"
+        ],
+        [
+          "work",
+          "works",
+          "working",
+          "live"
+        ],
+        [
+          "here",
+          "there",
+          "now",
+          "home"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_10_plurals/005.mp3"
+    },
+    {
+      "id": "t10_7",
+      "type": "sentenceAssembly",
+      "question": "Мои зубы белые",
+      "correctAnswer": "My teeth are white",
+      "options": [],
+      "variants": [
+        [
+          "My",
+          "His",
+          "Her",
+          "Your"
+        ],
+        [
+          "teeth",
+          "tooths",
+          "tooth",
+          "teeths"
+        ],
+        [
+          "are",
+          "is",
+          "am",
+          "was"
+        ],
+        [
+          "white",
+          "black",
+          "big",
+          "clean"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_10_plurals/006.mp3"
+    },
+    {
+      "id": "t10_8",
+      "type": "sentenceAssembly",
+      "question": "Две женщины здесь",
+      "correctAnswer": "Two women are here",
+      "options": [],
+      "variants": [
+        [
+          "Two",
+          "Three",
+          "Many",
+          "Some"
+        ],
+        [
+          "women",
+          "womans",
+          "woman",
+          "womens"
+        ],
+        [
+          "are",
+          "is",
+          "am",
+          "was"
+        ],
+        [
+          "here",
+          "there",
+          "now",
+          "home"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_10_plurals/007.mp3"
+    },
+    {
+      "id": "t10_9",
+      "type": "sentenceAssembly",
+      "question": "Я читаю много книг",
+      "correctAnswer": "I read many books",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "read",
+          "reads",
+          "reading",
+          "write"
+        ],
+        [
+          "many",
+          "two",
+          "three",
+          "much"
+        ],
+        [
+          "books",
+          "book",
+          "bookz",
+          "bookes"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_10_plurals/008.mp3"
+    },
+    {
+      "id": "t10_10",
+      "type": "sentenceAssembly",
+      "question": "Три автобуса большие",
+      "correctAnswer": "Three buses are big",
+      "options": [],
+      "variants": [
+        [
+          "Three",
+          "Two",
+          "Many",
+          "Some"
+        ],
+        [
+          "buses",
+          "buss",
+          "bus",
+          "bues"
+        ],
+        [
+          "are",
+          "is",
+          "am",
+          "was"
+        ],
+        [
+          "big",
+          "small",
+          "new",
+          "red"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_10_plurals/009.mp3"
+    },
+    {
+      "id": "t10_11",
+      "type": "sentenceAssembly",
+      "question": "Два малыша спят здесь",
+      "correctAnswer": "Two babies sleep here",
+      "options": [],
+      "variants": [
+        [
+          "Two",
+          "Three",
+          "Many",
+          "Some"
+        ],
+        [
+          "babies",
+          "babys",
+          "baby",
+          "babyes"
+        ],
+        [
+          "sleep",
+          "sleeps",
+          "sleeping",
+          "rest"
+        ],
+        [
+          "here",
+          "there",
+          "now",
+          "home"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_10_plurals/010.mp3"
+    },
+    {
+      "id": "t10_12",
+      "type": "sentenceAssembly",
+      "question": "Она моет тарелки",
+      "correctAnswer": "She washes the dishes",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "They"
+        ],
+        [
+          "washes",
+          "wash",
+          "washing",
+          "cleans"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "my"
+        ],
+        [
+          "dishes",
+          "dishs",
+          "dish",
+          "dishes's"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_10_plurals/011.mp3"
+    },
+    {
+      "id": "t10_13",
+      "type": "sentenceAssembly",
+      "question": "Большие города шумные",
+      "correctAnswer": "Big cities are noisy",
+      "options": [],
+      "variants": [
+        [
+          "Big",
+          "Small",
+          "Many",
+          "Old"
+        ],
+        [
+          "cities",
+          "citys",
+          "city",
+          "cityes"
+        ],
+        [
+          "are",
+          "is",
+          "am",
+          "was"
+        ],
+        [
+          "noisy",
+          "quiet",
+          "big",
+          "clean"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_10_plurals/012.mp3"
+    },
+    {
+      "id": "t10_14",
+      "type": "sentenceAssembly",
+      "question": "Мне нужны два помидора",
+      "correctAnswer": "I need two tomatoes",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "need",
+          "needs",
+          "needing",
+          "want"
+        ],
+        [
+          "two",
+          "three",
+          "many",
+          "one"
+        ],
+        [
+          "tomatoes",
+          "tomatos",
+          "tomato",
+          "tomatoez"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_10_plurals/013.mp3"
+    },
+    {
+      "id": "t10_15",
+      "type": "sentenceAssembly",
+      "question": "Мои ноги холодные",
+      "correctAnswer": "My feet are cold",
+      "options": [],
+      "variants": [
+        [
+          "My",
+          "His",
+          "Her",
+          "Your"
+        ],
+        [
+          "feet",
+          "foots",
+          "foot",
+          "feets"
+        ],
+        [
+          "are",
+          "is",
+          "am",
+          "was"
+        ],
+        [
+          "cold",
+          "warm",
+          "big",
+          "small"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_10_plurals/014.mp3"
+    },
+    {
+      "id": "t10_16",
+      "type": "sentenceAssembly",
+      "question": "У нас три кота",
+      "correctAnswer": "We have three cats",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "I",
+          "They",
+          "He"
+        ],
+        [
+          "have",
+          "has",
+          "having",
+          "had"
+        ],
+        [
+          "three",
+          "two",
+          "many",
+          "one"
+        ],
+        [
+          "cats",
+          "cat",
+          "cates",
+          "catez"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_10_plurals/015.mp3"
+    },
+    {
+      "id": "t10_17",
+      "type": "sentenceAssembly",
+      "question": "Я вижу трёх рыб",
+      "correctAnswer": "I see three fish",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "see",
+          "sees",
+          "look",
+          "watch"
+        ],
+        [
+          "three",
+          "two",
+          "many",
+          "one"
+        ],
+        [
+          "fish",
+          "fishs",
+          "fishes",
+          "fishz"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_10_plurals/016.mp3"
+    },
+    {
+      "id": "t10_18",
+      "type": "sentenceAssembly",
+      "question": "Много собак играют здесь",
+      "correctAnswer": "Many dogs play here",
+      "options": [],
+      "variants": [
+        [
+          "Many",
+          "Two",
+          "Three",
+          "Some"
+        ],
+        [
+          "dogs",
+          "dog",
+          "doges",
+          "dogz"
+        ],
+        [
+          "play",
+          "plays",
+          "playing",
+          "run"
+        ],
+        [
+          "here",
+          "there",
+          "now",
+          "home"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_10_plurals/017.mp3"
+    },
+    {
+      "id": "t10_19",
+      "type": "sentenceAssembly",
+      "question": "У него два яблока",
+      "correctAnswer": "He has two apples",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "I",
+          "They"
+        ],
+        [
+          "has",
+          "have",
+          "having",
+          "had"
+        ],
+        [
+          "two",
+          "three",
+          "many",
+          "one"
+        ],
+        [
+          "apples",
+          "apple",
+          "applez",
+          "apples's"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_10_plurals/018.mp3"
+    },
+    {
+      "id": "t10_20",
+      "type": "sentenceAssembly",
+      "question": "Три книги на столе",
+      "correctAnswer": "Three books are here",
+      "options": [],
+      "variants": [
+        [
+          "Three",
+          "Two",
+          "Many",
+          "Some"
+        ],
+        [
+          "books",
+          "book",
+          "bookes",
+          "bookz"
+        ],
+        [
+          "are",
+          "is",
+          "am",
+          "was"
+        ],
+        [
+          "here",
+          "there",
+          "now",
+          "home"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_10_plurals/019.mp3"
+    },
+    {
+      "id": "t10_21",
+      "type": "sentenceAssembly",
+      "question": "У нас нет коробок",
+      "correctAnswer": "We have no boxes",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "I",
+          "They",
+          "He"
+        ],
+        [
+          "have",
+          "has",
+          "having",
+          "had"
+        ],
+        [
+          "no",
+          "not",
+          "none",
+          "never"
+        ],
+        [
+          "boxes",
+          "boxs",
+          "box",
+          "boxen"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_10_plurals/020.mp3"
+    },
+    {
+      "id": "t10_22",
+      "type": "sentenceAssembly",
+      "question": "Здесь нет детей",
+      "correctAnswer": "There are no children",
+      "options": [],
+      "variants": [
+        [
+          "There",
+          "Here",
+          "They",
+          "We"
+        ],
+        [
+          "are",
+          "is",
+          "am",
+          "was"
+        ],
+        [
+          "no",
+          "not",
+          "none",
+          "never"
+        ],
+        [
+          "children",
+          "childs",
+          "childrens",
+          "child"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_10_plurals/021.mp3"
+    },
+    {
+      "id": "t10_23",
+      "type": "sentenceAssembly",
+      "question": "У меня нет собак",
+      "correctAnswer": "I have no dogs",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "have",
+          "has",
+          "having",
+          "had"
+        ],
+        [
+          "no",
+          "not",
+          "none",
+          "never"
+        ],
+        [
+          "dogs",
+          "dog",
+          "doges",
+          "dogz"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_10_plurals/022.mp3"
+    },
+    {
+      "id": "t10_24",
+      "type": "sentenceAssembly",
+      "question": "Здесь нет мужчин",
+      "correctAnswer": "There are no men",
+      "options": [],
+      "variants": [
+        [
+          "There",
+          "Here",
+          "They",
+          "We"
+        ],
+        [
+          "are",
+          "is",
+          "am",
+          "was"
+        ],
+        [
+          "no",
+          "not",
+          "none",
+          "never"
+        ],
+        [
+          "men",
+          "mans",
+          "man",
+          "mens"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_10_plurals/023.mp3"
+    },
+    {
+      "id": "t10_25",
+      "type": "sentenceAssembly",
+      "question": "У неё нет книг",
+      "correctAnswer": "She has no books",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "They"
+        ],
+        [
+          "has",
+          "have",
+          "having",
+          "had"
+        ],
+        [
+          "no",
+          "not",
+          "none",
+          "never"
+        ],
+        [
+          "books",
+          "book",
+          "bookes",
+          "bookz"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_10_plurals/024.mp3"
+    },
+    {
+      "id": "t10_26",
+      "type": "sentenceAssembly",
+      "question": "У них нет котов",
+      "correctAnswer": "They have no cats",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "We",
+          "He",
+          "She"
+        ],
+        [
+          "have",
+          "has",
+          "having",
+          "had"
+        ],
+        [
+          "no",
+          "not",
+          "none",
+          "never"
+        ],
+        [
+          "cats",
+          "cat",
+          "cates",
+          "catez"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_10_plurals/025.mp3"
+    },
+    {
+      "id": "t10_27",
+      "type": "sentenceAssembly",
+      "question": "Здесь нет автобусов",
+      "correctAnswer": "There are no buses",
+      "options": [],
+      "variants": [
+        [
+          "There",
+          "Here",
+          "They",
+          "We"
+        ],
+        [
+          "are",
+          "is",
+          "am",
+          "was"
+        ],
+        [
+          "no",
+          "not",
+          "none",
+          "never"
+        ],
+        [
+          "buses",
+          "buss",
+          "bus",
+          "bues"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_10_plurals/026.mp3"
+    },
+    {
+      "id": "t10_28",
+      "type": "sentenceAssembly",
+      "question": "У меня нет яблок",
+      "correctAnswer": "I have no apples",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "have",
+          "has",
+          "having",
+          "had"
+        ],
+        [
+          "no",
+          "not",
+          "none",
+          "never"
+        ],
+        [
+          "apples",
+          "apple",
+          "applez",
+          "apples's"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_10_plurals/027.mp3"
+    },
+    {
+      "id": "t10_29",
+      "type": "sentenceAssembly",
+      "question": "Здесь нет женщин",
+      "correctAnswer": "There are no women",
+      "options": [],
+      "variants": [
+        [
+          "There",
+          "Here",
+          "They",
+          "We"
+        ],
+        [
+          "are",
+          "is",
+          "am",
+          "was"
+        ],
+        [
+          "no",
+          "not",
+          "none",
+          "never"
+        ],
+        [
+          "women",
+          "womans",
+          "woman",
+          "womens"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_10_plurals/028.mp3"
+    },
+    {
+      "id": "t10_30",
+      "type": "sentenceAssembly",
+      "question": "У него нет тарелок",
+      "correctAnswer": "He has no dishes",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "I",
+          "They"
+        ],
+        [
+          "has",
+          "have",
+          "having",
+          "had"
+        ],
+        [
+          "no",
+          "not",
+          "none",
+          "never"
+        ],
+        [
+          "dishes",
+          "dishs",
+          "dish",
+          "dishes's"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_10_plurals/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionBeginner10Plurals",
+  "theoryQuiz": [
+    {
+      "id": "tq_10_01",
+      "type": "multipleChoice",
+      "question": "Как образовать множественное число от «box»?",
+      "options": [
+        "boxs",
+        "boxes",
+        "boxen",
+        "box"
+      ],
+      "correctIndex": 1,
+      "explanation": "Слова на -x получают окончание -es: box → boxes."
+    },
+    {
+      "id": "tq_10_02",
+      "type": "multipleChoice",
+      "question": "Какая форма множественного числа у «child»?",
+      "options": [
+        "childs",
+        "childes",
+        "children",
+        "childrens"
+      ],
+      "correctIndex": 2,
+      "explanation": "Child → children — это неправильная форма, нужно запомнить."
+    },
+    {
+      "id": "tq_10_03",
+      "type": "trueFalse",
+      "question": "Множественное число от «baby» — «babys».",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "Согласная + y → ies: baby → babies, НЕ babys."
+    },
+    {
+      "id": "tq_10_04",
+      "type": "multipleChoice",
+      "question": "Как будет множественное число от «man»?",
+      "options": [
+        "mans",
+        "men",
+        "manes",
+        "mens"
+      ],
+      "correctIndex": 1,
+      "explanation": "Man → men — неправильная форма, нужно запомнить."
+    },
+    {
+      "id": "tq_10_05",
+      "type": "multipleChoice",
+      "question": "Как образуется множественное число от «dish»?",
+      "options": [
+        "dishs",
+        "dishes",
+        "dishen",
+        "dishies"
+      ],
+      "correctIndex": 1,
+      "explanation": "Слова на -sh получают окончание -es: dish → dishes."
+    },
+    {
+      "id": "tq_10_06",
+      "type": "trueFalse",
+      "question": "Слово «fish» во множественном числе — «fish» (не меняется).",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fish — одно из слов, которые не меняются: one fish, two fish."
+    },
+    {
+      "id": "tq_10_07",
+      "type": "multipleChoice",
+      "question": "Как будет множественное число от «city»?",
+      "options": [
+        "citys",
+        "cityes",
+        "cities",
+        "city's"
+      ],
+      "correctIndex": 2,
+      "explanation": "Согласная + y → ies: city → cities."
+    },
+    {
+      "id": "tq_10_08",
+      "type": "multipleChoice",
+      "question": "Какое правило для «boy» во множественном числе?",
+      "options": [
+        "boies",
+        "boyes",
+        "boys",
+        "boyz"
+      ],
+      "correctIndex": 2,
+      "explanation": "Гласная + y → просто +s: boy → boys. Правило y → ies только после согласной."
+    },
+    {
+      "id": "tq_10_09",
+      "type": "trueFalse",
+      "question": "Множественное число от «tooth» — «tooths».",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tooth → teeth — неправильная форма, нужно запомнить."
+    },
+    {
+      "id": "tq_10_10",
+      "type": "multipleChoice",
+      "question": "Какое окончание получают слова на -s, -ss, -sh, -ch, -x?",
+      "options": [
+        "-s",
+        "-es",
+        "-ies",
+        "-en"
+      ],
+      "correctIndex": 1,
+      "explanation": "Эти слова получают -es: bus → buses, dish → dishes, box → boxes."
+    }
+  ]
+}

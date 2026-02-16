@@ -1,0 +1,40 @@
+{
+  "type": "binary_choice",
+  "lessons": [
+    {
+      "id": "beginner_bc_01_to_be",
+      "file": "is_vs_are.json",
+      "order": 1
+    },
+    {
+      "id": "beginner_bc_02_this_that",
+      "file": "this_vs_that.json",
+      "order": 2
+    },
+    {
+      "id": "beginner_bc_03_have_has",
+      "file": "have_vs_has.json",
+      "order": 3
+    },
+    {
+      "id": "beginner_bc_04_present_simple_positive",
+      "file": "do_vs_does.json",
+      "order": 4
+    },
+    {
+      "id": "beginner_bc_05_present_simple_negative",
+      "file": "dont_vs_doesnt.json",
+      "order": 5
+    },
+    {
+      "id": "beginner_bc_06_there_is_are",
+      "file": "there_is_vs_there_are.json",
+      "order": 6
+    },
+    {
+      "id": "beginner_bc_07_imperative_mood",
+      "file": "do_vs_be.json",
+      "order": 7
+    }
+  ]
+}

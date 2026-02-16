@@ -1,0 +1,1688 @@
+{
+  "id": "intermediate_03_future_simple",
+  "title": "Future Simple",
+  "description": "Future Simple — это кнопка «Пуск» для ваших планов. Используйте его, чтобы давать обещания, делать прогнозы и принимать решения прямо на ходу.",
+  "order": 3,
+  "level": "intermediate",
+  "imageUrl": "assets/images/lessons/future_simple.png",
+  "vocabulary": [
+    {
+      "id": "v3_tomorrow",
+      "english": "tomorrow",
+      "russian": "завтра",
+      "partOfSpeech": "adverb",
+      "example": "I will do it tomorrow.",
+      "exampleTranslation": "Я сделаю это завтра.",
+      "audioPath": "assets/audio/vocabulary/v3_tomorrow.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_tomorrow.mp3"
+    },
+    {
+      "id": "v3_late",
+      "english": "late",
+      "russian": "поздно (опаздывать)",
+      "partOfSpeech": "adjective",
+      "example": "We won't be late.",
+      "exampleTranslation": "Мы не опоздаем.",
+      "audioPath": "assets/audio/vocabulary/v3_late.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_late.mp3"
+    },
+    {
+      "id": "v3_call",
+      "english": "call",
+      "russian": "звонить",
+      "partOfSpeech": "verb",
+      "example": "I will call you.",
+      "exampleTranslation": "Я позвоню тебе.",
+      "audioPath": "assets/audio/vocabulary/v3_call.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_call.mp3"
+    },
+    {
+      "id": "v3_soon",
+      "english": "soon",
+      "russian": "скоро",
+      "partOfSpeech": "adverb",
+      "example": "See you soon.",
+      "exampleTranslation": "До скорой встречи.",
+      "audioPath": "assets/audio/vocabulary/v3_soon.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_soon.mp3"
+    },
+    {
+      "id": "v3_tell",
+      "english": "tell",
+      "russian": "говорить, рассказывать",
+      "partOfSpeech": "verb",
+      "example": "He won't tell you.",
+      "exampleTranslation": "Он не скажет тебе.",
+      "audioPath": "assets/audio/vocabulary/v3_tell.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_tell.mp3"
+    },
+    {
+      "id": "v3_truth",
+      "english": "truth",
+      "russian": "правда",
+      "partOfSpeech": "noun",
+      "example": "Tell me the truth.",
+      "exampleTranslation": "Скажи мне правду.",
+      "audioPath": "assets/audio/vocabulary/v3_truth.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_truth.mp3"
+    },
+    {
+      "id": "v3_arrive",
+      "english": "arrive",
+      "russian": "прибывать, приезжать",
+      "partOfSpeech": "verb",
+      "example": "When will they arrive?",
+      "exampleTranslation": "Когда они приедут?",
+      "audioPath": "assets/audio/vocabulary/v3_arrive.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_arrive.mp3"
+    },
+    {
+      "id": "v3_open",
+      "english": "open",
+      "russian": "открывать",
+      "partOfSpeech": "verb",
+      "example": "I will open the door.",
+      "exampleTranslation": "Я открою дверь.",
+      "audioPath": "assets/audio/vocabulary/v3_open.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_open.mp3"
+    },
+    {
+      "id": "v3_door",
+      "english": "door",
+      "russian": "дверь",
+      "partOfSpeech": "noun",
+      "example": "Close the door.",
+      "exampleTranslation": "Закрой дверь.",
+      "audioPath": "assets/audio/vocabulary/v3_door.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_door.mp3"
+    },
+    {
+      "id": "v3_dress",
+      "english": "dress",
+      "russian": "платье",
+      "partOfSpeech": "noun",
+      "example": "Will you buy this dress?",
+      "exampleTranslation": "Ты купишь это платье?",
+      "audioPath": "assets/audio/vocabulary/v3_dress.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_dress.mp3"
+    },
+    {
+      "id": "v3_maybe",
+      "english": "maybe",
+      "russian": "может быть",
+      "partOfSpeech": "adverb",
+      "example": "Maybe I will go.",
+      "exampleTranslation": "Может быть, я пойду.",
+      "audioPath": "assets/audio/vocabulary/v3_maybe.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_maybe.mp3"
+    },
+    {
+      "id": "v3_hope",
+      "english": "hope",
+      "russian": "надеяться",
+      "partOfSpeech": "verb",
+      "example": "I hope everything will be fine.",
+      "exampleTranslation": "Я надеюсь, всё будет хорошо.",
+      "audioPath": "assets/audio/vocabulary/v3_hope.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_hope.mp3"
+    },
+    {
+      "id": "v3_forget",
+      "english": "forget",
+      "russian": "забывать",
+      "partOfSpeech": "verb",
+      "example": "I won't forget.",
+      "exampleTranslation": "Я не забуду.",
+      "audioPath": "assets/audio/vocabulary/v3_forget.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_forget.mp3"
+    },
+    {
+      "id": "v3_everything",
+      "english": "everything",
+      "russian": "всё",
+      "partOfSpeech": "pronoun",
+      "example": "Everything will be fine.",
+      "exampleTranslation": "Всё будет хорошо.",
+      "audioPath": "assets/audio/vocabulary/v3_everything.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_everything.mp3"
+    },
+    {
+      "id": "v3_fine",
+      "english": "fine",
+      "russian": "хорошо, в порядке",
+      "partOfSpeech": "adjective",
+      "example": "I am fine.",
+      "exampleTranslation": "Я в порядке.",
+      "audioPath": "assets/audio/vocabulary/v3_fine.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_fine.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "Future Simple",
+    "subtitle": "Представьте, что will — это ваша рука, поднятая вверх: «Я сделаю это!». Future Simple — это не про сложные планы в календаре, а про ваши намерения, мгновенные решения и веру в то, что будет.",
+    "construction": {
+      "formula": "Subject + will + V1",
+      "rules": [
+        {
+          "word": "Will",
+          "description": "Универсальный ключ к будущему. Работает одинаково для всех: I will, She will, They will. Никаких окончаний -s!"
+        },
+        {
+          "word": "Сокращения ('ll)",
+          "description": "Англичане любят скорость: I will → I'll, She will → She'll. Звучит короче, смысл тот же."
+        },
+        {
+          "word": "Won't (will not)",
+          "description": "Отрицание-бунтарь. Will not сливается в won't (читается как /wəʊnt/). «Я не буду этого делать»."
+        },
+        {
+          "word": "Вопросы (Will...?)",
+          "description": "Will просто выходит вперед: Will you go? — Ты пойдешь? Никаких do/does не нужно."
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "bolt",
+        "color": "orange",
+        "title": "Решение здесь и сейчас",
+        "description": "Когда вы принимаете решение прямо во время разговора. В ресторане, магазине или при ответе на звонок.",
+        "example": {
+          "english": "It's cold. I will close the window.",
+          "russian": "Холодно. Я закрою окно (решил только что)."
+        }
+      },
+      {
+        "icon": "handshake",
+        "color": "green",
+        "title": "Обещание или угроза",
+        "description": "Ваше твердое слово. Вы даете гарантию, что это случится.",
+        "example": {
+          "english": "I will love you forever.",
+          "russian": "Я буду любить тебя вечно."
+        }
+      },
+      {
+        "icon": "bolt",
+        "color": "blue",
+        "title": "Предсказание",
+        "description": "Все, что вы думаете о будущем. Ваше личное мнение или прогноз.",
+        "example": {
+          "english": "I think it will rain tomorrow.",
+          "russian": "Думаю, завтра будет дождь."
+        }
+      }
+    ],
+    "markers": [
+      "tomorrow",
+      "next week",
+      "next year",
+      "soon",
+      "later",
+      "tonight",
+      "in 5 minutes",
+      "I think...",
+      "I hope..."
+    ]
+  },
+  "tasks": [
+    {
+      "id": "t3_1",
+      "type": "sentenceAssembly",
+      "question": "Я сделаю это завтра",
+      "correctAnswer": "I will do it tomorrow",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "My",
+          "Am"
+        ],
+        [
+          "will",
+          "would",
+          "do",
+          "am"
+        ],
+        [
+          "do",
+          "does",
+          "doing",
+          "make"
+        ],
+        [
+          "it",
+          "this",
+          "that",
+          "is"
+        ],
+        [
+          "tomorrow",
+          "yesterday",
+          "today",
+          "now"
+        ]
+      ],
+      "mistakeTags": [
+        "future_simple",
+        "will_shall"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_03_future_simple/000.mp3"
+    },
+    {
+      "id": "t3_2",
+      "type": "sentenceAssembly",
+      "question": "Она поможет тебе",
+      "correctAnswer": "She will help you",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "Her",
+          "Hers",
+          "He"
+        ],
+        [
+          "will",
+          "is",
+          "can",
+          "would"
+        ],
+        [
+          "help",
+          "helps",
+          "helping",
+          "to help"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "me"
+        ]
+      ],
+      "mistakeTags": [
+        "future_simple",
+        "will_shall"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_03_future_simple/001.mp3"
+    },
+    {
+      "id": "t3_3",
+      "type": "sentenceAssembly",
+      "question": "Мы не опоздаем",
+      "correctAnswer": "We won't be late",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "Us",
+          "Our",
+          "They"
+        ],
+        [
+          "won't",
+          "will",
+          "don't",
+          "not"
+        ],
+        [
+          "be",
+          "are",
+          "is",
+          "am"
+        ],
+        [
+          "late",
+          "later",
+          "lately",
+          "wait"
+        ]
+      ],
+      "mistakeTags": [
+        "future_simple",
+        "will_shall"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_03_future_simple/002.mp3"
+    },
+    {
+      "id": "t3_4",
+      "type": "sentenceAssembly",
+      "question": "Я позвоню тебе позже",
+      "correctAnswer": "I will call you later",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "My",
+          "Mine"
+        ],
+        [
+          "will",
+          "would",
+          "can",
+          "am"
+        ],
+        [
+          "call",
+          "calls",
+          "calling",
+          "phone"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "me"
+        ],
+        [
+          "later",
+          "late",
+          "lately",
+          "soon"
+        ]
+      ],
+      "mistakeTags": [
+        "future_simple",
+        "will_shall"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_03_future_simple/003.mp3"
+    },
+    {
+      "id": "t3_5",
+      "type": "sentenceAssembly",
+      "question": "Ты пойдешь с нами?",
+      "correctAnswer": "Will you go with us?",
+      "options": [],
+      "variants": [
+        [
+          "Will",
+          "Do",
+          "Are",
+          "Did"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "me"
+        ],
+        [
+          "go",
+          "went",
+          "gone",
+          "going"
+        ],
+        [
+          "with",
+          "to",
+          "for",
+          "at"
+        ],
+        [
+          "us",
+          "we",
+          "our",
+          "them"
+        ]
+      ],
+      "mistakeTags": [
+        "future_simple",
+        "will_shall"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_03_future_simple/004.mp3"
+    },
+    {
+      "id": "t3_6",
+      "type": "sentenceAssembly",
+      "question": "Они не придут завтра",
+      "correctAnswer": "They won't come tomorrow",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "We",
+          "I",
+          "He"
+        ],
+        [
+          "won't",
+          "will",
+          "can't",
+          "don't"
+        ],
+        [
+          "come",
+          "go",
+          "stay",
+          "leave"
+        ],
+        [
+          "tomorrow",
+          "today",
+          "soon",
+          "later"
+        ]
+      ],
+      "mistakeTags": [
+        "future_simple",
+        "will_shall"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_03_future_simple/005.mp3"
+    },
+    {
+      "id": "t3_7",
+      "type": "sentenceAssembly",
+      "question": "Я думаю, будет дождь",
+      "correctAnswer": "I think it will rain",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "My",
+          "We"
+        ],
+        [
+          "think",
+          "thinks",
+          "thought",
+          "know"
+        ],
+        [
+          "it",
+          "is",
+          "that",
+          "this"
+        ],
+        [
+          "will",
+          "would",
+          "is",
+          "can"
+        ],
+        [
+          "rain",
+          "rains",
+          "raining",
+          "rainy"
+        ]
+      ],
+      "mistakeTags": [
+        "future_simple",
+        "will_shall"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_03_future_simple/006.mp3"
+    },
+    {
+      "id": "t3_8",
+      "type": "sentenceAssembly",
+      "question": "Я возьму это",
+      "correctAnswer": "I will take it",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "My",
+          "Am"
+        ],
+        [
+          "will",
+          "would",
+          "do",
+          "am"
+        ],
+        [
+          "take",
+          "takes",
+          "taking",
+          "took"
+        ],
+        [
+          "it",
+          "this",
+          "that",
+          "one"
+        ]
+      ],
+      "mistakeTags": [
+        "future_simple",
+        "will_shall"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_03_future_simple/007.mp3"
+    },
+    {
+      "id": "t3_9",
+      "type": "sentenceAssembly",
+      "question": "Она станет врачом",
+      "correctAnswer": "She will be a doctor",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "Her",
+          "Hers",
+          "He"
+        ],
+        [
+          "will",
+          "would",
+          "is",
+          "can"
+        ],
+        [
+          "be",
+          "become",
+          "is",
+          "are"
+        ],
+        [
+          "a",
+          "the",
+          "an",
+          "one"
+        ],
+        [
+          "doctor",
+          "docter",
+          "nurse",
+          "job"
+        ]
+      ],
+      "mistakeTags": [
+        "future_simple",
+        "will_shall"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_03_future_simple/008.mp3"
+    },
+    {
+      "id": "t3_10",
+      "type": "sentenceAssembly",
+      "question": "Где ты будешь завтра?",
+      "correctAnswer": "Where will you be tomorrow?",
+      "options": [],
+      "variants": [
+        [
+          "Where",
+          "What",
+          "When",
+          "Who"
+        ],
+        [
+          "will",
+          "do",
+          "are",
+          "did"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "she"
+        ],
+        [
+          "be",
+          "are",
+          "is",
+          "were"
+        ],
+        [
+          "tomorrow",
+          "today",
+          "yesterday",
+          "now"
+        ]
+      ],
+      "mistakeTags": [
+        "future_simple",
+        "will_shall"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_03_future_simple/009.mp3"
+    },
+    {
+      "id": "t3_11",
+      "type": "sentenceAssembly",
+      "question": "Я обещаю, я не забуду",
+      "correctAnswer": "I promise I won't forget",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "My",
+          "We"
+        ],
+        [
+          "promise",
+          "promises",
+          "promised",
+          "say"
+        ],
+        [
+          "I",
+          "me",
+          "my",
+          "we"
+        ],
+        [
+          "won't",
+          "don't",
+          "will",
+          "not"
+        ],
+        [
+          "forget",
+          "forgot",
+          "forgetting",
+          "remember"
+        ]
+      ],
+      "mistakeTags": [
+        "future_simple",
+        "will_shall"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_03_future_simple/010.mp3"
+    },
+    {
+      "id": "t3_12",
+      "type": "sentenceAssembly",
+      "question": "Мы скоро увидимся",
+      "correctAnswer": "We will see you soon",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "Us",
+          "Our",
+          "They"
+        ],
+        [
+          "will",
+          "would",
+          "are",
+          "can"
+        ],
+        [
+          "see",
+          "saw",
+          "look",
+          "watch"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "them"
+        ],
+        [
+          "soon",
+          "later",
+          "now",
+          "fast"
+        ]
+      ],
+      "mistakeTags": [
+        "future_simple",
+        "will_shall"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_03_future_simple/011.mp3"
+    },
+    {
+      "id": "t3_13",
+      "type": "sentenceAssembly",
+      "question": "Он не скажет тебе правду",
+      "correctAnswer": "He won't tell you the truth",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "Him",
+          "His",
+          "She"
+        ],
+        [
+          "won't",
+          "will",
+          "don't",
+          "not"
+        ],
+        [
+          "tell",
+          "say",
+          "speak",
+          "talk"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "me"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "truth",
+          "true",
+          "lie",
+          "right"
+        ]
+      ],
+      "mistakeTags": [
+        "future_simple",
+        "will_shall"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_03_future_simple/012.mp3"
+    },
+    {
+      "id": "t3_14",
+      "type": "sentenceAssembly",
+      "question": "Когда они приедут?",
+      "correctAnswer": "When will they arrive?",
+      "options": [],
+      "variants": [
+        [
+          "When",
+          "What",
+          "Where",
+          "Why"
+        ],
+        [
+          "will",
+          "do",
+          "are",
+          "did"
+        ],
+        [
+          "they",
+          "them",
+          "their",
+          "we"
+        ],
+        [
+          "arrive",
+          "come",
+          "go",
+          "arrives"
+        ]
+      ],
+      "mistakeTags": [
+        "future_simple",
+        "will_shall"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_03_future_simple/013.mp3"
+    },
+    {
+      "id": "t3_15",
+      "type": "sentenceAssembly",
+      "question": "Я открою дверь",
+      "correctAnswer": "I will open the door",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "My",
+          "Am"
+        ],
+        [
+          "will",
+          "would",
+          "do",
+          "am"
+        ],
+        [
+          "open",
+          "opens",
+          "opening",
+          "close"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "door",
+          "window",
+          "gate",
+          "house"
+        ]
+      ],
+      "mistakeTags": [
+        "future_simple",
+        "will_shall"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_03_future_simple/014.mp3"
+    },
+    {
+      "id": "t3_16",
+      "type": "sentenceAssembly",
+      "question": "Ты купишь это платье?",
+      "correctAnswer": "Will you buy this dress?",
+      "options": [],
+      "variants": [
+        [
+          "Will",
+          "Do",
+          "Are",
+          "Did"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "she"
+        ],
+        [
+          "buy",
+          "bought",
+          "buying",
+          "sell"
+        ],
+        [
+          "this",
+          "that",
+          "the",
+          "a"
+        ],
+        [
+          "dress",
+          "clothes",
+          "wear",
+          "shoes"
+        ]
+      ],
+      "mistakeTags": [
+        "future_simple",
+        "will_shall"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_03_future_simple/015.mp3"
+    },
+    {
+      "id": "t3_17",
+      "type": "sentenceAssembly",
+      "question": "Может быть, я пойду в кино",
+      "correctAnswer": "Maybe I will go to the cinema",
+      "options": [],
+      "variants": [
+        [
+          "Maybe",
+          "May",
+          "Might",
+          "Can"
+        ],
+        [
+          "I",
+          "me",
+          "my",
+          "we"
+        ],
+        [
+          "will",
+          "would",
+          "do",
+          "am"
+        ],
+        [
+          "go",
+          "went",
+          "going",
+          "come"
+        ],
+        [
+          "to",
+          "at",
+          "in",
+          "on"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "cinema",
+          "movie",
+          "film",
+          "theatre"
+        ]
+      ],
+      "mistakeTags": [
+        "future_simple",
+        "will_shall"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_03_future_simple/016.mp3"
+    },
+    {
+      "id": "t3_18",
+      "type": "sentenceAssembly",
+      "question": "Я надеюсь, всё будет хорошо",
+      "correctAnswer": "I hope everything will be fine",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "My",
+          "We"
+        ],
+        [
+          "hope",
+          "think",
+          "wish",
+          "know"
+        ],
+        [
+          "everything",
+          "all",
+          "anything",
+          "something"
+        ],
+        [
+          "will",
+          "would",
+          "is",
+          "can"
+        ],
+        [
+          "be",
+          "is",
+          "are",
+          "been"
+        ],
+        [
+          "fine",
+          "good",
+          "well",
+          "nice"
+        ]
+      ],
+      "mistakeTags": [
+        "future_simple",
+        "will_shall"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_03_future_simple/017.mp3"
+    },
+    {
+      "id": "t3_19",
+      "type": "sentenceAssembly",
+      "question": "Я не буду есть это",
+      "correctAnswer": "I won't eat this",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "My",
+          "Am"
+        ],
+        [
+          "won't",
+          "will",
+          "don't",
+          "not"
+        ],
+        [
+          "eat",
+          "eats",
+          "eating",
+          "food"
+        ],
+        [
+          "this",
+          "it",
+          "that",
+          "these"
+        ]
+      ],
+      "mistakeTags": [
+        "future_simple",
+        "will_shall"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_03_future_simple/018.mp3"
+    },
+    {
+      "id": "t3_20",
+      "type": "sentenceAssembly",
+      "question": "Сколько это будет стоить?",
+      "correctAnswer": "How much will it cost?",
+      "options": [],
+      "variants": [
+        [
+          "How",
+          "What",
+          "Why",
+          "Where"
+        ],
+        [
+          "much",
+          "many",
+          "more",
+          "long"
+        ],
+        [
+          "will",
+          "does",
+          "is",
+          "do"
+        ],
+        [
+          "it",
+          "this",
+          "that",
+          "he"
+        ],
+        [
+          "cost",
+          "costs",
+          "price",
+          "pay"
+        ]
+      ],
+      "mistakeTags": [
+        "future_simple",
+        "will_shall"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_03_future_simple/019.mp3"
+    },
+    {
+      "id": "t3_21",
+      "type": "sentenceAssembly",
+      "question": "Я вернусь через 5 минут",
+      "correctAnswer": "I will be back in 5 minutes",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "My",
+          "Am"
+        ],
+        [
+          "will",
+          "would",
+          "can",
+          "am"
+        ],
+        [
+          "be",
+          "come",
+          "go",
+          "is"
+        ],
+        [
+          "back",
+          "return",
+          "home",
+          "backward"
+        ],
+        [
+          "in",
+          "at",
+          "on",
+          "for"
+        ],
+        [
+          "5",
+          "five",
+          "fi",
+          "3"
+        ],
+        [
+          "minutes",
+          "minute",
+          "moments",
+          "hours"
+        ]
+      ],
+      "mistakeTags": [
+        "future_simple",
+        "will_shall"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_03_future_simple/020.mp3"
+    },
+    {
+      "id": "t3_22",
+      "type": "sentenceAssembly",
+      "question": "Она не пойдет на работу завтра",
+      "correctAnswer": "She won't go to work tomorrow",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "Her",
+          "Hers",
+          "He"
+        ],
+        [
+          "won't",
+          "will",
+          "doesn't",
+          "not"
+        ],
+        [
+          "go",
+          "went",
+          "going",
+          "come"
+        ],
+        [
+          "to",
+          "at",
+          "in",
+          "on"
+        ],
+        [
+          "work",
+          "job",
+          "office",
+          "working"
+        ],
+        [
+          "tomorrow",
+          "today",
+          "yesterday",
+          "now"
+        ]
+      ],
+      "mistakeTags": [
+        "future_simple",
+        "will_shall"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_03_future_simple/021.mp3"
+    },
+    {
+      "id": "t3_23",
+      "type": "sentenceAssembly",
+      "question": "Кто выиграет игру?",
+      "correctAnswer": "Who will win the game?",
+      "options": [],
+      "variants": [
+        [
+          "Who",
+          "What",
+          "Where",
+          "When"
+        ],
+        [
+          "will",
+          "does",
+          "is",
+          "can"
+        ],
+        [
+          "win",
+          "wins",
+          "won",
+          "winning"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "game",
+          "match",
+          "play",
+          "sport"
+        ]
+      ],
+      "mistakeTags": [
+        "future_simple",
+        "will_shall"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_03_future_simple/022.mp3"
+    },
+    {
+      "id": "t3_24",
+      "type": "sentenceAssembly",
+      "question": "Я отвечу на звонок",
+      "correctAnswer": "I will answer the call",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "My",
+          "Am"
+        ],
+        [
+          "will",
+          "would",
+          "do",
+          "am"
+        ],
+        [
+          "answer",
+          "answers",
+          "answering",
+          "reply"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "call",
+          "phone",
+          "ring",
+          "calling"
+        ]
+      ],
+      "mistakeTags": [
+        "future_simple",
+        "will_shall"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_03_future_simple/023.mp3"
+    },
+    {
+      "id": "t3_25",
+      "type": "sentenceAssembly",
+      "question": "Ты будешь скучать по мне?",
+      "correctAnswer": "Will you miss me?",
+      "options": [],
+      "variants": [
+        [
+          "Will",
+          "Do",
+          "Are",
+          "Did"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "she"
+        ],
+        [
+          "miss",
+          "misses",
+          "missing",
+          "lost"
+        ],
+        [
+          "me",
+          "I",
+          "my",
+          "mine"
+        ]
+      ],
+      "mistakeTags": [
+        "future_simple",
+        "will_shall"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_03_future_simple/024.mp3"
+    },
+    {
+      "id": "t3_26",
+      "type": "sentenceAssembly",
+      "question": "Мы не забудем твою доброту",
+      "correctAnswer": "We won't forget your kindness",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "Us",
+          "Our",
+          "They"
+        ],
+        [
+          "won't",
+          "will",
+          "don't",
+          "not"
+        ],
+        [
+          "forget",
+          "forgot",
+          "forgetting",
+          "remember"
+        ],
+        [
+          "your",
+          "you",
+          "yours",
+          "my"
+        ],
+        [
+          "kindness",
+          "kind",
+          "good",
+          "help"
+        ]
+      ],
+      "mistakeTags": [
+        "future_simple",
+        "will_shall"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_03_future_simple/025.mp3"
+    },
+    {
+      "id": "t3_27",
+      "type": "sentenceAssembly",
+      "question": "Я думаю, он опоздает",
+      "correctAnswer": "I think he will be late",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "My",
+          "We"
+        ],
+        [
+          "think",
+          "thinks",
+          "thought",
+          "know"
+        ],
+        [
+          "he",
+          "him",
+          "his",
+          "she"
+        ],
+        [
+          "will",
+          "would",
+          "is",
+          "can"
+        ],
+        [
+          "be",
+          "is",
+          "are",
+          "been"
+        ],
+        [
+          "late",
+          "later",
+          "lately",
+          "wait"
+        ]
+      ],
+      "mistakeTags": [
+        "future_simple",
+        "will_shall"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_03_future_simple/026.mp3"
+    },
+    {
+      "id": "t3_28",
+      "type": "sentenceAssembly",
+      "question": "Она выйдет замуж в следующем году",
+      "correctAnswer": "She will get married next year",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "Her",
+          "Hers",
+          "He"
+        ],
+        [
+          "will",
+          "would",
+          "is",
+          "can"
+        ],
+        [
+          "get",
+          "got",
+          "getting",
+          "gets"
+        ],
+        [
+          "married",
+          "marry",
+          "marriage",
+          "wedding"
+        ],
+        [
+          "next",
+          "last",
+          "this",
+          "new"
+        ],
+        [
+          "year",
+          "years",
+          "month",
+          "week"
+        ]
+      ],
+      "mistakeTags": [
+        "future_simple",
+        "will_shall"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_03_future_simple/027.mp3"
+    },
+    {
+      "id": "t3_29",
+      "type": "sentenceAssembly",
+      "question": "Я сделаю бутерброд",
+      "correctAnswer": "I will make a sandwich",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "My",
+          "Am"
+        ],
+        [
+          "will",
+          "would",
+          "do",
+          "am"
+        ],
+        [
+          "make",
+          "made",
+          "making",
+          "do"
+        ],
+        [
+          "a",
+          "the",
+          "an",
+          "one"
+        ],
+        [
+          "sandwich",
+          "food",
+          "burger",
+          "lunch"
+        ]
+      ],
+      "mistakeTags": [
+        "future_simple",
+        "will_shall"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_03_future_simple/028.mp3"
+    },
+    {
+      "id": "t3_30",
+      "type": "sentenceAssembly",
+      "question": "Это не займет много времени",
+      "correctAnswer": "It won't take much time",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "This",
+          "That",
+          "There"
+        ],
+        [
+          "won't",
+          "will",
+          "doesn't",
+          "not"
+        ],
+        [
+          "take",
+          "takes",
+          "taking",
+          "took"
+        ],
+        [
+          "much",
+          "many",
+          "more",
+          "lot"
+        ],
+        [
+          "time",
+          "times",
+          "long",
+          "hour"
+        ]
+      ],
+      "mistakeTags": [
+        "future_simple",
+        "will_shall"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_03_future_simple/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionIntermediate03FutureSimple",
+  "theoryQuiz": [
+    {
+      "id": "tq_01",
+      "type": "trueFalse",
+      "question": "Future Simple образуется: will + V1.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Формула Future Simple: will + базовая форма глагола (V1)."
+    },
+    {
+      "id": "tq_02",
+      "type": "multipleChoice",
+      "question": "Future Simple НЕ используется для:",
+      "options": [
+        "спонтанных решений",
+        "обещаний",
+        "расписаний транспорта",
+        "предсказаний"
+      ],
+      "correctIndex": 2,
+      "explanation": "Расписания выражаются Present Simple, а не Future Simple."
+    },
+    {
+      "id": "tq_03",
+      "type": "multipleChoice",
+      "question": "Какое сокращение у 'will not'?",
+      "options": [
+        "willn't",
+        "won't",
+        "wouldn't",
+        "don't will"
+      ],
+      "correctIndex": 1,
+      "explanation": "Will not сокращается до won't."
+    },
+    {
+      "id": "tq_04",
+      "type": "trueFalse",
+      "question": "Слово 'probably' является маркером Future Simple.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Probably часто используется с will для предсказаний: He will probably come."
+    },
+    {
+      "id": "tq_05",
+      "type": "multipleChoice",
+      "question": "Как построить вопрос в Future Simple?",
+      "options": [
+        "Do + S + will + V1?",
+        "Will + S + V1?",
+        "Will + S + V1 + -ing?",
+        "Does + S + will + V1?"
+      ],
+      "correctIndex": 1,
+      "explanation": "Вопрос: Will + подлежащее + V1?"
+    },
+    {
+      "id": "tq_06",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: I ___ you tomorrow.",
+      "options": [
+        "will call",
+        "will called",
+        "will calling",
+        "will to call"
+      ],
+      "correctIndex": 0,
+      "explanation": "После will всегда идёт V1 без to: will call."
+    },
+    {
+      "id": "tq_07",
+      "type": "trueFalse",
+      "question": "Предложение 'I will helps you' построено правильно.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "После will глагол не изменяется: I will help (не helps)."
+    },
+    {
+      "id": "tq_08",
+      "type": "multipleChoice",
+      "question": "Какое предложение выражает спонтанное решение?",
+      "options": [
+        "I'm going to study tomorrow.",
+        "The train leaves at 9.",
+        "I'll help you with that!",
+        "I'm meeting Tom at 5."
+      ],
+      "correctIndex": 2,
+      "explanation": "Will используется для спонтанных решений, принятых в момент речи."
+    },
+    {
+      "id": "tq_09",
+      "type": "trueFalse",
+      "question": "'Next week' является маркером Future Simple.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Next week указывает на будущее и часто сочетается с will."
+    },
+    {
+      "id": "tq_10",
+      "type": "multipleChoice",
+      "question": "Какое предложение содержит ошибку?",
+      "options": [
+        "She will come.",
+        "Will they help?",
+        "He wills go.",
+        "I won't forget."
+      ],
+      "correctIndex": 2,
+      "explanation": "Will не изменяется: He will go (не wills)."
+    }
+  ]
+}

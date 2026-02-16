@@ -1,0 +1,400 @@
+{
+  "id": "intermediate_bc_09_adverbs",
+  "title": "Hard vs Hardly",
+  "description": "Hard или Hardly? Усердно или едва ли — два слова, два разных мира.",
+  "order": 10,
+  "level": "intermediate",
+  "imageUrl": null,
+  "tasks": [
+    {
+      "id": "hvh_1",
+      "question": "She works very ___.",
+      "optionA": "HARD",
+      "optionB": "HARDLY",
+      "correctIndex": 0,
+      "explanation": "Работать усердно — works hard.",
+      "tags": [
+        "hard_vs_hardly",
+        "hard",
+        "work"
+      ]
+    },
+    {
+      "id": "hvh_2",
+      "question": "I can ___ hear you. Speak louder.",
+      "optionA": "HARD",
+      "optionB": "HARDLY",
+      "correctIndex": 1,
+      "explanation": "Hardly — едва, почти не слышу.",
+      "tags": [
+        "hard_vs_hardly",
+        "hardly",
+        "communication"
+      ]
+    },
+    {
+      "id": "hvh_3",
+      "question": "He studied ___ for the exam.",
+      "optionA": "HARD",
+      "optionB": "HARDLY",
+      "correctIndex": 0,
+      "explanation": "Учился усердно — studied hard.",
+      "tags": [
+        "hard_vs_hardly",
+        "hard",
+        "school"
+      ]
+    },
+    {
+      "id": "hvh_4",
+      "question": "We ___ ever go to the cinema.",
+      "optionA": "HARD",
+      "optionB": "HARDLY",
+      "correctIndex": 1,
+      "explanation": "Hardly ever — почти никогда.",
+      "tags": [
+        "hard_vs_hardly",
+        "hardly",
+        "entertainment"
+      ]
+    },
+    {
+      "id": "hvh_5",
+      "question": "Push ___! The door is stuck.",
+      "optionA": "HARD",
+      "optionB": "HARDLY",
+      "correctIndex": 0,
+      "explanation": "Толкай сильно — push hard.",
+      "tags": [
+        "hard_vs_hardly",
+        "hard",
+        "daily_life"
+      ]
+    },
+    {
+      "id": "hvh_6",
+      "question": "There's ___ any milk left in the fridge.",
+      "optionA": "HARD",
+      "optionB": "HARDLY",
+      "correctIndex": 1,
+      "explanation": "Hardly any — почти нет.",
+      "tags": [
+        "hard_vs_hardly",
+        "hardly",
+        "home"
+      ]
+    },
+    {
+      "id": "hvh_7",
+      "question": "They trained ___ every single day.",
+      "optionA": "HARD",
+      "optionB": "HARDLY",
+      "correctIndex": 0,
+      "explanation": "Тренировались усердно — trained hard.",
+      "tags": [
+        "hard_vs_hardly",
+        "hard",
+        "sport"
+      ]
+    },
+    {
+      "id": "hvh_8",
+      "question": "I ___ know anyone at the party.",
+      "optionA": "HARD",
+      "optionB": "HARDLY",
+      "correctIndex": 1,
+      "explanation": "Hardly — едва ли знаю, почти никого.",
+      "tags": [
+        "hard_vs_hardly",
+        "hardly",
+        "social"
+      ]
+    },
+    {
+      "id": "hvh_9",
+      "question": "You need to try ___ if you want to win.",
+      "optionA": "HARD",
+      "optionB": "HARDLY",
+      "correctIndex": 0,
+      "explanation": "Стараться усерднее — try hard.",
+      "tags": [
+        "hard_vs_hardly",
+        "hard",
+        "sport"
+      ]
+    },
+    {
+      "id": "hvh_10",
+      "question": "She ___ said a word during the meeting.",
+      "optionA": "HARD",
+      "optionB": "HARDLY",
+      "correctIndex": 1,
+      "explanation": "Hardly — почти не говорила.",
+      "tags": [
+        "hard_vs_hardly",
+        "hardly",
+        "work"
+      ]
+    },
+    {
+      "id": "hvh_11",
+      "question": "It rained ___ all night long.",
+      "optionA": "HARD",
+      "optionB": "HARDLY",
+      "correctIndex": 0,
+      "explanation": "Шёл сильный дождь — rained hard.",
+      "tags": [
+        "hard_vs_hardly",
+        "hard",
+        "weather"
+      ]
+    },
+    {
+      "id": "hvh_12",
+      "question": "I could ___ believe what happened.",
+      "optionA": "HARD",
+      "optionB": "HARDLY",
+      "correctIndex": 1,
+      "explanation": "Hardly — с трудом мог поверить.",
+      "tags": [
+        "hard_vs_hardly",
+        "hardly",
+        "emotions"
+      ]
+    },
+    {
+      "id": "hvh_13",
+      "question": "He hit the ball really ___.",
+      "optionA": "HARD",
+      "optionB": "HARDLY",
+      "correctIndex": 0,
+      "explanation": "Ударил сильно — hit hard.",
+      "tags": [
+        "hard_vs_hardly",
+        "hard",
+        "sport"
+      ]
+    },
+    {
+      "id": "hvh_14",
+      "question": "I've ___ had time to eat today.",
+      "optionA": "HARD",
+      "optionB": "HARDLY",
+      "correctIndex": 1,
+      "explanation": "Hardly — почти не было времени.",
+      "tags": [
+        "hard_vs_hardly",
+        "hardly",
+        "daily_life"
+      ]
+    },
+    {
+      "id": "hvh_15",
+      "question": "She held my hand really ___.",
+      "optionA": "HARD",
+      "optionB": "HARDLY",
+      "correctIndex": 0,
+      "explanation": "Держала крепко — held hard.",
+      "tags": [
+        "hard_vs_hardly",
+        "hard",
+        "emotions"
+      ]
+    },
+    {
+      "id": "hvh_16",
+      "question": "He ___ ever talks about his childhood.",
+      "optionA": "HARD",
+      "optionB": "HARDLY",
+      "correctIndex": 1,
+      "explanation": "Hardly ever — почти никогда не рассказывает.",
+      "tags": [
+        "hard_vs_hardly",
+        "hardly",
+        "social"
+      ]
+    },
+    {
+      "id": "hvh_17",
+      "question": "We fought ___ to win the championship.",
+      "optionA": "HARD",
+      "optionB": "HARDLY",
+      "correctIndex": 0,
+      "explanation": "Боролись упорно — fought hard.",
+      "tags": [
+        "hard_vs_hardly",
+        "hard",
+        "sport"
+      ]
+    },
+    {
+      "id": "hvh_18",
+      "question": "I can ___ wait for the holidays!",
+      "optionA": "HARD",
+      "optionB": "HARDLY",
+      "correctIndex": 1,
+      "explanation": "Can hardly wait — едва могу дождаться (от нетерпения).",
+      "tags": [
+        "hard_vs_hardly",
+        "hardly",
+        "emotions"
+      ]
+    },
+    {
+      "id": "hvh_19",
+      "question": "She always works ___ before deadlines.",
+      "optionA": "HARD",
+      "optionB": "HARDLY",
+      "correctIndex": 0,
+      "explanation": "Работает усердно — works hard.",
+      "tags": [
+        "hard_vs_hardly",
+        "hard",
+        "work"
+      ]
+    },
+    {
+      "id": "hvh_20",
+      "question": "There were ___ any people on the street.",
+      "optionA": "HARD",
+      "optionB": "HARDLY",
+      "correctIndex": 1,
+      "explanation": "Hardly any — почти никого не было.",
+      "tags": [
+        "hard_vs_hardly",
+        "hardly",
+        "daily_life"
+      ]
+    },
+    {
+      "id": "hvh_21",
+      "question": "The wind was blowing really ___.",
+      "optionA": "HARD",
+      "optionB": "HARDLY",
+      "correctIndex": 0,
+      "explanation": "Дул сильный ветер — blowing hard.",
+      "tags": [
+        "hard_vs_hardly",
+        "hard",
+        "weather"
+      ]
+    },
+    {
+      "id": "hvh_22",
+      "question": "We ___ recognized her with new hair.",
+      "optionA": "HARD",
+      "optionB": "HARDLY",
+      "correctIndex": 1,
+      "explanation": "Hardly — едва узнали её.",
+      "tags": [
+        "hard_vs_hardly",
+        "hardly",
+        "social"
+      ]
+    },
+    {
+      "id": "hvh_23",
+      "question": "Think ___ before you make your decision.",
+      "optionA": "HARD",
+      "optionB": "HARDLY",
+      "correctIndex": 0,
+      "explanation": "Думай усердно, основательно — think hard.",
+      "tags": [
+        "hard_vs_hardly",
+        "hard",
+        "communication"
+      ]
+    },
+    {
+      "id": "hvh_24",
+      "question": "She ___ slept last night because of noise.",
+      "optionA": "HARD",
+      "optionB": "HARDLY",
+      "correctIndex": 1,
+      "explanation": "Hardly — почти не спала.",
+      "tags": [
+        "hard_vs_hardly",
+        "hardly",
+        "daily_life"
+      ]
+    },
+    {
+      "id": "hvh_25",
+      "question": "He plays the guitar ___. He's talented.",
+      "optionA": "HARD",
+      "optionB": "HARDLY",
+      "correctIndex": 0,
+      "explanation": "Играет на гитаре усердно — plays hard (много практикуется).",
+      "tags": [
+        "hard_vs_hardly",
+        "hard",
+        "entertainment"
+      ]
+    },
+    {
+      "id": "hvh_26",
+      "question": "I've ___ started and I'm already tired.",
+      "optionA": "HARD",
+      "optionB": "HARDLY",
+      "correctIndex": 1,
+      "explanation": "Hardly — едва начал.",
+      "tags": [
+        "hard_vs_hardly",
+        "hardly",
+        "daily_life"
+      ]
+    },
+    {
+      "id": "hvh_27",
+      "question": "She gripped the rope ___ to stay safe.",
+      "optionA": "HARD",
+      "optionB": "HARDLY",
+      "correctIndex": 0,
+      "explanation": "Держалась крепко — gripped hard.",
+      "tags": [
+        "hard_vs_hardly",
+        "hard",
+        "sport"
+      ]
+    },
+    {
+      "id": "hvh_28",
+      "question": "He was ___ breathing after the long run.",
+      "optionA": "HARD",
+      "optionB": "HARDLY",
+      "correctIndex": 1,
+      "explanation": "Hardly — едва дышал (с трудом).",
+      "tags": [
+        "hard_vs_hardly",
+        "hardly",
+        "sport"
+      ]
+    },
+    {
+      "id": "hvh_29",
+      "question": "We've worked ___ all week on this project.",
+      "optionA": "HARD",
+      "optionB": "HARDLY",
+      "correctIndex": 0,
+      "explanation": "Работали усердно — worked hard.",
+      "tags": [
+        "hard_vs_hardly",
+        "hard",
+        "work"
+      ]
+    },
+    {
+      "id": "hvh_30",
+      "question": "I ___ see anything in the dark room.",
+      "optionA": "HARD",
+      "optionB": "HARDLY",
+      "correctIndex": 1,
+      "explanation": "Hardly — почти ничего не видел.",
+      "tags": [
+        "hard_vs_hardly",
+        "hardly",
+        "daily_life"
+      ]
+    }
+  ]
+}

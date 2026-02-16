@@ -1,0 +1,461 @@
+{
+  "id": "pre_listening_17_some_any_no",
+  "title": "Some / Any / No",
+  "description": "Слушайте и различайте some, any и no в разных контекстах.",
+  "order": 17,
+  "level": "pre_intermediate",
+  "imageUrl": "assets/images/lessons/some_any_no.png",
+  "tasks": [
+    {
+      "id": "t17_01",
+      "audioText": "I went to the shop. I bought some bread and some milk.",
+      "transcript": "I bought some bread and some milk.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The person bought bread and milk."
+        },
+        {
+          "id": "o2",
+          "text": "The person did not buy anything."
+        },
+        {
+          "id": "o3",
+          "text": "The person bought only bread."
+        },
+        {
+          "id": "o4",
+          "text": "The shop had no bread."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Some' is used in positive sentences to talk about a quantity.",
+      "mistakeTags": [
+        "shop",
+        "some_any_no"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_17_some_any_no/t17_01.mp3"
+    },
+    {
+      "id": "t17_02",
+      "audioText": "I looked in the cupboard. There isn't any sugar left.",
+      "transcript": "There isn't any sugar left.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "There is a lot of sugar."
+        },
+        {
+          "id": "o2",
+          "text": "The sugar is finished."
+        },
+        {
+          "id": "o3",
+          "text": "There is some sugar in the cupboard."
+        },
+        {
+          "id": "o4",
+          "text": "The person bought sugar."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Isn't any' means zero quantity — the sugar is gone.",
+      "mistakeTags": [
+        "home",
+        "some_any_no"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_17_some_any_no/t17_02.mp3"
+    },
+    {
+      "id": "t17_03",
+      "audioText": "We are at the cafe. Would you like some coffee?",
+      "transcript": "Would you like some coffee?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The person is offering coffee."
+        },
+        {
+          "id": "o2",
+          "text": "The person is ordering tea."
+        },
+        {
+          "id": "o3",
+          "text": "There is no coffee at the cafe."
+        },
+        {
+          "id": "o4",
+          "text": "The person does not want coffee."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Some' is used in offers and polite requests.",
+      "mistakeTags": [
+        "cafe",
+        "some_any_no"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_17_some_any_no/t17_03.mp3"
+    },
+    {
+      "id": "t17_04",
+      "audioText": "I checked the parking lot. There are no free spaces today.",
+      "transcript": "There are no free spaces today.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The parking lot has many free spaces."
+        },
+        {
+          "id": "o2",
+          "text": "The parking lot is completely full."
+        },
+        {
+          "id": "o3",
+          "text": "There are some spaces available."
+        },
+        {
+          "id": "o4",
+          "text": "The parking lot is closed."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'No free spaces' means zero spaces — the lot is full.",
+      "mistakeTags": [
+        "street",
+        "some_any_no"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_17_some_any_no/t17_04.mp3"
+    },
+    {
+      "id": "t17_05",
+      "audioText": "I am thirsty. Is there any water in the fridge?",
+      "transcript": "Is there any water in the fridge?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The person is asking if there is water."
+        },
+        {
+          "id": "o2",
+          "text": "The person says there is no water."
+        },
+        {
+          "id": "o3",
+          "text": "The person has a lot of water."
+        },
+        {
+          "id": "o4",
+          "text": "The person is buying water."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Any' is used in questions to ask about quantity.",
+      "mistakeTags": [
+        "home",
+        "some_any_no"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_17_some_any_no/t17_05.mp3"
+    },
+    {
+      "id": "t17_06",
+      "audioText": "I need help with my homework. I have some questions for you.",
+      "transcript": "I have some questions for you.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The person has no questions."
+        },
+        {
+          "id": "o2",
+          "text": "The person wants to ask a few questions."
+        },
+        {
+          "id": "o3",
+          "text": "The person already knows all the answers."
+        },
+        {
+          "id": "o4",
+          "text": "The person is giving answers."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Some questions' means there are a few questions to ask.",
+      "mistakeTags": [
+        "school",
+        "some_any_no"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_17_some_any_no/t17_06.mp3"
+    },
+    {
+      "id": "t17_07",
+      "audioText": "I want to buy a gift. I don't have any ideas yet.",
+      "transcript": "I don't have any ideas yet.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The person has many gift ideas."
+        },
+        {
+          "id": "o2",
+          "text": "The person already bought a gift."
+        },
+        {
+          "id": "o3",
+          "text": "The person cannot think of a gift yet."
+        },
+        {
+          "id": "o4",
+          "text": "The person does not want to buy a gift."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Don't have any' means zero — no ideas at all.",
+      "mistakeTags": [
+        "shop",
+        "some_any_no"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_17_some_any_no/t17_07.mp3"
+    },
+    {
+      "id": "t17_08",
+      "audioText": "I looked everywhere in the office. There is nobody here today.",
+      "transcript": "There is nobody here today.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The office has many people today."
+        },
+        {
+          "id": "o2",
+          "text": "The office is empty — no people at all."
+        },
+        {
+          "id": "o3",
+          "text": "Some people are in the office."
+        },
+        {
+          "id": "o4",
+          "text": "Everyone is at lunch."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Nobody' means no person — the office is empty.",
+      "mistakeTags": [
+        "office",
+        "some_any_no"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_17_some_any_no/t17_08.mp3"
+    },
+    {
+      "id": "t17_09",
+      "audioText": "We had a party last night. Some friends brought food.",
+      "transcript": "Some friends brought food.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "No friends came to the party."
+        },
+        {
+          "id": "o2",
+          "text": "A few friends came with food."
+        },
+        {
+          "id": "o3",
+          "text": "All friends forgot the food."
+        },
+        {
+          "id": "o4",
+          "text": "There was no food at the party."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Some friends' means a few friends — not all, but more than zero.",
+      "mistakeTags": [
+        "party",
+        "some_any_no"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_17_some_any_no/t17_09.mp3"
+    },
+    {
+      "id": "t17_10",
+      "audioText": "I asked about the tickets. There aren't any tickets left for Saturday.",
+      "transcript": "There aren't any tickets left for Saturday.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "There are still some tickets for Saturday."
+        },
+        {
+          "id": "o2",
+          "text": "All Saturday tickets are sold out."
+        },
+        {
+          "id": "o3",
+          "text": "The tickets are very cheap."
+        },
+        {
+          "id": "o4",
+          "text": "The show is on Sunday."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Aren't any tickets left' means all tickets are sold — zero remaining.",
+      "mistakeTags": [
+        "entertainment",
+        "some_any_no"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_17_some_any_no/t17_10.mp3"
+    },
+    {
+      "id": "t17_11",
+      "audioText": "I am at the supermarket. Can I get you some fruit?",
+      "transcript": "Can I get you some fruit?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The person is offering to buy fruit."
+        },
+        {
+          "id": "o2",
+          "text": "The person does not want any fruit."
+        },
+        {
+          "id": "o3",
+          "text": "There is no fruit in the shop."
+        },
+        {
+          "id": "o4",
+          "text": "The person is selling fruit."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Some' is used in offers: Can I get you some...?",
+      "mistakeTags": [
+        "shop",
+        "some_any_no"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_17_some_any_no/t17_11.mp3"
+    },
+    {
+      "id": "t17_12",
+      "audioText": "I am looking for my keys. There is nothing on the table.",
+      "transcript": "There is nothing on the table.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The table is empty."
+        },
+        {
+          "id": "o2",
+          "text": "The keys are on the table."
+        },
+        {
+          "id": "o3",
+          "text": "Some things are on the table."
+        },
+        {
+          "id": "o4",
+          "text": "The table has food on it."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Nothing' means zero things — the table has nothing on it.",
+      "mistakeTags": [
+        "home",
+        "some_any_no"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_17_some_any_no/t17_12.mp3"
+    },
+    {
+      "id": "t17_13",
+      "audioText": "I visited the library yesterday. I found some interesting books there.",
+      "transcript": "I found some interesting books there.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The person found no good books."
+        },
+        {
+          "id": "o2",
+          "text": "The library was closed."
+        },
+        {
+          "id": "o3",
+          "text": "The person found a few good books at the library."
+        },
+        {
+          "id": "o4",
+          "text": "The person returned books to the library."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Some interesting books' means a few books that were good.",
+      "mistakeTags": [
+        "library",
+        "some_any_no"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_17_some_any_no/t17_13.mp3"
+    },
+    {
+      "id": "t17_14",
+      "audioText": "I checked the medicine box. We don't have any aspirin at home.",
+      "transcript": "We don't have any aspirin at home.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "There is plenty of aspirin at home."
+        },
+        {
+          "id": "o2",
+          "text": "There is no aspirin in the house."
+        },
+        {
+          "id": "o3",
+          "text": "The person bought aspirin."
+        },
+        {
+          "id": "o4",
+          "text": "The person does not need aspirin."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Don't have any' means there is none — zero aspirin.",
+      "mistakeTags": [
+        "home",
+        "some_any_no"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_17_some_any_no/t17_14.mp3"
+    },
+    {
+      "id": "t17_15",
+      "audioText": "I need to charge my phone. Are there any sockets near here?",
+      "transcript": "Are there any sockets near here?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The person says there are no sockets."
+        },
+        {
+          "id": "o2",
+          "text": "The person found a socket already."
+        },
+        {
+          "id": "o3",
+          "text": "The person is asking if sockets are available nearby."
+        },
+        {
+          "id": "o4",
+          "text": "The phone battery is full."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Are there any' is a question asking about availability.",
+      "mistakeTags": [
+        "cafe",
+        "some_any_no"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_17_some_any_no/t17_15.mp3"
+    }
+  ],
+  "short_description": "Some / Any / No: количество в разных типах предложений"
+}

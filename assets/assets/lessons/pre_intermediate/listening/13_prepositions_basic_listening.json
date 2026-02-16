@@ -1,0 +1,461 @@
+{
+  "id": "pre_listening_13_prepositions_basic",
+  "title": "Prepositions of Place",
+  "description": "Слушайте короткие ситуации и понимайте, где находятся люди и вещи.",
+  "order": 13,
+  "level": "pre_intermediate",
+  "imageUrl": "assets/images/lessons/prepositions_basic.png",
+  "tasks": [
+    {
+      "id": "t13_01",
+      "audioText": "My phone is on the table. I can see it.",
+      "transcript": "My phone is on the table.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The phone is on the table."
+        },
+        {
+          "id": "o2",
+          "text": "The phone is under the table."
+        },
+        {
+          "id": "o3",
+          "text": "The phone is in the table."
+        },
+        {
+          "id": "o4",
+          "text": "The phone is behind the table."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "On the table means the phone is placed on top of the table.",
+      "mistakeTags": [
+        "home",
+        "preposition_on"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_13_prepositions_basic/t13_01.mp3"
+    },
+    {
+      "id": "t13_02",
+      "audioText": "The cat is under the bed again. It likes to sleep there.",
+      "transcript": "The cat is under the bed again.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The cat is under the bed."
+        },
+        {
+          "id": "o2",
+          "text": "The cat is on the bed."
+        },
+        {
+          "id": "o3",
+          "text": "The cat is in the bed."
+        },
+        {
+          "id": "o4",
+          "text": "The cat is next to the bed."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Under the bed means below the bed.",
+      "mistakeTags": [
+        "home",
+        "preposition_under"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_13_prepositions_basic/t13_02.mp3"
+    },
+    {
+      "id": "t13_03",
+      "audioText": "I put my keys in my bag every morning.",
+      "transcript": "I put my keys in my bag every morning.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The keys are inside the bag."
+        },
+        {
+          "id": "o2",
+          "text": "The keys are on the bag."
+        },
+        {
+          "id": "o3",
+          "text": "The keys are under the bag."
+        },
+        {
+          "id": "o4",
+          "text": "The keys are behind the bag."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "In my bag means inside the bag.",
+      "mistakeTags": [
+        "home",
+        "preposition_in"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_13_prepositions_basic/t13_03.mp3"
+    },
+    {
+      "id": "t13_04",
+      "audioText": "There is a nice picture on the wall above the sofa.",
+      "transcript": "There is a nice picture on the wall above the sofa.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The picture is on the wall above the sofa."
+        },
+        {
+          "id": "o2",
+          "text": "The picture is under the sofa."
+        },
+        {
+          "id": "o3",
+          "text": "The picture is next to the sofa."
+        },
+        {
+          "id": "o4",
+          "text": "The picture is in the sofa."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "On the wall above the sofa means the picture is high on the wall.",
+      "mistakeTags": [
+        "home",
+        "preposition_above"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_13_prepositions_basic/t13_04.mp3"
+    },
+    {
+      "id": "t13_05",
+      "audioText": "The supermarket is next to the bank.",
+      "transcript": "The supermarket is next to the bank.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The supermarket is beside the bank."
+        },
+        {
+          "id": "o2",
+          "text": "The supermarket is far from the bank."
+        },
+        {
+          "id": "o3",
+          "text": "The supermarket is in the bank."
+        },
+        {
+          "id": "o4",
+          "text": "The supermarket is behind the bank."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Next to means very close, side by side.",
+      "mistakeTags": [
+        "street",
+        "preposition_next_to"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_13_prepositions_basic/t13_05.mp3"
+    },
+    {
+      "id": "t13_06",
+      "audioText": "My children are in the park with their friends.",
+      "transcript": "My children are in the park with their friends.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The children are inside the park."
+        },
+        {
+          "id": "o2",
+          "text": "The children are outside the park."
+        },
+        {
+          "id": "o3",
+          "text": "The children are on the park."
+        },
+        {
+          "id": "o4",
+          "text": "The children are under the park."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "In the park means inside the park area.",
+      "mistakeTags": [
+        "park",
+        "preposition_in"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_13_prepositions_basic/t13_06.mp3"
+    },
+    {
+      "id": "t13_07",
+      "audioText": "The cafe is between the pharmacy and the post office.",
+      "transcript": "The cafe is between the pharmacy and the post office.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The cafe is in the middle of the two places."
+        },
+        {
+          "id": "o2",
+          "text": "The cafe is opposite the pharmacy."
+        },
+        {
+          "id": "o3",
+          "text": "The cafe is behind the pharmacy."
+        },
+        {
+          "id": "o4",
+          "text": "The cafe is far from them."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Between means in the middle of two things.",
+      "mistakeTags": [
+        "street",
+        "preposition_between"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_13_prepositions_basic/t13_07.mp3"
+    },
+    {
+      "id": "t13_08",
+      "audioText": "Our hotel is opposite the train station. It is very convenient.",
+      "transcript": "Our hotel is opposite the train station.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The hotel is across from the station."
+        },
+        {
+          "id": "o2",
+          "text": "The hotel is next to the station."
+        },
+        {
+          "id": "o3",
+          "text": "The hotel is inside the station."
+        },
+        {
+          "id": "o4",
+          "text": "The hotel is far from the station."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Opposite means directly across the street.",
+      "mistakeTags": [
+        "hotel",
+        "preposition_opposite"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_13_prepositions_basic/t13_08.mp3"
+    },
+    {
+      "id": "t13_09",
+      "audioText": "I sit behind Anna in class. I can see the board well.",
+      "transcript": "I sit behind Anna in class.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "I sit at the back of Anna."
+        },
+        {
+          "id": "o2",
+          "text": "I sit in front of Anna."
+        },
+        {
+          "id": "o3",
+          "text": "I sit next to Anna."
+        },
+        {
+          "id": "o4",
+          "text": "I sit under Anna."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Behind Anna means I am at her back.",
+      "mistakeTags": [
+        "school",
+        "preposition_behind"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_13_prepositions_basic/t13_09.mp3"
+    },
+    {
+      "id": "t13_10",
+      "audioText": "The shoes are in the box under my bed.",
+      "transcript": "The shoes are in the box under my bed.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The shoes are inside the box under the bed."
+        },
+        {
+          "id": "o2",
+          "text": "The shoes are on the box."
+        },
+        {
+          "id": "o3",
+          "text": "The shoes are next to the bed."
+        },
+        {
+          "id": "o4",
+          "text": "The shoes are on my bed."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "In the box + under my bed shows exact location.",
+      "mistakeTags": [
+        "home",
+        "preposition_in_under"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_13_prepositions_basic/t13_10.mp3"
+    },
+    {
+      "id": "t13_11",
+      "audioText": "There is a small shop near my house.",
+      "transcript": "There is a small shop near my house.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The shop is close to my house."
+        },
+        {
+          "id": "o2",
+          "text": "The shop is far from my house."
+        },
+        {
+          "id": "o3",
+          "text": "The shop is inside my house."
+        },
+        {
+          "id": "o4",
+          "text": "The shop is opposite my house."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Near means not far, close distance.",
+      "mistakeTags": [
+        "street",
+        "preposition_near"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_13_prepositions_basic/t13_11.mp3"
+    },
+    {
+      "id": "t13_12",
+      "audioText": "The restaurant is on the left of the hotel.",
+      "transcript": "The restaurant is on the left of the hotel.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The restaurant is to the left of the hotel."
+        },
+        {
+          "id": "o2",
+          "text": "The restaurant is to the right of the hotel."
+        },
+        {
+          "id": "o3",
+          "text": "The restaurant is in front of the hotel."
+        },
+        {
+          "id": "o4",
+          "text": "The restaurant is inside the hotel."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "On the left means when facing the hotel, restaurant is left.",
+      "mistakeTags": [
+        "hotel",
+        "preposition_left"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_13_prepositions_basic/t13_12.mp3"
+    },
+    {
+      "id": "t13_13",
+      "audioText": "My office is on the third floor.",
+      "transcript": "My office is on the third floor.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The office is on floor 3."
+        },
+        {
+          "id": "o2",
+          "text": "The office is on floor 2."
+        },
+        {
+          "id": "o3",
+          "text": "The office is on the ground floor."
+        },
+        {
+          "id": "o4",
+          "text": "The office is on the roof."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "On the third floor is clear location in the building.",
+      "mistakeTags": [
+        "office",
+        "preposition_on_floor"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_13_prepositions_basic/t13_13.mp3"
+    },
+    {
+      "id": "t13_14",
+      "audioText": "The bus stop is in front of the school.",
+      "transcript": "The bus stop is in front of the school.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The bus stop is directly before the school."
+        },
+        {
+          "id": "o2",
+          "text": "The bus stop is behind the school."
+        },
+        {
+          "id": "o3",
+          "text": "The bus stop is inside the school."
+        },
+        {
+          "id": "o4",
+          "text": "The bus stop is next to the school."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "In front of means facing the front of the school.",
+      "mistakeTags": [
+        "school",
+        "preposition_in_front"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_13_prepositions_basic/t13_14.mp3"
+    },
+    {
+      "id": "t13_15",
+      "audioText": "I always park my car behind the supermarket.",
+      "transcript": "I always park my car behind the supermarket.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "My car is parked at the back of the supermarket."
+        },
+        {
+          "id": "o2",
+          "text": "My car is parked in front of the supermarket."
+        },
+        {
+          "id": "o3",
+          "text": "My car is parked on the supermarket."
+        },
+        {
+          "id": "o4",
+          "text": "My car is parked inside the supermarket."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Behind the supermarket means at the back side.",
+      "mistakeTags": [
+        "shop",
+        "preposition_behind"
+      ],
+      "audioPath": "assets/audio/listening/pre_listening_13_prepositions_basic/t13_15.mp3"
+    }
+  ],
+  "short_description": "Предлоги места: in, on, under, next to, between и др."
+}

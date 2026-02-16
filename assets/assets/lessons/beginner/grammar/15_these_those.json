@@ -1,0 +1,1435 @@
+{
+  "id": "beginner_15_these_those",
+  "title": "These / Those",
+  "description": "Указательные местоимения множественного числа: these books (эти), those cars (те).",
+  "order": 15,
+  "level": "beginner",
+  "imageUrl": "assets/images/lessons/these_those.png",
+  "vocabulary": [
+    {
+      "id": "v15_this",
+      "english": "this",
+      "russian": "этот, эта, это (близко)",
+      "partOfSpeech": "pronoun",
+      "example": "This is my book.",
+      "exampleTranslation": "Это моя книга.",
+      "audioPath": "assets/audio/vocabulary/v15_this.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_this.mp3"
+    },
+    {
+      "id": "v15_that",
+      "english": "that",
+      "russian": "тот, та, то (далеко)",
+      "partOfSpeech": "pronoun",
+      "example": "That is her car.",
+      "exampleTranslation": "Та — её машина.",
+      "audioPath": "assets/audio/vocabulary/v15_that.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_that.mp3"
+    },
+    {
+      "id": "v15_these",
+      "english": "these",
+      "russian": "эти (близко, мн. ч.)",
+      "partOfSpeech": "pronoun",
+      "example": "These are my shoes.",
+      "exampleTranslation": "Это мои туфли.",
+      "audioPath": "assets/audio/vocabulary/v15_these.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_these.mp3"
+    },
+    {
+      "id": "v15_those",
+      "english": "those",
+      "russian": "те (далеко, мн. ч.)",
+      "partOfSpeech": "pronoun",
+      "example": "Those are old houses.",
+      "exampleTranslation": "Те — старые дома.",
+      "audioPath": "assets/audio/vocabulary/v15_those.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_those.mp3"
+    },
+    {
+      "id": "v15_book",
+      "english": "book",
+      "russian": "книга",
+      "partOfSpeech": "noun",
+      "example": "This book is good.",
+      "exampleTranslation": "Эта книга хорошая.",
+      "audioPath": "assets/audio/vocabulary/v15_book.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_book.mp3"
+    },
+    {
+      "id": "v15_chair",
+      "english": "chair",
+      "russian": "стул",
+      "partOfSpeech": "noun",
+      "example": "That chair is old.",
+      "exampleTranslation": "Тот стул старый.",
+      "audioPath": "assets/audio/vocabulary/v15_chair.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_chair.mp3"
+    },
+    {
+      "id": "v15_shoe",
+      "english": "shoe",
+      "russian": "туфля, ботинок",
+      "partOfSpeech": "noun",
+      "example": "These shoes are new.",
+      "exampleTranslation": "Эти туфли новые.",
+      "audioPath": "assets/audio/vocabulary/v15_shoe.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_shoe.mp3"
+    },
+    {
+      "id": "v15_house",
+      "english": "house",
+      "russian": "дом",
+      "partOfSpeech": "noun",
+      "example": "Those houses are big.",
+      "exampleTranslation": "Те дома большие.",
+      "audioPath": "assets/audio/vocabulary/v15_house.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_house.mp3"
+    },
+    {
+      "id": "v15_apple",
+      "english": "apple",
+      "russian": "яблоко",
+      "partOfSpeech": "noun",
+      "example": "This apple is red.",
+      "exampleTranslation": "Это яблоко красное.",
+      "audioPath": "assets/audio/vocabulary/v15_apple.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_apple.mp3"
+    },
+    {
+      "id": "v15_key",
+      "english": "key",
+      "russian": "ключ",
+      "partOfSpeech": "noun",
+      "example": "Those keys are mine.",
+      "exampleTranslation": "Те ключи мои.",
+      "audioPath": "assets/audio/vocabulary/v15_key.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_key.mp3"
+    },
+    {
+      "id": "v15_flower",
+      "english": "flower",
+      "russian": "цветок",
+      "partOfSpeech": "noun",
+      "example": "These flowers are nice.",
+      "exampleTranslation": "Эти цветы красивые.",
+      "audioPath": "assets/audio/vocabulary/v15_flower.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_flower.mp3"
+    },
+    {
+      "id": "v15_bag",
+      "english": "bag",
+      "russian": "сумка",
+      "partOfSpeech": "noun",
+      "example": "That bag is heavy.",
+      "exampleTranslation": "Та сумка тяжёлая.",
+      "audioPath": "assets/audio/vocabulary/v15_bag.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_bag.mp3"
+    },
+    {
+      "id": "v15_nice",
+      "english": "nice",
+      "russian": "красивый, приятный",
+      "partOfSpeech": "adjective",
+      "example": "These are nice photos.",
+      "exampleTranslation": "Это красивые фотографии.",
+      "audioPath": "assets/audio/vocabulary/v15_nice.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_nice.mp3"
+    },
+    {
+      "id": "v15_old",
+      "english": "old",
+      "russian": "старый",
+      "partOfSpeech": "adjective",
+      "example": "Those shoes are old.",
+      "exampleTranslation": "Те туфли старые.",
+      "audioPath": "assets/audio/vocabulary/v15_old.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_old.mp3"
+    },
+    {
+      "id": "v15_new",
+      "english": "new",
+      "russian": "новый",
+      "partOfSpeech": "adjective",
+      "example": "This phone is new.",
+      "exampleTranslation": "Этот телефон новый.",
+      "audioPath": "assets/audio/vocabulary/v15_new.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_new.mp3"
+    },
+    {
+      "id": "v15_mine",
+      "english": "mine",
+      "russian": "мой, моя, моё",
+      "partOfSpeech": "pronoun",
+      "example": "This pen is mine.",
+      "exampleTranslation": "Эта ручка моя.",
+      "audioPath": "assets/audio/vocabulary/v15_mine.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_mine.mp3"
+    },
+    {
+      "id": "v15_photo",
+      "english": "photo",
+      "russian": "фотография",
+      "partOfSpeech": "noun",
+      "example": "Those photos are great.",
+      "exampleTranslation": "Те фотографии отличные.",
+      "audioPath": "assets/audio/vocabulary/v15_photo.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_photo.mp3"
+    },
+    {
+      "id": "v15_pen",
+      "english": "pen",
+      "russian": "ручка",
+      "partOfSpeech": "noun",
+      "example": "This pen is blue.",
+      "exampleTranslation": "Эта ручка синяя.",
+      "audioPath": "assets/audio/vocabulary/v15_pen.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v15_pen.mp3"
+    }
+  ],
+  "theory": {
+    "category": "Указательные местоимения",
+    "title": "This / That / These / Those",
+    "subtitle": "Эти рядом, а те далеко",
+    "construction": {
+      "formula": "This / That + is + noun  |  These / Those + are + noun(s)",
+      "rules": [
+        "This (этот/эта/это) — один предмет, рядом с говорящим.",
+        "That (тот/та/то) — один предмет, далеко от говорящего.",
+        "These (эти) — много предметов, рядом с говорящим.",
+        "Those (те) — много предметов, далеко от говорящего.",
+        "С this / that используем is: This is a pen. That is a car.",
+        "С these / those используем are: These are pens. Those are cars.",
+        "This / that + ед. число существительного: this book, that house.",
+        "These / those + мн. число существительного: these books, those houses."
+      ]
+    },
+    "useCases": [
+      {
+        "situation": "Показываешь что-то рядом",
+        "example": "This is my phone.",
+        "translation": "Это мой телефон."
+      },
+      {
+        "situation": "Указываешь на что-то далеко",
+        "example": "That is her house.",
+        "translation": "То — её дом."
+      },
+      {
+        "situation": "Несколько предметов рядом",
+        "example": "These shoes are new.",
+        "translation": "Эти туфли новые."
+      },
+      {
+        "situation": "Несколько предметов далеко",
+        "example": "Those cars are fast.",
+        "translation": "Те машины быстрые."
+      }
+    ],
+    "markers": [
+      "this — ед. ч., рядом",
+      "that — ед. ч., далеко",
+      "these — мн. ч., рядом",
+      "those — мн. ч., далеко",
+      "here → this / these",
+      "there → that / those"
+    ]
+  },
+  "tasks": [
+    {
+      "id": "t15_01",
+      "type": "sentenceAssembly",
+      "correctAnswer": "This is my book.",
+      "translation": "Это моя книга.",
+      "variants": [
+        [
+          "This",
+          "That",
+          "These",
+          "Those"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "be"
+        ],
+        [
+          "my",
+          "your",
+          "his",
+          "her"
+        ],
+        [
+          "book",
+          "books",
+          "pen",
+          "bag"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_15_these_those/000.mp3",
+      "question": "Собери предложение"
+    },
+    {
+      "id": "t15_02",
+      "type": "sentenceAssembly",
+      "correctAnswer": "That is her bag.",
+      "translation": "Та — её сумка.",
+      "variants": [
+        [
+          "That",
+          "This",
+          "These",
+          "Those"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "be"
+        ],
+        [
+          "her",
+          "his",
+          "my",
+          "our"
+        ],
+        [
+          "bag",
+          "bags",
+          "pen",
+          "key"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_15_these_those/001.mp3",
+      "question": "Собери предложение"
+    },
+    {
+      "id": "t15_03",
+      "type": "sentenceAssembly",
+      "correctAnswer": "This pen is blue.",
+      "translation": "Эта ручка синяя.",
+      "variants": [
+        [
+          "This",
+          "That",
+          "These",
+          "Those"
+        ],
+        [
+          "pen",
+          "pens",
+          "book",
+          "bag"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "be"
+        ],
+        [
+          "blue",
+          "red",
+          "new",
+          "old"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_15_these_those/002.mp3",
+      "question": "Собери предложение"
+    },
+    {
+      "id": "t15_04",
+      "type": "sentenceAssembly",
+      "correctAnswer": "That house is old.",
+      "translation": "Тот дом старый.",
+      "variants": [
+        [
+          "That",
+          "This",
+          "These",
+          "Those"
+        ],
+        [
+          "house",
+          "houses",
+          "bag",
+          "car"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "be"
+        ],
+        [
+          "old",
+          "new",
+          "big",
+          "nice"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_15_these_those/003.mp3",
+      "question": "Собери предложение"
+    },
+    {
+      "id": "t15_05",
+      "type": "sentenceAssembly",
+      "correctAnswer": "This is a key.",
+      "translation": "Это ключ.",
+      "variants": [
+        [
+          "This",
+          "That",
+          "These",
+          "Those"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "be"
+        ],
+        [
+          "a",
+          "an",
+          "the",
+          "my"
+        ],
+        [
+          "key",
+          "keys",
+          "pen",
+          "bag"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_15_these_those/004.mp3",
+      "question": "Собери предложение"
+    },
+    {
+      "id": "t15_06",
+      "type": "sentenceAssembly",
+      "correctAnswer": "That is an apple.",
+      "translation": "То — яблоко.",
+      "variants": [
+        [
+          "That",
+          "This",
+          "These",
+          "Those"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "be"
+        ],
+        [
+          "an",
+          "a",
+          "the",
+          "my"
+        ],
+        [
+          "apple",
+          "apples",
+          "bag",
+          "pen"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_15_these_those/005.mp3",
+      "question": "Собери предложение"
+    },
+    {
+      "id": "t15_07",
+      "type": "sentenceAssembly",
+      "correctAnswer": "This chair is nice.",
+      "translation": "Этот стул красивый.",
+      "variants": [
+        [
+          "This",
+          "That",
+          "These",
+          "Those"
+        ],
+        [
+          "chair",
+          "chairs",
+          "table",
+          "bag"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "be"
+        ],
+        [
+          "nice",
+          "old",
+          "new",
+          "big"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_15_these_those/006.mp3",
+      "question": "Собери предложение"
+    },
+    {
+      "id": "t15_08",
+      "type": "sentenceAssembly",
+      "correctAnswer": "This flower is red.",
+      "translation": "Этот цветок красный.",
+      "variants": [
+        [
+          "This",
+          "That",
+          "These",
+          "Those"
+        ],
+        [
+          "flower",
+          "flowers",
+          "apple",
+          "book"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "be"
+        ],
+        [
+          "red",
+          "blue",
+          "new",
+          "nice"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_15_these_those/007.mp3",
+      "question": "Собери предложение"
+    },
+    {
+      "id": "t15_09",
+      "type": "sentenceAssembly",
+      "correctAnswer": "That bag is heavy.",
+      "translation": "Та сумка тяжёлая.",
+      "variants": [
+        [
+          "That",
+          "This",
+          "These",
+          "Those"
+        ],
+        [
+          "bag",
+          "bags",
+          "book",
+          "pen"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "be"
+        ],
+        [
+          "heavy",
+          "light",
+          "new",
+          "old"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_15_these_those/008.mp3",
+      "question": "Собери предложение"
+    },
+    {
+      "id": "t15_10",
+      "type": "sentenceAssembly",
+      "correctAnswer": "This photo is nice.",
+      "translation": "Эта фотография красивая.",
+      "variants": [
+        [
+          "This",
+          "That",
+          "These",
+          "Those"
+        ],
+        [
+          "photo",
+          "photos",
+          "book",
+          "pen"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "be"
+        ],
+        [
+          "nice",
+          "old",
+          "big",
+          "new"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_15_these_those/009.mp3",
+      "question": "Собери предложение"
+    },
+    {
+      "id": "t15_11",
+      "type": "sentenceAssembly",
+      "correctAnswer": "These books are new.",
+      "translation": "Эти книги новые.",
+      "variants": [
+        [
+          "These",
+          "This",
+          "Those",
+          "That"
+        ],
+        [
+          "books",
+          "book",
+          "pens",
+          "bags"
+        ],
+        [
+          "are",
+          "is",
+          "am",
+          "be"
+        ],
+        [
+          "new",
+          "old",
+          "nice",
+          "big"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_15_these_those/010.mp3",
+      "question": "Собери предложение"
+    },
+    {
+      "id": "t15_12",
+      "type": "sentenceAssembly",
+      "correctAnswer": "Those houses are big.",
+      "translation": "Те дома большие.",
+      "variants": [
+        [
+          "Those",
+          "These",
+          "This",
+          "That"
+        ],
+        [
+          "houses",
+          "house",
+          "bags",
+          "cars"
+        ],
+        [
+          "are",
+          "is",
+          "am",
+          "be"
+        ],
+        [
+          "big",
+          "old",
+          "new",
+          "nice"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_15_these_those/011.mp3",
+      "question": "Собери предложение"
+    },
+    {
+      "id": "t15_13",
+      "type": "sentenceAssembly",
+      "correctAnswer": "These shoes are mine.",
+      "translation": "Эти туфли мои.",
+      "variants": [
+        [
+          "These",
+          "This",
+          "Those",
+          "That"
+        ],
+        [
+          "shoes",
+          "shoe",
+          "bags",
+          "keys"
+        ],
+        [
+          "are",
+          "is",
+          "am",
+          "be"
+        ],
+        [
+          "mine",
+          "my",
+          "his",
+          "her"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_15_these_those/012.mp3",
+      "question": "Собери предложение"
+    },
+    {
+      "id": "t15_14",
+      "type": "sentenceAssembly",
+      "correctAnswer": "Those keys are old.",
+      "translation": "Те ключи старые.",
+      "variants": [
+        [
+          "Those",
+          "These",
+          "This",
+          "That"
+        ],
+        [
+          "keys",
+          "key",
+          "pens",
+          "bags"
+        ],
+        [
+          "are",
+          "is",
+          "am",
+          "be"
+        ],
+        [
+          "old",
+          "new",
+          "nice",
+          "big"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_15_these_those/013.mp3",
+      "question": "Собери предложение"
+    },
+    {
+      "id": "t15_15",
+      "type": "sentenceAssembly",
+      "correctAnswer": "These flowers are nice.",
+      "translation": "Эти цветы красивые.",
+      "variants": [
+        [
+          "These",
+          "This",
+          "Those",
+          "That"
+        ],
+        [
+          "flowers",
+          "flower",
+          "photos",
+          "books"
+        ],
+        [
+          "are",
+          "is",
+          "am",
+          "be"
+        ],
+        [
+          "nice",
+          "old",
+          "new",
+          "big"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_15_these_those/014.mp3",
+      "question": "Собери предложение"
+    },
+    {
+      "id": "t15_16",
+      "type": "sentenceAssembly",
+      "correctAnswer": "Those photos are great.",
+      "translation": "Те фотографии отличные.",
+      "variants": [
+        [
+          "Those",
+          "These",
+          "This",
+          "That"
+        ],
+        [
+          "photos",
+          "photo",
+          "books",
+          "pens"
+        ],
+        [
+          "are",
+          "is",
+          "am",
+          "be"
+        ],
+        [
+          "great",
+          "old",
+          "new",
+          "nice"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_15_these_those/015.mp3",
+      "question": "Собери предложение"
+    },
+    {
+      "id": "t15_17",
+      "type": "sentenceAssembly",
+      "correctAnswer": "These pens are blue.",
+      "translation": "Эти ручки синие.",
+      "variants": [
+        [
+          "These",
+          "This",
+          "Those",
+          "That"
+        ],
+        [
+          "pens",
+          "pen",
+          "keys",
+          "bags"
+        ],
+        [
+          "are",
+          "is",
+          "am",
+          "be"
+        ],
+        [
+          "blue",
+          "red",
+          "new",
+          "old"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_15_these_those/016.mp3",
+      "question": "Собери предложение"
+    },
+    {
+      "id": "t15_18",
+      "type": "sentenceAssembly",
+      "correctAnswer": "Those bags are heavy.",
+      "translation": "Те сумки тяжёлые.",
+      "variants": [
+        [
+          "Those",
+          "These",
+          "This",
+          "That"
+        ],
+        [
+          "bags",
+          "bag",
+          "keys",
+          "pens"
+        ],
+        [
+          "are",
+          "is",
+          "am",
+          "be"
+        ],
+        [
+          "heavy",
+          "light",
+          "new",
+          "old"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_15_these_those/017.mp3",
+      "question": "Собери предложение"
+    },
+    {
+      "id": "t15_19",
+      "type": "sentenceAssembly",
+      "correctAnswer": "These apples are red.",
+      "translation": "Эти яблоки красные.",
+      "variants": [
+        [
+          "These",
+          "This",
+          "Those",
+          "That"
+        ],
+        [
+          "apples",
+          "apple",
+          "flowers",
+          "books"
+        ],
+        [
+          "are",
+          "is",
+          "am",
+          "be"
+        ],
+        [
+          "red",
+          "blue",
+          "new",
+          "nice"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_15_these_those/018.mp3",
+      "question": "Собери предложение"
+    },
+    {
+      "id": "t15_20",
+      "type": "sentenceAssembly",
+      "correctAnswer": "Those chairs are old.",
+      "translation": "Те стулья старые.",
+      "variants": [
+        [
+          "Those",
+          "These",
+          "This",
+          "That"
+        ],
+        [
+          "chairs",
+          "chair",
+          "tables",
+          "bags"
+        ],
+        [
+          "are",
+          "is",
+          "am",
+          "be"
+        ],
+        [
+          "old",
+          "new",
+          "nice",
+          "big"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_15_these_those/019.mp3",
+      "question": "Собери предложение"
+    },
+    {
+      "id": "t15_21",
+      "type": "sentenceAssembly",
+      "correctAnswer": "This is not my pen.",
+      "translation": "Это не моя ручка.",
+      "variants": [
+        [
+          "This",
+          "That",
+          "These",
+          "Those"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "be"
+        ],
+        [
+          "not",
+          "no",
+          "yes",
+          "so"
+        ],
+        [
+          "my",
+          "your",
+          "his",
+          "her"
+        ],
+        [
+          "pen",
+          "pens",
+          "bag",
+          "key"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_15_these_those/020.mp3",
+      "question": "Собери предложение"
+    },
+    {
+      "id": "t15_22",
+      "type": "sentenceAssembly",
+      "correctAnswer": "That is not her bag.",
+      "translation": "Та — не её сумка.",
+      "variants": [
+        [
+          "That",
+          "This",
+          "These",
+          "Those"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "be"
+        ],
+        [
+          "not",
+          "no",
+          "yes",
+          "so"
+        ],
+        [
+          "her",
+          "his",
+          "my",
+          "our"
+        ],
+        [
+          "bag",
+          "bags",
+          "key",
+          "pen"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_15_these_those/021.mp3",
+      "question": "Собери предложение"
+    },
+    {
+      "id": "t15_23",
+      "type": "sentenceAssembly",
+      "correctAnswer": "These are not my keys.",
+      "translation": "Это не мои ключи.",
+      "variants": [
+        [
+          "These",
+          "This",
+          "Those",
+          "That"
+        ],
+        [
+          "are",
+          "is",
+          "am",
+          "be"
+        ],
+        [
+          "not",
+          "no",
+          "yes",
+          "so"
+        ],
+        [
+          "my",
+          "your",
+          "his",
+          "her"
+        ],
+        [
+          "keys",
+          "key",
+          "bags",
+          "pens"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_15_these_those/022.mp3",
+      "question": "Собери предложение"
+    },
+    {
+      "id": "t15_24",
+      "type": "sentenceAssembly",
+      "correctAnswer": "Those are not old shoes.",
+      "translation": "Те — не старые туфли.",
+      "variants": [
+        [
+          "Those",
+          "These",
+          "This",
+          "That"
+        ],
+        [
+          "are",
+          "is",
+          "am",
+          "be"
+        ],
+        [
+          "not",
+          "no",
+          "yes",
+          "so"
+        ],
+        [
+          "old",
+          "new",
+          "nice",
+          "big"
+        ],
+        [
+          "shoes",
+          "shoe",
+          "bags",
+          "keys"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_15_these_those/023.mp3",
+      "question": "Собери предложение"
+    },
+    {
+      "id": "t15_25",
+      "type": "sentenceAssembly",
+      "correctAnswer": "This book is not new.",
+      "translation": "Эта книга не новая.",
+      "variants": [
+        [
+          "This",
+          "That",
+          "These",
+          "Those"
+        ],
+        [
+          "book",
+          "books",
+          "pen",
+          "bag"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "be"
+        ],
+        [
+          "not",
+          "no",
+          "yes",
+          "so"
+        ],
+        [
+          "new",
+          "old",
+          "nice",
+          "big"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_15_these_those/024.mp3",
+      "question": "Собери предложение"
+    },
+    {
+      "id": "t15_26",
+      "type": "sentenceAssembly",
+      "correctAnswer": "That chair is not mine.",
+      "translation": "Тот стул не мой.",
+      "variants": [
+        [
+          "That",
+          "This",
+          "These",
+          "Those"
+        ],
+        [
+          "chair",
+          "chairs",
+          "bag",
+          "pen"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "be"
+        ],
+        [
+          "not",
+          "no",
+          "yes",
+          "so"
+        ],
+        [
+          "mine",
+          "my",
+          "his",
+          "her"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_15_these_those/025.mp3",
+      "question": "Собери предложение"
+    },
+    {
+      "id": "t15_27",
+      "type": "sentenceAssembly",
+      "correctAnswer": "These flowers are not red.",
+      "translation": "Эти цветы не красные.",
+      "variants": [
+        [
+          "These",
+          "This",
+          "Those",
+          "That"
+        ],
+        [
+          "flowers",
+          "flower",
+          "apples",
+          "books"
+        ],
+        [
+          "are",
+          "is",
+          "am",
+          "be"
+        ],
+        [
+          "not",
+          "no",
+          "yes",
+          "so"
+        ],
+        [
+          "red",
+          "blue",
+          "new",
+          "old"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_15_these_those/026.mp3",
+      "question": "Собери предложение"
+    },
+    {
+      "id": "t15_28",
+      "type": "sentenceAssembly",
+      "correctAnswer": "Those houses are not big.",
+      "translation": "Те дома не большие.",
+      "variants": [
+        [
+          "Those",
+          "These",
+          "This",
+          "That"
+        ],
+        [
+          "houses",
+          "house",
+          "cars",
+          "bags"
+        ],
+        [
+          "are",
+          "is",
+          "am",
+          "be"
+        ],
+        [
+          "not",
+          "no",
+          "yes",
+          "so"
+        ],
+        [
+          "big",
+          "old",
+          "new",
+          "nice"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_15_these_those/027.mp3",
+      "question": "Собери предложение"
+    },
+    {
+      "id": "t15_29",
+      "type": "sentenceAssembly",
+      "correctAnswer": "This is not an apple.",
+      "translation": "Это не яблоко.",
+      "variants": [
+        [
+          "This",
+          "That",
+          "These",
+          "Those"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "be"
+        ],
+        [
+          "not",
+          "no",
+          "yes",
+          "so"
+        ],
+        [
+          "an",
+          "a",
+          "the",
+          "my"
+        ],
+        [
+          "apple",
+          "apples",
+          "pen",
+          "key"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_15_these_those/028.mp3",
+      "question": "Собери предложение"
+    },
+    {
+      "id": "t15_30",
+      "type": "sentenceAssembly",
+      "correctAnswer": "Those photos are not mine.",
+      "translation": "Те фотографии не мои.",
+      "variants": [
+        [
+          "Those",
+          "These",
+          "This",
+          "That"
+        ],
+        [
+          "photos",
+          "photo",
+          "books",
+          "bags"
+        ],
+        [
+          "are",
+          "is",
+          "am",
+          "be"
+        ],
+        [
+          "not",
+          "no",
+          "yes",
+          "so"
+        ],
+        [
+          "mine",
+          "my",
+          "his",
+          "her"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_15_these_those/029.mp3",
+      "question": "Собери предложение"
+    }
+  ],
+  "theoryQuiz": [
+    {
+      "id": "tq15_01",
+      "type": "multipleChoice",
+      "question": "Какое слово используется для одного предмета рядом?",
+      "options": [
+        "this",
+        "these",
+        "those",
+        "that"
+      ],
+      "correctAnswer": "this",
+      "explanation": "This — для одного предмета, который находится рядом с говорящим."
+    },
+    {
+      "id": "tq15_02",
+      "type": "multipleChoice",
+      "question": "Какое слово используется для нескольких предметов далеко?",
+      "options": [
+        "those",
+        "this",
+        "that",
+        "these"
+      ],
+      "correctAnswer": "those",
+      "explanation": "Those — для нескольких предметов, которые далеко от говорящего."
+    },
+    {
+      "id": "tq15_03",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: ___ books are mine.",
+      "options": [
+        "These",
+        "This",
+        "That",
+        "A"
+      ],
+      "correctAnswer": "These",
+      "explanation": "Books — множественное число, предметы рядом → These."
+    },
+    {
+      "id": "tq15_04",
+      "type": "multipleChoice",
+      "question": "Какой глагол используется с these / those?",
+      "options": [
+        "are",
+        "is",
+        "am",
+        "do"
+      ],
+      "correctAnswer": "are",
+      "explanation": "These / those — множественное число, поэтому используем are."
+    },
+    {
+      "id": "tq15_05",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: ___ is my car.",
+      "options": [
+        "That",
+        "Those",
+        "These",
+        "They"
+      ],
+      "correctAnswer": "That",
+      "explanation": "Car — единственное число, предмет далеко → That is my car."
+    },
+    {
+      "id": "tq15_06",
+      "type": "multipleChoice",
+      "question": "Какое слово для нескольких предметов рядом?",
+      "options": [
+        "these",
+        "this",
+        "that",
+        "those"
+      ],
+      "correctAnswer": "these",
+      "explanation": "These — для нескольких предметов, которые рядом с говорящим."
+    },
+    {
+      "id": "tq15_07",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: ___ house is old.",
+      "options": [
+        "That",
+        "Those",
+        "These",
+        "They"
+      ],
+      "correctAnswer": "That",
+      "explanation": "House — единственное число → That (далеко) или This (рядом). That house is old."
+    },
+    {
+      "id": "tq15_08",
+      "type": "trueFalse",
+      "question": "This / that используются с глаголом is.",
+      "correctAnswer": true,
+      "explanation": "Верно. This is... / That is... — единственное число → is."
+    },
+    {
+      "id": "tq15_09",
+      "type": "trueFalse",
+      "question": "Those используется для одного предмета далеко.",
+      "correctAnswer": false,
+      "explanation": "Неверно. Those — для нескольких предметов далеко. Для одного — that."
+    },
+    {
+      "id": "tq15_10",
+      "type": "trueFalse",
+      "question": "These books are new — правильное предложение.",
+      "correctAnswer": true,
+      "explanation": "Верно. These + мн. число (books) + are — всё правильно."
+    }
+  ],
+  "short_description": "shortDescriptionBeginner15ThoseThese"
+}

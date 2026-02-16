@@ -1,0 +1,489 @@
+{
+  "id": "beginner_listening_11_countable_uncountable",
+  "title": "Countable & Uncountable Nouns",
+  "description": "Слушайте и отличайте исчисляемые от неисчисляемых существительных.",
+  "order": 11,
+  "level": "beginner",
+  "imageUrl": "assets/images/lessons/countable_uncountable.png",
+  "tasks": [
+    {
+      "id": "t11_01",
+      "audioText": "A woman is at the supermarket. She checks her list. I need some milk.",
+      "transcript": "I need some milk.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She wants to buy milk."
+        },
+        {
+          "id": "o2",
+          "text": "She wants to buy eggs."
+        },
+        {
+          "id": "o3",
+          "text": "She wants to sell milk."
+        },
+        {
+          "id": "o4",
+          "text": "She already has milk."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Some milk' — milk is uncountable, used with 'some.' She needs to buy it. Option 1.",
+      "mistakeTags": [
+        "countable_uncountable",
+        "uncountable",
+        "some",
+        "shopping"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_11_countable_uncountable/t11_01.mp3"
+    },
+    {
+      "id": "t11_02",
+      "audioText": "A boy looks in the fridge. It is almost empty. There are only two eggs left.",
+      "transcript": "There are only two eggs left.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "There are many eggs in the fridge."
+        },
+        {
+          "id": "o2",
+          "text": "There are just two eggs in the fridge."
+        },
+        {
+          "id": "o3",
+          "text": "There is no food in the fridge."
+        },
+        {
+          "id": "o4",
+          "text": "There are two bottles of milk left."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Two eggs' — eggs are countable. 'Only two' means just two remain. Option 2 is correct.",
+      "mistakeTags": [
+        "countable_uncountable",
+        "countable",
+        "home"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_11_countable_uncountable/t11_02.mp3"
+    },
+    {
+      "id": "t11_03",
+      "audioText": "A man is at a cafe. He orders a drink. Can I have a cup of coffee, please?",
+      "transcript": "Can I have a cup of coffee, please?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He orders a cup of tea."
+        },
+        {
+          "id": "o2",
+          "text": "He orders a cup of coffee."
+        },
+        {
+          "id": "o3",
+          "text": "He orders a glass of water."
+        },
+        {
+          "id": "o4",
+          "text": "He orders a piece of cake."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'A cup of coffee' — coffee is uncountable, so we use 'a cup of.' Option 2 is correct.",
+      "mistakeTags": [
+        "countable_uncountable",
+        "uncountable",
+        "a_cup_of",
+        "restaurant"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_11_countable_uncountable/t11_03.mp3"
+    },
+    {
+      "id": "t11_04",
+      "audioText": "A girl helps her mother in the kitchen. They are baking. We need a lot of sugar.",
+      "transcript": "We need a lot of sugar.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "They need a little sugar."
+        },
+        {
+          "id": "o2",
+          "text": "They need a lot of flour."
+        },
+        {
+          "id": "o3",
+          "text": "They need a lot of sugar."
+        },
+        {
+          "id": "o4",
+          "text": "They do not need sugar."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'A lot of sugar' — sugar is uncountable. They need much sugar. Option 3 matches.",
+      "mistakeTags": [
+        "countable_uncountable",
+        "uncountable",
+        "a_lot_of",
+        "home"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_11_countable_uncountable/t11_04.mp3"
+    },
+    {
+      "id": "t11_05",
+      "audioText": "A teacher asks the students a question. They are in a science class. How much water is in the glass?",
+      "transcript": "How much water is in the glass?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The teacher asks about the amount of water."
+        },
+        {
+          "id": "o2",
+          "text": "The teacher asks about the number of glasses."
+        },
+        {
+          "id": "o3",
+          "text": "The teacher asks about the color of water."
+        },
+        {
+          "id": "o4",
+          "text": "The teacher asks about the temperature of water."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'How much water' uses 'much' because water is uncountable. It asks about quantity. Option 1.",
+      "mistakeTags": [
+        "countable_uncountable",
+        "uncountable",
+        "how_much",
+        "school"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_11_countable_uncountable/t11_05.mp3"
+    },
+    {
+      "id": "t11_06",
+      "audioText": "A man is at the bakery. He is hungry. Can I have a piece of bread, please?",
+      "transcript": "Can I have a piece of bread, please?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He wants a whole loaf of bread."
+        },
+        {
+          "id": "o2",
+          "text": "He wants a piece of cake."
+        },
+        {
+          "id": "o3",
+          "text": "He wants a piece of bread."
+        },
+        {
+          "id": "o4",
+          "text": "He wants a bag of bread."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'A piece of bread' — bread is uncountable, so we use 'a piece of.' Option 3 is correct.",
+      "mistakeTags": [
+        "countable_uncountable",
+        "uncountable",
+        "a_piece_of",
+        "shopping"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_11_countable_uncountable/t11_06.mp3"
+    },
+    {
+      "id": "t11_07",
+      "audioText": "A woman talks to a waiter at a restaurant. She is thirsty. I would like a glass of orange juice.",
+      "transcript": "I would like a glass of orange juice.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She wants a glass of apple juice."
+        },
+        {
+          "id": "o2",
+          "text": "She wants a bottle of orange juice."
+        },
+        {
+          "id": "o3",
+          "text": "She wants a glass of orange juice."
+        },
+        {
+          "id": "o4",
+          "text": "She wants a glass of lemonade."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'A glass of orange juice' — juice is uncountable. Option 3 matches exactly.",
+      "mistakeTags": [
+        "countable_uncountable",
+        "uncountable",
+        "a_glass_of",
+        "restaurant"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_11_countable_uncountable/t11_07.mp3"
+    },
+    {
+      "id": "t11_08",
+      "audioText": "A boy is at the store with his mother. He looks at the fruit section. How many bananas do we need?",
+      "transcript": "How many bananas do we need?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He asks how much the bananas cost."
+        },
+        {
+          "id": "o2",
+          "text": "He asks how many bananas to buy."
+        },
+        {
+          "id": "o3",
+          "text": "He asks if they like bananas."
+        },
+        {
+          "id": "o4",
+          "text": "He asks where the bananas are."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'How many bananas' uses 'many' because bananas are countable. It asks about the number. Option 2.",
+      "mistakeTags": [
+        "countable_uncountable",
+        "countable",
+        "how_many",
+        "shopping"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_11_countable_uncountable/t11_08.mp3"
+    },
+    {
+      "id": "t11_09",
+      "audioText": "A father and daughter eat lunch together. The table has many dishes. There is some rice on the plate.",
+      "transcript": "There is some rice on the plate.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "There is rice on the plate."
+        },
+        {
+          "id": "o2",
+          "text": "There are noodles on the plate."
+        },
+        {
+          "id": "o3",
+          "text": "The plate is empty."
+        },
+        {
+          "id": "o4",
+          "text": "There is rice on the floor."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Some rice' — rice is uncountable, used with 'some.' Option 1 says the same thing.",
+      "mistakeTags": [
+        "countable_uncountable",
+        "uncountable",
+        "some",
+        "home"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_11_countable_uncountable/t11_09.mp3"
+    },
+    {
+      "id": "t11_10",
+      "audioText": "A woman makes a shopping list. She writes carefully. I need an onion and some butter.",
+      "transcript": "I need an onion and some butter.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She needs an onion and some cheese."
+        },
+        {
+          "id": "o2",
+          "text": "She needs some onions and an egg."
+        },
+        {
+          "id": "o3",
+          "text": "She needs an onion and some butter."
+        },
+        {
+          "id": "o4",
+          "text": "She needs some salt and some butter."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'An onion' is countable (one), 'some butter' is uncountable. Option 3 matches both items.",
+      "mistakeTags": [
+        "countable_uncountable",
+        "mixed",
+        "a_an_some",
+        "shopping"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_11_countable_uncountable/t11_10.mp3"
+    },
+    {
+      "id": "t11_11",
+      "audioText": "A man goes to the office kitchen. He opens the cupboard. There is not much tea left.",
+      "transcript": "There is not much tea left.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "There is a lot of tea in the cupboard."
+        },
+        {
+          "id": "o2",
+          "text": "There is very little tea in the cupboard."
+        },
+        {
+          "id": "o3",
+          "text": "There is no coffee in the cupboard."
+        },
+        {
+          "id": "o4",
+          "text": "There are many cups in the cupboard."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Not much tea' means only a small amount remains. Tea is uncountable. Option 2 is correct.",
+      "mistakeTags": [
+        "countable_uncountable",
+        "uncountable",
+        "not_much",
+        "work"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_11_countable_uncountable/t11_11.mp3"
+    },
+    {
+      "id": "t11_12",
+      "audioText": "A girl is at a birthday party. She looks at the table. There are many cookies on the tray.",
+      "transcript": "There are many cookies on the tray.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "There are a few cookies on the tray."
+        },
+        {
+          "id": "o2",
+          "text": "There is one cookie on the tray."
+        },
+        {
+          "id": "o3",
+          "text": "There are a lot of cookies on the tray."
+        },
+        {
+          "id": "o4",
+          "text": "There are many cakes on the tray."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Many cookies' — cookies are countable. 'A lot of' means the same as 'many.' Option 3.",
+      "mistakeTags": [
+        "countable_uncountable",
+        "countable",
+        "many",
+        "party"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_11_countable_uncountable/t11_12.mp3"
+    },
+    {
+      "id": "t11_13",
+      "audioText": "A cook prepares soup in the kitchen. She tastes it. The soup needs a little more salt.",
+      "transcript": "The soup needs a little more salt.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The soup needs more pepper."
+        },
+        {
+          "id": "o2",
+          "text": "The soup needs a bit more salt."
+        },
+        {
+          "id": "o3",
+          "text": "The soup needs a lot more salt."
+        },
+        {
+          "id": "o4",
+          "text": "The soup is too salty."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'A little more salt' — salt is uncountable. 'A bit more' means the same as 'a little more.' Option 2.",
+      "mistakeTags": [
+        "countable_uncountable",
+        "uncountable",
+        "a_little",
+        "restaurant"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_11_countable_uncountable/t11_13.mp3"
+    },
+    {
+      "id": "t11_14",
+      "audioText": "A man is at the airport. He checks his luggage. I have two suitcases and a bag.",
+      "transcript": "I have two suitcases and a bag.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He has one suitcase and a bag."
+        },
+        {
+          "id": "o2",
+          "text": "He has two bags and a suitcase."
+        },
+        {
+          "id": "o3",
+          "text": "He has two suitcases and a bag."
+        },
+        {
+          "id": "o4",
+          "text": "He has three suitcases."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Two suitcases and a bag' — suitcases and bag are countable. Option 3 matches exactly.",
+      "mistakeTags": [
+        "countable_uncountable",
+        "countable",
+        "travel"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_11_countable_uncountable/t11_14.mp3"
+    },
+    {
+      "id": "t11_15",
+      "audioText": "A woman goes to the pharmacy. She feels sick. I need some medicine for my headache.",
+      "transcript": "I need some medicine for my headache.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She needs medicine for a stomach ache."
+        },
+        {
+          "id": "o2",
+          "text": "She needs medicine for a headache."
+        },
+        {
+          "id": "o3",
+          "text": "She needs vitamins for energy."
+        },
+        {
+          "id": "o4",
+          "text": "She needs a bandage for her arm."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Some medicine for my headache' — medicine is uncountable. She has a headache. Option 2.",
+      "mistakeTags": [
+        "countable_uncountable",
+        "uncountable",
+        "some",
+        "hospital"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_11_countable_uncountable/t11_15.mp3"
+    }
+  ],
+  "short_description": "Тренируйте различение исчисляемых и неисчисляемых существительных на слух."
+}

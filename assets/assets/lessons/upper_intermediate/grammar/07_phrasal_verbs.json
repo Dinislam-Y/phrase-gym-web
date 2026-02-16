@@ -1,0 +1,2111 @@
+{
+  "id": "upper_07_phrasal_verbs",
+  "title": "Phrasal Verbs",
+  "description": "Фразовые глаголы — это «Трансформеры». Добавляешь маленький хвостик (предлог), и «смотреть» (look) превращается в «искать» (look for) или «ухаживать» (look after).",
+  "order": 7,
+  "level": "upper_intermediate",
+  "imageUrl": "assets/images/lessons/phrasal_verbs.png",
+  "vocabulary": [
+    {
+      "id": "v7_get",
+      "english": "get",
+      "russian": "получать (становиться)",
+      "partOfSpeech": "verb",
+      "example": "Get up.",
+      "exampleTranslation": "Вставай.",
+      "audioPath": "assets/audio/vocabulary/v7_get.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_get.mp3"
+    },
+    {
+      "id": "v7_stand",
+      "english": "stand",
+      "russian": "стоять",
+      "partOfSpeech": "verb",
+      "example": "Stand up.",
+      "exampleTranslation": "Встань.",
+      "audioPath": "assets/audio/vocabulary/v7_stand.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_stand.mp3"
+    },
+    {
+      "id": "v7_wake",
+      "english": "wake",
+      "russian": "просыпаться",
+      "partOfSpeech": "verb",
+      "example": "Wake up.",
+      "exampleTranslation": "Просыпайся.",
+      "audioPath": "assets/audio/vocabulary/v7_wake.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_wake.mp3"
+    },
+    {
+      "id": "v7_turn",
+      "english": "turn",
+      "russian": "поворачивать",
+      "partOfSpeech": "verb",
+      "example": "Turn on.",
+      "exampleTranslation": "Включи.",
+      "audioPath": "assets/audio/vocabulary/v7_turn.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_turn.mp3"
+    },
+    {
+      "id": "v7_light",
+      "english": "light",
+      "russian": "свет",
+      "partOfSpeech": "noun",
+      "example": "The light.",
+      "exampleTranslation": "Свет.",
+      "audioPath": "assets/audio/vocabulary/v7_light.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_light.mp3"
+    },
+    {
+      "id": "v7_take",
+      "english": "take",
+      "russian": "брать",
+      "partOfSpeech": "verb",
+      "example": "Take off.",
+      "exampleTranslation": "Сними.",
+      "audioPath": "assets/audio/vocabulary/v7_take.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_take.mp3"
+    },
+    {
+      "id": "v7_jacket",
+      "english": "jacket",
+      "russian": "куртка",
+      "partOfSpeech": "noun",
+      "example": "Your jacket.",
+      "exampleTranslation": "Твоя куртка.",
+      "audioPath": "assets/audio/vocabulary/v7_jacket.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_jacket.mp3"
+    },
+    {
+      "id": "v7_put",
+      "english": "put",
+      "russian": "класть",
+      "partOfSpeech": "verb",
+      "example": "Put on.",
+      "exampleTranslation": "Надень.",
+      "audioPath": "assets/audio/vocabulary/v7_put.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_put.mp3"
+    },
+    {
+      "id": "v7_hat",
+      "english": "hat",
+      "russian": "шляпа (шапка)",
+      "partOfSpeech": "noun",
+      "example": "Your hat.",
+      "exampleTranslation": "Твоя шапка.",
+      "audioPath": "assets/audio/vocabulary/v7_hat.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_hat.mp3"
+    },
+    {
+      "id": "v7_find",
+      "english": "find",
+      "russian": "находить",
+      "partOfSpeech": "verb",
+      "example": "Find out.",
+      "exampleTranslation": "Выяснить.",
+      "audioPath": "assets/audio/vocabulary/v7_find.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_find.mp3"
+    },
+    {
+      "id": "v7_truth",
+      "english": "truth",
+      "russian": "правда",
+      "partOfSpeech": "noun",
+      "example": "The truth.",
+      "exampleTranslation": "Правда.",
+      "audioPath": "assets/audio/vocabulary/v7_truth.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_truth.mp3"
+    },
+    {
+      "id": "v7_fill",
+      "english": "fill",
+      "russian": "наполнять",
+      "partOfSpeech": "verb",
+      "example": "Fill in.",
+      "exampleTranslation": "Заполнить.",
+      "audioPath": "assets/audio/vocabulary/v7_fill.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_fill.mp3"
+    },
+    {
+      "id": "v7_form",
+      "english": "form",
+      "russian": "форма (бланка)",
+      "partOfSpeech": "noun",
+      "example": "This form.",
+      "exampleTranslation": "Эта форма.",
+      "audioPath": "assets/audio/vocabulary/v7_form.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_form.mp3"
+    },
+    {
+      "id": "v7_break",
+      "english": "break",
+      "russian": "ломать",
+      "partOfSpeech": "verb",
+      "example": "Broke down.",
+      "exampleTranslation": "Сломалась.",
+      "audioPath": "assets/audio/vocabulary/v7_break.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_break.mp3"
+    },
+    {
+      "id": "v7_try",
+      "english": "try",
+      "russian": "пробовать",
+      "partOfSpeech": "verb",
+      "example": "Try on.",
+      "exampleTranslation": "Примерь.",
+      "audioPath": "assets/audio/vocabulary/v7_try.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_try.mp3"
+    },
+    {
+      "id": "v7_music",
+      "english": "music",
+      "russian": "музыка",
+      "partOfSpeech": "noun",
+      "example": "The music.",
+      "exampleTranslation": "Музыка.",
+      "audioPath": "assets/audio/vocabulary/v7_music.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_music.mp3"
+    },
+    {
+      "id": "v7_watch",
+      "english": "watch",
+      "russian": "смотреть",
+      "partOfSpeech": "verb",
+      "example": "Watch out.",
+      "exampleTranslation": "Берегись.",
+      "audioPath": "assets/audio/vocabulary/v7_watch.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_watch.mp3"
+    },
+    {
+      "id": "v7_bring",
+      "english": "bring",
+      "russian": "приносить",
+      "partOfSpeech": "verb",
+      "example": "Bring up.",
+      "exampleTranslation": "Воспитывать.",
+      "audioPath": "assets/audio/vocabulary/v7_bring.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_bring.mp3"
+    },
+    {
+      "id": "v7_calm",
+      "english": "calm",
+      "russian": "спокойный (успокоиться)",
+      "partOfSpeech": "verb",
+      "example": "Calm down.",
+      "exampleTranslation": "Успокойся.",
+      "audioPath": "assets/audio/vocabulary/v7_calm.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_calm.mp3"
+    },
+    {
+      "id": "v7_meeting",
+      "english": "meeting",
+      "russian": "встреча",
+      "partOfSpeech": "noun",
+      "example": "The meeting.",
+      "exampleTranslation": "Встреча.",
+      "audioPath": "assets/audio/vocabulary/v7_meeting.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_meeting.mp3"
+    }
+  ],
+  "theory": {
+    "category": "vocabulary",
+    "title": "Phrasal Verbs",
+    "subtitle": "Это как Lego. Берем глагол (кирпичик), прикрепляем предлог (другой кирпичик) — и получаем совершенно новую конструкцию. Англичане обожают их и используют постоянно вместо длинных «умных» слов.",
+    "construction": {
+      "formula": "Verb + Particle",
+      "rules": [
+        {
+          "word": "Буквальный смысл",
+          "description": "Иногда смысл ясен: Stand up (Встать вверх), Sit down (Сесть вниз). Это легко."
+        },
+        {
+          "word": "Новый смысл",
+          "description": "Иногда смысл меняется полностью: Give (давать) + Up (вверх) = Сдаваться. Здесь логика не поможет, нужно просто запомнить «трансформацию»."
+        },
+        {
+          "word": "Разделяемые",
+          "description": "Некоторые глаголы можно «разбить» объектом. Turn IT on (Включи это). Turn on THE LIGHT."
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "bolt",
+        "color": "blue",
+        "title": "Движение",
+        "description": "Get in (войти), Get out (выйти), Come back (вернуться).",
+        "example": {
+          "english": "Get out of here!",
+          "russian": "Убирайся отсюда!"
+        }
+      },
+      {
+        "icon": "bolt",
+        "color": "green",
+        "title": "Техника",
+        "description": "Turn on (включить), Turn off (выключить), Plug in (подключить).",
+        "example": {
+          "english": "Turn off the light.",
+          "russian": "Выключи свет."
+        }
+      },
+      {
+        "icon": "star",
+        "color": "orange",
+        "title": "Абстрактные",
+        "description": "Find out (выяснить), Give up (сдаться), Look forward to (ждать с нетерпением).",
+        "example": {
+          "english": "I look forward to meeting you.",
+          "russian": "Я с нетерпением жду встречи с тобой."
+        }
+      }
+    ],
+    "markers": [
+      "up",
+      "down",
+      "in",
+      "out",
+      "on",
+      "off",
+      "away",
+      "back"
+    ]
+  },
+  "tasks": [
+    {
+      "id": "t7_1",
+      "type": "sentenceAssembly",
+      "question": "Мне нужно разобраться в этом отчёте очень быстро",
+      "correctAnswer": "I need to get up to speed very fast",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "need",
+          "want",
+          "have",
+          "like"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "get",
+          "wake",
+          "stand",
+          "rise"
+        ],
+        [
+          "up",
+          "down",
+          "on",
+          "out"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "speed",
+          "date",
+          "pace",
+          "track"
+        ],
+        [
+          "very",
+          "too",
+          "so",
+          "quite"
+        ],
+        [
+          "fast",
+          "soon",
+          "quick",
+          "early"
+        ]
+      ],
+      "mistakeTags": [
+        "phrasal_verbs",
+        "verb_particle"
+      ],
+      "audioPath": "assets/audio/grammar/upper_07_phrasal_verbs/000.mp3"
+    },
+    {
+      "id": "t7_2",
+      "type": "sentenceAssembly",
+      "question": "Никогда не сдавайтесь перед трудностями в карьере",
+      "correctAnswer": "You should never give up on challenges",
+      "options": [],
+      "variants": [
+        [
+          "You",
+          "They",
+          "One",
+          "We"
+        ],
+        [
+          "should",
+          "could",
+          "might",
+          "must"
+        ],
+        [
+          "never",
+          "always",
+          "ever",
+          "often"
+        ],
+        [
+          "give",
+          "take",
+          "get",
+          "put"
+        ],
+        [
+          "up",
+          "down",
+          "in",
+          "away"
+        ],
+        [
+          "on",
+          "with",
+          "from",
+          "by"
+        ],
+        [
+          "challenges",
+          "projects",
+          "goals",
+          "deadlines"
+        ]
+      ],
+      "mistakeTags": [
+        "phrasal_verbs",
+        "verb_particle"
+      ],
+      "audioPath": "assets/audio/grammar/upper_07_phrasal_verbs/001.mp3"
+    },
+    {
+      "id": "t7_3",
+      "type": "sentenceAssembly",
+      "question": "Пожалуйста, включи свет для меня",
+      "correctAnswer": "Please turn on the light for me",
+      "options": [],
+      "variants": [
+        [
+          "Please",
+          "Can",
+          "Could",
+          "Will"
+        ],
+        [
+          "turn",
+          "switch",
+          "put",
+          "get"
+        ],
+        [
+          "on",
+          "about",
+          "through",
+          "into"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "light",
+          "lamp",
+          "fire",
+          "bulb"
+        ],
+        [
+          "for",
+          "about",
+          "through",
+          "into"
+        ],
+        [
+          "me",
+          "us",
+          "him",
+          "her"
+        ]
+      ],
+      "mistakeTags": [
+        "phrasal_verbs",
+        "verb_particle"
+      ],
+      "audioPath": "assets/audio/grammar/upper_07_phrasal_verbs/002.mp3"
+    },
+    {
+      "id": "t7_4",
+      "type": "sentenceAssembly",
+      "question": "Я ищу свои ключи от машины",
+      "correctAnswer": "I am looking for my car keys",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "am",
+          "is",
+          "are",
+          "was"
+        ],
+        [
+          "looking",
+          "searching",
+          "waiting",
+          "asking"
+        ],
+        [
+          "for",
+          "at",
+          "in",
+          "after"
+        ],
+        [
+          "my",
+          "the",
+          "his",
+          "her"
+        ],
+        [
+          "car",
+          "house",
+          "door",
+          "old"
+        ],
+        [
+          "keys",
+          "key",
+          "lock",
+          "ring"
+        ]
+      ],
+      "mistakeTags": [
+        "phrasal_verbs",
+        "verb_particle"
+      ],
+      "audioPath": "assets/audio/grammar/upper_07_phrasal_verbs/003.mp3"
+    },
+    {
+      "id": "t7_5",
+      "type": "sentenceAssembly",
+      "question": "Пожалуйста, сними куртку когда зайдёшь внутрь",
+      "correctAnswer": "Please take off your jacket inside here",
+      "options": [],
+      "variants": [
+        [
+          "Please",
+          "Can",
+          "Could",
+          "Will"
+        ],
+        [
+          "take",
+          "get",
+          "put",
+          "pull"
+        ],
+        [
+          "off",
+          "on",
+          "out",
+          "up"
+        ],
+        [
+          "your",
+          "the",
+          "my",
+          "his"
+        ],
+        [
+          "jacket",
+          "coat",
+          "shirt",
+          "hat"
+        ],
+        [
+          "inside",
+          "outside",
+          "upstairs",
+          "downstairs"
+        ],
+        [
+          "here",
+          "there",
+          "now",
+          "today"
+        ]
+      ],
+      "mistakeTags": [
+        "phrasal_verbs",
+        "verb_particle"
+      ],
+      "audioPath": "assets/audio/grammar/upper_07_phrasal_verbs/004.mp3"
+    },
+    {
+      "id": "t7_6",
+      "type": "sentenceAssembly",
+      "question": "Тебе следует надеть шапку на улице",
+      "correctAnswer": "You should put on your hat outside",
+      "options": [],
+      "variants": [
+        [
+          "You",
+          "She",
+          "He",
+          "It"
+        ],
+        [
+          "should",
+          "may",
+          "shall",
+          "must"
+        ],
+        [
+          "put",
+          "get",
+          "take",
+          "set"
+        ],
+        [
+          "on",
+          "about",
+          "through",
+          "into"
+        ],
+        [
+          "your",
+          "the",
+          "my",
+          "a"
+        ],
+        [
+          "hat",
+          "cap",
+          "scarf",
+          "coat"
+        ],
+        [
+          "outside",
+          "inside",
+          "today",
+          "now"
+        ]
+      ],
+      "mistakeTags": [
+        "phrasal_verbs",
+        "verb_particle"
+      ],
+      "audioPath": "assets/audio/grammar/upper_07_phrasal_verbs/005.mp3"
+    },
+    {
+      "id": "t7_7",
+      "type": "sentenceAssembly",
+      "question": "Она всегда присматривает за младшей сестрой",
+      "correctAnswer": "She always looks after her younger sister",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "We",
+          "They"
+        ],
+        [
+          "always",
+          "never",
+          "often",
+          "usually"
+        ],
+        [
+          "looks",
+          "looked",
+          "sees",
+          "cares"
+        ],
+        [
+          "after",
+          "for",
+          "at",
+          "over"
+        ],
+        [
+          "her",
+          "his",
+          "my",
+          "the"
+        ],
+        [
+          "younger",
+          "older",
+          "little",
+          "big"
+        ],
+        [
+          "sister",
+          "brother",
+          "child",
+          "daughter"
+        ]
+      ],
+      "mistakeTags": [
+        "phrasal_verbs",
+        "verb_particle"
+      ],
+      "audioPath": "assets/audio/grammar/upper_07_phrasal_verbs/006.mp3"
+    },
+    {
+      "id": "t7_8",
+      "type": "sentenceAssembly",
+      "question": "Мы наконец выяснили причину сбоя в системе",
+      "correctAnswer": "We finally found out the system failure cause",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "You",
+          "One"
+        ],
+        [
+          "finally",
+          "quickly",
+          "slowly",
+          "never"
+        ],
+        [
+          "found",
+          "find",
+          "got",
+          "knew"
+        ],
+        [
+          "out",
+          "in",
+          "up",
+          "off"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "system",
+          "server",
+          "network",
+          "software"
+        ],
+        [
+          "failure",
+          "error",
+          "issue",
+          "problem"
+        ],
+        [
+          "cause",
+          "source",
+          "reason",
+          "origin"
+        ]
+      ],
+      "mistakeTags": [
+        "phrasal_verbs",
+        "verb_particle"
+      ],
+      "audioPath": "assets/audio/grammar/upper_07_phrasal_verbs/007.mp3"
+    },
+    {
+      "id": "t7_9",
+      "type": "sentenceAssembly",
+      "question": "Самолёт взлетел рано сегодня утром",
+      "correctAnswer": "The plane took off early this morning",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "That",
+          "Each"
+        ],
+        [
+          "plane",
+          "flight",
+          "jet",
+          "bird"
+        ],
+        [
+          "took",
+          "take",
+          "goes",
+          "went"
+        ],
+        [
+          "off",
+          "on",
+          "up",
+          "out"
+        ],
+        [
+          "early",
+          "late",
+          "right",
+          "just"
+        ],
+        [
+          "this",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "morning",
+          "evening",
+          "night",
+          "day"
+        ]
+      ],
+      "mistakeTags": [
+        "phrasal_verbs",
+        "verb_particle"
+      ],
+      "audioPath": "assets/audio/grammar/upper_07_phrasal_verbs/008.mp3"
+    },
+    {
+      "id": "t7_10",
+      "type": "sentenceAssembly",
+      "question": "Пожалуйста, уходи и оставь меня в покое",
+      "correctAnswer": "Please go away and leave me alone",
+      "options": [],
+      "variants": [
+        [
+          "Please",
+          "Just",
+          "Now",
+          "Can"
+        ],
+        [
+          "go",
+          "run",
+          "walk",
+          "get"
+        ],
+        [
+          "away",
+          "out",
+          "off",
+          "back"
+        ],
+        [
+          "and",
+          "or",
+          "but",
+          "then"
+        ],
+        [
+          "leave",
+          "let",
+          "give",
+          "keep"
+        ],
+        [
+          "me",
+          "us",
+          "him",
+          "her"
+        ],
+        [
+          "alone",
+          "here",
+          "now",
+          "free"
+        ]
+      ],
+      "mistakeTags": [
+        "phrasal_verbs",
+        "verb_particle"
+      ],
+      "audioPath": "assets/audio/grammar/upper_07_phrasal_verbs/009.mp3"
+    },
+    {
+      "id": "t7_11",
+      "type": "sentenceAssembly",
+      "question": "Пожалуйста, вернись домой до того как стемнеет",
+      "correctAnswer": "Please come back home before it gets dark",
+      "options": [],
+      "variants": [
+        [
+          "Please",
+          "Just",
+          "Can",
+          "Will"
+        ],
+        [
+          "come",
+          "go",
+          "get",
+          "run"
+        ],
+        [
+          "back",
+          "here",
+          "out",
+          "in"
+        ],
+        [
+          "home",
+          "soon",
+          "now",
+          "quick"
+        ],
+        [
+          "before",
+          "after",
+          "when",
+          "until"
+        ],
+        [
+          "it",
+          "they",
+          "you",
+          "one"
+        ],
+        [
+          "gets",
+          "goes",
+          "is",
+          "turns"
+        ],
+        [
+          "dark",
+          "late",
+          "cold",
+          "bad"
+        ]
+      ],
+      "mistakeTags": [
+        "phrasal_verbs",
+        "verb_particle"
+      ],
+      "audioPath": "assets/audio/grammar/upper_07_phrasal_verbs/010.mp3"
+    },
+    {
+      "id": "t7_12",
+      "type": "sentenceAssembly",
+      "question": "Нам следует продолжить идти этим путём",
+      "correctAnswer": "We should go on walking this way",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "She",
+          "He",
+          "It"
+        ],
+        [
+          "should",
+          "may",
+          "shall",
+          "must"
+        ],
+        [
+          "go",
+          "keep",
+          "get",
+          "move"
+        ],
+        [
+          "on",
+          "about",
+          "through",
+          "into"
+        ],
+        [
+          "walking",
+          "running",
+          "moving",
+          "going"
+        ],
+        [
+          "this",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "way",
+          "road",
+          "path",
+          "route"
+        ]
+      ],
+      "mistakeTags": [
+        "phrasal_verbs",
+        "verb_particle"
+      ],
+      "audioPath": "assets/audio/grammar/upper_07_phrasal_verbs/011.mp3"
+    },
+    {
+      "id": "t7_13",
+      "type": "sentenceAssembly",
+      "question": "Вам нужно заполнить заявку на грант сейчас",
+      "correctAnswer": "You need to fill in this application",
+      "options": [],
+      "variants": [
+        [
+          "You",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "need",
+          "have",
+          "want",
+          "must"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "fill",
+          "write",
+          "sign",
+          "read"
+        ],
+        [
+          "in",
+          "for",
+          "at",
+          "on"
+        ],
+        [
+          "this",
+          "a",
+          "an",
+          "the"
+        ],
+        [
+          "application",
+          "proposal",
+          "document",
+          "request"
+        ]
+      ],
+      "mistakeTags": [
+        "phrasal_verbs",
+        "verb_particle"
+      ],
+      "audioPath": "assets/audio/grammar/upper_07_phrasal_verbs/012.mp3"
+    },
+    {
+      "id": "t7_14",
+      "type": "sentenceAssembly",
+      "question": "Старая машина сломалась по дороге домой",
+      "correctAnswer": "The old car broke down on Monday",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "Some",
+          "Every"
+        ],
+        [
+          "old",
+          "new",
+          "big",
+          "red"
+        ],
+        [
+          "car",
+          "bus",
+          "truck",
+          "van"
+        ],
+        [
+          "broke",
+          "break",
+          "stops",
+          "shut"
+        ],
+        [
+          "down",
+          "up",
+          "off",
+          "out"
+        ],
+        [
+          "on",
+          "with",
+          "from",
+          "by"
+        ],
+        [
+          "Monday",
+          "Tuesday",
+          "Friday",
+          "Sunday"
+        ]
+      ],
+      "mistakeTags": [
+        "phrasal_verbs",
+        "verb_particle"
+      ],
+      "audioPath": "assets/audio/grammar/upper_07_phrasal_verbs/013.mp3"
+    },
+    {
+      "id": "t7_15",
+      "type": "sentenceAssembly",
+      "question": "Я всегда просыпаюсь рано каждое утро",
+      "correctAnswer": "I always wake up early every morning",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "She",
+          "He",
+          "It"
+        ],
+        [
+          "always",
+          "never",
+          "often",
+          "usually"
+        ],
+        [
+          "wake",
+          "woke",
+          "get",
+          "stand"
+        ],
+        [
+          "up",
+          "down",
+          "on",
+          "in"
+        ],
+        [
+          "early",
+          "late",
+          "fast",
+          "soon"
+        ],
+        [
+          "every",
+          "each",
+          "this",
+          "that"
+        ],
+        [
+          "morning",
+          "evening",
+          "night",
+          "day"
+        ]
+      ],
+      "mistakeTags": [
+        "phrasal_verbs",
+        "verb_particle"
+      ],
+      "audioPath": "assets/audio/grammar/upper_07_phrasal_verbs/014.mp3"
+    },
+    {
+      "id": "t7_16",
+      "type": "sentenceAssembly",
+      "question": "Ты можешь примерить эту куртку здесь",
+      "correctAnswer": "You can try this jacket on here",
+      "options": [],
+      "variants": [
+        [
+          "You",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "can",
+          "will",
+          "did",
+          "could"
+        ],
+        [
+          "try",
+          "put",
+          "take",
+          "wear"
+        ],
+        [
+          "this",
+          "a",
+          "an",
+          "that"
+        ],
+        [
+          "jacket",
+          "coat",
+          "shirt",
+          "dress"
+        ],
+        [
+          "on",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "here",
+          "there",
+          "now",
+          "today"
+        ]
+      ],
+      "mistakeTags": [
+        "phrasal_verbs",
+        "verb_particle"
+      ],
+      "audioPath": "assets/audio/grammar/upper_07_phrasal_verbs/015.mp3"
+    },
+    {
+      "id": "t7_17",
+      "type": "sentenceAssembly",
+      "question": "Пожалуйста, выключи музыку прямо сейчас",
+      "correctAnswer": "Please turn off the music right now",
+      "options": [],
+      "variants": [
+        [
+          "Please",
+          "Can",
+          "Could",
+          "Will"
+        ],
+        [
+          "turn",
+          "switch",
+          "shut",
+          "cut"
+        ],
+        [
+          "off",
+          "on",
+          "down",
+          "out"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "music",
+          "radio",
+          "sound",
+          "song"
+        ],
+        [
+          "right",
+          "just",
+          "very",
+          "so"
+        ],
+        [
+          "now",
+          "here",
+          "soon",
+          "away"
+        ]
+      ],
+      "mistakeTags": [
+        "phrasal_verbs",
+        "verb_particle"
+      ],
+      "audioPath": "assets/audio/grammar/upper_07_phrasal_verbs/016.mp3"
+    },
+    {
+      "id": "t7_18",
+      "type": "sentenceAssembly",
+      "question": "Ты всегда должен остерегаться опасности вокруг",
+      "correctAnswer": "You should always watch out for danger",
+      "options": [],
+      "variants": [
+        [
+          "You",
+          "She",
+          "He",
+          "It"
+        ],
+        [
+          "should",
+          "may",
+          "shall",
+          "must"
+        ],
+        [
+          "always",
+          "never",
+          "often",
+          "usually"
+        ],
+        [
+          "watch",
+          "look",
+          "check",
+          "see"
+        ],
+        [
+          "out",
+          "up",
+          "in",
+          "on"
+        ],
+        [
+          "for",
+          "about",
+          "through",
+          "into"
+        ],
+        [
+          "danger",
+          "trouble",
+          "cars",
+          "risks"
+        ]
+      ],
+      "mistakeTags": [
+        "phrasal_verbs",
+        "verb_particle"
+      ],
+      "audioPath": "assets/audio/grammar/upper_07_phrasal_verbs/017.mp3"
+    },
+    {
+      "id": "t7_19",
+      "type": "sentenceAssembly",
+      "question": "Пожалуйста, садись и подожди меня здесь",
+      "correctAnswer": "Please sit down and wait for me",
+      "options": [],
+      "variants": [
+        [
+          "Please",
+          "Just",
+          "Can",
+          "Now"
+        ],
+        [
+          "sit",
+          "stand",
+          "lay",
+          "get"
+        ],
+        [
+          "down",
+          "up",
+          "in",
+          "here"
+        ],
+        [
+          "and",
+          "or",
+          "then",
+          "but"
+        ],
+        [
+          "wait",
+          "stay",
+          "look",
+          "ask"
+        ],
+        [
+          "for",
+          "at",
+          "in",
+          "to"
+        ],
+        [
+          "me",
+          "us",
+          "him",
+          "her"
+        ]
+      ],
+      "mistakeTags": [
+        "phrasal_verbs",
+        "verb_particle"
+      ],
+      "audioPath": "assets/audio/grammar/upper_07_phrasal_verbs/018.mp3"
+    },
+    {
+      "id": "t7_20",
+      "type": "sentenceAssembly",
+      "question": "Все, пожалуйста, встаньте ради учителя",
+      "correctAnswer": "Everyone please stand up for the teacher",
+      "options": [],
+      "variants": [
+        [
+          "Everyone",
+          "Somebody",
+          "Nobody",
+          "Anybody"
+        ],
+        [
+          "please",
+          "must",
+          "should",
+          "can"
+        ],
+        [
+          "stand",
+          "get",
+          "sit",
+          "rise"
+        ],
+        [
+          "up",
+          "down",
+          "on",
+          "out"
+        ],
+        [
+          "for",
+          "with",
+          "from",
+          "by"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "teacher",
+          "doctor",
+          "judge",
+          "guest"
+        ]
+      ],
+      "mistakeTags": [
+        "phrasal_verbs",
+        "verb_particle"
+      ],
+      "audioPath": "assets/audio/grammar/upper_07_phrasal_verbs/019.mp3"
+    },
+    {
+      "id": "t7_21",
+      "type": "sentenceAssembly",
+      "question": "У нас закончилось свежее молоко сегодня",
+      "correctAnswer": "We have run out of fresh milk",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "She",
+          "He",
+          "It"
+        ],
+        [
+          "have",
+          "had",
+          "has",
+          "are"
+        ],
+        [
+          "run",
+          "ran",
+          "gone",
+          "got"
+        ],
+        [
+          "out",
+          "off",
+          "away",
+          "up"
+        ],
+        [
+          "of",
+          "about",
+          "through",
+          "into"
+        ],
+        [
+          "fresh",
+          "cold",
+          "warm",
+          "good"
+        ],
+        [
+          "milk",
+          "water",
+          "juice",
+          "bread"
+        ]
+      ],
+      "mistakeTags": [
+        "phrasal_verbs",
+        "verb_particle"
+      ],
+      "audioPath": "assets/audio/grammar/upper_07_phrasal_verbs/020.mp3"
+    },
+    {
+      "id": "t7_22",
+      "type": "sentenceAssembly",
+      "question": "Можешь, пожалуйста, сделать звук погромче",
+      "correctAnswer": "Can you please turn the volume up",
+      "options": [],
+      "variants": [
+        [
+          "Can",
+          "Will",
+          "Did",
+          "Could"
+        ],
+        [
+          "you",
+          "he",
+          "she",
+          "we"
+        ],
+        [
+          "please",
+          "just",
+          "now",
+          "quickly"
+        ],
+        [
+          "turn",
+          "switch",
+          "make",
+          "put"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "volume",
+          "sound",
+          "music",
+          "radio"
+        ],
+        [
+          "up",
+          "down",
+          "on",
+          "off"
+        ]
+      ],
+      "mistakeTags": [
+        "phrasal_verbs",
+        "verb_particle"
+      ],
+      "audioPath": "assets/audio/grammar/upper_07_phrasal_verbs/021.mp3"
+    },
+    {
+      "id": "t7_23",
+      "type": "sentenceAssembly",
+      "question": "Моя бабушка вырастила меня с любовью",
+      "correctAnswer": "My grandmother brought me up with love",
+      "options": [],
+      "variants": [
+        [
+          "My",
+          "His",
+          "Her",
+          "Our"
+        ],
+        [
+          "grandmother",
+          "grandfather",
+          "mother",
+          "father"
+        ],
+        [
+          "brought",
+          "raised",
+          "grew",
+          "took"
+        ],
+        [
+          "me",
+          "him",
+          "her",
+          "us"
+        ],
+        [
+          "up",
+          "down",
+          "in",
+          "out"
+        ],
+        [
+          "with",
+          "from",
+          "by",
+          "and"
+        ],
+        [
+          "love",
+          "care",
+          "joy",
+          "pride"
+        ]
+      ],
+      "mistakeTags": [
+        "phrasal_verbs",
+        "verb_particle"
+      ],
+      "audioPath": "assets/audio/grammar/upper_07_phrasal_verbs/022.mp3"
+    },
+    {
+      "id": "t7_24",
+      "type": "sentenceAssembly",
+      "question": "Тебе нужно успокоиться прямо сейчас",
+      "correctAnswer": "You need to calm down right now",
+      "options": [],
+      "variants": [
+        [
+          "You",
+          "She",
+          "He",
+          "It"
+        ],
+        [
+          "need",
+          "have",
+          "want",
+          "must"
+        ],
+        [
+          "to",
+          "about",
+          "through",
+          "into"
+        ],
+        [
+          "calm",
+          "cool",
+          "quiet",
+          "slow"
+        ],
+        [
+          "down",
+          "up",
+          "off",
+          "out"
+        ],
+        [
+          "right",
+          "just",
+          "very",
+          "so"
+        ],
+        [
+          "now",
+          "here",
+          "soon",
+          "today"
+        ]
+      ],
+      "mistakeTags": [
+        "phrasal_verbs",
+        "verb_particle"
+      ],
+      "audioPath": "assets/audio/grammar/upper_07_phrasal_verbs/023.mp3"
+    },
+    {
+      "id": "t7_25",
+      "type": "sentenceAssembly",
+      "question": "Пожалуйста, входите и присаживайтесь",
+      "correctAnswer": "Please come in and take a seat",
+      "options": [],
+      "variants": [
+        [
+          "Please",
+          "Just",
+          "Now",
+          "Can"
+        ],
+        [
+          "come",
+          "go",
+          "walk",
+          "get"
+        ],
+        [
+          "in",
+          "for",
+          "at",
+          "on"
+        ],
+        [
+          "and",
+          "or",
+          "then",
+          "but"
+        ],
+        [
+          "take",
+          "have",
+          "get",
+          "find"
+        ],
+        [
+          "a",
+          "an",
+          "this",
+          "the"
+        ],
+        [
+          "seat",
+          "chair",
+          "place",
+          "sit"
+        ]
+      ],
+      "mistakeTags": [
+        "phrasal_verbs",
+        "verb_particle"
+      ],
+      "audioPath": "assets/audio/grammar/upper_07_phrasal_verbs/024.mp3"
+    },
+    {
+      "id": "t7_26",
+      "type": "sentenceAssembly",
+      "question": "Мы решили отложить запуск проекта до утверждения",
+      "correctAnswer": "We decided to put off the launch",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "You",
+          "One"
+        ],
+        [
+          "decided",
+          "wanted",
+          "needed",
+          "tried"
+        ],
+        [
+          "to",
+          "with",
+          "from",
+          "by"
+        ],
+        [
+          "put",
+          "set",
+          "call",
+          "lay"
+        ],
+        [
+          "off",
+          "on",
+          "out",
+          "up"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "launch",
+          "release",
+          "deployment",
+          "rollout"
+        ]
+      ],
+      "mistakeTags": [
+        "phrasal_verbs",
+        "verb_particle"
+      ],
+      "audioPath": "assets/audio/grammar/upper_07_phrasal_verbs/025.mp3"
+    },
+    {
+      "id": "t7_27",
+      "type": "sentenceAssembly",
+      "question": "Тебе нужно разобраться с этой проблемой",
+      "correctAnswer": "You need to deal with this problem",
+      "options": [],
+      "variants": [
+        [
+          "You",
+          "She",
+          "He",
+          "It"
+        ],
+        [
+          "need",
+          "have",
+          "want",
+          "must"
+        ],
+        [
+          "to",
+          "about",
+          "through",
+          "into"
+        ],
+        [
+          "deal",
+          "cope",
+          "work",
+          "help"
+        ],
+        [
+          "with",
+          "about",
+          "through",
+          "into"
+        ],
+        [
+          "this",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "problem",
+          "issue",
+          "matter",
+          "task"
+        ]
+      ],
+      "mistakeTags": [
+        "phrasal_verbs",
+        "verb_particle"
+      ],
+      "audioPath": "assets/audio/grammar/upper_07_phrasal_verbs/026.mp3"
+    },
+    {
+      "id": "t7_28",
+      "type": "sentenceAssembly",
+      "question": "Я с нетерпением жду результатов исследования",
+      "correctAnswer": "I really look forward to the results",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "really",
+          "always",
+          "truly",
+          "just"
+        ],
+        [
+          "look",
+          "see",
+          "wait",
+          "watch"
+        ],
+        [
+          "forward",
+          "ahead",
+          "front",
+          "up"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "results",
+          "findings",
+          "outcomes",
+          "data"
+        ]
+      ],
+      "mistakeTags": [
+        "phrasal_verbs",
+        "verb_particle"
+      ],
+      "audioPath": "assets/audio/grammar/upper_07_phrasal_verbs/027.mp3"
+    },
+    {
+      "id": "t7_29",
+      "type": "sentenceAssembly",
+      "question": "Пожалуйста, аккуратно запиши этот номер телефона",
+      "correctAnswer": "Please write this phone number down carefully",
+      "options": [],
+      "variants": [
+        [
+          "Please",
+          "Just",
+          "Can",
+          "Now"
+        ],
+        [
+          "write",
+          "note",
+          "put",
+          "take"
+        ],
+        [
+          "this",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "phone",
+          "house",
+          "old",
+          "new"
+        ],
+        [
+          "number",
+          "address",
+          "name",
+          "code"
+        ],
+        [
+          "down",
+          "up",
+          "in",
+          "out"
+        ],
+        [
+          "carefully",
+          "quickly",
+          "slowly",
+          "neatly"
+        ]
+      ],
+      "mistakeTags": [
+        "phrasal_verbs",
+        "verb_particle"
+      ],
+      "audioPath": "assets/audio/grammar/upper_07_phrasal_verbs/028.mp3"
+    },
+    {
+      "id": "t7_30",
+      "type": "sentenceAssembly",
+      "question": "Тебе следует выбросить все старые бумаги",
+      "correctAnswer": "You should throw away all the old papers",
+      "options": [],
+      "variants": [
+        [
+          "You",
+          "She",
+          "He",
+          "It"
+        ],
+        [
+          "should",
+          "may",
+          "shall",
+          "must"
+        ],
+        [
+          "throw",
+          "give",
+          "put",
+          "take"
+        ],
+        [
+          "away",
+          "out",
+          "off",
+          "back"
+        ],
+        [
+          "all",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "old",
+          "new",
+          "bad",
+          "used"
+        ],
+        [
+          "papers",
+          "books",
+          "boxes",
+          "clothes"
+        ]
+      ],
+      "mistakeTags": [
+        "phrasal_verbs",
+        "verb_particle"
+      ],
+      "audioPath": "assets/audio/grammar/upper_07_phrasal_verbs/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionUpper07PhrasalVerbs",
+  "theoryQuiz": [
+    {
+      "id": "tq_01",
+      "type": "multipleChoice",
+      "question": "Что такое phrasal verb (фразовый глагол)?",
+      "options": [
+        "Глагол в прошедшем времени",
+        "Глагол + предлог/наречие с новым значением",
+        "Два глагола подряд",
+        "Глагол + существительное"
+      ],
+      "correctIndex": 1,
+      "explanation": "Phrasal verb = глагол + предлог/наречие, которые вместе дают новое значение: give up = сдаваться."
+    },
+    {
+      "id": "tq_02",
+      "type": "trueFalse",
+      "question": "'Give up' означает 'сдаваться, бросать'.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Верно. Give up = сдаваться, прекращать попытки. Don't give up! = Не сдавайся!"
+    },
+    {
+      "id": "tq_03",
+      "type": "multipleChoice",
+      "question": "Что означает 'look up' в контексте информации?",
+      "options": [
+        "Смотреть вверх",
+        "Искать (в словаре/интернете)",
+        "Ухаживать",
+        "Уважать"
+      ],
+      "correctIndex": 1,
+      "explanation": "Look up = искать информацию. Look up a word in the dictionary."
+    },
+    {
+      "id": "tq_04",
+      "type": "trueFalse",
+      "question": "'Put off' означает 'откладывать'.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Верно. Put off = откладывать. Don't put off your homework."
+    },
+    {
+      "id": "tq_05",
+      "type": "multipleChoice",
+      "question": "Какой фразовый глагол означает 'узнать, выяснить'?",
+      "options": [
+        "turn on",
+        "find out",
+        "take off",
+        "give up"
+      ],
+      "correctIndex": 1,
+      "explanation": "Find out = узнать, выяснить. I need to find out the truth."
+    },
+    {
+      "id": "tq_06",
+      "type": "multipleChoice",
+      "question": "Что значит 'разделяемый' фразовый глагол?",
+      "options": [
+        "Его можно использовать в двух временах",
+        "Между глаголом и частицей можно поставить местоимение/существительное",
+        "Он имеет два значения",
+        "Его можно разделить на два предложения"
+      ],
+      "correctIndex": 1,
+      "explanation": "Разделяемый: Turn on the light = Turn the light on = Turn it on. Объект может стоять между частями."
+    },
+    {
+      "id": "tq_07",
+      "type": "trueFalse",
+      "question": "'Look after him' можно сказать как 'Look him after'.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "Неверно. Look after — неразделяемый фразовый глагол. Только: look after him, НЕ look him after."
+    },
+    {
+      "id": "tq_08",
+      "type": "multipleChoice",
+      "question": "Что означает 'take off'?",
+      "options": [
+        "Надевать",
+        "Включать",
+        "Снимать (одежду) / взлетать",
+        "Откладывать"
+      ],
+      "correctIndex": 2,
+      "explanation": "Take off = снимать одежду (Take off your coat) или взлетать (The plane took off)."
+    },
+    {
+      "id": "tq_09",
+      "type": "trueFalse",
+      "question": "С местоимениями (it, them) разделяемые фразовые глаголы ОБЯЗАТЕЛЬНО разделяются: 'turn it on', а не 'turn on it'.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Верно. С местоимениями объект всегда ставится между частями: Turn it on (не Turn on it)."
+    },
+    {
+      "id": "tq_10",
+      "type": "multipleChoice",
+      "question": "Какой фразовый глагол является антонимом 'turn on'?",
+      "options": [
+        "turn up",
+        "turn down",
+        "turn off",
+        "turn over"
+      ],
+      "correctIndex": 2,
+      "explanation": "Turn on = включать, turn off = выключать. Они являются антонимами."
+    }
+  ]
+}

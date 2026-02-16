@@ -1,0 +1,1565 @@
+{
+  "id": "pre_14_present_continuous",
+  "title": "Present Continuous",
+  "description": "Continuous — это ваша видеокамера в прямом эфире. Вы не просто говорите о факте, вы показываете процесс в самом разгаре.",
+  "order": 14,
+  "level": "pre_intermediate",
+  "imageUrl": "assets/images/lessons/present_continuous.png",
+  "vocabulary": [
+    {
+      "id": "v14_read",
+      "english": "read",
+      "russian": "читать",
+      "partOfSpeech": "verb",
+      "example": "I am reading a book.",
+      "exampleTranslation": "Я читаю книгу.",
+      "audioPath": "assets/audio/vocabulary/v14_read.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_read.mp3"
+    },
+    {
+      "id": "v14_sleep",
+      "english": "sleep",
+      "russian": "спать",
+      "partOfSpeech": "verb",
+      "example": "She is sleeping.",
+      "exampleTranslation": "Она спит.",
+      "audioPath": "assets/audio/vocabulary/v14_sleep.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_sleep.mp3"
+    },
+    {
+      "id": "v14_play",
+      "english": "play",
+      "russian": "играть",
+      "partOfSpeech": "verb",
+      "example": "They are playing football.",
+      "exampleTranslation": "Они играют в футбол.",
+      "audioPath": "assets/audio/vocabulary/v14_play.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_play.mp3"
+    },
+    {
+      "id": "v14_listen",
+      "english": "listen",
+      "russian": "слушать",
+      "partOfSpeech": "verb",
+      "example": "Are you listening to me?",
+      "exampleTranslation": "Ты слушаешь меня?",
+      "audioPath": "assets/audio/vocabulary/v14_listen.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_listen.mp3"
+    },
+    {
+      "id": "v14_work",
+      "english": "work",
+      "russian": "работать",
+      "partOfSpeech": "verb",
+      "example": "He is not working today.",
+      "exampleTranslation": "Он не работает сегодня.",
+      "audioPath": "assets/audio/vocabulary/v14_work.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_work.mp3"
+    },
+    {
+      "id": "v14_today",
+      "english": "today",
+      "russian": "сегодня",
+      "partOfSpeech": "adverb",
+      "example": "He isn't working today.",
+      "exampleTranslation": "Он не работает сегодня.",
+      "audioPath": "assets/audio/vocabulary/v14_today.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_today.mp3"
+    },
+    {
+      "id": "v14_do",
+      "english": "do",
+      "russian": "делать",
+      "partOfSpeech": "verb",
+      "example": "What are you doing?",
+      "exampleTranslation": "Что ты делаешь?",
+      "audioPath": "assets/audio/vocabulary/v14_do.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_do.mp3"
+    },
+    {
+      "id": "v14_rain",
+      "english": "rain",
+      "russian": "идти (о дожде)",
+      "partOfSpeech": "verb",
+      "example": "It is raining.",
+      "exampleTranslation": "Идет дождь.",
+      "audioPath": "assets/audio/vocabulary/v14_rain.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_rain.mp3"
+    },
+    {
+      "id": "v14_wait",
+      "english": "wait",
+      "russian": "ждать",
+      "partOfSpeech": "verb",
+      "example": "I am waiting for the bus.",
+      "exampleTranslation": "Я жду автобус.",
+      "audioPath": "assets/audio/vocabulary/v14_wait.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_wait.mp3"
+    },
+    {
+      "id": "v14_bus",
+      "english": "bus",
+      "russian": "автобус",
+      "partOfSpeech": "noun",
+      "example": "I am waiting for the bus.",
+      "exampleTranslation": "Я жду автобус.",
+      "audioPath": "assets/audio/vocabulary/v14_bus.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_bus.mp3"
+    },
+    {
+      "id": "v14_talk",
+      "english": "talk",
+      "russian": "разговаривать",
+      "partOfSpeech": "verb",
+      "example": "She is talking on the phone.",
+      "exampleTranslation": "Она говорит по телефону.",
+      "audioPath": "assets/audio/vocabulary/v14_talk.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_talk.mp3"
+    },
+    {
+      "id": "v14_laugh",
+      "english": "laugh",
+      "russian": "смеяться",
+      "partOfSpeech": "verb",
+      "example": "Why are you laughing?",
+      "exampleTranslation": "Почему ты смеешься?",
+      "audioPath": "assets/audio/vocabulary/v14_laugh.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_laugh.mp3"
+    },
+    {
+      "id": "v14_shine",
+      "english": "shine",
+      "russian": "светить",
+      "partOfSpeech": "verb",
+      "example": "The sun is shining.",
+      "exampleTranslation": "Солнце светит.",
+      "audioPath": "assets/audio/vocabulary/v14_shine.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_shine.mp3"
+    },
+    {
+      "id": "v14_sun",
+      "english": "sun",
+      "russian": "солнце",
+      "partOfSpeech": "noun",
+      "example": "The sun is shining.",
+      "exampleTranslation": "Солнце светит.",
+      "audioPath": "assets/audio/vocabulary/v14_sun.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_sun.mp3"
+    },
+    {
+      "id": "v14_write",
+      "english": "write",
+      "russian": "писать",
+      "partOfSpeech": "verb",
+      "example": "I am writing a letter.",
+      "exampleTranslation": "Я пишу письмо.",
+      "audioPath": "assets/audio/vocabulary/v14_write.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_write.mp3"
+    },
+    {
+      "id": "v14_take",
+      "english": "take",
+      "russian": "брать (принимать)",
+      "partOfSpeech": "verb",
+      "example": "He is taking a shower.",
+      "exampleTranslation": "Он принимает душ.",
+      "audioPath": "assets/audio/vocabulary/v14_take.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_take.mp3"
+    },
+    {
+      "id": "v14_shower",
+      "english": "shower",
+      "russian": "душ",
+      "partOfSpeech": "noun",
+      "example": "He is taking a shower.",
+      "exampleTranslation": "Он принимает душ.",
+      "audioPath": "assets/audio/vocabulary/v14_shower.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_shower.mp3"
+    },
+    {
+      "id": "v14_drive",
+      "english": "drive",
+      "russian": "водить (машину)",
+      "partOfSpeech": "verb",
+      "example": "Who is driving?",
+      "exampleTranslation": "Кто ведет машину?",
+      "audioPath": "assets/audio/vocabulary/v14_drive.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_drive.mp3"
+    },
+    {
+      "id": "v14_sit",
+      "english": "sit",
+      "russian": "сидеть",
+      "partOfSpeech": "verb",
+      "example": "We are sitting in the park.",
+      "exampleTranslation": "Мы сидим в парке.",
+      "audioPath": "assets/audio/vocabulary/v14_sit.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_sit.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "Continuous Tenses",
+    "subtitle": "Представьте, что Simple — это фото (щелчок — и готово), а Continuous — это видео. Мы смотрим на действие в процессе его выполнения. Вы находитесь ВНУТРИ момента.",
+    "construction": {
+      "formula": "Be (am/is/are/was/will be) + V-ing",
+      "rules": [
+        {
+          "word": "Ing-хвост",
+          "description": "Окончание -ing превращает действие в процесс. Run (бегать) → Running (бегущий сейчас)."
+        },
+        {
+          "word": "Глагол Be",
+          "description": "Это батарейка, которая запускает процесс. Без am/is/are/was/were слово с -ing не работает как действие."
+        },
+        {
+          "word": "Present Continuous",
+          "description": "I am working (Прямо сейчас). Камера снимает live-репортаж."
+        },
+        {
+          "word": "Past Continuous",
+          "description": "I was working (В тот момент). Мы перематываем видео назад и смотрим, чем вы были заняты."
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "visibility",
+        "color": "orange",
+        "title": "Прямой эфир (Live)",
+        "description": "Действие, которое происходит в ту секунду, когда вы об этом говорите. (Look! It is raining).",
+        "example": {
+          "english": "I am eating lunch right now.",
+          "russian": "Я сейчас обедаю."
+        }
+      },
+      {
+        "icon": "schedule",
+        "color": "purple",
+        "title": "Фон в прошлом",
+        "description": "Длительное действие в прошлом, которое служило фоном. (Я спал, когда ты позвонил).",
+        "example": {
+          "english": "I was sleeping when the phone rang.",
+          "russian": "Я спал, когда зазвонил телефон."
+        }
+      },
+      {
+        "icon": "bolt",
+        "color": "blue",
+        "title": "Временная ситуация",
+        "description": "Это происходит в текущий период жизни, а не вообще всегда. (Я живу в отеле, пока делаю ремонт).",
+        "example": {
+          "english": "I'm living in Paris this month.",
+          "russian": "Я живу в Париже в этом месяце (временно)."
+        }
+      }
+    ],
+    "markers": [
+      "now",
+      "right now",
+      "at the moment",
+      "Look!",
+      "Listen!",
+      "while",
+      "this week",
+      "today"
+    ]
+  },
+  "tasks": [
+    {
+      "id": "t14_1",
+      "type": "sentenceAssembly",
+      "question": "Я читаю книгу (сейчас)",
+      "correctAnswer": "I am reading a book",
+      "mistakeTags": [
+        "present_continuous",
+        "present_continuous_positive"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "My",
+          "Am"
+        ],
+        [
+          "am",
+          "is",
+          "are",
+          "be"
+        ],
+        [
+          "reading",
+          "read",
+          "reads",
+          "reader"
+        ],
+        [
+          "a",
+          "the",
+          "an",
+          "one"
+        ],
+        [
+          "book",
+          "text",
+          "paper",
+          "novel"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_14_present_continuous/000.mp3"
+    },
+    {
+      "id": "t14_2",
+      "type": "sentenceAssembly",
+      "question": "Она спит",
+      "correctAnswer": "She is sleeping",
+      "mistakeTags": [
+        "present_continuous",
+        "present_continuous_positive"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "Her",
+          "Hers",
+          "He"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "sleeping",
+          "sleep",
+          "sleeps",
+          "slept"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_14_present_continuous/001.mp3"
+    },
+    {
+      "id": "t14_3",
+      "type": "sentenceAssembly",
+      "question": "Они играют в футбол",
+      "correctAnswer": "They are playing football",
+      "mistakeTags": [
+        "present_continuous",
+        "present_continuous_positive"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "Them",
+          "Their",
+          "We"
+        ],
+        [
+          "are",
+          "is",
+          "am",
+          "be"
+        ],
+        [
+          "playing",
+          "play",
+          "played",
+          "plays"
+        ],
+        [
+          "football",
+          "ball",
+          "sport",
+          "game"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_14_present_continuous/002.mp3"
+    },
+    {
+      "id": "t14_4",
+      "type": "sentenceAssembly",
+      "question": "Ты меня слушаешь?",
+      "correctAnswer": "Are you listening to me?",
+      "mistakeTags": [
+        "present_continuous",
+        "present_continuous_question"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "Are",
+          "Is",
+          "Do",
+          "Did"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "she"
+        ],
+        [
+          "listening",
+          "listen",
+          "listens",
+          "heard"
+        ],
+        [
+          "to",
+          "at",
+          "in",
+          "for"
+        ],
+        [
+          "me",
+          "I",
+          "my",
+          "mine"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_14_present_continuous/003.mp3"
+    },
+    {
+      "id": "t14_5",
+      "type": "sentenceAssembly",
+      "question": "Он не работает сегодня",
+      "correctAnswer": "He is not working today",
+      "mistakeTags": [
+        "present_continuous",
+        "present_continuous_negative"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "Him",
+          "His",
+          "She"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "not",
+          "no",
+          "don't",
+          "doesn't"
+        ],
+        [
+          "working",
+          "work",
+          "works",
+          "worker"
+        ],
+        [
+          "today",
+          "now",
+          "tomorrow",
+          "day"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_14_present_continuous/004.mp3"
+    },
+    {
+      "id": "t14_6",
+      "type": "sentenceAssembly",
+      "question": "Что ты делаешь?",
+      "correctAnswer": "What are you doing?",
+      "mistakeTags": [
+        "present_continuous",
+        "present_continuous_question"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "What",
+          "Where",
+          "When",
+          "Why"
+        ],
+        [
+          "are",
+          "is",
+          "do",
+          "did"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "she"
+        ],
+        [
+          "doing",
+          "do",
+          "make",
+          "making"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_14_present_continuous/005.mp3"
+    },
+    {
+      "id": "t14_7",
+      "type": "sentenceAssembly",
+      "question": "Посмотри! Идет дождь",
+      "correctAnswer": "Look It is raining",
+      "mistakeTags": [
+        "present_continuous",
+        "present_continuous_positive"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "Look",
+          "See",
+          "Watch",
+          "Listen"
+        ],
+        [
+          "It",
+          "This",
+          "That",
+          "There"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "has"
+        ],
+        [
+          "raining",
+          "rain",
+          "rains",
+          "water"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_14_present_continuous/006.mp3"
+    },
+    {
+      "id": "t14_8",
+      "type": "sentenceAssembly",
+      "question": "Я сейчас жду",
+      "correctAnswer": "I am waiting now",
+      "mistakeTags": [
+        "present_continuous",
+        "present_continuous_positive"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "am",
+          "is",
+          "are",
+          "was"
+        ],
+        [
+          "waiting",
+          "running",
+          "reading",
+          "sitting"
+        ],
+        [
+          "now",
+          "here",
+          "there",
+          "still"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_14_present_continuous/007.mp3"
+    },
+    {
+      "id": "t14_9",
+      "type": "sentenceAssembly",
+      "question": "Мы обедаем (сейчас)",
+      "correctAnswer": "We are having lunch",
+      "mistakeTags": [
+        "present_continuous",
+        "present_continuous_positive"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "Us",
+          "Our",
+          "They"
+        ],
+        [
+          "are",
+          "is",
+          "am",
+          "have"
+        ],
+        [
+          "having",
+          "have",
+          "has",
+          "eating"
+        ],
+        [
+          "lunch",
+          "dinner",
+          "breakfast",
+          "meal"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_14_present_continuous/008.mp3"
+    },
+    {
+      "id": "t14_10",
+      "type": "sentenceAssembly",
+      "question": "Она сейчас разговаривает",
+      "correctAnswer": "She is talking now",
+      "mistakeTags": [
+        "present_continuous",
+        "present_continuous_positive"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "They"
+        ],
+        [
+          "is",
+          "am",
+          "are",
+          "was"
+        ],
+        [
+          "talking",
+          "walking",
+          "reading",
+          "singing"
+        ],
+        [
+          "now",
+          "here",
+          "there",
+          "loudly"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_14_present_continuous/009.mp3"
+    },
+    {
+      "id": "t14_11",
+      "type": "sentenceAssembly",
+      "question": "Куда вы идете?",
+      "correctAnswer": "Where are you going?",
+      "mistakeTags": [
+        "present_continuous",
+        "present_continuous_question"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "Where",
+          "What",
+          "When",
+          "Why"
+        ],
+        [
+          "are",
+          "is",
+          "do",
+          "did"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "we"
+        ],
+        [
+          "going",
+          "go",
+          "went",
+          "come"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_14_present_continuous/010.mp3"
+    },
+    {
+      "id": "t14_12",
+      "type": "sentenceAssembly",
+      "question": "Он усердно работает",
+      "correctAnswer": "He is working hard",
+      "mistakeTags": [
+        "present_continuous",
+        "present_continuous_positive"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "I",
+          "They"
+        ],
+        [
+          "is",
+          "am",
+          "are",
+          "was"
+        ],
+        [
+          "working",
+          "running",
+          "reading",
+          "playing"
+        ],
+        [
+          "hard",
+          "now",
+          "here",
+          "fast"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_14_present_continuous/011.mp3"
+    },
+    {
+      "id": "t14_13",
+      "type": "sentenceAssembly",
+      "question": "Они не слушают учителя",
+      "correctAnswer": "They are not listening to the teacher",
+      "mistakeTags": [
+        "present_continuous",
+        "present_continuous_negative"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "We",
+          "He",
+          "She"
+        ],
+        [
+          "are",
+          "is",
+          "was",
+          "were"
+        ],
+        [
+          "not",
+          "no",
+          "don't",
+          "doesn't"
+        ],
+        [
+          "listening",
+          "listen",
+          "listened",
+          "listens"
+        ],
+        [
+          "to",
+          "at",
+          "on",
+          "in"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "teacher",
+          "doctor",
+          "driver",
+          "student"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_14_present_continuous/012.mp3"
+    },
+    {
+      "id": "t14_14",
+      "type": "sentenceAssembly",
+      "question": "Почему ты смеешься?",
+      "correctAnswer": "Why are you laughing?",
+      "mistakeTags": [
+        "present_continuous",
+        "present_continuous_question"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "Why",
+          "What",
+          "Where",
+          "When"
+        ],
+        [
+          "are",
+          "is",
+          "do",
+          "did"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "she"
+        ],
+        [
+          "laughing",
+          "laugh",
+          "smile",
+          "funny"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_14_present_continuous/013.mp3"
+    },
+    {
+      "id": "t14_15",
+      "type": "sentenceAssembly",
+      "question": "Солнце светит",
+      "correctAnswer": "The sun is shining",
+      "mistakeTags": [
+        "present_continuous",
+        "present_continuous_positive"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "This",
+          "That"
+        ],
+        [
+          "sun",
+          "son",
+          "moon",
+          "star"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "has"
+        ],
+        [
+          "shining",
+          "shine",
+          "light",
+          "bright"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_14_present_continuous/014.mp3"
+    },
+    {
+      "id": "t14_16",
+      "type": "sentenceAssembly",
+      "question": "Я пишу письмо",
+      "correctAnswer": "I am writing a letter",
+      "mistakeTags": [
+        "present_continuous",
+        "present_continuous_positive"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "My",
+          "Am"
+        ],
+        [
+          "am",
+          "is",
+          "are",
+          "be"
+        ],
+        [
+          "writing",
+          "write",
+          "wrote",
+          "texting"
+        ],
+        [
+          "a",
+          "the",
+          "an",
+          "one"
+        ],
+        [
+          "letter",
+          "text",
+          "mail",
+          "paper"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_14_present_continuous/015.mp3"
+    },
+    {
+      "id": "t14_17",
+      "type": "sentenceAssembly",
+      "question": "Он принимает душ",
+      "correctAnswer": "He is taking a shower",
+      "mistakeTags": [
+        "present_continuous",
+        "present_continuous_positive"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "Him",
+          "His",
+          "She"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "taking",
+          "take",
+          "having",
+          "doing"
+        ],
+        [
+          "a",
+          "the",
+          "an",
+          "one"
+        ],
+        [
+          "shower",
+          "bath",
+          "wash",
+          "water"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_14_present_continuous/016.mp3"
+    },
+    {
+      "id": "t14_18",
+      "type": "sentenceAssembly",
+      "question": "Она одевается",
+      "correctAnswer": "She is getting dressed",
+      "mistakeTags": [
+        "present_continuous",
+        "present_continuous_positive"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "Her",
+          "He",
+          "Hers"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "getting",
+          "get",
+          "got",
+          "becoming"
+        ],
+        [
+          "dressed",
+          "dress",
+          "clothes",
+          "wear"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_14_present_continuous/017.mp3"
+    },
+    {
+      "id": "t14_19",
+      "type": "sentenceAssembly",
+      "question": "Кто ведет машину?",
+      "correctAnswer": "Who is driving the car?",
+      "mistakeTags": [
+        "present_continuous",
+        "present_continuous_question"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "Who",
+          "What",
+          "Where",
+          "When"
+        ],
+        [
+          "is",
+          "are",
+          "does",
+          "do"
+        ],
+        [
+          "driving",
+          "drive",
+          "drives",
+          "driver"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "car",
+          "bus",
+          "auto",
+          "road"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_14_present_continuous/018.mp3"
+    },
+    {
+      "id": "t14_20",
+      "type": "sentenceAssembly",
+      "question": "Мы сидим здесь",
+      "correctAnswer": "We are sitting here",
+      "mistakeTags": [
+        "present_continuous",
+        "present_continuous_positive"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "I",
+          "You"
+        ],
+        [
+          "are",
+          "am",
+          "is",
+          "were"
+        ],
+        [
+          "sitting",
+          "standing",
+          "running",
+          "walking"
+        ],
+        [
+          "here",
+          "there",
+          "now",
+          "still"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_14_present_continuous/019.mp3"
+    },
+    {
+      "id": "t14_21",
+      "type": "sentenceAssembly",
+      "question": "Ты шутишь?",
+      "correctAnswer": "Are you joking?",
+      "mistakeTags": [
+        "present_continuous",
+        "present_continuous_question"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "Are",
+          "Is",
+          "Do",
+          "Did"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "she"
+        ],
+        [
+          "joking",
+          "joke",
+          "funny",
+          "laugh"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_14_present_continuous/020.mp3"
+    },
+    {
+      "id": "t14_22",
+      "type": "sentenceAssembly",
+      "question": "Он смотрит телевизор",
+      "correctAnswer": "He is watching TV",
+      "mistakeTags": [
+        "present_continuous",
+        "present_continuous_positive"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "Him",
+          "His",
+          "She"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "watching",
+          "watch",
+          "look",
+          "see"
+        ],
+        [
+          "TV",
+          "television",
+          "video",
+          "film"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_14_present_continuous/021.mp3"
+    },
+    {
+      "id": "t14_23",
+      "type": "sentenceAssembly",
+      "question": "Я пытаюсь помочь",
+      "correctAnswer": "I am trying to help",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "My",
+          "Am"
+        ],
+        [
+          "am",
+          "is",
+          "are",
+          "be"
+        ],
+        [
+          "trying",
+          "try",
+          "tried",
+          "doing"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "help",
+          "helping",
+          "helped",
+          "me"
+        ]
+      ],
+      "mistakeTags": [
+        "present_continuous",
+        "present_continuous_positive"
+      ],
+      "audioPath": "assets/audio/grammar/pre_14_present_continuous/022.mp3"
+    },
+    {
+      "id": "t14_24",
+      "type": "sentenceAssembly",
+      "question": "Они готовят ужин",
+      "correctAnswer": "They are cooking dinner",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "Them",
+          "Their",
+          "We"
+        ],
+        [
+          "are",
+          "is",
+          "am",
+          "be"
+        ],
+        [
+          "cooking",
+          "cook",
+          "make",
+          "making"
+        ],
+        [
+          "dinner",
+          "food",
+          "lunch",
+          "meal"
+        ]
+      ],
+      "mistakeTags": [
+        "present_continuous",
+        "present_continuous_positive"
+      ],
+      "audioPath": "assets/audio/grammar/pre_14_present_continuous/023.mp3"
+    },
+    {
+      "id": "t14_25",
+      "type": "sentenceAssembly",
+      "question": "Она плачет",
+      "correctAnswer": "She is crying",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "Her",
+          "Hers",
+          "He"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "crying",
+          "cry",
+          "cries",
+          "sad"
+        ]
+      ],
+      "mistakeTags": [
+        "present_continuous",
+        "present_continuous_positive"
+      ],
+      "audioPath": "assets/audio/grammar/pre_14_present_continuous/024.mp3"
+    },
+    {
+      "id": "t14_26",
+      "type": "sentenceAssembly",
+      "question": "Ветер дует",
+      "correctAnswer": "The wind is blowing",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "This",
+          "That"
+        ],
+        [
+          "wind",
+          "air",
+          "weather",
+          "storm"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "has"
+        ],
+        [
+          "blowing",
+          "blow",
+          "move",
+          "flying"
+        ]
+      ],
+      "mistakeTags": [
+        "present_continuous",
+        "present_continuous_positive"
+      ],
+      "audioPath": "assets/audio/grammar/pre_14_present_continuous/025.mp3"
+    },
+    {
+      "id": "t14_27",
+      "type": "sentenceAssembly",
+      "question": "Я не слушаю",
+      "correctAnswer": "I am not listening",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "am",
+          "is",
+          "are",
+          "was"
+        ],
+        [
+          "not",
+          "still",
+          "just",
+          "also"
+        ],
+        [
+          "listening",
+          "reading",
+          "watching",
+          "playing"
+        ]
+      ],
+      "mistakeTags": [
+        "present_continuous",
+        "present_continuous_negative"
+      ],
+      "audioPath": "assets/audio/grammar/pre_14_present_continuous/026.mp3"
+    },
+    {
+      "id": "t14_28",
+      "type": "sentenceAssembly",
+      "question": "Что происходит?",
+      "correctAnswer": "What is happening?",
+      "options": [],
+      "variants": [
+        [
+          "What",
+          "Where",
+          "When",
+          "Why"
+        ],
+        [
+          "is",
+          "are",
+          "do",
+          "does"
+        ],
+        [
+          "happening",
+          "happen",
+          "going on",
+          "doing"
+        ]
+      ],
+      "mistakeTags": [
+        "present_continuous",
+        "present_continuous_question"
+      ],
+      "audioPath": "assets/audio/grammar/pre_14_present_continuous/027.mp3"
+    },
+    {
+      "id": "t14_29",
+      "type": "sentenceAssembly",
+      "question": "Я просто смотрю (в магазине)",
+      "correctAnswer": "I am just looking",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "My",
+          "Am"
+        ],
+        [
+          "am",
+          "is",
+          "are",
+          "be"
+        ],
+        [
+          "just",
+          "only",
+          "now",
+          "here"
+        ],
+        [
+          "looking",
+          "look",
+          "watching",
+          "see"
+        ]
+      ],
+      "mistakeTags": [
+        "present_continuous",
+        "present_continuous_positive"
+      ],
+      "audioPath": "assets/audio/grammar/pre_14_present_continuous/028.mp3"
+    },
+    {
+      "id": "t14_30",
+      "type": "sentenceAssembly",
+      "question": "Мы уходим (сейчас)",
+      "correctAnswer": "We are leaving",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "Us",
+          "Our",
+          "They"
+        ],
+        [
+          "are",
+          "is",
+          "am",
+          "be"
+        ],
+        [
+          "leaving",
+          "leave",
+          "go",
+          "going"
+        ]
+      ],
+      "mistakeTags": [
+        "present_continuous",
+        "present_continuous_positive"
+      ],
+      "audioPath": "assets/audio/grammar/pre_14_present_continuous/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionBeginner14PresentContinuous",
+  "theoryQuiz": [
+    {
+      "id": "tq_01",
+      "type": "trueFalse",
+      "question": "Present Continuous описывает действие, которое происходит прямо сейчас.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Present Continuous используется для действий, происходящих в момент речи."
+    },
+    {
+      "id": "tq_02",
+      "type": "multipleChoice",
+      "question": "Какая формула Present Continuous?",
+      "options": [
+        "Subject + V1 + -s",
+        "Subject + am/is/are + V-ing",
+        "Subject + do/does + V1",
+        "Subject + will + V1"
+      ],
+      "correctIndex": 1,
+      "explanation": "Present Continuous: am/is/are + глагол с окончанием -ing."
+    },
+    {
+      "id": "tq_03",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"She ___ a book right now.\"",
+      "options": [
+        "reads",
+        "is reading",
+        "read",
+        "are reading"
+      ],
+      "correctIndex": 1,
+      "explanation": "She + is + reading. Right now — маркер Present Continuous."
+    },
+    {
+      "id": "tq_04",
+      "type": "trueFalse",
+      "question": "\"I is working now.\" — предложение составлено правильно.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "С I используется am: I am working now."
+    },
+    {
+      "id": "tq_05",
+      "type": "multipleChoice",
+      "question": "Какое слово-маркер указывает на Present Continuous?",
+      "options": [
+        "every day",
+        "usually",
+        "now",
+        "always"
+      ],
+      "correctIndex": 2,
+      "explanation": "Now, right now, at the moment — маркеры Present Continuous."
+    },
+    {
+      "id": "tq_06",
+      "type": "trueFalse",
+      "question": "\"They are playing football at the moment.\" — предложение составлено правильно.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "They + are + playing + at the moment — верная конструкция Present Continuous."
+    },
+    {
+      "id": "tq_07",
+      "type": "multipleChoice",
+      "question": "Как образуется отрицание в Present Continuous?",
+      "options": [
+        "Subject + don't + V-ing",
+        "Subject + am/is/are + not + V-ing",
+        "Subject + not + V-ing",
+        "Subject + doesn't + V-ing"
+      ],
+      "correctIndex": 1,
+      "explanation": "Отрицание: am/is/are + not + V-ing: She is not sleeping."
+    },
+    {
+      "id": "tq_08",
+      "type": "multipleChoice",
+      "question": "Выберите правильное предложение:",
+      "options": [
+        "He are watching TV.",
+        "We is eating lunch.",
+        "I am listening to music.",
+        "She am cooking dinner."
+      ],
+      "correctIndex": 2,
+      "explanation": "I + am + listening — верная комбинация. He is, We are, She is — в остальных ошибки."
+    },
+    {
+      "id": "tq_09",
+      "type": "trueFalse",
+      "question": "\"At the moment\" — это маркер Present Continuous.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "At the moment указывает на действие в настоящий момент — маркер Present Continuous."
+    },
+    {
+      "id": "tq_10",
+      "type": "multipleChoice",
+      "question": "Как правильно перевести: «Он не спит сейчас»?",
+      "options": [
+        "He don't sleep now.",
+        "He doesn't sleeping now.",
+        "He isn't sleeping now.",
+        "He not is sleeping now."
+      ],
+      "correctIndex": 2,
+      "explanation": "He + isn't (is not) + sleeping — отрицание в Present Continuous."
+    }
+  ]
+}

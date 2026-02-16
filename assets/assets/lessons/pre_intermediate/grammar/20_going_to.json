@@ -1,0 +1,1673 @@
+{
+  "id": "pre_20_going_to",
+  "title": "Going To: Future Plans",
+  "description": "Конструкция going to для планов: I'm going to travel. Как говорить о будущих намерениях.",
+  "order": 13,
+  "level": "pre_intermediate",
+  "imageUrl": "assets/images/lessons/going_to.png",
+  "vocabulary": [
+    {
+      "id": "v13_going",
+      "english": "going to",
+      "russian": "собираться (делать)",
+      "partOfSpeech": "phrase",
+      "example": "I am going to study.",
+      "exampleTranslation": "Я собираюсь учиться.",
+      "audioPath": "assets/audio/vocabulary/v13_going.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_going.mp3"
+    },
+    {
+      "id": "v13_travel",
+      "english": "travel",
+      "russian": "путешествовать",
+      "partOfSpeech": "verb",
+      "example": "We are going to travel.",
+      "exampleTranslation": "Мы собираемся путешествовать.",
+      "audioPath": "assets/audio/vocabulary/v13_travel.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_travel.mp3"
+    },
+    {
+      "id": "v13_study",
+      "english": "study",
+      "russian": "учиться, изучать",
+      "partOfSpeech": "verb",
+      "example": "She is going to study.",
+      "exampleTranslation": "Она собирается учиться.",
+      "audioPath": "assets/audio/vocabulary/v13_study.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_study.mp3"
+    },
+    {
+      "id": "v13_cook",
+      "english": "cook",
+      "russian": "готовить",
+      "partOfSpeech": "verb",
+      "example": "I am going to cook.",
+      "exampleTranslation": "Я собираюсь готовить.",
+      "audioPath": "assets/audio/vocabulary/v13_cook.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_cook.mp3"
+    },
+    {
+      "id": "v13_buy",
+      "english": "buy",
+      "russian": "покупать",
+      "partOfSpeech": "verb",
+      "example": "He is going to buy food.",
+      "exampleTranslation": "Он собирается купить еду.",
+      "audioPath": "assets/audio/vocabulary/v13_buy.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_buy.mp3"
+    },
+    {
+      "id": "v13_move",
+      "english": "move",
+      "russian": "переезжать",
+      "partOfSpeech": "verb",
+      "example": "They are going to move.",
+      "exampleTranslation": "Они собираются переехать.",
+      "audioPath": "assets/audio/vocabulary/v13_move.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_move.mp3"
+    },
+    {
+      "id": "v13_visit",
+      "english": "visit",
+      "russian": "навещать, посещать",
+      "partOfSpeech": "verb",
+      "example": "We are going to visit.",
+      "exampleTranslation": "Мы собираемся навестить.",
+      "audioPath": "assets/audio/vocabulary/v13_visit.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_visit.mp3"
+    },
+    {
+      "id": "v13_learn",
+      "english": "learn",
+      "russian": "учить, изучать",
+      "partOfSpeech": "verb",
+      "example": "I am going to learn English.",
+      "exampleTranslation": "Я собираюсь учить английский.",
+      "audioPath": "assets/audio/vocabulary/v13_learn.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_learn.mp3"
+    },
+    {
+      "id": "v13_start",
+      "english": "start",
+      "russian": "начинать",
+      "partOfSpeech": "verb",
+      "example": "She is going to start.",
+      "exampleTranslation": "Она собирается начать.",
+      "audioPath": "assets/audio/vocabulary/v13_start.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_start.mp3"
+    },
+    {
+      "id": "v13_tomorrow",
+      "english": "tomorrow",
+      "russian": "завтра",
+      "partOfSpeech": "adverb",
+      "example": "I am going to cook tomorrow.",
+      "exampleTranslation": "Я собираюсь готовить завтра.",
+      "audioPath": "assets/audio/vocabulary/v13_tomorrow.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_tomorrow.mp3"
+    },
+    {
+      "id": "v13_next",
+      "english": "next",
+      "russian": "следующий",
+      "partOfSpeech": "adjective",
+      "example": "We are going to travel next week.",
+      "exampleTranslation": "Мы собираемся путешествовать на следующей неделе.",
+      "audioPath": "assets/audio/vocabulary/v13_next.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_next.mp3"
+    },
+    {
+      "id": "v13_soon",
+      "english": "soon",
+      "russian": "скоро",
+      "partOfSpeech": "adverb",
+      "example": "He is going to leave soon.",
+      "exampleTranslation": "Он собирается скоро уехать.",
+      "audioPath": "assets/audio/vocabulary/v13_soon.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_soon.mp3"
+    },
+    {
+      "id": "v13_leave",
+      "english": "leave",
+      "russian": "уходить, уезжать",
+      "partOfSpeech": "verb",
+      "example": "They are going to leave.",
+      "exampleTranslation": "Они собираются уехать.",
+      "audioPath": "assets/audio/vocabulary/v13_leave.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_leave.mp3"
+    },
+    {
+      "id": "v13_change",
+      "english": "change",
+      "russian": "менять, изменять",
+      "partOfSpeech": "verb",
+      "example": "I am going to change jobs.",
+      "exampleTranslation": "Я собираюсь сменить работу.",
+      "audioPath": "assets/audio/vocabulary/v13_change.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_change.mp3"
+    },
+    {
+      "id": "v13_call",
+      "english": "call",
+      "russian": "звонить",
+      "partOfSpeech": "verb",
+      "example": "She is going to call you.",
+      "exampleTranslation": "Она собирается тебе позвонить.",
+      "audioPath": "assets/audio/vocabulary/v13_call.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_call.mp3"
+    },
+    {
+      "id": "v13_help",
+      "english": "help",
+      "russian": "помогать",
+      "partOfSpeech": "verb",
+      "example": "I am going to help.",
+      "exampleTranslation": "Я собираюсь помочь.",
+      "audioPath": "assets/audio/vocabulary/v13_help.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_help.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "Going To: Future Plans",
+    "subtitle": "Когда вы уже решили, что собираетесь делать. Going to — для планов и намерений на будущее.",
+    "construction": {
+      "formula": "S + am/is/are + going to + V1",
+      "rules": [
+        {
+          "word": "I am",
+          "description": "I am going to travel. (Я собираюсь путешествовать.)"
+        },
+        {
+          "word": "He / She / It is",
+          "description": "She is going to study. (Она собирается учиться.)"
+        },
+        {
+          "word": "You / We / They are",
+          "description": "We are going to move. (Мы собираемся переехать.)"
+        },
+        {
+          "word": "Отрицание (No)",
+          "description": "I am not going to cook. She is not going to leave."
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "schedule",
+        "color": "blue",
+        "title": "Планы на будущее",
+        "description": "Говорим о том, что уже решили сделать.",
+        "example": {
+          "english": "I am going to travel.",
+          "russian": "Я собираюсь путешествовать."
+        }
+      },
+      {
+        "icon": "star",
+        "color": "purple",
+        "title": "Намерения",
+        "description": "Выражаем намерение что-то сделать.",
+        "example": {
+          "english": "She is going to learn English.",
+          "russian": "Она собирается учить английский."
+        }
+      },
+      {
+        "icon": "visibility",
+        "color": "orange",
+        "title": "Очевидное будущее",
+        "description": "Когда видно, что что-то вот-вот произойдёт.",
+        "example": {
+          "english": "It is going to rain.",
+          "russian": "Сейчас пойдёт дождь."
+        }
+      }
+    ],
+    "markers": [
+      "tomorrow",
+      "next week",
+      "next month",
+      "soon",
+      "tonight",
+      "this weekend"
+    ]
+  },
+  "tasks": [
+    {
+      "id": "t13_1",
+      "type": "sentenceAssembly",
+      "question": "Я собираюсь готовить",
+      "correctAnswer": "I am going to cook",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "We",
+          "Me"
+        ],
+        [
+          "am",
+          "is",
+          "are",
+          "was"
+        ],
+        [
+          "going",
+          "go",
+          "gone",
+          "goes"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "cook",
+          "cooks",
+          "cooking",
+          "cooked"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_20_going_to/000.mp3"
+    },
+    {
+      "id": "t13_2",
+      "type": "sentenceAssembly",
+      "question": "Она собирается учиться",
+      "correctAnswer": "She is going to study",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "They",
+          "Her"
+        ],
+        [
+          "is",
+          "am",
+          "are",
+          "was"
+        ],
+        [
+          "going",
+          "go",
+          "gone",
+          "goes"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "study",
+          "studies",
+          "studying",
+          "studied"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_20_going_to/001.mp3"
+    },
+    {
+      "id": "t13_3",
+      "type": "sentenceAssembly",
+      "question": "Мы собираемся путешествовать",
+      "correctAnswer": "We are going to travel",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "I",
+          "Us"
+        ],
+        [
+          "are",
+          "am",
+          "is",
+          "was"
+        ],
+        [
+          "going",
+          "go",
+          "gone",
+          "goes"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "travel",
+          "travels",
+          "traveling",
+          "traveled"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_20_going_to/002.mp3"
+    },
+    {
+      "id": "t13_4",
+      "type": "sentenceAssembly",
+      "question": "Он собирается купить еду",
+      "correctAnswer": "He is going to buy food",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "They",
+          "Him"
+        ],
+        [
+          "is",
+          "am",
+          "are",
+          "was"
+        ],
+        [
+          "going",
+          "go",
+          "gone",
+          "goes"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "buy",
+          "buys",
+          "buying",
+          "bought"
+        ],
+        [
+          "food",
+          "water",
+          "milk",
+          "bread"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_20_going_to/003.mp3"
+    },
+    {
+      "id": "t13_5",
+      "type": "sentenceAssembly",
+      "question": "Они собираются переехать",
+      "correctAnswer": "They are going to move",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "We",
+          "He",
+          "Them"
+        ],
+        [
+          "are",
+          "am",
+          "is",
+          "was"
+        ],
+        [
+          "going",
+          "go",
+          "gone",
+          "goes"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "move",
+          "moves",
+          "moving",
+          "moved"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_20_going_to/004.mp3"
+    },
+    {
+      "id": "t13_6",
+      "type": "sentenceAssembly",
+      "question": "Я собираюсь помочь",
+      "correctAnswer": "I am going to help",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "We",
+          "Me"
+        ],
+        [
+          "am",
+          "is",
+          "are",
+          "was"
+        ],
+        [
+          "going",
+          "go",
+          "gone",
+          "goes"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "help",
+          "helps",
+          "helping",
+          "helped"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_20_going_to/005.mp3"
+    },
+    {
+      "id": "t13_7",
+      "type": "sentenceAssembly",
+      "question": "Она собирается позвонить",
+      "correctAnswer": "She is going to call",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "They",
+          "Her"
+        ],
+        [
+          "is",
+          "am",
+          "are",
+          "was"
+        ],
+        [
+          "going",
+          "go",
+          "gone",
+          "goes"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "call",
+          "calls",
+          "calling",
+          "called"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_20_going_to/006.mp3"
+    },
+    {
+      "id": "t13_8",
+      "type": "sentenceAssembly",
+      "question": "Мы собираемся навестить",
+      "correctAnswer": "We are going to visit",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "I",
+          "Us"
+        ],
+        [
+          "are",
+          "am",
+          "is",
+          "was"
+        ],
+        [
+          "going",
+          "go",
+          "gone",
+          "goes"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "visit",
+          "visits",
+          "visiting",
+          "visited"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_20_going_to/007.mp3"
+    },
+    {
+      "id": "t13_9",
+      "type": "sentenceAssembly",
+      "question": "Он собирается уехать",
+      "correctAnswer": "He is going to leave",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "They",
+          "Him"
+        ],
+        [
+          "is",
+          "am",
+          "are",
+          "was"
+        ],
+        [
+          "going",
+          "go",
+          "gone",
+          "goes"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "leave",
+          "leaves",
+          "leaving",
+          "left"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_20_going_to/008.mp3"
+    },
+    {
+      "id": "t13_10",
+      "type": "sentenceAssembly",
+      "question": "Я собираюсь начать",
+      "correctAnswer": "I am going to start",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "We",
+          "Me"
+        ],
+        [
+          "am",
+          "is",
+          "are",
+          "was"
+        ],
+        [
+          "going",
+          "go",
+          "gone",
+          "goes"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "start",
+          "starts",
+          "starting",
+          "started"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_20_going_to/009.mp3"
+    },
+    {
+      "id": "t13_11",
+      "type": "sentenceAssembly",
+      "question": "Я собираюсь готовить завтра",
+      "correctAnswer": "I am going to cook tomorrow",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "We",
+          "Me"
+        ],
+        [
+          "am",
+          "is",
+          "are",
+          "was"
+        ],
+        [
+          "going",
+          "go",
+          "gone",
+          "goes"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "cook",
+          "cooks",
+          "cooking",
+          "cooked"
+        ],
+        [
+          "tomorrow",
+          "today",
+          "yesterday",
+          "soon"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_20_going_to/010.mp3"
+    },
+    {
+      "id": "t13_12",
+      "type": "sentenceAssembly",
+      "question": "Она собирается учить английский",
+      "correctAnswer": "She is going to learn English",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "They",
+          "Her"
+        ],
+        [
+          "is",
+          "am",
+          "are",
+          "was"
+        ],
+        [
+          "going",
+          "go",
+          "gone",
+          "goes"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "learn",
+          "learns",
+          "learning",
+          "learned"
+        ],
+        [
+          "English",
+          "French",
+          "Spanish",
+          "Russian"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_20_going_to/011.mp3"
+    },
+    {
+      "id": "t13_13",
+      "type": "sentenceAssembly",
+      "question": "Он собирается уехать скоро",
+      "correctAnswer": "He is going to leave soon",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "They",
+          "Him"
+        ],
+        [
+          "is",
+          "am",
+          "are",
+          "was"
+        ],
+        [
+          "going",
+          "go",
+          "gone",
+          "goes"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "leave",
+          "leaves",
+          "leaving",
+          "left"
+        ],
+        [
+          "soon",
+          "tomorrow",
+          "today",
+          "now"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_20_going_to/012.mp3"
+    },
+    {
+      "id": "t13_14",
+      "type": "sentenceAssembly",
+      "question": "Мы собираемся купить дом",
+      "correctAnswer": "We are going to buy a house",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "I",
+          "Us"
+        ],
+        [
+          "are",
+          "am",
+          "is",
+          "was"
+        ],
+        [
+          "going",
+          "go",
+          "gone",
+          "goes"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "buy",
+          "buys",
+          "buying",
+          "bought"
+        ],
+        [
+          "a",
+          "the",
+          "my",
+          "this"
+        ],
+        [
+          "house",
+          "car",
+          "book",
+          "flat"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_20_going_to/013.mp3"
+    },
+    {
+      "id": "t13_15",
+      "type": "sentenceAssembly",
+      "question": "Они собираются начать завтра",
+      "correctAnswer": "They are going to start tomorrow",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "We",
+          "He",
+          "Them"
+        ],
+        [
+          "are",
+          "am",
+          "is",
+          "was"
+        ],
+        [
+          "going",
+          "go",
+          "gone",
+          "goes"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "start",
+          "starts",
+          "starting",
+          "started"
+        ],
+        [
+          "tomorrow",
+          "today",
+          "yesterday",
+          "soon"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_20_going_to/014.mp3"
+    },
+    {
+      "id": "t13_16",
+      "type": "sentenceAssembly",
+      "question": "Я собираюсь сменить работу",
+      "correctAnswer": "I am going to change jobs",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "We",
+          "Me"
+        ],
+        [
+          "am",
+          "is",
+          "are",
+          "was"
+        ],
+        [
+          "going",
+          "go",
+          "gone",
+          "goes"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "change",
+          "changes",
+          "changing",
+          "changed"
+        ],
+        [
+          "jobs",
+          "work",
+          "plans",
+          "houses"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_20_going_to/015.mp3"
+    },
+    {
+      "id": "t13_17",
+      "type": "sentenceAssembly",
+      "question": "Она собирается позвонить тебе",
+      "correctAnswer": "She is going to call you",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "They",
+          "Her"
+        ],
+        [
+          "is",
+          "am",
+          "are",
+          "was"
+        ],
+        [
+          "going",
+          "go",
+          "gone",
+          "goes"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "call",
+          "calls",
+          "calling",
+          "called"
+        ],
+        [
+          "you",
+          "him",
+          "her",
+          "them"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_20_going_to/016.mp3"
+    },
+    {
+      "id": "t13_18",
+      "type": "sentenceAssembly",
+      "question": "Мы собираемся навестить друзей",
+      "correctAnswer": "We are going to visit friends",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "I",
+          "Us"
+        ],
+        [
+          "are",
+          "am",
+          "is",
+          "was"
+        ],
+        [
+          "going",
+          "go",
+          "gone",
+          "goes"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "visit",
+          "visits",
+          "visiting",
+          "visited"
+        ],
+        [
+          "friends",
+          "family",
+          "parents",
+          "school"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_20_going_to/017.mp3"
+    },
+    {
+      "id": "t13_19",
+      "type": "sentenceAssembly",
+      "question": "Он собирается купить молоко",
+      "correctAnswer": "He is going to buy milk",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "They",
+          "Him"
+        ],
+        [
+          "is",
+          "am",
+          "are",
+          "was"
+        ],
+        [
+          "going",
+          "go",
+          "gone",
+          "goes"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "buy",
+          "buys",
+          "buying",
+          "bought"
+        ],
+        [
+          "milk",
+          "water",
+          "bread",
+          "sugar"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_20_going_to/018.mp3"
+    },
+    {
+      "id": "t13_20",
+      "type": "sentenceAssembly",
+      "question": "Они собираемся учиться скоро",
+      "correctAnswer": "They are going to study soon",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "We",
+          "He",
+          "Them"
+        ],
+        [
+          "are",
+          "am",
+          "is",
+          "was"
+        ],
+        [
+          "going",
+          "go",
+          "gone",
+          "goes"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "study",
+          "studies",
+          "studying",
+          "studied"
+        ],
+        [
+          "soon",
+          "tomorrow",
+          "today",
+          "now"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_20_going_to/019.mp3"
+    },
+    {
+      "id": "t13_21",
+      "type": "sentenceAssembly",
+      "question": "Я не собираюсь готовить",
+      "correctAnswer": "I am not going to cook",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "We",
+          "Me"
+        ],
+        [
+          "am",
+          "is",
+          "are",
+          "was"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "none"
+        ],
+        [
+          "going",
+          "go",
+          "gone",
+          "goes"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "cook",
+          "cooks",
+          "cooking",
+          "cooked"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_20_going_to/020.mp3"
+    },
+    {
+      "id": "t13_22",
+      "type": "sentenceAssembly",
+      "question": "Она не собирается уезжать",
+      "correctAnswer": "She is not going to leave",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "They",
+          "Her"
+        ],
+        [
+          "is",
+          "am",
+          "are",
+          "was"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "none"
+        ],
+        [
+          "going",
+          "go",
+          "gone",
+          "goes"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "leave",
+          "leaves",
+          "leaving",
+          "left"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_20_going_to/021.mp3"
+    },
+    {
+      "id": "t13_23",
+      "type": "sentenceAssembly",
+      "question": "Мы не собираемся переезжать",
+      "correctAnswer": "We are not going to move",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "I",
+          "Us"
+        ],
+        [
+          "are",
+          "am",
+          "is",
+          "was"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "none"
+        ],
+        [
+          "going",
+          "go",
+          "gone",
+          "goes"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "move",
+          "moves",
+          "moving",
+          "moved"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_20_going_to/022.mp3"
+    },
+    {
+      "id": "t13_24",
+      "type": "sentenceAssembly",
+      "question": "Ты собираешься путешествовать?",
+      "correctAnswer": "Are you going to travel",
+      "options": [],
+      "variants": [
+        [
+          "Are",
+          "Is",
+          "Am",
+          "Do"
+        ],
+        [
+          "you",
+          "he",
+          "she",
+          "they"
+        ],
+        [
+          "going",
+          "go",
+          "gone",
+          "goes"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "travel",
+          "travels",
+          "traveling",
+          "traveled"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_20_going_to/023.mp3"
+    },
+    {
+      "id": "t13_25",
+      "type": "sentenceAssembly",
+      "question": "Он собирается помочь?",
+      "correctAnswer": "Is he going to help",
+      "options": [],
+      "variants": [
+        [
+          "Is",
+          "Are",
+          "Am",
+          "Do"
+        ],
+        [
+          "he",
+          "she",
+          "they",
+          "you"
+        ],
+        [
+          "going",
+          "go",
+          "gone",
+          "goes"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "help",
+          "helps",
+          "helping",
+          "helped"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_20_going_to/024.mp3"
+    },
+    {
+      "id": "t13_26",
+      "type": "sentenceAssembly",
+      "question": "Они собираются навестить?",
+      "correctAnswer": "Are they going to visit",
+      "options": [],
+      "variants": [
+        [
+          "Are",
+          "Is",
+          "Am",
+          "Do"
+        ],
+        [
+          "they",
+          "he",
+          "she",
+          "you"
+        ],
+        [
+          "going",
+          "go",
+          "gone",
+          "goes"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "visit",
+          "visits",
+          "visiting",
+          "visited"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_20_going_to/025.mp3"
+    },
+    {
+      "id": "t13_27",
+      "type": "sentenceAssembly",
+      "question": "Он не собирается звонить",
+      "correctAnswer": "He is not going to call",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "They",
+          "Him"
+        ],
+        [
+          "is",
+          "am",
+          "are",
+          "was"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "none"
+        ],
+        [
+          "going",
+          "go",
+          "gone",
+          "goes"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "call",
+          "calls",
+          "calling",
+          "called"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_20_going_to/026.mp3"
+    },
+    {
+      "id": "t13_28",
+      "type": "sentenceAssembly",
+      "question": "Она собирается начать?",
+      "correctAnswer": "Is she going to start",
+      "options": [],
+      "variants": [
+        [
+          "Is",
+          "Are",
+          "Am",
+          "Do"
+        ],
+        [
+          "she",
+          "he",
+          "they",
+          "you"
+        ],
+        [
+          "going",
+          "go",
+          "gone",
+          "goes"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "start",
+          "starts",
+          "starting",
+          "started"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_20_going_to/027.mp3"
+    },
+    {
+      "id": "t13_29",
+      "type": "sentenceAssembly",
+      "question": "Я не собираюсь менять планы",
+      "correctAnswer": "I am not going to change plans",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "We",
+          "Me"
+        ],
+        [
+          "am",
+          "is",
+          "are",
+          "was"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "none"
+        ],
+        [
+          "going",
+          "go",
+          "gone",
+          "goes"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "change",
+          "changes",
+          "changing",
+          "changed"
+        ],
+        [
+          "plans",
+          "jobs",
+          "houses",
+          "friends"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_20_going_to/028.mp3"
+    },
+    {
+      "id": "t13_30",
+      "type": "sentenceAssembly",
+      "question": "Мы собираемся учиться?",
+      "correctAnswer": "Are we going to study",
+      "options": [],
+      "variants": [
+        [
+          "Are",
+          "Is",
+          "Am",
+          "Do"
+        ],
+        [
+          "we",
+          "he",
+          "she",
+          "they"
+        ],
+        [
+          "going",
+          "go",
+          "gone",
+          "goes"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "study",
+          "studies",
+          "studying",
+          "studied"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_20_going_to/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionPreIntermediate13GoingTo",
+  "theoryQuiz": [
+    {
+      "id": "tq_13_01",
+      "type": "multipleChoice",
+      "question": "Какая формула конструкции going to?",
+      "options": [
+        "S + will + V",
+        "S + am/is/are + going to + V",
+        "S + do/does + V",
+        "S + have + V"
+      ],
+      "correctIndex": 1,
+      "explanation": "Формула: S + am/is/are + going to + V1: I am going to travel."
+    },
+    {
+      "id": "tq_13_02",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"She ___ going to study.\"",
+      "options": [
+        "am",
+        "is",
+        "are",
+        "was"
+      ],
+      "correctIndex": 1,
+      "explanation": "С she используем is: She is going to study."
+    },
+    {
+      "id": "tq_13_03",
+      "type": "trueFalse",
+      "question": "\"I am going to travels.\" — предложение составлено правильно.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "После going to глагол стоит в базовой форме: I am going to travel (без -s)."
+    },
+    {
+      "id": "tq_13_04",
+      "type": "multipleChoice",
+      "question": "Когда используем going to?",
+      "options": [
+        "Для привычек",
+        "Для фактов",
+        "Для планов и намерений",
+        "Для прошлого"
+      ],
+      "correctIndex": 2,
+      "explanation": "Going to — для планов и намерений на будущее."
+    },
+    {
+      "id": "tq_13_05",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"We ___ going to move.\"",
+      "options": [
+        "am",
+        "is",
+        "are",
+        "was"
+      ],
+      "correctIndex": 2,
+      "explanation": "С we используем are: We are going to move."
+    },
+    {
+      "id": "tq_13_06",
+      "type": "trueFalse",
+      "question": "\"They are going to leave tomorrow.\" — предложение составлено правильно.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "They + are + going to + leave + tomorrow — всё верно."
+    },
+    {
+      "id": "tq_13_07",
+      "type": "multipleChoice",
+      "question": "Как сделать отрицание с going to?",
+      "options": [
+        "S + don't + going to",
+        "S + am/is/are + not + going to",
+        "S + going to + not",
+        "S + not + am/is/are + going to"
+      ],
+      "correctIndex": 1,
+      "explanation": "Отрицание: am/is/are + not + going to: I am not going to cook."
+    },
+    {
+      "id": "tq_13_08",
+      "type": "multipleChoice",
+      "question": "Как сделать вопрос с going to?",
+      "options": [
+        "Do + S + going to + V?",
+        "Am/Is/Are + S + going to + V?",
+        "S + going to + V?",
+        "Going to + S + V?"
+      ],
+      "correctIndex": 1,
+      "explanation": "Вопрос: Am/Is/Are + S + going to + V?: Are you going to travel?"
+    },
+    {
+      "id": "tq_13_09",
+      "type": "trueFalse",
+      "question": "С I мы используем am: \"I am going to help.\"",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "С I всегда am: I am going to help."
+    },
+    {
+      "id": "tq_13_10",
+      "type": "multipleChoice",
+      "question": "Какое слово-маркер часто используется с going to?",
+      "options": [
+        "yesterday",
+        "always",
+        "tomorrow",
+        "usually"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tomorrow — маркер будущего: I am going to cook tomorrow."
+    }
+  ]
+}

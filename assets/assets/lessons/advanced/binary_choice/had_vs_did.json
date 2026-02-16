@@ -1,0 +1,400 @@
+{
+  "id": "advanced_bc_05_inversion",
+  "title": "Had vs Did",
+  "description": "Had или Did? Выбираем правильный вспомогательный глагол в инверсии.",
+  "order": 5,
+  "level": "advanced",
+  "imageUrl": null,
+  "tasks": [
+    {
+      "id": "hvd_1",
+      "question": "___ I known about the delay, I would have left earlier.",
+      "optionA": "HAD",
+      "optionB": "DID",
+      "correctIndex": 0,
+      "explanation": "Had I known = If I had known. Условная инверсия с Past Perfect → результат с would have.",
+      "tags": [
+        "had_vs_did",
+        "had",
+        "conditional_inversion"
+      ]
+    },
+    {
+      "id": "hvd_2",
+      "question": "Never ___ I expect such generosity from a complete stranger.",
+      "optionA": "HAD",
+      "optionB": "DID",
+      "correctIndex": 1,
+      "explanation": "Never did I expect — инверсия с отрицательным наречием в Past Simple. Did + infinitive.",
+      "tags": [
+        "had_vs_did",
+        "did",
+        "negative_adverb"
+      ]
+    },
+    {
+      "id": "hvd_3",
+      "question": "___ she realized the consequences, she would never have agreed.",
+      "optionA": "HAD",
+      "optionB": "DID",
+      "correctIndex": 0,
+      "explanation": "Had she realized = If she had realized. Условная инверсия с Past Perfect.",
+      "tags": [
+        "had_vs_did",
+        "had",
+        "conditional_inversion"
+      ]
+    },
+    {
+      "id": "hvd_4",
+      "question": "Not once ___ he mention the issue during the entire meeting.",
+      "optionA": "HAD",
+      "optionB": "DID",
+      "correctIndex": 1,
+      "explanation": "Not once did he mention — инверсия с отрицательным наречием Not once. Past Simple → did + infinitive.",
+      "tags": [
+        "had_vs_did",
+        "did",
+        "negative_adverb"
+      ]
+    },
+    {
+      "id": "hvd_5",
+      "question": "___ we left five minutes earlier, we would have caught the train.",
+      "optionA": "HAD",
+      "optionB": "DID",
+      "correctIndex": 0,
+      "explanation": "Had we left = If we had left. Условная инверсия, результат с would have.",
+      "tags": [
+        "had_vs_did",
+        "had",
+        "conditional_inversion"
+      ]
+    },
+    {
+      "id": "hvd_6",
+      "question": "Rarely ___ the committee reach a unanimous decision on such matters.",
+      "optionA": "HAD",
+      "optionB": "DID",
+      "correctIndex": 1,
+      "explanation": "Rarely did the committee reach — инверсия с Rarely в Past Simple. Did + infinitive.",
+      "tags": [
+        "had_vs_did",
+        "did",
+        "negative_adverb"
+      ]
+    },
+    {
+      "id": "hvd_7",
+      "question": "___ the CEO stepped down sooner, the company might have survived.",
+      "optionA": "HAD",
+      "optionB": "DID",
+      "correctIndex": 0,
+      "explanation": "Had the CEO stepped down = If the CEO had stepped down. Условная инверсия с Past Perfect.",
+      "tags": [
+        "had_vs_did",
+        "had",
+        "conditional_inversion"
+      ]
+    },
+    {
+      "id": "hvd_8",
+      "question": "Little ___ they know what challenges lay ahead of them.",
+      "optionA": "HAD",
+      "optionB": "DID",
+      "correctIndex": 1,
+      "explanation": "Little did they know — устойчивая инверсия с Little в Past Simple. Did + infinitive.",
+      "tags": [
+        "had_vs_did",
+        "did",
+        "negative_adverb"
+      ]
+    },
+    {
+      "id": "hvd_9",
+      "question": "___ it not been for your help, we would have failed the project.",
+      "optionA": "HAD",
+      "optionB": "DID",
+      "correctIndex": 0,
+      "explanation": "Had it not been for = If it hadn't been for. Условная инверсия: «Если бы не твоя помощь...»",
+      "tags": [
+        "had_vs_did",
+        "had",
+        "conditional_inversion"
+      ]
+    },
+    {
+      "id": "hvd_10",
+      "question": "Not only ___ she apologize, but she also offered to pay for damages.",
+      "optionA": "HAD",
+      "optionB": "DID",
+      "correctIndex": 1,
+      "explanation": "Not only did she apologize — инверсия с Not only в Past Simple. Did + infinitive.",
+      "tags": [
+        "had_vs_did",
+        "did",
+        "negative_adverb"
+      ]
+    },
+    {
+      "id": "hvd_11",
+      "question": "___ the investors been more cautious, the losses would have been minimal.",
+      "optionA": "HAD",
+      "optionB": "DID",
+      "correctIndex": 0,
+      "explanation": "Had the investors been = If the investors had been. Условная инверсия с Past Perfect.",
+      "tags": [
+        "had_vs_did",
+        "had",
+        "conditional_inversion"
+      ]
+    },
+    {
+      "id": "hvd_12",
+      "question": "Seldom ___ we encounter such a complex regulatory problem.",
+      "optionA": "HAD",
+      "optionB": "DID",
+      "correctIndex": 1,
+      "explanation": "Seldom did we encounter — инверсия с Seldom в Past Simple. Did + infinitive.",
+      "tags": [
+        "had_vs_did",
+        "did",
+        "negative_adverb"
+      ]
+    },
+    {
+      "id": "hvd_13",
+      "question": "___ they anticipated the market crash, they could have hedged their positions.",
+      "optionA": "HAD",
+      "optionB": "DID",
+      "correctIndex": 0,
+      "explanation": "Had they anticipated = If they had anticipated. Условная инверсия с could have.",
+      "tags": [
+        "had_vs_did",
+        "had",
+        "conditional_inversion"
+      ]
+    },
+    {
+      "id": "hvd_14",
+      "question": "At no point ___ the defendant show any remorse during the trial.",
+      "optionA": "HAD",
+      "optionB": "DID",
+      "correctIndex": 1,
+      "explanation": "At no point did the defendant show — инверсия с At no point в Past Simple. Did + infinitive.",
+      "tags": [
+        "had_vs_did",
+        "did",
+        "negative_adverb"
+      ]
+    },
+    {
+      "id": "hvd_15",
+      "question": "___ I been in your position, I would have handled things differently.",
+      "optionA": "HAD",
+      "optionB": "DID",
+      "correctIndex": 0,
+      "explanation": "Had I been = If I had been. Условная инверсия: «Будь я на твоём месте...»",
+      "tags": [
+        "had_vs_did",
+        "had",
+        "conditional_inversion"
+      ]
+    },
+    {
+      "id": "hvd_16",
+      "question": "Under no circumstances ___ the manager approve the unauthorized expenses.",
+      "optionA": "HAD",
+      "optionB": "DID",
+      "correctIndex": 1,
+      "explanation": "Under no circumstances did — инверсия с отрицательной фразой в Past Simple. Did + infinitive.",
+      "tags": [
+        "had_vs_did",
+        "did",
+        "negative_adverb"
+      ]
+    },
+    {
+      "id": "hvd_17",
+      "question": "___ the doctor arrived sooner, the patient might have had a better outcome.",
+      "optionA": "HAD",
+      "optionB": "DID",
+      "correctIndex": 0,
+      "explanation": "Had the doctor arrived = If the doctor had arrived. Условная инверсия с might have.",
+      "tags": [
+        "had_vs_did",
+        "had",
+        "conditional_inversion"
+      ]
+    },
+    {
+      "id": "hvd_18",
+      "question": "Hardly ___ anyone notice the subtle change in the company's policy.",
+      "optionA": "HAD",
+      "optionB": "DID",
+      "correctIndex": 1,
+      "explanation": "Hardly did anyone notice — инверсия с Hardly в значении «едва ли кто-то». Past Simple → did.",
+      "tags": [
+        "had_vs_did",
+        "did",
+        "negative_adverb"
+      ]
+    },
+    {
+      "id": "hvd_19",
+      "question": "___ we not intervened at that critical moment, the situation would have escalated.",
+      "optionA": "HAD",
+      "optionB": "DID",
+      "correctIndex": 0,
+      "explanation": "Had we not intervened = If we hadn't intervened. Условная инверсия с отрицанием.",
+      "tags": [
+        "had_vs_did",
+        "had",
+        "conditional_inversion"
+      ]
+    },
+    {
+      "id": "hvd_20",
+      "question": "In no way ___ his comments reflect the official position of the organization.",
+      "optionA": "HAD",
+      "optionB": "DID",
+      "correctIndex": 1,
+      "explanation": "In no way did his comments reflect — инверсия с In no way в Past Simple. Did + infinitive.",
+      "tags": [
+        "had_vs_did",
+        "did",
+        "negative_adverb"
+      ]
+    },
+    {
+      "id": "hvd_21",
+      "question": "___ the committee reviewed the data more thoroughly, the error would have been caught.",
+      "optionA": "HAD",
+      "optionB": "DID",
+      "correctIndex": 0,
+      "explanation": "Had the committee reviewed = If the committee had reviewed. Условная инверсия с Past Perfect.",
+      "tags": [
+        "had_vs_did",
+        "had",
+        "conditional_inversion"
+      ]
+    },
+    {
+      "id": "hvd_22",
+      "question": "Only after the investigation ___ the full extent of the damage become clear.",
+      "optionA": "HAD",
+      "optionB": "DID",
+      "correctIndex": 1,
+      "explanation": "Only after... did — инверсия с Only after в Past Simple. Did + infinitive (become).",
+      "tags": [
+        "had_vs_did",
+        "did",
+        "negative_adverb"
+      ]
+    },
+    {
+      "id": "hvd_23",
+      "question": "___ she been offered a better salary, she would still be with the firm.",
+      "optionA": "HAD",
+      "optionB": "DID",
+      "correctIndex": 0,
+      "explanation": "Had she been offered = If she had been offered. Условная инверсия → результат в настоящем (would still be).",
+      "tags": [
+        "had_vs_did",
+        "had",
+        "conditional_inversion"
+      ]
+    },
+    {
+      "id": "hvd_24",
+      "question": "Not until the results were published ___ the public understand the severity.",
+      "optionA": "HAD",
+      "optionB": "DID",
+      "correctIndex": 1,
+      "explanation": "Not until... did the public understand — инверсия с Not until в Past Simple. Did + infinitive.",
+      "tags": [
+        "had_vs_did",
+        "did",
+        "negative_adverb"
+      ]
+    },
+    {
+      "id": "hvd_25",
+      "question": "___ management acted on the warnings, the crisis could have been averted.",
+      "optionA": "HAD",
+      "optionB": "DID",
+      "correctIndex": 0,
+      "explanation": "Had management acted = If management had acted. Условная инверсия с could have been.",
+      "tags": [
+        "had_vs_did",
+        "had",
+        "conditional_inversion"
+      ]
+    },
+    {
+      "id": "hvd_26",
+      "question": "Nowhere ___ the report mention the environmental impact of the project.",
+      "optionA": "HAD",
+      "optionB": "DID",
+      "correctIndex": 1,
+      "explanation": "Nowhere did the report mention — инверсия с Nowhere в Past Simple. Did + infinitive.",
+      "tags": [
+        "had_vs_did",
+        "did",
+        "negative_adverb"
+      ]
+    },
+    {
+      "id": "hvd_27",
+      "question": "___ the plane not been diverted, the passengers would have arrived on schedule.",
+      "optionA": "HAD",
+      "optionB": "DID",
+      "correctIndex": 0,
+      "explanation": "Had the plane not been diverted = If the plane hadn't been diverted. Пассивная условная инверсия.",
+      "tags": [
+        "had_vs_did",
+        "had",
+        "conditional_inversion"
+      ]
+    },
+    {
+      "id": "hvd_28",
+      "question": "Only when she left ___ he realize how much she had meant to him.",
+      "optionA": "HAD",
+      "optionB": "DID",
+      "correctIndex": 1,
+      "explanation": "Only when... did he realize — инверсия с Only when в Past Simple. Did + infinitive.",
+      "tags": [
+        "had_vs_did",
+        "did",
+        "negative_adverb"
+      ]
+    },
+    {
+      "id": "hvd_29",
+      "question": "___ the evidence been presented earlier, the verdict might have been different.",
+      "optionA": "HAD",
+      "optionB": "DID",
+      "correctIndex": 0,
+      "explanation": "Had the evidence been presented = If the evidence had been presented. Условная инверсия (пассив).",
+      "tags": [
+        "had_vs_did",
+        "had",
+        "conditional_inversion"
+      ]
+    },
+    {
+      "id": "hvd_30",
+      "question": "Never before ___ the country face such a profound constitutional crisis.",
+      "optionA": "HAD",
+      "optionB": "DID",
+      "correctIndex": 1,
+      "explanation": "Never before did the country face — инверсия с Never before в Past Simple. Did + infinitive.",
+      "tags": [
+        "had_vs_did",
+        "did",
+        "negative_adverb"
+      ]
+    }
+  ]
+}

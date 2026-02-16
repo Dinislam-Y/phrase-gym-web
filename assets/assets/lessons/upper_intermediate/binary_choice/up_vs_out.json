@@ -1,0 +1,400 @@
+{
+  "id": "upper_bc_07_phrasal_verbs",
+  "title": "Up vs Out",
+  "description": "Up или Out? Фразовые глаголы с этими частицами — ловушка даже для продвинутых. Разберёмся, когда что ставить.",
+  "order": 7,
+  "level": "upper_intermediate",
+  "imageUrl": null,
+  "tasks": [
+    {
+      "id": "uvo_1",
+      "question": "She gave ___ smoking last year.",
+      "optionA": "UP",
+      "optionB": "OUT",
+      "correctIndex": 0,
+      "explanation": "Give up = бросить, прекратить что-то делать. Give out = раздавать или выходить из строя — к курению не подходит.",
+      "tags": [
+        "up_vs_out",
+        "up",
+        "habits"
+      ]
+    },
+    {
+      "id": "uvo_2",
+      "question": "He finally found ___ the truth.",
+      "optionA": "UP",
+      "optionB": "OUT",
+      "correctIndex": 1,
+      "explanation": "Find out = узнать, обнаружить что-то новое. Find up не существует как фразовый глагол.",
+      "tags": [
+        "up_vs_out",
+        "out",
+        "relationships"
+      ]
+    },
+    {
+      "id": "uvo_3",
+      "question": "She tried to cheer him ___.",
+      "optionA": "UP",
+      "optionB": "OUT",
+      "correctIndex": 0,
+      "explanation": "Cheer up = подбодрить, поднять настроение. Cheer out не используется в английском языке.",
+      "tags": [
+        "up_vs_out",
+        "up",
+        "emotions"
+      ]
+    },
+    {
+      "id": "uvo_4",
+      "question": "It turned ___ he was completely right.",
+      "optionA": "UP",
+      "optionB": "OUT",
+      "correctIndex": 1,
+      "explanation": "Turn out = оказаться, выясниться в итоге. Turn up = появиться или сделать громче — не подходит по смыслу.",
+      "tags": [
+        "up_vs_out",
+        "out",
+        "opinions"
+      ]
+    },
+    {
+      "id": "uvo_5",
+      "question": "Don't bring ___ that sensitive topic again.",
+      "optionA": "UP",
+      "optionB": "OUT",
+      "correctIndex": 0,
+      "explanation": "Bring up = поднять тему, затронуть вопрос. Bring out = выпустить продукт или выявить качество — здесь не подходит.",
+      "tags": [
+        "up_vs_out",
+        "up",
+        "social_life"
+      ]
+    },
+    {
+      "id": "uvo_6",
+      "question": "We need to sort ___ this misunderstanding.",
+      "optionA": "UP",
+      "optionB": "OUT",
+      "correctIndex": 1,
+      "explanation": "Sort out = разобраться, уладить проблему. Sort up не существует как фразовый глагол.",
+      "tags": [
+        "up_vs_out",
+        "out",
+        "relationships"
+      ]
+    },
+    {
+      "id": "uvo_7",
+      "question": "He ended ___ living in another country.",
+      "optionA": "UP",
+      "optionB": "OUT",
+      "correctIndex": 0,
+      "explanation": "End up = в итоге оказаться где-то или в какой-то ситуации. End out не используется в английском.",
+      "tags": [
+        "up_vs_out",
+        "up",
+        "life_choices"
+      ]
+    },
+    {
+      "id": "uvo_8",
+      "question": "She pointed ___ every mistake in his plan.",
+      "optionA": "UP",
+      "optionB": "OUT",
+      "correctIndex": 1,
+      "explanation": "Point out = указать на что-то, обратить внимание. Point up не используется в таком значении.",
+      "tags": [
+        "up_vs_out",
+        "out",
+        "career"
+      ]
+    },
+    {
+      "id": "uvo_9",
+      "question": "He didn't show ___ to the meeting.",
+      "optionA": "UP",
+      "optionB": "OUT",
+      "correctIndex": 0,
+      "explanation": "Show up = появиться, прийти куда-то. Show out не используется в значении «прийти».",
+      "tags": [
+        "up_vs_out",
+        "up",
+        "career"
+      ]
+    },
+    {
+      "id": "uvo_10",
+      "question": "She works ___ at the gym every day.",
+      "optionA": "UP",
+      "optionB": "OUT",
+      "correctIndex": 1,
+      "explanation": "Work out = тренироваться, заниматься спортом. Work up = накрутить себя или разработать — не про спортзал.",
+      "tags": [
+        "up_vs_out",
+        "out",
+        "lifestyle"
+      ]
+    },
+    {
+      "id": "uvo_11",
+      "question": "They set ___ a business together last year.",
+      "optionA": "UP",
+      "optionB": "OUT",
+      "correctIndex": 0,
+      "explanation": "Set up = основать, создать, организовать что-то. Set out = отправиться в путь или изложить план — не про создание бизнеса.",
+      "tags": [
+        "up_vs_out",
+        "up",
+        "career"
+      ]
+    },
+    {
+      "id": "uvo_12",
+      "question": "The team carried ___ the plan successfully.",
+      "optionA": "UP",
+      "optionB": "OUT",
+      "correctIndex": 1,
+      "explanation": "Carry out = выполнить, осуществить задачу. Carry up не является устойчивым фразовым глаголом.",
+      "tags": [
+        "up_vs_out",
+        "out",
+        "career"
+      ]
+    },
+    {
+      "id": "uvo_13",
+      "question": "He made ___ an excuse to leave early.",
+      "optionA": "UP",
+      "optionB": "OUT",
+      "correctIndex": 0,
+      "explanation": "Make up = выдумать, сочинить на ходу. Make out = разобрать или целоваться — не подходит к «excuse».",
+      "tags": [
+        "up_vs_out",
+        "up",
+        "social_life"
+      ]
+    },
+    {
+      "id": "uvo_14",
+      "question": "We're running ___ of patience with this.",
+      "optionA": "UP",
+      "optionB": "OUT",
+      "correctIndex": 1,
+      "explanation": "Run out of = исчерпать запас чего-либо. Run up не сочетается с «of patience».",
+      "tags": [
+        "up_vs_out",
+        "out",
+        "emotions"
+      ]
+    },
+    {
+      "id": "uvo_15",
+      "question": "She picked ___ a new hobby this summer.",
+      "optionA": "UP",
+      "optionB": "OUT",
+      "correctIndex": 0,
+      "explanation": "Pick up = начать заниматься чем-то, освоить новое. Pick out = выбрать из нескольких — не про освоение навыка.",
+      "tags": [
+        "up_vs_out",
+        "up",
+        "personal_growth"
+      ]
+    },
+    {
+      "id": "uvo_16",
+      "question": "His talent helps him stand ___ easily.",
+      "optionA": "UP",
+      "optionB": "OUT",
+      "correctIndex": 1,
+      "explanation": "Stand out = выделяться, быть заметным среди других. Stand up = встать или не прийти на свидание — не то значение.",
+      "tags": [
+        "up_vs_out",
+        "out",
+        "personal_growth"
+      ]
+    },
+    {
+      "id": "uvo_17",
+      "question": "We need to speed ___ the whole process.",
+      "optionA": "UP",
+      "optionB": "OUT",
+      "correctIndex": 0,
+      "explanation": "Speed up = ускорить что-либо. Speed out не существует как фразовый глагол в английском.",
+      "tags": [
+        "up_vs_out",
+        "up",
+        "career"
+      ]
+    },
+    {
+      "id": "uvo_18",
+      "question": "She burned ___ from working too many hours.",
+      "optionA": "UP",
+      "optionB": "OUT",
+      "correctIndex": 1,
+      "explanation": "Burn out = выгореть от перегрузки и стресса. Burn up = сгореть физически, что здесь не подходит.",
+      "tags": [
+        "up_vs_out",
+        "out",
+        "career"
+      ]
+    },
+    {
+      "id": "uvo_19",
+      "question": "He slowly warmed ___ to the new idea.",
+      "optionA": "UP",
+      "optionB": "OUT",
+      "correctIndex": 0,
+      "explanation": "Warm up to = постепенно проникнуться, привыкнуть к чему-то. Warm out не существует как фразовый глагол.",
+      "tags": [
+        "up_vs_out",
+        "up",
+        "personal_growth"
+      ]
+    },
+    {
+      "id": "uvo_20",
+      "question": "We can't rule ___ the worst-case scenario.",
+      "optionA": "UP",
+      "optionB": "OUT",
+      "correctIndex": 1,
+      "explanation": "Rule out = исключить, отбросить вариант. Rule up не является фразовым глаголом.",
+      "tags": [
+        "up_vs_out",
+        "out",
+        "decision_making"
+      ]
+    },
+    {
+      "id": "uvo_21",
+      "question": "She grew ___ in a very small town.",
+      "optionA": "UP",
+      "optionB": "OUT",
+      "correctIndex": 0,
+      "explanation": "Grow up = вырасти, повзрослеть. Grow out = отрасти (о волосах) — не подходит к «in a town».",
+      "tags": [
+        "up_vs_out",
+        "up",
+        "personal_growth"
+      ]
+    },
+    {
+      "id": "uvo_22",
+      "question": "He reached ___ to her after the argument.",
+      "optionA": "UP",
+      "optionB": "OUT",
+      "correctIndex": 1,
+      "explanation": "Reach out = протянуть руку помощи, выйти на связь. Reach up = потянуться вверх физически — не тот контекст.",
+      "tags": [
+        "up_vs_out",
+        "out",
+        "relationships"
+      ]
+    },
+    {
+      "id": "uvo_23",
+      "question": "They broke ___ after five years of dating.",
+      "optionA": "UP",
+      "optionB": "OUT",
+      "correctIndex": 0,
+      "explanation": "Break up = расстаться, прекратить отношения. Break out = вспыхнуть (война, эпидемия) — не про пару.",
+      "tags": [
+        "up_vs_out",
+        "up",
+        "relationships"
+      ]
+    },
+    {
+      "id": "uvo_24",
+      "question": "A huge scandal broke ___ at the company.",
+      "optionA": "UP",
+      "optionB": "OUT",
+      "correctIndex": 1,
+      "explanation": "Break out = вспыхнуть, разразиться внезапно. Break up = разделить или расстаться — скандал не «расстаётся».",
+      "tags": [
+        "up_vs_out",
+        "out",
+        "social_life"
+      ]
+    },
+    {
+      "id": "uvo_25",
+      "question": "He always backs ___ his friends in conflicts.",
+      "optionA": "UP",
+      "optionB": "OUT",
+      "correctIndex": 0,
+      "explanation": "Back up = поддержать кого-то, встать на чью-то сторону. Back out = отступить, отказаться — противоположный смысл.",
+      "tags": [
+        "up_vs_out",
+        "up",
+        "relationships"
+      ]
+    },
+    {
+      "id": "uvo_26",
+      "question": "She dropped ___ of the race under pressure.",
+      "optionA": "UP",
+      "optionB": "OUT",
+      "correctIndex": 1,
+      "explanation": "Drop out = выбыть, сойти с дистанции. Drop up не является фразовым глаголом в английском.",
+      "tags": [
+        "up_vs_out",
+        "out",
+        "career"
+      ]
+    },
+    {
+      "id": "uvo_27",
+      "question": "He mixed ___ the names at the party.",
+      "optionA": "UP",
+      "optionB": "OUT",
+      "correctIndex": 0,
+      "explanation": "Mix up = перепутать, спутать одно с другим. Mix out не существует как фразовый глагол.",
+      "tags": [
+        "up_vs_out",
+        "up",
+        "social_life"
+      ]
+    },
+    {
+      "id": "uvo_28",
+      "question": "Don't miss ___ on this great opportunity.",
+      "optionA": "UP",
+      "optionB": "OUT",
+      "correctIndex": 1,
+      "explanation": "Miss out on = упустить шанс, не воспользоваться возможностью. Miss up не используется в английском.",
+      "tags": [
+        "up_vs_out",
+        "out",
+        "personal_growth"
+      ]
+    },
+    {
+      "id": "uvo_29",
+      "question": "She took ___ painting as a new hobby.",
+      "optionA": "UP",
+      "optionB": "OUT",
+      "correctIndex": 0,
+      "explanation": "Take up = начать заниматься чем-то новым. Take out = вынести или пригласить на свидание — не про хобби.",
+      "tags": [
+        "up_vs_out",
+        "up",
+        "personal_growth"
+      ]
+    },
+    {
+      "id": "uvo_30",
+      "question": "They phased ___ the old system over time.",
+      "optionA": "UP",
+      "optionB": "OUT",
+      "correctIndex": 1,
+      "explanation": "Phase out = постепенно вывести из использования. Phase up не существует как фразовый глагол.",
+      "tags": [
+        "up_vs_out",
+        "out",
+        "career"
+      ]
+    }
+  ]
+}

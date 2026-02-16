@@ -1,0 +1,461 @@
+{
+  "id": "intermediate_listening_11_relative_clauses",
+  "title": "Relative Clauses",
+  "description": "Слушайте сложные предложения с who, which, that, where — всё как в живой речи.",
+  "order": 11,
+  "level": "intermediate",
+  "imageUrl": "assets/images/lessons/relative_clauses.png",
+  "tasks": [
+    {
+      "id": "t11_01",
+      "audioText": "The woman who served us yesterday was incredibly kind.",
+      "transcript": "The woman who served us yesterday was incredibly kind.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Yesterday’s waitress was super nice."
+        },
+        {
+          "id": "o2",
+          "text": "The woman serves us every day."
+        },
+        {
+          "id": "o3",
+          "text": "A different woman was kind."
+        },
+        {
+          "id": "o4",
+          "text": "The woman will serve us tomorrow."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Who = person, defining clause.",
+      "mistakeTags": [
+        "restaurant",
+        "relative_clauses"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_11_relative_clauses/t11_01.mp3"
+    },
+    {
+      "id": "t11_02",
+      "audioText": "This is the restaurant where we had our first date.",
+      "transcript": "This is the restaurant where we had our first date.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Our first date happened exactly here."
+        },
+        {
+          "id": "o2",
+          "text": "We have dates here every week."
+        },
+        {
+          "id": "o3",
+          "text": "We will have our next date here."
+        },
+        {
+          "id": "o4",
+          "text": "We never ate here."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Where = place of past event.",
+      "mistakeTags": [
+        "restaurant",
+        "relative_clauses"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_11_relative_clauses/t11_02.mp3"
+    },
+    {
+      "id": "t11_03",
+      "audioText": "I’ve lost the phone which my dad gave me for my birthday.",
+      "transcript": "I’ve lost the phone which my dad gave me for my birthday.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The birthday gift phone from dad is gone."
+        },
+        {
+          "id": "o2",
+          "text": "I lost a different phone."
+        },
+        {
+          "id": "o3",
+          "text": "Dad gives me phones every year."
+        },
+        {
+          "id": "o4",
+          "text": "I found the phone."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Which = defining, specific phone.",
+      "mistakeTags": [
+        "home",
+        "relative_clauses"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_11_relative_clauses/t11_03.mp3"
+    },
+    {
+      "id": "t11_04",
+      "audioText": "The guy that lives next door is a famous DJ.",
+      "transcript": "The guy that lives next door is a famous DJ.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Our neighbour is a well-known DJ."
+        },
+        {
+          "id": "o2",
+          "text": "A random guy is a DJ."
+        },
+        {
+          "id": "o3",
+          "text": "He used to be a DJ."
+        },
+        {
+          "id": "o4",
+          "text": "He will become a DJ."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "That = informal who for people.",
+      "mistakeTags": [
+        "home",
+        "relative_clauses"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_11_relative_clauses/t11_04.mp3"
+    },
+    {
+      "id": "t11_05",
+      "audioText": "That’s the exact spot where I proposed to my wife.",
+      "transcript": "That’s the exact spot where I proposed to my wife.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "I got down on one knee right here."
+        },
+        {
+          "id": "o2",
+          "text": "We got married here."
+        },
+        {
+          "id": "o3",
+          "text": "I will propose here."
+        },
+        {
+          "id": "o4",
+          "text": "Another place."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Where = romantic memory location.",
+      "mistakeTags": [
+        "park",
+        "relative_clauses"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_11_relative_clauses/t11_05.mp3"
+    },
+    {
+      "id": "t11_06",
+      "audioText": "My brother, who lives in Canada now, is coming next week.",
+      "transcript": "My brother, who lives in Canada now, is coming next week.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "I have one brother and he lives in Canada."
+        },
+        {
+          "id": "o2",
+          "text": "I have several brothers."
+        },
+        {
+          "id": "o3",
+          "text": "He used to live in Canada."
+        },
+        {
+          "id": "o4",
+          "text": "He’s not coming."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Non-defining clause (commas) = extra info.",
+      "mistakeTags": [
+        "family",
+        "relative_clauses"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_11_relative_clauses/t11_06.mp3"
+    },
+    {
+      "id": "t11_07",
+      "audioText": "Do you remember the day when we got completely lost in Rome?",
+      "transcript": "The day when we got completely lost in Rome.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "That crazy day of being lost in Rome."
+        },
+        {
+          "id": "o2",
+          "text": "We get lost every time."
+        },
+        {
+          "id": "o3",
+          "text": "We found everything easily."
+        },
+        {
+          "id": "o4",
+          "text": "Future trip."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "When = specific memorable day.",
+      "mistakeTags": [
+        "travel",
+        "relative_clauses"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_11_relative_clauses/t11_07.mp3"
+    },
+    {
+      "id": "t11_08",
+      "audioText": "This is the café whose owner is from Brazil.",
+      "transcript": "This is the café whose owner is from Brazil.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The owner of this café is Brazilian."
+        },
+        {
+          "id": "o2",
+          "text": "The owner is Italian."
+        },
+        {
+          "id": "o3",
+          "text": "The café belongs to me."
+        },
+        {
+          "id": "o4",
+          "text": "The owner was from Brazil."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Whose = possession (person).",
+      "mistakeTags": [
+        "cafe",
+        "relative_clauses"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_11_relative_clauses/t11_08.mp3"
+    },
+    {
+      "id": "t11_09",
+      "audioText": "The film that won all the Oscars last year was incredible.",
+      "transcript": "The film that won all the Oscars last year was incredible.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Last year’s big Oscar winner was amazing."
+        },
+        {
+          "id": "o2",
+          "text": "A different film won."
+        },
+        {
+          "id": "o3",
+          "text": "The film was bad."
+        },
+        {
+          "id": "o4",
+          "text": "This year’s winner."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "That = defining, identifies the film.",
+      "mistakeTags": [
+        "cinema",
+        "relative_clauses"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_11_relative_clauses/t11_09.mp3"
+    },
+    {
+      "id": "t11_10",
+      "audioText": "2020, which was a terrible year, changed everything.",
+      "transcript": "2020, which was a terrible year, changed everything.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "We all know 2020 was awful."
+        },
+        {
+          "id": "o2",
+          "text": "2020 was a great year."
+        },
+        {
+          "id": "o3",
+          "text": "Another year changed everything."
+        },
+        {
+          "id": "o4",
+          "text": "2020 didn’t change anything."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Non-defining — everyone knows which year.",
+      "mistakeTags": [
+        "life",
+        "relative_clauses"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_11_relative_clauses/t11_10.mp3"
+    },
+    {
+      "id": "t11_11",
+      "audioText": "I’ll never forget the moment when she said yes.",
+      "transcript": "The moment when she said yes.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "That magical ‘yes’ moment is unforgettable."
+        },
+        {
+          "id": "o2",
+          "text": "She said no."
+        },
+        {
+          "id": "o3",
+          "text": "I forgot it."
+        },
+        {
+          "id": "o4",
+          "text": "Future moment."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "When for specific emotional moment.",
+      "mistakeTags": [
+        "love",
+        "relative_clauses"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_11_relative_clauses/t11_11.mp3"
+    },
+    {
+      "id": "t11_12",
+      "audioText": "The teacher whose car is always full of books is retiring.",
+      "transcript": "The teacher whose car is always full of books is retiring.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The book-loving teacher is leaving."
+        },
+        {
+          "id": "o2",
+          "text": "A different teacher."
+        },
+        {
+          "id": "o3",
+          "text": "His car is empty."
+        },
+        {
+          "id": "o4",
+          "text": "He retired last year."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Whose identifies the teacher.",
+      "mistakeTags": [
+        "school",
+        "relative_clauses"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_11_relative_clauses/t11_12.mp3"
+    },
+    {
+      "id": "t11_13",
+      "audioText": "This is the house where I grew up.",
+      "transcript": "This is the house where I grew up.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "My entire childhood was spent here."
+        },
+        {
+          "id": "o2",
+          "text": "I will grow up here."
+        },
+        {
+          "id": "o3",
+          "text": "Another house."
+        },
+        {
+          "id": "o4",
+          "text": "I visit sometimes."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Where = childhood home.",
+      "mistakeTags": [
+        "home",
+        "relative_clauses"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_11_relative_clauses/t11_13.mp3"
+    },
+    {
+      "id": "t11_14",
+      "audioText": "People who work from home save a lot of time.",
+      "transcript": "People who work from home save a lot of time.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Remote workers gain extra hours."
+        },
+        {
+          "id": "o2",
+          "text": "Office workers save more."
+        },
+        {
+          "id": "o3",
+          "text": "They waste time."
+        },
+        {
+          "id": "o4",
+          "text": "Only some people."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Who = general group.",
+      "mistakeTags": [
+        "work",
+        "relative_clauses"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_11_relative_clauses/t11_14.mp3"
+    },
+    {
+      "id": "t11_15",
+      "audioText": "My phone, which I bought only last month, already broke.",
+      "transcript": "My phone, which I bought only last month, already broke.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "My brand-new phone is already dead."
+        },
+        {
+          "id": "o2",
+          "text": "Old phone broke."
+        },
+        {
+          "id": "o3",
+          "text": "It’s working perfectly."
+        },
+        {
+          "id": "o4",
+          "text": "I bought it a year ago."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Non-defining + irony.",
+      "mistakeTags": [
+        "shop",
+        "relative_clauses"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_11_relative_clauses/t11_15.mp3"
+    }
+  ],
+  "short_description": "Относительные придаточные who/which/that/where/whose"
+}

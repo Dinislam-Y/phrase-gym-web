@@ -1,0 +1,1884 @@
+{
+  "id": "intermediate_04_past_continuous",
+  "title": "Past Continuous",
+  "description": "Прошедшее длительное время. Действие как процесс в прошлом, фон для событий или прерванное действие.",
+  "order": 4,
+  "level": "intermediate",
+  "imageUrl": "assets/images/lessons/past_continuous.png",
+  "vocabulary": [
+    {
+      "id": "v4_read",
+      "english": "read",
+      "russian": "читать",
+      "partOfSpeech": "verb",
+      "example": "Reading a book.",
+      "exampleTranslation": "Читая книгу.",
+      "audioPath": "assets/audio/vocabulary/v4_read.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_read.mp3"
+    },
+    {
+      "id": "v4_book",
+      "english": "book",
+      "russian": "книга",
+      "partOfSpeech": "noun",
+      "example": "Reading a book.",
+      "exampleTranslation": "Читая книгу.",
+      "audioPath": "assets/audio/vocabulary/v4_book.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_book.mp3"
+    },
+    {
+      "id": "v4_call",
+      "english": "call",
+      "russian": "звонить",
+      "partOfSpeech": "verb",
+      "example": "You called.",
+      "exampleTranslation": "Ты позвонил.",
+      "audioPath": "assets/audio/vocabulary/v4_call.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_call.mp3"
+    },
+    {
+      "id": "v4_play",
+      "english": "play",
+      "russian": "играть",
+      "partOfSpeech": "verb",
+      "example": "Playing tennis.",
+      "exampleTranslation": "Играя в теннис.",
+      "audioPath": "assets/audio/vocabulary/v4_play.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_play.mp3"
+    },
+    {
+      "id": "v4_tennis",
+      "english": "tennis",
+      "russian": "теннис",
+      "partOfSpeech": "noun",
+      "example": "Playing tennis.",
+      "exampleTranslation": "Играя в теннис.",
+      "audioPath": "assets/audio/vocabulary/v4_tennis.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_tennis.mp3"
+    },
+    {
+      "id": "v4_morning",
+      "english": "morning",
+      "russian": "утро",
+      "partOfSpeech": "noun",
+      "example": "In the morning.",
+      "exampleTranslation": "Утром.",
+      "audioPath": "assets/audio/vocabulary/v4_morning.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_morning.mp3"
+    },
+    {
+      "id": "v4_evening",
+      "english": "evening",
+      "russian": "вечер",
+      "partOfSpeech": "noun",
+      "example": "Yesterday evening.",
+      "exampleTranslation": "Вчера вечером.",
+      "audioPath": "assets/audio/vocabulary/v4_evening.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_evening.mp3"
+    },
+    {
+      "id": "v4_sleep",
+      "english": "sleep",
+      "russian": "спать",
+      "partOfSpeech": "verb",
+      "example": "She was sleeping.",
+      "exampleTranslation": "Она спала.",
+      "audioPath": "assets/audio/vocabulary/v4_sleep.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_sleep.mp3"
+    },
+    {
+      "id": "v4_cook",
+      "english": "cook",
+      "russian": "готовить",
+      "partOfSpeech": "verb",
+      "example": "Mom was cooking.",
+      "exampleTranslation": "Мама готовила.",
+      "audioPath": "assets/audio/vocabulary/v4_cook.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_cook.mp3"
+    },
+    {
+      "id": "v4_homework",
+      "english": "homework",
+      "russian": "домашняя работа",
+      "partOfSpeech": "noun",
+      "example": "Doing homework.",
+      "exampleTranslation": "Делая домашнюю работу.",
+      "audioPath": "assets/audio/vocabulary/v4_homework.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_homework.mp3"
+    },
+    {
+      "id": "v4_shine",
+      "english": "shine",
+      "russian": "светить",
+      "partOfSpeech": "verb",
+      "example": "Sun was shining.",
+      "exampleTranslation": "Солнце светило.",
+      "audioPath": "assets/audio/vocabulary/v4_shine.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_shine.mp3"
+    },
+    {
+      "id": "v4_bird",
+      "english": "bird",
+      "russian": "птица",
+      "partOfSpeech": "noun",
+      "example": "Birds were singing.",
+      "exampleTranslation": "Птицы пели.",
+      "audioPath": "assets/audio/vocabulary/v4_bird.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_bird.mp3"
+    },
+    {
+      "id": "v4_wait",
+      "english": "wait",
+      "russian": "ждать",
+      "partOfSpeech": "verb",
+      "example": "Waiting for a bus.",
+      "exampleTranslation": "Ожидая автобус.",
+      "audioPath": "assets/audio/vocabulary/v4_wait.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_wait.mp3"
+    },
+    {
+      "id": "v4_bus",
+      "english": "bus",
+      "russian": "автобус",
+      "partOfSpeech": "noun",
+      "example": "Waiting for a bus.",
+      "exampleTranslation": "Ожидая автобус.",
+      "audioPath": "assets/audio/vocabulary/v4_bus.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_bus.mp3"
+    },
+    {
+      "id": "v4_start",
+      "english": "start",
+      "russian": "начинать(ся)",
+      "partOfSpeech": "verb",
+      "example": "It started raining.",
+      "exampleTranslation": "Начался дождь.",
+      "audioPath": "assets/audio/vocabulary/v4_start.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_start.mp3"
+    },
+    {
+      "id": "v4_child",
+      "english": "child",
+      "russian": "ребенок",
+      "partOfSpeech": "noun",
+      "example": "Children were playing.",
+      "exampleTranslation": "Дети играли.",
+      "audioPath": "assets/audio/vocabulary/v4_child.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_child.mp3"
+    },
+    {
+      "id": "v4_park",
+      "english": "park",
+      "russian": "парк",
+      "partOfSpeech": "noun",
+      "example": "In the park.",
+      "exampleTranslation": "В парке.",
+      "audioPath": "assets/audio/vocabulary/v4_park.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_park.mp3"
+    },
+    {
+      "id": "v4_think",
+      "english": "think",
+      "russian": "думать",
+      "partOfSpeech": "verb",
+      "example": "Was thinking.",
+      "exampleTranslation": "Думал.",
+      "audioPath": "assets/audio/vocabulary/v4_think.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_think.mp3"
+    },
+    {
+      "id": "v4_year",
+      "english": "year",
+      "russian": "год",
+      "partOfSpeech": "noun",
+      "example": "Last year.",
+      "exampleTranslation": "В прошлом году.",
+      "audioPath": "assets/audio/vocabulary/v4_year.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_year.mp3"
+    },
+    {
+      "id": "v4_bark",
+      "english": "bark",
+      "russian": "лаять",
+      "partOfSpeech": "verb",
+      "example": "Dog was barking.",
+      "exampleTranslation": "Собака лаяла.",
+      "audioPath": "assets/audio/vocabulary/v4_bark.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_bark.mp3"
+    },
+    {
+      "id": "v4_movie",
+      "english": "movie",
+      "russian": "фильм",
+      "partOfSpeech": "noun",
+      "example": "Watching a movie.",
+      "exampleTranslation": "Смотрели фильм.",
+      "audioPath": "assets/audio/vocabulary/v4_movie.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_movie.mp3"
+    },
+    {
+      "id": "v4_light",
+      "english": "light",
+      "russian": "свет",
+      "partOfSpeech": "noun",
+      "example": "Lights went out.",
+      "exampleTranslation": "Свет погас.",
+      "audioPath": "assets/audio/vocabulary/v4_light.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_light.mp3"
+    },
+    {
+      "id": "v4_teacher",
+      "english": "teacher",
+      "russian": "учитель",
+      "partOfSpeech": "noun",
+      "example": "Listening to the teacher.",
+      "exampleTranslation": "Слушая учителя.",
+      "audioPath": "assets/audio/vocabulary/v4_teacher.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_teacher.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "Past Continuous",
+    "subtitle": "Это «Видеозапись» прошлого, а не «Фотография». Мы видим процесс, который длился в определенный момент. Часто используется как фон для более коротких событий (Past Simple).",
+    "construction": {
+      "formula": "Was/Were + V-ing",
+      "rules": [
+        {
+          "word": "I / He / She / It",
+          "description": "Was + глагол с окончанием -ing. I was sleeping. It was raining."
+        },
+        {
+          "word": "You / We / They",
+          "description": "Were + глагол с окончанием -ing. They were playing. We were cooking."
+        },
+        {
+          "word": "Прерванное действие",
+          "description": "Длительное действие (Continuous) прерывается коротким (Simple). I was reading when he came."
+        },
+        {
+          "word": "Два процесса",
+          "description": "Два действия происходили одновременно. While I was reading, she was cooking."
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "visibility",
+        "color": "blue",
+        "title": "Действие в определенный момент",
+        "description": "Мы не знаем, когда началось и закончилось, мы внутри процесса.",
+        "example": {
+          "english": "At 8 pm I was watching TV.",
+          "russian": "В 8 вечера я смотрел телевизор."
+        }
+      },
+      {
+        "icon": "bolt",
+        "color": "orange",
+        "title": "Прерванное действие",
+        "description": "Фон (Continuous) и вспышка (Simple).",
+        "example": {
+          "english": "I was walking when I met her.",
+          "russian": "Я шел (процесс), когда встретил ее (момент)."
+        }
+      },
+      {
+        "icon": "visibility",
+        "color": "blue",
+        "title": "Атмосфера и описание",
+        "description": "Описание обстановки в историях.",
+        "example": {
+          "english": "The sun was shining, birds were singing.",
+          "russian": "Солнце светило, птицы пели."
+        }
+      }
+    ],
+    "markers": [
+      "at 5 o'clock",
+      "when",
+      "while",
+      "all day",
+      "the whole evening"
+    ]
+  },
+  "tasks": [
+    {
+      "id": "t4_1",
+      "type": "sentenceAssembly",
+      "question": "Я читал книгу",
+      "correctAnswer": "I was reading a book",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "was",
+          "were",
+          "am",
+          "is"
+        ],
+        [
+          "reading",
+          "writing",
+          "watching",
+          "making"
+        ],
+        [
+          "a",
+          "the",
+          "my",
+          "this"
+        ],
+        [
+          "book",
+          "letter",
+          "film",
+          "plan"
+        ]
+      ],
+      "mistakeTags": [
+        "past_continuous",
+        "was_were_ing"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_04_past_continuous/000.mp3"
+    },
+    {
+      "id": "t4_2",
+      "type": "sentenceAssembly",
+      "question": "Они играли в теннис в 10 утра",
+      "correctAnswer": "They were playing tennis at ten am",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "Them",
+          "We",
+          "You"
+        ],
+        [
+          "were",
+          "was",
+          "are",
+          "did"
+        ],
+        [
+          "playing",
+          "play",
+          "played",
+          "going"
+        ],
+        [
+          "tennis",
+          "sport",
+          "game",
+          "early"
+        ],
+        [
+          "at",
+          "in",
+          "on",
+          "by"
+        ],
+        [
+          "ten",
+          "10",
+          "three",
+          "seven"
+        ],
+        [
+          "am",
+          "pm",
+          "clock",
+          "had"
+        ]
+      ],
+      "mistakeTags": [
+        "past_continuous",
+        "was_were_ing"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_04_past_continuous/001.mp3"
+    },
+    {
+      "id": "t4_3",
+      "type": "sentenceAssembly",
+      "question": "Что ты делал вчера вечером?",
+      "correctAnswer": "What were you doing yesterday evening?",
+      "options": [],
+      "variants": [
+        [
+          "What",
+          "When",
+          "Why",
+          "that"
+        ],
+        [
+          "were",
+          "was",
+          "did",
+          "are"
+        ],
+        [
+          "you",
+          "your",
+          "she",
+          "It"
+        ],
+        [
+          "doing",
+          "do",
+          "did",
+          "done"
+        ],
+        [
+          "yesterday",
+          "tomorrow",
+          "today",
+          "now"
+        ],
+        [
+          "evening",
+          "morning",
+          "night",
+          "thinking"
+        ]
+      ],
+      "mistakeTags": [
+        "past_continuous",
+        "was_were_ing"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_04_past_continuous/002.mp3"
+    },
+    {
+      "id": "t4_4",
+      "type": "sentenceAssembly",
+      "question": "Она не спала, когда я пришел",
+      "correctAnswer": "She was not sleeping when I came",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "Her",
+          "He",
+          "We"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "did"
+        ],
+        [
+          "not",
+          "no",
+          "n't",
+          "take"
+        ],
+        [
+          "sleeping",
+          "sleep",
+          "slept",
+          "getting"
+        ],
+        [
+          "when",
+          "while",
+          "if",
+          "whose"
+        ],
+        [
+          "I",
+          "me",
+          "It",
+          "They"
+        ],
+        [
+          "came",
+          "come",
+          "coming",
+          "got"
+        ]
+      ],
+      "mistakeTags": [
+        "past_continuous",
+        "was_were_ing"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_04_past_continuous/003.mp3"
+    },
+    {
+      "id": "t4_5",
+      "type": "sentenceAssembly",
+      "question": "Мама тогда готовила ужин",
+      "correctAnswer": "Mom was cooking dinner then",
+      "options": [],
+      "variants": [
+        [
+          "Mom",
+          "Dad",
+          "She",
+          "He"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "am"
+        ],
+        [
+          "cooking",
+          "making",
+          "eating",
+          "cleaning"
+        ],
+        [
+          "dinner",
+          "lunch",
+          "food",
+          "soup"
+        ],
+        [
+          "then",
+          "there",
+          "still",
+          "already"
+        ]
+      ],
+      "mistakeTags": [
+        "past_continuous",
+        "was_were_ing"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_04_past_continuous/004.mp3"
+    },
+    {
+      "id": "t4_6",
+      "type": "sentenceAssembly",
+      "question": "Шел дождь все утро",
+      "correctAnswer": "It was raining all morning",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "This",
+          "There",
+          "I"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "are"
+        ],
+        [
+          "raining",
+          "rain",
+          "rained",
+          "finding"
+        ],
+        [
+          "all",
+          "whole",
+          "every",
+          "part"
+        ],
+        [
+          "morning",
+          "day",
+          "evening",
+          "going"
+        ]
+      ],
+      "mistakeTags": [
+        "past_continuous",
+        "was_were_ing"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_04_past_continuous/005.mp3"
+    },
+    {
+      "id": "t4_7",
+      "type": "sentenceAssembly",
+      "question": "Почему ты смеялся?",
+      "correctAnswer": "Why were you laughing?",
+      "options": [],
+      "variants": [
+        [
+          "Why",
+          "What",
+          "Who",
+          "whom"
+        ],
+        [
+          "were",
+          "was",
+          "did",
+          "are"
+        ],
+        [
+          "you",
+          "your",
+          "he",
+          "She"
+        ],
+        [
+          "laughing",
+          "laugh",
+          "laughed",
+          "smile"
+        ]
+      ],
+      "mistakeTags": [
+        "past_continuous",
+        "was_were_ing"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_04_past_continuous/006.mp3"
+    },
+    {
+      "id": "t4_8",
+      "type": "sentenceAssembly",
+      "question": "Мы не работали в воскресенье",
+      "correctAnswer": "We were not working on Sunday",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "Us",
+          "They",
+          "It"
+        ],
+        [
+          "were",
+          "was",
+          "are",
+          "did"
+        ],
+        [
+          "not",
+          "no",
+          "say",
+          "first"
+        ],
+        [
+          "working",
+          "work",
+          "worked",
+          "knowing"
+        ],
+        [
+          "on",
+          "at",
+          "in",
+          "of"
+        ],
+        [
+          "Sunday",
+          "Monday",
+          "weekend",
+          "thing"
+        ]
+      ],
+      "mistakeTags": [
+        "past_continuous",
+        "was_were_ing"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_04_past_continuous/007.mp3"
+    },
+    {
+      "id": "t4_9",
+      "type": "sentenceAssembly",
+      "question": "Ты слушал меня?",
+      "correctAnswer": "Were you listening to me?",
+      "options": [],
+      "variants": [
+        [
+          "Were",
+          "Was",
+          "Did",
+          "Are"
+        ],
+        [
+          "you",
+          "your",
+          "she",
+          "We"
+        ],
+        [
+          "listening",
+          "listen",
+          "listened",
+          "knowing"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "of"
+        ],
+        [
+          "me",
+          "I",
+          "my",
+          "her"
+        ]
+      ],
+      "mistakeTags": [
+        "past_continuous",
+        "was_were_ing"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_04_past_continuous/008.mp3"
+    },
+    {
+      "id": "t4_10",
+      "type": "sentenceAssembly",
+      "question": "Солнце ярко светило",
+      "correctAnswer": "The sun was shining brightly",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "This",
+          "That"
+        ],
+        [
+          "sun",
+          "moon",
+          "star",
+          "light"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "are"
+        ],
+        [
+          "shining",
+          "rising",
+          "setting",
+          "glowing"
+        ],
+        [
+          "brightly",
+          "slowly",
+          "warmly",
+          "softly"
+        ]
+      ],
+      "mistakeTags": [
+        "past_continuous",
+        "was_were_ing"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_04_past_continuous/009.mp3"
+    },
+    {
+      "id": "t4_11",
+      "type": "sentenceAssembly",
+      "question": "Он ждал автобус",
+      "correctAnswer": "He was waiting for a bus",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "I",
+          "They"
+        ],
+        [
+          "was",
+          "were",
+          "am",
+          "is"
+        ],
+        [
+          "waiting",
+          "looking",
+          "asking",
+          "running"
+        ],
+        [
+          "for",
+          "at",
+          "to",
+          "in"
+        ],
+        [
+          "a",
+          "the",
+          "my",
+          "that"
+        ],
+        [
+          "bus",
+          "taxi",
+          "train",
+          "car"
+        ]
+      ],
+      "mistakeTags": [
+        "past_continuous",
+        "was_were_ing"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_04_past_continuous/010.mp3"
+    },
+    {
+      "id": "t4_12",
+      "type": "sentenceAssembly",
+      "question": "Дети играли на улице",
+      "correctAnswer": "The children were playing outside",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "My",
+          "Our",
+          "Those"
+        ],
+        [
+          "children",
+          "boys",
+          "girls",
+          "kids"
+        ],
+        [
+          "were",
+          "was",
+          "are",
+          "is"
+        ],
+        [
+          "playing",
+          "running",
+          "singing",
+          "dancing"
+        ],
+        [
+          "outside",
+          "loudly",
+          "happily",
+          "together"
+        ]
+      ],
+      "mistakeTags": [
+        "past_continuous",
+        "was_were_ing"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_04_past_continuous/011.mp3"
+    },
+    {
+      "id": "t4_13",
+      "type": "sentenceAssembly",
+      "question": "Я думал о тебе",
+      "correctAnswer": "I was thinking about you",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "My",
+          "It"
+        ],
+        [
+          "was",
+          "were",
+          "am",
+          "should"
+        ],
+        [
+          "thinking",
+          "think",
+          "thought",
+          "knowing"
+        ],
+        [
+          "about",
+          "of",
+          "for",
+          "on"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "I"
+        ]
+      ],
+      "mistakeTags": [
+        "past_continuous",
+        "was_were_ing"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_04_past_continuous/012.mp3"
+    },
+    {
+      "id": "t4_14",
+      "type": "sentenceAssembly",
+      "question": "Где ты жил в прошлом году?",
+      "correctAnswer": "Where were you living last year?",
+      "options": [],
+      "variants": [
+        [
+          "Where",
+          "What",
+          "When",
+          "who"
+        ],
+        [
+          "were",
+          "was",
+          "did",
+          "does"
+        ],
+        [
+          "you",
+          "your",
+          "he",
+          "She"
+        ],
+        [
+          "living",
+          "live",
+          "lived",
+          "seeing"
+        ],
+        [
+          "last",
+          "next",
+          "this",
+          "different"
+        ],
+        [
+          "year",
+          "month",
+          "week",
+          "know"
+        ]
+      ],
+      "mistakeTags": [
+        "past_continuous",
+        "was_were_ing"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_04_past_continuous/013.mp3"
+    },
+    {
+      "id": "t4_15",
+      "type": "sentenceAssembly",
+      "question": "Собака лаяла всю ночь",
+      "correctAnswer": "The dog was barking all night",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "an",
+          "some"
+        ],
+        [
+          "dog",
+          "cat",
+          "pet",
+          "find"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "did"
+        ],
+        [
+          "barking",
+          "bark",
+          "barked",
+          "thinking"
+        ],
+        [
+          "all",
+          "whole",
+          "every",
+          "first"
+        ],
+        [
+          "night",
+          "day",
+          "evening",
+          "doing"
+        ]
+      ],
+      "mistakeTags": [
+        "past_continuous",
+        "was_were_ing"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_04_past_continuous/014.mp3"
+    },
+    {
+      "id": "t4_16",
+      "type": "sentenceAssembly",
+      "question": "Она разговаривала по телефону",
+      "correctAnswer": "She was talking on the phone",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "They"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "am"
+        ],
+        [
+          "talking",
+          "speaking",
+          "singing",
+          "reading"
+        ],
+        [
+          "on",
+          "at",
+          "in",
+          "by"
+        ],
+        [
+          "the",
+          "a",
+          "my",
+          "her"
+        ],
+        [
+          "phone",
+          "radio",
+          "stage",
+          "street"
+        ]
+      ],
+      "mistakeTags": [
+        "past_continuous",
+        "was_were_ing"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_04_past_continuous/015.mp3"
+    },
+    {
+      "id": "t4_17",
+      "type": "sentenceAssembly",
+      "question": "Он не слушал учителя",
+      "correctAnswer": "He was not listening to the teacher",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "Him",
+          "She",
+          "We"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "are"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "then"
+        ],
+        [
+          "listening",
+          "listen",
+          "listened",
+          "making"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "on"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "some"
+        ],
+        [
+          "teacher",
+          "professor",
+          "tutor",
+          "take"
+        ]
+      ],
+      "mistakeTags": [
+        "past_continuous",
+        "was_were_ing"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_04_past_continuous/016.mp3"
+    },
+    {
+      "id": "t4_18",
+      "type": "sentenceAssembly",
+      "question": "Ты спал, когда я позвонил?",
+      "correctAnswer": "Were you sleeping when I called?",
+      "options": [],
+      "variants": [
+        [
+          "Were",
+          "Was",
+          "Did",
+          "is"
+        ],
+        [
+          "you",
+          "your",
+          "he",
+          "I"
+        ],
+        [
+          "sleeping",
+          "sleep",
+          "slept",
+          "coming"
+        ],
+        [
+          "when",
+          "while",
+          "if",
+          "whose"
+        ],
+        [
+          "I",
+          "me",
+          "my",
+          "They"
+        ],
+        [
+          "called",
+          "call",
+          "calling",
+          "knew"
+        ]
+      ],
+      "mistakeTags": [
+        "past_continuous",
+        "was_were_ing"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_04_past_continuous/017.mp3"
+    },
+    {
+      "id": "t4_19",
+      "type": "sentenceAssembly",
+      "question": "Они танцевали на вечеринке",
+      "correctAnswer": "They were dancing at the party",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "We",
+          "I",
+          "She"
+        ],
+        [
+          "were",
+          "was",
+          "are",
+          "is"
+        ],
+        [
+          "dancing",
+          "singing",
+          "playing",
+          "talking"
+        ],
+        [
+          "at",
+          "on",
+          "in",
+          "by"
+        ],
+        [
+          "the",
+          "a",
+          "my",
+          "this"
+        ],
+        [
+          "party",
+          "concert",
+          "club",
+          "wedding"
+        ]
+      ],
+      "mistakeTags": [
+        "past_continuous",
+        "was_were_ing"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_04_past_continuous/018.mp3"
+    },
+    {
+      "id": "t4_20",
+      "type": "sentenceAssembly",
+      "question": "Ветер дул очень сильно",
+      "correctAnswer": "The wind was blowing very hard",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "an",
+          "some"
+        ],
+        [
+          "wind",
+          "rain",
+          "snow",
+          "important"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "do"
+        ],
+        [
+          "blowing",
+          "blow",
+          "blew",
+          "taking"
+        ],
+        [
+          "very",
+          "so",
+          "too",
+          "but"
+        ],
+        [
+          "hard",
+          "strong",
+          "fast",
+          "see"
+        ]
+      ],
+      "mistakeTags": [
+        "past_continuous",
+        "was_were_ing"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_04_past_continuous/019.mp3"
+    },
+    {
+      "id": "t4_21",
+      "type": "sentenceAssembly",
+      "question": "Я готовил ужин в 7 часов",
+      "correctAnswer": "I was cooking dinner at seven o'clock",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "My",
+          "She"
+        ],
+        [
+          "was",
+          "were",
+          "am",
+          "do"
+        ],
+        [
+          "cooking",
+          "cook",
+          "cooked",
+          "making"
+        ],
+        [
+          "dinner",
+          "lunch",
+          "breakfast",
+          "day"
+        ],
+        [
+          "at",
+          "in",
+          "on",
+          "to"
+        ],
+        [
+          "seven",
+          "7",
+          "eight",
+          "four"
+        ],
+        [
+          "o'clock",
+          "clock",
+          "hour",
+          "give"
+        ]
+      ],
+      "mistakeTags": [
+        "past_continuous",
+        "was_were_ing"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_04_past_continuous/020.mp3"
+    },
+    {
+      "id": "t4_22",
+      "type": "sentenceAssembly",
+      "question": "Они танцевали всю ночь",
+      "correctAnswer": "They were dancing all night long",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "Them",
+          "We",
+          "You"
+        ],
+        [
+          "were",
+          "was",
+          "are",
+          "could"
+        ],
+        [
+          "dancing",
+          "dance",
+          "danced",
+          "coming"
+        ],
+        [
+          "all",
+          "whole",
+          "every",
+          "world"
+        ],
+        [
+          "night",
+          "day",
+          "evening",
+          "going"
+        ],
+        [
+          "long",
+          "time",
+          "late",
+          "thing"
+        ]
+      ],
+      "mistakeTags": [
+        "past_continuous",
+        "was_were_ing"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_04_past_continuous/021.mp3"
+    },
+    {
+      "id": "t4_23",
+      "type": "sentenceAssembly",
+      "question": "Что она говорила?",
+      "correctAnswer": "What was she saying?",
+      "options": [],
+      "variants": [
+        [
+          "What",
+          "Why",
+          "When",
+          "whom"
+        ],
+        [
+          "was",
+          "were",
+          "did",
+          "is"
+        ],
+        [
+          "she",
+          "her",
+          "he",
+          "You"
+        ],
+        [
+          "saying",
+          "say",
+          "said",
+          "going"
+        ]
+      ],
+      "mistakeTags": [
+        "past_continuous",
+        "was_were_ing"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_04_past_continuous/022.mp3"
+    },
+    {
+      "id": "t4_24",
+      "type": "sentenceAssembly",
+      "question": "Я бежал, когда упал",
+      "correctAnswer": "I was running when I fell",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "My",
+          "It"
+        ],
+        [
+          "was",
+          "were",
+          "am",
+          "will"
+        ],
+        [
+          "running",
+          "run",
+          "ran",
+          "using"
+        ],
+        [
+          "when",
+          "while",
+          "if",
+          "whom"
+        ],
+        [
+          "I",
+          "me",
+          "my",
+          "We"
+        ],
+        [
+          "fell",
+          "fall",
+          "fallen",
+          "use"
+        ]
+      ],
+      "mistakeTags": [
+        "past_continuous",
+        "was_were_ing"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_04_past_continuous/023.mp3"
+    },
+    {
+      "id": "t4_25",
+      "type": "sentenceAssembly",
+      "question": "Мы не спорили",
+      "correctAnswer": "We were not arguing",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "Us",
+          "They",
+          "It"
+        ],
+        [
+          "were",
+          "was",
+          "are",
+          "would"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "tomorrow"
+        ],
+        [
+          "arguing",
+          "argue",
+          "argued",
+          "saying"
+        ]
+      ],
+      "mistakeTags": [
+        "past_continuous",
+        "was_were_ing"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_04_past_continuous/024.mp3"
+    },
+    {
+      "id": "t4_26",
+      "type": "sentenceAssembly",
+      "question": "Он писал письмо весь вечер",
+      "correctAnswer": "He was writing a letter all evening",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "Him",
+          "She",
+          "They"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "am"
+        ],
+        [
+          "writing",
+          "write",
+          "wrote",
+          "telling"
+        ],
+        [
+          "a",
+          "the",
+          "an",
+          "some"
+        ],
+        [
+          "letter",
+          "email",
+          "message",
+          "say"
+        ],
+        [
+          "all",
+          "whole",
+          "every",
+          "say"
+        ],
+        [
+          "evening",
+          "night",
+          "day",
+          "doing"
+        ]
+      ],
+      "mistakeTags": [
+        "past_continuous",
+        "was_were_ing"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_04_past_continuous/025.mp3"
+    },
+    {
+      "id": "t4_27",
+      "type": "sentenceAssembly",
+      "question": "Пока я спал, кто-то позвонил",
+      "correctAnswer": "While I was sleeping someone called",
+      "options": [],
+      "variants": [
+        [
+          "While",
+          "When",
+          "If",
+          "though"
+        ],
+        [
+          "I",
+          "me",
+          "my",
+          "We"
+        ],
+        [
+          "was",
+          "were",
+          "am",
+          "should"
+        ],
+        [
+          "sleeping",
+          "sleep",
+          "slept",
+          "doing"
+        ],
+        [
+          "someone",
+          "somebody",
+          "anyone",
+          "know"
+        ],
+        [
+          "called",
+          "call",
+          "calling",
+          "did"
+        ]
+      ],
+      "mistakeTags": [
+        "past_continuous",
+        "was_were_ing"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_04_past_continuous/026.mp3"
+    },
+    {
+      "id": "t4_28",
+      "type": "sentenceAssembly",
+      "question": "Я спал когда он пришёл",
+      "correctAnswer": "I was sleeping when he came",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "was",
+          "were",
+          "am",
+          "is"
+        ],
+        [
+          "sleeping",
+          "reading",
+          "working",
+          "eating"
+        ],
+        [
+          "when",
+          "while",
+          "because",
+          "before"
+        ],
+        [
+          "he",
+          "she",
+          "they",
+          "you"
+        ],
+        [
+          "came",
+          "left",
+          "called",
+          "arrived"
+        ]
+      ],
+      "mistakeTags": [
+        "past_continuous",
+        "was_were_ing"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_04_past_continuous/027.mp3"
+    },
+    {
+      "id": "t4_29",
+      "type": "sentenceAssembly",
+      "question": "Студенты сдавали экзамен",
+      "correctAnswer": "The students were taking an exam",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "an",
+          "some"
+        ],
+        [
+          "students",
+          "student",
+          "pupils",
+          "high"
+        ],
+        [
+          "were",
+          "was",
+          "are",
+          "is"
+        ],
+        [
+          "taking",
+          "take",
+          "took",
+          "thinking"
+        ],
+        [
+          "an",
+          "a",
+          "the",
+          "some"
+        ],
+        [
+          "exam",
+          "test",
+          "quiz",
+          "way"
+        ]
+      ],
+      "mistakeTags": [
+        "past_continuous",
+        "was_were_ing"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_04_past_continuous/028.mp3"
+    },
+    {
+      "id": "t4_30",
+      "type": "sentenceAssembly",
+      "question": "Мы ехали в город",
+      "correctAnswer": "We were driving to the city",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "I",
+          "He"
+        ],
+        [
+          "were",
+          "was",
+          "are",
+          "is"
+        ],
+        [
+          "driving",
+          "walking",
+          "running",
+          "flying"
+        ],
+        [
+          "to",
+          "from",
+          "in",
+          "at"
+        ],
+        [
+          "the",
+          "a",
+          "our",
+          "that"
+        ],
+        [
+          "city",
+          "park",
+          "beach",
+          "store"
+        ]
+      ],
+      "mistakeTags": [
+        "past_continuous",
+        "was_were_ing"
+      ],
+      "audioPath": "assets/audio/grammar/intermediate_04_past_continuous/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionIntermediate04PastContinuous",
+  "theoryQuiz": [
+    {
+      "id": "tq_01",
+      "type": "trueFalse",
+      "question": "Past Continuous образуется: was/were + V-ing.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Формула Past Continuous: was/were + глагол с окончанием -ing."
+    },
+    {
+      "id": "tq_02",
+      "type": "multipleChoice",
+      "question": "С какими местоимениями используется 'was'?",
+      "options": [
+        "you, we, they",
+        "I, he, she, it",
+        "только I",
+        "все местоимения"
+      ],
+      "correctIndex": 1,
+      "explanation": "Was используется с I, he, she, it; were — с you, we, they."
+    },
+    {
+      "id": "tq_03",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: She ___ a book at 8 PM.",
+      "options": [
+        "was read",
+        "were reading",
+        "was reading",
+        "is reading"
+      ],
+      "correctIndex": 2,
+      "explanation": "She + was + V-ing: She was reading."
+    },
+    {
+      "id": "tq_04",
+      "type": "trueFalse",
+      "question": "Past Continuous описывает процесс, который происходил в определённый момент в прошлом.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Past Continuous показывает действие как процесс в конкретный момент прошлого."
+    },
+    {
+      "id": "tq_05",
+      "type": "multipleChoice",
+      "question": "В предложении 'I was walking when it started to rain' Past Continuous выступает как:",
+      "options": [
+        "главное событие",
+        "фоновое действие",
+        "результат",
+        "будущее действие"
+      ],
+      "correctIndex": 1,
+      "explanation": "Past Continuous описывает фоновое длительное действие, которое прервалось Past Simple."
+    },
+    {
+      "id": "tq_06",
+      "type": "trueFalse",
+      "question": "Предложение 'They were watch TV' построено правильно.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "Нужна форма V-ing: They were watching TV."
+    },
+    {
+      "id": "tq_07",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: We ___ dinner when you called.",
+      "options": [
+        "was having",
+        "were having",
+        "had",
+        "are having"
+      ],
+      "correctIndex": 1,
+      "explanation": "We + were + V-ing: We were having."
+    },
+    {
+      "id": "tq_08",
+      "type": "multipleChoice",
+      "question": "Какое предложение использует Past Continuous правильно?",
+      "options": [
+        "He was went to school.",
+        "She were cooking.",
+        "I was sleeping at midnight.",
+        "They was playing."
+      ],
+      "correctIndex": 2,
+      "explanation": "I + was + V-ing: I was sleeping — верная конструкция."
+    },
+    {
+      "id": "tq_09",
+      "type": "trueFalse",
+      "question": "'Were' используется с местоимением 'I'.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "С I используется was: I was reading."
+    },
+    {
+      "id": "tq_10",
+      "type": "multipleChoice",
+      "question": "Какое предложение содержит ошибку?",
+      "options": [
+        "I was reading a book.",
+        "They were playing football.",
+        "She were singing.",
+        "We were watching TV."
+      ],
+      "correctIndex": 2,
+      "explanation": "She + was (не were): She was singing."
+    }
+  ]
+}

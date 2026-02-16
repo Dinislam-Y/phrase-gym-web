@@ -1,0 +1,1444 @@
+{
+  "id": "pre_08_can_cant",
+  "title": "Can / Can't",
+  "description": "Модальный глагол can — умею, могу. Can't — не умею, не могу. Самый простой способ рассказать, что ты умеешь или не умеешь делать.",
+  "order": 8,
+  "level": "pre_intermediate",
+  "imageUrl": "assets/images/lessons/can_cant.png",
+  "vocabulary": [
+    {
+      "id": "v8_swim",
+      "english": "swim",
+      "russian": "плавать",
+      "partOfSpeech": "verb",
+      "example": "I can swim.",
+      "exampleTranslation": "Я умею плавать.",
+      "audioPath": "assets/audio/vocabulary/v8_swim.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_swim.mp3"
+    },
+    {
+      "id": "v8_drive",
+      "english": "drive",
+      "russian": "водить (машину)",
+      "partOfSpeech": "verb",
+      "example": "He can drive.",
+      "exampleTranslation": "Он умеет водить.",
+      "audioPath": "assets/audio/vocabulary/v8_drive.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_drive.mp3"
+    },
+    {
+      "id": "v8_cook",
+      "english": "cook",
+      "russian": "готовить",
+      "partOfSpeech": "verb",
+      "example": "She can cook.",
+      "exampleTranslation": "Она умеет готовить.",
+      "audioPath": "assets/audio/vocabulary/v8_cook.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_cook.mp3"
+    },
+    {
+      "id": "v8_sing",
+      "english": "sing",
+      "russian": "петь",
+      "partOfSpeech": "verb",
+      "example": "I can't sing.",
+      "exampleTranslation": "Я не умею петь.",
+      "audioPath": "assets/audio/vocabulary/v8_sing.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_sing.mp3"
+    },
+    {
+      "id": "v8_dance",
+      "english": "dance",
+      "russian": "танцевать",
+      "partOfSpeech": "verb",
+      "example": "She can dance.",
+      "exampleTranslation": "Она умеет танцевать.",
+      "audioPath": "assets/audio/vocabulary/v8_dance.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_dance.mp3"
+    },
+    {
+      "id": "v8_help",
+      "english": "help",
+      "russian": "помогать",
+      "partOfSpeech": "verb",
+      "example": "Can you help?",
+      "exampleTranslation": "Ты можешь помочь?",
+      "audioPath": "assets/audio/vocabulary/v8_help.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_help.mp3"
+    },
+    {
+      "id": "v8_run",
+      "english": "run",
+      "russian": "бегать",
+      "partOfSpeech": "verb",
+      "example": "I can run fast.",
+      "exampleTranslation": "Я могу быстро бегать.",
+      "audioPath": "assets/audio/vocabulary/v8_run.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_run.mp3"
+    },
+    {
+      "id": "v8_jump",
+      "english": "jump",
+      "russian": "прыгать",
+      "partOfSpeech": "verb",
+      "example": "He can jump high.",
+      "exampleTranslation": "Он может высоко прыгать.",
+      "audioPath": "assets/audio/vocabulary/v8_jump.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_jump.mp3"
+    },
+    {
+      "id": "v8_read",
+      "english": "read",
+      "russian": "читать",
+      "partOfSpeech": "verb",
+      "example": "She can read fast.",
+      "exampleTranslation": "Она умеет быстро читать.",
+      "audioPath": "assets/audio/vocabulary/v8_read.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_read.mp3"
+    },
+    {
+      "id": "v8_write",
+      "english": "write",
+      "russian": "писать",
+      "partOfSpeech": "verb",
+      "example": "I can write well.",
+      "exampleTranslation": "Я умею хорошо писать.",
+      "audioPath": "assets/audio/vocabulary/v8_write.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_write.mp3"
+    },
+    {
+      "id": "v8_speak",
+      "english": "speak",
+      "russian": "говорить (на языке)",
+      "partOfSpeech": "verb",
+      "example": "I can speak English.",
+      "exampleTranslation": "Я могу говорить по-английски.",
+      "audioPath": "assets/audio/vocabulary/v8_speak.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_speak.mp3"
+    },
+    {
+      "id": "v8_play",
+      "english": "play",
+      "russian": "играть",
+      "partOfSpeech": "verb",
+      "example": "They can play guitar.",
+      "exampleTranslation": "Они умеют играть на гитаре.",
+      "audioPath": "assets/audio/vocabulary/v8_play.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_play.mp3"
+    },
+    {
+      "id": "v8_fly",
+      "english": "fly",
+      "russian": "летать",
+      "partOfSpeech": "verb",
+      "example": "Birds can fly.",
+      "exampleTranslation": "Птицы умеют летать.",
+      "audioPath": "assets/audio/vocabulary/v8_fly.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_fly.mp3"
+    },
+    {
+      "id": "v8_draw",
+      "english": "draw",
+      "russian": "рисовать",
+      "partOfSpeech": "verb",
+      "example": "She can draw well.",
+      "exampleTranslation": "Она умеет хорошо рисовать.",
+      "audioPath": "assets/audio/vocabulary/v8_draw.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_draw.mp3"
+    },
+    {
+      "id": "v8_ride",
+      "english": "ride",
+      "russian": "ездить (верхом, на велосипеде)",
+      "partOfSpeech": "verb",
+      "example": "He can ride a bike.",
+      "exampleTranslation": "Он умеет ездить на велосипеде.",
+      "audioPath": "assets/audio/vocabulary/v8_ride.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_ride.mp3"
+    },
+    {
+      "id": "v8_climb",
+      "english": "climb",
+      "russian": "лазить, карабкаться",
+      "partOfSpeech": "verb",
+      "example": "Cats can climb trees.",
+      "exampleTranslation": "Кошки умеют лазить по деревьям.",
+      "audioPath": "assets/audio/vocabulary/v8_climb.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_climb.mp3"
+    },
+    {
+      "id": "v8_well",
+      "english": "well",
+      "russian": "хорошо",
+      "partOfSpeech": "adverb",
+      "example": "She can sing well.",
+      "exampleTranslation": "Она умеет хорошо петь.",
+      "audioPath": "assets/audio/vocabulary/v8_well.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_well.mp3"
+    },
+    {
+      "id": "v8_fast",
+      "english": "fast",
+      "russian": "быстро",
+      "partOfSpeech": "adverb",
+      "example": "He can run fast.",
+      "exampleTranslation": "Он может быстро бегать.",
+      "audioPath": "assets/audio/vocabulary/v8_fast.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_fast.mp3"
+    },
+    {
+      "id": "v8_difficult",
+      "english": "difficult",
+      "russian": "трудный, сложный",
+      "partOfSpeech": "adjective",
+      "example": "It can be difficult.",
+      "exampleTranslation": "Это может быть сложным.",
+      "audioPath": "assets/audio/vocabulary/v8_difficult.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_difficult.mp3"
+    },
+    {
+      "id": "v8_see",
+      "english": "see",
+      "russian": "видеть",
+      "partOfSpeech": "verb",
+      "example": "I can see it.",
+      "exampleTranslation": "Я это вижу.",
+      "audioPath": "assets/audio/vocabulary/v8_see.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v8_see.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "Can / Can't",
+    "subtitle": "Модальный глагол can — умею, могу. Самый простой способ сказать, что умеешь или не умеешь.",
+    "construction": {
+      "formula": "Кто + can + Глагол",
+      "rules": [
+        {
+          "word": "can",
+          "description": "Означает «могу / умею». После can глагол всегда без изменений: I can swim, He can swim."
+        },
+        {
+          "word": "can't",
+          "description": "Означает «не могу / не умею». Сокращение от cannot: I can't sing."
+        },
+        {
+          "word": "Can ...?",
+          "description": "Для вопроса ставим can перед подлежащим: Can you help? Can she come?"
+        },
+        {
+          "word": "Без -s!",
+          "description": "После can глагол не меняется даже с he/she/it: He can drive (НЕ He can drives)."
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "bolt",
+        "color": "blue",
+        "title": "Умение и способность",
+        "description": "Что ты умеешь или можешь делать.",
+        "example": {
+          "english": "I can swim.",
+          "russian": "Я умею плавать."
+        }
+      },
+      {
+        "icon": "visibility",
+        "color": "purple",
+        "title": "Не умею / не могу",
+        "description": "Что ты не умеешь или не можешь.",
+        "example": {
+          "english": "I can't dance.",
+          "russian": "Я не умею танцевать."
+        }
+      },
+      {
+        "icon": "explore",
+        "color": "orange",
+        "title": "Вопрос — можешь ли?",
+        "description": "Спрашиваем, умеет ли кто-то что-то делать.",
+        "example": {
+          "english": "Can you help me?",
+          "russian": "Ты можешь мне помочь?"
+        }
+      },
+      {
+        "icon": "star",
+        "color": "green",
+        "title": "Восприятие: вижу, слышу",
+        "description": "Can используют с глаголами чувств: see, hear.",
+        "example": {
+          "english": "I can see it.",
+          "russian": "Я это вижу."
+        }
+      }
+    ],
+    "markers": [
+      "can",
+      "can't",
+      "cannot",
+      "Can you...?",
+      "Can I...?"
+    ]
+  },
+  "tasks": [
+    {
+      "id": "t8_1",
+      "type": "sentenceAssembly",
+      "question": "Я умею плавать",
+      "correctAnswer": "I can swim",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "can",
+          "can't",
+          "could",
+          "will"
+        ],
+        [
+          "swim",
+          "swims",
+          "swimming",
+          "run"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_can",
+        "can_cant"
+      ],
+      "audioPath": "assets/audio/grammar/pre_08_can_cant/000.mp3"
+    },
+    {
+      "id": "t8_2",
+      "type": "sentenceAssembly",
+      "question": "Он умеет водить",
+      "correctAnswer": "He can drive",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "I",
+          "They"
+        ],
+        [
+          "can",
+          "can't",
+          "could",
+          "does"
+        ],
+        [
+          "drive",
+          "drives",
+          "driving",
+          "ride"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_can",
+        "can_cant"
+      ],
+      "audioPath": "assets/audio/grammar/pre_08_can_cant/001.mp3"
+    },
+    {
+      "id": "t8_3",
+      "type": "sentenceAssembly",
+      "question": "Она умеет готовить",
+      "correctAnswer": "She can cook",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "We"
+        ],
+        [
+          "can",
+          "can't",
+          "could",
+          "does"
+        ],
+        [
+          "cook",
+          "cooks",
+          "cooking",
+          "bake"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_can",
+        "can_cant"
+      ],
+      "audioPath": "assets/audio/grammar/pre_08_can_cant/002.mp3"
+    },
+    {
+      "id": "t8_4",
+      "type": "sentenceAssembly",
+      "question": "Мы умеем читать",
+      "correctAnswer": "We can read",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "I",
+          "She"
+        ],
+        [
+          "can",
+          "can't",
+          "could",
+          "do"
+        ],
+        [
+          "read",
+          "reads",
+          "reading",
+          "write"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_can",
+        "can_cant"
+      ],
+      "audioPath": "assets/audio/grammar/pre_08_can_cant/003.mp3"
+    },
+    {
+      "id": "t8_5",
+      "type": "sentenceAssembly",
+      "question": "Они умеют бегать",
+      "correctAnswer": "They can run",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "We",
+          "He",
+          "She"
+        ],
+        [
+          "can",
+          "can't",
+          "could",
+          "do"
+        ],
+        [
+          "run",
+          "runs",
+          "running",
+          "walk"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_can",
+        "can_cant"
+      ],
+      "audioPath": "assets/audio/grammar/pre_08_can_cant/004.mp3"
+    },
+    {
+      "id": "t8_6",
+      "type": "sentenceAssembly",
+      "question": "Я умею писать",
+      "correctAnswer": "I can write",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "can",
+          "can't",
+          "will",
+          "do"
+        ],
+        [
+          "write",
+          "writes",
+          "writing",
+          "read"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_can",
+        "can_cant"
+      ],
+      "audioPath": "assets/audio/grammar/pre_08_can_cant/005.mp3"
+    },
+    {
+      "id": "t8_7",
+      "type": "sentenceAssembly",
+      "question": "Она умеет танцевать",
+      "correctAnswer": "She can dance",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "They"
+        ],
+        [
+          "can",
+          "can't",
+          "could",
+          "does"
+        ],
+        [
+          "dance",
+          "dances",
+          "dancing",
+          "sing"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_can",
+        "can_cant"
+      ],
+      "audioPath": "assets/audio/grammar/pre_08_can_cant/006.mp3"
+    },
+    {
+      "id": "t8_8",
+      "type": "sentenceAssembly",
+      "question": "Он умеет прыгать",
+      "correctAnswer": "He can jump",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "I",
+          "We"
+        ],
+        [
+          "can",
+          "can't",
+          "could",
+          "does"
+        ],
+        [
+          "jump",
+          "jumps",
+          "jumping",
+          "run"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_can",
+        "can_cant"
+      ],
+      "audioPath": "assets/audio/grammar/pre_08_can_cant/007.mp3"
+    },
+    {
+      "id": "t8_9",
+      "type": "sentenceAssembly",
+      "question": "Я умею рисовать",
+      "correctAnswer": "I can draw",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "They"
+        ],
+        [
+          "can",
+          "can't",
+          "could",
+          "do"
+        ],
+        [
+          "draw",
+          "draws",
+          "drawing",
+          "paint"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_can",
+        "can_cant"
+      ],
+      "audioPath": "assets/audio/grammar/pre_08_can_cant/008.mp3"
+    },
+    {
+      "id": "t8_10",
+      "type": "sentenceAssembly",
+      "question": "Мы умеем петь",
+      "correctAnswer": "We can sing",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "I",
+          "She"
+        ],
+        [
+          "can",
+          "can't",
+          "could",
+          "do"
+        ],
+        [
+          "sing",
+          "sings",
+          "singing",
+          "dance"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_can",
+        "can_cant"
+      ],
+      "audioPath": "assets/audio/grammar/pre_08_can_cant/009.mp3"
+    },
+    {
+      "id": "t8_11",
+      "type": "sentenceAssembly",
+      "question": "Я умею говорить по-английски",
+      "correctAnswer": "I can speak English",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "can",
+          "can't",
+          "could",
+          "do"
+        ],
+        [
+          "speak",
+          "speaks",
+          "speaking",
+          "talk"
+        ],
+        [
+          "English",
+          "German",
+          "French",
+          "Russian"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_can",
+        "can_cant"
+      ],
+      "audioPath": "assets/audio/grammar/pre_08_can_cant/010.mp3"
+    },
+    {
+      "id": "t8_12",
+      "type": "sentenceAssembly",
+      "question": "Они умеют играть на гитаре",
+      "correctAnswer": "They can play guitar",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "We",
+          "He",
+          "She"
+        ],
+        [
+          "can",
+          "can't",
+          "could",
+          "do"
+        ],
+        [
+          "play",
+          "plays",
+          "playing",
+          "hear"
+        ],
+        [
+          "guitar",
+          "the guitar",
+          "piano",
+          "drums"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_can",
+        "can_cant"
+      ],
+      "audioPath": "assets/audio/grammar/pre_08_can_cant/011.mp3"
+    },
+    {
+      "id": "t8_13",
+      "type": "sentenceAssembly",
+      "question": "Она умеет быстро бегать",
+      "correctAnswer": "She can run fast",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "They"
+        ],
+        [
+          "can",
+          "can't",
+          "could",
+          "does"
+        ],
+        [
+          "run",
+          "runs",
+          "running",
+          "walk"
+        ],
+        [
+          "fast",
+          "slow",
+          "quickly",
+          "well"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_can",
+        "can_cant"
+      ],
+      "audioPath": "assets/audio/grammar/pre_08_can_cant/012.mp3"
+    },
+    {
+      "id": "t8_14",
+      "type": "sentenceAssembly",
+      "question": "Он умеет хорошо готовить",
+      "correctAnswer": "He can cook well",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "I",
+          "We"
+        ],
+        [
+          "can",
+          "can't",
+          "could",
+          "does"
+        ],
+        [
+          "cook",
+          "cooks",
+          "cooking",
+          "bake"
+        ],
+        [
+          "well",
+          "good",
+          "fast",
+          "nice"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_can",
+        "can_cant"
+      ],
+      "audioPath": "assets/audio/grammar/pre_08_can_cant/013.mp3"
+    },
+    {
+      "id": "t8_15",
+      "type": "sentenceAssembly",
+      "question": "Я умею быстро читать",
+      "correctAnswer": "I can read fast",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "can",
+          "can't",
+          "could",
+          "do"
+        ],
+        [
+          "read",
+          "reads",
+          "reading",
+          "write"
+        ],
+        [
+          "fast",
+          "slow",
+          "well",
+          "good"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_can",
+        "can_cant"
+      ],
+      "audioPath": "assets/audio/grammar/pre_08_can_cant/014.mp3"
+    },
+    {
+      "id": "t8_16",
+      "type": "sentenceAssembly",
+      "question": "Мы умеем хорошо плавать",
+      "correctAnswer": "We can swim well",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "I",
+          "She"
+        ],
+        [
+          "can",
+          "can't",
+          "could",
+          "do"
+        ],
+        [
+          "swim",
+          "swims",
+          "swimming",
+          "run"
+        ],
+        [
+          "well",
+          "good",
+          "fast",
+          "nice"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_can",
+        "can_cant"
+      ],
+      "audioPath": "assets/audio/grammar/pre_08_can_cant/015.mp3"
+    },
+    {
+      "id": "t8_17",
+      "type": "sentenceAssembly",
+      "question": "Птицы умеют летать высоко",
+      "correctAnswer": "Birds can fly high",
+      "options": [],
+      "variants": [
+        [
+          "Birds",
+          "Dogs",
+          "Cats",
+          "Fish"
+        ],
+        [
+          "can",
+          "can't",
+          "could",
+          "do"
+        ],
+        [
+          "fly",
+          "flies",
+          "flying",
+          "run"
+        ],
+        [
+          "high",
+          "low",
+          "fast",
+          "well"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_can",
+        "can_cant"
+      ],
+      "audioPath": "assets/audio/grammar/pre_08_can_cant/016.mp3"
+    },
+    {
+      "id": "t8_18",
+      "type": "sentenceAssembly",
+      "question": "Он умеет хорошо писать",
+      "correctAnswer": "He can write well",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "I",
+          "They"
+        ],
+        [
+          "can",
+          "can't",
+          "could",
+          "does"
+        ],
+        [
+          "write",
+          "writes",
+          "writing",
+          "read"
+        ],
+        [
+          "well",
+          "good",
+          "fast",
+          "nice"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_can",
+        "can_cant"
+      ],
+      "audioPath": "assets/audio/grammar/pre_08_can_cant/017.mp3"
+    },
+    {
+      "id": "t8_19",
+      "type": "sentenceAssembly",
+      "question": "Она умеет играть на пианино",
+      "correctAnswer": "She can play piano",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "They"
+        ],
+        [
+          "can",
+          "can't",
+          "could",
+          "does"
+        ],
+        [
+          "play",
+          "plays",
+          "playing",
+          "hear"
+        ],
+        [
+          "piano",
+          "the piano",
+          "guitar",
+          "drums"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_can",
+        "can_cant"
+      ],
+      "audioPath": "assets/audio/grammar/pre_08_can_cant/018.mp3"
+    },
+    {
+      "id": "t8_20",
+      "type": "sentenceAssembly",
+      "question": "Я тебя слышу",
+      "correctAnswer": "I can hear you",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "can",
+          "can't",
+          "could",
+          "do"
+        ],
+        [
+          "hear",
+          "hears",
+          "hearing",
+          "see"
+        ],
+        [
+          "you",
+          "me",
+          "him",
+          "them"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_can",
+        "can_cant"
+      ],
+      "audioPath": "assets/audio/grammar/pre_08_can_cant/019.mp3"
+    },
+    {
+      "id": "t8_21",
+      "type": "sentenceAssembly",
+      "question": "Я не умею петь",
+      "correctAnswer": "I can't sing",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "can't",
+          "can",
+          "don't",
+          "won't"
+        ],
+        [
+          "sing",
+          "sings",
+          "singing",
+          "dance"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_can",
+        "can_cant"
+      ],
+      "audioPath": "assets/audio/grammar/pre_08_can_cant/020.mp3"
+    },
+    {
+      "id": "t8_22",
+      "type": "sentenceAssembly",
+      "question": "Он не умеет танцевать",
+      "correctAnswer": "He can't dance",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "I",
+          "They"
+        ],
+        [
+          "can't",
+          "can",
+          "doesn't",
+          "won't"
+        ],
+        [
+          "dance",
+          "dances",
+          "dancing",
+          "sing"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_can",
+        "can_cant"
+      ],
+      "audioPath": "assets/audio/grammar/pre_08_can_cant/021.mp3"
+    },
+    {
+      "id": "t8_23",
+      "type": "sentenceAssembly",
+      "question": "Мы не можем ждать",
+      "correctAnswer": "We can't wait",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "I",
+          "She"
+        ],
+        [
+          "can't",
+          "can",
+          "don't",
+          "won't"
+        ],
+        [
+          "wait",
+          "waits",
+          "waiting",
+          "stay"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_can",
+        "can_cant"
+      ],
+      "audioPath": "assets/audio/grammar/pre_08_can_cant/022.mp3"
+    },
+    {
+      "id": "t8_24",
+      "type": "sentenceAssembly",
+      "question": "Она не умеет водить",
+      "correctAnswer": "She can't drive",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "They"
+        ],
+        [
+          "can't",
+          "can",
+          "doesn't",
+          "won't"
+        ],
+        [
+          "drive",
+          "drives",
+          "driving",
+          "ride"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_can",
+        "can_cant"
+      ],
+      "audioPath": "assets/audio/grammar/pre_08_can_cant/023.mp3"
+    },
+    {
+      "id": "t8_25",
+      "type": "sentenceAssembly",
+      "question": "Они не умеют готовить",
+      "correctAnswer": "They can't cook",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "We",
+          "He",
+          "She"
+        ],
+        [
+          "can't",
+          "can",
+          "don't",
+          "won't"
+        ],
+        [
+          "cook",
+          "cooks",
+          "cooking",
+          "bake"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_can",
+        "can_cant"
+      ],
+      "audioPath": "assets/audio/grammar/pre_08_can_cant/024.mp3"
+    },
+    {
+      "id": "t8_26",
+      "type": "sentenceAssembly",
+      "question": "Ты умеешь плавать?",
+      "correctAnswer": "Can you swim?",
+      "options": [],
+      "variants": [
+        [
+          "Can",
+          "Do",
+          "Does",
+          "Will"
+        ],
+        [
+          "you",
+          "he",
+          "she",
+          "they"
+        ],
+        [
+          "swim",
+          "swims",
+          "swimming",
+          "run"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_can",
+        "can_cant"
+      ],
+      "audioPath": "assets/audio/grammar/pre_08_can_cant/025.mp3"
+    },
+    {
+      "id": "t8_27",
+      "type": "sentenceAssembly",
+      "question": "Она может прийти?",
+      "correctAnswer": "Can she come?",
+      "options": [],
+      "variants": [
+        [
+          "Can",
+          "Do",
+          "Does",
+          "Will"
+        ],
+        [
+          "she",
+          "he",
+          "you",
+          "they"
+        ],
+        [
+          "come",
+          "comes",
+          "coming",
+          "go"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_can",
+        "can_cant"
+      ],
+      "audioPath": "assets/audio/grammar/pre_08_can_cant/026.mp3"
+    },
+    {
+      "id": "t8_28",
+      "type": "sentenceAssembly",
+      "question": "Ты можешь помочь?",
+      "correctAnswer": "Can you help?",
+      "options": [],
+      "variants": [
+        [
+          "Can",
+          "Do",
+          "Does",
+          "Will"
+        ],
+        [
+          "you",
+          "he",
+          "she",
+          "they"
+        ],
+        [
+          "help",
+          "helps",
+          "helping",
+          "wait"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_can",
+        "can_cant"
+      ],
+      "audioPath": "assets/audio/grammar/pre_08_can_cant/027.mp3"
+    },
+    {
+      "id": "t8_29",
+      "type": "sentenceAssembly",
+      "question": "Он умеет говорить по-русски?",
+      "correctAnswer": "Can he speak Russian?",
+      "options": [],
+      "variants": [
+        [
+          "Can",
+          "Do",
+          "Does",
+          "Will"
+        ],
+        [
+          "he",
+          "she",
+          "you",
+          "they"
+        ],
+        [
+          "speak",
+          "speaks",
+          "speaking",
+          "talk"
+        ],
+        [
+          "Russian",
+          "German",
+          "English",
+          "French"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_can",
+        "can_cant"
+      ],
+      "audioPath": "assets/audio/grammar/pre_08_can_cant/028.mp3"
+    },
+    {
+      "id": "t8_30",
+      "type": "sentenceAssembly",
+      "question": "Они умеют хорошо рисовать?",
+      "correctAnswer": "Can they draw well?",
+      "options": [],
+      "variants": [
+        [
+          "Can",
+          "Do",
+          "Does",
+          "Will"
+        ],
+        [
+          "they",
+          "he",
+          "she",
+          "you"
+        ],
+        [
+          "draw",
+          "draws",
+          "drawing",
+          "paint"
+        ],
+        [
+          "well",
+          "good",
+          "fast",
+          "nice"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_can",
+        "can_cant"
+      ],
+      "audioPath": "assets/audio/grammar/pre_08_can_cant/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionBeginner08CanCant",
+  "theoryQuiz": [
+    {
+      "id": "tq_01",
+      "type": "trueFalse",
+      "question": "\"Can\" означает «умею, могу».",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Can выражает способность или возможность: I can swim — Я умею плавать."
+    },
+    {
+      "id": "tq_02",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"She ___ speak three languages.\"",
+      "options": [
+        "cans",
+        "can",
+        "can to",
+        "caning"
+      ],
+      "correctIndex": 1,
+      "explanation": "Can не изменяется по лицам и не добавляет окончаний: She can speak."
+    },
+    {
+      "id": "tq_03",
+      "type": "trueFalse",
+      "question": "После can глагол получает окончание -s с he/she/it: He can plays.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "После can глагол всегда стоит в базовой форме без -s: He can play."
+    },
+    {
+      "id": "tq_04",
+      "type": "multipleChoice",
+      "question": "Как строится вопрос с can?",
+      "options": [
+        "Do + subject + can + V1?",
+        "Can + subject + V1?",
+        "Subject + can + V1?",
+        "Does + subject + can + V1?"
+      ],
+      "correctIndex": 1,
+      "explanation": "Вопрос: Can + подлежащее + глагол: Can you swim?"
+    },
+    {
+      "id": "tq_05",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"I ___ drive a car. I don't have a license.\"",
+      "options": [
+        "can",
+        "can't",
+        "cans",
+        "don't can"
+      ],
+      "correctIndex": 1,
+      "explanation": "Can't (cannot) — отрицание, означает «не могу, не умею»."
+    },
+    {
+      "id": "tq_06",
+      "type": "trueFalse",
+      "question": "\"Can you help me?\" — это правильная вопросительная форма с can.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Can + you + help — правильный порядок слов в вопросе."
+    },
+    {
+      "id": "tq_07",
+      "type": "multipleChoice",
+      "question": "Найдите ошибку: \"He can to cook very well.\"",
+      "options": [
+        "Нужно \"cans\" вместо \"can\"",
+        "Нужно убрать \"to\" перед cook",
+        "Нужно \"cooks\" вместо \"cook\"",
+        "Ошибки нет"
+      ],
+      "correctIndex": 1,
+      "explanation": "После can частица to не используется: He can cook very well."
+    },
+    {
+      "id": "tq_08",
+      "type": "multipleChoice",
+      "question": "Выберите правильное предложение:",
+      "options": [
+        "She cans dance.",
+        "They can't to sing.",
+        "We can play chess.",
+        "He can goes home."
+      ],
+      "correctIndex": 2,
+      "explanation": "We can play — верно. Can не изменяется, после can нет to и глагол без -s."
+    },
+    {
+      "id": "tq_09",
+      "type": "trueFalse",
+      "question": "\"My baby can't walk yet.\" — предложение составлено правильно.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Subject + can't + V1 — правильная отрицательная конструкция."
+    },
+    {
+      "id": "tq_10",
+      "type": "multipleChoice",
+      "question": "Как правильно перевести: «Ты умеешь плавать?»",
+      "options": [
+        "Do you can swim?",
+        "Can you swim?",
+        "You can swim?",
+        "Are you can swim?"
+      ],
+      "correctIndex": 1,
+      "explanation": "Вопрос строится: Can + subject + V1? Can you swim?"
+    }
+  ]
+}

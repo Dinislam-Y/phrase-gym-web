@@ -1,0 +1,400 @@
+{
+  "id": "intermediate_bc_04_past_continuous",
+  "title": "While vs When",
+  "description": "While или When? Фон действия или момент — научись отличать мгновенно.",
+  "order": 6,
+  "level": "intermediate",
+  "imageUrl": null,
+  "tasks": [
+    {
+      "id": "wvwh_1",
+      "question": "___ I was cooking, the phone rang.",
+      "optionA": "WHILE",
+      "optionB": "WHEN",
+      "correctIndex": 0,
+      "explanation": "Was cooking — длительное действие (фон), поэтому while.",
+      "tags": [
+        "while_vs_when",
+        "while",
+        "daily_life"
+      ]
+    },
+    {
+      "id": "wvwh_2",
+      "question": "___ she arrived, everyone was happy.",
+      "optionA": "WHILE",
+      "optionB": "WHEN",
+      "correctIndex": 1,
+      "explanation": "Arrived — короткое одномоментное действие, when.",
+      "tags": [
+        "while_vs_when",
+        "when",
+        "social"
+      ]
+    },
+    {
+      "id": "wvwh_3",
+      "question": "I was reading ___ you called me.",
+      "optionA": "WHILE",
+      "optionB": "WHEN",
+      "correctIndex": 1,
+      "explanation": "Called — конкретный момент, прервавший чтение — when.",
+      "tags": [
+        "while_vs_when",
+        "when",
+        "communication"
+      ]
+    },
+    {
+      "id": "wvwh_4",
+      "question": "___ we were walking, it started to rain.",
+      "optionA": "WHILE",
+      "optionB": "WHEN",
+      "correctIndex": 0,
+      "explanation": "Were walking — длительное действие (фон), while.",
+      "tags": [
+        "while_vs_when",
+        "while",
+        "weather"
+      ]
+    },
+    {
+      "id": "wvwh_5",
+      "question": "___ I heard the news, I was shocked.",
+      "optionA": "WHILE",
+      "optionB": "WHEN",
+      "correctIndex": 1,
+      "explanation": "Heard — одномоментное действие, when.",
+      "tags": [
+        "while_vs_when",
+        "when",
+        "emotions"
+      ]
+    },
+    {
+      "id": "wvwh_6",
+      "question": "___ he was sleeping, someone knocked.",
+      "optionA": "WHILE",
+      "optionB": "WHEN",
+      "correctIndex": 0,
+      "explanation": "Was sleeping — длительное фоновое действие, while.",
+      "tags": [
+        "while_vs_when",
+        "while",
+        "home"
+      ]
+    },
+    {
+      "id": "wvwh_7",
+      "question": "___ the bus came, I got on quickly.",
+      "optionA": "WHILE",
+      "optionB": "WHEN",
+      "correctIndex": 1,
+      "explanation": "Came — момент прибытия, when.",
+      "tags": [
+        "while_vs_when",
+        "when",
+        "travel"
+      ]
+    },
+    {
+      "id": "wvwh_8",
+      "question": "___ she was studying, I was watching TV.",
+      "optionA": "WHILE",
+      "optionB": "WHEN",
+      "correctIndex": 0,
+      "explanation": "Два параллельных длительных действия — while.",
+      "tags": [
+        "while_vs_when",
+        "while",
+        "daily_life"
+      ]
+    },
+    {
+      "id": "wvwh_9",
+      "question": "___ I opened the door, the cat ran out.",
+      "optionA": "WHILE",
+      "optionB": "WHEN",
+      "correctIndex": 1,
+      "explanation": "Opened — конкретное действие в момент, when.",
+      "tags": [
+        "while_vs_when",
+        "when",
+        "home"
+      ]
+    },
+    {
+      "id": "wvwh_10",
+      "question": "___ they were dancing, the music stopped.",
+      "optionA": "WHILE",
+      "optionB": "WHEN",
+      "correctIndex": 0,
+      "explanation": "Were dancing — длительный фон, while.",
+      "tags": [
+        "while_vs_when",
+        "while",
+        "entertainment"
+      ]
+    },
+    {
+      "id": "wvwh_11",
+      "question": "I fell asleep ___ I was watching a film.",
+      "optionA": "WHILE",
+      "optionB": "WHEN",
+      "correctIndex": 0,
+      "explanation": "Was watching — длительное действие, во время которого заснул — while.",
+      "tags": [
+        "while_vs_when",
+        "while",
+        "entertainment"
+      ]
+    },
+    {
+      "id": "wvwh_12",
+      "question": "___ the teacher entered, we stood up.",
+      "optionA": "WHILE",
+      "optionB": "WHEN",
+      "correctIndex": 1,
+      "explanation": "Entered — одномоментное действие, when.",
+      "tags": [
+        "while_vs_when",
+        "when",
+        "school"
+      ]
+    },
+    {
+      "id": "wvwh_13",
+      "question": "___ I was driving, I saw a deer.",
+      "optionA": "WHILE",
+      "optionB": "WHEN",
+      "correctIndex": 0,
+      "explanation": "Was driving — длительное фоновое действие, while.",
+      "tags": [
+        "while_vs_when",
+        "while",
+        "travel"
+      ]
+    },
+    {
+      "id": "wvwh_14",
+      "question": "___ he finished work, he went home.",
+      "optionA": "WHILE",
+      "optionB": "WHEN",
+      "correctIndex": 1,
+      "explanation": "Finished — завершённое действие, момент — when.",
+      "tags": [
+        "while_vs_when",
+        "when",
+        "work"
+      ]
+    },
+    {
+      "id": "wvwh_15",
+      "question": "___ we were eating, the lights went off.",
+      "optionA": "WHILE",
+      "optionB": "WHEN",
+      "correctIndex": 0,
+      "explanation": "Were eating — фоновое действие, while.",
+      "tags": [
+        "while_vs_when",
+        "while",
+        "home"
+      ]
+    },
+    {
+      "id": "wvwh_16",
+      "question": "___ I woke up, it was already noon.",
+      "optionA": "WHILE",
+      "optionB": "WHEN",
+      "correctIndex": 1,
+      "explanation": "Woke up — момент пробуждения, when.",
+      "tags": [
+        "while_vs_when",
+        "when",
+        "daily_life"
+      ]
+    },
+    {
+      "id": "wvwh_17",
+      "question": "He hurt his leg ___ he was playing football.",
+      "optionA": "WHILE",
+      "optionB": "WHEN",
+      "correctIndex": 0,
+      "explanation": "Was playing — длительное действие на фоне, while.",
+      "tags": [
+        "while_vs_when",
+        "while",
+        "sport"
+      ]
+    },
+    {
+      "id": "wvwh_18",
+      "question": "___ the alarm went off, I jumped up.",
+      "optionA": "WHILE",
+      "optionB": "WHEN",
+      "correctIndex": 1,
+      "explanation": "Went off — конкретный момент, when.",
+      "tags": [
+        "while_vs_when",
+        "when",
+        "daily_life"
+      ]
+    },
+    {
+      "id": "wvwh_19",
+      "question": "___ I was waiting, I read a book.",
+      "optionA": "WHILE",
+      "optionB": "WHEN",
+      "correctIndex": 0,
+      "explanation": "Was waiting — длительное ожидание (фон), while.",
+      "tags": [
+        "while_vs_when",
+        "while",
+        "daily_life"
+      ]
+    },
+    {
+      "id": "wvwh_20",
+      "question": "___ she saw the spider, she screamed.",
+      "optionA": "WHILE",
+      "optionB": "WHEN",
+      "correctIndex": 1,
+      "explanation": "Saw — одномоментное действие, when.",
+      "tags": [
+        "while_vs_when",
+        "when",
+        "emotions"
+      ]
+    },
+    {
+      "id": "wvwh_21",
+      "question": "___ the kids were playing, a ball broke the window.",
+      "optionA": "WHILE",
+      "optionB": "WHEN",
+      "correctIndex": 0,
+      "explanation": "Were playing — фоновое действие, на фоне которого произошло событие — while.",
+      "tags": [
+        "while_vs_when",
+        "while",
+        "home"
+      ]
+    },
+    {
+      "id": "wvwh_22",
+      "question": "___ I got to the station, the train had left.",
+      "optionA": "WHILE",
+      "optionB": "WHEN",
+      "correctIndex": 1,
+      "explanation": "Got — конкретный момент прибытия, when.",
+      "tags": [
+        "while_vs_when",
+        "when",
+        "travel"
+      ]
+    },
+    {
+      "id": "wvwh_23",
+      "question": "She was talking on the phone ___ she was cooking.",
+      "optionA": "WHILE",
+      "optionB": "WHEN",
+      "correctIndex": 0,
+      "explanation": "Два параллельных длительных действия — while.",
+      "tags": [
+        "while_vs_when",
+        "while",
+        "daily_life"
+      ]
+    },
+    {
+      "id": "wvwh_24",
+      "question": "___ I looked outside, it was snowing.",
+      "optionA": "WHILE",
+      "optionB": "WHEN",
+      "correctIndex": 1,
+      "explanation": "Looked — одномоментное действие, when.",
+      "tags": [
+        "while_vs_when",
+        "when",
+        "weather"
+      ]
+    },
+    {
+      "id": "wvwh_25",
+      "question": "___ we were having dinner, the doorbell rang.",
+      "optionA": "WHILE",
+      "optionB": "WHEN",
+      "correctIndex": 0,
+      "explanation": "Were having dinner — длительный фон, while.",
+      "tags": [
+        "while_vs_when",
+        "while",
+        "home"
+      ]
+    },
+    {
+      "id": "wvwh_26",
+      "question": "___ he turned around, she was already gone.",
+      "optionA": "WHILE",
+      "optionB": "WHEN",
+      "correctIndex": 1,
+      "explanation": "Turned around — одномоментное действие, when.",
+      "tags": [
+        "while_vs_when",
+        "when",
+        "social"
+      ]
+    },
+    {
+      "id": "wvwh_27",
+      "question": "___ they were arguing, I left the room quietly.",
+      "optionA": "WHILE",
+      "optionB": "WHEN",
+      "correctIndex": 0,
+      "explanation": "Were arguing — длительное действие, while.",
+      "tags": [
+        "while_vs_when",
+        "while",
+        "communication"
+      ]
+    },
+    {
+      "id": "wvwh_28",
+      "question": "___ the meeting started, he was still outside.",
+      "optionA": "WHILE",
+      "optionB": "WHEN",
+      "correctIndex": 1,
+      "explanation": "Started — конкретный момент начала, when.",
+      "tags": [
+        "while_vs_when",
+        "when",
+        "work"
+      ]
+    },
+    {
+      "id": "wvwh_29",
+      "question": "I was listening to music ___ I was jogging.",
+      "optionA": "WHILE",
+      "optionB": "WHEN",
+      "correctIndex": 0,
+      "explanation": "Два одновременных длительных действия — while.",
+      "tags": [
+        "while_vs_when",
+        "while",
+        "sport"
+      ]
+    },
+    {
+      "id": "wvwh_30",
+      "question": "___ she called his name, he didn't hear.",
+      "optionA": "WHILE",
+      "optionB": "WHEN",
+      "correctIndex": 1,
+      "explanation": "Called — конкретный момент, when.",
+      "tags": [
+        "while_vs_when",
+        "when",
+        "communication"
+      ]
+    }
+  ]
+}

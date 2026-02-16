@@ -1,0 +1,2507 @@
+{
+  "id": "advanced_07_cleft_sentences",
+  "title": "Cleft Sentences",
+  "description": "Расщеплённые предложения — способ выделить важную часть фразы. It was John who called (Именно Джон позвонил). What I need is a break (То, что мне нужно — это перерыв).",
+  "order": 7,
+  "level": "advanced",
+  "imageUrl": "assets/images/lessons/cleft_sentences.png",
+  "vocabulary": [
+    {
+      "id": "v7_emphasis",
+      "english": "emphasis",
+      "russian": "акцент (выделение)",
+      "partOfSpeech": "noun",
+      "example": "The emphasis is on you.",
+      "exampleTranslation": "Акцент на тебе.",
+      "audioPath": "assets/audio/vocabulary/v7_emphasis.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_emphasis.mp3"
+    },
+    {
+      "id": "v7_reason",
+      "english": "reason",
+      "russian": "причина",
+      "partOfSpeech": "noun",
+      "example": "The reason I called.",
+      "exampleTranslation": "Причина, по которой я позвонил.",
+      "audioPath": "assets/audio/vocabulary/v7_reason.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_reason.mp3"
+    },
+    {
+      "id": "v7_break",
+      "english": "break",
+      "russian": "перерыв",
+      "partOfSpeech": "noun",
+      "example": "What I need is a break.",
+      "exampleTranslation": "Мне нужен перерыв.",
+      "audioPath": "assets/audio/vocabulary/v7_break.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_break.mp3"
+    },
+    {
+      "id": "v7_peace",
+      "english": "peace",
+      "russian": "покой",
+      "partOfSpeech": "noun",
+      "example": "All I want is peace.",
+      "exampleTranslation": "Всё, чего я хочу — покой.",
+      "audioPath": "assets/audio/vocabulary/v7_peace.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_peace.mp3"
+    },
+    {
+      "id": "v7_bother",
+      "english": "bother",
+      "russian": "беспокоить",
+      "partOfSpeech": "verb",
+      "example": "What bothers me is the noise.",
+      "exampleTranslation": "Что меня беспокоит — это шум.",
+      "audioPath": "assets/audio/vocabulary/v7_bother.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_bother.mp3"
+    },
+    {
+      "id": "v7_matter",
+      "english": "matter",
+      "russian": "иметь значение",
+      "partOfSpeech": "verb",
+      "example": "What matters is the truth.",
+      "exampleTranslation": "Что важно — это правда.",
+      "audioPath": "assets/audio/vocabulary/v7_matter.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_matter.mp3"
+    },
+    {
+      "id": "v7_suggest",
+      "english": "suggest",
+      "russian": "предлагать",
+      "partOfSpeech": "verb",
+      "example": "What I suggest is a new plan.",
+      "exampleTranslation": "Что я предлагаю — это новый план.",
+      "audioPath": "assets/audio/vocabulary/v7_suggest.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_suggest.mp3"
+    },
+    {
+      "id": "v7_enjoy",
+      "english": "enjoy",
+      "russian": "наслаждаться",
+      "partOfSpeech": "verb",
+      "example": "What I enjoy is reading.",
+      "exampleTranslation": "Чем я наслаждаюсь — это чтение.",
+      "audioPath": "assets/audio/vocabulary/v7_enjoy.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_enjoy.mp3"
+    },
+    {
+      "id": "v7_attitude",
+      "english": "attitude",
+      "russian": "отношение",
+      "partOfSpeech": "noun",
+      "example": "It is his attitude that worries me.",
+      "exampleTranslation": "Именно его отношение меня беспокоит.",
+      "audioPath": "assets/audio/vocabulary/v7_attitude.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_attitude.mp3"
+    },
+    {
+      "id": "v7_annoy",
+      "english": "annoy",
+      "russian": "раздражать",
+      "partOfSpeech": "verb",
+      "example": "What annoys me is the delay.",
+      "exampleTranslation": "Что меня раздражает — задержка.",
+      "audioPath": "assets/audio/vocabulary/v7_annoy.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_annoy.mp3"
+    },
+    {
+      "id": "v7_lack",
+      "english": "lack",
+      "russian": "нехватка",
+      "partOfSpeech": "noun",
+      "example": "It was the lack of time.",
+      "exampleTranslation": "Именно нехватка времени.",
+      "audioPath": "assets/audio/vocabulary/v7_lack.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_lack.mp3"
+    },
+    {
+      "id": "v7_courage",
+      "english": "courage",
+      "russian": "смелость",
+      "partOfSpeech": "noun",
+      "example": "What we need is courage.",
+      "exampleTranslation": "Что нам нужно — это смелость.",
+      "audioPath": "assets/audio/vocabulary/v7_courage.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_courage.mp3"
+    },
+    {
+      "id": "v7_honesty",
+      "english": "honesty",
+      "russian": "честность",
+      "partOfSpeech": "noun",
+      "example": "All I ask for is honesty.",
+      "exampleTranslation": "Всё, о чём я прошу — честность.",
+      "audioPath": "assets/audio/vocabulary/v7_honesty.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_honesty.mp3"
+    },
+    {
+      "id": "v7_patience",
+      "english": "patience",
+      "russian": "терпение",
+      "partOfSpeech": "noun",
+      "example": "What you need is patience.",
+      "exampleTranslation": "Что тебе нужно — терпение.",
+      "audioPath": "assets/audio/vocabulary/v7_patience.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_patience.mp3"
+    },
+    {
+      "id": "v7_silence",
+      "english": "silence",
+      "russian": "тишина",
+      "partOfSpeech": "noun",
+      "example": "All I hear is silence.",
+      "exampleTranslation": "Всё, что я слышу — тишина.",
+      "audioPath": "assets/audio/vocabulary/v7_silence.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_silence.mp3"
+    },
+    {
+      "id": "v7_apologize",
+      "english": "apologize",
+      "russian": "извиняться",
+      "partOfSpeech": "verb",
+      "example": "The reason I came was to apologize.",
+      "exampleTranslation": "Причина, по которой я пришёл — извиниться.",
+      "audioPath": "assets/audio/vocabulary/v7_apologize.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_apologize.mp3"
+    },
+    {
+      "id": "v7_surprise",
+      "english": "surprise",
+      "russian": "удивлять",
+      "partOfSpeech": "verb",
+      "example": "What surprised me was the result.",
+      "exampleTranslation": "Что меня удивило — это результат.",
+      "audioPath": "assets/audio/vocabulary/v7_surprise.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_surprise.mp3"
+    },
+    {
+      "id": "v7_inspire",
+      "english": "inspire",
+      "russian": "вдохновлять",
+      "partOfSpeech": "verb",
+      "example": "It was her speech that inspired us.",
+      "exampleTranslation": "Именно её речь нас вдохновила.",
+      "audioPath": "assets/audio/vocabulary/v7_inspire.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_inspire.mp3"
+    },
+    {
+      "id": "v7_decision",
+      "english": "decision",
+      "russian": "решение",
+      "partOfSpeech": "noun",
+      "example": "It was the decision that changed everything.",
+      "exampleTranslation": "Именно это решение всё изменило.",
+      "audioPath": "assets/audio/vocabulary/v7_decision.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_decision.mp3"
+    },
+    {
+      "id": "v7_concern",
+      "english": "concern",
+      "russian": "беспокойство",
+      "partOfSpeech": "noun",
+      "example": "What concerns me is the cost.",
+      "exampleTranslation": "Что меня беспокоит — это стоимость.",
+      "audioPath": "assets/audio/vocabulary/v7_concern.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v7_concern.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "Cleft Sentences",
+    "subtitle": "Расщеплённые предложения разбивают простое предложение на две части, чтобы ВЫДЕЛИТЬ нужный элемент. It was JOHN who called. What I NEED is a break. All I WANT is peace.",
+    "construction": {
+      "formula": "It + be + focus + who/that + clause | What/All/The thing + clause + be + focus",
+      "rules": [
+        {
+          "word": "It-cleft (Это-расщепление)",
+          "description": "It was JOHN who called. (Именно Джон позвонил). Выносим нужное слово после It was/is, остальное — в придаточное с who/that."
+        },
+        {
+          "word": "Wh-cleft (What-расщепление)",
+          "description": "What I need IS A BREAK. (То, что мне нужно — перерыв). Начинаем с What + предложение, потом is + выделяемое."
+        },
+        {
+          "word": "All-cleft (Всё, что...)",
+          "description": "All I want IS PEACE. (Всё, что я хочу — покой). All сужает фокус до единственного элемента."
+        },
+        {
+          "word": "The thing/reason (Штука/Причина)",
+          "description": "The reason I called IS TO APOLOGIZE. (Причина звонка — извиниться). The thing/reason/place + clause + is + focus."
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "star",
+        "color": "orange",
+        "title": "Выделение субъекта",
+        "description": "It was MARY who broke the vase. (Именно Мэри разбила вазу — не кто-то другой).",
+        "example": {
+          "english": "It was the manager who made the decision.",
+          "russian": "Именно менеджер принял это решение."
+        }
+      },
+      {
+        "icon": "explore",
+        "color": "blue",
+        "title": "Выделение действия или потребности",
+        "description": "What we need is more time. (Что нам нужно — больше времени).",
+        "example": {
+          "english": "What I enjoy most is reading books at night.",
+          "russian": "Что мне нравится больше всего — читать книги ночью."
+        }
+      },
+      {
+        "icon": "check_circle",
+        "color": "green",
+        "title": "Сужение до одного",
+        "description": "All I ask for is honesty. (Всё, о чём прошу — честность).",
+        "example": {
+          "english": "All they wanted was a fair chance.",
+          "russian": "Всё, чего они хотели — справедливый шанс."
+        }
+      },
+      {
+        "icon": "check_circle",
+        "color": "orange",
+        "title": "Объяснение причины",
+        "description": "The reason I left is that I was tired. (Причина ухода — усталость).",
+        "example": {
+          "english": "The thing that bothers me is the noise.",
+          "russian": "То, что меня беспокоит — это шум."
+        }
+      }
+    ],
+    "markers": [
+      "it was ... who",
+      "it is ... that",
+      "what I need is",
+      "all I want is",
+      "the reason ... is",
+      "the thing that"
+    ]
+  },
+  "tasks": [
+    {
+      "id": "t7_1",
+      "type": "sentenceAssembly",
+      "question": "Именно Джон позвонил мне вчера вечером (It-cleft)",
+      "correctAnswer": "It was John who called me last night",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "He",
+          "There",
+          "This"
+        ],
+        [
+          "was",
+          "is",
+          "were",
+          "been"
+        ],
+        [
+          "John",
+          "him",
+          "his",
+          "Johns"
+        ],
+        [
+          "who",
+          "which",
+          "what",
+          "whom"
+        ],
+        [
+          "called",
+          "call",
+          "calls",
+          "calling"
+        ],
+        [
+          "me",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "last",
+          "past",
+          "late",
+          "previous"
+        ],
+        [
+          "night",
+          "day",
+          "evening",
+          "time"
+        ]
+      ],
+      "mistakeTags": [
+        "cleft_sentences",
+        "it_is_what"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_07_cleft_sentences/000.mp3"
+    },
+    {
+      "id": "t7_2",
+      "type": "sentenceAssembly",
+      "question": "То, что мне нужно — это перерыв прямо сейчас (Wh-cleft)",
+      "correctAnswer": "What I need is a break right now",
+      "options": [],
+      "variants": [
+        [
+          "What",
+          "Which",
+          "That",
+          "How"
+        ],
+        [
+          "I",
+          "They",
+          "You",
+          "One"
+        ],
+        [
+          "need",
+          "needs",
+          "needed",
+          "needing"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "were"
+        ],
+        [
+          "a",
+          "some",
+          "every",
+          "an"
+        ],
+        [
+          "break",
+          "rest",
+          "pause",
+          "stop"
+        ],
+        [
+          "right",
+          "just",
+          "exactly",
+          "quite"
+        ],
+        [
+          "now",
+          "here",
+          "then",
+          "today"
+        ]
+      ],
+      "mistakeTags": [
+        "cleft_sentences",
+        "it_is_what"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_07_cleft_sentences/001.mp3"
+    },
+    {
+      "id": "t7_3",
+      "type": "sentenceAssembly",
+      "question": "Всё, что Сократ искал — это истина и добродетель в жизни (All-cleft)",
+      "correctAnswer": "All Socrates sought was truth and virtue in life",
+      "options": [],
+      "variants": [
+        [
+          "All",
+          "What",
+          "That",
+          "Which"
+        ],
+        [
+          "Socrates",
+          "Plato",
+          "Aristotle",
+          "Kant"
+        ],
+        [
+          "sought",
+          "found",
+          "taught",
+          "loved"
+        ],
+        [
+          "was",
+          "is",
+          "are",
+          "were"
+        ],
+        [
+          "truth",
+          "power",
+          "fame",
+          "wealth"
+        ],
+        [
+          "and",
+          "or",
+          "but",
+          "with"
+        ],
+        [
+          "virtue",
+          "wisdom",
+          "justice",
+          "honor"
+        ],
+        [
+          "in",
+          "about",
+          "through",
+          "into"
+        ],
+        [
+          "life",
+          "nature",
+          "reason",
+          "faith"
+        ]
+      ],
+      "mistakeTags": [
+        "cleft_sentences",
+        "it_is_what"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_07_cleft_sentences/002.mp3"
+    },
+    {
+      "id": "t7_4",
+      "type": "sentenceAssembly",
+      "question": "Причина, по которой я позвонил — извиниться перед тобой (The reason)",
+      "correctAnswer": "The reason I called is to apologize to you",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "reason",
+          "cause",
+          "way",
+          "fact"
+        ],
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "called",
+          "call",
+          "calls",
+          "calling"
+        ],
+        [
+          "is",
+          "was",
+          "are",
+          "were"
+        ],
+        [
+          "to",
+          "for",
+          "and",
+          "so"
+        ],
+        [
+          "apologize",
+          "sorry",
+          "forgive",
+          "explain"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "with"
+        ],
+        [
+          "you",
+          "He",
+          "She",
+          "We"
+        ]
+      ],
+      "mistakeTags": [
+        "cleft_sentences",
+        "it_is_what"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_07_cleft_sentences/003.mp3"
+    },
+    {
+      "id": "t7_5",
+      "type": "sentenceAssembly",
+      "question": "Именно его отношение беспокоит меня больше всего (It-cleft)",
+      "correctAnswer": "It is his attitude that worries me the most",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "He",
+          "This",
+          "There"
+        ],
+        [
+          "is",
+          "was",
+          "are",
+          "were"
+        ],
+        [
+          "his",
+          "They",
+          "You",
+          "One"
+        ],
+        [
+          "attitude",
+          "behavior",
+          "mood",
+          "mind"
+        ],
+        [
+          "that",
+          "which",
+          "who",
+          "what"
+        ],
+        [
+          "worries",
+          "worry",
+          "worried",
+          "worrying"
+        ],
+        [
+          "me",
+          "They",
+          "You",
+          "One"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "most",
+          "more",
+          "much",
+          "many"
+        ]
+      ],
+      "mistakeTags": [
+        "cleft_sentences",
+        "it_is_what"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_07_cleft_sentences/004.mp3"
+    },
+    {
+      "id": "t7_6",
+      "type": "sentenceAssembly",
+      "question": "То, что меня удивило — это результат теста (Wh-cleft)",
+      "correctAnswer": "What surprised me was the result of the test",
+      "options": [],
+      "variants": [
+        [
+          "What",
+          "Which",
+          "That",
+          "How"
+        ],
+        [
+          "surprised",
+          "surprise",
+          "surprises",
+          "surprising"
+        ],
+        [
+          "me",
+          "She",
+          "He",
+          "It"
+        ],
+        [
+          "was",
+          "is",
+          "were",
+          "are"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "result",
+          "outcome",
+          "score",
+          "answer"
+        ],
+        [
+          "of",
+          "about",
+          "through",
+          "into"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "test",
+          "exam",
+          "quiz",
+          "check"
+        ]
+      ],
+      "mistakeTags": [
+        "cleft_sentences",
+        "it_is_what"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_07_cleft_sentences/005.mp3"
+    },
+    {
+      "id": "t7_7",
+      "type": "sentenceAssembly",
+      "question": "Всё, чего требует справедливость — это равенство перед законом (All-cleft)",
+      "correctAnswer": "All justice demands is equality before the law",
+      "options": [],
+      "variants": [
+        [
+          "All",
+          "What",
+          "That",
+          "Which"
+        ],
+        [
+          "justice",
+          "society",
+          "freedom",
+          "ethics"
+        ],
+        [
+          "demands",
+          "needs",
+          "requires",
+          "seeks"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "were"
+        ],
+        [
+          "equality",
+          "balance",
+          "fairness",
+          "order"
+        ],
+        [
+          "before",
+          "under",
+          "within",
+          "beyond"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "law",
+          "state",
+          "court",
+          "system"
+        ]
+      ],
+      "mistakeTags": [
+        "cleft_sentences",
+        "it_is_what"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_07_cleft_sentences/006.mp3"
+    },
+    {
+      "id": "t7_8",
+      "type": "sentenceAssembly",
+      "question": "Именно нехватка времени вызвала проблему (It-cleft)",
+      "correctAnswer": "It was the lack of time that caused the problem",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "That",
+          "This",
+          "There"
+        ],
+        [
+          "was",
+          "is",
+          "were",
+          "been"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "lack",
+          "loss",
+          "miss",
+          "need"
+        ],
+        [
+          "of",
+          "with",
+          "from",
+          "by"
+        ],
+        [
+          "time",
+          "hours",
+          "day",
+          "moment"
+        ],
+        [
+          "that",
+          "which",
+          "who",
+          "what"
+        ],
+        [
+          "caused",
+          "cause",
+          "causes",
+          "causing"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "problem",
+          "issue",
+          "trouble",
+          "matter"
+        ]
+      ],
+      "mistakeTags": [
+        "cleft_sentences",
+        "it_is_what"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_07_cleft_sentences/007.mp3"
+    },
+    {
+      "id": "t7_9",
+      "type": "sentenceAssembly",
+      "question": "То, что мне нравится — это читать книги ночью (Wh-cleft)",
+      "correctAnswer": "What I enjoy is reading books at night",
+      "options": [],
+      "variants": [
+        [
+          "What",
+          "Which",
+          "That",
+          "How"
+        ],
+        [
+          "I",
+          "She",
+          "He",
+          "It"
+        ],
+        [
+          "enjoy",
+          "enjoys",
+          "enjoyed",
+          "enjoying"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "were"
+        ],
+        [
+          "reading",
+          "read",
+          "reads",
+          "reader"
+        ],
+        [
+          "books",
+          "book",
+          "novel",
+          "text"
+        ],
+        [
+          "at",
+          "about",
+          "through",
+          "into"
+        ],
+        [
+          "night",
+          "evening",
+          "dark",
+          "late"
+        ]
+      ],
+      "mistakeTags": [
+        "cleft_sentences",
+        "it_is_what"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_07_cleft_sentences/008.mp3"
+    },
+    {
+      "id": "t7_10",
+      "type": "sentenceAssembly",
+      "question": "То, что беспокоит меня — это шум с улицы (Wh-cleft)",
+      "correctAnswer": "What bothers me is the noise from outside",
+      "options": [],
+      "variants": [
+        [
+          "What",
+          "Which",
+          "That",
+          "How"
+        ],
+        [
+          "bothers",
+          "bother",
+          "bothered",
+          "bothering"
+        ],
+        [
+          "me",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "were"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "noise",
+          "sound",
+          "voice",
+          "music"
+        ],
+        [
+          "from",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "outside",
+          "street",
+          "out",
+          "road"
+        ]
+      ],
+      "mistakeTags": [
+        "cleft_sentences",
+        "it_is_what"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_07_cleft_sentences/009.mp3"
+    },
+    {
+      "id": "t7_11",
+      "type": "sentenceAssembly",
+      "question": "Именно гипотеза Дарвина изменила всю биологическую науку (It-cleft)",
+      "correctAnswer": "It was Darwin's hypothesis that transformed the entire biological science",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "That",
+          "This",
+          "There"
+        ],
+        [
+          "was",
+          "is",
+          "were",
+          "been"
+        ],
+        [
+          "Darwin's",
+          "Newton's",
+          "Einstein's",
+          "Mendel's"
+        ],
+        [
+          "hypothesis",
+          "theory",
+          "formula",
+          "discovery"
+        ],
+        [
+          "that",
+          "which",
+          "who",
+          "what"
+        ],
+        [
+          "transformed",
+          "changed",
+          "shaped",
+          "defined"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "entire",
+          "whole",
+          "full",
+          "broad"
+        ],
+        [
+          "biological",
+          "natural",
+          "physical",
+          "modern"
+        ],
+        [
+          "science",
+          "field",
+          "study",
+          "world"
+        ]
+      ],
+      "mistakeTags": [
+        "cleft_sentences",
+        "it_is_what"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_07_cleft_sentences/010.mp3"
+    },
+    {
+      "id": "t7_12",
+      "type": "sentenceAssembly",
+      "question": "Всё, что они хотели — это справедливый шанс (All-cleft)",
+      "correctAnswer": "All they wanted was a fair chance to succeed",
+      "options": [],
+      "variants": [
+        [
+          "All",
+          "What",
+          "That",
+          "Which"
+        ],
+        [
+          "they",
+          "She",
+          "He",
+          "It"
+        ],
+        [
+          "wanted",
+          "want",
+          "wants",
+          "wanting"
+        ],
+        [
+          "was",
+          "is",
+          "are",
+          "were"
+        ],
+        [
+          "a",
+          "that",
+          "each",
+          "an"
+        ],
+        [
+          "fair",
+          "good",
+          "nice",
+          "real"
+        ],
+        [
+          "chance",
+          "option",
+          "way",
+          "try"
+        ],
+        [
+          "to",
+          "for",
+          "and",
+          "at"
+        ],
+        [
+          "succeed",
+          "win",
+          "pass",
+          "try"
+        ]
+      ],
+      "mistakeTags": [
+        "cleft_sentences",
+        "it_is_what"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_07_cleft_sentences/011.mp3"
+    },
+    {
+      "id": "t7_13",
+      "type": "sentenceAssembly",
+      "question": "То, что имеет значение — это правда и ничего кроме (Wh-cleft)",
+      "correctAnswer": "What matters is the truth and nothing else",
+      "options": [],
+      "variants": [
+        [
+          "What",
+          "Which",
+          "That",
+          "How"
+        ],
+        [
+          "matters",
+          "matter",
+          "mattered",
+          "mattering"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "were"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "truth",
+          "fact",
+          "real",
+          "true"
+        ],
+        [
+          "and",
+          "or",
+          "but",
+          "with"
+        ],
+        [
+          "nothing",
+          "no",
+          "not",
+          "none"
+        ],
+        [
+          "else",
+          "more",
+          "other",
+          "left"
+        ]
+      ],
+      "mistakeTags": [
+        "cleft_sentences",
+        "it_is_what"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_07_cleft_sentences/012.mp3"
+    },
+    {
+      "id": "t7_14",
+      "type": "sentenceAssembly",
+      "question": "Именно это решение изменило всё в нашей жизни (It-cleft)",
+      "correctAnswer": "It was the decision that changed everything in our lives",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "That",
+          "This",
+          "There"
+        ],
+        [
+          "was",
+          "is",
+          "were",
+          "been"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "decision",
+          "choice",
+          "plan",
+          "idea"
+        ],
+        [
+          "that",
+          "which",
+          "who",
+          "what"
+        ],
+        [
+          "changed",
+          "change",
+          "changes",
+          "changing"
+        ],
+        [
+          "everything",
+          "all",
+          "things",
+          "much"
+        ],
+        [
+          "in",
+          "with",
+          "from",
+          "by"
+        ],
+        [
+          "our",
+          "They",
+          "You",
+          "One"
+        ],
+        [
+          "lives",
+          "life",
+          "living",
+          "days"
+        ]
+      ],
+      "mistakeTags": [
+        "cleft_sentences",
+        "it_is_what"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_07_cleft_sentences/013.mp3"
+    },
+    {
+      "id": "t7_15",
+      "type": "sentenceAssembly",
+      "question": "То, что нужно демократии — это прозрачность и подотчётность (Wh-cleft)",
+      "correctAnswer": "What democracy needs is transparency and accountability in governance",
+      "options": [],
+      "variants": [
+        [
+          "What",
+          "Which",
+          "That",
+          "How"
+        ],
+        [
+          "democracy",
+          "society",
+          "freedom",
+          "progress"
+        ],
+        [
+          "needs",
+          "demands",
+          "requires",
+          "lacks"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "were"
+        ],
+        [
+          "transparency",
+          "justice",
+          "balance",
+          "order"
+        ],
+        [
+          "and",
+          "or",
+          "but",
+          "with"
+        ],
+        [
+          "accountability",
+          "integrity",
+          "honesty",
+          "reform"
+        ],
+        [
+          "in",
+          "about",
+          "through",
+          "into"
+        ],
+        [
+          "governance",
+          "politics",
+          "leadership",
+          "policy"
+        ]
+      ],
+      "mistakeTags": [
+        "cleft_sentences",
+        "it_is_what"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_07_cleft_sentences/014.mp3"
+    },
+    {
+      "id": "t7_16",
+      "type": "sentenceAssembly",
+      "question": "То, что меня раздражает — это постоянная задержка (Wh-cleft)",
+      "correctAnswer": "What annoys me is the constant delay every day",
+      "options": [],
+      "variants": [
+        [
+          "What",
+          "Which",
+          "That",
+          "How"
+        ],
+        [
+          "annoys",
+          "annoy",
+          "annoyed",
+          "annoying"
+        ],
+        [
+          "me",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "were"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "constant",
+          "always",
+          "endless",
+          "long"
+        ],
+        [
+          "delay",
+          "wait",
+          "pause",
+          "late"
+        ],
+        [
+          "every",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "day",
+          "time",
+          "week",
+          "morning"
+        ]
+      ],
+      "mistakeTags": [
+        "cleft_sentences",
+        "it_is_what"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_07_cleft_sentences/015.mp3"
+    },
+    {
+      "id": "t7_17",
+      "type": "sentenceAssembly",
+      "question": "Всё, что я слышу — это тишина в этой комнате (All-cleft)",
+      "correctAnswer": "All I hear is silence in this empty room",
+      "options": [],
+      "variants": [
+        [
+          "All",
+          "What",
+          "That",
+          "Which"
+        ],
+        [
+          "I",
+          "They",
+          "You",
+          "One"
+        ],
+        [
+          "hear",
+          "hears",
+          "heard",
+          "hearing"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "were"
+        ],
+        [
+          "silence",
+          "quiet",
+          "still",
+          "calm"
+        ],
+        [
+          "in",
+          "with",
+          "from",
+          "by"
+        ],
+        [
+          "this",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "empty",
+          "big",
+          "dark",
+          "old"
+        ],
+        [
+          "room",
+          "place",
+          "house",
+          "hall"
+        ]
+      ],
+      "mistakeTags": [
+        "cleft_sentences",
+        "it_is_what"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_07_cleft_sentences/016.mp3"
+    },
+    {
+      "id": "t7_18",
+      "type": "sentenceAssembly",
+      "question": "Именно менеджер принял окончательное решение вчера (It-cleft)",
+      "correctAnswer": "It was the manager who made the final decision yesterday",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "He",
+          "This",
+          "There"
+        ],
+        [
+          "was",
+          "is",
+          "were",
+          "been"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "manager",
+          "boss",
+          "chief",
+          "leader"
+        ],
+        [
+          "who",
+          "which",
+          "that",
+          "whom"
+        ],
+        [
+          "made",
+          "make",
+          "makes",
+          "making"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "final",
+          "last",
+          "end",
+          "big"
+        ],
+        [
+          "decision",
+          "choice",
+          "call",
+          "plan"
+        ],
+        [
+          "yesterday",
+          "today",
+          "then",
+          "before"
+        ]
+      ],
+      "mistakeTags": [
+        "cleft_sentences",
+        "it_is_what"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_07_cleft_sentences/017.mp3"
+    },
+    {
+      "id": "t7_19",
+      "type": "sentenceAssembly",
+      "question": "То, что я рекомендую — это полная реструктуризация отдела (Wh-cleft)",
+      "correctAnswer": "What I recommend is a complete restructuring of the department",
+      "options": [],
+      "variants": [
+        [
+          "What",
+          "Which",
+          "That",
+          "How"
+        ],
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "recommend",
+          "suggests",
+          "proposed",
+          "advising"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "were"
+        ],
+        [
+          "a",
+          "the",
+          "an",
+          "this"
+        ],
+        [
+          "complete",
+          "total",
+          "full",
+          "partial"
+        ],
+        [
+          "restructuring",
+          "overhaul",
+          "reform",
+          "review"
+        ],
+        [
+          "of",
+          "with",
+          "from",
+          "by"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "department",
+          "division",
+          "company",
+          "branch"
+        ]
+      ],
+      "mistakeTags": [
+        "cleft_sentences",
+        "it_is_what"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_07_cleft_sentences/018.mp3"
+    },
+    {
+      "id": "t7_20",
+      "type": "sentenceAssembly",
+      "question": "То, что меня беспокоит — это стоимость проекта (Wh-cleft)",
+      "correctAnswer": "What concerns me is the cost of this project",
+      "options": [],
+      "variants": [
+        [
+          "What",
+          "Which",
+          "That",
+          "How"
+        ],
+        [
+          "concerns",
+          "concern",
+          "concerned",
+          "concerning"
+        ],
+        [
+          "me",
+          "They",
+          "You",
+          "One"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "were"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "cost",
+          "price",
+          "value",
+          "pay"
+        ],
+        [
+          "of",
+          "with",
+          "from",
+          "by"
+        ],
+        [
+          "this",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "project",
+          "plan",
+          "work",
+          "job"
+        ]
+      ],
+      "mistakeTags": [
+        "cleft_sentences",
+        "it_is_what"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_07_cleft_sentences/019.mp3"
+    },
+    {
+      "id": "t7_21",
+      "type": "sentenceAssembly",
+      "question": "Именно в понедельник мы начали этот проект (It-cleft)",
+      "correctAnswer": "It was on Monday that we started this new project",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "That",
+          "This",
+          "There"
+        ],
+        [
+          "was",
+          "is",
+          "were",
+          "been"
+        ],
+        [
+          "on",
+          "about",
+          "through",
+          "into"
+        ],
+        [
+          "Monday",
+          "Tuesday",
+          "morning",
+          "week"
+        ],
+        [
+          "that",
+          "which",
+          "who",
+          "when"
+        ],
+        [
+          "we",
+          "She",
+          "He",
+          "It"
+        ],
+        [
+          "started",
+          "start",
+          "starts",
+          "starting"
+        ],
+        [
+          "this",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "new",
+          "big",
+          "next",
+          "old"
+        ],
+        [
+          "project",
+          "plan",
+          "work",
+          "task"
+        ]
+      ],
+      "mistakeTags": [
+        "cleft_sentences",
+        "it_is_what"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_07_cleft_sentences/020.mp3"
+    },
+    {
+      "id": "t7_22",
+      "type": "sentenceAssembly",
+      "question": "То, что нам нужно — это смелость и решимость (Wh-cleft)",
+      "correctAnswer": "What we need is courage and determination to act",
+      "options": [],
+      "variants": [
+        [
+          "What",
+          "Which",
+          "That",
+          "How"
+        ],
+        [
+          "we",
+          "He",
+          "She",
+          "I"
+        ],
+        [
+          "need",
+          "needs",
+          "needed",
+          "needing"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "were"
+        ],
+        [
+          "courage",
+          "brave",
+          "bold",
+          "fear"
+        ],
+        [
+          "and",
+          "or",
+          "but",
+          "with"
+        ],
+        [
+          "determination",
+          "will",
+          "force",
+          "power"
+        ],
+        [
+          "to",
+          "for",
+          "and",
+          "in"
+        ],
+        [
+          "act",
+          "do",
+          "move",
+          "go"
+        ]
+      ],
+      "mistakeTags": [
+        "cleft_sentences",
+        "it_is_what"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_07_cleft_sentences/021.mp3"
+    },
+    {
+      "id": "t7_23",
+      "type": "sentenceAssembly",
+      "question": "Причина, по которой великое искусство вечно — оно отражает душу (The reason)",
+      "correctAnswer": "The reason great art endures is that it reflects the soul",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "This",
+          "That"
+        ],
+        [
+          "reason",
+          "cause",
+          "way",
+          "fact"
+        ],
+        [
+          "great",
+          "true",
+          "fine",
+          "pure"
+        ],
+        [
+          "art",
+          "music",
+          "poetry",
+          "beauty"
+        ],
+        [
+          "endures",
+          "lasts",
+          "survives",
+          "remains"
+        ],
+        [
+          "is",
+          "was",
+          "are",
+          "were"
+        ],
+        [
+          "that",
+          "because",
+          "which",
+          "what"
+        ],
+        [
+          "it",
+          "art",
+          "this",
+          "one"
+        ],
+        [
+          "reflects",
+          "reveals",
+          "captures",
+          "mirrors"
+        ],
+        [
+          "the",
+          "a",
+          "our",
+          "each"
+        ],
+        [
+          "soul",
+          "heart",
+          "spirit",
+          "truth"
+        ]
+      ],
+      "mistakeTags": [
+        "cleft_sentences",
+        "it_is_what"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_07_cleft_sentences/022.mp3"
+    },
+    {
+      "id": "t7_24",
+      "type": "sentenceAssembly",
+      "question": "Именно дождь испортил нашу поездку на пляж (It-cleft)",
+      "correctAnswer": "It was the rain that ruined our trip to the beach",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "That",
+          "This",
+          "There"
+        ],
+        [
+          "was",
+          "is",
+          "were",
+          "been"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "rain",
+          "storm",
+          "wind",
+          "snow"
+        ],
+        [
+          "that",
+          "which",
+          "who",
+          "what"
+        ],
+        [
+          "ruined",
+          "ruin",
+          "ruins",
+          "ruining"
+        ],
+        [
+          "our",
+          "She",
+          "He",
+          "It"
+        ],
+        [
+          "trip",
+          "way",
+          "walk",
+          "ride"
+        ],
+        [
+          "to",
+          "at",
+          "in",
+          "on"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "beach",
+          "sea",
+          "lake",
+          "park"
+        ]
+      ],
+      "mistakeTags": [
+        "cleft_sentences",
+        "it_is_what"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_07_cleft_sentences/023.mp3"
+    },
+    {
+      "id": "t7_25",
+      "type": "sentenceAssembly",
+      "question": "Всё, чего я хочу — это немного отдохнуть сегодня (All-cleft)",
+      "correctAnswer": "All I want is to get some rest today",
+      "options": [],
+      "variants": [
+        [
+          "All",
+          "What",
+          "That",
+          "Which"
+        ],
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "want",
+          "wants",
+          "wanted",
+          "wanting"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "were"
+        ],
+        [
+          "to",
+          "for",
+          "and",
+          "so"
+        ],
+        [
+          "get",
+          "have",
+          "take",
+          "make"
+        ],
+        [
+          "some",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "rest",
+          "sleep",
+          "break",
+          "pause"
+        ],
+        [
+          "today",
+          "now",
+          "here",
+          "soon"
+        ]
+      ],
+      "mistakeTags": [
+        "cleft_sentences",
+        "it_is_what"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_07_cleft_sentences/024.mp3"
+    },
+    {
+      "id": "t7_26",
+      "type": "sentenceAssembly",
+      "question": "То, что изменило мою жизнь — это та книга (Wh-cleft)",
+      "correctAnswer": "What changed my life was that one single book",
+      "options": [],
+      "variants": [
+        [
+          "What",
+          "Which",
+          "That",
+          "How"
+        ],
+        [
+          "changed",
+          "change",
+          "changes",
+          "changing"
+        ],
+        [
+          "my",
+          "They",
+          "You",
+          "One"
+        ],
+        [
+          "life",
+          "live",
+          "living",
+          "lives"
+        ],
+        [
+          "was",
+          "is",
+          "are",
+          "were"
+        ],
+        [
+          "that",
+          "this",
+          "the",
+          "a"
+        ],
+        [
+          "one",
+          "a",
+          "an",
+          "the"
+        ],
+        [
+          "single",
+          "only",
+          "lone",
+          "mere"
+        ],
+        [
+          "book",
+          "story",
+          "novel",
+          "text"
+        ]
+      ],
+      "mistakeTags": [
+        "cleft_sentences",
+        "it_is_what"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_07_cleft_sentences/025.mp3"
+    },
+    {
+      "id": "t7_27",
+      "type": "sentenceAssembly",
+      "question": "Именно в Париже они впервые встретились прошлым летом (It-cleft)",
+      "correctAnswer": "It was in Paris that they first met last summer",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "That",
+          "This",
+          "There"
+        ],
+        [
+          "was",
+          "is",
+          "were",
+          "been"
+        ],
+        [
+          "in",
+          "about",
+          "through",
+          "into"
+        ],
+        [
+          "Paris",
+          "London",
+          "Rome",
+          "Berlin"
+        ],
+        [
+          "that",
+          "which",
+          "who",
+          "where"
+        ],
+        [
+          "they",
+          "She",
+          "He",
+          "It"
+        ],
+        [
+          "first",
+          "once",
+          "just",
+          "then"
+        ],
+        [
+          "met",
+          "meet",
+          "meets",
+          "meeting"
+        ],
+        [
+          "last",
+          "past",
+          "late",
+          "next"
+        ],
+        [
+          "summer",
+          "year",
+          "month",
+          "week"
+        ]
+      ],
+      "mistakeTags": [
+        "cleft_sentences",
+        "it_is_what"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_07_cleft_sentences/026.mp3"
+    },
+    {
+      "id": "t7_28",
+      "type": "sentenceAssembly",
+      "question": "То, что мне нравится в нём — это его чувство юмора (Wh-cleft)",
+      "correctAnswer": "What I like about him is his sense of humor",
+      "options": [],
+      "variants": [
+        [
+          "What",
+          "Which",
+          "That",
+          "How"
+        ],
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "like",
+          "likes",
+          "liked",
+          "liking"
+        ],
+        [
+          "about",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "him",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "were"
+        ],
+        [
+          "his",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "sense",
+          "feel",
+          "kind",
+          "type"
+        ],
+        [
+          "of",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "humor",
+          "fun",
+          "joke",
+          "laugh"
+        ]
+      ],
+      "mistakeTags": [
+        "cleft_sentences",
+        "it_is_what"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_07_cleft_sentences/027.mp3"
+    },
+    {
+      "id": "t7_29",
+      "type": "sentenceAssembly",
+      "question": "Единственное, что я знаю — это то, что я ничего не знаю (All-cleft)",
+      "correctAnswer": "All I know is that I know nothing at all",
+      "options": [],
+      "variants": [
+        [
+          "All",
+          "What",
+          "That",
+          "Which"
+        ],
+        [
+          "I",
+          "They",
+          "You",
+          "One"
+        ],
+        [
+          "know",
+          "knows",
+          "knew",
+          "knowing"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "were"
+        ],
+        [
+          "that",
+          "this",
+          "what",
+          "which"
+        ],
+        [
+          "I",
+          "They",
+          "You",
+          "One"
+        ],
+        [
+          "know",
+          "knew",
+          "knows",
+          "think"
+        ],
+        [
+          "nothing",
+          "none",
+          "no",
+          "not"
+        ],
+        [
+          "at",
+          "with",
+          "from",
+          "by"
+        ],
+        [
+          "all",
+          "one",
+          "it",
+          "much"
+        ]
+      ],
+      "mistakeTags": [
+        "cleft_sentences",
+        "it_is_what"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_07_cleft_sentences/028.mp3"
+    },
+    {
+      "id": "t7_30",
+      "type": "sentenceAssembly",
+      "question": "Именно учитель помог мне понять эту сложную тему (It-cleft)",
+      "correctAnswer": "It was the teacher who helped me understand this difficult topic",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "He",
+          "This",
+          "There"
+        ],
+        [
+          "was",
+          "is",
+          "were",
+          "been"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "teacher",
+          "tutor",
+          "coach",
+          "master"
+        ],
+        [
+          "who",
+          "which",
+          "that",
+          "whom"
+        ],
+        [
+          "helped",
+          "help",
+          "helps",
+          "helping"
+        ],
+        [
+          "me",
+          "She",
+          "He",
+          "It"
+        ],
+        [
+          "understand",
+          "know",
+          "learn",
+          "see"
+        ],
+        [
+          "this",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "difficult",
+          "hard",
+          "tough",
+          "heavy"
+        ],
+        [
+          "topic",
+          "theme",
+          "subject",
+          "point"
+        ]
+      ],
+      "mistakeTags": [
+        "cleft_sentences",
+        "it_is_what"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_07_cleft_sentences/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionAdvanced07CleftSentences",
+  "theoryQuiz": [
+    {
+      "id": "tq_01",
+      "type": "multipleChoice",
+      "question": "Для чего используются cleft sentences?",
+      "options": [
+        "Для вопросов",
+        "Для выделения конкретного элемента предложения",
+        "Для отрицания",
+        "Для условных предложений"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cleft sentences выделяют один элемент предложения, делая на нём акцент."
+    },
+    {
+      "id": "tq_02",
+      "type": "trueFalse",
+      "question": "'It was John who called' — это пример It-cleft.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Верно: It was + выделяемый элемент (John) + who/that — классический It-cleft."
+    },
+    {
+      "id": "tq_03",
+      "type": "multipleChoice",
+      "question": "Как построить What-cleft из 'I need a break'?",
+      "options": [
+        "It is a break that I need.",
+        "What I need is a break.",
+        "A break is what need I.",
+        "That I need is a break."
+      ],
+      "correctIndex": 1,
+      "explanation": "What-cleft: What + подлежащее + глагол + is + выделяемый элемент: What I need is a break."
+    },
+    {
+      "id": "tq_04",
+      "type": "trueFalse",
+      "question": "'What she said was true' — это What-cleft.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Верно: What + she said + was + true — выделяется содержание её слов."
+    },
+    {
+      "id": "tq_05",
+      "type": "multipleChoice",
+      "question": "Какой тип cleft: 'All I want is peace'?",
+      "options": [
+        "It-cleft",
+        "What-cleft",
+        "All-cleft",
+        "There-cleft"
+      ],
+      "correctIndex": 2,
+      "explanation": "All-cleft: All + подлежащее + глагол + is + выделяемый элемент: All I want is peace."
+    },
+    {
+      "id": "tq_06",
+      "type": "multipleChoice",
+      "question": "Выберите правильный It-cleft: 'Money matters.'",
+      "options": [
+        "It is money that matters.",
+        "Money it is that matters.",
+        "That is money it matters.",
+        "It matters that is money."
+      ],
+      "correctIndex": 0,
+      "explanation": "It-cleft: It + is/was + выделяемый элемент + that/who + остальное: It is money that matters."
+    },
+    {
+      "id": "tq_07",
+      "type": "trueFalse",
+      "question": "В It-cleft для людей используется 'who', а для вещей — 'that'.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Верно: It was John who called (человек). It is money that matters (вещь)."
+    },
+    {
+      "id": "tq_08",
+      "type": "multipleChoice",
+      "question": "'The thing that matters is time.' Какой это тип cleft?",
+      "options": [
+        "It-cleft",
+        "What-cleft",
+        "All-cleft",
+        "The thing-cleft (вариация All-cleft)"
+      ],
+      "correctIndex": 3,
+      "explanation": "The thing that... is... — это вариация All-cleft, где 'the thing' заменяет 'all/what'."
+    },
+    {
+      "id": "tq_09",
+      "type": "trueFalse",
+      "question": "'It was yesterday that I met her' — здесь выделяется время действия.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Верно: It-cleft выделяет yesterday — именно вчера (а не в другой день) я её встретил."
+    },
+    {
+      "id": "tq_10",
+      "type": "multipleChoice",
+      "question": "Какое предложение является cleft sentence?",
+      "options": [
+        "She likes coffee.",
+        "It is coffee that she likes.",
+        "She likes it, coffee.",
+        "Coffee she likes it."
+      ],
+      "correctIndex": 1,
+      "explanation": "It is coffee that she likes — It-cleft, выделяющий объект (coffee)."
+    }
+  ]
+}

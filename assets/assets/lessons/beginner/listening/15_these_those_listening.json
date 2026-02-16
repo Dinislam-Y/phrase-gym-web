@@ -1,0 +1,476 @@
+{
+  "id": "beginner_listening_15_these_those",
+  "title": "These / Those",
+  "description": "Слушайте и определяйте, о ближних или дальних предметах идёт речь.",
+  "order": 15,
+  "level": "beginner",
+  "imageUrl": "assets/images/lessons/these_those.png",
+  "tasks": [
+    {
+      "id": "t15_01",
+      "audioText": "A woman is at a fruit shop. She points at apples near her. These apples look very fresh.",
+      "transcript": "These apples look very fresh.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The apples near her look fresh."
+        },
+        {
+          "id": "o2",
+          "text": "The apples far away look fresh."
+        },
+        {
+          "id": "o3",
+          "text": "All apples in the shop look fresh."
+        },
+        {
+          "id": "o4",
+          "text": "The apples near her look old."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'These' refers to things close to the speaker. The apples near her look fresh. Option 1.",
+      "mistakeTags": [
+        "these_those",
+        "these",
+        "shopping"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_15_these_those/t15_01.mp3"
+    },
+    {
+      "id": "t15_02",
+      "audioText": "A boy stands at the window. He looks at birds in a far tree. Those birds are very colorful.",
+      "transcript": "Those birds are very colorful.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The birds near the boy are colorful."
+        },
+        {
+          "id": "o2",
+          "text": "The birds far away are colorful."
+        },
+        {
+          "id": "o3",
+          "text": "The birds near the boy are small."
+        },
+        {
+          "id": "o4",
+          "text": "The birds far away are noisy."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Those' refers to things far from the speaker. The birds in the far tree are colorful. Option 2.",
+      "mistakeTags": [
+        "these_those",
+        "those",
+        "nature"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_15_these_those/t15_02.mp3"
+    },
+    {
+      "id": "t15_03",
+      "audioText": "A girl is at a bookshop. She holds two books in her hands. These books are for my brother.",
+      "transcript": "These books are for my brother.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The books in her hands are for her brother."
+        },
+        {
+          "id": "o2",
+          "text": "The books on the shelf are for her brother."
+        },
+        {
+          "id": "o3",
+          "text": "The books in her hands are for her sister."
+        },
+        {
+          "id": "o4",
+          "text": "The books in her hands are for herself."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'These books' — she is holding them, so they are close. They are for her brother. Option 1.",
+      "mistakeTags": [
+        "these_those",
+        "these",
+        "shopping"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_15_these_those/t15_03.mp3"
+    },
+    {
+      "id": "t15_04",
+      "audioText": "A man is at a car show. He points across the room. Those cars over there are very expensive.",
+      "transcript": "Those cars over there are very expensive.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The cars close to him are expensive."
+        },
+        {
+          "id": "o2",
+          "text": "The cars across the room are cheap."
+        },
+        {
+          "id": "o3",
+          "text": "The cars across the room are expensive."
+        },
+        {
+          "id": "o4",
+          "text": "All the cars are the same price."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Those cars over there' — 'those' plus 'over there' means far away. They are expensive. Option 3.",
+      "mistakeTags": [
+        "these_those",
+        "those",
+        "shopping"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_15_these_those/t15_04.mp3"
+    },
+    {
+      "id": "t15_05",
+      "audioText": "A teacher holds papers in her hands. She shows them to the class. These are your test results.",
+      "transcript": "These are your test results.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The papers in her hands are test results."
+        },
+        {
+          "id": "o2",
+          "text": "The papers on the desk are test results."
+        },
+        {
+          "id": "o3",
+          "text": "The papers in her hands are homework."
+        },
+        {
+          "id": "o4",
+          "text": "The papers on the wall are test results."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'These' means close — the papers she holds. They are test results. Option 1.",
+      "mistakeTags": [
+        "these_those",
+        "these",
+        "school"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_15_these_those/t15_05.mp3"
+    },
+    {
+      "id": "t15_06",
+      "audioText": "A family is at the zoo. A boy looks at animals behind a fence. Those monkeys are so funny!",
+      "transcript": "Those monkeys are so funny!",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The monkeys near the boy are sad."
+        },
+        {
+          "id": "o2",
+          "text": "The monkeys at a distance are funny."
+        },
+        {
+          "id": "o3",
+          "text": "The monkeys near the boy are funny."
+        },
+        {
+          "id": "o4",
+          "text": "The monkeys at a distance are scary."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Those monkeys' — they are behind a fence, at a distance. They are funny. Option 2.",
+      "mistakeTags": [
+        "these_those",
+        "those",
+        "zoo"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_15_these_those/t15_06.mp3"
+    },
+    {
+      "id": "t15_07",
+      "audioText": "A woman is at a bakery. She looks at cakes on the counter in front of her. These cakes smell wonderful.",
+      "transcript": "These cakes smell wonderful.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The cakes near her smell wonderful."
+        },
+        {
+          "id": "o2",
+          "text": "The cakes in the back smell wonderful."
+        },
+        {
+          "id": "o3",
+          "text": "The cakes near her taste wonderful."
+        },
+        {
+          "id": "o4",
+          "text": "The cakes near her look old."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'These cakes' are close to the speaker, on the counter. They smell wonderful. Option 1.",
+      "mistakeTags": [
+        "these_those",
+        "these",
+        "shopping"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_15_these_those/t15_07.mp3"
+    },
+    {
+      "id": "t15_08",
+      "audioText": "A man sits on a park bench. He sees tall buildings far away. Those buildings are new offices.",
+      "transcript": "Those buildings are new offices.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The buildings close to him are new offices."
+        },
+        {
+          "id": "o2",
+          "text": "The buildings far away are old apartments."
+        },
+        {
+          "id": "o3",
+          "text": "The buildings far away are new offices."
+        },
+        {
+          "id": "o4",
+          "text": "The buildings near him are shops."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Those buildings' — far away from the speaker. They are new offices. Option 3.",
+      "mistakeTags": [
+        "these_those",
+        "those",
+        "city"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_15_these_those/t15_08.mp3"
+    },
+    {
+      "id": "t15_09",
+      "audioText": "A girl shows her mother some photos on her phone. They sit together. These photos are from my trip.",
+      "transcript": "These photos are from my trip.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The photos on the phone are from her trip."
+        },
+        {
+          "id": "o2",
+          "text": "The photos on the wall are from her trip."
+        },
+        {
+          "id": "o3",
+          "text": "The photos on the phone are from her mother's trip."
+        },
+        {
+          "id": "o4",
+          "text": "The photos in the album are from her trip."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'These photos' — on her phone, close to her. They are from the girl's trip. Option 1.",
+      "mistakeTags": [
+        "these_those",
+        "these",
+        "travel"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_15_these_those/t15_09.mp3"
+    },
+    {
+      "id": "t15_10",
+      "audioText": "A boy and his friend are at the beach. The friend points at distant boats. Those boats are fishing boats.",
+      "transcript": "Those boats are fishing boats.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The boats near the shore are fishing boats."
+        },
+        {
+          "id": "o2",
+          "text": "The distant boats are sailing boats."
+        },
+        {
+          "id": "o3",
+          "text": "The distant boats are fishing boats."
+        },
+        {
+          "id": "o4",
+          "text": "The boats near the shore are fast."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Those boats' — far away, distant. They are fishing boats. Option 3 is correct.",
+      "mistakeTags": [
+        "these_those",
+        "those",
+        "beach"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_15_these_those/t15_10.mp3"
+    },
+    {
+      "id": "t15_11",
+      "audioText": "A woman picks up two boxes from the floor. They are heavy. These boxes go to the storage room.",
+      "transcript": "These boxes go to the storage room.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The boxes in her hands go to the office."
+        },
+        {
+          "id": "o2",
+          "text": "The boxes far away go to the storage room."
+        },
+        {
+          "id": "o3",
+          "text": "The boxes in her hands go to the storage room."
+        },
+        {
+          "id": "o4",
+          "text": "The boxes in her hands go to the kitchen."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'These boxes' — she is holding them, so they are close. They go to storage. Option 3.",
+      "mistakeTags": [
+        "these_those",
+        "these",
+        "work"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_15_these_those/t15_11.mp3"
+    },
+    {
+      "id": "t15_12",
+      "audioText": "A man looks at mountains from his hotel balcony. They are far away. Those mountains have snow on top.",
+      "transcript": "Those mountains have snow on top.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The nearby hills have snow."
+        },
+        {
+          "id": "o2",
+          "text": "The far mountains have snow on their peaks."
+        },
+        {
+          "id": "o3",
+          "text": "The far mountains have trees on top."
+        },
+        {
+          "id": "o4",
+          "text": "The nearby mountains have no snow."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Those mountains' — far away from the balcony. They have snow on top. Option 2.",
+      "mistakeTags": [
+        "these_those",
+        "those",
+        "travel"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_15_these_those/t15_12.mp3"
+    },
+    {
+      "id": "t15_13",
+      "audioText": "A girl is at a market. She picks up some strawberries from a basket. These strawberries are very sweet.",
+      "transcript": "These strawberries are very sweet.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The strawberries in her hand are sour."
+        },
+        {
+          "id": "o2",
+          "text": "The strawberries far away are sweet."
+        },
+        {
+          "id": "o3",
+          "text": "The strawberries in her hand are sweet."
+        },
+        {
+          "id": "o4",
+          "text": "The strawberries in her hand are expensive."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'These strawberries' — she is holding them, so they are close. They are sweet. Option 3.",
+      "mistakeTags": [
+        "these_those",
+        "these",
+        "shopping"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_15_these_those/t15_13.mp3"
+    },
+    {
+      "id": "t15_14",
+      "audioText": "A boy looks at stars in the sky with his father. The night is clear. Those stars are so bright tonight.",
+      "transcript": "Those stars are so bright tonight.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The stars far away in the sky are bright."
+        },
+        {
+          "id": "o2",
+          "text": "The lights nearby are bright."
+        },
+        {
+          "id": "o3",
+          "text": "The stars are not visible tonight."
+        },
+        {
+          "id": "o4",
+          "text": "The stars are dim tonight."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Those stars' — far away in the sky. They are bright tonight. Option 1 is correct.",
+      "mistakeTags": [
+        "these_those",
+        "those",
+        "nature"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_15_these_those/t15_14.mp3"
+    },
+    {
+      "id": "t15_15",
+      "audioText": "A woman is at a clothing store. She holds two shirts. These shirts are perfect for the summer.",
+      "transcript": "These shirts are perfect for the summer.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The shirts she holds are perfect for winter."
+        },
+        {
+          "id": "o2",
+          "text": "The shirts on the rack are perfect for summer."
+        },
+        {
+          "id": "o3",
+          "text": "The shirts she holds are perfect for summer."
+        },
+        {
+          "id": "o4",
+          "text": "The shirts far away are perfect for summer."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'These shirts' — she is holding them. They are perfect for summer. Option 3.",
+      "mistakeTags": [
+        "these_those",
+        "these",
+        "shopping"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_15_these_those/t15_15.mp3"
+    }
+  ],
+  "short_description": "Тренируйте различение these и those на слух."
+}

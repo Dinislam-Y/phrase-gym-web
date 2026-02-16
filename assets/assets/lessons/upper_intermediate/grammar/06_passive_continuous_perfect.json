@@ -1,0 +1,2205 @@
+{
+  "id": "upper_06_passive_continuous_perfect",
+  "title": "Passive Voice: Continuous & Perfect",
+  "description": "Когда что-то делается ПРЯМО СЕЙЧАС или УЖЕ СДЕЛАНО пассивно. «Дом СТРОИТСЯ» (прямо сейчас) = The house IS BEING BUILT. «Дом БЫЛ ПОСТРОЕН» = The house HAS BEEN BUILT.",
+  "order": 6,
+  "level": "upper_intermediate",
+  "imageUrl": "assets/images/lessons/passive_continuous_perfect.png",
+  "vocabulary": [
+    {
+      "id": "v6_repair",
+      "english": "repair",
+      "russian": "ремонтировать",
+      "partOfSpeech": "verb",
+      "example": "Is being repaired.",
+      "exampleTranslation": "Ремонтируется.",
+      "audioPath": "assets/audio/vocabulary/v6_repair.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_repair.mp3"
+    },
+    {
+      "id": "v6_car",
+      "english": "car",
+      "russian": "машина",
+      "partOfSpeech": "noun",
+      "example": "The car.",
+      "exampleTranslation": "Машина.",
+      "audioPath": "assets/audio/vocabulary/v6_car.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_car.mp3"
+    },
+    {
+      "id": "v6_house",
+      "english": "house",
+      "russian": "дом",
+      "partOfSpeech": "noun",
+      "example": "The house.",
+      "exampleTranslation": "Дом.",
+      "audioPath": "assets/audio/vocabulary/v6_house.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_house.mp3"
+    },
+    {
+      "id": "v6_paint",
+      "english": "paint",
+      "russian": "красить",
+      "partOfSpeech": "verb",
+      "example": "Was being painted.",
+      "exampleTranslation": "Красили.",
+      "audioPath": "assets/audio/vocabulary/v6_paint.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_paint.mp3"
+    },
+    {
+      "id": "v6_when",
+      "english": "when",
+      "russian": "когда",
+      "partOfSpeech": "adverb",
+      "example": "When I came.",
+      "exampleTranslation": "Когда я пришел.",
+      "audioPath": "assets/audio/vocabulary/v6_when.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_when.mp3"
+    },
+    {
+      "id": "v6_process",
+      "english": "process",
+      "russian": "обрабатывать",
+      "partOfSpeech": "verb",
+      "example": "Being processed.",
+      "exampleTranslation": "Обрабатывается.",
+      "audioPath": "assets/audio/vocabulary/v6_process.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_process.mp3"
+    },
+    {
+      "id": "v6_order",
+      "english": "order",
+      "russian": "заказ",
+      "partOfSpeech": "noun",
+      "example": "Your order.",
+      "exampleTranslation": "Ваш заказ.",
+      "audioPath": "assets/audio/vocabulary/v6_order.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_order.mp3"
+    },
+    {
+      "id": "v6_serve",
+      "english": "serve",
+      "russian": "обслуживать",
+      "partOfSpeech": "verb",
+      "example": "Being served.",
+      "exampleTranslation": "Обслуживают.",
+      "audioPath": "assets/audio/vocabulary/v6_serve.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_serve.mp3"
+    },
+    {
+      "id": "v6_question",
+      "english": "question",
+      "russian": "вопрос",
+      "partOfSpeech": "noun",
+      "example": "Questions.",
+      "exampleTranslation": "Вопросы.",
+      "audioPath": "assets/audio/vocabulary/v6_question.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_question.mp3"
+    },
+    {
+      "id": "v6_ask",
+      "english": "ask",
+      "russian": "спрашивать (задавать)",
+      "partOfSpeech": "verb",
+      "example": "Being asked.",
+      "exampleTranslation": "Задаются.",
+      "audioPath": "assets/audio/vocabulary/v6_ask.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_ask.mp3"
+    },
+    {
+      "id": "v6_dinner",
+      "english": "dinner",
+      "russian": "ужин",
+      "partOfSpeech": "noun",
+      "example": "Dinner.",
+      "exampleTranslation": "Ужин.",
+      "audioPath": "assets/audio/vocabulary/v6_dinner.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_dinner.mp3"
+    },
+    {
+      "id": "v6_cook",
+      "english": "cook",
+      "russian": "готовить",
+      "partOfSpeech": "verb",
+      "example": "Being cooked.",
+      "exampleTranslation": "Готовили.",
+      "audioPath": "assets/audio/vocabulary/v6_cook.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_cook.mp3"
+    },
+    {
+      "id": "v6_build",
+      "english": "build",
+      "russian": "строить",
+      "partOfSpeech": "verb",
+      "example": "Being built.",
+      "exampleTranslation": "Строится.",
+      "audioPath": "assets/audio/vocabulary/v6_build.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_build.mp3"
+    },
+    {
+      "id": "v6_building",
+      "english": "building",
+      "russian": "здание",
+      "partOfSpeech": "noun",
+      "example": "The building.",
+      "exampleTranslation": "Здание.",
+      "audioPath": "assets/audio/vocabulary/v6_building.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_building.mp3"
+    },
+    {
+      "id": "v6_music",
+      "english": "music",
+      "russian": "музыка",
+      "partOfSpeech": "noun",
+      "example": "Music.",
+      "exampleTranslation": "Музыка.",
+      "audioPath": "assets/audio/vocabulary/v6_music.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_music.mp3"
+    },
+    {
+      "id": "v6_play",
+      "english": "play",
+      "russian": "играть",
+      "partOfSpeech": "verb",
+      "example": "Being played.",
+      "exampleTranslation": "Играла.",
+      "audioPath": "assets/audio/vocabulary/v6_play.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_play.mp3"
+    },
+    {
+      "id": "v6_movie",
+      "english": "movie",
+      "russian": "фильм",
+      "partOfSpeech": "noun",
+      "example": "The movie.",
+      "exampleTranslation": "Фильм.",
+      "audioPath": "assets/audio/vocabulary/v6_movie.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_movie.mp3"
+    },
+    {
+      "id": "v6_film",
+      "english": "film",
+      "russian": "снимать (фильм)",
+      "partOfSpeech": "verb",
+      "example": "Being filmed.",
+      "exampleTranslation": "Снимается.",
+      "audioPath": "assets/audio/vocabulary/v6_film.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_film.mp3"
+    },
+    {
+      "id": "v6_letter",
+      "english": "letter",
+      "russian": "письмо",
+      "partOfSpeech": "noun",
+      "example": "Letters.",
+      "exampleTranslation": "Письма.",
+      "audioPath": "assets/audio/vocabulary/v6_letter.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_letter.mp3"
+    },
+    {
+      "id": "v6_write",
+      "english": "write",
+      "russian": "писать",
+      "partOfSpeech": "verb",
+      "example": "Being written.",
+      "exampleTranslation": "Пишутся.",
+      "audioPath": "assets/audio/vocabulary/v6_write.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_write.mp3"
+    },
+    {
+      "id": "v6_problem",
+      "english": "problem",
+      "russian": "проблема",
+      "partOfSpeech": "noun",
+      "example": "The problem.",
+      "exampleTranslation": "Проблема.",
+      "audioPath": "assets/audio/vocabulary/v6_problem.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_problem.mp3"
+    },
+    {
+      "id": "v6_solve",
+      "english": "solve",
+      "russian": "решать",
+      "partOfSpeech": "verb",
+      "example": "Being solved.",
+      "exampleTranslation": "Решается.",
+      "audioPath": "assets/audio/vocabulary/v6_solve.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_solve.mp3"
+    },
+    {
+      "id": "v6_phone",
+      "english": "phone",
+      "russian": "телефон",
+      "partOfSpeech": "noun",
+      "example": "My phone.",
+      "exampleTranslation": "Мой телефон.",
+      "audioPath": "assets/audio/vocabulary/v6_phone.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_phone.mp3"
+    },
+    {
+      "id": "v6_use",
+      "english": "use",
+      "russian": "использовать",
+      "partOfSpeech": "verb",
+      "example": "Being used.",
+      "exampleTranslation": "Используется.",
+      "audioPath": "assets/audio/vocabulary/v6_use.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_use.mp3"
+    },
+    {
+      "id": "v6_follow",
+      "english": "follow",
+      "russian": "следить (следовать)",
+      "partOfSpeech": "verb",
+      "example": "Being followed.",
+      "exampleTranslation": "Следили.",
+      "audioPath": "assets/audio/vocabulary/v6_follow.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_follow.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "Under Construction & Already Done",
+    "subtitle": "Passive Continuous — табличка «Идут работы», действие над объектом прямо сейчас (BEING). Passive Perfect — результат «Уже сделано» (BEEN).",
+    "construction": {
+      "formula": "BE + BEING + V3 / HAVE + BEEN + V3",
+      "rules": [
+        {
+          "word": "Is Being Done",
+          "description": "Прямо сейчас. The car is being washed. (Машину моют - вижу пену и воду)."
+        },
+        {
+          "word": "Was Being Done",
+          "description": "В определенный момент в прошлом. At 5 PM, the car was being washed. (В 5 вечера машину мыли)."
+        },
+        {
+          "word": "Has Been Done",
+          "description": "Уже завершено (есть результат). The car has been washed. (Машина помыта — вот она чистая)."
+        },
+        {
+          "word": "Had Been Done",
+          "description": "Было завершено до другого момента в прошлом. The car had been washed before we left. (Машина была помыта до того, как мы уехали)."
+        },
+        {
+          "word": "Зачем Being vs Been?",
+          "description": "BEING = процесс прямо сейчас. BEEN = результат, уже завершено. The house is being built (строится) vs The house has been built (построен)."
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "bolt",
+        "color": "orange",
+        "title": "Процесс сейчас",
+        "description": "My room is being cleaned. (Прямо сейчас там уборка).",
+        "example": {
+          "english": "The road is being repaired.",
+          "russian": "Дорогу ремонтируют (сейчас)."
+        }
+      },
+      {
+        "icon": "schedule",
+        "color": "purple",
+        "title": "Фон в прошлом",
+        "description": "I saw that the house was being painted. (Я видел, что дом красили).",
+        "example": {
+          "english": "The questions were being asked.",
+          "russian": "Вопросы задавались (в тот момент)."
+        }
+      },
+      {
+        "icon": "check_circle",
+        "color": "green",
+        "title": "Результат (Perfect)",
+        "description": "The report has been written. (Отчёт написан — вот он готов).",
+        "example": {
+          "english": "The work has been finished by the team.",
+          "russian": "Работа была завершена командой."
+        }
+      },
+      {
+        "icon": "explore",
+        "color": "blue",
+        "title": "Завершено до момента в прошлом",
+        "description": "The house had been sold before I called. (Дом продали до того, как я позвонил).",
+        "example": {
+          "english": "The letter had been sent before noon.",
+          "russian": "Письмо было отправлено до полудня."
+        }
+      }
+    ],
+    "markers": [
+      "is being",
+      "are being",
+      "was being",
+      "were being",
+      "has been",
+      "have been",
+      "had been",
+      "at the moment",
+      "now",
+      "already",
+      "yet",
+      "before"
+    ]
+  },
+  "tasks": [
+    {
+      "id": "t6_1",
+      "type": "sentenceAssembly",
+      "question": "Машину сейчас ремонтируют в гараже",
+      "correctAnswer": "The car is being repaired now",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "An",
+          "This"
+        ],
+        [
+          "car",
+          "bus",
+          "auto",
+          "vehicle"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "be"
+        ],
+        [
+          "being",
+          "been",
+          "be",
+          "is"
+        ],
+        [
+          "repaired",
+          "repair",
+          "fixed",
+          "broken"
+        ],
+        [
+          "now",
+          "today",
+          "soon",
+          "yet"
+        ]
+      ],
+      "mistakeTags": [
+        "passive_voice",
+        "continuous_perfect_passive"
+      ],
+      "audioPath": "assets/audio/grammar/upper_06_passive_continuous_perfect/000.mp3"
+    },
+    {
+      "id": "t6_2",
+      "type": "sentenceAssembly",
+      "question": "Дом красили, когда я пришёл",
+      "correctAnswer": "The house was being painted when I came",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "Some",
+          "Every"
+        ],
+        [
+          "house",
+          "home",
+          "wall",
+          "room"
+        ],
+        [
+          "was",
+          "is",
+          "were",
+          "been"
+        ],
+        [
+          "being",
+          "been",
+          "be",
+          "was"
+        ],
+        [
+          "painted",
+          "paint",
+          "colored",
+          "drawn"
+        ],
+        [
+          "when",
+          "while",
+          "where",
+          "if"
+        ],
+        [
+          "I",
+          "They",
+          "You",
+          "One"
+        ],
+        [
+          "came",
+          "come",
+          "go",
+          "went"
+        ]
+      ],
+      "mistakeTags": [
+        "passive_voice",
+        "continuous_perfect_passive"
+      ],
+      "audioPath": "assets/audio/grammar/upper_06_passive_continuous_perfect/001.mp3"
+    },
+    {
+      "id": "t6_3",
+      "type": "sentenceAssembly",
+      "question": "Ваш отчёт сейчас обрабатывается руководством",
+      "correctAnswer": "Your report is being processed right now",
+      "options": [],
+      "variants": [
+        [
+          "Your",
+          "Our",
+          "My",
+          "His"
+        ],
+        [
+          "report",
+          "request",
+          "proposal",
+          "document"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "be"
+        ],
+        [
+          "being",
+          "been",
+          "be",
+          "is"
+        ],
+        [
+          "processed",
+          "process",
+          "reviewed",
+          "handled"
+        ],
+        [
+          "right",
+          "just",
+          "very",
+          "so"
+        ],
+        [
+          "now",
+          "today",
+          "here",
+          "soon"
+        ]
+      ],
+      "mistakeTags": [
+        "passive_voice",
+        "continuous_perfect_passive"
+      ],
+      "audioPath": "assets/audio/grammar/upper_06_passive_continuous_perfect/002.mp3"
+    },
+    {
+      "id": "t6_4",
+      "type": "sentenceAssembly",
+      "question": "Вопросы задаются студентами прямо сейчас",
+      "correctAnswer": "Questions are being asked by the students",
+      "options": [],
+      "variants": [
+        [
+          "Questions",
+          "Answers",
+          "Tasks",
+          "Problems"
+        ],
+        [
+          "are",
+          "is",
+          "were",
+          "be"
+        ],
+        [
+          "being",
+          "been",
+          "be",
+          "are"
+        ],
+        [
+          "asked",
+          "ask",
+          "told",
+          "said"
+        ],
+        [
+          "by",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "students",
+          "teachers",
+          "people",
+          "class"
+        ]
+      ],
+      "mistakeTags": [
+        "passive_voice",
+        "continuous_perfect_passive"
+      ],
+      "audioPath": "assets/audio/grammar/upper_06_passive_continuous_perfect/003.mp3"
+    },
+    {
+      "id": "t6_5",
+      "type": "sentenceAssembly",
+      "question": "Бюджет обсуждался, когда мы пришли на совещание",
+      "correctAnswer": "The budget was being discussed when we arrived",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "Some",
+          "Every"
+        ],
+        [
+          "budget",
+          "report",
+          "project",
+          "strategy"
+        ],
+        [
+          "was",
+          "is",
+          "were",
+          "been"
+        ],
+        [
+          "being",
+          "been",
+          "be",
+          "was"
+        ],
+        [
+          "discussed",
+          "discuss",
+          "reviewed",
+          "analyzed"
+        ],
+        [
+          "when",
+          "while",
+          "where",
+          "if"
+        ],
+        [
+          "we",
+          "they",
+          "you",
+          "one"
+        ],
+        [
+          "arrived",
+          "came",
+          "left",
+          "went"
+        ]
+      ],
+      "mistakeTags": [
+        "passive_voice",
+        "continuous_perfect_passive"
+      ],
+      "audioPath": "assets/audio/grammar/upper_06_passive_continuous_perfect/004.mp3"
+    },
+    {
+      "id": "t6_6",
+      "type": "sentenceAssembly",
+      "question": "Новое здание строится на этой улице",
+      "correctAnswer": "The new building is being built here",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "That",
+          "Each"
+        ],
+        [
+          "new",
+          "old",
+          "big",
+          "small"
+        ],
+        [
+          "building",
+          "house",
+          "school",
+          "tower"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "be"
+        ],
+        [
+          "being",
+          "been",
+          "be",
+          "is"
+        ],
+        [
+          "built",
+          "build",
+          "made",
+          "done"
+        ],
+        [
+          "here",
+          "there",
+          "now",
+          "today"
+        ]
+      ],
+      "mistakeTags": [
+        "passive_voice",
+        "continuous_perfect_passive"
+      ],
+      "audioPath": "assets/audio/grammar/upper_06_passive_continuous_perfect/005.mp3"
+    },
+    {
+      "id": "t6_7",
+      "type": "sentenceAssembly",
+      "question": "Громкая музыка игралась на вечеринке",
+      "correctAnswer": "Loud music was being played at the party",
+      "options": [],
+      "variants": [
+        [
+          "Loud",
+          "Soft",
+          "Good",
+          "Bad"
+        ],
+        [
+          "music",
+          "song",
+          "sound",
+          "noise"
+        ],
+        [
+          "was",
+          "is",
+          "were",
+          "been"
+        ],
+        [
+          "being",
+          "been",
+          "be",
+          "was"
+        ],
+        [
+          "played",
+          "play",
+          "heard",
+          "sung"
+        ],
+        [
+          "at",
+          "for",
+          "in",
+          "on"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "party",
+          "concert",
+          "club",
+          "show"
+        ]
+      ],
+      "mistakeTags": [
+        "passive_voice",
+        "continuous_perfect_passive"
+      ],
+      "audioPath": "assets/audio/grammar/upper_06_passive_continuous_perfect/006.mp3"
+    },
+    {
+      "id": "t6_8",
+      "type": "sentenceAssembly",
+      "question": "Мои навыки оцениваются на собеседовании прямо сейчас",
+      "correctAnswer": "I am being evaluated at the interview",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "They",
+          "You",
+          "One"
+        ],
+        [
+          "am",
+          "is",
+          "are",
+          "was"
+        ],
+        [
+          "being",
+          "been",
+          "be",
+          "am"
+        ],
+        [
+          "evaluated",
+          "evaluate",
+          "assessed",
+          "tested"
+        ],
+        [
+          "at",
+          "with",
+          "from",
+          "by"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "interview",
+          "meeting",
+          "office",
+          "session"
+        ]
+      ],
+      "mistakeTags": [
+        "passive_voice",
+        "continuous_perfect_passive"
+      ],
+      "audioPath": "assets/audio/grammar/upper_06_passive_continuous_perfect/007.mp3"
+    },
+    {
+      "id": "t6_9",
+      "type": "sentenceAssembly",
+      "question": "Фильм снимается известным режиссёром",
+      "correctAnswer": "The movie is being filmed by a director",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "That",
+          "Each"
+        ],
+        [
+          "movie",
+          "film",
+          "show",
+          "series"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "be"
+        ],
+        [
+          "being",
+          "been",
+          "be",
+          "is"
+        ],
+        [
+          "filmed",
+          "film",
+          "shot",
+          "made"
+        ],
+        [
+          "by",
+          "about",
+          "through",
+          "into"
+        ],
+        [
+          "a",
+          "that",
+          "each",
+          "the"
+        ],
+        [
+          "director",
+          "producer",
+          "actor",
+          "team"
+        ]
+      ],
+      "mistakeTags": [
+        "passive_voice",
+        "continuous_perfect_passive"
+      ],
+      "audioPath": "assets/audio/grammar/upper_06_passive_continuous_perfect/008.mp3"
+    },
+    {
+      "id": "t6_10",
+      "type": "sentenceAssembly",
+      "question": "Письма пишутся сотрудниками каждый день",
+      "correctAnswer": "The letters are being written by staff",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "An",
+          "This"
+        ],
+        [
+          "letters",
+          "notes",
+          "emails",
+          "reports"
+        ],
+        [
+          "are",
+          "is",
+          "were",
+          "be"
+        ],
+        [
+          "being",
+          "been",
+          "be",
+          "are"
+        ],
+        [
+          "written",
+          "write",
+          "wrote",
+          "sent"
+        ],
+        [
+          "by",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "staff",
+          "workers",
+          "team",
+          "people"
+        ]
+      ],
+      "mistakeTags": [
+        "passive_voice",
+        "continuous_perfect_passive"
+      ],
+      "audioPath": "assets/audio/grammar/upper_06_passive_continuous_perfect/009.mp3"
+    },
+    {
+      "id": "t6_11",
+      "type": "sentenceAssembly",
+      "question": "Стратегическая проблема решается экспертами прямо сейчас",
+      "correctAnswer": "The strategic issue is being solved by experts",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "Some",
+          "Every"
+        ],
+        [
+          "strategic",
+          "critical",
+          "major",
+          "urgent"
+        ],
+        [
+          "issue",
+          "problem",
+          "matter",
+          "case"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "be"
+        ],
+        [
+          "being",
+          "been",
+          "be",
+          "is"
+        ],
+        [
+          "solved",
+          "solve",
+          "resolved",
+          "handled"
+        ],
+        [
+          "by",
+          "with",
+          "from",
+          "for"
+        ],
+        [
+          "experts",
+          "analysts",
+          "consultants",
+          "managers"
+        ]
+      ],
+      "mistakeTags": [
+        "passive_voice",
+        "continuous_perfect_passive"
+      ],
+      "audioPath": "assets/audio/grammar/upper_06_passive_continuous_perfect/010.mp3"
+    },
+    {
+      "id": "t6_12",
+      "type": "sentenceAssembly",
+      "question": "Их допрашивали в полиции в тот момент",
+      "correctAnswer": "They were being questioned by the police",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "She",
+          "He",
+          "It"
+        ],
+        [
+          "were",
+          "was",
+          "are",
+          "been"
+        ],
+        [
+          "being",
+          "been",
+          "be",
+          "were"
+        ],
+        [
+          "questioned",
+          "asked",
+          "stopped",
+          "checked"
+        ],
+        [
+          "by",
+          "about",
+          "through",
+          "into"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "police",
+          "guards",
+          "agents",
+          "officers"
+        ]
+      ],
+      "mistakeTags": [
+        "passive_voice",
+        "continuous_perfect_passive"
+      ],
+      "audioPath": "assets/audio/grammar/upper_06_passive_continuous_perfect/011.mp3"
+    },
+    {
+      "id": "t6_13",
+      "type": "sentenceAssembly",
+      "question": "Мой телефон используется кем-то другим сейчас",
+      "correctAnswer": "My phone is being used by someone",
+      "options": [],
+      "variants": [
+        [
+          "My",
+          "His",
+          "Her",
+          "Your"
+        ],
+        [
+          "phone",
+          "laptop",
+          "tablet",
+          "device"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "be"
+        ],
+        [
+          "being",
+          "been",
+          "be",
+          "is"
+        ],
+        [
+          "used",
+          "use",
+          "taken",
+          "held"
+        ],
+        [
+          "by",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "someone",
+          "anyone",
+          "nobody",
+          "everybody"
+        ]
+      ],
+      "mistakeTags": [
+        "passive_voice",
+        "continuous_perfect_passive"
+      ],
+      "audioPath": "assets/audio/grammar/upper_06_passive_continuous_perfect/012.mp3"
+    },
+    {
+      "id": "t6_14",
+      "type": "sentenceAssembly",
+      "question": "За нами следили всю дорогу домой",
+      "correctAnswer": "We were being followed all the way",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "You",
+          "One"
+        ],
+        [
+          "were",
+          "was",
+          "are",
+          "been"
+        ],
+        [
+          "being",
+          "been",
+          "be",
+          "were"
+        ],
+        [
+          "followed",
+          "follow",
+          "watched",
+          "tracked"
+        ],
+        [
+          "all",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "way",
+          "road",
+          "time",
+          "day"
+        ]
+      ],
+      "mistakeTags": [
+        "passive_voice",
+        "continuous_perfect_passive"
+      ],
+      "audioPath": "assets/audio/grammar/upper_06_passive_continuous_perfect/013.mp3"
+    },
+    {
+      "id": "t6_15",
+      "type": "sentenceAssembly",
+      "question": "Тест проводится прямо сейчас в классе",
+      "correctAnswer": "The test is being taken right now",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "That",
+          "Each"
+        ],
+        [
+          "test",
+          "exam",
+          "quiz",
+          "check"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "be"
+        ],
+        [
+          "being",
+          "been",
+          "be",
+          "is"
+        ],
+        [
+          "taken",
+          "take",
+          "done",
+          "passed"
+        ],
+        [
+          "right",
+          "just",
+          "very",
+          "so"
+        ],
+        [
+          "now",
+          "today",
+          "here",
+          "soon"
+        ]
+      ],
+      "mistakeTags": [
+        "passive_voice",
+        "continuous_perfect_passive"
+      ],
+      "audioPath": "assets/audio/grammar/upper_06_passive_continuous_perfect/014.mp3"
+    },
+    {
+      "id": "t6_16",
+      "type": "sentenceAssembly",
+      "question": "Коробки переносятся рабочими на склад",
+      "correctAnswer": "The boxes are being moved by workers",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "An",
+          "This"
+        ],
+        [
+          "boxes",
+          "bags",
+          "cases",
+          "items"
+        ],
+        [
+          "are",
+          "is",
+          "were",
+          "be"
+        ],
+        [
+          "being",
+          "been",
+          "be",
+          "are"
+        ],
+        [
+          "moved",
+          "move",
+          "carried",
+          "lifted"
+        ],
+        [
+          "by",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "workers",
+          "staff",
+          "team",
+          "men"
+        ]
+      ],
+      "mistakeTags": [
+        "passive_voice",
+        "continuous_perfect_passive"
+      ],
+      "audioPath": "assets/audio/grammar/upper_06_passive_continuous_perfect/015.mp3"
+    },
+    {
+      "id": "t6_17",
+      "type": "sentenceAssembly",
+      "question": "Это сейчас не обсуждается на собрании",
+      "correctAnswer": "It is not being discussed at all",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "They",
+          "You",
+          "One"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "be"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "still"
+        ],
+        [
+          "being",
+          "been",
+          "be",
+          "is"
+        ],
+        [
+          "discussed",
+          "discuss",
+          "talked",
+          "debated"
+        ],
+        [
+          "at",
+          "with",
+          "from",
+          "by"
+        ],
+        [
+          "all",
+          "a",
+          "some",
+          "every"
+        ]
+      ],
+      "mistakeTags": [
+        "passive_voice",
+        "continuous_perfect_passive"
+      ],
+      "audioPath": "assets/audio/grammar/upper_06_passive_continuous_perfect/016.mp3"
+    },
+    {
+      "id": "t6_18",
+      "type": "sentenceAssembly",
+      "question": "Новые данные загружаются в систему",
+      "correctAnswer": "New data is being uploaded to the system",
+      "options": [],
+      "variants": [
+        [
+          "New",
+          "Old",
+          "Fresh",
+          "Raw"
+        ],
+        [
+          "data",
+          "files",
+          "info",
+          "records"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "be"
+        ],
+        [
+          "being",
+          "been",
+          "be",
+          "is"
+        ],
+        [
+          "uploaded",
+          "upload",
+          "loaded",
+          "sent"
+        ],
+        [
+          "to",
+          "about",
+          "through",
+          "into"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "system",
+          "server",
+          "cloud",
+          "database"
+        ]
+      ],
+      "mistakeTags": [
+        "passive_voice",
+        "continuous_perfect_passive"
+      ],
+      "audioPath": "assets/audio/grammar/upper_06_passive_continuous_perfect/017.mp3"
+    },
+    {
+      "id": "t6_19",
+      "type": "sentenceAssembly",
+      "question": "Комнату убирали вчера в пять часов",
+      "correctAnswer": "The room was being cleaned at five yesterday",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "An",
+          "This"
+        ],
+        [
+          "room",
+          "house",
+          "place",
+          "floor"
+        ],
+        [
+          "was",
+          "is",
+          "were",
+          "been"
+        ],
+        [
+          "being",
+          "been",
+          "be",
+          "was"
+        ],
+        [
+          "cleaned",
+          "clean",
+          "washed",
+          "cleared"
+        ],
+        [
+          "at",
+          "for",
+          "in",
+          "on"
+        ],
+        [
+          "five",
+          "four",
+          "six",
+          "three"
+        ],
+        [
+          "yesterday",
+          "today",
+          "then",
+          "already"
+        ]
+      ],
+      "mistakeTags": [
+        "passive_voice",
+        "continuous_perfect_passive"
+      ],
+      "audioPath": "assets/audio/grammar/upper_06_passive_continuous_perfect/018.mp3"
+    },
+    {
+      "id": "t6_20",
+      "type": "sentenceAssembly",
+      "question": "Полы моют рабочие прямо сейчас",
+      "correctAnswer": "The floors are being washed right now",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "Some",
+          "Every"
+        ],
+        [
+          "floors",
+          "walls",
+          "rooms",
+          "windows"
+        ],
+        [
+          "are",
+          "is",
+          "were",
+          "be"
+        ],
+        [
+          "being",
+          "been",
+          "be",
+          "are"
+        ],
+        [
+          "washed",
+          "wash",
+          "cleaned",
+          "wiped"
+        ],
+        [
+          "right",
+          "just",
+          "very",
+          "so"
+        ],
+        [
+          "now",
+          "today",
+          "here",
+          "soon"
+        ]
+      ],
+      "mistakeTags": [
+        "passive_voice",
+        "continuous_perfect_passive"
+      ],
+      "audioPath": "assets/audio/grammar/upper_06_passive_continuous_perfect/019.mp3"
+    },
+    {
+      "id": "t6_21",
+      "type": "sentenceAssembly",
+      "question": "Отчёт был сдан до наступления крайнего срока",
+      "correctAnswer": "The report had been submitted before the deadline",
+      "options": [],
+      "mistakeTags": [
+        "passive_perfect"
+      ],
+      "variants": [
+        [
+          "The",
+          "A",
+          "That",
+          "Each"
+        ],
+        [
+          "report",
+          "document",
+          "proposal",
+          "paper"
+        ],
+        [
+          "had",
+          "has",
+          "have",
+          "was"
+        ],
+        [
+          "been",
+          "being",
+          "be",
+          "was"
+        ],
+        [
+          "submitted",
+          "submit",
+          "delivered",
+          "sent"
+        ],
+        [
+          "before",
+          "after",
+          "during",
+          "until"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "deadline",
+          "meeting",
+          "review",
+          "audit"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_06_passive_continuous_perfect/020.mp3"
+    },
+    {
+      "id": "t6_22",
+      "type": "sentenceAssembly",
+      "question": "Книга была прочитана всеми студентами",
+      "correctAnswer": "The book has been read by everyone",
+      "options": [],
+      "mistakeTags": [
+        "passive_perfect"
+      ],
+      "variants": [
+        [
+          "The",
+          "A",
+          "An",
+          "This"
+        ],
+        [
+          "book",
+          "text",
+          "novel",
+          "story"
+        ],
+        [
+          "has",
+          "have",
+          "had",
+          "is"
+        ],
+        [
+          "been",
+          "being",
+          "be",
+          "was"
+        ],
+        [
+          "read",
+          "reads",
+          "reading",
+          "wrote"
+        ],
+        [
+          "by",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "everyone",
+          "someone",
+          "nobody",
+          "anybody"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_06_passive_continuous_perfect/021.mp3"
+    },
+    {
+      "id": "t6_23",
+      "type": "sentenceAssembly",
+      "question": "Работа была выполнена до полудня",
+      "correctAnswer": "The work had been done before noon",
+      "options": [],
+      "mistakeTags": [
+        "passive_perfect"
+      ],
+      "variants": [
+        [
+          "The",
+          "A",
+          "Some",
+          "Every"
+        ],
+        [
+          "work",
+          "task",
+          "job",
+          "project"
+        ],
+        [
+          "had",
+          "has",
+          "have",
+          "was"
+        ],
+        [
+          "been",
+          "being",
+          "be",
+          "was"
+        ],
+        [
+          "done",
+          "do",
+          "made",
+          "finished"
+        ],
+        [
+          "before",
+          "after",
+          "during",
+          "until"
+        ],
+        [
+          "noon",
+          "night",
+          "morning",
+          "lunch"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_06_passive_continuous_perfect/022.mp3"
+    },
+    {
+      "id": "t6_24",
+      "type": "sentenceAssembly",
+      "question": "Дом был построен до наступления зимы",
+      "correctAnswer": "The house had been built before winter",
+      "options": [],
+      "mistakeTags": [
+        "passive_perfect"
+      ],
+      "variants": [
+        [
+          "The",
+          "A",
+          "That",
+          "Each"
+        ],
+        [
+          "house",
+          "building",
+          "school",
+          "bridge"
+        ],
+        [
+          "had",
+          "has",
+          "have",
+          "was"
+        ],
+        [
+          "been",
+          "being",
+          "be",
+          "was"
+        ],
+        [
+          "built",
+          "build",
+          "made",
+          "done"
+        ],
+        [
+          "before",
+          "after",
+          "during",
+          "until"
+        ],
+        [
+          "winter",
+          "summer",
+          "spring",
+          "autumn"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_06_passive_continuous_perfect/023.mp3"
+    },
+    {
+      "id": "t6_25",
+      "type": "sentenceAssembly",
+      "question": "Все данные уже были проанализированы до презентации",
+      "correctAnswer": "All the data have been analyzed already",
+      "options": [],
+      "mistakeTags": [
+        "passive_perfect"
+      ],
+      "variants": [
+        [
+          "All",
+          "A",
+          "An",
+          "This"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "data",
+          "results",
+          "metrics",
+          "records"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "are"
+        ],
+        [
+          "been",
+          "being",
+          "be",
+          "was"
+        ],
+        [
+          "analyzed",
+          "analyze",
+          "reviewed",
+          "processed"
+        ],
+        [
+          "already",
+          "yet",
+          "now",
+          "today"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_06_passive_continuous_perfect/024.mp3"
+    },
+    {
+      "id": "t6_26",
+      "type": "sentenceAssembly",
+      "question": "Письмо было отправлено до встречи",
+      "correctAnswer": "The letter had been sent before the meeting",
+      "options": [],
+      "mistakeTags": [
+        "passive_perfect"
+      ],
+      "variants": [
+        [
+          "The",
+          "A",
+          "Some",
+          "Every"
+        ],
+        [
+          "letter",
+          "email",
+          "message",
+          "note"
+        ],
+        [
+          "had",
+          "has",
+          "have",
+          "was"
+        ],
+        [
+          "been",
+          "being",
+          "be",
+          "was"
+        ],
+        [
+          "sent",
+          "send",
+          "mailed",
+          "written"
+        ],
+        [
+          "before",
+          "after",
+          "during",
+          "until"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "meeting",
+          "class",
+          "lunch",
+          "call"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_06_passive_continuous_perfect/025.mp3"
+    },
+    {
+      "id": "t6_27",
+      "type": "sentenceAssembly",
+      "question": "Машина была помыта утром сегодня",
+      "correctAnswer": "The car has been washed this morning",
+      "options": [],
+      "mistakeTags": [
+        "passive_perfect"
+      ],
+      "variants": [
+        [
+          "The",
+          "A",
+          "That",
+          "Each"
+        ],
+        [
+          "car",
+          "bus",
+          "truck",
+          "bike"
+        ],
+        [
+          "has",
+          "have",
+          "had",
+          "is"
+        ],
+        [
+          "been",
+          "being",
+          "be",
+          "was"
+        ],
+        [
+          "washed",
+          "wash",
+          "cleaned",
+          "fixed"
+        ],
+        [
+          "this",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "morning",
+          "evening",
+          "night",
+          "week"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_06_passive_continuous_perfect/026.mp3"
+    },
+    {
+      "id": "t6_28",
+      "type": "sentenceAssembly",
+      "question": "Новости читаются ведущим на телевидении",
+      "correctAnswer": "The news is being read on live television",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "An",
+          "This"
+        ],
+        [
+          "news",
+          "report",
+          "story",
+          "update"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "be"
+        ],
+        [
+          "being",
+          "been",
+          "be",
+          "is"
+        ],
+        [
+          "read",
+          "told",
+          "said",
+          "shown"
+        ],
+        [
+          "on",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "live",
+          "local",
+          "world",
+          "daily"
+        ],
+        [
+          "television",
+          "radio",
+          "screen",
+          "air"
+        ]
+      ],
+      "mistakeTags": [
+        "passive_voice",
+        "continuous_perfect_passive"
+      ],
+      "audioPath": "assets/audio/grammar/upper_06_passive_continuous_perfect/027.mp3"
+    },
+    {
+      "id": "t6_29",
+      "type": "sentenceAssembly",
+      "question": "Ошибки уже были исправлены программистом",
+      "correctAnswer": "The errors have been fixed by the programmer",
+      "options": [],
+      "mistakeTags": [
+        "passive_perfect"
+      ],
+      "variants": [
+        [
+          "The",
+          "A",
+          "Some",
+          "Every"
+        ],
+        [
+          "errors",
+          "bugs",
+          "issues",
+          "problems"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "are"
+        ],
+        [
+          "been",
+          "being",
+          "be",
+          "was"
+        ],
+        [
+          "fixed",
+          "fix",
+          "solved",
+          "removed"
+        ],
+        [
+          "by",
+          "with",
+          "from",
+          "for"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "programmer",
+          "developer",
+          "engineer",
+          "expert"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_06_passive_continuous_perfect/028.mp3"
+    },
+    {
+      "id": "t6_30",
+      "type": "sentenceAssembly",
+      "question": "Заявки рассматриваются менеджером в офисе",
+      "correctAnswer": "Applications are being reviewed by the manager",
+      "options": [],
+      "variants": [
+        [
+          "Applications",
+          "Requests",
+          "Forms",
+          "Papers"
+        ],
+        [
+          "are",
+          "is",
+          "were",
+          "be"
+        ],
+        [
+          "being",
+          "been",
+          "be",
+          "are"
+        ],
+        [
+          "reviewed",
+          "review",
+          "checked",
+          "read"
+        ],
+        [
+          "by",
+          "about",
+          "through",
+          "into"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "manager",
+          "director",
+          "boss",
+          "staff"
+        ]
+      ],
+      "mistakeTags": [
+        "passive_voice",
+        "continuous_perfect_passive"
+      ],
+      "audioPath": "assets/audio/grammar/upper_06_passive_continuous_perfect/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionUpper06PassiveContinuousPerfect",
+  "theoryQuiz": [
+    {
+      "id": "tq_01",
+      "type": "multipleChoice",
+      "question": "Какая формула Present Continuous Passive?",
+      "options": [
+        "am/is/are + V3",
+        "am/is/are + being + V3",
+        "have/has + been + V3",
+        "was/were + V3"
+      ],
+      "correctIndex": 1,
+      "explanation": "Present Continuous Passive: am/is/are being + V3. The road is being repaired."
+    },
+    {
+      "id": "tq_02",
+      "type": "trueFalse",
+      "question": "'The letter has been sent' — это пример Present Perfect Passive.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Верно. Has been + sent (V3) — Present Perfect Passive."
+    },
+    {
+      "id": "tq_03",
+      "type": "multipleChoice",
+      "question": "Какая формула Present Perfect Passive?",
+      "options": [
+        "am/is/are + being + V3",
+        "have/has + been + V3",
+        "had + been + V3",
+        "will + be + V3"
+      ],
+      "correctIndex": 1,
+      "explanation": "Present Perfect Passive: have/has been + V3. The work has been completed."
+    },
+    {
+      "id": "tq_04",
+      "type": "trueFalse",
+      "question": "'The road is being repaired' означает, что дорогу ремонтируют прямо сейчас.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Верно. Present Continuous Passive (is being repaired) показывает действие, происходящее в данный момент."
+    },
+    {
+      "id": "tq_05",
+      "type": "multipleChoice",
+      "question": "Как образуется Past Continuous Passive?",
+      "options": [
+        "was/were + V3",
+        "was/were + being + V3",
+        "had + been + V3",
+        "have/has + being + V3"
+      ],
+      "correctIndex": 1,
+      "explanation": "Past Continuous Passive: was/were being + V3. The house was being built last year."
+    },
+    {
+      "id": "tq_06",
+      "type": "multipleChoice",
+      "question": "Выберите правильный Past Perfect Passive:",
+      "options": [
+        "The report has been written.",
+        "The report had been written.",
+        "The report was being written.",
+        "The report is being written."
+      ],
+      "correctIndex": 1,
+      "explanation": "Past Perfect Passive: had been + V3. The report had been written before the meeting."
+    },
+    {
+      "id": "tq_07",
+      "type": "trueFalse",
+      "question": "'The cake has been being baked' — это грамматически правильная конструкция.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "Неверно. Present Perfect Continuous Passive практически не используется. Вместо этого говорят проще."
+    },
+    {
+      "id": "tq_08",
+      "type": "multipleChoice",
+      "question": "Какое предложение в Past Perfect Passive?",
+      "options": [
+        "The bridge was built.",
+        "The bridge had been built before 2010.",
+        "The bridge is being built.",
+        "The bridge has been built."
+      ],
+      "correctIndex": 1,
+      "explanation": "Had been built — Past Perfect Passive: had + been + V3."
+    },
+    {
+      "id": "tq_09",
+      "type": "trueFalse",
+      "question": "Во всех формах Passive Continuous используется слово 'being'.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Верно. Passive Continuous всегда содержит being: is being done, was being done."
+    },
+    {
+      "id": "tq_10",
+      "type": "multipleChoice",
+      "question": "Переведите: 'Письмо было отправлено (уже к тому моменту).'",
+      "options": [
+        "The letter was sent.",
+        "The letter is being sent.",
+        "The letter had been sent.",
+        "The letter has been sent."
+      ],
+      "correctIndex": 2,
+      "explanation": "«Уже к тому моменту» = Past Perfect Passive: had been sent."
+    }
+  ]
+}

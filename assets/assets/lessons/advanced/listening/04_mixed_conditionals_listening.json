@@ -1,0 +1,476 @@
+{
+  "id": "advanced_listening_04_mixed_conditionals",
+  "title": "Mixed Conditionals",
+  "description": "Слушайте смешанные условные предложения.",
+  "order": 4,
+  "level": "advanced",
+  "imageUrl": "assets/images/lessons/mixed_conditionals.png",
+  "tasks": [
+    {
+      "id": "t4_01",
+      "audioText": "James never studied medicine despite his passion for it. If he had studied medicine at university, he would be a qualified surgeon by now.",
+      "transcript": "If he had studied medicine at university, he would be a qualified surgeon by now.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "James studied medicine and is now a surgeon."
+        },
+        {
+          "id": "o2",
+          "text": "A past decision not to study medicine means James is not a surgeon today."
+        },
+        {
+          "id": "o3",
+          "text": "James is currently studying medicine at university."
+        },
+        {
+          "id": "o4",
+          "text": "James will become a surgeon in the near future."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "This is a mixed conditional: past condition (had studied) with present result (would be). He didn't study, so he isn't a surgeon now.",
+      "mistakeTags": [
+        "mixed_conditionals",
+        "conditional",
+        "past_present"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_04_mixed_conditionals/t4_01.mp3"
+    },
+    {
+      "id": "t4_02",
+      "audioText": "Maria is extremely afraid of flying and always travels by train. If she weren't so terrified of flying, she would have accepted the job offer in Tokyo last year.",
+      "transcript": "If she weren't so terrified of flying, she would have accepted the job offer in Tokyo last year.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Maria accepted the job in Tokyo despite her fear of flying."
+        },
+        {
+          "id": "o2",
+          "text": "Maria overcame her fear of flying last year."
+        },
+        {
+          "id": "o3",
+          "text": "Her ongoing fear of flying caused her to turn down the Tokyo job opportunity in the past."
+        },
+        {
+          "id": "o4",
+          "text": "Maria will accept the Tokyo job offer next year."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "Present condition (weren't terrified) with past result (would have accepted). Her permanent fear prevented a past action.",
+      "mistakeTags": [
+        "mixed_conditionals",
+        "conditional",
+        "present_past"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_04_mixed_conditionals/t4_02.mp3"
+    },
+    {
+      "id": "t4_03",
+      "audioText": "The CEO made a risky investment decision five years ago that paid off enormously. If the company hadn't invested in renewable energy back then, it wouldn't be the market leader today.",
+      "transcript": "If the company hadn't invested in renewable energy back then, it wouldn't be the market leader today.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The past investment in renewables is the reason the company leads the market now."
+        },
+        {
+          "id": "o2",
+          "text": "The company did not invest in renewable energy five years ago."
+        },
+        {
+          "id": "o3",
+          "text": "The company is currently behind its competitors in the market."
+        },
+        {
+          "id": "o4",
+          "text": "Investing in renewable energy was a poor business decision."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Past condition (hadn't invested) leads to present result (wouldn't be the leader). The past investment created current success.",
+      "mistakeTags": [
+        "mixed_conditionals",
+        "conditional",
+        "past_present"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_04_mixed_conditionals/t4_03.mp3"
+    },
+    {
+      "id": "t4_04",
+      "audioText": "Dr. Chen is naturally disorganised and struggles with administrative tasks. If she were more organised, she would have submitted the research grant application before the deadline.",
+      "transcript": "If she were more organised, she would have submitted the research grant application before the deadline.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Dr. Chen submitted the grant application on time."
+        },
+        {
+          "id": "o2",
+          "text": "Her permanent tendency to be disorganised caused her to miss the grant application deadline."
+        },
+        {
+          "id": "o3",
+          "text": "Dr. Chen is well-known for her excellent organisational skills."
+        },
+        {
+          "id": "o4",
+          "text": "The research grant deadline has been extended for Dr. Chen."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "Present condition (were more organised) with past result (would have submitted). A permanent trait affected a past outcome.",
+      "mistakeTags": [
+        "mixed_conditionals",
+        "conditional",
+        "present_past"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_04_mixed_conditionals/t4_04.mp3"
+    },
+    {
+      "id": "t4_05",
+      "audioText": "The country experienced a devastating economic crisis in the previous decade. If the government had implemented stricter financial regulations, the economy would be in much better shape now.",
+      "transcript": "If the government had implemented stricter financial regulations, the economy would be in much better shape now.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Stricter financial rules were implemented and the economy recovered quickly."
+        },
+        {
+          "id": "o2",
+          "text": "The economy is currently performing very well."
+        },
+        {
+          "id": "o3",
+          "text": "The failure to introduce tougher regulations in the past is why the economy is struggling now."
+        },
+        {
+          "id": "o4",
+          "text": "The government plans to implement new financial regulations soon."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "Past condition (had implemented) with present result (would be in better shape). Past inaction has ongoing economic consequences.",
+      "mistakeTags": [
+        "mixed_conditionals",
+        "conditional",
+        "past_present"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_04_mixed_conditionals/t4_05.mp3"
+    },
+    {
+      "id": "t4_06",
+      "audioText": "Tom is a perfectionist who takes forever to make decisions. If he weren't such a perfectionist, he would have launched his startup two years ago when the market was ideal.",
+      "transcript": "If he weren't such a perfectionist, he would have launched his startup two years ago when the market was ideal.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Tom launched his startup two years ago successfully."
+        },
+        {
+          "id": "o2",
+          "text": "Tom's enduring perfectionism prevented him from starting his business at the optimal time."
+        },
+        {
+          "id": "o3",
+          "text": "The market conditions are currently ideal for launching a startup."
+        },
+        {
+          "id": "o4",
+          "text": "Tom stopped being a perfectionist and launched his startup."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "Present condition (weren't a perfectionist) with past result (would have launched). His ongoing trait prevented past action.",
+      "mistakeTags": [
+        "mixed_conditionals",
+        "conditional",
+        "present_past"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_04_mixed_conditionals/t4_06.mp3"
+    },
+    {
+      "id": "t4_07",
+      "audioText": "The footballer suffered a severe knee injury during training last season. If he hadn't torn his ligament in that training session, he would be playing in the World Cup final right now.",
+      "transcript": "If he hadn't torn his ligament in that training session, he would be playing in the World Cup final right now.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The footballer is currently playing in the World Cup final."
+        },
+        {
+          "id": "o2",
+          "text": "His past injury is the reason he cannot play in today's World Cup final."
+        },
+        {
+          "id": "o3",
+          "text": "The footballer recovered from his injury and returned to the team."
+        },
+        {
+          "id": "o4",
+          "text": "The knee injury happened during the World Cup final itself."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "Past condition (hadn't torn) with present result (would be playing). The training injury eliminated his World Cup participation.",
+      "mistakeTags": [
+        "mixed_conditionals",
+        "conditional",
+        "past_present"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_04_mixed_conditionals/t4_07.mp3"
+    },
+    {
+      "id": "t4_08",
+      "audioText": "Linda has always been extremely generous with her money, sometimes to her own detriment. If she weren't so generous, she would have saved enough to buy a house by now.",
+      "transcript": "If she weren't so generous, she would have saved enough to buy a house by now.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Linda's ongoing generosity meant she was unable to save enough for a house."
+        },
+        {
+          "id": "o2",
+          "text": "Linda successfully saved enough money and bought a house."
+        },
+        {
+          "id": "o3",
+          "text": "Linda recently became more careful with her finances."
+        },
+        {
+          "id": "o4",
+          "text": "Linda's generosity has had no effect on her savings."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Present condition (weren't so generous) with past result (would have saved). Her lasting character trait prevented accumulating savings.",
+      "mistakeTags": [
+        "mixed_conditionals",
+        "conditional",
+        "present_past"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_04_mixed_conditionals/t4_08.mp3"
+    },
+    {
+      "id": "t4_09",
+      "audioText": "The professor chose to pursue academia instead of joining a tech company after graduation. If she had joined that startup in its early days, she would be a multimillionaire today.",
+      "transcript": "If she had joined that startup in its early days, she would be a multimillionaire today.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The professor joined the startup and became very wealthy."
+        },
+        {
+          "id": "o2",
+          "text": "A past choice to stay in academia means she is not extremely rich now."
+        },
+        {
+          "id": "o3",
+          "text": "The startup failed and the professor's academic choice proved wise."
+        },
+        {
+          "id": "o4",
+          "text": "The professor regrets nothing about her career path."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "Past condition (had joined) with present result (would be a multimillionaire). Missing the startup opportunity affected her current wealth.",
+      "mistakeTags": [
+        "mixed_conditionals",
+        "conditional",
+        "past_present"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_04_mixed_conditionals/t4_09.mp3"
+    },
+    {
+      "id": "t4_10",
+      "audioText": "The architect is known for being extremely cautious about safety standards. If he weren't so meticulous about structural integrity, the building would have collapsed during the earthquake last month.",
+      "transcript": "If he weren't so meticulous about structural integrity, the building would have collapsed during the earthquake last month.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The building collapsed during the earthquake despite the architect's care."
+        },
+        {
+          "id": "o2",
+          "text": "The architect's habitual attention to safety saved the building from collapsing in last month's earthquake."
+        },
+        {
+          "id": "o3",
+          "text": "There was no earthquake last month."
+        },
+        {
+          "id": "o4",
+          "text": "The architect became more careful after the earthquake."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "Present condition (weren't meticulous) with past result (would have collapsed). His ongoing thoroughness prevented a past disaster.",
+      "mistakeTags": [
+        "mixed_conditionals",
+        "conditional",
+        "present_past"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_04_mixed_conditionals/t4_10.mp3"
+    },
+    {
+      "id": "t4_11",
+      "audioText": "The young woman dropped out of school at sixteen to support her family. If she hadn't dropped out of school so early, she would have more career opportunities available to her today.",
+      "transcript": "If she hadn't dropped out of school so early, she would have more career opportunities available to her today.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She currently has many excellent career opportunities."
+        },
+        {
+          "id": "o2",
+          "text": "She completed her education and has a successful career."
+        },
+        {
+          "id": "o3",
+          "text": "Her past decision to leave school limits her current career options."
+        },
+        {
+          "id": "o4",
+          "text": "Dropping out of school had no impact on her career."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "Past condition (hadn't dropped out) with present result (would have more opportunities). Early school departure restricts her current prospects.",
+      "mistakeTags": [
+        "mixed_conditionals",
+        "conditional",
+        "past_present"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_04_mixed_conditionals/t4_11.mp3"
+    },
+    {
+      "id": "t4_12",
+      "audioText": "Robert is extremely introverted and dislikes networking events of any kind. If he weren't so introverted, he would have made valuable connections at last week's industry conference.",
+      "transcript": "If he weren't so introverted, he would have made valuable connections at last week's industry conference.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Robert is naturally outgoing and enjoys meeting new people."
+        },
+        {
+          "id": "o2",
+          "text": "Robert made many useful contacts at the conference."
+        },
+        {
+          "id": "o3",
+          "text": "His persistent shyness stopped him from building professional relationships at the recent conference."
+        },
+        {
+          "id": "o4",
+          "text": "Robert did not attend the industry conference at all."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "Present condition (weren't introverted) with past result (would have made connections). His ongoing personality trait hindered past networking.",
+      "mistakeTags": [
+        "mixed_conditionals",
+        "conditional",
+        "present_past"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_04_mixed_conditionals/t4_12.mp3"
+    },
+    {
+      "id": "t4_13",
+      "audioText": "The city invested heavily in public transport infrastructure twenty years ago. If the council hadn't built the metro system back then, commuters would still be stuck in traffic for hours every day.",
+      "transcript": "If the council hadn't built the metro system back then, commuters would still be stuck in traffic for hours every day.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The city never built a metro system and commuters suffer daily."
+        },
+        {
+          "id": "o2",
+          "text": "Building the metro two decades ago spares today's commuters from severe daily traffic."
+        },
+        {
+          "id": "o3",
+          "text": "The metro system was built recently, not twenty years ago."
+        },
+        {
+          "id": "o4",
+          "text": "Commuters still experience terrible traffic despite the metro."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "Past condition (hadn't built) with present result (would still be stuck). The past infrastructure investment benefits commuters now.",
+      "mistakeTags": [
+        "mixed_conditionals",
+        "conditional",
+        "past_present"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_04_mixed_conditionals/t4_13.mp3"
+    },
+    {
+      "id": "t4_14",
+      "audioText": "Sophie has always been fiercely independent and hates asking for help. If she weren't so proud, she would have asked her parents for financial support when she lost her job.",
+      "transcript": "If she weren't so proud, she would have asked her parents for financial support when she lost her job.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Sophie asked her parents for money after losing her job."
+        },
+        {
+          "id": "o2",
+          "text": "Sophie never lost her job."
+        },
+        {
+          "id": "o3",
+          "text": "Her enduring pride prevented her from seeking her parents' help during unemployment."
+        },
+        {
+          "id": "o4",
+          "text": "Sophie's parents refused to help her financially."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "Present condition (weren't so proud) with past result (would have asked). Her permanent trait stopped her from seeking help in the past.",
+      "mistakeTags": [
+        "mixed_conditionals",
+        "conditional",
+        "present_past"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_04_mixed_conditionals/t4_14.mp3"
+    },
+    {
+      "id": "t4_15",
+      "audioText": "The scientist emigrated from her home country to pursue better research opportunities abroad. If she hadn't moved to the United States in her twenties, she wouldn't be leading a world-renowned laboratory today.",
+      "transcript": "If she hadn't moved to the United States in her twenties, she wouldn't be leading a world-renowned laboratory today.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She currently leads a famous laboratory because she relocated to the US years ago."
+        },
+        {
+          "id": "o2",
+          "text": "She never moved to the United States."
+        },
+        {
+          "id": "o3",
+          "text": "She leads the laboratory in her home country, not in the US."
+        },
+        {
+          "id": "o4",
+          "text": "Moving to the United States had no impact on her career."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "Past condition (hadn't moved) with present result (wouldn't be leading). Her emigration decision years ago enabled her current prestigious position.",
+      "mistakeTags": [
+        "mixed_conditionals",
+        "conditional",
+        "past_present"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_04_mixed_conditionals/t4_15.mp3"
+    }
+  ],
+  "short_description": "Смешанные условные: прошлое условие с настоящим результатом и наоборот."
+}

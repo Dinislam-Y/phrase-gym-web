@@ -1,0 +1,1513 @@
+{
+  "id": "pre_09_pronouns",
+  "title": "Pronouns",
+  "description": "Местоимения — это «аватары» слов. Вместо того чтобы сто раз повторять «Виктор», мы говорим «Он».",
+  "order": 9,
+  "level": "pre_intermediate",
+  "imageUrl": "assets/images/lessons/pronouns.png",
+  "vocabulary": [
+    {
+      "id": "v9_love",
+      "english": "love",
+      "russian": "любить",
+      "partOfSpeech": "verb",
+      "example": "I love you.",
+      "exampleTranslation": "Я тебя люблю.",
+      "audioPath": "assets/audio/vocabulary/v9_love.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_love.mp3"
+    },
+    {
+      "id": "v9_see",
+      "english": "see",
+      "russian": "видеть",
+      "partOfSpeech": "verb",
+      "example": "She sees him.",
+      "exampleTranslation": "Она видит его.",
+      "audioPath": "assets/audio/vocabulary/v9_see.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_see.mp3"
+    },
+    {
+      "id": "v9_give",
+      "english": "give",
+      "russian": "давать",
+      "partOfSpeech": "verb",
+      "example": "Give it to me.",
+      "exampleTranslation": "Дай это мне.",
+      "audioPath": "assets/audio/vocabulary/v9_give.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_give.mp3"
+    },
+    {
+      "id": "v9_know",
+      "english": "know",
+      "russian": "знать",
+      "partOfSpeech": "verb",
+      "example": "We know them.",
+      "exampleTranslation": "Мы знаем их.",
+      "audioPath": "assets/audio/vocabulary/v9_know.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_know.mp3"
+    },
+    {
+      "id": "v9_house",
+      "english": "house",
+      "russian": "дом",
+      "partOfSpeech": "noun",
+      "example": "Is this your house?",
+      "exampleTranslation": "Это твой дом?",
+      "audioPath": "assets/audio/vocabulary/v9_house.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_house.mp3"
+    },
+    {
+      "id": "v9_play",
+      "english": "play",
+      "russian": "играть",
+      "partOfSpeech": "verb",
+      "example": "They play with us.",
+      "exampleTranslation": "Они играют с нами.",
+      "audioPath": "assets/audio/vocabulary/v9_play.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_play.mp3"
+    },
+    {
+      "id": "v9_car",
+      "english": "car",
+      "russian": "машина",
+      "partOfSpeech": "noun",
+      "example": "Where is his car?",
+      "exampleTranslation": "Где его машина?",
+      "audioPath": "assets/audio/vocabulary/v9_car.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_car.mp3"
+    },
+    {
+      "id": "v9_call",
+      "english": "call",
+      "russian": "звонить",
+      "partOfSpeech": "verb",
+      "example": "Call her.",
+      "exampleTranslation": "Позвони ей.",
+      "audioPath": "assets/audio/vocabulary/v9_call.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_call.mp3"
+    },
+    {
+      "id": "v9_understand",
+      "english": "understand",
+      "russian": "понимать",
+      "partOfSpeech": "verb",
+      "example": "I do not understand you.",
+      "exampleTranslation": "Я тебя не понимаю.",
+      "audioPath": "assets/audio/vocabulary/v9_understand.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_understand.mp3"
+    },
+    {
+      "id": "v9_dog",
+      "english": "dog",
+      "russian": "собака",
+      "partOfSpeech": "noun",
+      "example": "This is their dog.",
+      "exampleTranslation": "Это их собака.",
+      "audioPath": "assets/audio/vocabulary/v9_dog.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_dog.mp3"
+    },
+    {
+      "id": "v9_look",
+      "english": "look",
+      "russian": "смотреть",
+      "partOfSpeech": "verb",
+      "example": "Look at us.",
+      "exampleTranslation": "Посмотри на нас.",
+      "audioPath": "assets/audio/vocabulary/v9_look.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_look.mp3"
+    },
+    {
+      "id": "v9_want",
+      "english": "want",
+      "russian": "хотеть",
+      "partOfSpeech": "verb",
+      "example": "He wants to help.",
+      "exampleTranslation": "Он хочет помочь.",
+      "audioPath": "assets/audio/vocabulary/v9_want.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_want.mp3"
+    },
+    {
+      "id": "v9_help",
+      "english": "help",
+      "russian": "помогать",
+      "partOfSpeech": "verb",
+      "example": "He wants to help you.",
+      "exampleTranslation": "Он хочет тебе помочь.",
+      "audioPath": "assets/audio/vocabulary/v9_help.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_help.mp3"
+    },
+    {
+      "id": "v9_school",
+      "english": "school",
+      "russian": "школа",
+      "partOfSpeech": "noun",
+      "example": "Our school is big.",
+      "exampleTranslation": "Наша школа большая.",
+      "audioPath": "assets/audio/vocabulary/v9_school.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_school.mp3"
+    },
+    {
+      "id": "v9_big",
+      "english": "big",
+      "russian": "большой",
+      "partOfSpeech": "adjective",
+      "example": "Our school is big.",
+      "exampleTranslation": "Наша школа большая.",
+      "audioPath": "assets/audio/vocabulary/v9_big.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_big.mp3"
+    },
+    {
+      "id": "v9_bag",
+      "english": "bag",
+      "russian": "сумка",
+      "partOfSpeech": "noun",
+      "example": "This is her bag.",
+      "exampleTranslation": "Это её сумка.",
+      "audioPath": "assets/audio/vocabulary/v9_bag.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_bag.mp3"
+    },
+    {
+      "id": "v9_story",
+      "english": "story",
+      "russian": "история",
+      "partOfSpeech": "noun",
+      "example": "Tell them a story.",
+      "exampleTranslation": "Расскажи им историю.",
+      "audioPath": "assets/audio/vocabulary/v9_story.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_story.mp3"
+    },
+    {
+      "id": "v9_tell",
+      "english": "tell",
+      "russian": "рассказывать",
+      "partOfSpeech": "verb",
+      "example": "Tell them a story.",
+      "exampleTranslation": "Расскажи им историю.",
+      "audioPath": "assets/audio/vocabulary/v9_tell.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_tell.mp3"
+    },
+    {
+      "id": "v9_work",
+      "english": "work",
+      "russian": "работать",
+      "partOfSpeech": "verb",
+      "example": "It works.",
+      "exampleTranslation": "Это работает.",
+      "audioPath": "assets/audio/vocabulary/v9_work.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_work.mp3"
+    },
+    {
+      "id": "v9_key",
+      "english": "key",
+      "russian": "ключ",
+      "partOfSpeech": "noun",
+      "example": "Where are your keys?",
+      "exampleTranslation": "Где твои ключи?",
+      "audioPath": "assets/audio/vocabulary/v9_key.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_key.mp3"
+    },
+    {
+      "id": "v9_happy",
+      "english": "happy",
+      "russian": "счастливый",
+      "partOfSpeech": "adjective",
+      "example": "We are happy.",
+      "exampleTranslation": "Мы счастливы.",
+      "audioPath": "assets/audio/vocabulary/v9_happy.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_happy.mp3"
+    },
+    {
+      "id": "v9_together",
+      "english": "together",
+      "russian": "вместе",
+      "partOfSpeech": "adverb",
+      "example": "We are happy together.",
+      "exampleTranslation": "Мы счастливы вместе.",
+      "audioPath": "assets/audio/vocabulary/v9_together.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_together.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "Pronouns",
+    "subtitle": "Местоимения (Pro-nouns) работают как дублеры. Они выходят на сцену, когда главному слову (существительному) нужно отдохнуть.",
+    "construction": {
+      "formula": "Types of Pronouns",
+      "rules": [
+        {
+          "word": "Кто? (Subject)",
+          "description": "Главный герой, который что-то делает. I, You, He, She, It, We, They. Стоят в начале."
+        },
+        {
+          "word": "Кого? (Object)",
+          "description": "Тот, НА кого направлено действие. Me, You, Him, Her, It, Us, Them. Стоят после глагола (Люблю *тебя* - Love *you*)."
+        },
+        {
+          "word": "Чей? (Possessive)",
+          "description": "Хозяин предмета. My car, Your car, His car. Всегда стоят перед предметом."
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "groups",
+        "color": "blue",
+        "title": "Я делаю (Subject)",
+        "description": "Когда вы — инициатор. «Я иду», «Она звонит».",
+        "example": {
+          "english": "She calls me everyday.",
+          "russian": "Она (Кто?) звонит мне каждый день."
+        }
+      },
+      {
+        "icon": "bolt",
+        "color": "purple",
+        "title": "Для менЯ (Object)",
+        "description": "Когда вы — получатель. «Звонит МНЕ», «Видит ЕЁ».",
+        "example": {
+          "english": "Look at him.",
+          "russian": "Посмотри на него (Кого?)."
+        }
+      },
+      {
+        "icon": "check_circle",
+        "color": "green",
+        "title": "Моё (Possessive)",
+        "description": "Обозначает владение. «Мой дом», «Его кот».",
+        "example": {
+          "english": "This is my house.",
+          "russian": "Это мой дом."
+        }
+      }
+    ],
+    "markers": [
+      "I / Me / My",
+      "He / Him / His",
+      "She / Her / Her",
+      "We / Us / Our",
+      "They / Them / Their"
+    ]
+  },
+  "tasks": [
+    {
+      "id": "t9_1",
+      "type": "sentenceAssembly",
+      "question": "Я люблю тебя",
+      "correctAnswer": "I love you",
+      "mistakeTags": [
+        "pronouns_subject",
+        "pronouns_object"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "My",
+          "Am"
+        ],
+        [
+          "love",
+          "loves",
+          "loving",
+          "like"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "she"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_09_pronouns/000.mp3"
+    },
+    {
+      "id": "t9_2",
+      "type": "sentenceAssembly",
+      "question": "Она видит его",
+      "correctAnswer": "She sees him",
+      "mistakeTags": [
+        "pronouns_subject",
+        "pronouns_object"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "Her",
+          "He",
+          "Hers"
+        ],
+        [
+          "sees",
+          "see",
+          "look",
+          "watch"
+        ],
+        [
+          "him",
+          "he",
+          "his",
+          "her"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_09_pronouns/001.mp3"
+    },
+    {
+      "id": "t9_3",
+      "type": "sentenceAssembly",
+      "question": "Это моя книга",
+      "correctAnswer": "This is my book",
+      "mistakeTags": [
+        "pronouns_possessive"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "That",
+          "It",
+          "There"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "be"
+        ],
+        [
+          "my",
+          "me",
+          "mine",
+          "I"
+        ],
+        [
+          "book",
+          "text",
+          "novel",
+          "paper"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_09_pronouns/002.mp3"
+    },
+    {
+      "id": "t9_4",
+      "type": "sentenceAssembly",
+      "question": "Дай это мне",
+      "correctAnswer": "Give it to me",
+      "mistakeTags": [
+        "pronouns_object"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "Give",
+          "Take",
+          "Get",
+          "Have"
+        ],
+        [
+          "it",
+          "this",
+          "that",
+          "is"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "me",
+          "I",
+          "my",
+          "mine"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_09_pronouns/003.mp3"
+    },
+    {
+      "id": "t9_5",
+      "type": "sentenceAssembly",
+      "question": "Мы знаем их",
+      "correctAnswer": "We know them",
+      "mistakeTags": [
+        "pronouns_subject",
+        "pronouns_object"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "Us",
+          "Our",
+          "They"
+        ],
+        [
+          "know",
+          "knows",
+          "knew",
+          "think"
+        ],
+        [
+          "them",
+          "they",
+          "their",
+          "theirs"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_09_pronouns/004.mp3"
+    },
+    {
+      "id": "t9_6",
+      "type": "sentenceAssembly",
+      "question": "Это ваш дом?",
+      "correctAnswer": "Is this your house?",
+      "mistakeTags": [
+        "pronouns_possessive"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "Is",
+          "Are",
+          "Do",
+          "Does"
+        ],
+        [
+          "this",
+          "that",
+          "it",
+          "there"
+        ],
+        [
+          "your",
+          "you",
+          "yours",
+          "us"
+        ],
+        [
+          "house",
+          "home",
+          "flat",
+          "place"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_09_pronouns/005.mp3"
+    },
+    {
+      "id": "t9_7",
+      "type": "sentenceAssembly",
+      "question": "Они играют с нами",
+      "correctAnswer": "They play with us",
+      "mistakeTags": [
+        "pronouns_subject",
+        "pronouns_object"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "Them",
+          "Their",
+          "We"
+        ],
+        [
+          "play",
+          "playing",
+          "plays",
+          "game"
+        ],
+        [
+          "with",
+          "to",
+          "for",
+          "at"
+        ],
+        [
+          "us",
+          "we",
+          "our",
+          "me"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_09_pronouns/006.mp3"
+    },
+    {
+      "id": "t9_8",
+      "type": "sentenceAssembly",
+      "question": "Где его машина?",
+      "correctAnswer": "Where is his car?",
+      "mistakeTags": [
+        "pronouns_possessive"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "Where",
+          "What",
+          "When",
+          "Who"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "be"
+        ],
+        [
+          "his",
+          "him",
+          "he",
+          "her"
+        ],
+        [
+          "car",
+          "bus",
+          "auto",
+          "vehicle"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_09_pronouns/007.mp3"
+    },
+    {
+      "id": "t9_9",
+      "type": "sentenceAssembly",
+      "question": "Пожалуйста, позвони ей сейчас",
+      "correctAnswer": "Please call her now",
+      "mistakeTags": [
+        "pronouns_object"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "Please",
+          "Don't",
+          "Always",
+          "Just"
+        ],
+        [
+          "call",
+          "tell",
+          "ask",
+          "help"
+        ],
+        [
+          "her",
+          "him",
+          "me",
+          "them"
+        ],
+        [
+          "now",
+          "here",
+          "today",
+          "soon"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_09_pronouns/008.mp3"
+    },
+    {
+      "id": "t9_10",
+      "type": "sentenceAssembly",
+      "question": "Я не понимаю тебя",
+      "correctAnswer": "I do not understand you",
+      "mistakeTags": [
+        "pronouns_subject",
+        "pronouns_object"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "My",
+          "Am"
+        ],
+        [
+          "do",
+          "does",
+          "did",
+          "am"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "don't"
+        ],
+        [
+          "understand",
+          "know",
+          "see",
+          "hear"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "she"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_09_pronouns/009.mp3"
+    },
+    {
+      "id": "t9_11",
+      "type": "sentenceAssembly",
+      "question": "Это их собака",
+      "correctAnswer": "This is their dog",
+      "mistakeTags": [
+        "pronouns_possessive"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "That",
+          "It",
+          "These"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "be"
+        ],
+        [
+          "their",
+          "them",
+          "they",
+          "theirs"
+        ],
+        [
+          "dog",
+          "cat",
+          "pet",
+          "animal"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_09_pronouns/010.mp3"
+    },
+    {
+      "id": "t9_12",
+      "type": "sentenceAssembly",
+      "question": "Посмотри на нас",
+      "correctAnswer": "Look at us",
+      "mistakeTags": [
+        "pronouns_object"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "Look",
+          "See",
+          "Watch",
+          "View"
+        ],
+        [
+          "at",
+          "on",
+          "in",
+          "to"
+        ],
+        [
+          "us",
+          "we",
+          "our",
+          "me"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_09_pronouns/011.mp3"
+    },
+    {
+      "id": "t9_13",
+      "type": "sentenceAssembly",
+      "question": "Он хочет помочь тебе",
+      "correctAnswer": "He wants to help you",
+      "mistakeTags": [
+        "pronouns_subject",
+        "pronouns_object"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "Him",
+          "His",
+          "She"
+        ],
+        [
+          "wants",
+          "want",
+          "like",
+          "need"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "help",
+          "helping",
+          "helped",
+          "do"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "she"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_09_pronouns/012.mp3"
+    },
+    {
+      "id": "t9_14",
+      "type": "sentenceAssembly",
+      "question": "Она любит его",
+      "correctAnswer": "She loves him",
+      "mistakeTags": [
+        "pronouns_subject",
+        "pronouns_object"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "Her",
+          "He",
+          "Hers"
+        ],
+        [
+          "loves",
+          "love",
+          "like",
+          "likes"
+        ],
+        [
+          "him",
+          "he",
+          "his",
+          "her"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_09_pronouns/013.mp3"
+    },
+    {
+      "id": "t9_15",
+      "type": "sentenceAssembly",
+      "question": "Наша школа большая",
+      "correctAnswer": "Our school is big",
+      "mistakeTags": [
+        "pronouns_possessive"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "Our",
+          "We",
+          "Us",
+          "My"
+        ],
+        [
+          "school",
+          "class",
+          "house",
+          "room"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "be"
+        ],
+        [
+          "big",
+          "large",
+          "huge",
+          "small"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_09_pronouns/014.mp3"
+    },
+    {
+      "id": "t9_16",
+      "type": "sentenceAssembly",
+      "question": "Ты знаешь меня?",
+      "correctAnswer": "Do you know me?",
+      "mistakeTags": [
+        "pronouns_subject",
+        "pronouns_object"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "Do",
+          "Are",
+          "Did",
+          "Can"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "she"
+        ],
+        [
+          "know",
+          "understand",
+          "see",
+          "hear"
+        ],
+        [
+          "me",
+          "I",
+          "my",
+          "mine"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_09_pronouns/015.mp3"
+    },
+    {
+      "id": "t9_17",
+      "type": "sentenceAssembly",
+      "question": "Это её сумка",
+      "correctAnswer": "This is her bag",
+      "mistakeTags": [
+        "pronouns_possessive"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "That",
+          "It",
+          "There"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "be"
+        ],
+        [
+          "her",
+          "she",
+          "hers",
+          "his"
+        ],
+        [
+          "bag",
+          "purse",
+          "box",
+          "case"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_09_pronouns/016.mp3"
+    },
+    {
+      "id": "t9_18",
+      "type": "sentenceAssembly",
+      "question": "Расскажи им историю",
+      "correctAnswer": "Tell them a story",
+      "mistakeTags": [
+        "pronouns_object"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "Tell",
+          "Say",
+          "Speak",
+          "Talk"
+        ],
+        [
+          "them",
+          "they",
+          "their",
+          "us"
+        ],
+        [
+          "a",
+          "the",
+          "an",
+          "one"
+        ],
+        [
+          "story",
+          "tale",
+          "history",
+          "text"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_09_pronouns/017.mp3"
+    },
+    {
+      "id": "t9_19",
+      "type": "sentenceAssembly",
+      "question": "Это работает очень хорошо",
+      "correctAnswer": "It works very well",
+      "mistakeTags": [
+        "pronouns_subject"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "He",
+          "She",
+          "This"
+        ],
+        [
+          "works",
+          "helps",
+          "looks",
+          "goes"
+        ],
+        [
+          "very",
+          "quite",
+          "so",
+          "too"
+        ],
+        [
+          "well",
+          "fast",
+          "fine",
+          "much"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_09_pronouns/018.mp3"
+    },
+    {
+      "id": "t9_20",
+      "type": "sentenceAssembly",
+      "question": "Я не вижу его",
+      "correctAnswer": "I do not see him",
+      "mistakeTags": [
+        "pronouns_subject",
+        "pronouns_object"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "My",
+          "Am"
+        ],
+        [
+          "do",
+          "does",
+          "did",
+          "am"
+        ],
+        [
+          "not",
+          "no",
+          "don't",
+          "never"
+        ],
+        [
+          "see",
+          "look",
+          "watch",
+          "view"
+        ],
+        [
+          "him",
+          "he",
+          "his",
+          "her"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_09_pronouns/019.mp3"
+    },
+    {
+      "id": "t9_21",
+      "type": "sentenceAssembly",
+      "question": "Где твои ключи?",
+      "correctAnswer": "Where are your keys?",
+      "mistakeTags": [
+        "pronouns_possessive"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "Where",
+          "What",
+          "When",
+          "Who"
+        ],
+        [
+          "are",
+          "is",
+          "do",
+          "did"
+        ],
+        [
+          "your",
+          "you",
+          "yours",
+          "my"
+        ],
+        [
+          "keys",
+          "key",
+          "lock",
+          "doors"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_09_pronouns/020.mp3"
+    },
+    {
+      "id": "t9_22",
+      "type": "sentenceAssembly",
+      "question": "Мы счастливы вместе",
+      "correctAnswer": "We are happy together",
+      "mistakeTags": [
+        "pronouns_subject"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "Us",
+          "Our",
+          "They"
+        ],
+        [
+          "are",
+          "is",
+          "am",
+          "be"
+        ],
+        [
+          "happy",
+          "glad",
+          "good",
+          "nice"
+        ],
+        [
+          "together",
+          "with",
+          "near",
+          "close"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_09_pronouns/021.mp3"
+    },
+    {
+      "id": "t9_23",
+      "type": "sentenceAssembly",
+      "question": "Эта книга твоя (абсолютная форма)",
+      "correctAnswer": "This book is yours",
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "That",
+          "The",
+          "A"
+        ],
+        [
+          "book",
+          "text",
+          "novel",
+          "paper"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "be"
+        ],
+        [
+          "yours",
+          "your",
+          "you",
+          "mine"
+        ]
+      ],
+      "mistakeTags": [
+        "pronouns"
+      ],
+      "audioPath": "assets/audio/grammar/pre_09_pronouns/022.mp3"
+    },
+    {
+      "id": "t9_24",
+      "type": "sentenceAssembly",
+      "question": "Это не мое",
+      "correctAnswer": "It is not mine",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "This",
+          "That",
+          "There"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "be"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "none"
+        ],
+        [
+          "mine",
+          "my",
+          "me",
+          "I"
+        ]
+      ],
+      "mistakeTags": [
+        "pronouns",
+        "pronouns_subject"
+      ],
+      "audioPath": "assets/audio/grammar/pre_09_pronouns/023.mp3"
+    },
+    {
+      "id": "t9_25",
+      "type": "sentenceAssembly",
+      "question": "Она готовит для него",
+      "correctAnswer": "She cooks for him",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "Her",
+          "He",
+          "Hers"
+        ],
+        [
+          "cooks",
+          "cook",
+          "cooking",
+          "make"
+        ],
+        [
+          "for",
+          "to",
+          "at",
+          "in"
+        ],
+        [
+          "him",
+          "he",
+          "his",
+          "her"
+        ]
+      ],
+      "mistakeTags": [
+        "pronouns",
+        "pronouns_subject"
+      ],
+      "audioPath": "assets/audio/grammar/pre_09_pronouns/024.mp3"
+    },
+    {
+      "id": "t9_26",
+      "type": "sentenceAssembly",
+      "question": "Я иду с ними",
+      "correctAnswer": "I go with them",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "My",
+          "Am"
+        ],
+        [
+          "go",
+          "goes",
+          "went",
+          "going"
+        ],
+        [
+          "with",
+          "to",
+          "for",
+          "at"
+        ],
+        [
+          "them",
+          "they",
+          "their",
+          "us"
+        ]
+      ],
+      "mistakeTags": [
+        "pronouns",
+        "pronouns_subject"
+      ],
+      "audioPath": "assets/audio/grammar/pre_09_pronouns/025.mp3"
+    },
+    {
+      "id": "t9_27",
+      "type": "sentenceAssembly",
+      "question": "Возьми его машину",
+      "correctAnswer": "Take his car",
+      "options": [],
+      "variants": [
+        [
+          "Take",
+          "Give",
+          "Get",
+          "Have"
+        ],
+        [
+          "his",
+          "him",
+          "he",
+          "her"
+        ],
+        [
+          "car",
+          "bus",
+          "auto",
+          "vehicle"
+        ]
+      ],
+      "mistakeTags": [
+        "pronouns",
+        "pronouns_possessive"
+      ],
+      "audioPath": "assets/audio/grammar/pre_09_pronouns/026.mp3"
+    },
+    {
+      "id": "t9_28",
+      "type": "sentenceAssembly",
+      "question": "Это наша проблема",
+      "correctAnswer": "This is our problem",
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "That",
+          "It",
+          "There"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "be"
+        ],
+        [
+          "our",
+          "us",
+          "we",
+          "my"
+        ],
+        [
+          "problem",
+          "issue",
+          "trouble",
+          "question"
+        ]
+      ],
+      "mistakeTags": [
+        "pronouns",
+        "pronouns_possessive"
+      ],
+      "audioPath": "assets/audio/grammar/pre_09_pronouns/027.mp3"
+    },
+    {
+      "id": "t9_29",
+      "type": "sentenceAssembly",
+      "question": "Никто не знает нас",
+      "correctAnswer": "Nobody knows us",
+      "options": [],
+      "variants": [
+        [
+          "Nobody",
+          "No one",
+          "None",
+          "Any"
+        ],
+        [
+          "knows",
+          "know",
+          "knowing",
+          "knew"
+        ],
+        [
+          "us",
+          "we",
+          "our",
+          "me"
+        ]
+      ],
+      "mistakeTags": [
+        "pronouns",
+        "pronouns_object"
+      ],
+      "audioPath": "assets/audio/grammar/pre_09_pronouns/028.mp3"
+    },
+    {
+      "id": "t9_30",
+      "type": "sentenceAssembly",
+      "question": "Все это любят",
+      "correctAnswer": "Everybody loves it",
+      "options": [],
+      "variants": [
+        [
+          "Everybody",
+          "Everyone",
+          "All",
+          "People"
+        ],
+        [
+          "loves",
+          "love",
+          "like",
+          "likes"
+        ],
+        [
+          "it",
+          "this",
+          "that",
+          "there"
+        ]
+      ],
+      "mistakeTags": [
+        "pronouns"
+      ],
+      "audioPath": "assets/audio/grammar/pre_09_pronouns/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionBeginner09Pronouns",
+  "theoryQuiz": [
+    {
+      "id": "tq_01",
+      "type": "trueFalse",
+      "question": "Subject pronouns (I, he, she...) используются, когда местоимение выполняет действие.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Subject pronouns — подлежащее, тот кто выполняет действие: He reads. She sings."
+    },
+    {
+      "id": "tq_02",
+      "type": "multipleChoice",
+      "question": "Какое Object pronoun соответствует \"he\"?",
+      "options": [
+        "his",
+        "he",
+        "him",
+        "her"
+      ],
+      "correctIndex": 2,
+      "explanation": "He (subject) → him (object): I see him."
+    },
+    {
+      "id": "tq_03",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"I gave ___ a present.\" (ей)",
+      "options": [
+        "she",
+        "her",
+        "hers",
+        "his"
+      ],
+      "correctIndex": 1,
+      "explanation": "Her — object pronoun от she. Используется когда кто-то получает действие."
+    },
+    {
+      "id": "tq_04",
+      "type": "trueFalse",
+      "question": "\"My\" — это possessive adjective (притяжательное прилагательное).",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "My, your, his, her, its, our, their — possessive adjectives, отвечают на вопрос «Чей?»."
+    },
+    {
+      "id": "tq_05",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"___ is a good student.\" (Она)",
+      "options": [
+        "Her",
+        "Hers",
+        "She",
+        "Him"
+      ],
+      "correctIndex": 2,
+      "explanation": "She — subject pronoun, используется как подлежащее: She is a good student."
+    },
+    {
+      "id": "tq_06",
+      "type": "trueFalse",
+      "question": "\"Me like ice cream.\" — предложение составлено правильно.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "Me — object pronoun. Для подлежащего нужно I: I like ice cream."
+    },
+    {
+      "id": "tq_07",
+      "type": "multipleChoice",
+      "question": "Какое possessive adjective соответствует \"they\"?",
+      "options": [
+        "them",
+        "they",
+        "their",
+        "theirs"
+      ],
+      "correctIndex": 2,
+      "explanation": "They → their (притяжательное): their house, their children."
+    },
+    {
+      "id": "tq_08",
+      "type": "multipleChoice",
+      "question": "Выберите правильное предложение:",
+      "options": [
+        "Him is my friend.",
+        "I know they.",
+        "Please call us.",
+        "Her likes cats."
+      ],
+      "correctIndex": 2,
+      "explanation": "Call us — us это object pronoun. Him/Her — object (не subject), I know them (не they)."
+    },
+    {
+      "id": "tq_09",
+      "type": "trueFalse",
+      "question": "\"This is our car.\" — \"our\" здесь является possessive adjective.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Our — possessive adjective от we. Отвечает на вопрос «Чья машина?»."
+    },
+    {
+      "id": "tq_10",
+      "type": "multipleChoice",
+      "question": "Заполните пропуск: \"The teacher gave ___ homework.\" (нам)",
+      "options": [
+        "we",
+        "our",
+        "us",
+        "ours"
+      ],
+      "correctIndex": 2,
+      "explanation": "Us — object pronoun от we. Используется после глагола как получатель действия."
+    }
+  ]
+}

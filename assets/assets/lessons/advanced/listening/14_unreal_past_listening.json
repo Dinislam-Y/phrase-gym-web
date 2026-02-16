@@ -1,0 +1,461 @@
+{
+  "id": "advanced_listening_14_unreal_past",
+  "title": "Unreal Past",
+  "description": "Слушайте конструкции с нереальным прошлым.",
+  "order": 14,
+  "level": "advanced",
+  "imageUrl": "assets/images/lessons/unreal_past.png",
+  "tasks": [
+    {
+      "id": "t14_01",
+      "audioText": "The employee has been with the company for fifteen years but feels undervalued. It's high time the management recognized his contributions to the department.",
+      "transcript": "It's high time the management recognized his contributions to the department.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The management already acknowledged his work long ago."
+        },
+        {
+          "id": "o2",
+          "text": "Recognition of his efforts by the leadership is long overdue."
+        },
+        {
+          "id": "o3",
+          "text": "He has no significant contributions to recognize."
+        },
+        {
+          "id": "o4",
+          "text": "The management plans to fire him soon."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'It's high time + past tense' expresses that something should have happened already but hasn't. Recognition is overdue.",
+      "mistakeTags": [
+        "unreal_past",
+        "workplace"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_14_unreal_past/t14_01.mp3"
+    },
+    {
+      "id": "t14_02",
+      "audioText": "The couple argued about their holiday plans. She said she would rather they spent the summer in the countryside than at a crowded resort.",
+      "transcript": "She said she would rather they spent the summer in the countryside than at a crowded resort.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She preferred a rural summer holiday over a busy resort destination."
+        },
+        {
+          "id": "o2",
+          "text": "She wanted to go to a crowded resort."
+        },
+        {
+          "id": "o3",
+          "text": "They already spent the summer in the countryside."
+        },
+        {
+          "id": "o4",
+          "text": "She does not want to go on holiday at all."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Would rather + past tense' expresses a preference for an unreal or hypothetical situation. She prefers the countryside over a resort.",
+      "mistakeTags": [
+        "unreal_past",
+        "relationships"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_14_unreal_past/t14_02.mp3"
+    },
+    {
+      "id": "t14_03",
+      "audioText": "The mentor spoke candidly with the young entrepreneur. Suppose you lost all your funding tomorrow — would your business model still be viable?",
+      "transcript": "Suppose you lost all your funding tomorrow — would your business model still be viable?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The entrepreneur has actually lost all funding."
+        },
+        {
+          "id": "o2",
+          "text": "The mentor asks hypothetically whether the business could survive without any financial backing."
+        },
+        {
+          "id": "o3",
+          "text": "The business model is guaranteed to succeed regardless."
+        },
+        {
+          "id": "o4",
+          "text": "The mentor is offering additional funding."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Suppose + past tense' creates a hypothetical scenario about the present or future. The mentor tests the business model's resilience through an imagined situation.",
+      "mistakeTags": [
+        "unreal_past",
+        "business"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_14_unreal_past/t14_03.mp3"
+    },
+    {
+      "id": "t14_04",
+      "audioText": "The therapist worked with a patient struggling with perfectionism. I'd rather you didn't put so much pressure on yourself to be flawless in every situation.",
+      "transcript": "I'd rather you didn't put so much pressure on yourself to be flawless in every situation.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The therapist encourages the patient to strive for perfection."
+        },
+        {
+          "id": "o2",
+          "text": "The therapist would prefer that the patient stop demanding perfection from themselves all the time."
+        },
+        {
+          "id": "o3",
+          "text": "The patient has already overcome perfectionism."
+        },
+        {
+          "id": "o4",
+          "text": "The therapist is indifferent to the patient's struggles."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'I'd rather you didn't' uses the unreal past to express a polite preference about another person's behaviour. The therapist gently advises reducing self-imposed pressure.",
+      "mistakeTags": [
+        "unreal_past",
+        "psychology"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_14_unreal_past/t14_04.mp3"
+    },
+    {
+      "id": "t14_05",
+      "audioText": "The politician faced criticism for delaying reforms. It's about time the government addressed the growing inequality in the education system.",
+      "transcript": "It's about time the government addressed the growing inequality in the education system.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The government has already successfully tackled educational inequality."
+        },
+        {
+          "id": "o2",
+          "text": "There is no inequality in the education system."
+        },
+        {
+          "id": "o3",
+          "text": "Action on the widening educational gap should have been taken much sooner."
+        },
+        {
+          "id": "o4",
+          "text": "The government does not consider education a priority."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'It's about time + past tense' implies that action is overdue. The speaker criticizes the delay in addressing educational inequality.",
+      "mistakeTags": [
+        "unreal_past",
+        "politics"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_14_unreal_past/t14_05.mp3"
+    },
+    {
+      "id": "t14_06",
+      "audioText": "The manager discussed team dynamics with a senior colleague. I wish my team communicated more openly, rather than letting issues fester until they become serious problems.",
+      "transcript": "I wish my team communicated more openly, rather than letting issues fester until they become serious problems.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The manager's team already communicates very openly."
+        },
+        {
+          "id": "o2",
+          "text": "The manager desires better communication from the team instead of problems being left unaddressed."
+        },
+        {
+          "id": "o3",
+          "text": "The manager does not care about team communication."
+        },
+        {
+          "id": "o4",
+          "text": "The team has no communication problems."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'I wish + past tense' expresses an unreal present desire. The team currently does not communicate well, and the manager wants this to change.",
+      "mistakeTags": [
+        "unreal_past",
+        "management"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_14_unreal_past/t14_06.mp3"
+    },
+    {
+      "id": "t14_07",
+      "audioText": "The professor discussed ethical dilemmas in the philosophy seminar. Imagine you had to choose between saving one person you love and five strangers — what would you do?",
+      "transcript": "Imagine you had to choose between saving one person you love and five strangers — what would you do?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The professor describes a real emergency that is happening right now."
+        },
+        {
+          "id": "o2",
+          "text": "The students have already faced this exact dilemma in real life."
+        },
+        {
+          "id": "o3",
+          "text": "The professor poses a hypothetical moral choice between a loved one and five unknown people."
+        },
+        {
+          "id": "o4",
+          "text": "The professor thinks this situation is impossible to imagine."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Imagine + past tense' creates a hypothetical scenario using the unreal past. It is a thought experiment, not a real situation.",
+      "mistakeTags": [
+        "unreal_past",
+        "philosophy"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_14_unreal_past/t14_07.mp3"
+    },
+    {
+      "id": "t14_08",
+      "audioText": "The diplomat reflected on the failed negotiations. If only both parties had shown greater willingness to compromise, the ceasefire might have held.",
+      "transcript": "If only both parties had shown greater willingness to compromise, the ceasefire might have held.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Both sides were extremely willing to compromise."
+        },
+        {
+          "id": "o2",
+          "text": "The ceasefire is still in effect today."
+        },
+        {
+          "id": "o3",
+          "text": "Had both sides been more open to concessions, the truce could have survived."
+        },
+        {
+          "id": "o4",
+          "text": "The negotiations were a complete success."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'If only + past perfect' expresses regret about a past situation. The ceasefire failed because neither side compromised enough.",
+      "mistakeTags": [
+        "unreal_past",
+        "diplomacy"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_14_unreal_past/t14_08.mp3"
+    },
+    {
+      "id": "t14_09",
+      "audioText": "The patient sat anxiously in the waiting room. He acted as if he already knew the diagnosis, though the results hadn't been released yet.",
+      "transcript": "He acted as if he already knew the diagnosis, though the results hadn't been released yet.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He had already received his diagnosis."
+        },
+        {
+          "id": "o2",
+          "text": "He behaved as though he were aware of the outcome, even though the findings were still unreleased."
+        },
+        {
+          "id": "o3",
+          "text": "He was completely calm and unconcerned."
+        },
+        {
+          "id": "o4",
+          "text": "The results had been released earlier that day."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'As if + past tense' describes behaviour that does not match reality. He appeared to know the diagnosis, but the results were not out yet.",
+      "mistakeTags": [
+        "unreal_past",
+        "medical"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_14_unreal_past/t14_09.mp3"
+    },
+    {
+      "id": "t14_10",
+      "audioText": "The housing crisis deepened across the country. It's time the authorities took decisive action to increase affordable housing construction.",
+      "transcript": "It's time the authorities took decisive action to increase affordable housing construction.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The authorities should start acting firmly to build more affordable homes."
+        },
+        {
+          "id": "o2",
+          "text": "The authorities have already solved the housing crisis."
+        },
+        {
+          "id": "o3",
+          "text": "No action is needed regarding affordable housing."
+        },
+        {
+          "id": "o4",
+          "text": "The housing crisis does not actually exist."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'It's time + past tense' signals that action should have started already. The speaker urges the authorities to begin addressing the housing shortage now.",
+      "mistakeTags": [
+        "unreal_past",
+        "housing"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_14_unreal_past/t14_10.mp3"
+    },
+    {
+      "id": "t14_11",
+      "audioText": "The mother spoke with concern about her teenage son's lifestyle. I'd sooner he focused on his studies than spent every evening playing video games.",
+      "transcript": "I'd sooner he focused on his studies than spent every evening playing video games.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She encourages her son to play more video games."
+        },
+        {
+          "id": "o2",
+          "text": "She would prefer her son to prioritize schoolwork over gaming every night."
+        },
+        {
+          "id": "o3",
+          "text": "Her son is an excellent student who never plays games."
+        },
+        {
+          "id": "o4",
+          "text": "She thinks video games are more important than studying."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'I'd sooner + past tense' expresses preference using the unreal past, similar to 'would rather'. She wants him to study instead of gaming.",
+      "mistakeTags": [
+        "unreal_past",
+        "family"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_14_unreal_past/t14_11.mp3"
+    },
+    {
+      "id": "t14_12",
+      "audioText": "The journalist investigated corporate lobbying practices. What if the public knew how much influence corporations actually had over legislative decisions?",
+      "transcript": "What if the public knew how much influence corporations actually had over legislative decisions?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The public is fully aware of corporate influence on legislation."
+        },
+        {
+          "id": "o2",
+          "text": "Corporations have no influence over any laws."
+        },
+        {
+          "id": "o3",
+          "text": "The journalist speculates about how people would react if they discovered the true extent of corporate power over laws."
+        },
+        {
+          "id": "o4",
+          "text": "The journalist has no interest in lobbying."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'What if + past tense' uses the unreal past to pose a hypothetical question about a present situation. The public does not currently know the extent of influence.",
+      "mistakeTags": [
+        "unreal_past",
+        "journalism"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_14_unreal_past/t14_12.mp3"
+    },
+    {
+      "id": "t14_13",
+      "audioText": "The financial advisor met with a couple nearing retirement. I'd rather you didn't invest your entire pension in a single high-risk fund at this stage.",
+      "transcript": "I'd rather you didn't invest your entire pension in a single high-risk fund at this stage.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The advisor recommends putting all pension savings into one risky investment."
+        },
+        {
+          "id": "o2",
+          "text": "They have already invested all their money in a risky fund."
+        },
+        {
+          "id": "o3",
+          "text": "The advisor prefers that they avoid putting all retirement funds into one high-risk investment right now."
+        },
+        {
+          "id": "o4",
+          "text": "The advisor thinks the couple is too young to retire."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'I'd rather you didn't' uses the unreal past to politely express a negative preference. The advisor counsels against concentrating pension in one risky place.",
+      "mistakeTags": [
+        "unreal_past",
+        "finance"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_14_unreal_past/t14_13.mp3"
+    },
+    {
+      "id": "t14_14",
+      "audioText": "The astronaut recalled his first space mission during an interview. Looking back, I sometimes wish I had taken more photographs of Earth from the observation deck.",
+      "transcript": "Looking back, I sometimes wish I had taken more photographs of Earth from the observation deck.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He took plenty of photographs during his mission."
+        },
+        {
+          "id": "o2",
+          "text": "He regrets not capturing more images of Earth while he was in space."
+        },
+        {
+          "id": "o3",
+          "text": "He never went to space."
+        },
+        {
+          "id": "o4",
+          "text": "He plans to take more photographs on his next mission."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Wish + past perfect' expresses regret about a past action that cannot be changed. He did not photograph Earth enough and feels sorry about it now.",
+      "mistakeTags": [
+        "unreal_past",
+        "space"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_14_unreal_past/t14_14.mp3"
+    },
+    {
+      "id": "t14_15",
+      "audioText": "The sustainability officer presented the annual report. Suppose every company adopted carbon-neutral practices — the cumulative effect on global emissions would be transformative.",
+      "transcript": "Suppose every company adopted carbon-neutral practices — the cumulative effect on global emissions would be transformative.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "All companies have already adopted carbon-neutral practices."
+        },
+        {
+          "id": "o2",
+          "text": "Carbon-neutral practices would have no impact on emissions."
+        },
+        {
+          "id": "o3",
+          "text": "If all businesses went carbon-neutral, the combined impact on worldwide emissions would be revolutionary."
+        },
+        {
+          "id": "o4",
+          "text": "The officer believes carbon neutrality is impossible."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Suppose + past tense' introduces a hypothetical scenario using the unreal past. Universal adoption would dramatically change global emission levels.",
+      "mistakeTags": [
+        "unreal_past",
+        "environment"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_14_unreal_past/t14_15.mp3"
+    }
+  ],
+  "short_description": "Конструкции с нереальным прошлым."
+}

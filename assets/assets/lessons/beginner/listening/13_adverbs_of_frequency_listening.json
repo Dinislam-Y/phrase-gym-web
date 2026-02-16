@@ -1,0 +1,476 @@
+{
+  "id": "beginner_listening_13_adverbs_of_frequency",
+  "title": "Adverbs of Frequency: always, never, sometimes",
+  "description": "Слушайте и определяйте, как часто что-то происходит.",
+  "order": 13,
+  "level": "beginner",
+  "imageUrl": "assets/images/lessons/adverbs_of_frequency.png",
+  "tasks": [
+    {
+      "id": "t13_01",
+      "audioText": "A woman talks about her morning routine. She wakes up early. I always drink water first.",
+      "transcript": "I always drink water first.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She drinks water every morning without exception."
+        },
+        {
+          "id": "o2",
+          "text": "She sometimes drinks water in the morning."
+        },
+        {
+          "id": "o3",
+          "text": "She never drinks water in the morning."
+        },
+        {
+          "id": "o4",
+          "text": "She rarely drinks water in the morning."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Always' means every time, without exception. Option 1 matches this meaning.",
+      "mistakeTags": [
+        "adverbs_of_frequency",
+        "always",
+        "home"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_13_adverbs_of_frequency/t13_01.mp3"
+    },
+    {
+      "id": "t13_02",
+      "audioText": "A man talks about his weekends. He prefers to relax. I never work on Sundays.",
+      "transcript": "I never work on Sundays.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He always works on Sundays."
+        },
+        {
+          "id": "o2",
+          "text": "He sometimes works on Sundays."
+        },
+        {
+          "id": "o3",
+          "text": "He does not work on Sundays at all."
+        },
+        {
+          "id": "o4",
+          "text": "He usually works on Sundays."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Never' means not at any time. He does not work on Sundays. Option 3 is correct.",
+      "mistakeTags": [
+        "adverbs_of_frequency",
+        "never",
+        "work"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_13_adverbs_of_frequency/t13_02.mp3"
+    },
+    {
+      "id": "t13_03",
+      "audioText": "A girl talks about her lunch habits. She eats at the cafeteria. I sometimes bring food from home.",
+      "transcript": "I sometimes bring food from home.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She always brings food from home."
+        },
+        {
+          "id": "o2",
+          "text": "She brings food from home on some days."
+        },
+        {
+          "id": "o3",
+          "text": "She never brings food from home."
+        },
+        {
+          "id": "o4",
+          "text": "She buys food from home every day."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Sometimes' means not always, but on certain occasions. Option 2 is correct.",
+      "mistakeTags": [
+        "adverbs_of_frequency",
+        "sometimes",
+        "school"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_13_adverbs_of_frequency/t13_03.mp3"
+    },
+    {
+      "id": "t13_04",
+      "audioText": "A boy talks about his father. His father is a doctor. He usually comes home at seven.",
+      "transcript": "He usually comes home at seven.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "His father never comes home at seven."
+        },
+        {
+          "id": "o2",
+          "text": "His father always comes home at nine."
+        },
+        {
+          "id": "o3",
+          "text": "His father comes home at seven most days."
+        },
+        {
+          "id": "o4",
+          "text": "His father rarely comes home at seven."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Usually' means most of the time. Option 3 says he comes home at seven on most days.",
+      "mistakeTags": [
+        "adverbs_of_frequency",
+        "usually",
+        "home"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_13_adverbs_of_frequency/t13_04.mp3"
+    },
+    {
+      "id": "t13_05",
+      "audioText": "A woman talks about the weather in her city. It rains a lot. It often rains in November.",
+      "transcript": "It often rains in November.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "It never rains in November."
+        },
+        {
+          "id": "o2",
+          "text": "It rarely rains in November."
+        },
+        {
+          "id": "o3",
+          "text": "It snows often in November."
+        },
+        {
+          "id": "o4",
+          "text": "It rains frequently in November."
+        }
+      ],
+      "correctIndex": 3,
+      "explanation": "'Often' means frequently, many times. Option 4 says the same thing.",
+      "mistakeTags": [
+        "adverbs_of_frequency",
+        "often",
+        "weather"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_13_adverbs_of_frequency/t13_05.mp3"
+    },
+    {
+      "id": "t13_06",
+      "audioText": "A man talks about his eating habits. He likes healthy food. I rarely eat fast food.",
+      "transcript": "I rarely eat fast food.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He eats fast food very often."
+        },
+        {
+          "id": "o2",
+          "text": "He eats fast food almost never."
+        },
+        {
+          "id": "o3",
+          "text": "He never eats any food."
+        },
+        {
+          "id": "o4",
+          "text": "He always eats fast food."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Rarely' means almost never, very infrequently. Option 2 is correct.",
+      "mistakeTags": [
+        "adverbs_of_frequency",
+        "rarely",
+        "food"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_13_adverbs_of_frequency/t13_06.mp3"
+    },
+    {
+      "id": "t13_07",
+      "audioText": "A student talks about her English class. She enjoys it. Our teacher always explains things clearly.",
+      "transcript": "Our teacher always explains things clearly.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The teacher sometimes explains clearly."
+        },
+        {
+          "id": "o2",
+          "text": "The teacher explains clearly every time."
+        },
+        {
+          "id": "o3",
+          "text": "The teacher rarely explains things."
+        },
+        {
+          "id": "o4",
+          "text": "The teacher never explains clearly."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Always explains clearly' means every single time. Option 2 is correct.",
+      "mistakeTags": [
+        "adverbs_of_frequency",
+        "always",
+        "school"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_13_adverbs_of_frequency/t13_07.mp3"
+    },
+    {
+      "id": "t13_08",
+      "audioText": "A couple talks about vacations. They love traveling. We usually go to the beach in summer.",
+      "transcript": "We usually go to the beach in summer.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "They go to the mountains in summer most years."
+        },
+        {
+          "id": "o2",
+          "text": "They go to the beach in summer most years."
+        },
+        {
+          "id": "o3",
+          "text": "They never go to the beach."
+        },
+        {
+          "id": "o4",
+          "text": "They go to the beach in winter most years."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Usually go to the beach in summer' means most years they choose the beach. Option 2.",
+      "mistakeTags": [
+        "adverbs_of_frequency",
+        "usually",
+        "travel"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_13_adverbs_of_frequency/t13_08.mp3"
+    },
+    {
+      "id": "t13_09",
+      "audioText": "A boy talks about his pet cat. The cat is lazy. It never catches mice.",
+      "transcript": "It never catches mice.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The cat catches mice every day."
+        },
+        {
+          "id": "o2",
+          "text": "The cat sometimes catches mice."
+        },
+        {
+          "id": "o3",
+          "text": "The cat does not catch mice at all."
+        },
+        {
+          "id": "o4",
+          "text": "The cat often catches mice."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Never catches mice' means it does not happen. Option 3 is correct.",
+      "mistakeTags": [
+        "adverbs_of_frequency",
+        "never",
+        "pets"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_13_adverbs_of_frequency/t13_09.mp3"
+    },
+    {
+      "id": "t13_10",
+      "audioText": "A woman works in an office. She likes her job. I often stay late on Fridays.",
+      "transcript": "I often stay late on Fridays.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She never works late on Fridays."
+        },
+        {
+          "id": "o2",
+          "text": "She always leaves early on Fridays."
+        },
+        {
+          "id": "o3",
+          "text": "She frequently works late on Fridays."
+        },
+        {
+          "id": "o4",
+          "text": "She rarely stays at the office."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Often stay late' means she frequently works late on Fridays. Option 3 says the same.",
+      "mistakeTags": [
+        "adverbs_of_frequency",
+        "often",
+        "work"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_13_adverbs_of_frequency/t13_10.mp3"
+    },
+    {
+      "id": "t13_11",
+      "audioText": "A man talks about his morning commute. The traffic is bad. The bus is sometimes late.",
+      "transcript": "The bus is sometimes late.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The bus is always on time."
+        },
+        {
+          "id": "o2",
+          "text": "The bus is always late."
+        },
+        {
+          "id": "o3",
+          "text": "The bus is late on certain days."
+        },
+        {
+          "id": "o4",
+          "text": "The bus never arrives."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Sometimes late' means it happens on some days but not all. Option 3 is correct.",
+      "mistakeTags": [
+        "adverbs_of_frequency",
+        "sometimes",
+        "transport"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_13_adverbs_of_frequency/t13_11.mp3"
+    },
+    {
+      "id": "t13_12",
+      "audioText": "A girl talks about her grandmother. She lives nearby. I always visit her on Saturdays.",
+      "transcript": "I always visit her on Saturdays.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She visits her grandmother every Saturday."
+        },
+        {
+          "id": "o2",
+          "text": "She visits her grandmother once a month."
+        },
+        {
+          "id": "o3",
+          "text": "She rarely visits her grandmother."
+        },
+        {
+          "id": "o4",
+          "text": "She visits her grandmother on Sundays."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Always visit on Saturdays' means every single Saturday. Option 1 is correct.",
+      "mistakeTags": [
+        "adverbs_of_frequency",
+        "always",
+        "family"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_13_adverbs_of_frequency/t13_12.mp3"
+    },
+    {
+      "id": "t13_13",
+      "audioText": "A man talks about his exercise routine. He goes to the gym. I usually run for thirty minutes.",
+      "transcript": "I usually run for thirty minutes.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He runs for thirty minutes most of the time."
+        },
+        {
+          "id": "o2",
+          "text": "He never runs at the gym."
+        },
+        {
+          "id": "o3",
+          "text": "He runs for an hour most of the time."
+        },
+        {
+          "id": "o4",
+          "text": "He sometimes runs for ten minutes."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Usually run for thirty minutes' — 'usually' means most of the time. Option 1 matches.",
+      "mistakeTags": [
+        "adverbs_of_frequency",
+        "usually",
+        "sport"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_13_adverbs_of_frequency/t13_13.mp3"
+    },
+    {
+      "id": "t13_14",
+      "audioText": "A woman talks about cooking. She enjoys making pasta. I rarely use a recipe book.",
+      "transcript": "I rarely use a recipe book.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She uses a recipe book almost every time."
+        },
+        {
+          "id": "o2",
+          "text": "She almost never uses a recipe book."
+        },
+        {
+          "id": "o3",
+          "text": "She always uses a recipe book."
+        },
+        {
+          "id": "o4",
+          "text": "She lost her recipe book."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Rarely' means almost never. She does not use a recipe book often. Option 2.",
+      "mistakeTags": [
+        "adverbs_of_frequency",
+        "rarely",
+        "home"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_13_adverbs_of_frequency/t13_14.mp3"
+    },
+    {
+      "id": "t13_15",
+      "audioText": "A boy talks about his weekday mornings. He wakes up at six thirty. I often eat cereal for breakfast.",
+      "transcript": "I often eat cereal for breakfast.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He eats cereal for breakfast frequently."
+        },
+        {
+          "id": "o2",
+          "text": "He never eats breakfast."
+        },
+        {
+          "id": "o3",
+          "text": "He always eats toast for breakfast."
+        },
+        {
+          "id": "o4",
+          "text": "He rarely eats cereal."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Often eat cereal' means he frequently has cereal for breakfast. Option 1 is correct.",
+      "mistakeTags": [
+        "adverbs_of_frequency",
+        "often",
+        "home"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_13_adverbs_of_frequency/t13_15.mp3"
+    }
+  ],
+  "short_description": "Тренируйте понимание наречий частотности на слух."
+}

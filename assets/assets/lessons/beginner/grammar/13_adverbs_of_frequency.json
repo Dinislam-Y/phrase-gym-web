@@ -1,0 +1,1495 @@
+{
+  "id": "beginner_13_adverbs_of_frequency",
+  "title": "Adverbs of Frequency",
+  "description": "Наречия частотности: always, usually, often, sometimes, rarely, never. Место в предложении.",
+  "order": 13,
+  "level": "beginner",
+  "imageUrl": "assets/images/lessons/adverbs_of_frequency.png",
+  "vocabulary": [
+    {
+      "id": "v13_always",
+      "english": "always",
+      "russian": "всегда",
+      "partOfSpeech": "adverb",
+      "example": "I always drink coffee.",
+      "exampleTranslation": "Я всегда пью кофе.",
+      "audioPath": "assets/audio/vocabulary/v13_always.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_always.mp3"
+    },
+    {
+      "id": "v13_usually",
+      "english": "usually",
+      "russian": "обычно",
+      "partOfSpeech": "adverb",
+      "example": "She usually walks home.",
+      "exampleTranslation": "Она обычно ходит домой пешком.",
+      "audioPath": "assets/audio/vocabulary/v13_usually.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_usually.mp3"
+    },
+    {
+      "id": "v13_often",
+      "english": "often",
+      "russian": "часто",
+      "partOfSpeech": "adverb",
+      "example": "We often read books.",
+      "exampleTranslation": "Мы часто читаем книги.",
+      "audioPath": "assets/audio/vocabulary/v13_often.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_often.mp3"
+    },
+    {
+      "id": "v13_sometimes",
+      "english": "sometimes",
+      "russian": "иногда",
+      "partOfSpeech": "adverb",
+      "example": "He sometimes cooks dinner.",
+      "exampleTranslation": "Он иногда готовит ужин.",
+      "audioPath": "assets/audio/vocabulary/v13_sometimes.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_sometimes.mp3"
+    },
+    {
+      "id": "v13_rarely",
+      "english": "rarely",
+      "russian": "редко",
+      "partOfSpeech": "adverb",
+      "example": "They rarely eat meat.",
+      "exampleTranslation": "Они редко едят мясо.",
+      "audioPath": "assets/audio/vocabulary/v13_rarely.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_rarely.mp3"
+    },
+    {
+      "id": "v13_never",
+      "english": "never",
+      "russian": "никогда",
+      "partOfSpeech": "adverb",
+      "example": "She never eats meat.",
+      "exampleTranslation": "Она никогда не ест мясо.",
+      "audioPath": "assets/audio/vocabulary/v13_never.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_never.mp3"
+    },
+    {
+      "id": "v13_drink",
+      "english": "drink",
+      "russian": "пить",
+      "partOfSpeech": "verb",
+      "example": "I always drink water.",
+      "exampleTranslation": "Я всегда пью воду.",
+      "audioPath": "assets/audio/vocabulary/v13_drink.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_drink.mp3"
+    },
+    {
+      "id": "v13_eat",
+      "english": "eat",
+      "russian": "есть",
+      "partOfSpeech": "verb",
+      "example": "She never eats fish.",
+      "exampleTranslation": "Она никогда не ест рыбу.",
+      "audioPath": "assets/audio/vocabulary/v13_eat.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_eat.mp3"
+    },
+    {
+      "id": "v13_cook",
+      "english": "cook",
+      "russian": "готовить",
+      "partOfSpeech": "verb",
+      "example": "He often cooks dinner.",
+      "exampleTranslation": "Он часто готовит ужин.",
+      "audioPath": "assets/audio/vocabulary/v13_cook.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_cook.mp3"
+    },
+    {
+      "id": "v13_walk",
+      "english": "walk",
+      "russian": "ходить пешком",
+      "partOfSpeech": "verb",
+      "example": "We usually walk home.",
+      "exampleTranslation": "Мы обычно идём домой пешком.",
+      "audioPath": "assets/audio/vocabulary/v13_walk.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_walk.mp3"
+    },
+    {
+      "id": "v13_read",
+      "english": "read",
+      "russian": "читать",
+      "partOfSpeech": "verb",
+      "example": "I often read books.",
+      "exampleTranslation": "Я часто читаю книги.",
+      "audioPath": "assets/audio/vocabulary/v13_read.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_read.mp3"
+    },
+    {
+      "id": "v13_run",
+      "english": "run",
+      "russian": "бегать",
+      "partOfSpeech": "verb",
+      "example": "He rarely runs here.",
+      "exampleTranslation": "Он редко бегает здесь.",
+      "audioPath": "assets/audio/vocabulary/v13_run.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_run.mp3"
+    },
+    {
+      "id": "v13_sleep",
+      "english": "sleep",
+      "russian": "спать",
+      "partOfSpeech": "verb",
+      "example": "I always sleep well.",
+      "exampleTranslation": "Я всегда хорошо сплю.",
+      "audioPath": "assets/audio/vocabulary/v13_sleep.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_sleep.mp3"
+    },
+    {
+      "id": "v13_work",
+      "english": "work",
+      "russian": "работать",
+      "partOfSpeech": "verb",
+      "example": "She usually works here.",
+      "exampleTranslation": "Она обычно работает здесь.",
+      "audioPath": "assets/audio/vocabulary/v13_work.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_work.mp3"
+    },
+    {
+      "id": "v13_play",
+      "english": "play",
+      "russian": "играть",
+      "partOfSpeech": "verb",
+      "example": "They sometimes play football.",
+      "exampleTranslation": "Они иногда играют в футбол.",
+      "audioPath": "assets/audio/vocabulary/v13_play.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_play.mp3"
+    },
+    {
+      "id": "v13_coffee",
+      "english": "coffee",
+      "russian": "кофе",
+      "partOfSpeech": "noun",
+      "example": "I always drink coffee.",
+      "exampleTranslation": "Я всегда пью кофе.",
+      "audioPath": "assets/audio/vocabulary/v13_coffee.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_coffee.mp3"
+    },
+    {
+      "id": "v13_breakfast",
+      "english": "breakfast",
+      "russian": "завтрак",
+      "partOfSpeech": "noun",
+      "example": "She always eats breakfast.",
+      "exampleTranslation": "Она всегда ест завтрак.",
+      "audioPath": "assets/audio/vocabulary/v13_breakfast.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_breakfast.mp3"
+    },
+    {
+      "id": "v13_late",
+      "english": "late",
+      "russian": "поздно, опаздывать",
+      "partOfSpeech": "adverb",
+      "example": "He is never late.",
+      "exampleTranslation": "Он никогда не опаздывает.",
+      "audioPath": "assets/audio/vocabulary/v13_late.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_late.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "Adverbs of Frequency",
+    "subtitle": "Эти слова показывают, КАК ЧАСТО что-то происходит. Они стоят ПЕРЕД основным глаголом, но ПОСЛЕ глагола be.",
+    "construction": {
+      "formula": "S + adverb + V (или S + be + adverb)",
+      "rules": [
+        {
+          "word": "Перед глаголом",
+          "description": "I always drink coffee. She never eats meat. He often reads."
+        },
+        {
+          "word": "После be",
+          "description": "She is always happy. He is never late. They are usually here."
+        },
+        {
+          "word": "Шкала частоты",
+          "description": "always (100%) > usually (80%) > often (60%) > sometimes (40%) > rarely (10%) > never (0%)"
+        },
+        {
+          "word": "never = отрицание",
+          "description": "Never уже содержит отрицание. НЕ говорим: She doesn't never eat. Говорим: She never eats."
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "schedule",
+        "color": "blue",
+        "title": "Привычки и рутина",
+        "description": "Рассказываем, что делаем регулярно.",
+        "example": {
+          "english": "I always drink coffee.",
+          "russian": "Я всегда пью кофе."
+        }
+      },
+      {
+        "icon": "check_circle",
+        "color": "purple",
+        "title": "Характеристики",
+        "description": "Описываем людей через их типичное поведение.",
+        "example": {
+          "english": "He is never late.",
+          "russian": "Он никогда не опаздывает."
+        }
+      },
+      {
+        "icon": "bolt",
+        "color": "orange",
+        "title": "Запреты и ограничения",
+        "description": "Говорим о том, чего не делаем.",
+        "example": {
+          "english": "She never eats meat.",
+          "russian": "Она никогда не ест мясо."
+        }
+      }
+    ],
+    "markers": [
+      "always",
+      "usually",
+      "often",
+      "sometimes",
+      "rarely",
+      "never"
+    ]
+  },
+  "tasks": [
+    {
+      "id": "t13_1",
+      "type": "sentenceAssembly",
+      "question": "Я всегда пью кофе",
+      "correctAnswer": "I always drink coffee",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "always",
+          "never",
+          "often",
+          "rarely"
+        ],
+        [
+          "drink",
+          "drinks",
+          "drinking",
+          "eat"
+        ],
+        [
+          "coffee",
+          "tea",
+          "water",
+          "milk"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_13_adverbs_of_frequency/000.mp3"
+    },
+    {
+      "id": "t13_2",
+      "type": "sentenceAssembly",
+      "question": "Она никогда не ест мясо",
+      "correctAnswer": "She never eats meat",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "They"
+        ],
+        [
+          "never",
+          "always",
+          "often",
+          "usually"
+        ],
+        [
+          "eats",
+          "eat",
+          "eating",
+          "drinks"
+        ],
+        [
+          "meat",
+          "fish",
+          "bread",
+          "rice"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_13_adverbs_of_frequency/001.mp3"
+    },
+    {
+      "id": "t13_3",
+      "type": "sentenceAssembly",
+      "question": "Мы часто читаем книги",
+      "correctAnswer": "We often read books",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "I",
+          "He",
+          "She"
+        ],
+        [
+          "often",
+          "always",
+          "never",
+          "rarely"
+        ],
+        [
+          "read",
+          "reads",
+          "reading",
+          "write"
+        ],
+        [
+          "books",
+          "news",
+          "letters",
+          "texts"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_13_adverbs_of_frequency/002.mp3"
+    },
+    {
+      "id": "t13_4",
+      "type": "sentenceAssembly",
+      "question": "Он обычно работает здесь",
+      "correctAnswer": "He usually works here",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "I",
+          "They"
+        ],
+        [
+          "usually",
+          "always",
+          "never",
+          "rarely"
+        ],
+        [
+          "works",
+          "work",
+          "working",
+          "lives"
+        ],
+        [
+          "here",
+          "there",
+          "now",
+          "home"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_13_adverbs_of_frequency/003.mp3"
+    },
+    {
+      "id": "t13_5",
+      "type": "sentenceAssembly",
+      "question": "Они иногда играют в футбол",
+      "correctAnswer": "They sometimes play football",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "We",
+          "He",
+          "She"
+        ],
+        [
+          "sometimes",
+          "always",
+          "never",
+          "often"
+        ],
+        [
+          "play",
+          "plays",
+          "playing",
+          "watch"
+        ],
+        [
+          "football",
+          "tennis",
+          "basketball",
+          "games"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_13_adverbs_of_frequency/004.mp3"
+    },
+    {
+      "id": "t13_6",
+      "type": "sentenceAssembly",
+      "question": "Я редко бегаю",
+      "correctAnswer": "I rarely run here",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "rarely",
+          "always",
+          "never",
+          "often"
+        ],
+        [
+          "run",
+          "runs",
+          "running",
+          "walk"
+        ],
+        [
+          "here",
+          "there",
+          "now",
+          "home"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_13_adverbs_of_frequency/005.mp3"
+    },
+    {
+      "id": "t13_7",
+      "type": "sentenceAssembly",
+      "question": "Она всегда ест завтрак",
+      "correctAnswer": "She always eats breakfast",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "They"
+        ],
+        [
+          "always",
+          "never",
+          "often",
+          "rarely"
+        ],
+        [
+          "eats",
+          "eat",
+          "eating",
+          "drinks"
+        ],
+        [
+          "breakfast",
+          "lunch",
+          "dinner",
+          "food"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_13_adverbs_of_frequency/006.mp3"
+    },
+    {
+      "id": "t13_8",
+      "type": "sentenceAssembly",
+      "question": "Мы обычно ходим домой",
+      "correctAnswer": "We usually walk home",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "I",
+          "He",
+          "She"
+        ],
+        [
+          "usually",
+          "always",
+          "never",
+          "rarely"
+        ],
+        [
+          "walk",
+          "walks",
+          "walking",
+          "run"
+        ],
+        [
+          "home",
+          "here",
+          "there",
+          "now"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_13_adverbs_of_frequency/007.mp3"
+    },
+    {
+      "id": "t13_9",
+      "type": "sentenceAssembly",
+      "question": "Он часто готовит ужин",
+      "correctAnswer": "He often cooks dinner",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "I",
+          "They"
+        ],
+        [
+          "often",
+          "always",
+          "never",
+          "rarely"
+        ],
+        [
+          "cooks",
+          "cook",
+          "cooking",
+          "eats"
+        ],
+        [
+          "dinner",
+          "lunch",
+          "breakfast",
+          "food"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_13_adverbs_of_frequency/008.mp3"
+    },
+    {
+      "id": "t13_10",
+      "type": "sentenceAssembly",
+      "question": "Я всегда хорошо сплю",
+      "correctAnswer": "I always sleep well",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "always",
+          "never",
+          "often",
+          "rarely"
+        ],
+        [
+          "sleep",
+          "sleeps",
+          "sleeping",
+          "rest"
+        ],
+        [
+          "well",
+          "good",
+          "bad",
+          "late"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_13_adverbs_of_frequency/009.mp3"
+    },
+    {
+      "id": "t13_11",
+      "type": "sentenceAssembly",
+      "question": "Они редко едят рыбу",
+      "correctAnswer": "They rarely eat fish",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "We",
+          "He",
+          "She"
+        ],
+        [
+          "rarely",
+          "always",
+          "never",
+          "often"
+        ],
+        [
+          "eat",
+          "eats",
+          "eating",
+          "cook"
+        ],
+        [
+          "fish",
+          "meat",
+          "bread",
+          "rice"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_13_adverbs_of_frequency/010.mp3"
+    },
+    {
+      "id": "t13_12",
+      "type": "sentenceAssembly",
+      "question": "Она часто пьёт чай",
+      "correctAnswer": "She often drinks tea",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "They"
+        ],
+        [
+          "often",
+          "always",
+          "never",
+          "rarely"
+        ],
+        [
+          "drinks",
+          "drink",
+          "drinking",
+          "eats"
+        ],
+        [
+          "tea",
+          "coffee",
+          "water",
+          "milk"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_13_adverbs_of_frequency/011.mp3"
+    },
+    {
+      "id": "t13_13",
+      "type": "sentenceAssembly",
+      "question": "Мы иногда готовим завтрак",
+      "correctAnswer": "We sometimes cook breakfast",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "I",
+          "He",
+          "She"
+        ],
+        [
+          "sometimes",
+          "always",
+          "never",
+          "often"
+        ],
+        [
+          "cook",
+          "cooks",
+          "cooking",
+          "eat"
+        ],
+        [
+          "breakfast",
+          "lunch",
+          "dinner",
+          "food"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_13_adverbs_of_frequency/012.mp3"
+    },
+    {
+      "id": "t13_14",
+      "type": "sentenceAssembly",
+      "question": "Он никогда не пьёт молоко",
+      "correctAnswer": "He never drinks milk",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "I",
+          "They"
+        ],
+        [
+          "never",
+          "always",
+          "often",
+          "usually"
+        ],
+        [
+          "drinks",
+          "drink",
+          "drinking",
+          "eats"
+        ],
+        [
+          "milk",
+          "coffee",
+          "tea",
+          "water"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_13_adverbs_of_frequency/013.mp3"
+    },
+    {
+      "id": "t13_15",
+      "type": "sentenceAssembly",
+      "question": "Я обычно читаю книги",
+      "correctAnswer": "I usually read books",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "usually",
+          "always",
+          "never",
+          "rarely"
+        ],
+        [
+          "read",
+          "reads",
+          "reading",
+          "write"
+        ],
+        [
+          "books",
+          "news",
+          "letters",
+          "texts"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_13_adverbs_of_frequency/014.mp3"
+    },
+    {
+      "id": "t13_16",
+      "type": "sentenceAssembly",
+      "question": "Она обычно работает здесь",
+      "correctAnswer": "She usually works here",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "They"
+        ],
+        [
+          "usually",
+          "always",
+          "never",
+          "rarely"
+        ],
+        [
+          "works",
+          "work",
+          "working",
+          "lives"
+        ],
+        [
+          "here",
+          "there",
+          "now",
+          "home"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_13_adverbs_of_frequency/015.mp3"
+    },
+    {
+      "id": "t13_17",
+      "type": "sentenceAssembly",
+      "question": "Они всегда играют здесь",
+      "correctAnswer": "They always play here",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "We",
+          "He",
+          "She"
+        ],
+        [
+          "always",
+          "never",
+          "often",
+          "rarely"
+        ],
+        [
+          "play",
+          "plays",
+          "playing",
+          "work"
+        ],
+        [
+          "here",
+          "there",
+          "now",
+          "home"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_13_adverbs_of_frequency/016.mp3"
+    },
+    {
+      "id": "t13_18",
+      "type": "sentenceAssembly",
+      "question": "Мы редко пьём сок",
+      "correctAnswer": "We rarely drink juice",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "I",
+          "He",
+          "She"
+        ],
+        [
+          "rarely",
+          "always",
+          "never",
+          "often"
+        ],
+        [
+          "drink",
+          "drinks",
+          "drinking",
+          "eat"
+        ],
+        [
+          "juice",
+          "coffee",
+          "tea",
+          "milk"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_13_adverbs_of_frequency/017.mp3"
+    },
+    {
+      "id": "t13_19",
+      "type": "sentenceAssembly",
+      "question": "Он иногда бегает утром",
+      "correctAnswer": "He sometimes runs here",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "I",
+          "They"
+        ],
+        [
+          "sometimes",
+          "always",
+          "never",
+          "often"
+        ],
+        [
+          "runs",
+          "run",
+          "running",
+          "walks"
+        ],
+        [
+          "here",
+          "there",
+          "now",
+          "home"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_13_adverbs_of_frequency/018.mp3"
+    },
+    {
+      "id": "t13_20",
+      "type": "sentenceAssembly",
+      "question": "Я никогда не опаздываю",
+      "correctAnswer": "I am never late",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "am",
+          "is",
+          "are",
+          "was"
+        ],
+        [
+          "never",
+          "always",
+          "often",
+          "usually"
+        ],
+        [
+          "late",
+          "early",
+          "here",
+          "home"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_13_adverbs_of_frequency/019.mp3"
+    },
+    {
+      "id": "t13_21",
+      "type": "sentenceAssembly",
+      "question": "Она не всегда готовит",
+      "correctAnswer": "She does not always cook",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "They"
+        ],
+        [
+          "does",
+          "do",
+          "is",
+          "are"
+        ],
+        [
+          "not",
+          "no",
+          "none",
+          "never"
+        ],
+        [
+          "always",
+          "usually",
+          "often",
+          "sometimes"
+        ],
+        [
+          "cook",
+          "cooks",
+          "cooking",
+          "eat"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_13_adverbs_of_frequency/020.mp3"
+    },
+    {
+      "id": "t13_22",
+      "type": "sentenceAssembly",
+      "question": "Мы не часто бегаем",
+      "correctAnswer": "We do not often run",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "I",
+          "He",
+          "She"
+        ],
+        [
+          "do",
+          "does",
+          "is",
+          "are"
+        ],
+        [
+          "not",
+          "no",
+          "none",
+          "never"
+        ],
+        [
+          "often",
+          "always",
+          "usually",
+          "sometimes"
+        ],
+        [
+          "run",
+          "runs",
+          "running",
+          "walk"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_13_adverbs_of_frequency/021.mp3"
+    },
+    {
+      "id": "t13_23",
+      "type": "sentenceAssembly",
+      "question": "Он не всегда работает",
+      "correctAnswer": "He does not always work",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "I",
+          "They"
+        ],
+        [
+          "does",
+          "do",
+          "is",
+          "are"
+        ],
+        [
+          "not",
+          "no",
+          "none",
+          "never"
+        ],
+        [
+          "always",
+          "usually",
+          "often",
+          "sometimes"
+        ],
+        [
+          "work",
+          "works",
+          "working",
+          "live"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_13_adverbs_of_frequency/022.mp3"
+    },
+    {
+      "id": "t13_24",
+      "type": "sentenceAssembly",
+      "question": "Они не обычно едят здесь",
+      "correctAnswer": "They do not usually eat here",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "We",
+          "He",
+          "She"
+        ],
+        [
+          "do",
+          "does",
+          "is",
+          "are"
+        ],
+        [
+          "not",
+          "no",
+          "none",
+          "never"
+        ],
+        [
+          "usually",
+          "always",
+          "often",
+          "sometimes"
+        ],
+        [
+          "eat",
+          "eats",
+          "eating",
+          "cook"
+        ],
+        [
+          "here",
+          "there",
+          "now",
+          "home"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_13_adverbs_of_frequency/023.mp3"
+    },
+    {
+      "id": "t13_25",
+      "type": "sentenceAssembly",
+      "question": "Я не часто пью чай",
+      "correctAnswer": "I do not often drink tea",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "do",
+          "does",
+          "is",
+          "am"
+        ],
+        [
+          "not",
+          "no",
+          "none",
+          "never"
+        ],
+        [
+          "often",
+          "always",
+          "usually",
+          "sometimes"
+        ],
+        [
+          "drink",
+          "drinks",
+          "drinking",
+          "eat"
+        ],
+        [
+          "tea",
+          "coffee",
+          "water",
+          "milk"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_13_adverbs_of_frequency/024.mp3"
+    },
+    {
+      "id": "t13_26",
+      "type": "sentenceAssembly",
+      "question": "Она не всегда читает",
+      "correctAnswer": "She does not always read",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "They"
+        ],
+        [
+          "does",
+          "do",
+          "is",
+          "are"
+        ],
+        [
+          "not",
+          "no",
+          "none",
+          "never"
+        ],
+        [
+          "always",
+          "usually",
+          "often",
+          "sometimes"
+        ],
+        [
+          "read",
+          "reads",
+          "reading",
+          "write"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_13_adverbs_of_frequency/025.mp3"
+    },
+    {
+      "id": "t13_27",
+      "type": "sentenceAssembly",
+      "question": "Мы не всегда ходим домой",
+      "correctAnswer": "We do not always walk home",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "I",
+          "He",
+          "She"
+        ],
+        [
+          "do",
+          "does",
+          "is",
+          "are"
+        ],
+        [
+          "not",
+          "no",
+          "none",
+          "never"
+        ],
+        [
+          "always",
+          "usually",
+          "often",
+          "sometimes"
+        ],
+        [
+          "walk",
+          "walks",
+          "walking",
+          "run"
+        ],
+        [
+          "home",
+          "here",
+          "there",
+          "now"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_13_adverbs_of_frequency/026.mp3"
+    },
+    {
+      "id": "t13_28",
+      "type": "sentenceAssembly",
+      "question": "Он не обычно спит хорошо",
+      "correctAnswer": "He does not usually sleep well",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "I",
+          "They"
+        ],
+        [
+          "does",
+          "do",
+          "is",
+          "are"
+        ],
+        [
+          "not",
+          "no",
+          "none",
+          "never"
+        ],
+        [
+          "usually",
+          "always",
+          "often",
+          "sometimes"
+        ],
+        [
+          "sleep",
+          "sleeps",
+          "sleeping",
+          "rest"
+        ],
+        [
+          "well",
+          "good",
+          "bad",
+          "late"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_13_adverbs_of_frequency/027.mp3"
+    },
+    {
+      "id": "t13_29",
+      "type": "sentenceAssembly",
+      "question": "Они не часто играют",
+      "correctAnswer": "They do not often play",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "We",
+          "He",
+          "She"
+        ],
+        [
+          "do",
+          "does",
+          "is",
+          "are"
+        ],
+        [
+          "not",
+          "no",
+          "none",
+          "never"
+        ],
+        [
+          "often",
+          "always",
+          "usually",
+          "sometimes"
+        ],
+        [
+          "play",
+          "plays",
+          "playing",
+          "work"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_13_adverbs_of_frequency/028.mp3"
+    },
+    {
+      "id": "t13_30",
+      "type": "sentenceAssembly",
+      "question": "Она не всегда пьёт кофе",
+      "correctAnswer": "She does not always drink coffee",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "They"
+        ],
+        [
+          "does",
+          "do",
+          "is",
+          "are"
+        ],
+        [
+          "not",
+          "no",
+          "none",
+          "never"
+        ],
+        [
+          "always",
+          "usually",
+          "often",
+          "sometimes"
+        ],
+        [
+          "drink",
+          "drinks",
+          "drinking",
+          "eat"
+        ],
+        [
+          "coffee",
+          "tea",
+          "water",
+          "milk"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_13_adverbs_of_frequency/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionBeginner13AdverbsOfFrequency",
+  "theoryQuiz": [
+    {
+      "id": "tq_13_01",
+      "type": "multipleChoice",
+      "question": "Где стоит наречие частотности в предложении с обычным глаголом?",
+      "options": [
+        "После глагола",
+        "Перед глаголом",
+        "В конце предложения",
+        "В начале предложения"
+      ],
+      "correctIndex": 1,
+      "explanation": "Наречие частотности стоит ПЕРЕД основным глаголом: I always drink coffee."
+    },
+    {
+      "id": "tq_13_02",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: «She ___ eats meat.» (Она никогда не ест мясо)",
+      "options": [
+        "always",
+        "usually",
+        "often",
+        "never"
+      ],
+      "correctIndex": 3,
+      "explanation": "«Никогда» = never: She never eats meat."
+    },
+    {
+      "id": "tq_13_03",
+      "type": "trueFalse",
+      "question": "«I drink always coffee» — правильный порядок слов.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "Наречие стоит ПЕРЕД глаголом: I always drink coffee, НЕ I drink always coffee."
+    },
+    {
+      "id": "tq_13_04",
+      "type": "multipleChoice",
+      "question": "Какое наречие означает «обычно» (примерно 80% времени)?",
+      "options": [
+        "always",
+        "usually",
+        "sometimes",
+        "never"
+      ],
+      "correctIndex": 1,
+      "explanation": "Usually = обычно, примерно 80% времени."
+    },
+    {
+      "id": "tq_13_05",
+      "type": "multipleChoice",
+      "question": "Где стоит наречие частотности с глаголом be?",
+      "options": [
+        "Перед be",
+        "После be",
+        "В конце",
+        "Перед подлежащим"
+      ],
+      "correctIndex": 1,
+      "explanation": "С be наречие стоит ПОСЛЕ: She is always happy, He is never late."
+    },
+    {
+      "id": "tq_13_06",
+      "type": "trueFalse",
+      "question": "«She doesn't never eat meat» — правильное предложение.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "Never уже содержит отрицание. Правильно: She never eats meat (без doesn't)."
+    },
+    {
+      "id": "tq_13_07",
+      "type": "multipleChoice",
+      "question": "Как правильно: «Он никогда не опаздывает»?",
+      "options": [
+        "He never is late.",
+        "He is never late.",
+        "He late is never.",
+        "Never he is late."
+      ],
+      "correctIndex": 1,
+      "explanation": "С be наречие ПОСЛЕ: He is never late."
+    },
+    {
+      "id": "tq_13_08",
+      "type": "multipleChoice",
+      "question": "Расположите по частоте: always > ___ > often > sometimes",
+      "options": [
+        "never",
+        "rarely",
+        "usually",
+        "sometimes"
+      ],
+      "correctIndex": 2,
+      "explanation": "Шкала: always (100%) > usually (80%) > often (60%) > sometimes (40%)."
+    },
+    {
+      "id": "tq_13_09",
+      "type": "trueFalse",
+      "question": "«Rarely» означает «часто».",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rarely = редко (примерно 10%). Часто = often."
+    },
+    {
+      "id": "tq_13_10",
+      "type": "multipleChoice",
+      "question": "Выберите правильное предложение:",
+      "options": [
+        "I coffee always drink.",
+        "Always I drink coffee.",
+        "I always drink coffee.",
+        "I drink coffee always."
+      ],
+      "correctIndex": 2,
+      "explanation": "Правильный порядок: подлежащее + наречие + глагол: I always drink coffee."
+    }
+  ]
+}

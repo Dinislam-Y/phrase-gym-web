@@ -1,0 +1,3164 @@
+{
+  "id": "advanced_04_mixed_conditionals",
+  "title": "Mixed Conditionals",
+  "description": "Смешанные условные — это когда ПРОШЛОЕ влияет на НАСТОЯЩЕЕ или НАСТОЯЩЕЕ меняет ПРОШЛОЕ. Два типа: Type 2+3 (If I had studied, I would be rich NOW) и Type 3+2 (If I were braver, I would have done it THEN).",
+  "order": 4,
+  "level": "advanced",
+  "imageUrl": "assets/images/lessons/mixed_conditionals.png",
+  "vocabulary": [
+    {
+      "id": "v4_study",
+      "english": "study",
+      "russian": "учиться",
+      "partOfSpeech": "verb",
+      "example": "Had studied harder.",
+      "exampleTranslation": "Учился бы усерднее.",
+      "audioPath": "assets/audio/vocabulary/v4_study.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_study.mp3"
+    },
+    {
+      "id": "v4_doctor",
+      "english": "doctor",
+      "russian": "врач",
+      "partOfSpeech": "noun",
+      "example": "A doctor now.",
+      "exampleTranslation": "Врач сейчас.",
+      "audioPath": "assets/audio/vocabulary/v4_doctor.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_doctor.mp3"
+    },
+    {
+      "id": "v4_brave",
+      "english": "brave",
+      "russian": "смелый",
+      "partOfSpeech": "adjective",
+      "example": "Were braver.",
+      "exampleTranslation": "Был бы смелее.",
+      "audioPath": "assets/audio/vocabulary/v4_brave.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_brave.mp3"
+    },
+    {
+      "id": "v4_join",
+      "english": "join",
+      "russian": "присоединиться",
+      "partOfSpeech": "verb",
+      "example": "Would have joined.",
+      "exampleTranslation": "Присоединился бы.",
+      "audioPath": "assets/audio/vocabulary/v4_join.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_join.mp3"
+    },
+    {
+      "id": "v4_save",
+      "english": "save",
+      "russian": "копить / спасать",
+      "partOfSpeech": "verb",
+      "example": "Had saved money.",
+      "exampleTranslation": "Копил бы деньги.",
+      "audioPath": "assets/audio/vocabulary/v4_save.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_save.mp3"
+    },
+    {
+      "id": "v4_afford",
+      "english": "afford",
+      "russian": "позволить себе",
+      "partOfSpeech": "verb",
+      "example": "Could afford it.",
+      "exampleTranslation": "Мог бы себе позволить.",
+      "audioPath": "assets/audio/vocabulary/v4_afford.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_afford.mp3"
+    },
+    {
+      "id": "v4_hire",
+      "english": "hire",
+      "russian": "нанять",
+      "partOfSpeech": "verb",
+      "example": "Would have hired.",
+      "exampleTranslation": "Наняли бы.",
+      "audioPath": "assets/audio/vocabulary/v4_hire.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_hire.mp3"
+    },
+    {
+      "id": "v4_responsible",
+      "english": "responsible",
+      "russian": "ответственный",
+      "partOfSpeech": "adjective",
+      "example": "More responsible.",
+      "exampleTranslation": "Более ответственный.",
+      "audioPath": "assets/audio/vocabulary/v4_responsible.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_responsible.mp3"
+    },
+    {
+      "id": "v4_travel",
+      "english": "travel",
+      "russian": "путешествовать",
+      "partOfSpeech": "verb",
+      "example": "Had traveled more.",
+      "exampleTranslation": "Путешествовал бы больше.",
+      "audioPath": "assets/audio/vocabulary/v4_travel.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_travel.mp3"
+    },
+    {
+      "id": "v4_confident",
+      "english": "confident",
+      "russian": "уверенный",
+      "partOfSpeech": "adjective",
+      "example": "More confident now.",
+      "exampleTranslation": "Увереннее сейчас.",
+      "audioPath": "assets/audio/vocabulary/v4_confident.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_confident.mp3"
+    },
+    {
+      "id": "v4_accept",
+      "english": "accept",
+      "russian": "принять",
+      "partOfSpeech": "verb",
+      "example": "Would have accepted.",
+      "exampleTranslation": "Принял бы.",
+      "audioPath": "assets/audio/vocabulary/v4_accept.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_accept.mp3"
+    },
+    {
+      "id": "v4_lazy",
+      "english": "lazy",
+      "russian": "ленивый",
+      "partOfSpeech": "adjective",
+      "example": "Were not so lazy.",
+      "exampleTranslation": "Не был бы таким ленивым.",
+      "audioPath": "assets/audio/vocabulary/v4_lazy.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_lazy.mp3"
+    },
+    {
+      "id": "v4_invest",
+      "english": "invest",
+      "russian": "инвестировать",
+      "partOfSpeech": "verb",
+      "example": "Had invested wisely.",
+      "exampleTranslation": "Инвестировал бы мудро.",
+      "audioPath": "assets/audio/vocabulary/v4_invest.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_invest.mp3"
+    },
+    {
+      "id": "v4_wealthy",
+      "english": "wealthy",
+      "russian": "богатый",
+      "partOfSpeech": "adjective",
+      "example": "Would be wealthy.",
+      "exampleTranslation": "Был бы богатым.",
+      "audioPath": "assets/audio/vocabulary/v4_wealthy.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_wealthy.mp3"
+    },
+    {
+      "id": "v4_apply",
+      "english": "apply",
+      "russian": "подать заявку",
+      "partOfSpeech": "verb",
+      "example": "Had applied earlier.",
+      "exampleTranslation": "Подал бы заявку раньше.",
+      "audioPath": "assets/audio/vocabulary/v4_apply.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_apply.mp3"
+    },
+    {
+      "id": "v4_fluent",
+      "english": "fluent",
+      "russian": "бегло (говорящий)",
+      "partOfSpeech": "adjective",
+      "example": "Fluent in English.",
+      "exampleTranslation": "Бегло говорит по-английски.",
+      "audioPath": "assets/audio/vocabulary/v4_fluent.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_fluent.mp3"
+    },
+    {
+      "id": "v4_miss",
+      "english": "miss",
+      "russian": "пропустить / скучать",
+      "partOfSpeech": "verb",
+      "example": "Would have missed.",
+      "exampleTranslation": "Пропустил бы.",
+      "audioPath": "assets/audio/vocabulary/v4_miss.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_miss.mp3"
+    },
+    {
+      "id": "v4_careful",
+      "english": "careful",
+      "russian": "осторожный",
+      "partOfSpeech": "adjective",
+      "example": "Were more careful.",
+      "exampleTranslation": "Был бы осторожнее.",
+      "audioPath": "assets/audio/vocabulary/v4_careful.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_careful.mp3"
+    },
+    {
+      "id": "v4_earn",
+      "english": "earn",
+      "russian": "зарабатывать",
+      "partOfSpeech": "verb",
+      "example": "Would earn more.",
+      "exampleTranslation": "Зарабатывал бы больше.",
+      "audioPath": "assets/audio/vocabulary/v4_earn.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_earn.mp3"
+    },
+    {
+      "id": "v4_opportunity",
+      "english": "opportunity",
+      "russian": "возможность",
+      "partOfSpeech": "noun",
+      "example": "A great opportunity.",
+      "exampleTranslation": "Отличная возможность.",
+      "audioPath": "assets/audio/vocabulary/v4_opportunity.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_opportunity.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "Time Warp",
+    "subtitle": "Представьте, что вы открыли портал между ПРОШЛЫМ и НАСТОЯЩИМ. Mixed Conditionals — это когда одна часть условия живет в одном времени, а результат — в другом. Прошлое меняет настоящее, или настоящее переписывает прошлое.",
+    "construction": {
+      "formula": "Type 2+3: If + Past Perfect, would + V1 (now) | Type 3+2: If + Past Simple, would have + V3 (then)",
+      "rules": [
+        {
+          "word": "Type 2+3: Past → Present",
+          "description": "If I HAD STUDIED harder, I WOULD BE a doctor NOW. (Не учился тогда → не врач сейчас)."
+        },
+        {
+          "word": "Type 3+2: Present → Past",
+          "description": "If I WERE taller, I WOULD HAVE JOINED the team. (Я невысокий всегда → не попал тогда)."
+        },
+        {
+          "word": "Had + V3 → would + V1",
+          "description": "If she HAD SAVED money, she WOULD OWN a house now. (Прошлое действие → настоящий результат)."
+        },
+        {
+          "word": "Were / V2 → would have + V3",
+          "description": "If he WERE braver, he WOULD HAVE ASKED her out. (Постоянное качество → упущенное действие)."
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "schedule",
+        "color": "purple",
+        "title": "Прошлое → Настоящее (Type 2+3)",
+        "description": "If I HAD LEARNED English, I WOULD HAVE a better job NOW. (Не выучил тогда — страдаю сейчас).",
+        "example": {
+          "english": "If I had invested wisely, I would be wealthy now.",
+          "russian": "Если бы я инвестировал мудро, я был бы богатым сейчас."
+        }
+      },
+      {
+        "icon": "groups",
+        "color": "orange",
+        "title": "Настоящее → Прошлое (Type 3+2)",
+        "description": "If I WERE more careful, I WOULD NOT HAVE crashed the car. (Я вообще неосторожный — поэтому разбил машину).",
+        "example": {
+          "english": "If she were more confident, she would have accepted the offer.",
+          "russian": "Если бы она была увереннее, она бы приняла предложение."
+        }
+      },
+      {
+        "icon": "star",
+        "color": "blue",
+        "title": "Сожаления о связи времён",
+        "description": "Мы жалеем, что прошлое изменило настоящее, или что наши качества помешали в прошлом.",
+        "example": {
+          "english": "If he had taken the job, he would live in London now.",
+          "russian": "Если бы он принял ту работу, он бы жил в Лондоне сейчас."
+        }
+      }
+    ],
+    "markers": [
+      "if + had + V3 ... would + V1 now",
+      "if + were ... would have + V3",
+      "if + past simple ... would have + V3",
+      "if + had + V3 ... would be + adj now",
+      "if + had + V3 ... could + V1 today"
+    ]
+  },
+  "tasks": [
+    {
+      "id": "t4_1",
+      "type": "sentenceAssembly",
+      "question": "Если бы я учился усерднее, я был бы врачом сейчас (Past→Present)",
+      "correctAnswer": "If I had studied harder I would be a doctor now",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "But",
+          "Since",
+          "Although"
+        ],
+        [
+          "I",
+          "he",
+          "me",
+          "we",
+          "my"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "was",
+          "did"
+        ],
+        [
+          "studied",
+          "study",
+          "studying",
+          "studies",
+          "learned"
+        ],
+        [
+          "harder",
+          "hard",
+          "more",
+          "better",
+          "much"
+        ],
+        [
+          "I",
+          "he",
+          "me",
+          "we",
+          "she"
+        ],
+        [
+          "would",
+          "will",
+          "did",
+          "can"
+        ],
+        [
+          "be",
+          "been",
+          "being",
+          "was",
+          "become"
+        ],
+        [
+          "a",
+          "the",
+          "an",
+          "one",
+          "some"
+        ],
+        [
+          "doctor",
+          "teacher",
+          "lawyer",
+          "worker",
+          "student"
+        ],
+        [
+          "now",
+          "then",
+          "today",
+          "here",
+          "always"
+        ]
+      ],
+      "mistakeTags": [
+        "mixed_conditionals",
+        "conditional_mixing"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_04_mixed_conditionals/000.mp3"
+    },
+    {
+      "id": "t4_2",
+      "type": "sentenceAssembly",
+      "question": "Если бы она была выше, она бы попала в команду (Present→Past)",
+      "correctAnswer": "If she were taller she would have joined the team",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "But",
+          "Since",
+          "Although"
+        ],
+        [
+          "she",
+          "he",
+          "her",
+          "they",
+          "we"
+        ],
+        [
+          "were",
+          "was",
+          "is",
+          "are",
+          "been"
+        ],
+        [
+          "taller",
+          "tall",
+          "short",
+          "bigger",
+          "higher"
+        ],
+        [
+          "she",
+          "he",
+          "her",
+          "they",
+          "I"
+        ],
+        [
+          "would",
+          "could",
+          "might",
+          "should"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "be",
+          "not"
+        ],
+        [
+          "joined",
+          "join",
+          "joining",
+          "entered",
+          "left"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "team",
+          "group",
+          "club",
+          "class",
+          "squad"
+        ]
+      ],
+      "mistakeTags": [
+        "mixed_conditionals",
+        "conditional_mixing"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_04_mixed_conditionals/001.mp3"
+    },
+    {
+      "id": "t4_3",
+      "type": "sentenceAssembly",
+      "question": "Если бы он копил деньги, он мог бы позволить себе дом сейчас (Past→Present)",
+      "correctAnswer": "If he had saved money he could afford a house now",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "But",
+          "Since",
+          "Although"
+        ],
+        [
+          "he",
+          "she",
+          "him",
+          "they",
+          "I"
+        ],
+        [
+          "had",
+          "has",
+          "have",
+          "was",
+          "did"
+        ],
+        [
+          "saved",
+          "save",
+          "saving",
+          "spent",
+          "kept"
+        ],
+        [
+          "money",
+          "cash",
+          "funds",
+          "time",
+          "coins"
+        ],
+        [
+          "he",
+          "she",
+          "him",
+          "they",
+          "I"
+        ],
+        [
+          "could",
+          "can",
+          "would",
+          "should",
+          "will"
+        ],
+        [
+          "afford",
+          "buy",
+          "get",
+          "own",
+          "have"
+        ],
+        [
+          "a",
+          "the",
+          "an",
+          "one",
+          "this"
+        ],
+        [
+          "house",
+          "car",
+          "flat",
+          "home",
+          "place"
+        ],
+        [
+          "now",
+          "then",
+          "today",
+          "here",
+          "still"
+        ]
+      ],
+      "mistakeTags": [
+        "mixed_conditionals",
+        "conditional_mixing"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_04_mixed_conditionals/002.mp3"
+    },
+    {
+      "id": "t4_4",
+      "type": "sentenceAssembly",
+      "question": "Если бы он был смелее, он бы пригласил её на свидание (Present→Past)",
+      "correctAnswer": "If he were braver he would have asked her out",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "But",
+          "Since",
+          "Although"
+        ],
+        [
+          "he",
+          "she",
+          "him",
+          "they",
+          "I"
+        ],
+        [
+          "were",
+          "was",
+          "is",
+          "are",
+          "been"
+        ],
+        [
+          "braver",
+          "brave",
+          "bold",
+          "strong",
+          "smart"
+        ],
+        [
+          "he",
+          "she",
+          "him",
+          "I",
+          "they"
+        ],
+        [
+          "would",
+          "will",
+          "did",
+          "can"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "be",
+          "not"
+        ],
+        [
+          "asked",
+          "ask",
+          "told",
+          "invited",
+          "called"
+        ],
+        [
+          "her",
+          "him",
+          "them",
+          "she",
+          "his"
+        ],
+        [
+          "out",
+          "up",
+          "in",
+          "off",
+          "away"
+        ]
+      ],
+      "mistakeTags": [
+        "mixed_conditionals",
+        "conditional_mixing"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_04_mixed_conditionals/003.mp3"
+    },
+    {
+      "id": "t4_5",
+      "type": "sentenceAssembly",
+      "question": "Если бы общество инвестировало в образование, люди были бы свободнее сейчас (Past->Present)",
+      "correctAnswer": "If society had invested in education people would be freer now",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "But",
+          "Since",
+          "Although"
+        ],
+        [
+          "society",
+          "government",
+          "leaders",
+          "nations",
+          "people"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "was",
+          "did"
+        ],
+        [
+          "invested",
+          "invest",
+          "spending",
+          "devoted",
+          "allocated"
+        ],
+        [
+          "in",
+          "on",
+          "at",
+          "for",
+          "into"
+        ],
+        [
+          "education",
+          "science",
+          "culture",
+          "research",
+          "progress"
+        ],
+        [
+          "people",
+          "citizens",
+          "nations",
+          "communities",
+          "individuals"
+        ],
+        [
+          "would",
+          "could",
+          "might",
+          "should"
+        ],
+        [
+          "be",
+          "been",
+          "being",
+          "become",
+          "feel"
+        ],
+        [
+          "freer",
+          "wiser",
+          "stronger",
+          "happier",
+          "better"
+        ],
+        [
+          "now",
+          "then",
+          "today",
+          "here",
+          "still"
+        ]
+      ],
+      "mistakeTags": [
+        "mixed_conditionals",
+        "conditional_mixing"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_04_mixed_conditionals/004.mp3"
+    },
+    {
+      "id": "t4_6",
+      "type": "sentenceAssembly",
+      "question": "Если бы она была ответственнее, они бы наняли её (Present→Past)",
+      "correctAnswer": "If she were more responsible they would have hired her",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "But",
+          "Since",
+          "Although"
+        ],
+        [
+          "she",
+          "he",
+          "her",
+          "they",
+          "I"
+        ],
+        [
+          "were",
+          "was",
+          "is",
+          "are",
+          "been"
+        ],
+        [
+          "more",
+          "very",
+          "so",
+          "most",
+          "much"
+        ],
+        [
+          "responsible",
+          "careful",
+          "honest",
+          "smart",
+          "serious"
+        ],
+        [
+          "they",
+          "he",
+          "she",
+          "we",
+          "it"
+        ],
+        [
+          "would",
+          "may",
+          "shall",
+          "must"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "be",
+          "not"
+        ],
+        [
+          "hired",
+          "hire",
+          "hiring",
+          "fired",
+          "chosen"
+        ],
+        [
+          "her",
+          "him",
+          "them",
+          "she",
+          "me"
+        ]
+      ],
+      "mistakeTags": [
+        "mixed_conditionals",
+        "conditional_mixing"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_04_mixed_conditionals/005.mp3"
+    },
+    {
+      "id": "t4_7",
+      "type": "sentenceAssembly",
+      "question": "Если бы мы инвестировали мудро, мы были бы богатыми сейчас (Past→Present)",
+      "correctAnswer": "If we had invested wisely we would be wealthy now",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "But",
+          "Since",
+          "Although"
+        ],
+        [
+          "we",
+          "they",
+          "us",
+          "he",
+          "I"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "was",
+          "did"
+        ],
+        [
+          "invested",
+          "invest",
+          "spent",
+          "saved",
+          "sold"
+        ],
+        [
+          "wisely",
+          "wise",
+          "well",
+          "smart",
+          "good"
+        ],
+        [
+          "we",
+          "they",
+          "us",
+          "he",
+          "I"
+        ],
+        [
+          "would",
+          "will",
+          "did",
+          "can"
+        ],
+        [
+          "be",
+          "been",
+          "being",
+          "become",
+          "feel"
+        ],
+        [
+          "wealthy",
+          "rich",
+          "poor",
+          "happy",
+          "free"
+        ],
+        [
+          "now",
+          "then",
+          "today",
+          "here",
+          "still"
+        ]
+      ],
+      "mistakeTags": [
+        "mixed_conditionals",
+        "conditional_mixing"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_04_mixed_conditionals/006.mp3"
+    },
+    {
+      "id": "t4_8",
+      "type": "sentenceAssembly",
+      "question": "Если бы я не был таким ленивым, я бы закончил проект (Present→Past)",
+      "correctAnswer": "If I were not so lazy I would have finished the project",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "But",
+          "Since",
+          "Although"
+        ],
+        [
+          "I",
+          "he",
+          "me",
+          "we",
+          "she"
+        ],
+        [
+          "were",
+          "was",
+          "is",
+          "am",
+          "been"
+        ],
+        [
+          "not",
+          "never",
+          "no",
+          "none",
+          "nor"
+        ],
+        [
+          "so",
+          "very",
+          "too",
+          "much",
+          "more"
+        ],
+        [
+          "lazy",
+          "slow",
+          "weak",
+          "bad",
+          "tired"
+        ],
+        [
+          "I",
+          "he",
+          "me",
+          "we",
+          "she"
+        ],
+        [
+          "would",
+          "could",
+          "might",
+          "should"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "be",
+          "not"
+        ],
+        [
+          "finished",
+          "finish",
+          "done",
+          "completed",
+          "started"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "project",
+          "work",
+          "task",
+          "job",
+          "plan"
+        ]
+      ],
+      "mistakeTags": [
+        "mixed_conditionals",
+        "conditional_mixing"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_04_mixed_conditionals/007.mp3"
+    },
+    {
+      "id": "t4_9",
+      "type": "sentenceAssembly",
+      "question": "Если бы он подал заявку раньше, он работал бы здесь сейчас (Past→Present)",
+      "correctAnswer": "If he had applied earlier he would work here now",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "But",
+          "Since",
+          "Although"
+        ],
+        [
+          "he",
+          "she",
+          "him",
+          "they",
+          "I"
+        ],
+        [
+          "had",
+          "has",
+          "have",
+          "was",
+          "did"
+        ],
+        [
+          "applied",
+          "apply",
+          "asked",
+          "tried",
+          "sent"
+        ],
+        [
+          "earlier",
+          "early",
+          "sooner",
+          "faster",
+          "before"
+        ],
+        [
+          "he",
+          "she",
+          "him",
+          "they",
+          "I"
+        ],
+        [
+          "would",
+          "may",
+          "shall",
+          "must"
+        ],
+        [
+          "work",
+          "worked",
+          "working",
+          "live",
+          "stay"
+        ],
+        [
+          "here",
+          "there",
+          "now",
+          "then",
+          "home"
+        ],
+        [
+          "now",
+          "then",
+          "today",
+          "still",
+          "always"
+        ]
+      ],
+      "mistakeTags": [
+        "mixed_conditionals",
+        "conditional_mixing"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_04_mixed_conditionals/008.mp3"
+    },
+    {
+      "id": "t4_10",
+      "type": "sentenceAssembly",
+      "question": "Если бы она была бегло говорящей, она бы получила ту работу (Present→Past)",
+      "correctAnswer": "If she were fluent she would have got that job",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "But",
+          "Since",
+          "Although"
+        ],
+        [
+          "she",
+          "he",
+          "her",
+          "they",
+          "I"
+        ],
+        [
+          "were",
+          "was",
+          "is",
+          "are",
+          "been"
+        ],
+        [
+          "fluent",
+          "good",
+          "better",
+          "smart",
+          "ready"
+        ],
+        [
+          "she",
+          "he",
+          "her",
+          "they",
+          "I"
+        ],
+        [
+          "would",
+          "will",
+          "did",
+          "can"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "be",
+          "not"
+        ],
+        [
+          "got",
+          "get",
+          "gotten",
+          "taken",
+          "found"
+        ],
+        [
+          "that",
+          "the",
+          "a",
+          "an"
+        ],
+        [
+          "job",
+          "work",
+          "role",
+          "place",
+          "post"
+        ]
+      ],
+      "mistakeTags": [
+        "mixed_conditionals",
+        "conditional_mixing"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_04_mixed_conditionals/009.mp3"
+    },
+    {
+      "id": "t4_11",
+      "type": "sentenceAssembly",
+      "question": "Если бы они не проигнорировали предупреждения, мир был бы безопаснее сейчас (Past->Present)",
+      "correctAnswer": "If they had not ignored the warnings the world would be safer now",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "But",
+          "Since",
+          "Although"
+        ],
+        [
+          "they",
+          "we",
+          "he",
+          "she",
+          "I"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "was",
+          "did"
+        ],
+        [
+          "not",
+          "never",
+          "no",
+          "none",
+          "nor"
+        ],
+        [
+          "ignored",
+          "dismissed",
+          "overlooked",
+          "rejected",
+          "missed"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "warnings",
+          "signals",
+          "evidence",
+          "signs",
+          "data"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "world",
+          "society",
+          "system",
+          "planet",
+          "future"
+        ],
+        [
+          "would",
+          "could",
+          "might",
+          "should"
+        ],
+        [
+          "be",
+          "been",
+          "being",
+          "stay",
+          "live"
+        ],
+        [
+          "safer",
+          "better",
+          "fairer",
+          "stronger",
+          "calmer"
+        ],
+        [
+          "now",
+          "then",
+          "today",
+          "here",
+          "still"
+        ]
+      ],
+      "mistakeTags": [
+        "mixed_conditionals",
+        "conditional_mixing"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_04_mixed_conditionals/010.mp3"
+    },
+    {
+      "id": "t4_12",
+      "type": "sentenceAssembly",
+      "question": "Если бы он был осторожнее, он бы не разбил машину (Present→Past)",
+      "correctAnswer": "If he were more careful he would not have crashed the car",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "But",
+          "Since",
+          "Although"
+        ],
+        [
+          "he",
+          "she",
+          "him",
+          "they",
+          "I"
+        ],
+        [
+          "were",
+          "was",
+          "is",
+          "are",
+          "been"
+        ],
+        [
+          "more",
+          "very",
+          "so",
+          "most",
+          "too"
+        ],
+        [
+          "careful",
+          "brave",
+          "smart",
+          "calm",
+          "safe"
+        ],
+        [
+          "he",
+          "she",
+          "him",
+          "they",
+          "I"
+        ],
+        [
+          "would",
+          "may",
+          "shall",
+          "must"
+        ],
+        [
+          "not",
+          "never",
+          "no",
+          "none",
+          "nor"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "be",
+          "been"
+        ],
+        [
+          "crashed",
+          "crash",
+          "broken",
+          "hit",
+          "lost"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "his",
+          "that"
+        ],
+        [
+          "car",
+          "truck",
+          "bike",
+          "bus",
+          "van"
+        ]
+      ],
+      "mistakeTags": [
+        "mixed_conditionals",
+        "conditional_mixing"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_04_mixed_conditionals/011.mp3"
+    },
+    {
+      "id": "t4_13",
+      "type": "sentenceAssembly",
+      "question": "Если бы философы изучили эту проблему, мы понимали бы этику лучше сейчас (Past->Present)",
+      "correctAnswer": "If philosophers had studied the problem we would understand ethics now",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "But",
+          "Since",
+          "Although"
+        ],
+        [
+          "philosophers",
+          "scholars",
+          "thinkers",
+          "scientists",
+          "leaders"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "was",
+          "did"
+        ],
+        [
+          "studied",
+          "examined",
+          "explored",
+          "analyzed",
+          "researched"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "problem",
+          "issue",
+          "question",
+          "challenge",
+          "dilemma"
+        ],
+        [
+          "we",
+          "they",
+          "people",
+          "society",
+          "everyone"
+        ],
+        [
+          "would",
+          "will",
+          "did",
+          "can"
+        ],
+        [
+          "understand",
+          "grasp",
+          "comprehend",
+          "know",
+          "see"
+        ],
+        [
+          "ethics",
+          "morality",
+          "justice",
+          "truth",
+          "fairness"
+        ],
+        [
+          "now",
+          "then",
+          "today",
+          "here",
+          "still"
+        ]
+      ],
+      "mistakeTags": [
+        "mixed_conditionals",
+        "conditional_mixing"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_04_mixed_conditionals/012.mp3"
+    },
+    {
+      "id": "t4_14",
+      "type": "sentenceAssembly",
+      "question": "Если бы он был добрее, люди бы помогли ему вчера (Present→Past)",
+      "correctAnswer": "If he were kinder people would have helped him yesterday",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "But",
+          "Since",
+          "Although"
+        ],
+        [
+          "he",
+          "she",
+          "him",
+          "they",
+          "I"
+        ],
+        [
+          "were",
+          "was",
+          "is",
+          "are",
+          "been"
+        ],
+        [
+          "kinder",
+          "kind",
+          "nicer",
+          "better",
+          "good"
+        ],
+        [
+          "people",
+          "they",
+          "friends",
+          "others",
+          "we"
+        ],
+        [
+          "would",
+          "could",
+          "might",
+          "should"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "be",
+          "not"
+        ],
+        [
+          "helped",
+          "help",
+          "saved",
+          "given",
+          "told"
+        ],
+        [
+          "him",
+          "her",
+          "them",
+          "he",
+          "me"
+        ],
+        [
+          "yesterday",
+          "before",
+          "then",
+          "once",
+          "ago"
+        ]
+      ],
+      "mistakeTags": [
+        "mixed_conditionals",
+        "conditional_mixing"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_04_mixed_conditionals/013.mp3"
+    },
+    {
+      "id": "t4_15",
+      "type": "sentenceAssembly",
+      "question": "Если бы она взяла зонт, она не была бы мокрой сейчас (Past→Present)",
+      "correctAnswer": "If she had taken an umbrella she would not be wet now",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "But",
+          "Since",
+          "Although"
+        ],
+        [
+          "she",
+          "he",
+          "her",
+          "they",
+          "I"
+        ],
+        [
+          "had",
+          "has",
+          "have",
+          "was",
+          "did"
+        ],
+        [
+          "taken",
+          "take",
+          "took",
+          "brought",
+          "got"
+        ],
+        [
+          "an",
+          "a",
+          "the",
+          "her",
+          "one"
+        ],
+        [
+          "umbrella",
+          "coat",
+          "hat",
+          "bag",
+          "jacket"
+        ],
+        [
+          "she",
+          "he",
+          "her",
+          "they",
+          "I"
+        ],
+        [
+          "would",
+          "may",
+          "shall",
+          "must"
+        ],
+        [
+          "not",
+          "never",
+          "no",
+          "none",
+          "nor"
+        ],
+        [
+          "be",
+          "been",
+          "being",
+          "feel",
+          "get"
+        ],
+        [
+          "wet",
+          "cold",
+          "sick",
+          "dry",
+          "warm"
+        ],
+        [
+          "now",
+          "then",
+          "today",
+          "here",
+          "still"
+        ]
+      ],
+      "mistakeTags": [
+        "mixed_conditionals",
+        "conditional_mixing"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_04_mixed_conditionals/014.mp3"
+    },
+    {
+      "id": "t4_16",
+      "type": "sentenceAssembly",
+      "question": "Если бы я был организованнее, я бы не потерял ключи (Present→Past)",
+      "correctAnswer": "If I were more organized I would not have lost my keys",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "But",
+          "Since",
+          "Although"
+        ],
+        [
+          "I",
+          "he",
+          "me",
+          "we",
+          "she"
+        ],
+        [
+          "were",
+          "was",
+          "is",
+          "am",
+          "been"
+        ],
+        [
+          "more",
+          "very",
+          "so",
+          "most",
+          "too"
+        ],
+        [
+          "organized",
+          "careful",
+          "smart",
+          "tidy",
+          "neat"
+        ],
+        [
+          "I",
+          "he",
+          "me",
+          "we",
+          "she"
+        ],
+        [
+          "would",
+          "will",
+          "did",
+          "can"
+        ],
+        [
+          "not",
+          "never",
+          "no",
+          "none",
+          "nor"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "be",
+          "been"
+        ],
+        [
+          "lost",
+          "lose",
+          "found",
+          "missed",
+          "left"
+        ],
+        [
+          "my",
+          "the",
+          "his",
+          "her",
+          "our"
+        ],
+        [
+          "keys",
+          "phone",
+          "wallet",
+          "bag",
+          "card"
+        ]
+      ],
+      "mistakeTags": [
+        "mixed_conditionals",
+        "conditional_mixing"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_04_mixed_conditionals/015.mp3"
+    },
+    {
+      "id": "t4_17",
+      "type": "sentenceAssembly",
+      "question": "Если бы мы переехали раньше, мы бы жили у моря сейчас (Past→Present)",
+      "correctAnswer": "If we had moved earlier we would live by the sea now",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "But",
+          "Since",
+          "Although"
+        ],
+        [
+          "we",
+          "they",
+          "us",
+          "he",
+          "I"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "was",
+          "did"
+        ],
+        [
+          "moved",
+          "move",
+          "gone",
+          "left",
+          "come"
+        ],
+        [
+          "earlier",
+          "early",
+          "sooner",
+          "faster",
+          "before"
+        ],
+        [
+          "we",
+          "they",
+          "us",
+          "he",
+          "I"
+        ],
+        [
+          "would",
+          "could",
+          "might",
+          "should"
+        ],
+        [
+          "live",
+          "lived",
+          "living",
+          "stay",
+          "be"
+        ],
+        [
+          "by",
+          "at",
+          "on",
+          "in",
+          "near"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "sea",
+          "ocean",
+          "lake",
+          "beach",
+          "coast"
+        ],
+        [
+          "now",
+          "then",
+          "today",
+          "here",
+          "still"
+        ]
+      ],
+      "mistakeTags": [
+        "mixed_conditionals",
+        "conditional_mixing"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_04_mixed_conditionals/016.mp3"
+    },
+    {
+      "id": "t4_18",
+      "type": "sentenceAssembly",
+      "question": "Если бы демократия была сильнее, общество приняло бы ту реформу (Present->Past)",
+      "correctAnswer": "If democracy were stronger society would have accepted the reform",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "But",
+          "Since",
+          "Although"
+        ],
+        [
+          "democracy",
+          "justice",
+          "freedom",
+          "governance",
+          "leadership"
+        ],
+        [
+          "were",
+          "was",
+          "is",
+          "are",
+          "been"
+        ],
+        [
+          "stronger",
+          "better",
+          "fairer",
+          "deeper",
+          "wiser"
+        ],
+        [
+          "society",
+          "people",
+          "citizens",
+          "leaders",
+          "nations"
+        ],
+        [
+          "would",
+          "may",
+          "shall",
+          "must"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "be",
+          "not"
+        ],
+        [
+          "accepted",
+          "embraced",
+          "supported",
+          "adopted",
+          "approved"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "reform",
+          "policy",
+          "change",
+          "measure",
+          "proposal"
+        ]
+      ],
+      "mistakeTags": [
+        "mixed_conditionals",
+        "conditional_mixing"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_04_mixed_conditionals/017.mp3"
+    },
+    {
+      "id": "t4_19",
+      "type": "sentenceAssembly",
+      "question": "Если бы он не бросил школу, он бы зарабатывал больше сейчас (Past→Present)",
+      "correctAnswer": "If he had not quit school he would earn more now",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "But",
+          "Since",
+          "Although"
+        ],
+        [
+          "he",
+          "she",
+          "him",
+          "they",
+          "I"
+        ],
+        [
+          "had",
+          "has",
+          "have",
+          "was",
+          "did"
+        ],
+        [
+          "not",
+          "never",
+          "no",
+          "none",
+          "nor"
+        ],
+        [
+          "quit",
+          "left",
+          "finished",
+          "started",
+          "joined"
+        ],
+        [
+          "school",
+          "college",
+          "work",
+          "class",
+          "study"
+        ],
+        [
+          "he",
+          "she",
+          "him",
+          "they",
+          "I"
+        ],
+        [
+          "would",
+          "will",
+          "did",
+          "can"
+        ],
+        [
+          "earn",
+          "earned",
+          "make",
+          "get",
+          "have"
+        ],
+        [
+          "more",
+          "much",
+          "better",
+          "less",
+          "enough"
+        ],
+        [
+          "now",
+          "then",
+          "today",
+          "here",
+          "still"
+        ]
+      ],
+      "mistakeTags": [
+        "mixed_conditionals",
+        "conditional_mixing"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_04_mixed_conditionals/018.mp3"
+    },
+    {
+      "id": "t4_20",
+      "type": "sentenceAssembly",
+      "question": "Если бы я был терпеливее, я бы не кричал на них вчера (Present→Past)",
+      "correctAnswer": "If I were more patient I would not have shouted at them",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "But",
+          "Since",
+          "Although"
+        ],
+        [
+          "I",
+          "he",
+          "me",
+          "we",
+          "she"
+        ],
+        [
+          "were",
+          "was",
+          "is",
+          "am",
+          "been"
+        ],
+        [
+          "more",
+          "very",
+          "so",
+          "most",
+          "too"
+        ],
+        [
+          "patient",
+          "calm",
+          "quiet",
+          "kind",
+          "nice"
+        ],
+        [
+          "I",
+          "he",
+          "me",
+          "we",
+          "she"
+        ],
+        [
+          "would",
+          "could",
+          "might",
+          "should"
+        ],
+        [
+          "not",
+          "never",
+          "no",
+          "none",
+          "nor"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "be",
+          "been"
+        ],
+        [
+          "shouted",
+          "shout",
+          "yelled",
+          "screamed",
+          "cried"
+        ],
+        [
+          "at",
+          "on",
+          "to",
+          "for",
+          "with"
+        ],
+        [
+          "them",
+          "him",
+          "her",
+          "they",
+          "us"
+        ]
+      ],
+      "mistakeTags": [
+        "mixed_conditionals",
+        "conditional_mixing"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_04_mixed_conditionals/019.mp3"
+    },
+    {
+      "id": "t4_21",
+      "type": "sentenceAssembly",
+      "question": "Если бы он прочитал труды философов, он знал бы истину сейчас (Past->Present)",
+      "correctAnswer": "If he had read the works of philosophers he would know the truth now",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "But",
+          "Since",
+          "Although"
+        ],
+        [
+          "he",
+          "she",
+          "I",
+          "it"
+        ],
+        [
+          "had",
+          "has",
+          "have",
+          "was",
+          "did"
+        ],
+        [
+          "read",
+          "studied",
+          "explored",
+          "examined",
+          "reviewed"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "works",
+          "texts",
+          "ideas",
+          "writings",
+          "theories"
+        ],
+        [
+          "of",
+          "by",
+          "from",
+          "about",
+          "on"
+        ],
+        [
+          "philosophers",
+          "thinkers",
+          "scholars",
+          "sages",
+          "ethicists"
+        ],
+        [
+          "he",
+          "she",
+          "I",
+          "it"
+        ],
+        [
+          "would",
+          "may",
+          "shall",
+          "must"
+        ],
+        [
+          "know",
+          "grasp",
+          "understand",
+          "see",
+          "find"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "truth",
+          "answer",
+          "meaning",
+          "essence",
+          "wisdom"
+        ],
+        [
+          "now",
+          "then",
+          "today",
+          "here",
+          "still"
+        ]
+      ],
+      "mistakeTags": [
+        "mixed_conditionals",
+        "conditional_mixing"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_04_mixed_conditionals/020.mp3"
+    },
+    {
+      "id": "t4_22",
+      "type": "sentenceAssembly",
+      "question": "Если бы он был честнее, она бы не ушла от него (Present→Past)",
+      "correctAnswer": "If he were more honest she would not have left him",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "But",
+          "Since",
+          "Although"
+        ],
+        [
+          "he",
+          "she",
+          "him",
+          "they",
+          "I"
+        ],
+        [
+          "were",
+          "was",
+          "is",
+          "are",
+          "been"
+        ],
+        [
+          "more",
+          "very",
+          "so",
+          "most",
+          "too"
+        ],
+        [
+          "honest",
+          "kind",
+          "nice",
+          "true",
+          "fair"
+        ],
+        [
+          "she",
+          "he",
+          "her",
+          "they",
+          "I"
+        ],
+        [
+          "would",
+          "will",
+          "did",
+          "can"
+        ],
+        [
+          "not",
+          "never",
+          "no",
+          "none",
+          "nor"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "be",
+          "been"
+        ],
+        [
+          "left",
+          "leave",
+          "gone",
+          "lost",
+          "quit"
+        ],
+        [
+          "him",
+          "her",
+          "them",
+          "he",
+          "me"
+        ]
+      ],
+      "mistakeTags": [
+        "mixed_conditionals",
+        "conditional_mixing"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_04_mixed_conditionals/021.mp3"
+    },
+    {
+      "id": "t4_23",
+      "type": "sentenceAssembly",
+      "question": "Если бы я начал раньше, я бы не спешил сейчас (Past→Present)",
+      "correctAnswer": "If I had started earlier I would not be rushing now",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "But",
+          "Since",
+          "Although"
+        ],
+        [
+          "I",
+          "he",
+          "me",
+          "we",
+          "she"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "was",
+          "did"
+        ],
+        [
+          "started",
+          "start",
+          "begun",
+          "finished",
+          "done"
+        ],
+        [
+          "earlier",
+          "early",
+          "sooner",
+          "faster",
+          "before"
+        ],
+        [
+          "I",
+          "he",
+          "me",
+          "we",
+          "she"
+        ],
+        [
+          "would",
+          "could",
+          "might",
+          "should"
+        ],
+        [
+          "not",
+          "never",
+          "no",
+          "none",
+          "nor"
+        ],
+        [
+          "be",
+          "been",
+          "being",
+          "feel",
+          "get"
+        ],
+        [
+          "rushing",
+          "hurrying",
+          "running",
+          "waiting",
+          "late"
+        ],
+        [
+          "now",
+          "then",
+          "today",
+          "here",
+          "still"
+        ]
+      ],
+      "mistakeTags": [
+        "mixed_conditionals",
+        "conditional_mixing"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_04_mixed_conditionals/022.mp3"
+    },
+    {
+      "id": "t4_24",
+      "type": "sentenceAssembly",
+      "question": "Если бы она не была такой упрямой, она бы послушала совет (Present→Past)",
+      "correctAnswer": "If she were not so stubborn she would have taken the advice",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "But",
+          "Since",
+          "Although"
+        ],
+        [
+          "she",
+          "he",
+          "her",
+          "they",
+          "I"
+        ],
+        [
+          "were",
+          "was",
+          "is",
+          "are",
+          "been"
+        ],
+        [
+          "not",
+          "never",
+          "no",
+          "none",
+          "nor"
+        ],
+        [
+          "so",
+          "very",
+          "too",
+          "much",
+          "more"
+        ],
+        [
+          "stubborn",
+          "proud",
+          "shy",
+          "weak",
+          "rude"
+        ],
+        [
+          "she",
+          "he",
+          "her",
+          "they",
+          "I"
+        ],
+        [
+          "would",
+          "may",
+          "shall",
+          "must"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "be",
+          "not"
+        ],
+        [
+          "taken",
+          "take",
+          "heard",
+          "followed",
+          "got"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "advice",
+          "help",
+          "offer",
+          "chance",
+          "plan"
+        ]
+      ],
+      "mistakeTags": [
+        "mixed_conditionals",
+        "conditional_mixing"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_04_mixed_conditionals/023.mp3"
+    },
+    {
+      "id": "t4_25",
+      "type": "sentenceAssembly",
+      "question": "Если бы нация развивала науку постоянно, она была бы сильнее сейчас (Past->Present)",
+      "correctAnswer": "If the nation had developed science it would be stronger now",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "But",
+          "Since",
+          "Although"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "nation",
+          "country",
+          "society",
+          "state",
+          "civilization"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "was",
+          "did"
+        ],
+        [
+          "developed",
+          "advanced",
+          "promoted",
+          "supported",
+          "funded"
+        ],
+        [
+          "science",
+          "research",
+          "education",
+          "technology",
+          "innovation"
+        ],
+        [
+          "it",
+          "they",
+          "we",
+          "people",
+          "society"
+        ],
+        [
+          "would",
+          "will",
+          "did",
+          "can"
+        ],
+        [
+          "be",
+          "been",
+          "being",
+          "become",
+          "feel"
+        ],
+        [
+          "stronger",
+          "wiser",
+          "better",
+          "richer",
+          "greater"
+        ],
+        [
+          "now",
+          "then",
+          "today",
+          "here",
+          "still"
+        ]
+      ],
+      "mistakeTags": [
+        "mixed_conditionals",
+        "conditional_mixing"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_04_mixed_conditionals/024.mp3"
+    },
+    {
+      "id": "t4_26",
+      "type": "sentenceAssembly",
+      "question": "Если бы я был умнее, я бы не подписал тот контракт (Present→Past)",
+      "correctAnswer": "If I were smarter I would not have signed that contract",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "But",
+          "Since",
+          "Although"
+        ],
+        [
+          "I",
+          "he",
+          "me",
+          "we",
+          "she"
+        ],
+        [
+          "were",
+          "was",
+          "is",
+          "am",
+          "been"
+        ],
+        [
+          "smarter",
+          "smart",
+          "wiser",
+          "better",
+          "clever"
+        ],
+        [
+          "I",
+          "he",
+          "me",
+          "we",
+          "she"
+        ],
+        [
+          "would",
+          "could",
+          "might",
+          "should"
+        ],
+        [
+          "not",
+          "never",
+          "no",
+          "none",
+          "nor"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "be",
+          "been"
+        ],
+        [
+          "signed",
+          "sign",
+          "wrote",
+          "taken",
+          "made"
+        ],
+        [
+          "that",
+          "the",
+          "a",
+          "some"
+        ],
+        [
+          "contract",
+          "deal",
+          "paper",
+          "form",
+          "letter"
+        ]
+      ],
+      "mistakeTags": [
+        "mixed_conditionals",
+        "conditional_mixing"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_04_mixed_conditionals/025.mp3"
+    },
+    {
+      "id": "t4_27",
+      "type": "sentenceAssembly",
+      "question": "Если бы они купили билеты заранее, они бы смотрели шоу сейчас (Past→Present)",
+      "correctAnswer": "If they had bought tickets in advance they would be watching the show now",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "But",
+          "Since",
+          "Although"
+        ],
+        [
+          "they",
+          "we",
+          "he",
+          "she",
+          "I"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "was",
+          "did"
+        ],
+        [
+          "bought",
+          "buy",
+          "got",
+          "sold",
+          "took"
+        ],
+        [
+          "tickets",
+          "seats",
+          "passes",
+          "cards",
+          "rooms"
+        ],
+        [
+          "in",
+          "on",
+          "at",
+          "by",
+          "for"
+        ],
+        [
+          "advance",
+          "time",
+          "front",
+          "order",
+          "line"
+        ],
+        [
+          "they",
+          "we",
+          "he",
+          "she",
+          "I"
+        ],
+        [
+          "would",
+          "may",
+          "shall",
+          "must"
+        ],
+        [
+          "be",
+          "been",
+          "being",
+          "have",
+          "get"
+        ],
+        [
+          "watching",
+          "watch",
+          "seeing",
+          "looking",
+          "heard"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "show",
+          "film",
+          "game",
+          "play",
+          "match"
+        ],
+        [
+          "now",
+          "then",
+          "today",
+          "here",
+          "still"
+        ]
+      ],
+      "mistakeTags": [
+        "mixed_conditionals",
+        "conditional_mixing"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_04_mixed_conditionals/026.mp3"
+    },
+    {
+      "id": "t4_28",
+      "type": "sentenceAssembly",
+      "question": "Если бы он не был таким гордым, он бы извинился тогда (Present→Past)",
+      "correctAnswer": "If he were not so proud he would have apologized then",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "But",
+          "Since",
+          "Although"
+        ],
+        [
+          "he",
+          "she",
+          "him",
+          "they",
+          "I"
+        ],
+        [
+          "were",
+          "was",
+          "is",
+          "are",
+          "been"
+        ],
+        [
+          "not",
+          "never",
+          "no",
+          "none",
+          "nor"
+        ],
+        [
+          "so",
+          "very",
+          "too",
+          "much",
+          "more"
+        ],
+        [
+          "proud",
+          "shy",
+          "rude",
+          "cold",
+          "mean"
+        ],
+        [
+          "he",
+          "she",
+          "him",
+          "they",
+          "I"
+        ],
+        [
+          "would",
+          "will",
+          "did",
+          "can"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "be",
+          "not"
+        ],
+        [
+          "apologized",
+          "apologize",
+          "said",
+          "spoken",
+          "called"
+        ],
+        [
+          "then",
+          "before",
+          "ago",
+          "once",
+          "there"
+        ]
+      ],
+      "mistakeTags": [
+        "mixed_conditionals",
+        "conditional_mixing"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_04_mixed_conditionals/027.mp3"
+    },
+    {
+      "id": "t4_29",
+      "type": "sentenceAssembly",
+      "question": "Если бы она не потратила все деньги, она бы не была в долгах сейчас (Past→Present)",
+      "correctAnswer": "If she had not spent all the money she would not be in debt now",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "But",
+          "Since",
+          "Although"
+        ],
+        [
+          "she",
+          "he",
+          "her",
+          "they",
+          "I"
+        ],
+        [
+          "had",
+          "has",
+          "have",
+          "was",
+          "did"
+        ],
+        [
+          "not",
+          "never",
+          "no",
+          "none",
+          "nor"
+        ],
+        [
+          "spent",
+          "spend",
+          "saved",
+          "lost",
+          "used"
+        ],
+        [
+          "all",
+          "every",
+          "each",
+          "much",
+          "some"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "her",
+          "his"
+        ],
+        [
+          "money",
+          "cash",
+          "funds",
+          "savings",
+          "coins"
+        ],
+        [
+          "she",
+          "he",
+          "her",
+          "they",
+          "I"
+        ],
+        [
+          "would",
+          "could",
+          "might",
+          "should"
+        ],
+        [
+          "not",
+          "never",
+          "no",
+          "none",
+          "nor"
+        ],
+        [
+          "be",
+          "been",
+          "being",
+          "feel",
+          "get"
+        ],
+        [
+          "in",
+          "on",
+          "at",
+          "with",
+          "under"
+        ],
+        [
+          "debt",
+          "trouble",
+          "danger",
+          "need",
+          "pain"
+        ],
+        [
+          "now",
+          "then",
+          "today",
+          "here",
+          "still"
+        ]
+      ],
+      "mistakeTags": [
+        "mixed_conditionals",
+        "conditional_mixing"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_04_mixed_conditionals/028.mp3"
+    },
+    {
+      "id": "t4_30",
+      "type": "sentenceAssembly",
+      "question": "Если бы я знал её лучше, я бы доверился ей тогда (Present→Past)",
+      "correctAnswer": "If I knew her better I would have trusted her then",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "But",
+          "Since",
+          "Although"
+        ],
+        [
+          "I",
+          "he",
+          "me",
+          "we",
+          "she"
+        ],
+        [
+          "knew",
+          "know",
+          "known",
+          "knows",
+          "knowing"
+        ],
+        [
+          "her",
+          "him",
+          "them",
+          "she",
+          "us"
+        ],
+        [
+          "better",
+          "more",
+          "well",
+          "good",
+          "best"
+        ],
+        [
+          "I",
+          "he",
+          "me",
+          "we",
+          "she"
+        ],
+        [
+          "would",
+          "may",
+          "shall",
+          "must"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "be",
+          "not"
+        ],
+        [
+          "trusted",
+          "trust",
+          "believed",
+          "told",
+          "asked"
+        ],
+        [
+          "her",
+          "him",
+          "them",
+          "she",
+          "us"
+        ],
+        [
+          "then",
+          "before",
+          "ago",
+          "once",
+          "there"
+        ]
+      ],
+      "mistakeTags": [
+        "mixed_conditionals",
+        "conditional_mixing"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_04_mixed_conditionals/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionAdvanced04MixedConditionals",
+  "theoryQuiz": [
+    {
+      "id": "tq_01",
+      "type": "multipleChoice",
+      "question": "Какая формула у Mixed Conditional Type 1 (Past -> Present)?",
+      "options": [
+        "If + Past Simple, would + V1",
+        "If + Past Perfect, would + V1",
+        "If + Present Simple, would have + V3",
+        "If + Past Perfect, would have + V3"
+      ],
+      "correctIndex": 1,
+      "explanation": "Type 1: If + Past Perfect (условие в прошлом), would + V1 (результат в настоящем)."
+    },
+    {
+      "id": "tq_02",
+      "type": "trueFalse",
+      "question": "'If I had studied medicine, I would be a doctor now' — это mixed conditional.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Верно: условие в прошлом (had studied), результат в настоящем (would be) — это mixed conditional."
+    },
+    {
+      "id": "tq_03",
+      "type": "multipleChoice",
+      "question": "Какой тип mixed conditional: 'If she spoke Chinese, she would have gotten the job'?",
+      "options": [
+        "Type 1 (Past->Present)",
+        "Type 2 (Present->Past)",
+        "Second Conditional",
+        "Third Conditional"
+      ],
+      "correctIndex": 1,
+      "explanation": "Type 2: условие в настоящем (spoke — она не говорит), результат в прошлом (would have gotten)."
+    },
+    {
+      "id": "tq_04",
+      "type": "trueFalse",
+      "question": "В mixed conditionals условие и результат всегда относятся к одному времени.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "Неверно: в mixed conditionals условие и результат относятся к разным временам — в этом их суть."
+    },
+    {
+      "id": "tq_05",
+      "type": "multipleChoice",
+      "question": "Закончите: If I had saved money, I ___ a new car now.",
+      "options": [
+        "would have",
+        "would buy",
+        "will buy",
+        "had bought"
+      ],
+      "correctIndex": 1,
+      "explanation": "Past condition -> present result: If + Past Perfect, would + V1 (would buy)."
+    },
+    {
+      "id": "tq_06",
+      "type": "multipleChoice",
+      "question": "Закончите: If he were taller, he ___ the basketball team last year.",
+      "options": [
+        "would join",
+        "would have joined",
+        "had joined",
+        "joins"
+      ],
+      "correctIndex": 1,
+      "explanation": "Present condition -> past result: If + Past Simple, would have + V3 (would have joined)."
+    },
+    {
+      "id": "tq_07",
+      "type": "trueFalse",
+      "question": "'If I had not missed the flight, I would be in Paris now' смешивает прошлое условие и настоящий результат.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Верно: had not missed (прошлое) + would be (настоящее) — классический mixed conditional Type 1."
+    },
+    {
+      "id": "tq_08",
+      "type": "multipleChoice",
+      "question": "Чем mixed conditional отличается от Third Conditional?",
+      "options": [
+        "Ничем не отличается",
+        "В mixed conditional результат может быть в настоящем",
+        "Mixed conditional не использует Past Perfect",
+        "Mixed conditional не использует would"
+      ],
+      "correctIndex": 1,
+      "explanation": "Third Conditional: оба времени в прошлом. Mixed: условие и результат в разных временах."
+    },
+    {
+      "id": "tq_09",
+      "type": "trueFalse",
+      "question": "'If she liked dogs, she would have adopted one' — здесь условие в настоящем, результат в прошлом.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Верно: liked (настоящее — она не любит собак), would have adopted (прошлый результат)."
+    },
+    {
+      "id": "tq_10",
+      "type": "multipleChoice",
+      "question": "Выберите правильный mixed conditional:",
+      "options": [
+        "If I studied, I would pass.",
+        "If I had studied, I would have passed.",
+        "If I had studied, I would know the answer now.",
+        "If I study, I will pass."
+      ],
+      "correctIndex": 2,
+      "explanation": "Только вариант с had studied (прошлое) + would know now (настоящее) — это mixed conditional."
+    }
+  ]
+}

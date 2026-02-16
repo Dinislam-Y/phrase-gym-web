@@ -1,0 +1,1833 @@
+{
+  "id": "upper_12_causative",
+  "title": "Causative: Have / Get Something Done",
+  "description": "Каузативная конструкция: I had my car repaired, She got her hair cut. Когда кто-то делает для вас.",
+  "order": 12,
+  "level": "upper_intermediate",
+  "imageUrl": "assets/images/lessons/causative.png",
+  "vocabulary": [
+    {
+      "id": "v12_repair",
+      "english": "repair",
+      "russian": "ремонтировать, чинить",
+      "partOfSpeech": "verb",
+      "example": "I had my car repaired yesterday.",
+      "exampleTranslation": "Мне починили машину вчера.",
+      "audioPath": "assets/audio/vocabulary/v12_repair.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_repair.mp3"
+    },
+    {
+      "id": "v12_deliver",
+      "english": "deliver",
+      "russian": "доставлять",
+      "partOfSpeech": "verb",
+      "example": "We had the package delivered.",
+      "exampleTranslation": "Нам доставили посылку.",
+      "audioPath": "assets/audio/vocabulary/v12_deliver.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_deliver.mp3"
+    },
+    {
+      "id": "v12_install",
+      "english": "install",
+      "russian": "устанавливать",
+      "partOfSpeech": "verb",
+      "example": "They got a new system installed.",
+      "exampleTranslation": "Им установили новую систему.",
+      "audioPath": "assets/audio/vocabulary/v12_install.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_install.mp3"
+    },
+    {
+      "id": "v12_check",
+      "english": "check",
+      "russian": "проверять",
+      "partOfSpeech": "verb",
+      "example": "She had her eyes checked.",
+      "exampleTranslation": "Ей проверили зрение.",
+      "audioPath": "assets/audio/vocabulary/v12_check.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_check.mp3"
+    },
+    {
+      "id": "v12_replace",
+      "english": "replace",
+      "russian": "заменять",
+      "partOfSpeech": "verb",
+      "example": "He got the battery replaced.",
+      "exampleTranslation": "Ему заменили батарею.",
+      "audioPath": "assets/audio/vocabulary/v12_replace.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_replace.mp3"
+    },
+    {
+      "id": "v12_clean",
+      "english": "clean",
+      "russian": "чистить, убирать",
+      "partOfSpeech": "verb",
+      "example": "We had the house cleaned.",
+      "exampleTranslation": "Нам убрали дом.",
+      "audioPath": "assets/audio/vocabulary/v12_clean.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_clean.mp3"
+    },
+    {
+      "id": "v12_paint",
+      "english": "paint",
+      "russian": "красить",
+      "partOfSpeech": "verb",
+      "example": "They had the walls painted.",
+      "exampleTranslation": "Им покрасили стены.",
+      "audioPath": "assets/audio/vocabulary/v12_paint.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_paint.mp3"
+    },
+    {
+      "id": "v12_cut",
+      "english": "cut",
+      "russian": "стричь, резать",
+      "partOfSpeech": "verb",
+      "example": "She got her hair cut.",
+      "exampleTranslation": "Она подстриглась (ей подстригли волосы).",
+      "audioPath": "assets/audio/vocabulary/v12_cut.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_cut.mp3"
+    },
+    {
+      "id": "v12_fix",
+      "english": "fix",
+      "russian": "чинить, исправлять",
+      "partOfSpeech": "verb",
+      "example": "I got my phone fixed.",
+      "exampleTranslation": "Мне починили телефон.",
+      "audioPath": "assets/audio/vocabulary/v12_fix.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_fix.mp3"
+    },
+    {
+      "id": "v12_service",
+      "english": "service",
+      "russian": "обслуживать (техобслуживание)",
+      "partOfSpeech": "verb",
+      "example": "He had his car serviced.",
+      "exampleTranslation": "Ему сделали техосмотр машины.",
+      "audioPath": "assets/audio/vocabulary/v12_service.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_service.mp3"
+    },
+    {
+      "id": "v12_steal",
+      "english": "steal",
+      "russian": "украсть",
+      "partOfSpeech": "verb",
+      "example": "She had her wallet stolen.",
+      "exampleTranslation": "У неё украли кошелёк.",
+      "audioPath": "assets/audio/vocabulary/v12_steal.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_steal.mp3"
+    },
+    {
+      "id": "v12_design",
+      "english": "design",
+      "russian": "проектировать, дизайнить",
+      "partOfSpeech": "verb",
+      "example": "We had the logo designed.",
+      "exampleTranslation": "Нам разработали логотип.",
+      "audioPath": "assets/audio/vocabulary/v12_design.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_design.mp3"
+    },
+    {
+      "id": "v12_translate",
+      "english": "translate",
+      "russian": "переводить (язык)",
+      "partOfSpeech": "verb",
+      "example": "He got the document translated.",
+      "exampleTranslation": "Ему перевели документ.",
+      "audioPath": "assets/audio/vocabulary/v12_translate.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_translate.mp3"
+    },
+    {
+      "id": "v12_dry_clean",
+      "english": "dry-clean",
+      "russian": "сдать в химчистку",
+      "partOfSpeech": "verb",
+      "example": "I had my suit dry-cleaned.",
+      "exampleTranslation": "Я сдал костюм в химчистку.",
+      "audioPath": "assets/audio/vocabulary/v12_dry_clean.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_dry_clean.mp3"
+    },
+    {
+      "id": "v12_test",
+      "english": "test",
+      "russian": "тестировать, проверять",
+      "partOfSpeech": "verb",
+      "example": "She got her blood tested.",
+      "exampleTranslation": "Ей сделали анализ крови.",
+      "audioPath": "assets/audio/vocabulary/v12_test.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_test.mp3"
+    },
+    {
+      "id": "v12_redecorate",
+      "english": "redecorate",
+      "russian": "делать ремонт (в помещении)",
+      "partOfSpeech": "verb",
+      "example": "They had the office redecorated.",
+      "exampleTranslation": "Им сделали ремонт в офисе.",
+      "audioPath": "assets/audio/vocabulary/v12_redecorate.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_redecorate.mp3"
+    },
+    {
+      "id": "v12_professionally",
+      "english": "professionally",
+      "russian": "профессионально",
+      "partOfSpeech": "adverb",
+      "example": "She got her photos taken professionally.",
+      "exampleTranslation": "Ей сделали профессиональные фотографии.",
+      "audioPath": "assets/audio/vocabulary/v12_professionally.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_professionally.mp3"
+    },
+    {
+      "id": "v12_tailor",
+      "english": "tailor",
+      "russian": "портной; подгонять (одежду)",
+      "partOfSpeech": "noun",
+      "example": "I got the dress tailored.",
+      "exampleTranslation": "Мне подогнали платье по фигуре.",
+      "audioPath": "assets/audio/vocabulary/v12_tailor.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_tailor.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "Causative: Have / Get Something Done",
+    "subtitle": "Каузативная конструкция используется, когда кто-то другой выполняет действие для нас. Мы не делаем это сами, а организуем или заказываем услугу.",
+    "construction": {
+      "formula": "Subject + have/get + Object + Past Participle (V3)",
+      "rules": [
+        {
+          "word": "have + object + V3",
+          "description": "Основная форма: I had my car repaired (Мне починили машину). Нейтральный, формальный стиль."
+        },
+        {
+          "word": "get + object + V3",
+          "description": "Разговорная форма: I got my car repaired. Менее формально, но значение то же."
+        },
+        {
+          "word": "Негативный опыт",
+          "description": "Каузатив также описывает неприятные события: She had her wallet stolen (У неё украли кошелёк)."
+        },
+        {
+          "word": "Времена",
+          "description": "Каузатив работает во всех временах: have/had/will have/am having + object + V3."
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "handshake",
+        "color": "blue",
+        "title": "Заказ услуги",
+        "description": "Когда вы платите или просите кого-то сделать что-то для вас.",
+        "example": {
+          "english": "I had my hair cut at the salon.",
+          "russian": "Мне подстригли волосы в салоне."
+        }
+      },
+      {
+        "icon": "bolt",
+        "color": "orange",
+        "title": "Негативный опыт",
+        "description": "Когда что-то случилось с вами без вашего желания.",
+        "example": {
+          "english": "He had his phone stolen on the bus.",
+          "russian": "У него украли телефон в автобусе."
+        }
+      },
+      {
+        "icon": "check_circle",
+        "color": "green",
+        "title": "Профессиональная услуга",
+        "description": "Когда профессионал делает работу для вас.",
+        "example": {
+          "english": "We got the house painted by professionals.",
+          "russian": "Нам покрасили дом профессионалы."
+        }
+      }
+    ],
+    "markers": [
+      "had ... done",
+      "got ... done",
+      "have ... repaired",
+      "get ... fixed",
+      "had ... stolen"
+    ]
+  },
+  "theoryQuiz": [
+    {
+      "id": "tq_12_01",
+      "type": "multipleChoice",
+      "question": "Какая формула каузативной конструкции?",
+      "options": [
+        "Subject + have + V-ing",
+        "Subject + have + object + V3",
+        "Subject + have + to + V",
+        "Subject + have + object + V-ing"
+      ],
+      "correctIndex": 1,
+      "explanation": "Каузативная конструкция: Subject + have/get + object + Past Participle (V3)."
+    },
+    {
+      "id": "tq_12_02",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"I had my car ___.\"",
+      "options": [
+        "repair",
+        "repaired",
+        "repairing",
+        "repairs"
+      ],
+      "correctIndex": 1,
+      "explanation": "В каузативной конструкции после объекта стоит V3 (Past Participle): repaired."
+    },
+    {
+      "id": "tq_12_03",
+      "type": "trueFalse",
+      "question": "\"I had my hair cut\" означает, что я подстригся сам.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "Каузатив означает, что кто-то другой подстриг вас. Если вы сами — I cut my hair."
+    },
+    {
+      "id": "tq_12_04",
+      "type": "multipleChoice",
+      "question": "Какая разница между have и get в каузативе?",
+      "options": [
+        "have — прошлое, get — настоящее",
+        "have — формальнее, get — разговорнее",
+        "have — отрицательный опыт, get — положительный",
+        "нет разницы в значении и стиле"
+      ],
+      "correctIndex": 1,
+      "explanation": "Have более формальное, get более разговорное. Значение одинаковое."
+    },
+    {
+      "id": "tq_12_05",
+      "type": "multipleChoice",
+      "question": "\"She had her wallet stolen\" означает...",
+      "options": [
+        "она украла кошелёк",
+        "у неё украли кошелёк",
+        "она нашла кошелёк",
+        "она потеряла кошелёк"
+      ],
+      "correctIndex": 1,
+      "explanation": "Каузатив может описывать негативный опыт — событие, произошедшее помимо воли."
+    },
+    {
+      "id": "tq_12_06",
+      "type": "trueFalse",
+      "question": "Каузативная конструкция может использоваться только в прошедшем времени.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "Каузатив работает во всех временах: I have it done, I had it done, I will have it done."
+    },
+    {
+      "id": "tq_12_07",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"We got the windows ___.\"",
+      "options": [
+        "clean",
+        "cleaned",
+        "cleaning",
+        "cleans"
+      ],
+      "correctIndex": 1,
+      "explanation": "После get + object используется V3: got the windows cleaned."
+    },
+    {
+      "id": "tq_12_08",
+      "type": "multipleChoice",
+      "question": "Как правильно: «Мне проверили зрение»?",
+      "options": [
+        "I checked my eyes.",
+        "I had my eyes checked.",
+        "I have check my eyes.",
+        "I had checked my eyes."
+      ],
+      "correctIndex": 1,
+      "explanation": "Каузатив: I had my eyes checked — кто-то другой проверил моё зрение."
+    },
+    {
+      "id": "tq_12_09",
+      "type": "trueFalse",
+      "question": "\"I got my phone fixed\" и \"I had my phone fixed\" имеют одинаковое значение.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Обе конструкции означают одно и то же — кто-то починил телефон для вас. Get — более разговорный вариант."
+    },
+    {
+      "id": "tq_12_10",
+      "type": "multipleChoice",
+      "question": "Выберите предложение с каузативной конструкцией:",
+      "options": [
+        "I repaired my car.",
+        "I had my car repaired.",
+        "I was repairing my car.",
+        "I have repaired my car."
+      ],
+      "correctIndex": 1,
+      "explanation": "I had my car repaired — каузатив (кто-то починил для меня). Остальные — я сам делал."
+    }
+  ],
+  "tasks": [
+    {
+      "id": "t12_1",
+      "type": "sentenceAssembly",
+      "question": "Мне починили машину",
+      "correctAnswer": "I had my car repaired",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We",
+          "Me"
+        ],
+        [
+          "had",
+          "have",
+          "got",
+          "was",
+          "has"
+        ],
+        [
+          "my",
+          "his",
+          "her",
+          "the",
+          "a"
+        ],
+        [
+          "car",
+          "bike",
+          "phone",
+          "house"
+        ],
+        [
+          "repaired",
+          "repair",
+          "repairing",
+          "repairs"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_12_causative/000.mp3"
+    },
+    {
+      "id": "t12_2",
+      "type": "sentenceAssembly",
+      "question": "Она подстриглась в салоне",
+      "correctAnswer": "She got her hair cut",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "They",
+          "Her"
+        ],
+        [
+          "got",
+          "get",
+          "had",
+          "was",
+          "gets"
+        ],
+        [
+          "her",
+          "his",
+          "my",
+          "the",
+          "she"
+        ],
+        [
+          "hair",
+          "nails",
+          "eyes",
+          "head"
+        ],
+        [
+          "cut",
+          "cutting",
+          "cuts",
+          "cutted"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_12_causative/001.mp3"
+    },
+    {
+      "id": "t12_3",
+      "type": "sentenceAssembly",
+      "question": "Нам доставили посылку",
+      "correctAnswer": "We had the package delivered",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "I",
+          "He",
+          "Us"
+        ],
+        [
+          "had",
+          "have",
+          "got",
+          "was",
+          "has"
+        ],
+        [
+          "the",
+          "a",
+          "our",
+          "my"
+        ],
+        [
+          "package",
+          "parcel",
+          "box",
+          "letter"
+        ],
+        [
+          "delivered",
+          "deliver",
+          "delivering",
+          "delivers"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_12_causative/002.mp3"
+    },
+    {
+      "id": "t12_4",
+      "type": "sentenceAssembly",
+      "question": "Ему заменили батарею",
+      "correctAnswer": "He got the battery replaced",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "I",
+          "They",
+          "Him"
+        ],
+        [
+          "got",
+          "get",
+          "had",
+          "was",
+          "gets"
+        ],
+        [
+          "the",
+          "a",
+          "his",
+          "my"
+        ],
+        [
+          "battery",
+          "screen",
+          "tire",
+          "part"
+        ],
+        [
+          "replaced",
+          "replace",
+          "replacing",
+          "replaces"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_12_causative/003.mp3"
+    },
+    {
+      "id": "t12_5",
+      "type": "sentenceAssembly",
+      "question": "Ей проверили зрение",
+      "correctAnswer": "She had her eyes checked",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "They",
+          "Her"
+        ],
+        [
+          "had",
+          "have",
+          "got",
+          "was",
+          "has"
+        ],
+        [
+          "her",
+          "his",
+          "my",
+          "the",
+          "she"
+        ],
+        [
+          "eyes",
+          "teeth",
+          "ears",
+          "blood"
+        ],
+        [
+          "checked",
+          "check",
+          "checking",
+          "checks"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_12_causative/004.mp3"
+    },
+    {
+      "id": "t12_6",
+      "type": "sentenceAssembly",
+      "question": "Нам покрасили стены",
+      "correctAnswer": "We had the walls painted",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "I",
+          "He",
+          "Us"
+        ],
+        [
+          "had",
+          "have",
+          "got",
+          "were",
+          "has"
+        ],
+        [
+          "the",
+          "our",
+          "my",
+          "a"
+        ],
+        [
+          "walls",
+          "rooms",
+          "doors",
+          "floors"
+        ],
+        [
+          "painted",
+          "paint",
+          "painting",
+          "paints"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_12_causative/005.mp3"
+    },
+    {
+      "id": "t12_7",
+      "type": "sentenceAssembly",
+      "question": "Мне починили телефон",
+      "correctAnswer": "I got my phone fixed",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We",
+          "Me"
+        ],
+        [
+          "got",
+          "get",
+          "had",
+          "was",
+          "gets"
+        ],
+        [
+          "my",
+          "his",
+          "her",
+          "the",
+          "a"
+        ],
+        [
+          "phone",
+          "laptop",
+          "tablet",
+          "computer"
+        ],
+        [
+          "fixed",
+          "fix",
+          "fixing",
+          "fixes"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_12_causative/006.mp3"
+    },
+    {
+      "id": "t12_8",
+      "type": "sentenceAssembly",
+      "question": "Им убрали дом",
+      "correctAnswer": "They had the house cleaned",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "We",
+          "I",
+          "He",
+          "Them"
+        ],
+        [
+          "had",
+          "have",
+          "got",
+          "were",
+          "has"
+        ],
+        [
+          "the",
+          "a",
+          "their",
+          "our"
+        ],
+        [
+          "house",
+          "flat",
+          "room",
+          "office"
+        ],
+        [
+          "cleaned",
+          "clean",
+          "cleaning",
+          "cleans"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_12_causative/007.mp3"
+    },
+    {
+      "id": "t12_9",
+      "type": "sentenceAssembly",
+      "question": "Ему сделали техосмотр машины",
+      "correctAnswer": "He had his car serviced",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "I",
+          "They",
+          "Him"
+        ],
+        [
+          "had",
+          "have",
+          "got",
+          "was",
+          "has"
+        ],
+        [
+          "his",
+          "her",
+          "my",
+          "the",
+          "him"
+        ],
+        [
+          "car",
+          "bike",
+          "van",
+          "truck"
+        ],
+        [
+          "serviced",
+          "service",
+          "servicing",
+          "services"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_12_causative/008.mp3"
+    },
+    {
+      "id": "t12_10",
+      "type": "sentenceAssembly",
+      "question": "Им установили новую систему",
+      "correctAnswer": "They got a new system installed",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "We",
+          "I",
+          "He",
+          "Them"
+        ],
+        [
+          "got",
+          "get",
+          "had",
+          "were",
+          "gets"
+        ],
+        [
+          "a",
+          "the",
+          "an",
+          "their"
+        ],
+        [
+          "new",
+          "old",
+          "modern",
+          "latest"
+        ],
+        [
+          "system",
+          "program",
+          "software",
+          "device"
+        ],
+        [
+          "installed",
+          "install",
+          "installing",
+          "installs"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_12_causative/009.mp3"
+    },
+    {
+      "id": "t12_11",
+      "type": "sentenceAssembly",
+      "question": "У неё украли кошелёк",
+      "correctAnswer": "She had her wallet stolen",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "They",
+          "Her"
+        ],
+        [
+          "had",
+          "have",
+          "got",
+          "was",
+          "has"
+        ],
+        [
+          "her",
+          "his",
+          "my",
+          "the",
+          "she"
+        ],
+        [
+          "wallet",
+          "purse",
+          "bag",
+          "phone"
+        ],
+        [
+          "stolen",
+          "steal",
+          "stealing",
+          "stole",
+          "stealed"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_12_causative/010.mp3"
+    },
+    {
+      "id": "t12_12",
+      "type": "sentenceAssembly",
+      "question": "Мне перевели документ",
+      "correctAnswer": "I got the document translated",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We",
+          "Me"
+        ],
+        [
+          "got",
+          "get",
+          "had",
+          "was",
+          "gets"
+        ],
+        [
+          "the",
+          "a",
+          "my",
+          "this"
+        ],
+        [
+          "document",
+          "letter",
+          "contract",
+          "report"
+        ],
+        [
+          "translated",
+          "translate",
+          "translating",
+          "translates"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_12_causative/011.mp3"
+    },
+    {
+      "id": "t12_13",
+      "type": "sentenceAssembly",
+      "question": "Нам разработали логотип",
+      "correctAnswer": "We had the logo designed",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "I",
+          "He",
+          "Us"
+        ],
+        [
+          "had",
+          "have",
+          "got",
+          "were",
+          "has"
+        ],
+        [
+          "the",
+          "a",
+          "our",
+          "my"
+        ],
+        [
+          "logo",
+          "website",
+          "poster",
+          "banner"
+        ],
+        [
+          "designed",
+          "design",
+          "designing",
+          "designs"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_12_causative/012.mp3"
+    },
+    {
+      "id": "t12_14",
+      "type": "sentenceAssembly",
+      "question": "Я сдал костюм в химчистку",
+      "correctAnswer": "I had my suit dry-cleaned",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We",
+          "Me"
+        ],
+        [
+          "had",
+          "have",
+          "got",
+          "was",
+          "has"
+        ],
+        [
+          "my",
+          "his",
+          "her",
+          "the",
+          "a"
+        ],
+        [
+          "suit",
+          "dress",
+          "coat",
+          "jacket"
+        ],
+        [
+          "dry-cleaned",
+          "dry-clean",
+          "washed",
+          "cleaned",
+          "ironed"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_12_causative/013.mp3"
+    },
+    {
+      "id": "t12_15",
+      "type": "sentenceAssembly",
+      "question": "Ей сделали анализ крови",
+      "correctAnswer": "She got her blood tested",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "They",
+          "Her"
+        ],
+        [
+          "got",
+          "get",
+          "had",
+          "was",
+          "gets"
+        ],
+        [
+          "her",
+          "his",
+          "my",
+          "the",
+          "she"
+        ],
+        [
+          "blood",
+          "eyes",
+          "teeth",
+          "heart"
+        ],
+        [
+          "tested",
+          "test",
+          "testing",
+          "tests",
+          "checked"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_12_causative/014.mp3"
+    },
+    {
+      "id": "t12_16",
+      "type": "sentenceAssembly",
+      "question": "Им сделали ремонт в офисе",
+      "correctAnswer": "They had the office redecorated",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "We",
+          "I",
+          "He",
+          "Them"
+        ],
+        [
+          "had",
+          "have",
+          "got",
+          "were",
+          "has"
+        ],
+        [
+          "the",
+          "their",
+          "an",
+          "a"
+        ],
+        [
+          "office",
+          "house",
+          "flat",
+          "room"
+        ],
+        [
+          "redecorated",
+          "redecorate",
+          "redecorating",
+          "decorated",
+          "renovated"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_12_causative/015.mp3"
+    },
+    {
+      "id": "t12_17",
+      "type": "sentenceAssembly",
+      "question": "Ей сделали профессиональные фотографии",
+      "correctAnswer": "She got her photos taken professionally",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "They",
+          "Her"
+        ],
+        [
+          "got",
+          "get",
+          "had",
+          "was",
+          "gets"
+        ],
+        [
+          "her",
+          "his",
+          "my",
+          "the",
+          "she"
+        ],
+        [
+          "photos",
+          "pictures",
+          "portraits",
+          "shots"
+        ],
+        [
+          "taken",
+          "take",
+          "taking",
+          "took"
+        ],
+        [
+          "professionally",
+          "professional",
+          "professionally",
+          "perfect"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_12_causative/016.mp3"
+    },
+    {
+      "id": "t12_18",
+      "type": "sentenceAssembly",
+      "question": "У него угнали машину",
+      "correctAnswer": "He had his car stolen",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "I",
+          "They",
+          "Him"
+        ],
+        [
+          "had",
+          "have",
+          "got",
+          "was",
+          "has"
+        ],
+        [
+          "his",
+          "her",
+          "my",
+          "the",
+          "him"
+        ],
+        [
+          "car",
+          "bike",
+          "van",
+          "truck"
+        ],
+        [
+          "stolen",
+          "steal",
+          "stole",
+          "stealing",
+          "stealed"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_12_causative/017.mp3"
+    },
+    {
+      "id": "t12_19",
+      "type": "sentenceAssembly",
+      "question": "Мне подогнали платье по фигуре",
+      "correctAnswer": "I got the dress tailored",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We",
+          "Me"
+        ],
+        [
+          "got",
+          "get",
+          "had",
+          "was",
+          "gets"
+        ],
+        [
+          "the",
+          "a",
+          "my",
+          "this"
+        ],
+        [
+          "dress",
+          "suit",
+          "jacket",
+          "shirt"
+        ],
+        [
+          "tailored",
+          "tailor",
+          "tailoring",
+          "sewn",
+          "fitted"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_12_causative/018.mp3"
+    },
+    {
+      "id": "t12_20",
+      "type": "sentenceAssembly",
+      "question": "Нам заменили окна в доме",
+      "correctAnswer": "We had the windows replaced in our house",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "I",
+          "He",
+          "Us"
+        ],
+        [
+          "had",
+          "have",
+          "got",
+          "were",
+          "has"
+        ],
+        [
+          "the",
+          "our",
+          "some",
+          "all"
+        ],
+        [
+          "windows",
+          "doors",
+          "pipes",
+          "walls"
+        ],
+        [
+          "replaced",
+          "replace",
+          "replacing",
+          "replaces"
+        ],
+        [
+          "in",
+          "at",
+          "on",
+          "by"
+        ],
+        [
+          "our",
+          "the",
+          "my",
+          "their"
+        ],
+        [
+          "house",
+          "flat",
+          "office",
+          "building"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_12_causative/019.mp3"
+    },
+    {
+      "id": "t12_21",
+      "type": "sentenceAssembly",
+      "question": "Я хочу, чтобы мне починили ноутбук",
+      "correctAnswer": "I want to get my laptop fixed",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We",
+          "Me"
+        ],
+        [
+          "want",
+          "need",
+          "wish",
+          "plan",
+          "wants"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "a"
+        ],
+        [
+          "get",
+          "got",
+          "have",
+          "had",
+          "getting"
+        ],
+        [
+          "my",
+          "his",
+          "her",
+          "the"
+        ],
+        [
+          "laptop",
+          "phone",
+          "tablet",
+          "computer"
+        ],
+        [
+          "fixed",
+          "fix",
+          "fixing",
+          "fixes"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_12_causative/020.mp3"
+    },
+    {
+      "id": "t12_22",
+      "type": "sentenceAssembly",
+      "question": "Ему нужно проверить зубы",
+      "correctAnswer": "He needs to have his teeth checked",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "I",
+          "They",
+          "Him"
+        ],
+        [
+          "needs",
+          "need",
+          "wanted",
+          "has",
+          "must"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "a"
+        ],
+        [
+          "have",
+          "get",
+          "had",
+          "got",
+          "having"
+        ],
+        [
+          "his",
+          "her",
+          "my",
+          "the",
+          "him"
+        ],
+        [
+          "teeth",
+          "eyes",
+          "ears",
+          "blood"
+        ],
+        [
+          "checked",
+          "check",
+          "checking",
+          "checks"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_12_causative/021.mp3"
+    },
+    {
+      "id": "t12_23",
+      "type": "sentenceAssembly",
+      "question": "Мы собираемся покрасить забор",
+      "correctAnswer": "We are going to have the fence painted",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "I",
+          "He"
+        ],
+        [
+          "are",
+          "is",
+          "was",
+          "were"
+        ],
+        [
+          "going",
+          "gone",
+          "go",
+          "goes"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "have",
+          "get",
+          "had",
+          "got"
+        ],
+        [
+          "the",
+          "our",
+          "a",
+          "this"
+        ],
+        [
+          "fence",
+          "wall",
+          "gate",
+          "roof"
+        ],
+        [
+          "painted",
+          "paint",
+          "painting",
+          "paints"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_12_causative/022.mp3"
+    },
+    {
+      "id": "t12_24",
+      "type": "sentenceAssembly",
+      "question": "Она уже подстриглась",
+      "correctAnswer": "She has already had her hair cut",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "They",
+          "Her"
+        ],
+        [
+          "has",
+          "had",
+          "have",
+          "is",
+          "was"
+        ],
+        [
+          "already",
+          "just",
+          "yet",
+          "still"
+        ],
+        [
+          "had",
+          "have",
+          "got",
+          "been",
+          "get"
+        ],
+        [
+          "her",
+          "his",
+          "my",
+          "the",
+          "she"
+        ],
+        [
+          "hair",
+          "nails",
+          "face",
+          "head"
+        ],
+        [
+          "cut",
+          "cuts",
+          "cutting",
+          "cutted"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_12_causative/023.mp3"
+    },
+    {
+      "id": "t12_25",
+      "type": "sentenceAssembly",
+      "question": "Им только что доставили мебель",
+      "correctAnswer": "They have just had the furniture delivered",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "We",
+          "I",
+          "He",
+          "Them"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "are",
+          "were"
+        ],
+        [
+          "just",
+          "already",
+          "yet",
+          "still"
+        ],
+        [
+          "had",
+          "have",
+          "got",
+          "been"
+        ],
+        [
+          "the",
+          "their",
+          "some",
+          "a"
+        ],
+        [
+          "furniture",
+          "package",
+          "order",
+          "goods"
+        ],
+        [
+          "delivered",
+          "deliver",
+          "delivering",
+          "delivers"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_12_causative/024.mp3"
+    },
+    {
+      "id": "t12_26",
+      "type": "sentenceAssembly",
+      "question": "Завтра мне установят кондиционер",
+      "correctAnswer": "I will have the air conditioner installed tomorrow",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We",
+          "Me"
+        ],
+        [
+          "will",
+          "would",
+          "shall",
+          "can"
+        ],
+        [
+          "have",
+          "get",
+          "had",
+          "got"
+        ],
+        [
+          "the",
+          "a",
+          "my",
+          "an"
+        ],
+        [
+          "air",
+          "new",
+          "old",
+          "big"
+        ],
+        [
+          "conditioner",
+          "heater",
+          "system",
+          "unit"
+        ],
+        [
+          "installed",
+          "install",
+          "installing",
+          "installs"
+        ],
+        [
+          "tomorrow",
+          "today",
+          "soon",
+          "later"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_12_causative/025.mp3"
+    },
+    {
+      "id": "t12_27",
+      "type": "sentenceAssembly",
+      "question": "Ему недавно отремонтировали крышу",
+      "correctAnswer": "He recently had his roof repaired",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "I",
+          "They",
+          "Him"
+        ],
+        [
+          "recently",
+          "already",
+          "just",
+          "lately"
+        ],
+        [
+          "had",
+          "has",
+          "have",
+          "got",
+          "was"
+        ],
+        [
+          "his",
+          "her",
+          "my",
+          "the",
+          "him"
+        ],
+        [
+          "roof",
+          "fence",
+          "wall",
+          "floor"
+        ],
+        [
+          "repaired",
+          "repair",
+          "repairing",
+          "repairs"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_12_causative/026.mp3"
+    },
+    {
+      "id": "t12_28",
+      "type": "sentenceAssembly",
+      "question": "Вы когда-нибудь делали профессиональный массаж?",
+      "correctAnswer": "Have you ever had a professional massage done",
+      "options": [],
+      "variants": [
+        [
+          "Have",
+          "Has",
+          "Did",
+          "Do",
+          "Had"
+        ],
+        [
+          "you",
+          "he",
+          "she",
+          "they"
+        ],
+        [
+          "ever",
+          "never",
+          "always",
+          "already"
+        ],
+        [
+          "had",
+          "have",
+          "got",
+          "been"
+        ],
+        [
+          "a",
+          "the",
+          "an",
+          "your"
+        ],
+        [
+          "professional",
+          "special",
+          "good",
+          "nice"
+        ],
+        [
+          "massage",
+          "haircut",
+          "checkup",
+          "treatment"
+        ],
+        [
+          "done",
+          "do",
+          "doing",
+          "did"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_12_causative/027.mp3"
+    },
+    {
+      "id": "t12_29",
+      "type": "sentenceAssembly",
+      "question": "Я сейчас ремонтирую кухню (кто-то для меня)",
+      "correctAnswer": "I am having my kitchen renovated now",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We",
+          "Me"
+        ],
+        [
+          "am",
+          "is",
+          "are",
+          "was",
+          "were"
+        ],
+        [
+          "having",
+          "have",
+          "had",
+          "getting"
+        ],
+        [
+          "my",
+          "his",
+          "her",
+          "the",
+          "a"
+        ],
+        [
+          "kitchen",
+          "bathroom",
+          "bedroom",
+          "garden"
+        ],
+        [
+          "renovated",
+          "renovate",
+          "renovating",
+          "renovation"
+        ],
+        [
+          "now",
+          "today",
+          "soon",
+          "already"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_12_causative/028.mp3"
+    },
+    {
+      "id": "t12_30",
+      "type": "sentenceAssembly",
+      "question": "Она не может позволить себе починить машину",
+      "correctAnswer": "She cannot afford to have her car repaired",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "They",
+          "Her"
+        ],
+        [
+          "cannot",
+          "can",
+          "could",
+          "will",
+          "must"
+        ],
+        [
+          "afford",
+          "effort",
+          "allow",
+          "manage"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "have",
+          "get",
+          "had",
+          "got",
+          "having"
+        ],
+        [
+          "her",
+          "his",
+          "my",
+          "the",
+          "she"
+        ],
+        [
+          "car",
+          "phone",
+          "laptop",
+          "bike"
+        ],
+        [
+          "repaired",
+          "repair",
+          "repairing",
+          "repairs"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_12_causative/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionUpperIntermediate12Causative"
+}

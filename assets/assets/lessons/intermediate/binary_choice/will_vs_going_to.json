@@ -1,0 +1,400 @@
+{
+  "id": "intermediate_bc_03_future_simple",
+  "title": "Will vs Going to",
+  "description": "Will или Going to? Спонтанное решение или уже запланировано — решай мгновенно.",
+  "order": 5,
+  "level": "intermediate",
+  "imageUrl": null,
+  "tasks": [
+    {
+      "id": "wvg_1",
+      "question": "I ___ help you with that.",
+      "optionA": "WILL",
+      "optionB": "GOING TO",
+      "correctIndex": 0,
+      "explanation": "Спонтанное решение помочь прямо сейчас — will.",
+      "tags": [
+        "will_vs_going_to",
+        "will",
+        "daily_life"
+      ]
+    },
+    {
+      "id": "wvg_2",
+      "question": "We are ___ visit London next month.",
+      "optionA": "WILL",
+      "optionB": "GOING TO",
+      "correctIndex": 1,
+      "explanation": "Запланированное заранее путешествие — going to.",
+      "tags": [
+        "will_vs_going_to",
+        "going_to",
+        "travel"
+      ]
+    },
+    {
+      "id": "wvg_3",
+      "question": "I think it ___ rain tomorrow.",
+      "optionA": "WILL",
+      "optionB": "GOING TO",
+      "correctIndex": 0,
+      "explanation": "Предположение (I think) — will.",
+      "tags": [
+        "will_vs_going_to",
+        "will",
+        "weather"
+      ]
+    },
+    {
+      "id": "wvg_4",
+      "question": "Look at those clouds! It is ___ rain.",
+      "optionA": "WILL",
+      "optionB": "GOING TO",
+      "correctIndex": 1,
+      "explanation": "Очевидные признаки (тучи) — going to.",
+      "tags": [
+        "will_vs_going_to",
+        "going_to",
+        "weather"
+      ]
+    },
+    {
+      "id": "wvg_5",
+      "question": "I ___ open the window for you.",
+      "optionA": "WILL",
+      "optionB": "GOING TO",
+      "correctIndex": 0,
+      "explanation": "Спонтанное предложение помощи — will.",
+      "tags": [
+        "will_vs_going_to",
+        "will",
+        "daily_life"
+      ]
+    },
+    {
+      "id": "wvg_6",
+      "question": "She is ___ start a new course.",
+      "optionA": "WILL",
+      "optionB": "GOING TO",
+      "correctIndex": 1,
+      "explanation": "Намерение, принятое заранее — going to.",
+      "tags": [
+        "will_vs_going_to",
+        "going_to",
+        "school"
+      ]
+    },
+    {
+      "id": "wvg_7",
+      "question": "I promise I ___ be on time.",
+      "optionA": "WILL",
+      "optionB": "GOING TO",
+      "correctIndex": 0,
+      "explanation": "Обещание — всегда will.",
+      "tags": [
+        "will_vs_going_to",
+        "will",
+        "communication"
+      ]
+    },
+    {
+      "id": "wvg_8",
+      "question": "They are ___ move to a new flat.",
+      "optionA": "WILL",
+      "optionB": "GOING TO",
+      "correctIndex": 1,
+      "explanation": "Решение принято заранее — going to.",
+      "tags": [
+        "will_vs_going_to",
+        "going_to",
+        "home"
+      ]
+    },
+    {
+      "id": "wvg_9",
+      "question": "I ___ probably be late tonight.",
+      "optionA": "WILL",
+      "optionB": "GOING TO",
+      "correctIndex": 0,
+      "explanation": "Предположение с probably — will.",
+      "tags": [
+        "will_vs_going_to",
+        "will",
+        "daily_life"
+      ]
+    },
+    {
+      "id": "wvg_10",
+      "question": "He is ___ cook dinner for us.",
+      "optionA": "WILL",
+      "optionB": "GOING TO",
+      "correctIndex": 1,
+      "explanation": "План, который уже решён — going to.",
+      "tags": [
+        "will_vs_going_to",
+        "going_to",
+        "food"
+      ]
+    },
+    {
+      "id": "wvg_11",
+      "question": "Don't worry, I ___ fix it.",
+      "optionA": "WILL",
+      "optionB": "GOING TO",
+      "correctIndex": 0,
+      "explanation": "Спонтанное предложение — will.",
+      "tags": [
+        "will_vs_going_to",
+        "will",
+        "daily_life"
+      ]
+    },
+    {
+      "id": "wvg_12",
+      "question": "We are ___ have a baby!",
+      "optionA": "WILL",
+      "optionB": "GOING TO",
+      "correctIndex": 1,
+      "explanation": "Факт, основанный на текущей ситуации — going to.",
+      "tags": [
+        "will_vs_going_to",
+        "going_to",
+        "family"
+      ]
+    },
+    {
+      "id": "wvg_13",
+      "question": "I ___ call you back in five minutes.",
+      "optionA": "WILL",
+      "optionB": "GOING TO",
+      "correctIndex": 0,
+      "explanation": "Спонтанное обещание перезвонить — will.",
+      "tags": [
+        "will_vs_going_to",
+        "will",
+        "communication"
+      ]
+    },
+    {
+      "id": "wvg_14",
+      "question": "She is ___ quit her job next week.",
+      "optionA": "WILL",
+      "optionB": "GOING TO",
+      "correctIndex": 1,
+      "explanation": "Решение уже принято — going to.",
+      "tags": [
+        "will_vs_going_to",
+        "going_to",
+        "work"
+      ]
+    },
+    {
+      "id": "wvg_15",
+      "question": "That bag looks heavy. I ___ carry it.",
+      "optionA": "WILL",
+      "optionB": "GOING TO",
+      "correctIndex": 0,
+      "explanation": "Спонтанное предложение помочь — will.",
+      "tags": [
+        "will_vs_going_to",
+        "will",
+        "daily_life"
+      ]
+    },
+    {
+      "id": "wvg_16",
+      "question": "I am ___ learn to drive this year.",
+      "optionA": "WILL",
+      "optionB": "GOING TO",
+      "correctIndex": 1,
+      "explanation": "Намерение, запланированное заранее — going to.",
+      "tags": [
+        "will_vs_going_to",
+        "going_to",
+        "plans"
+      ]
+    },
+    {
+      "id": "wvg_17",
+      "question": "I think she ___ love this gift.",
+      "optionA": "WILL",
+      "optionB": "GOING TO",
+      "correctIndex": 0,
+      "explanation": "Предположение (I think) — will.",
+      "tags": [
+        "will_vs_going_to",
+        "will",
+        "social"
+      ]
+    },
+    {
+      "id": "wvg_18",
+      "question": "He is ___ paint the room blue.",
+      "optionA": "WILL",
+      "optionB": "GOING TO",
+      "correctIndex": 1,
+      "explanation": "План, решённый заранее — going to.",
+      "tags": [
+        "will_vs_going_to",
+        "going_to",
+        "home"
+      ]
+    },
+    {
+      "id": "wvg_19",
+      "question": "I ___ never forget this moment.",
+      "optionA": "WILL",
+      "optionB": "GOING TO",
+      "correctIndex": 0,
+      "explanation": "Спонтанное утверждение, не план — will.",
+      "tags": [
+        "will_vs_going_to",
+        "will",
+        "emotions"
+      ]
+    },
+    {
+      "id": "wvg_20",
+      "question": "Look! That tree is ___ fall down!",
+      "optionA": "WILL",
+      "optionB": "GOING TO",
+      "correctIndex": 1,
+      "explanation": "Очевидные признаки того, что вот-вот произойдёт — going to.",
+      "tags": [
+        "will_vs_going_to",
+        "going_to",
+        "daily_life"
+      ]
+    },
+    {
+      "id": "wvg_21",
+      "question": "Maybe I ___ take a day off Friday.",
+      "optionA": "WILL",
+      "optionB": "GOING TO",
+      "correctIndex": 0,
+      "explanation": "Maybe — неуверенность, спонтанная мысль — will.",
+      "tags": [
+        "will_vs_going_to",
+        "will",
+        "work"
+      ]
+    },
+    {
+      "id": "wvg_22",
+      "question": "We are ___ fly to Rome on Saturday.",
+      "optionA": "WILL",
+      "optionB": "GOING TO",
+      "correctIndex": 1,
+      "explanation": "Заранее купленные билеты, чёткий план — going to.",
+      "tags": [
+        "will_vs_going_to",
+        "going_to",
+        "travel"
+      ]
+    },
+    {
+      "id": "wvg_23",
+      "question": "I'm sure he ___ understand the problem.",
+      "optionA": "WILL",
+      "optionB": "GOING TO",
+      "correctIndex": 0,
+      "explanation": "I'm sure — предсказание, основанное на мнении — will.",
+      "tags": [
+        "will_vs_going_to",
+        "will",
+        "communication"
+      ]
+    },
+    {
+      "id": "wvg_24",
+      "question": "She is ___ apply for that position.",
+      "optionA": "WILL",
+      "optionB": "GOING TO",
+      "correctIndex": 1,
+      "explanation": "Намерение, решённое заранее — going to.",
+      "tags": [
+        "will_vs_going_to",
+        "going_to",
+        "work"
+      ]
+    },
+    {
+      "id": "wvg_25",
+      "question": "I ___ have the steak, please.",
+      "optionA": "WILL",
+      "optionB": "GOING TO",
+      "correctIndex": 0,
+      "explanation": "Решение принято в момент заказа — will.",
+      "tags": [
+        "will_vs_going_to",
+        "will",
+        "food"
+      ]
+    },
+    {
+      "id": "wvg_26",
+      "question": "They are ___ sell their old car soon.",
+      "optionA": "WILL",
+      "optionB": "GOING TO",
+      "correctIndex": 1,
+      "explanation": "План, уже обдуманный — going to.",
+      "tags": [
+        "will_vs_going_to",
+        "going_to",
+        "daily_life"
+      ]
+    },
+    {
+      "id": "wvg_27",
+      "question": "One day, people ___ live on Mars.",
+      "optionA": "WILL",
+      "optionB": "GOING TO",
+      "correctIndex": 0,
+      "explanation": "Предсказание без доказательств — will.",
+      "tags": [
+        "will_vs_going_to",
+        "will",
+        "future"
+      ]
+    },
+    {
+      "id": "wvg_28",
+      "question": "Be careful! You are ___ spill the coffee!",
+      "optionA": "WILL",
+      "optionB": "GOING TO",
+      "correctIndex": 1,
+      "explanation": "Очевидные признаки — вот-вот случится — going to.",
+      "tags": [
+        "will_vs_going_to",
+        "going_to",
+        "daily_life"
+      ]
+    },
+    {
+      "id": "wvg_29",
+      "question": "I believe things ___ get better soon.",
+      "optionA": "WILL",
+      "optionB": "GOING TO",
+      "correctIndex": 0,
+      "explanation": "I believe — предсказание на основе мнения — will.",
+      "tags": [
+        "will_vs_going_to",
+        "will",
+        "emotions"
+      ]
+    },
+    {
+      "id": "wvg_30",
+      "question": "We are ___ renovate the kitchen in March.",
+      "optionA": "WILL",
+      "optionB": "GOING TO",
+      "correctIndex": 1,
+      "explanation": "Конкретный план с датой — going to.",
+      "tags": [
+        "will_vs_going_to",
+        "going_to",
+        "home"
+      ]
+    }
+  ]
+}

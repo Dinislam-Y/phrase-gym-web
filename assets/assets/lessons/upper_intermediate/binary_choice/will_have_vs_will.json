@@ -1,0 +1,400 @@
+{
+  "id": "upper_bc_02_future_perfect",
+  "title": "Will Have vs Will",
+  "description": "Future Perfect или Future Simple? Разберёмся, когда действие завершится к моменту в будущем, а когда — просто произойдёт.",
+  "order": 2,
+  "level": "upper_intermediate",
+  "imageUrl": null,
+  "tasks": [
+    {
+      "id": "whvw_1",
+      "question": "By Friday, she ___ made her decision.",
+      "optionA": "WILL HAVE",
+      "optionB": "WILL",
+      "correctIndex": 0,
+      "explanation": "By Friday указывает на завершённость действия к определённому моменту — это Future Perfect. Решение будет уже принято к пятнице.",
+      "tags": [
+        "will_have_vs_will",
+        "will_have",
+        "career"
+      ]
+    },
+    {
+      "id": "whvw_2",
+      "question": "I ___ support you no matter what.",
+      "optionA": "WILL HAVE",
+      "optionB": "WILL",
+      "correctIndex": 1,
+      "explanation": "Это обещание на будущее без привязки к конкретному сроку — Future Simple. Нет маркера завершённости, просто намерение.",
+      "tags": [
+        "will_have_vs_will",
+        "will",
+        "relationships"
+      ]
+    },
+    {
+      "id": "whvw_3",
+      "question": "By then, we ___ known each other ten years.",
+      "optionA": "WILL HAVE",
+      "optionB": "WILL",
+      "correctIndex": 0,
+      "explanation": "By then — маркер завершённости к моменту в будущем. К тому времени знакомство уже будет длиться десять лет.",
+      "tags": [
+        "will_have_vs_will",
+        "will_have",
+        "relationships"
+      ]
+    },
+    {
+      "id": "whvw_4",
+      "question": "He ___ probably change his mind again.",
+      "optionA": "WILL HAVE",
+      "optionB": "WILL",
+      "correctIndex": 1,
+      "explanation": "Probably — маркер предположения, а не завершённости. Это простой прогноз на будущее, Future Simple.",
+      "tags": [
+        "will_have_vs_will",
+        "will",
+        "opinions"
+      ]
+    },
+    {
+      "id": "whvw_5",
+      "question": "By tomorrow, they ___ resolved the conflict.",
+      "optionA": "WILL HAVE",
+      "optionB": "WILL",
+      "correctIndex": 0,
+      "explanation": "By tomorrow показывает, что к завтрашнему дню конфликт уже будет решён. Действие завершится до указанного момента — Future Perfect.",
+      "tags": [
+        "will_have_vs_will",
+        "will_have",
+        "relationships"
+      ]
+    },
+    {
+      "id": "whvw_6",
+      "question": "She ___ never forgive him for that.",
+      "optionA": "WILL HAVE",
+      "optionB": "WILL",
+      "correctIndex": 1,
+      "explanation": "Это эмоциональное предсказание без ограничения по времени. Нет привязки к сроку завершения — используем Future Simple.",
+      "tags": [
+        "will_have_vs_will",
+        "will",
+        "relationships"
+      ]
+    },
+    {
+      "id": "whvw_7",
+      "question": "By graduation, I ___ completed all my courses.",
+      "optionA": "WILL HAVE",
+      "optionB": "WILL",
+      "correctIndex": 0,
+      "explanation": "By graduation — дедлайн, к которому всё будет завершено. Курсы будут пройдены до выпуска — это Future Perfect.",
+      "tags": [
+        "will_have_vs_will",
+        "will_have",
+        "career"
+      ]
+    },
+    {
+      "id": "whvw_8",
+      "question": "I think he ___ regret this choice.",
+      "optionA": "WILL HAVE",
+      "optionB": "WILL",
+      "correctIndex": 1,
+      "explanation": "I think — маркер личного мнения и прогноза. Нет указания на завершённость к сроку, просто предположение — Future Simple.",
+      "tags": [
+        "will_have_vs_will",
+        "will",
+        "opinions"
+      ]
+    },
+    {
+      "id": "whvw_9",
+      "question": "By next month, she ___ left the company.",
+      "optionA": "WILL HAVE",
+      "optionB": "WILL",
+      "correctIndex": 0,
+      "explanation": "By next month — крайний срок в будущем. К следующему месяцу увольнение уже состоится — Future Perfect.",
+      "tags": [
+        "will_have_vs_will",
+        "will_have",
+        "career"
+      ]
+    },
+    {
+      "id": "whvw_10",
+      "question": "This ___ teach him a valuable lesson.",
+      "optionA": "WILL HAVE",
+      "optionB": "WILL",
+      "correctIndex": 1,
+      "explanation": "Простое предсказание о будущем результате без временной рамки. Нет маркера завершённости — Future Simple.",
+      "tags": [
+        "will_have_vs_will",
+        "will",
+        "life_plans"
+      ]
+    },
+    {
+      "id": "whvw_11",
+      "question": "Before you know it, I ___ earned my degree.",
+      "optionA": "WILL HAVE",
+      "optionB": "WILL",
+      "correctIndex": 0,
+      "explanation": "Before you know it подразумевает, что к моменту осознания действие уже завершится. Это классический контекст для Future Perfect.",
+      "tags": [
+        "will_have_vs_will",
+        "will_have",
+        "career"
+      ]
+    },
+    {
+      "id": "whvw_12",
+      "question": "One day, she ___ understand my point.",
+      "optionA": "WILL HAVE",
+      "optionB": "WILL",
+      "correctIndex": 1,
+      "explanation": "One day — неопределённый момент в будущем, а не дедлайн. Это надежда, а не завершённость к сроку — Future Simple.",
+      "tags": [
+        "will_have_vs_will",
+        "will",
+        "opinions"
+      ]
+    },
+    {
+      "id": "whvw_13",
+      "question": "By the time he apologizes, she ___ moved on.",
+      "optionA": "WILL HAVE",
+      "optionB": "WILL",
+      "correctIndex": 0,
+      "explanation": "By the time — мощный маркер Future Perfect. К моменту его извинений она уже пойдёт дальше.",
+      "tags": [
+        "will_have_vs_will",
+        "will_have",
+        "relationships"
+      ]
+    },
+    {
+      "id": "whvw_14",
+      "question": "I promise I ___ always stand by you.",
+      "optionA": "WILL HAVE",
+      "optionB": "WILL",
+      "correctIndex": 1,
+      "explanation": "I promise — маркер обещания, а не завершённого действия. Обещания строятся с Future Simple.",
+      "tags": [
+        "will_have_vs_will",
+        "will",
+        "relationships"
+      ]
+    },
+    {
+      "id": "whvw_15",
+      "question": "By our anniversary, we ___ saved enough money.",
+      "optionA": "WILL HAVE",
+      "optionB": "WILL",
+      "correctIndex": 0,
+      "explanation": "By our anniversary — конкретная точка в будущем, к которой накопление завершится. Future Perfect подчёркивает результат к сроку.",
+      "tags": [
+        "will_have_vs_will",
+        "will_have",
+        "life_plans"
+      ]
+    },
+    {
+      "id": "whvw_16",
+      "question": "Trust me, everything ___ work out fine.",
+      "optionA": "WILL HAVE",
+      "optionB": "WILL",
+      "correctIndex": 1,
+      "explanation": "Это утешение и общий прогноз без временной рамки. Нет дедлайна — используем Future Simple.",
+      "tags": [
+        "will_have_vs_will",
+        "will",
+        "opinions"
+      ]
+    },
+    {
+      "id": "whvw_17",
+      "question": "By retirement, he ___ built a strong reputation.",
+      "optionA": "WILL HAVE",
+      "optionB": "WILL",
+      "correctIndex": 0,
+      "explanation": "By retirement — дедлайн в будущем. К пенсии репутация уже будет построена — это завершённый результат, Future Perfect.",
+      "tags": [
+        "will_have_vs_will",
+        "will_have",
+        "career"
+      ]
+    },
+    {
+      "id": "whvw_18",
+      "question": "She ___ eventually see the bigger picture.",
+      "optionA": "WILL HAVE",
+      "optionB": "WILL",
+      "correctIndex": 1,
+      "explanation": "Eventually — когда-нибудь, без чёткого дедлайна. Это прогноз, а не результат к сроку — Future Simple.",
+      "tags": [
+        "will_have_vs_will",
+        "will",
+        "opinions"
+      ]
+    },
+    {
+      "id": "whvw_19",
+      "question": "By that point, they ___ gone their separate ways.",
+      "optionA": "WILL HAVE",
+      "optionB": "WILL",
+      "correctIndex": 0,
+      "explanation": "By that point — маркер завершённости к определённому моменту. К тому моменту они уже разойдутся — Future Perfect.",
+      "tags": [
+        "will_have_vs_will",
+        "will_have",
+        "relationships"
+      ]
+    },
+    {
+      "id": "whvw_20",
+      "question": "I ___ do whatever it takes to succeed.",
+      "optionA": "WILL HAVE",
+      "optionB": "WILL",
+      "correctIndex": 1,
+      "explanation": "Это решимость и намерение, а не результат к сроку. Волевое решение — классический контекст Future Simple.",
+      "tags": [
+        "will_have_vs_will",
+        "will",
+        "career"
+      ]
+    },
+    {
+      "id": "whvw_21",
+      "question": "By the deadline, I ___ proven myself worthy.",
+      "optionA": "WILL HAVE",
+      "optionB": "WILL",
+      "correctIndex": 0,
+      "explanation": "By the deadline — жёсткий дедлайн, к которому результат будет достигнут. Future Perfect показывает завершённость к этому моменту.",
+      "tags": [
+        "will_have_vs_will",
+        "will_have",
+        "career"
+      ]
+    },
+    {
+      "id": "whvw_22",
+      "question": "People ___ always judge what they don't understand.",
+      "optionA": "WILL HAVE",
+      "optionB": "WILL",
+      "correctIndex": 1,
+      "explanation": "Это общая истина о будущем поведении людей. Нет временного ограничения или дедлайна — Future Simple.",
+      "tags": [
+        "will_have_vs_will",
+        "will",
+        "opinions"
+      ]
+    },
+    {
+      "id": "whvw_23",
+      "question": "Before long, she ___ forgotten all about it.",
+      "optionA": "WILL HAVE",
+      "optionB": "WILL",
+      "correctIndex": 0,
+      "explanation": "Before long подразумевает, что действие завершится раньше ожидаемого момента. Забывание произойдёт до — это Future Perfect.",
+      "tags": [
+        "will_have_vs_will",
+        "will_have",
+        "relationships"
+      ]
+    },
+    {
+      "id": "whvw_24",
+      "question": "Someday this ___ all make perfect sense.",
+      "optionA": "WILL HAVE",
+      "optionB": "WILL",
+      "correctIndex": 1,
+      "explanation": "Someday — неопределённый момент без дедлайна. Это философское предсказание, а не результат к сроку — Future Simple.",
+      "tags": [
+        "will_have_vs_will",
+        "will",
+        "life_plans"
+      ]
+    },
+    {
+      "id": "whvw_25",
+      "question": "By then, I ___ already burned all my bridges.",
+      "optionA": "WILL HAVE",
+      "optionB": "WILL",
+      "correctIndex": 0,
+      "explanation": "By then + already — двойной маркер Future Perfect. К тому моменту мосты уже будут сожжены — идиома в контексте завершённости.",
+      "tags": [
+        "will_have_vs_will",
+        "will_have",
+        "idioms"
+      ]
+    },
+    {
+      "id": "whvw_26",
+      "question": "He ___ cross that bridge when he comes.",
+      "optionA": "WILL HAVE",
+      "optionB": "WILL",
+      "correctIndex": 1,
+      "explanation": "Идиома «cross that bridge when you come to it» — решим проблему, когда она возникнет. Это будущее действие, а не завершённое — Future Simple.",
+      "tags": [
+        "will_have_vs_will",
+        "will",
+        "idioms"
+      ]
+    },
+    {
+      "id": "whvw_27",
+      "question": "By the time we meet, I ___ changed completely.",
+      "optionA": "WILL HAVE",
+      "optionB": "WILL",
+      "correctIndex": 0,
+      "explanation": "By the time — классический маркер Future Perfect. К моменту встречи изменения уже произойдут.",
+      "tags": [
+        "will_have_vs_will",
+        "will_have",
+        "relationships"
+      ]
+    },
+    {
+      "id": "whvw_28",
+      "question": "Life ___ throw you curveballs no matter what.",
+      "optionA": "WILL HAVE",
+      "optionB": "WILL",
+      "correctIndex": 1,
+      "explanation": "Это общее утверждение о жизни без привязки к дедлайну. Жизнь будет подбрасывать сюрпризы — простой прогноз, Future Simple.",
+      "tags": [
+        "will_have_vs_will",
+        "will",
+        "life_plans"
+      ]
+    },
+    {
+      "id": "whvw_29",
+      "question": "By next year, she ___ turned over a new leaf.",
+      "optionA": "WILL HAVE",
+      "optionB": "WILL",
+      "correctIndex": 0,
+      "explanation": "By next year — дедлайн в будущем, к которому перемена уже случится. Идиома «turn over a new leaf» + Future Perfect.",
+      "tags": [
+        "will_have_vs_will",
+        "will_have",
+        "idioms"
+      ]
+    },
+    {
+      "id": "whvw_30",
+      "question": "In the end, the truth ___ always come out.",
+      "optionA": "WILL HAVE",
+      "optionB": "WILL",
+      "correctIndex": 1,
+      "explanation": "In the end — это не дедлайн, а философское «в конечном итоге». Общая истина о будущем — Future Simple.",
+      "tags": [
+        "will_have_vs_will",
+        "will",
+        "opinions"
+      ]
+    }
+  ]
+}

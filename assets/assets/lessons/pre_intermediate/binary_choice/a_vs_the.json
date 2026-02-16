@@ -1,0 +1,400 @@
+{
+  "id": "pre_bc_11_articles",
+  "title": "A vs The",
+  "description": "A или The? Разбираемся с артиклями раз и навсегда.",
+  "order": 8,
+  "level": "pre_intermediate",
+  "imageUrl": null,
+  "tasks": [
+    {
+      "id": "avt_1",
+      "question": "I have ___ cat.",
+      "optionA": "A",
+      "optionB": "THE",
+      "correctIndex": 0,
+      "explanation": "Первое упоминание кота, поэтому a.",
+      "tags": [
+        "a_vs_the",
+        "a",
+        "home"
+      ]
+    },
+    {
+      "id": "avt_2",
+      "question": "___ sun is bright.",
+      "optionA": "A",
+      "optionB": "THE",
+      "correctIndex": 1,
+      "explanation": "Солнце уникально, поэтому the.",
+      "tags": [
+        "a_vs_the",
+        "the",
+        "nature"
+      ]
+    },
+    {
+      "id": "avt_3",
+      "question": "She is ___ teacher.",
+      "optionA": "A",
+      "optionB": "THE",
+      "correctIndex": 0,
+      "explanation": "Одна из многих учителей, поэтому a.",
+      "tags": [
+        "a_vs_the",
+        "a",
+        "work"
+      ]
+    },
+    {
+      "id": "avt_4",
+      "question": "Open ___ window please.",
+      "optionA": "A",
+      "optionB": "THE",
+      "correctIndex": 1,
+      "explanation": "Конкретное окно в комнате, поэтому the.",
+      "tags": [
+        "a_vs_the",
+        "the",
+        "home"
+      ]
+    },
+    {
+      "id": "avt_5",
+      "question": "I need ___ pen.",
+      "optionA": "A",
+      "optionB": "THE",
+      "correctIndex": 0,
+      "explanation": "Любая ручка подойдет, поэтому a.",
+      "tags": [
+        "a_vs_the",
+        "a",
+        "school"
+      ]
+    },
+    {
+      "id": "avt_6",
+      "question": "___ moon is beautiful tonight.",
+      "optionA": "A",
+      "optionB": "THE",
+      "correctIndex": 1,
+      "explanation": "Луна единственная, поэтому the.",
+      "tags": [
+        "a_vs_the",
+        "the",
+        "nature"
+      ]
+    },
+    {
+      "id": "avt_7",
+      "question": "He has ___ dog.",
+      "optionA": "A",
+      "optionB": "THE",
+      "correctIndex": 0,
+      "explanation": "Первое упоминание собаки, поэтому a.",
+      "tags": [
+        "a_vs_the",
+        "a",
+        "home"
+      ]
+    },
+    {
+      "id": "avt_8",
+      "question": "Close ___ door please.",
+      "optionA": "A",
+      "optionB": "THE",
+      "correctIndex": 1,
+      "explanation": "Конкретная дверь известна, поэтому the.",
+      "tags": [
+        "a_vs_the",
+        "the",
+        "home"
+      ]
+    },
+    {
+      "id": "avt_9",
+      "question": "I want ___ apple.",
+      "optionA": "A",
+      "optionB": "THE",
+      "correctIndex": 0,
+      "explanation": "Любое яблоко, не конкретное, поэтому a.",
+      "tags": [
+        "a_vs_the",
+        "a",
+        "food"
+      ]
+    },
+    {
+      "id": "avt_10",
+      "question": "___ sky is blue.",
+      "optionA": "A",
+      "optionB": "THE",
+      "correctIndex": 1,
+      "explanation": "Небо уникально, поэтому the.",
+      "tags": [
+        "a_vs_the",
+        "the",
+        "nature"
+      ]
+    },
+    {
+      "id": "avt_11",
+      "question": "This is ___ best day.",
+      "optionA": "A",
+      "optionB": "THE",
+      "correctIndex": 1,
+      "explanation": "С превосходной степенью всегда the.",
+      "tags": [
+        "a_vs_the",
+        "the",
+        "superlative"
+      ]
+    },
+    {
+      "id": "avt_12",
+      "question": "I see ___ bird.",
+      "optionA": "A",
+      "optionB": "THE",
+      "correctIndex": 0,
+      "explanation": "Первое упоминание птицы, поэтому a.",
+      "tags": [
+        "a_vs_the",
+        "a",
+        "nature"
+      ]
+    },
+    {
+      "id": "avt_13",
+      "question": "He is ___ first student.",
+      "optionA": "A",
+      "optionB": "THE",
+      "correctIndex": 1,
+      "explanation": "С порядковыми числительными всегда the.",
+      "tags": [
+        "a_vs_the",
+        "the",
+        "ordinal"
+      ]
+    },
+    {
+      "id": "avt_14",
+      "question": "She bought ___ book.",
+      "optionA": "A",
+      "optionB": "THE",
+      "correctIndex": 0,
+      "explanation": "Новая книга, первое упоминание, поэтому a.",
+      "tags": [
+        "a_vs_the",
+        "a",
+        "shopping"
+      ]
+    },
+    {
+      "id": "avt_15",
+      "question": "___ Earth is round.",
+      "optionA": "A",
+      "optionB": "THE",
+      "correctIndex": 1,
+      "explanation": "Земля единственная планета, поэтому the.",
+      "tags": [
+        "a_vs_the",
+        "the",
+        "nature"
+      ]
+    },
+    {
+      "id": "avt_16",
+      "question": "It's ___ biggest house.",
+      "optionA": "A",
+      "optionB": "THE",
+      "correctIndex": 1,
+      "explanation": "Превосходная степень требует the.",
+      "tags": [
+        "a_vs_the",
+        "the",
+        "superlative"
+      ]
+    },
+    {
+      "id": "avt_17",
+      "question": "I have ___ idea.",
+      "optionA": "A",
+      "optionB": "THE",
+      "correctIndex": 0,
+      "explanation": "Одна из многих идей, поэтому a.",
+      "tags": [
+        "a_vs_the",
+        "a",
+        "daily"
+      ]
+    },
+    {
+      "id": "avt_18",
+      "question": "This is ___ last chance.",
+      "optionA": "A",
+      "optionB": "THE",
+      "correctIndex": 1,
+      "explanation": "Last делает шанс уникальным, поэтому the.",
+      "tags": [
+        "a_vs_the",
+        "the",
+        "ordinal"
+      ]
+    },
+    {
+      "id": "avt_19",
+      "question": "She is ___ doctor.",
+      "optionA": "A",
+      "optionB": "THE",
+      "correctIndex": 0,
+      "explanation": "Одна из многих докторов, поэтому a.",
+      "tags": [
+        "a_vs_the",
+        "a",
+        "work"
+      ]
+    },
+    {
+      "id": "avt_20",
+      "question": "___ ocean is deep.",
+      "optionA": "A",
+      "optionB": "THE",
+      "correctIndex": 1,
+      "explanation": "Океан как уникальное понятие требует the.",
+      "tags": [
+        "a_vs_the",
+        "the",
+        "nature"
+      ]
+    },
+    {
+      "id": "avt_21",
+      "question": "I saw a cat. ___ cat was black.",
+      "optionA": "A",
+      "optionB": "THE",
+      "correctIndex": 1,
+      "explanation": "Второе упоминание кота, он уже известен, поэтому the.",
+      "tags": [
+        "a_vs_the",
+        "the",
+        "context"
+      ]
+    },
+    {
+      "id": "avt_22",
+      "question": "She has ___ question.",
+      "optionA": "A",
+      "optionB": "THE",
+      "correctIndex": 0,
+      "explanation": "Первое упоминание вопроса, поэтому a.",
+      "tags": [
+        "a_vs_the",
+        "a",
+        "school"
+      ]
+    },
+    {
+      "id": "avt_23",
+      "question": "I bought a phone. ___ phone is new.",
+      "optionA": "A",
+      "optionB": "THE",
+      "correctIndex": 1,
+      "explanation": "Телефон уже упоминался, теперь the.",
+      "tags": [
+        "a_vs_the",
+        "the",
+        "context"
+      ]
+    },
+    {
+      "id": "avt_24",
+      "question": "He found ___ key.",
+      "optionA": "A",
+      "optionB": "THE",
+      "correctIndex": 0,
+      "explanation": "Ключ упоминается впервые, поэтому a.",
+      "tags": [
+        "a_vs_the",
+        "a",
+        "daily"
+      ]
+    },
+    {
+      "id": "avt_25",
+      "question": "There's a park nearby. ___ park is nice.",
+      "optionA": "A",
+      "optionB": "THE",
+      "correctIndex": 1,
+      "explanation": "Парк уже упомянут, поэтому the.",
+      "tags": [
+        "a_vs_the",
+        "the",
+        "context"
+      ]
+    },
+    {
+      "id": "avt_26",
+      "question": "I need ___ answer.",
+      "optionA": "A",
+      "optionB": "THE",
+      "correctIndex": 0,
+      "explanation": "Ответ не конкретный, первое упоминание, поэтому a.",
+      "tags": [
+        "a_vs_the",
+        "a",
+        "school"
+      ]
+    },
+    {
+      "id": "avt_27",
+      "question": "She opened a box. ___ box was empty.",
+      "optionA": "A",
+      "optionB": "THE",
+      "correctIndex": 1,
+      "explanation": "Коробка уже известна из контекста, поэтому the.",
+      "tags": [
+        "a_vs_the",
+        "the",
+        "context"
+      ]
+    },
+    {
+      "id": "avt_28",
+      "question": "We need ___ plan.",
+      "optionA": "A",
+      "optionB": "THE",
+      "correctIndex": 0,
+      "explanation": "План еще не обсуждался, поэтому a.",
+      "tags": [
+        "a_vs_the",
+        "a",
+        "work"
+      ]
+    },
+    {
+      "id": "avt_29",
+      "question": "I met a girl. ___ girl was nice.",
+      "optionA": "A",
+      "optionB": "THE",
+      "correctIndex": 1,
+      "explanation": "Девушка уже упоминалась, теперь the.",
+      "tags": [
+        "a_vs_the",
+        "the",
+        "context"
+      ]
+    },
+    {
+      "id": "avt_30",
+      "question": "They need ___ solution.",
+      "optionA": "A",
+      "optionB": "THE",
+      "correctIndex": 0,
+      "explanation": "Решение не конкретное, впервые упоминается, поэтому a.",
+      "tags": [
+        "a_vs_the",
+        "a",
+        "work"
+      ]
+    }
+  ]
+}

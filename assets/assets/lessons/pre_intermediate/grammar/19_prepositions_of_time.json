@@ -1,0 +1,1525 @@
+{
+  "id": "pre_19_prepositions_of_time",
+  "title": "Prepositions of Time",
+  "description": "Предлоги времени: in January, on Monday, at 5 o'clock. Когда что-то происходит.",
+  "order": 12,
+  "level": "pre_intermediate",
+  "imageUrl": "assets/images/lessons/prepositions_of_time.png",
+  "vocabulary": [
+    {
+      "id": "v12_in",
+      "english": "in",
+      "russian": "в (месяц, год, сезон)",
+      "partOfSpeech": "preposition",
+      "example": "I was born in May.",
+      "exampleTranslation": "Я родился в мае.",
+      "audioPath": "assets/audio/vocabulary/v12_in.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_in.mp3"
+    },
+    {
+      "id": "v12_on",
+      "english": "on",
+      "russian": "в (день, дата)",
+      "partOfSpeech": "preposition",
+      "example": "We meet on Monday.",
+      "exampleTranslation": "Мы встречаемся в понедельник.",
+      "audioPath": "assets/audio/vocabulary/v12_on.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_on.mp3"
+    },
+    {
+      "id": "v12_at",
+      "english": "at",
+      "russian": "в (время, момент)",
+      "partOfSpeech": "preposition",
+      "example": "I wake up at seven.",
+      "exampleTranslation": "Я просыпаюсь в семь.",
+      "audioPath": "assets/audio/vocabulary/v12_at.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_at.mp3"
+    },
+    {
+      "id": "v12_morning",
+      "english": "morning",
+      "russian": "утро",
+      "partOfSpeech": "noun",
+      "example": "I run in the morning.",
+      "exampleTranslation": "Я бегаю утром.",
+      "audioPath": "assets/audio/vocabulary/v12_morning.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_morning.mp3"
+    },
+    {
+      "id": "v12_evening",
+      "english": "evening",
+      "russian": "вечер",
+      "partOfSpeech": "noun",
+      "example": "We eat in the evening.",
+      "exampleTranslation": "Мы едим вечером.",
+      "audioPath": "assets/audio/vocabulary/v12_evening.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_evening.mp3"
+    },
+    {
+      "id": "v12_night",
+      "english": "night",
+      "russian": "ночь",
+      "partOfSpeech": "noun",
+      "example": "I sleep at night.",
+      "exampleTranslation": "Я сплю ночью.",
+      "audioPath": "assets/audio/vocabulary/v12_night.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_night.mp3"
+    },
+    {
+      "id": "v12_monday",
+      "english": "Monday",
+      "russian": "понедельник",
+      "partOfSpeech": "noun",
+      "example": "I work on Monday.",
+      "exampleTranslation": "Я работаю в понедельник.",
+      "audioPath": "assets/audio/vocabulary/v12_monday.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_monday.mp3"
+    },
+    {
+      "id": "v12_friday",
+      "english": "Friday",
+      "russian": "пятница",
+      "partOfSpeech": "noun",
+      "example": "We rest on Friday.",
+      "exampleTranslation": "Мы отдыхаем в пятницу.",
+      "audioPath": "assets/audio/vocabulary/v12_friday.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_friday.mp3"
+    },
+    {
+      "id": "v12_january",
+      "english": "January",
+      "russian": "январь",
+      "partOfSpeech": "noun",
+      "example": "It snows in January.",
+      "exampleTranslation": "В январе идёт снег.",
+      "audioPath": "assets/audio/vocabulary/v12_january.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_january.mp3"
+    },
+    {
+      "id": "v12_summer",
+      "english": "summer",
+      "russian": "лето",
+      "partOfSpeech": "noun",
+      "example": "We travel in summer.",
+      "exampleTranslation": "Мы путешествуем летом.",
+      "audioPath": "assets/audio/vocabulary/v12_summer.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_summer.mp3"
+    },
+    {
+      "id": "v12_winter",
+      "english": "winter",
+      "russian": "зима",
+      "partOfSpeech": "noun",
+      "example": "It is cold in winter.",
+      "exampleTranslation": "Зимой холодно.",
+      "audioPath": "assets/audio/vocabulary/v12_winter.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_winter.mp3"
+    },
+    {
+      "id": "v12_noon",
+      "english": "noon",
+      "russian": "полдень",
+      "partOfSpeech": "noun",
+      "example": "We eat at noon.",
+      "exampleTranslation": "Мы едим в полдень.",
+      "audioPath": "assets/audio/vocabulary/v12_noon.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_noon.mp3"
+    },
+    {
+      "id": "v12_weekend",
+      "english": "weekend",
+      "russian": "выходные",
+      "partOfSpeech": "noun",
+      "example": "I rest at the weekend.",
+      "exampleTranslation": "Я отдыхаю на выходных.",
+      "audioPath": "assets/audio/vocabulary/v12_weekend.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_weekend.mp3"
+    },
+    {
+      "id": "v12_birthday",
+      "english": "birthday",
+      "russian": "день рождения",
+      "partOfSpeech": "noun",
+      "example": "My birthday is on March fifth.",
+      "exampleTranslation": "Мой день рождения 5 марта.",
+      "audioPath": "assets/audio/vocabulary/v12_birthday.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_birthday.mp3"
+    },
+    {
+      "id": "v12_wake_up",
+      "english": "wake up",
+      "russian": "просыпаться",
+      "partOfSpeech": "verb",
+      "example": "I wake up at six.",
+      "exampleTranslation": "Я просыпаюсь в шесть.",
+      "audioPath": "assets/audio/vocabulary/v12_wake_up.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_wake_up.mp3"
+    },
+    {
+      "id": "v12_start",
+      "english": "start",
+      "russian": "начинать(ся)",
+      "partOfSpeech": "verb",
+      "example": "Work starts at nine.",
+      "exampleTranslation": "Работа начинается в девять.",
+      "audioPath": "assets/audio/vocabulary/v12_start.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_start.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "Prepositions of Time",
+    "subtitle": "Три предлога — in, on, at — помогают сказать КОГДА что-то происходит. Каждый для своего: месяц, день или точное время.",
+    "construction": {
+      "formula": "IN (month/year/season) / ON (day/date) / AT (time)",
+      "rules": [
+        {
+          "word": "in",
+          "description": "Месяцы, годы, сезоны, части дня: in May, in 2024, in summer, in the morning."
+        },
+        {
+          "word": "on",
+          "description": "Дни недели и даты: on Monday, on March 5th, on my birthday."
+        },
+        {
+          "word": "at",
+          "description": "Точное время и моменты: at 5 o'clock, at noon, at night, at the weekend."
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "schedule",
+        "color": "blue",
+        "title": "Расписание и время",
+        "description": "Говорим, в какое точное время что-то происходит.",
+        "example": {
+          "english": "I wake up at seven.",
+          "russian": "Я просыпаюсь в семь."
+        }
+      },
+      {
+        "icon": "star",
+        "color": "purple",
+        "title": "Дни и даты",
+        "description": "Указываем конкретный день или дату.",
+        "example": {
+          "english": "We meet on Friday.",
+          "russian": "Мы встречаемся в пятницу."
+        }
+      },
+      {
+        "icon": "explore",
+        "color": "orange",
+        "title": "Месяцы и сезоны",
+        "description": "Говорим о периодах: месяцах, годах, сезонах.",
+        "example": {
+          "english": "It is warm in summer.",
+          "russian": "Летом тепло."
+        }
+      }
+    ],
+    "markers": [
+      "in January",
+      "on Monday",
+      "at 5 o'clock",
+      "in the morning",
+      "at night",
+      "on my birthday"
+    ]
+  },
+  "tasks": [
+    {
+      "id": "t12_1",
+      "type": "sentenceAssembly",
+      "question": "Я работаю в понедельник",
+      "correctAnswer": "I work on Monday",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "We",
+          "Me"
+        ],
+        [
+          "work",
+          "works",
+          "working",
+          "worked"
+        ],
+        [
+          "on",
+          "in",
+          "at",
+          "to"
+        ],
+        [
+          "Monday",
+          "January",
+          "morning",
+          "noon"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_19_prepositions_of_time/000.mp3"
+    },
+    {
+      "id": "t12_2",
+      "type": "sentenceAssembly",
+      "question": "Она просыпается в семь",
+      "correctAnswer": "She wakes up at seven",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "They",
+          "Her"
+        ],
+        [
+          "wakes",
+          "wake",
+          "woke",
+          "waking"
+        ],
+        [
+          "up",
+          "on",
+          "in",
+          "to"
+        ],
+        [
+          "at",
+          "in",
+          "on",
+          "to"
+        ],
+        [
+          "seven",
+          "Monday",
+          "summer",
+          "morning"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_19_prepositions_of_time/001.mp3"
+    },
+    {
+      "id": "t12_3",
+      "type": "sentenceAssembly",
+      "question": "Мы путешествуем летом",
+      "correctAnswer": "We travel in summer",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "I",
+          "Us"
+        ],
+        [
+          "travel",
+          "travels",
+          "traveling",
+          "traveled"
+        ],
+        [
+          "in",
+          "on",
+          "at",
+          "to"
+        ],
+        [
+          "summer",
+          "Monday",
+          "noon",
+          "seven"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_19_prepositions_of_time/002.mp3"
+    },
+    {
+      "id": "t12_4",
+      "type": "sentenceAssembly",
+      "question": "Я бегаю утром",
+      "correctAnswer": "I run in the morning",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "We",
+          "Me"
+        ],
+        [
+          "run",
+          "runs",
+          "running",
+          "ran"
+        ],
+        [
+          "in",
+          "on",
+          "at",
+          "to"
+        ],
+        [
+          "the",
+          "a",
+          "my",
+          "this"
+        ],
+        [
+          "morning",
+          "evening",
+          "night",
+          "noon"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_19_prepositions_of_time/003.mp3"
+    },
+    {
+      "id": "t12_5",
+      "type": "sentenceAssembly",
+      "question": "Зимой холодно",
+      "correctAnswer": "It is cold in winter",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "He",
+          "They",
+          "She"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "were"
+        ],
+        [
+          "cold",
+          "warm",
+          "hot",
+          "cool"
+        ],
+        [
+          "in",
+          "on",
+          "at",
+          "to"
+        ],
+        [
+          "winter",
+          "Monday",
+          "noon",
+          "seven"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_19_prepositions_of_time/004.mp3"
+    },
+    {
+      "id": "t12_6",
+      "type": "sentenceAssembly",
+      "question": "Мы едим в полдень",
+      "correctAnswer": "We eat at noon",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "I",
+          "Us"
+        ],
+        [
+          "eat",
+          "eats",
+          "eating",
+          "ate"
+        ],
+        [
+          "at",
+          "in",
+          "on",
+          "to"
+        ],
+        [
+          "noon",
+          "Monday",
+          "summer",
+          "morning"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_19_prepositions_of_time/005.mp3"
+    },
+    {
+      "id": "t12_7",
+      "type": "sentenceAssembly",
+      "question": "Он работает в пятницу",
+      "correctAnswer": "He works on Friday",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "They",
+          "Him"
+        ],
+        [
+          "works",
+          "work",
+          "working",
+          "worked"
+        ],
+        [
+          "on",
+          "in",
+          "at",
+          "to"
+        ],
+        [
+          "Friday",
+          "January",
+          "morning",
+          "noon"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_19_prepositions_of_time/006.mp3"
+    },
+    {
+      "id": "t12_8",
+      "type": "sentenceAssembly",
+      "question": "В январе идёт снег",
+      "correctAnswer": "It snows in January",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "He",
+          "They",
+          "She"
+        ],
+        [
+          "snows",
+          "snow",
+          "snowing",
+          "snowed"
+        ],
+        [
+          "in",
+          "on",
+          "at",
+          "to"
+        ],
+        [
+          "January",
+          "Monday",
+          "noon",
+          "seven"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_19_prepositions_of_time/007.mp3"
+    },
+    {
+      "id": "t12_9",
+      "type": "sentenceAssembly",
+      "question": "Я сплю ночью",
+      "correctAnswer": "I sleep at night",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "We",
+          "Me"
+        ],
+        [
+          "sleep",
+          "sleeps",
+          "sleeping",
+          "slept"
+        ],
+        [
+          "at",
+          "in",
+          "on",
+          "to"
+        ],
+        [
+          "night",
+          "morning",
+          "Monday",
+          "summer"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_19_prepositions_of_time/008.mp3"
+    },
+    {
+      "id": "t12_10",
+      "type": "sentenceAssembly",
+      "question": "Работа начинается в девять",
+      "correctAnswer": "Work starts at nine",
+      "options": [],
+      "variants": [
+        [
+          "Work",
+          "School",
+          "Life",
+          "Day"
+        ],
+        [
+          "starts",
+          "start",
+          "starting",
+          "started"
+        ],
+        [
+          "at",
+          "in",
+          "on",
+          "to"
+        ],
+        [
+          "nine",
+          "Monday",
+          "summer",
+          "morning"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_19_prepositions_of_time/009.mp3"
+    },
+    {
+      "id": "t12_11",
+      "type": "sentenceAssembly",
+      "question": "Мы встречаемся в пятницу",
+      "correctAnswer": "We meet on Friday",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "I",
+          "Us"
+        ],
+        [
+          "meet",
+          "meets",
+          "meeting",
+          "met"
+        ],
+        [
+          "on",
+          "in",
+          "at",
+          "to"
+        ],
+        [
+          "Friday",
+          "January",
+          "morning",
+          "noon"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_19_prepositions_of_time/010.mp3"
+    },
+    {
+      "id": "t12_12",
+      "type": "sentenceAssembly",
+      "question": "Они едят вечером",
+      "correctAnswer": "They eat in the evening",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "We",
+          "He",
+          "Them"
+        ],
+        [
+          "eat",
+          "eats",
+          "eating",
+          "ate"
+        ],
+        [
+          "in",
+          "on",
+          "at",
+          "to"
+        ],
+        [
+          "the",
+          "a",
+          "my",
+          "this"
+        ],
+        [
+          "evening",
+          "morning",
+          "night",
+          "noon"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_19_prepositions_of_time/011.mp3"
+    },
+    {
+      "id": "t12_13",
+      "type": "sentenceAssembly",
+      "question": "Она читает ночью",
+      "correctAnswer": "She reads at night",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "They",
+          "Her"
+        ],
+        [
+          "reads",
+          "read",
+          "reading",
+          "wrote"
+        ],
+        [
+          "at",
+          "in",
+          "on",
+          "to"
+        ],
+        [
+          "night",
+          "morning",
+          "Monday",
+          "summer"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_19_prepositions_of_time/012.mp3"
+    },
+    {
+      "id": "t12_14",
+      "type": "sentenceAssembly",
+      "question": "Летом тепло",
+      "correctAnswer": "It is warm in summer",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "He",
+          "They",
+          "She"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "were"
+        ],
+        [
+          "warm",
+          "cold",
+          "hot",
+          "cool"
+        ],
+        [
+          "in",
+          "on",
+          "at",
+          "to"
+        ],
+        [
+          "summer",
+          "Monday",
+          "noon",
+          "seven"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_19_prepositions_of_time/013.mp3"
+    },
+    {
+      "id": "t12_15",
+      "type": "sentenceAssembly",
+      "question": "Я родился в мае",
+      "correctAnswer": "I was born in May",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "We",
+          "Me"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "am"
+        ],
+        [
+          "born",
+          "born.",
+          "live",
+          "work"
+        ],
+        [
+          "in",
+          "on",
+          "at",
+          "to"
+        ],
+        [
+          "May",
+          "Monday",
+          "noon",
+          "seven"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_19_prepositions_of_time/014.mp3"
+    },
+    {
+      "id": "t12_16",
+      "type": "sentenceAssembly",
+      "question": "Мы отдыхаем на выходных",
+      "correctAnswer": "We rest at the weekend",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "I",
+          "Us"
+        ],
+        [
+          "rest",
+          "rests",
+          "resting",
+          "rested"
+        ],
+        [
+          "at",
+          "in",
+          "on",
+          "to"
+        ],
+        [
+          "the",
+          "a",
+          "my",
+          "this"
+        ],
+        [
+          "weekend",
+          "morning",
+          "Monday",
+          "summer"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_19_prepositions_of_time/015.mp3"
+    },
+    {
+      "id": "t12_17",
+      "type": "sentenceAssembly",
+      "question": "Он учится утром",
+      "correctAnswer": "He studies in the morning",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "They",
+          "Him"
+        ],
+        [
+          "studies",
+          "study",
+          "studying",
+          "studied"
+        ],
+        [
+          "in",
+          "on",
+          "at",
+          "to"
+        ],
+        [
+          "the",
+          "a",
+          "my",
+          "this"
+        ],
+        [
+          "morning",
+          "evening",
+          "night",
+          "noon"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_19_prepositions_of_time/016.mp3"
+    },
+    {
+      "id": "t12_18",
+      "type": "sentenceAssembly",
+      "question": "Она работает в субботу",
+      "correctAnswer": "She works on Saturday",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "They",
+          "Her"
+        ],
+        [
+          "works",
+          "work",
+          "working",
+          "worked"
+        ],
+        [
+          "on",
+          "in",
+          "at",
+          "to"
+        ],
+        [
+          "Saturday",
+          "January",
+          "morning",
+          "noon"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_19_prepositions_of_time/017.mp3"
+    },
+    {
+      "id": "t12_19",
+      "type": "sentenceAssembly",
+      "question": "Мы обедаем в час",
+      "correctAnswer": "We eat at one",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "I",
+          "Us"
+        ],
+        [
+          "eat",
+          "eats",
+          "eating",
+          "ate"
+        ],
+        [
+          "at",
+          "in",
+          "on",
+          "to"
+        ],
+        [
+          "one",
+          "Monday",
+          "summer",
+          "morning"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_19_prepositions_of_time/018.mp3"
+    },
+    {
+      "id": "t12_20",
+      "type": "sentenceAssembly",
+      "question": "Они гуляют вечером",
+      "correctAnswer": "They walk in the evening",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "We",
+          "He",
+          "Them"
+        ],
+        [
+          "walk",
+          "walks",
+          "walking",
+          "walked"
+        ],
+        [
+          "in",
+          "on",
+          "at",
+          "to"
+        ],
+        [
+          "the",
+          "a",
+          "my",
+          "this"
+        ],
+        [
+          "evening",
+          "morning",
+          "night",
+          "noon"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_19_prepositions_of_time/019.mp3"
+    },
+    {
+      "id": "t12_21",
+      "type": "sentenceAssembly",
+      "question": "Ты работаешь в понедельник?",
+      "correctAnswer": "Do you work on Monday",
+      "options": [],
+      "variants": [
+        [
+          "Do",
+          "Does",
+          "Did",
+          "Is"
+        ],
+        [
+          "you",
+          "he",
+          "she",
+          "they"
+        ],
+        [
+          "work",
+          "works",
+          "working",
+          "worked"
+        ],
+        [
+          "on",
+          "in",
+          "at",
+          "to"
+        ],
+        [
+          "Monday",
+          "January",
+          "morning",
+          "noon"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_19_prepositions_of_time/020.mp3"
+    },
+    {
+      "id": "t12_22",
+      "type": "sentenceAssembly",
+      "question": "Она читает утром?",
+      "correctAnswer": "Does she read in the morning",
+      "options": [],
+      "variants": [
+        [
+          "Does",
+          "Do",
+          "Did",
+          "Is"
+        ],
+        [
+          "she",
+          "he",
+          "they",
+          "you"
+        ],
+        [
+          "read",
+          "reads",
+          "reading",
+          "wrote"
+        ],
+        [
+          "in",
+          "on",
+          "at",
+          "to"
+        ],
+        [
+          "the",
+          "a",
+          "my",
+          "this"
+        ],
+        [
+          "morning",
+          "evening",
+          "night",
+          "noon"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_19_prepositions_of_time/021.mp3"
+    },
+    {
+      "id": "t12_23",
+      "type": "sentenceAssembly",
+      "question": "Он не работает в субботу",
+      "correctAnswer": "He does not work on Saturday",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "They",
+          "Him"
+        ],
+        [
+          "does",
+          "do",
+          "did",
+          "is"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "none"
+        ],
+        [
+          "work",
+          "works",
+          "working",
+          "rest"
+        ],
+        [
+          "on",
+          "in",
+          "at",
+          "to"
+        ],
+        [
+          "Saturday",
+          "January",
+          "morning",
+          "noon"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_19_prepositions_of_time/022.mp3"
+    },
+    {
+      "id": "t12_24",
+      "type": "sentenceAssembly",
+      "question": "Мы не едим ночью",
+      "correctAnswer": "We do not eat at night",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "I",
+          "Us"
+        ],
+        [
+          "do",
+          "does",
+          "did",
+          "are"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "none"
+        ],
+        [
+          "eat",
+          "eats",
+          "eating",
+          "drink"
+        ],
+        [
+          "at",
+          "in",
+          "on",
+          "to"
+        ],
+        [
+          "night",
+          "morning",
+          "Monday",
+          "summer"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_19_prepositions_of_time/023.mp3"
+    },
+    {
+      "id": "t12_25",
+      "type": "sentenceAssembly",
+      "question": "Когда ты просыпаешься?",
+      "correctAnswer": "When do you wake up",
+      "options": [],
+      "variants": [
+        [
+          "When",
+          "Where",
+          "What",
+          "Why"
+        ],
+        [
+          "do",
+          "does",
+          "did",
+          "is"
+        ],
+        [
+          "you",
+          "he",
+          "she",
+          "they"
+        ],
+        [
+          "wake",
+          "wakes",
+          "woke",
+          "sleep"
+        ],
+        [
+          "up",
+          "on",
+          "in",
+          "at"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_19_prepositions_of_time/024.mp3"
+    },
+    {
+      "id": "t12_26",
+      "type": "sentenceAssembly",
+      "question": "Они не учатся в воскресенье",
+      "correctAnswer": "They do not study on Sunday",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "We",
+          "He",
+          "Them"
+        ],
+        [
+          "do",
+          "does",
+          "did",
+          "are"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "none"
+        ],
+        [
+          "study",
+          "studies",
+          "studying",
+          "work"
+        ],
+        [
+          "on",
+          "in",
+          "at",
+          "to"
+        ],
+        [
+          "Sunday",
+          "January",
+          "morning",
+          "noon"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_19_prepositions_of_time/025.mp3"
+    },
+    {
+      "id": "t12_27",
+      "type": "sentenceAssembly",
+      "question": "Ты спишь ночью?",
+      "correctAnswer": "Do you sleep at night",
+      "options": [],
+      "variants": [
+        [
+          "Do",
+          "Does",
+          "Did",
+          "Is"
+        ],
+        [
+          "you",
+          "he",
+          "she",
+          "they"
+        ],
+        [
+          "sleep",
+          "sleeps",
+          "sleeping",
+          "rest"
+        ],
+        [
+          "at",
+          "in",
+          "on",
+          "to"
+        ],
+        [
+          "night",
+          "morning",
+          "Monday",
+          "summer"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_19_prepositions_of_time/026.mp3"
+    },
+    {
+      "id": "t12_28",
+      "type": "sentenceAssembly",
+      "question": "Когда он работает?",
+      "correctAnswer": "When does he work",
+      "options": [],
+      "variants": [
+        [
+          "When",
+          "Where",
+          "What",
+          "Why"
+        ],
+        [
+          "does",
+          "do",
+          "did",
+          "is"
+        ],
+        [
+          "he",
+          "she",
+          "they",
+          "you"
+        ],
+        [
+          "work",
+          "works",
+          "working",
+          "rest"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_19_prepositions_of_time/027.mp3"
+    },
+    {
+      "id": "t12_29",
+      "type": "sentenceAssembly",
+      "question": "Я не бегаю зимой",
+      "correctAnswer": "I do not run in winter",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "We",
+          "Me"
+        ],
+        [
+          "do",
+          "does",
+          "did",
+          "am"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "none"
+        ],
+        [
+          "run",
+          "runs",
+          "running",
+          "walk"
+        ],
+        [
+          "in",
+          "on",
+          "at",
+          "to"
+        ],
+        [
+          "winter",
+          "Monday",
+          "noon",
+          "seven"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_19_prepositions_of_time/028.mp3"
+    },
+    {
+      "id": "t12_30",
+      "type": "sentenceAssembly",
+      "question": "Она встаёт в шесть?",
+      "correctAnswer": "Does she wake up at six",
+      "options": [],
+      "variants": [
+        [
+          "Does",
+          "Do",
+          "Did",
+          "Is"
+        ],
+        [
+          "she",
+          "he",
+          "they",
+          "you"
+        ],
+        [
+          "wake",
+          "wakes",
+          "woke",
+          "sleep"
+        ],
+        [
+          "up",
+          "on",
+          "in",
+          "at"
+        ],
+        [
+          "at",
+          "in",
+          "on",
+          "to"
+        ],
+        [
+          "six",
+          "Monday",
+          "summer",
+          "morning"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_19_prepositions_of_time/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionPreIntermediate12PrepositionsOfTime",
+  "theoryQuiz": [
+    {
+      "id": "tq_12_01",
+      "type": "multipleChoice",
+      "question": "Какой предлог используем с месяцами (January, May)?",
+      "options": [
+        "at",
+        "on",
+        "in",
+        "to"
+      ],
+      "correctIndex": 2,
+      "explanation": "С месяцами используем in: in January, in May."
+    },
+    {
+      "id": "tq_12_02",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"I work ___ Monday.\"",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "to"
+      ],
+      "correctIndex": 1,
+      "explanation": "С днями недели используем on: on Monday."
+    },
+    {
+      "id": "tq_12_03",
+      "type": "trueFalse",
+      "question": "\"I wake up in seven.\" — предложение составлено правильно.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "С точным временем используем at: I wake up at seven."
+    },
+    {
+      "id": "tq_12_04",
+      "type": "multipleChoice",
+      "question": "Какой предлог используем с night?",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "to"
+      ],
+      "correctIndex": 2,
+      "explanation": "At night — исключение: at night (не in the night)."
+    },
+    {
+      "id": "tq_12_05",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"We travel ___ summer.\"",
+      "options": [
+        "at",
+        "on",
+        "in",
+        "to"
+      ],
+      "correctIndex": 2,
+      "explanation": "С сезонами используем in: in summer, in winter."
+    },
+    {
+      "id": "tq_12_06",
+      "type": "trueFalse",
+      "question": "\"I run in the morning.\" — предложение составлено правильно.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "С частями дня используем in: in the morning, in the evening."
+    },
+    {
+      "id": "tq_12_07",
+      "type": "multipleChoice",
+      "question": "Какой предлог ставим перед датой (March 5th)?",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "to"
+      ],
+      "correctIndex": 1,
+      "explanation": "С датами используем on: on March 5th."
+    },
+    {
+      "id": "tq_12_08",
+      "type": "multipleChoice",
+      "question": "Как правильно: «Мы едим в полдень»?",
+      "options": [
+        "We eat in noon.",
+        "We eat on noon.",
+        "We eat at noon.",
+        "We eat to noon."
+      ],
+      "correctIndex": 2,
+      "explanation": "Noon — конкретный момент, используем at: at noon."
+    },
+    {
+      "id": "tq_12_09",
+      "type": "trueFalse",
+      "question": "С годами (2024) мы используем предлог in.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "С годами используем in: in 2024, in 1990."
+    },
+    {
+      "id": "tq_12_10",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"She works ___ the evening.\"",
+      "options": [
+        "at",
+        "on",
+        "in",
+        "to"
+      ],
+      "correctIndex": 2,
+      "explanation": "С частями дня: in the evening, in the morning (но: at night!)."
+    }
+  ]
+}

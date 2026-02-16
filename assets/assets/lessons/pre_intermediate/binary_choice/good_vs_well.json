@@ -1,0 +1,400 @@
+{
+  "id": "pre_bc_10_adjectives",
+  "title": "Good vs Well",
+  "description": "Good или Well? Разбираемся, когда прилагательное, а когда наречие.",
+  "order": 12,
+  "level": "pre_intermediate",
+  "imageUrl": null,
+  "tasks": [
+    {
+      "id": "gvw_1",
+      "question": "This is a ___ book.",
+      "optionA": "GOOD",
+      "optionB": "WELL",
+      "correctIndex": 0,
+      "explanation": "Перед существительным нужно прилагательное good.",
+      "tags": [
+        "good_vs_well",
+        "good",
+        "home"
+      ]
+    },
+    {
+      "id": "gvw_2",
+      "question": "She sings very ___.",
+      "optionA": "GOOD",
+      "optionB": "WELL",
+      "correctIndex": 1,
+      "explanation": "Наречие well описывает, как она поёт.",
+      "tags": [
+        "good_vs_well",
+        "well",
+        "hobby"
+      ]
+    },
+    {
+      "id": "gvw_3",
+      "question": "That's a ___ idea!",
+      "optionA": "GOOD",
+      "optionB": "WELL",
+      "correctIndex": 0,
+      "explanation": "Good стоит перед существительным idea.",
+      "tags": [
+        "good_vs_well",
+        "good",
+        "daily"
+      ]
+    },
+    {
+      "id": "gvw_4",
+      "question": "He plays tennis ___.",
+      "optionA": "GOOD",
+      "optionB": "WELL",
+      "correctIndex": 1,
+      "explanation": "Well показывает, как он играет в теннис.",
+      "tags": [
+        "good_vs_well",
+        "well",
+        "sport"
+      ]
+    },
+    {
+      "id": "gvw_5",
+      "question": "The coffee is ___.",
+      "optionA": "GOOD",
+      "optionB": "WELL",
+      "correctIndex": 0,
+      "explanation": "После глагола be используется прилагательное good.",
+      "tags": [
+        "good_vs_well",
+        "good",
+        "food"
+      ]
+    },
+    {
+      "id": "gvw_6",
+      "question": "I speak English ___.",
+      "optionA": "GOOD",
+      "optionB": "WELL",
+      "correctIndex": 1,
+      "explanation": "Well описывает, как я говорю по-английски.",
+      "tags": [
+        "good_vs_well",
+        "well",
+        "study"
+      ]
+    },
+    {
+      "id": "gvw_7",
+      "question": "It's a ___ day.",
+      "optionA": "GOOD",
+      "optionB": "WELL",
+      "correctIndex": 0,
+      "explanation": "Good стоит перед существительным day.",
+      "tags": [
+        "good_vs_well",
+        "good",
+        "weather"
+      ]
+    },
+    {
+      "id": "gvw_8",
+      "question": "She cooks very ___.",
+      "optionA": "GOOD",
+      "optionB": "WELL",
+      "correctIndex": 1,
+      "explanation": "Well показывает, как она готовит.",
+      "tags": [
+        "good_vs_well",
+        "well",
+        "food"
+      ]
+    },
+    {
+      "id": "gvw_9",
+      "question": "This is ___ news.",
+      "optionA": "GOOD",
+      "optionB": "WELL",
+      "correctIndex": 0,
+      "explanation": "Прилагательное good стоит перед news.",
+      "tags": [
+        "good_vs_well",
+        "good",
+        "daily"
+      ]
+    },
+    {
+      "id": "gvw_10",
+      "question": "They work ___.",
+      "optionA": "GOOD",
+      "optionB": "WELL",
+      "correctIndex": 1,
+      "explanation": "Well описывает, как они работают.",
+      "tags": [
+        "good_vs_well",
+        "well",
+        "work"
+      ]
+    },
+    {
+      "id": "gvw_11",
+      "question": "The soup tastes ___.",
+      "optionA": "GOOD",
+      "optionB": "WELL",
+      "correctIndex": 0,
+      "explanation": "После глагола чувств taste нужно прилагательное good.",
+      "tags": [
+        "good_vs_well",
+        "good",
+        "food"
+      ]
+    },
+    {
+      "id": "gvw_12",
+      "question": "He writes ___.",
+      "optionA": "GOOD",
+      "optionB": "WELL",
+      "correctIndex": 1,
+      "explanation": "Well показывает, как он пишет.",
+      "tags": [
+        "good_vs_well",
+        "well",
+        "work"
+      ]
+    },
+    {
+      "id": "gvw_13",
+      "question": "The cake looks ___.",
+      "optionA": "GOOD",
+      "optionB": "WELL",
+      "correctIndex": 0,
+      "explanation": "После look используется прилагательное good.",
+      "tags": [
+        "good_vs_well",
+        "good",
+        "food"
+      ]
+    },
+    {
+      "id": "gvw_14",
+      "question": "She dances very ___.",
+      "optionA": "GOOD",
+      "optionB": "WELL",
+      "correctIndex": 1,
+      "explanation": "Well описывает, как она танцует.",
+      "tags": [
+        "good_vs_well",
+        "well",
+        "hobby"
+      ]
+    },
+    {
+      "id": "gvw_15",
+      "question": "This smells ___.",
+      "optionA": "GOOD",
+      "optionB": "WELL",
+      "correctIndex": 0,
+      "explanation": "После smell нужно прилагательное good.",
+      "tags": [
+        "good_vs_well",
+        "good",
+        "food"
+      ]
+    },
+    {
+      "id": "gvw_16",
+      "question": "I sleep ___ now.",
+      "optionA": "GOOD",
+      "optionB": "WELL",
+      "correctIndex": 1,
+      "explanation": "Well показывает, как я сплю.",
+      "tags": [
+        "good_vs_well",
+        "well",
+        "health"
+      ]
+    },
+    {
+      "id": "gvw_17",
+      "question": "You look ___ today!",
+      "optionA": "GOOD",
+      "optionB": "WELL",
+      "correctIndex": 0,
+      "explanation": "После look используется прилагательное good.",
+      "tags": [
+        "good_vs_well",
+        "good",
+        "daily"
+      ]
+    },
+    {
+      "id": "gvw_18",
+      "question": "He drives ___.",
+      "optionA": "GOOD",
+      "optionB": "WELL",
+      "correctIndex": 1,
+      "explanation": "Well описывает, как он водит машину.",
+      "tags": [
+        "good_vs_well",
+        "well",
+        "transport"
+      ]
+    },
+    {
+      "id": "gvw_19",
+      "question": "The food is ___.",
+      "optionA": "GOOD",
+      "optionB": "WELL",
+      "correctIndex": 0,
+      "explanation": "После be нужно прилагательное good.",
+      "tags": [
+        "good_vs_well",
+        "good",
+        "food"
+      ]
+    },
+    {
+      "id": "gvw_20",
+      "question": "She reads ___ now.",
+      "optionA": "GOOD",
+      "optionB": "WELL",
+      "correctIndex": 1,
+      "explanation": "Well показывает, как она читает.",
+      "tags": [
+        "good_vs_well",
+        "well",
+        "study"
+      ]
+    },
+    {
+      "id": "gvw_21",
+      "question": "I don't feel ___.",
+      "optionA": "GOOD",
+      "optionB": "WELL",
+      "correctIndex": 1,
+      "explanation": "Well после feel означает физическое здоровье.",
+      "tags": [
+        "good_vs_well",
+        "well",
+        "health"
+      ]
+    },
+    {
+      "id": "gvw_22",
+      "question": "She did ___ today.",
+      "optionA": "GOOD",
+      "optionB": "WELL",
+      "correctIndex": 1,
+      "explanation": "Well описывает, как она справилась с делами.",
+      "tags": [
+        "good_vs_well",
+        "well",
+        "work"
+      ]
+    },
+    {
+      "id": "gvw_23",
+      "question": "That's a ___ job!",
+      "optionA": "GOOD",
+      "optionB": "WELL",
+      "correctIndex": 0,
+      "explanation": "Good стоит перед существительным job.",
+      "tags": [
+        "good_vs_well",
+        "good",
+        "work"
+      ]
+    },
+    {
+      "id": "gvw_24",
+      "question": "He listens ___.",
+      "optionA": "GOOD",
+      "optionB": "WELL",
+      "correctIndex": 1,
+      "explanation": "Well показывает, как он слушает.",
+      "tags": [
+        "good_vs_well",
+        "well",
+        "study"
+      ]
+    },
+    {
+      "id": "gvw_25",
+      "question": "I feel ___ today!",
+      "optionA": "GOOD",
+      "optionB": "WELL",
+      "correctIndex": 0,
+      "explanation": "Good после feel означает хорошее настроение или общее состояние.",
+      "tags": [
+        "good_vs_well",
+        "good",
+        "daily"
+      ]
+    },
+    {
+      "id": "gvw_26",
+      "question": "She swims very ___.",
+      "optionA": "GOOD",
+      "optionB": "WELL",
+      "correctIndex": 1,
+      "explanation": "Well описывает, как она плавает.",
+      "tags": [
+        "good_vs_well",
+        "well",
+        "sport"
+      ]
+    },
+    {
+      "id": "gvw_27",
+      "question": "This sounds ___.",
+      "optionA": "GOOD",
+      "optionB": "WELL",
+      "correctIndex": 0,
+      "explanation": "После sound используется прилагательное good.",
+      "tags": [
+        "good_vs_well",
+        "good",
+        "daily"
+      ]
+    },
+    {
+      "id": "gvw_28",
+      "question": "They study ___.",
+      "optionA": "GOOD",
+      "optionB": "WELL",
+      "correctIndex": 1,
+      "explanation": "Well показывает, как они учатся.",
+      "tags": [
+        "good_vs_well",
+        "well",
+        "study"
+      ]
+    },
+    {
+      "id": "gvw_29",
+      "question": "It's a ___ plan.",
+      "optionA": "GOOD",
+      "optionB": "WELL",
+      "correctIndex": 0,
+      "explanation": "Good стоит перед существительным plan.",
+      "tags": [
+        "good_vs_well",
+        "good",
+        "work"
+      ]
+    },
+    {
+      "id": "gvw_30",
+      "question": "He runs very ___.",
+      "optionA": "GOOD",
+      "optionB": "WELL",
+      "correctIndex": 1,
+      "explanation": "Well описывает, как он бегает.",
+      "tags": [
+        "good_vs_well",
+        "well",
+        "sport"
+      ]
+    }
+  ]
+}

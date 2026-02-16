@@ -1,0 +1,400 @@
+{
+  "id": "advanced_bc_08_advanced_connectors",
+  "title": "However vs Although",
+  "description": "However или Although? Учимся правильно выбирать связующее слово в сложных предложениях.",
+  "order": 8,
+  "level": "advanced",
+  "imageUrl": null,
+  "tasks": [
+    {
+      "id": "hva_1",
+      "question": "___, the results were not as promising as we had initially expected.",
+      "optionA": "HOWEVER",
+      "optionB": "ALTHOUGH",
+      "correctIndex": 0,
+      "explanation": "However — наречие-коннектор, стоит в начале нового предложения с запятой. Связывает два самостоятельных предложения.",
+      "tags": [
+        "however_vs_although",
+        "however",
+        "connector"
+      ]
+    },
+    {
+      "id": "hva_2",
+      "question": "___ she was exhausted, she continued working until midnight.",
+      "optionA": "HOWEVER",
+      "optionB": "ALTHOUGH",
+      "correctIndex": 1,
+      "explanation": "Although — союз, вводит придаточное уступительное предложение. Although + clause + main clause.",
+      "tags": [
+        "however_vs_although",
+        "although",
+        "conjunction"
+      ]
+    },
+    {
+      "id": "hva_3",
+      "question": "The experiment was well-designed. ___, it failed to produce significant results.",
+      "optionA": "HOWEVER",
+      "optionB": "ALTHOUGH",
+      "correctIndex": 0,
+      "explanation": "However стоит между двумя отдельными предложениями. Точка + However + запятая = контраст между двумя фактами.",
+      "tags": [
+        "however_vs_although",
+        "however",
+        "connector"
+      ]
+    },
+    {
+      "id": "hva_4",
+      "question": "___ the evidence was circumstantial, the jury found him guilty.",
+      "optionA": "HOWEVER",
+      "optionB": "ALTHOUGH",
+      "correctIndex": 1,
+      "explanation": "Although вводит придаточное предложение: «Хотя доказательства были косвенными...» Although + clause.",
+      "tags": [
+        "however_vs_although",
+        "although",
+        "conjunction"
+      ]
+    },
+    {
+      "id": "hva_5",
+      "question": "The company posted record profits. ___, employee satisfaction remained low.",
+      "optionA": "HOWEVER",
+      "optionB": "ALTHOUGH",
+      "correctIndex": 0,
+      "explanation": "However связывает два самостоятельных предложения как наречие-коннектор с запятой.",
+      "tags": [
+        "however_vs_although",
+        "however",
+        "connector"
+      ]
+    },
+    {
+      "id": "hva_6",
+      "question": "___ the hotel was expensive, the service was far below our expectations.",
+      "optionA": "HOWEVER",
+      "optionB": "ALTHOUGH",
+      "correctIndex": 1,
+      "explanation": "Although + clause (the hotel was expensive) — вводит уступительное придаточное.",
+      "tags": [
+        "however_vs_although",
+        "although",
+        "conjunction"
+      ]
+    },
+    {
+      "id": "hva_7",
+      "question": "She had no formal qualifications. ___, she quickly proved herself in the role.",
+      "optionA": "HOWEVER",
+      "optionB": "ALTHOUGH",
+      "correctIndex": 0,
+      "explanation": "However между двумя предложениями: «У неё не было квалификации. Однако она быстро себя проявила.»",
+      "tags": [
+        "however_vs_although",
+        "however",
+        "connector"
+      ]
+    },
+    {
+      "id": "hva_8",
+      "question": "___ I understand your point of view, I cannot support this proposal.",
+      "optionA": "HOWEVER",
+      "optionB": "ALTHOUGH",
+      "correctIndex": 1,
+      "explanation": "Although + clause — «Хотя я понимаю вашу точку зрения...». Вводит придаточное в составе одного предложения.",
+      "tags": [
+        "however_vs_although",
+        "although",
+        "conjunction"
+      ]
+    },
+    {
+      "id": "hva_9",
+      "question": "The initial data looked promising. ___, further analysis revealed critical flaws.",
+      "optionA": "HOWEVER",
+      "optionB": "ALTHOUGH",
+      "correctIndex": 0,
+      "explanation": "However — коннектор между двумя самостоятельными предложениями. Точка/точка с запятой + However.",
+      "tags": [
+        "however_vs_although",
+        "however",
+        "connector"
+      ]
+    },
+    {
+      "id": "hva_10",
+      "question": "___ he apologized sincerely, she refused to forgive him.",
+      "optionA": "HOWEVER",
+      "optionB": "ALTHOUGH",
+      "correctIndex": 1,
+      "explanation": "Although + clause — «Хотя он искренне извинился...». Союз, вводящий уступительное предложение.",
+      "tags": [
+        "however_vs_although",
+        "although",
+        "conjunction"
+      ]
+    },
+    {
+      "id": "hva_11",
+      "question": "The medication is effective. ___, it does carry some risk of side effects.",
+      "optionA": "HOWEVER",
+      "optionB": "ALTHOUGH",
+      "correctIndex": 0,
+      "explanation": "However — наречие-коннектор после точки: «Лекарство эффективно. Однако есть риск побочных эффектов.»",
+      "tags": [
+        "however_vs_although",
+        "however",
+        "connector"
+      ]
+    },
+    {
+      "id": "hva_12",
+      "question": "___ the policy was well-intentioned, it had unintended negative consequences.",
+      "optionA": "HOWEVER",
+      "optionB": "ALTHOUGH",
+      "correctIndex": 1,
+      "explanation": "Although + clause — «Хотя политика была благонамеренной...». Союз в начале сложного предложения.",
+      "tags": [
+        "however_vs_although",
+        "although",
+        "conjunction"
+      ]
+    },
+    {
+      "id": "hva_13",
+      "question": "Many experts predicted a recession. ___, the economy continued to grow steadily.",
+      "optionA": "HOWEVER",
+      "optionB": "ALTHOUGH",
+      "correctIndex": 0,
+      "explanation": "However между двумя предложениями. «Многие предсказывали рецессию. Однако экономика продолжала расти.»",
+      "tags": [
+        "however_vs_although",
+        "however",
+        "connector"
+      ]
+    },
+    {
+      "id": "hva_14",
+      "question": "___ it was raining heavily, the outdoor concert went ahead as planned.",
+      "optionA": "HOWEVER",
+      "optionB": "ALTHOUGH",
+      "correctIndex": 1,
+      "explanation": "Although + clause — «Хотя шёл сильный дождь, концерт состоялся.» Союз с придаточным.",
+      "tags": [
+        "however_vs_although",
+        "although",
+        "conjunction"
+      ]
+    },
+    {
+      "id": "hva_15",
+      "question": "We had anticipated strong opposition. The proposal, ___, passed unanimously.",
+      "optionA": "HOWEVER",
+      "optionB": "ALTHOUGH",
+      "correctIndex": 0,
+      "explanation": "However может стоять в середине предложения, выделенный запятыми: «Предложение, однако, было принято единогласно.»",
+      "tags": [
+        "however_vs_although",
+        "however",
+        "connector"
+      ]
+    },
+    {
+      "id": "hva_16",
+      "question": "___ the team worked overtime for weeks, they missed the final deadline.",
+      "optionA": "HOWEVER",
+      "optionB": "ALTHOUGH",
+      "correctIndex": 1,
+      "explanation": "Although + clause — «Хотя команда работала сверхурочно неделями...». Союз с придаточным уступительным.",
+      "tags": [
+        "however_vs_although",
+        "although",
+        "conjunction"
+      ]
+    },
+    {
+      "id": "hva_17",
+      "question": "The software is feature-rich. ___, its user interface remains frustratingly complex.",
+      "optionA": "HOWEVER",
+      "optionB": "ALTHOUGH",
+      "correctIndex": 0,
+      "explanation": "However — коннектор между двумя предложениями. «ПО многофункционально. Однако интерфейс сложный.»",
+      "tags": [
+        "however_vs_although",
+        "however",
+        "connector"
+      ]
+    },
+    {
+      "id": "hva_18",
+      "question": "___ they had limited resources, they managed to exceed all expectations.",
+      "optionA": "HOWEVER",
+      "optionB": "ALTHOUGH",
+      "correctIndex": 1,
+      "explanation": "Although + clause — «Хотя у них были ограниченные ресурсы...». Союз перед придаточным.",
+      "tags": [
+        "however_vs_although",
+        "although",
+        "conjunction"
+      ]
+    },
+    {
+      "id": "hva_19",
+      "question": "The CEO was confident about the merger. The shareholders, ___, had serious doubts.",
+      "optionA": "HOWEVER",
+      "optionB": "ALTHOUGH",
+      "correctIndex": 0,
+      "explanation": "However в середине предложения между запятыми. «Акционеры, однако, имели серьёзные сомнения.»",
+      "tags": [
+        "however_vs_although",
+        "however",
+        "connector"
+      ]
+    },
+    {
+      "id": "hva_20",
+      "question": "___ her presentation was brief, it covered all the essential points clearly.",
+      "optionA": "HOWEVER",
+      "optionB": "ALTHOUGH",
+      "correctIndex": 1,
+      "explanation": "Although + clause — «Хотя её презентация была краткой, она осветила все ключевые моменты.»",
+      "tags": [
+        "however_vs_although",
+        "although",
+        "conjunction"
+      ]
+    },
+    {
+      "id": "hva_21",
+      "question": "The treatment showed early promise. ___, long-term trials produced inconclusive data.",
+      "optionA": "HOWEVER",
+      "optionB": "ALTHOUGH",
+      "correctIndex": 0,
+      "explanation": "However — коннектор между двумя предложениями. «Лечение выглядело многообещающе. Однако долгосрочные исследования...»",
+      "tags": [
+        "however_vs_although",
+        "however",
+        "connector"
+      ]
+    },
+    {
+      "id": "hva_22",
+      "question": "___ the risks were clearly outlined, several investors chose to proceed regardless.",
+      "optionA": "HOWEVER",
+      "optionB": "ALTHOUGH",
+      "correctIndex": 1,
+      "explanation": "Although + clause — «Хотя риски были чётко обозначены...». Союз перед придаточным уступительным.",
+      "tags": [
+        "however_vs_although",
+        "although",
+        "conjunction"
+      ]
+    },
+    {
+      "id": "hva_23",
+      "question": "His academic record is outstanding. His interpersonal skills, ___, leave much to be desired.",
+      "optionA": "HOWEVER",
+      "optionB": "ALTHOUGH",
+      "correctIndex": 0,
+      "explanation": "However в середине предложения: «Его навыки общения, однако, оставляют желать лучшего.»",
+      "tags": [
+        "however_vs_although",
+        "however",
+        "connector"
+      ]
+    },
+    {
+      "id": "hva_24",
+      "question": "___ the contract appeared straightforward, the fine print contained several traps.",
+      "optionA": "HOWEVER",
+      "optionB": "ALTHOUGH",
+      "correctIndex": 1,
+      "explanation": "Although + clause — «Хотя контракт выглядел простым...». Союз, вводящий уступительное придаточное.",
+      "tags": [
+        "however_vs_although",
+        "although",
+        "conjunction"
+      ]
+    },
+    {
+      "id": "hva_25",
+      "question": "The new regulations are comprehensive. ___, enforcement remains a major challenge.",
+      "optionA": "HOWEVER",
+      "optionB": "ALTHOUGH",
+      "correctIndex": 0,
+      "explanation": "However — коннектор после точки: «Новые правила всеобъемлющи. Однако их исполнение — проблема.»",
+      "tags": [
+        "however_vs_although",
+        "however",
+        "connector"
+      ]
+    },
+    {
+      "id": "hva_26",
+      "question": "___ he has extensive experience, he still struggles with public speaking.",
+      "optionA": "HOWEVER",
+      "optionB": "ALTHOUGH",
+      "correctIndex": 1,
+      "explanation": "Although + clause — «Хотя у него большой опыт, он по-прежнему плохо выступает публично.»",
+      "tags": [
+        "however_vs_although",
+        "although",
+        "conjunction"
+      ]
+    },
+    {
+      "id": "hva_27",
+      "question": "Public opinion was firmly against the reform. The government, ___, pressed ahead.",
+      "optionA": "HOWEVER",
+      "optionB": "ALTHOUGH",
+      "correctIndex": 0,
+      "explanation": "However в середине предложения: «Правительство, однако, продолжило.» Выделен запятыми.",
+      "tags": [
+        "however_vs_although",
+        "however",
+        "connector"
+      ]
+    },
+    {
+      "id": "hva_28",
+      "question": "___ the survey sample was small, the findings were statistically significant.",
+      "optionA": "HOWEVER",
+      "optionB": "ALTHOUGH",
+      "correctIndex": 1,
+      "explanation": "Although + clause — «Хотя выборка была маленькой, результаты были статистически значимы.»",
+      "tags": [
+        "however_vs_although",
+        "although",
+        "conjunction"
+      ]
+    },
+    {
+      "id": "hva_29",
+      "question": "The design is visually appealing. ___, it lacks the functionality users expect.",
+      "optionA": "HOWEVER",
+      "optionB": "ALTHOUGH",
+      "correctIndex": 0,
+      "explanation": "However — коннектор между двумя предложениями: «Дизайн привлекателен. Однако ему не хватает функционала.»",
+      "tags": [
+        "however_vs_although",
+        "however",
+        "connector"
+      ]
+    },
+    {
+      "id": "hva_30",
+      "question": "___ considerable progress has been made, significant challenges remain ahead.",
+      "optionA": "HOWEVER",
+      "optionB": "ALTHOUGH",
+      "correctIndex": 1,
+      "explanation": "Although + clause — «Хотя достигнут значительный прогресс, впереди ещё серьёзные трудности.»",
+      "tags": [
+        "however_vs_although",
+        "although",
+        "conjunction"
+      ]
+    }
+  ]
+}

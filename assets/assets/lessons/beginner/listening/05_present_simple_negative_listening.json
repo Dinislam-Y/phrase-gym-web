@@ -1,0 +1,461 @@
+{
+  "id": "beginner_listening_05_present_simple_negative",
+  "title": "Present Simple: Negative",
+  "description": "Слушайте короткие предложения в Present Simple с отрицанием.",
+  "order": 5,
+  "level": "beginner",
+  "imageUrl": "assets/images/lessons/present_simple_negative.png",
+  "short_description": "Отрицательные предложения в Present Simple.",
+  "tasks": [
+    {
+      "id": "t5_01",
+      "audioText": "He looks at the menu. He does not like fish.",
+      "transcript": "He does not like fish.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He does not like fish."
+        },
+        {
+          "id": "o2",
+          "text": "He likes fish."
+        },
+        {
+          "id": "o3",
+          "text": "He is buying fish."
+        },
+        {
+          "id": "o4",
+          "text": "He ate fish."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says he does not like fish. Other options say the opposite or a different action.",
+      "mistakeTags": [
+        "restaurant",
+        "present_simple_negative"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_05_present_simple_negative/t5_01.mp3"
+    },
+    {
+      "id": "t5_02",
+      "audioText": "She checks her bag at home. She does not have her keys.",
+      "transcript": "She does not have her keys.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She does not have her keys."
+        },
+        {
+          "id": "o2",
+          "text": "She has her keys."
+        },
+        {
+          "id": "o3",
+          "text": "She buys keys."
+        },
+        {
+          "id": "o4",
+          "text": "She found new keys."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says she does not possess keys now. Other options say she has keys or other actions.",
+      "mistakeTags": [
+        "home",
+        "have_has"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_05_present_simple_negative/t5_02.mp3"
+    },
+    {
+      "id": "t5_03",
+      "audioText": "They wait at the stop. The bus does not come on time.",
+      "transcript": "The bus does not come on time.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The bus does not come on time."
+        },
+        {
+          "id": "o2",
+          "text": "The bus comes on time."
+        },
+        {
+          "id": "o3",
+          "text": "They missed the bus."
+        },
+        {
+          "id": "o4",
+          "text": "The bus comes later today."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says the bus is not on time. Other options say the opposite or give a different fact.",
+      "mistakeTags": [
+        "bus_station",
+        "present_simple_negative"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_05_present_simple_negative/t5_03.mp3"
+    },
+    {
+      "id": "t5_04",
+      "audioText": "At the shop the seller shows shoes. They do not fit him.",
+      "transcript": "They do not fit him.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "They do not fit him."
+        },
+        {
+          "id": "o2",
+          "text": "They fit him."
+        },
+        {
+          "id": "o3",
+          "text": "He tries new shoes."
+        },
+        {
+          "id": "o4",
+          "text": "He buys the shoes."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says the shoes do not fit. Other options say they fit or a different action.",
+      "mistakeTags": [
+        "shop",
+        "present_simple_negative"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_05_present_simple_negative/t5_04.mp3"
+    },
+    {
+      "id": "t5_05",
+      "audioText": "He calls the office. He does not work on Sundays.",
+      "transcript": "He does not work on Sundays.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He does not work on Sundays."
+        },
+        {
+          "id": "o2",
+          "text": "He works on Sundays."
+        },
+        {
+          "id": "o3",
+          "text": "He is working now."
+        },
+        {
+          "id": "o4",
+          "text": "He worked last Sunday."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence states he does not have work on Sundays. Other options change the habit or tense.",
+      "mistakeTags": [
+        "office",
+        "present_simple_negative"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_05_present_simple_negative/t5_05.mp3"
+    },
+    {
+      "id": "t5_06",
+      "audioText": "At the bank the clerk checks accounts. The client does not have money.",
+      "transcript": "The client does not have money.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The client does not have money."
+        },
+        {
+          "id": "o2",
+          "text": "The client has money."
+        },
+        {
+          "id": "o3",
+          "text": "The client gets money now."
+        },
+        {
+          "id": "o4",
+          "text": "The client lost money today."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says the client lacks money now. Other options state the opposite or a different event.",
+      "mistakeTags": [
+        "bank",
+        "present_simple_negative"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_05_present_simple_negative/t5_06.mp3"
+    },
+    {
+      "id": "t5_07",
+      "audioText": "She looks at the schedule. The train does not stop here.",
+      "transcript": "The train does not stop here.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The train does not stop here."
+        },
+        {
+          "id": "o2",
+          "text": "The train stops here."
+        },
+        {
+          "id": "o3",
+          "text": "The train is arriving now."
+        },
+        {
+          "id": "o4",
+          "text": "The train stopped earlier."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says the train does not stop at this place. Other options say the opposite or different time.",
+      "mistakeTags": [
+        "station",
+        "present_simple_negative"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_05_present_simple_negative/t5_07.mp3"
+    },
+    {
+      "id": "t5_08",
+      "audioText": "At the clinic the patient waits. He does not feel sick today.",
+      "transcript": "He does not feel sick today.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He does not feel sick today."
+        },
+        {
+          "id": "o2",
+          "text": "He feels sick today."
+        },
+        {
+          "id": "o3",
+          "text": "He will feel sick."
+        },
+        {
+          "id": "o4",
+          "text": "He felt sick yesterday."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says he is not sick today. Other options state the opposite or different time.",
+      "mistakeTags": [
+        "hospital",
+        "present_simple_negative"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_05_present_simple_negative/t5_08.mp3"
+    },
+    {
+      "id": "t5_09",
+      "audioText": "They check the menu at home. We do not have sugar.",
+      "transcript": "We do not have sugar.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "We do not have sugar."
+        },
+        {
+          "id": "o2",
+          "text": "We have sugar."
+        },
+        {
+          "id": "o3",
+          "text": "We buy sugar now."
+        },
+        {
+          "id": "o4",
+          "text": "They have sugar."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says sugar is not available. Other options say it is available or different actions.",
+      "mistakeTags": [
+        "home",
+        "present_simple_negative"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_05_present_simple_negative/t5_09.mp3"
+    },
+    {
+      "id": "t5_10",
+      "audioText": "In class the student asks a question. He does not know the answer.",
+      "transcript": "He does not know the answer.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He does not know the answer."
+        },
+        {
+          "id": "o2",
+          "text": "He knows the answer."
+        },
+        {
+          "id": "o3",
+          "text": "He asks the teacher now."
+        },
+        {
+          "id": "o4",
+          "text": "He found the answer."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says he lacks the knowledge now. Other options give the opposite or different events.",
+      "mistakeTags": [
+        "school",
+        "present_simple_negative"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_05_present_simple_negative/t5_10.mp3"
+    },
+    {
+      "id": "t5_11",
+      "audioText": "At the shop she looks at fruit. The apples do not look fresh.",
+      "transcript": "The apples do not look fresh.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The apples do not look fresh."
+        },
+        {
+          "id": "o2",
+          "text": "The apples look fresh."
+        },
+        {
+          "id": "o3",
+          "text": "She buys the apples."
+        },
+        {
+          "id": "o4",
+          "text": "The apples were fresh."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says the apples appear not fresh now. Other options state the opposite or other actions.",
+      "mistakeTags": [
+        "market",
+        "present_simple_negative"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_05_present_simple_negative/t5_11.mp3"
+    },
+    {
+      "id": "t5_12",
+      "audioText": "He opens the bag at the gym. He does not carry a towel.",
+      "transcript": "He does not carry a towel.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He does not carry a towel."
+        },
+        {
+          "id": "o2",
+          "text": "He carries a towel."
+        },
+        {
+          "id": "o3",
+          "text": "He buys a towel."
+        },
+        {
+          "id": "o4",
+          "text": "He found a towel."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says he does not have a towel with him. Other options say he has one or different actions.",
+      "mistakeTags": [
+        "gym",
+        "present_simple_negative"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_05_present_simple_negative/t5_12.mp3"
+    },
+    {
+      "id": "t5_13",
+      "audioText": "They look for a taxi on the street. The driver does not speak English.",
+      "transcript": "The driver does not speak English.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The driver does not speak English."
+        },
+        {
+          "id": "o2",
+          "text": "The driver speaks English."
+        },
+        {
+          "id": "o3",
+          "text": "The driver will speak English."
+        },
+        {
+          "id": "o4",
+          "text": "He speaks to the driver now."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says the driver lacks English skill. Other options state the opposite or different time.",
+      "mistakeTags": [
+        "taxi",
+        "present_simple_negative"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_05_present_simple_negative/t5_13.mp3"
+    },
+    {
+      "id": "t5_14",
+      "audioText": "At the hotel she asks about breakfast. The hotel does not offer dinner.",
+      "transcript": "The hotel does not offer dinner.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The hotel does not offer dinner."
+        },
+        {
+          "id": "o2",
+          "text": "The hotel offers dinner."
+        },
+        {
+          "id": "o3",
+          "text": "She will get dinner."
+        },
+        {
+          "id": "o4",
+          "text": "The hotel had dinner."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says the hotel does not provide dinner. Other options say the opposite or different time.",
+      "mistakeTags": [
+        "hotel",
+        "present_simple_negative"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_05_present_simple_negative/t5_14.mp3"
+    },
+    {
+      "id": "t5_15",
+      "audioText": "He shows his ID at the police station. He does not have a license.",
+      "transcript": "He does not have a license.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He does not have a license."
+        },
+        {
+          "id": "o2",
+          "text": "He has a license."
+        },
+        {
+          "id": "o3",
+          "text": "He will get a license."
+        },
+        {
+          "id": "o4",
+          "text": "He found his license."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says he lacks a license now. Other options say he has one or other events.",
+      "mistakeTags": [
+        "police_station",
+        "present_simple_negative"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_05_present_simple_negative/t5_15.mp3"
+    }
+  ]
+}

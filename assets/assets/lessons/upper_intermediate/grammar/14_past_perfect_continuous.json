@@ -1,0 +1,2232 @@
+{
+  "id": "upper_14_past_perfect_continuous",
+  "title": "Past Perfect Continuous",
+  "description": "I had been waiting for hours when she arrived. Длительное действие до другого события в прошлом.",
+  "order": 14,
+  "level": "upper_intermediate",
+  "imageUrl": "assets/images/lessons/past_perfect_continuous.png",
+  "vocabulary": [
+    {
+      "id": "v14_wait",
+      "english": "wait",
+      "russian": "ждать",
+      "partOfSpeech": "verb",
+      "example": "I had been waiting for two hours.",
+      "exampleTranslation": "Я ждал два часа.",
+      "audioPath": "assets/audio/vocabulary/v14_wait.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_wait.mp3"
+    },
+    {
+      "id": "v14_rain",
+      "english": "rain",
+      "russian": "идти (о дожде)",
+      "partOfSpeech": "verb",
+      "example": "It had been raining all day.",
+      "exampleTranslation": "Дождь шёл весь день.",
+      "audioPath": "assets/audio/vocabulary/v14_rain.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_rain.mp3"
+    },
+    {
+      "id": "v14_study",
+      "english": "study",
+      "russian": "учиться, изучать",
+      "partOfSpeech": "verb",
+      "example": "She had been studying for five hours.",
+      "exampleTranslation": "Она училась пять часов.",
+      "audioPath": "assets/audio/vocabulary/v14_study.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_study.mp3"
+    },
+    {
+      "id": "v14_work",
+      "english": "work",
+      "russian": "работать",
+      "partOfSpeech": "verb",
+      "example": "He had been working there for ten years.",
+      "exampleTranslation": "Он работал там десять лет.",
+      "audioPath": "assets/audio/vocabulary/v14_work.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_work.mp3"
+    },
+    {
+      "id": "v14_drive",
+      "english": "drive",
+      "russian": "ехать, вести машину",
+      "partOfSpeech": "verb",
+      "example": "They had been driving for hours.",
+      "exampleTranslation": "Они ехали часами.",
+      "audioPath": "assets/audio/vocabulary/v14_drive.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_drive.mp3"
+    },
+    {
+      "id": "v14_practice",
+      "english": "practice",
+      "russian": "практиковаться, тренироваться",
+      "partOfSpeech": "verb",
+      "example": "She had been practicing the piano all morning.",
+      "exampleTranslation": "Она занималась на пианино всё утро.",
+      "audioPath": "assets/audio/vocabulary/v14_practice.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_practice.mp3"
+    },
+    {
+      "id": "v14_search",
+      "english": "search",
+      "russian": "искать",
+      "partOfSpeech": "verb",
+      "example": "We had been searching for the keys.",
+      "exampleTranslation": "Мы искали ключи.",
+      "audioPath": "assets/audio/vocabulary/v14_search.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_search.mp3"
+    },
+    {
+      "id": "v14_argue",
+      "english": "argue",
+      "russian": "спорить, ссориться",
+      "partOfSpeech": "verb",
+      "example": "They had been arguing for an hour.",
+      "exampleTranslation": "Они спорили целый час.",
+      "audioPath": "assets/audio/vocabulary/v14_argue.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_argue.mp3"
+    },
+    {
+      "id": "v14_train",
+      "english": "train",
+      "russian": "тренироваться",
+      "partOfSpeech": "verb",
+      "example": "He had been training for the marathon.",
+      "exampleTranslation": "Он тренировался к марафону.",
+      "audioPath": "assets/audio/vocabulary/v14_train.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_train.mp3"
+    },
+    {
+      "id": "v14_cook",
+      "english": "cook",
+      "russian": "готовить (еду)",
+      "partOfSpeech": "verb",
+      "example": "She had been cooking since morning.",
+      "exampleTranslation": "Она готовила с самого утра.",
+      "audioPath": "assets/audio/vocabulary/v14_cook.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_cook.mp3"
+    },
+    {
+      "id": "v14_plan",
+      "english": "plan",
+      "russian": "планировать",
+      "partOfSpeech": "verb",
+      "example": "We had been planning the trip for months.",
+      "exampleTranslation": "Мы планировали поездку несколько месяцев.",
+      "audioPath": "assets/audio/vocabulary/v14_plan.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_plan.mp3"
+    },
+    {
+      "id": "v14_live",
+      "english": "live",
+      "russian": "жить, проживать",
+      "partOfSpeech": "verb",
+      "example": "They had been living there for years.",
+      "exampleTranslation": "Они жили там годами.",
+      "audioPath": "assets/audio/vocabulary/v14_live.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_live.mp3"
+    },
+    {
+      "id": "v14_complain",
+      "english": "complain",
+      "russian": "жаловаться",
+      "partOfSpeech": "verb",
+      "example": "He had been complaining about the noise.",
+      "exampleTranslation": "Он жаловался на шум.",
+      "audioPath": "assets/audio/vocabulary/v14_complain.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_complain.mp3"
+    },
+    {
+      "id": "v14_negotiate",
+      "english": "negotiate",
+      "russian": "вести переговоры",
+      "partOfSpeech": "verb",
+      "example": "They had been negotiating for weeks.",
+      "exampleTranslation": "Они вели переговоры неделями.",
+      "audioPath": "assets/audio/vocabulary/v14_negotiate.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_negotiate.mp3"
+    },
+    {
+      "id": "v14_suffer",
+      "english": "suffer",
+      "russian": "страдать",
+      "partOfSpeech": "verb",
+      "example": "She had been suffering from headaches.",
+      "exampleTranslation": "Она страдала от головных болей.",
+      "audioPath": "assets/audio/vocabulary/v14_suffer.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_suffer.mp3"
+    },
+    {
+      "id": "v14_investigate",
+      "english": "investigate",
+      "russian": "расследовать",
+      "partOfSpeech": "verb",
+      "example": "The police had been investigating the case.",
+      "exampleTranslation": "Полиция расследовала это дело.",
+      "audioPath": "assets/audio/vocabulary/v14_investigate.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_investigate.mp3"
+    },
+    {
+      "id": "v14_avoid",
+      "english": "avoid",
+      "russian": "избегать",
+      "partOfSpeech": "verb",
+      "example": "He had been avoiding the question.",
+      "exampleTranslation": "Он избегал этого вопроса.",
+      "audioPath": "assets/audio/vocabulary/v14_avoid.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_avoid.mp3"
+    },
+    {
+      "id": "v14_consider",
+      "english": "consider",
+      "russian": "рассматривать, обдумывать",
+      "partOfSpeech": "verb",
+      "example": "We had been considering the offer.",
+      "exampleTranslation": "Мы обдумывали предложение.",
+      "audioPath": "assets/audio/vocabulary/v14_consider.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_consider.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "Past Perfect Continuous",
+    "subtitle": "Это время описывает длительное действие, которое происходило до определённого момента в прошлом. Акцент на продолжительности процесса.",
+    "construction": {
+      "formula": "Subject + had + been + V-ing",
+      "rules": [
+        {
+          "word": "had been + V-ing",
+          "description": "Основная формула: I had been waiting (Я ждал). Had been одинаково для всех лиц."
+        },
+        {
+          "word": "for + период",
+          "description": "Указывает длительность: had been working for three hours (работал три часа)."
+        },
+        {
+          "word": "since + момент",
+          "description": "Указывает начало: had been living there since 2010 (жил там с 2010)."
+        },
+        {
+          "word": "when / before / by the time",
+          "description": "Связывает с другим прошлым событием: I had been sleeping when the phone rang."
+        },
+        {
+          "word": "Видимый результат",
+          "description": "Объясняет причину состояния: He was tired because he had been running (Он устал, потому что бегал)."
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "schedule",
+        "color": "blue",
+        "title": "Длительное действие до момента в прошлом",
+        "description": "Процесс, продолжавшийся до определённого события.",
+        "example": {
+          "english": "I had been waiting for an hour when the bus finally came.",
+          "russian": "Я ждал час, когда наконец пришёл автобус."
+        }
+      },
+      {
+        "icon": "visibility",
+        "color": "orange",
+        "title": "Объяснение видимого результата",
+        "description": "Почему что-то выглядело определённым образом.",
+        "example": {
+          "english": "Her eyes were red because she had been crying.",
+          "russian": "Её глаза были красными, потому что она плакала."
+        }
+      },
+      {
+        "icon": "explore",
+        "color": "purple",
+        "title": "Продолжительность до прерывания",
+        "description": "Действие длилось, пока не было прервано.",
+        "example": {
+          "english": "We had been driving for five hours before we stopped.",
+          "russian": "Мы ехали пять часов, прежде чем остановились."
+        }
+      }
+    ],
+    "markers": [
+      "for (hours/days/years)",
+      "since",
+      "all day/morning",
+      "when",
+      "before",
+      "by the time"
+    ]
+  },
+  "theoryQuiz": [
+    {
+      "id": "tq_14_01",
+      "type": "multipleChoice",
+      "question": "Какая формула Past Perfect Continuous?",
+      "options": [
+        "had + V3",
+        "had + been + V-ing",
+        "was/were + V-ing",
+        "have + been + V-ing"
+      ],
+      "correctIndex": 1,
+      "explanation": "Past Perfect Continuous: Subject + had + been + V-ing."
+    },
+    {
+      "id": "tq_14_02",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"She ___ for two hours when I arrived.\"",
+      "options": [
+        "waited",
+        "has been waiting",
+        "had been waiting",
+        "was waiting"
+      ],
+      "correctIndex": 2,
+      "explanation": "Длительное действие до другого прошлого события — Past Perfect Continuous: had been waiting."
+    },
+    {
+      "id": "tq_14_03",
+      "type": "trueFalse",
+      "question": "Past Perfect Continuous подчёркивает продолжительность действия до момента в прошлом.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Да, акцент именно на продолжительности процесса до определённого момента."
+    },
+    {
+      "id": "tq_14_04",
+      "type": "multipleChoice",
+      "question": "Какое слово указывает на начальную точку действия?",
+      "options": [
+        "for",
+        "since",
+        "during",
+        "while"
+      ],
+      "correctIndex": 1,
+      "explanation": "Since указывает на начальный момент: since Monday, since 2020."
+    },
+    {
+      "id": "tq_14_05",
+      "type": "multipleChoice",
+      "question": "\"He was tired because he ___\" — выберите правильный вариант.",
+      "options": [
+        "had been running",
+        "has been running",
+        "was running",
+        "ran"
+      ],
+      "correctIndex": 0,
+      "explanation": "Объяснение причины состояния в прошлом — Past Perfect Continuous: had been running."
+    },
+    {
+      "id": "tq_14_06",
+      "type": "trueFalse",
+      "question": "\"I had been working\" и \"I had worked\" означают одно и то же.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "Had been working подчёркивает продолжительность процесса, а had worked — завершённый результат."
+    },
+    {
+      "id": "tq_14_07",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"It ___ all day before the sun came out.\"",
+      "options": [
+        "rained",
+        "has been raining",
+        "had been raining",
+        "was raining"
+      ],
+      "correctIndex": 2,
+      "explanation": "Длительное действие до другого прошлого события: had been raining."
+    },
+    {
+      "id": "tq_14_08",
+      "type": "multipleChoice",
+      "question": "Какой маркер НЕ типичен для Past Perfect Continuous?",
+      "options": [
+        "for three hours",
+        "since morning",
+        "tomorrow",
+        "all day"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tomorrow — маркер будущего времени, не Past Perfect Continuous."
+    },
+    {
+      "id": "tq_14_09",
+      "type": "trueFalse",
+      "question": "\"By the time she arrived, I had been cooking for two hours\" — правильное предложение.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "By the time + Past Simple, Past Perfect Continuous — классическая конструкция."
+    },
+    {
+      "id": "tq_14_10",
+      "type": "multipleChoice",
+      "question": "Как правильно: «Они жили в Лондоне пять лет, прежде чем переехали»?",
+      "options": [
+        "They lived in London for five years before they moved.",
+        "They had been living in London for five years before they moved.",
+        "They have been living in London for five years before they moved.",
+        "They were living in London for five years before they moved."
+      ],
+      "correctIndex": 1,
+      "explanation": "Длительное действие до другого прошлого события с акцентом на продолжительности: had been living."
+    }
+  ],
+  "tasks": [
+    {
+      "id": "t14_1",
+      "type": "sentenceAssembly",
+      "question": "Я ждал два часа",
+      "correctAnswer": "I had been waiting for two hours",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We",
+          "Me"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "was"
+        ],
+        [
+          "been",
+          "be",
+          "being",
+          "were"
+        ],
+        [
+          "waiting",
+          "waited",
+          "wait",
+          "waits"
+        ],
+        [
+          "for",
+          "since",
+          "during",
+          "in"
+        ],
+        [
+          "two",
+          "three",
+          "five",
+          "ten"
+        ],
+        [
+          "hours",
+          "minutes",
+          "days",
+          "weeks"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_14_past_perfect_continuous/000.mp3"
+    },
+    {
+      "id": "t14_2",
+      "type": "sentenceAssembly",
+      "question": "Дождь шёл весь день",
+      "correctAnswer": "It had been raining all day",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "He",
+          "She",
+          "This"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "was"
+        ],
+        [
+          "been",
+          "be",
+          "being",
+          "were"
+        ],
+        [
+          "raining",
+          "rained",
+          "rain",
+          "rains"
+        ],
+        [
+          "all",
+          "the",
+          "every",
+          "that"
+        ],
+        [
+          "day",
+          "morning",
+          "night",
+          "week"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_14_past_perfect_continuous/001.mp3"
+    },
+    {
+      "id": "t14_3",
+      "type": "sentenceAssembly",
+      "question": "Она училась пять часов",
+      "correctAnswer": "She had been studying for five hours",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "They",
+          "Her"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "was"
+        ],
+        [
+          "been",
+          "be",
+          "being",
+          "were"
+        ],
+        [
+          "studying",
+          "studied",
+          "study",
+          "studies"
+        ],
+        [
+          "for",
+          "since",
+          "during",
+          "in"
+        ],
+        [
+          "five",
+          "three",
+          "two",
+          "seven"
+        ],
+        [
+          "hours",
+          "minutes",
+          "days",
+          "weeks"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_14_past_perfect_continuous/002.mp3"
+    },
+    {
+      "id": "t14_4",
+      "type": "sentenceAssembly",
+      "question": "Он работал там десять лет",
+      "correctAnswer": "He had been working there for ten years",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "I",
+          "They",
+          "Him"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "was"
+        ],
+        [
+          "been",
+          "be",
+          "being",
+          "were"
+        ],
+        [
+          "working",
+          "worked",
+          "work",
+          "works"
+        ],
+        [
+          "there",
+          "here",
+          "near",
+          "away"
+        ],
+        [
+          "for",
+          "since",
+          "during",
+          "in"
+        ],
+        [
+          "ten",
+          "five",
+          "three",
+          "twenty"
+        ],
+        [
+          "years",
+          "months",
+          "weeks",
+          "days"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_14_past_perfect_continuous/003.mp3"
+    },
+    {
+      "id": "t14_5",
+      "type": "sentenceAssembly",
+      "question": "Они ехали несколько часов",
+      "correctAnswer": "They had been driving for several hours",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "We",
+          "I",
+          "He",
+          "Them"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "were"
+        ],
+        [
+          "been",
+          "be",
+          "being",
+          "was"
+        ],
+        [
+          "driving",
+          "drove",
+          "drive",
+          "driven"
+        ],
+        [
+          "for",
+          "since",
+          "during",
+          "in"
+        ],
+        [
+          "several",
+          "many",
+          "few",
+          "some"
+        ],
+        [
+          "hours",
+          "minutes",
+          "miles",
+          "days"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_14_past_perfect_continuous/004.mp3"
+    },
+    {
+      "id": "t14_6",
+      "type": "sentenceAssembly",
+      "question": "Мы искали ключи",
+      "correctAnswer": "We had been searching for the keys",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "I",
+          "He",
+          "Us"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "were"
+        ],
+        [
+          "been",
+          "be",
+          "being",
+          "was"
+        ],
+        [
+          "searching",
+          "searched",
+          "search",
+          "searches"
+        ],
+        [
+          "for",
+          "since",
+          "at",
+          "in"
+        ],
+        [
+          "the",
+          "our",
+          "my",
+          "some"
+        ],
+        [
+          "keys",
+          "phone",
+          "wallet",
+          "bag"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_14_past_perfect_continuous/005.mp3"
+    },
+    {
+      "id": "t14_7",
+      "type": "sentenceAssembly",
+      "question": "Она готовила с самого утра",
+      "correctAnswer": "She had been cooking since morning",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "They",
+          "Her"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "was"
+        ],
+        [
+          "been",
+          "be",
+          "being",
+          "were"
+        ],
+        [
+          "cooking",
+          "cooked",
+          "cook",
+          "cooks"
+        ],
+        [
+          "since",
+          "for",
+          "from",
+          "during"
+        ],
+        [
+          "morning",
+          "noon",
+          "evening",
+          "night"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_14_past_perfect_continuous/006.mp3"
+    },
+    {
+      "id": "t14_8",
+      "type": "sentenceAssembly",
+      "question": "Они спорили целый час",
+      "correctAnswer": "They had been arguing for an hour",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "We",
+          "I",
+          "He",
+          "Them"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "were"
+        ],
+        [
+          "been",
+          "be",
+          "being",
+          "was"
+        ],
+        [
+          "arguing",
+          "argued",
+          "argue",
+          "argues"
+        ],
+        [
+          "for",
+          "since",
+          "during",
+          "in"
+        ],
+        [
+          "an",
+          "a",
+          "the",
+          "one"
+        ],
+        [
+          "hour",
+          "day",
+          "minute",
+          "week"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_14_past_perfect_continuous/007.mp3"
+    },
+    {
+      "id": "t14_9",
+      "type": "sentenceAssembly",
+      "question": "Он тренировался к марафону",
+      "correctAnswer": "He had been training for the marathon",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "I",
+          "They",
+          "Him"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "was"
+        ],
+        [
+          "been",
+          "be",
+          "being",
+          "were"
+        ],
+        [
+          "training",
+          "trained",
+          "train",
+          "trains"
+        ],
+        [
+          "for",
+          "to",
+          "at",
+          "in"
+        ],
+        [
+          "the",
+          "a",
+          "his",
+          "this"
+        ],
+        [
+          "marathon",
+          "race",
+          "competition",
+          "game"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_14_past_perfect_continuous/008.mp3"
+    },
+    {
+      "id": "t14_10",
+      "type": "sentenceAssembly",
+      "question": "Мы планировали поездку несколько месяцев",
+      "correctAnswer": "We had been planning the trip for months",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "I",
+          "He",
+          "Us"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "were"
+        ],
+        [
+          "been",
+          "be",
+          "being",
+          "was"
+        ],
+        [
+          "planning",
+          "planned",
+          "plan",
+          "plans"
+        ],
+        [
+          "the",
+          "a",
+          "our",
+          "this"
+        ],
+        [
+          "trip",
+          "journey",
+          "vacation",
+          "holiday"
+        ],
+        [
+          "for",
+          "since",
+          "during",
+          "in"
+        ],
+        [
+          "months",
+          "weeks",
+          "years",
+          "days"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_14_past_perfect_continuous/009.mp3"
+    },
+    {
+      "id": "t14_11",
+      "type": "sentenceAssembly",
+      "question": "Я ждал час, когда пришёл автобус",
+      "correctAnswer": "I had been waiting for an hour when the bus came",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "was"
+        ],
+        [
+          "been",
+          "be",
+          "being",
+          "were"
+        ],
+        [
+          "waiting",
+          "waited",
+          "wait",
+          "waits"
+        ],
+        [
+          "for",
+          "since",
+          "during",
+          "in"
+        ],
+        [
+          "an",
+          "a",
+          "the",
+          "one"
+        ],
+        [
+          "hour",
+          "minute",
+          "day",
+          "while"
+        ],
+        [
+          "when",
+          "while",
+          "before",
+          "after"
+        ],
+        [
+          "the",
+          "a",
+          "my",
+          "his"
+        ],
+        [
+          "bus",
+          "train",
+          "taxi",
+          "car"
+        ],
+        [
+          "came",
+          "come",
+          "comes",
+          "coming"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_14_past_perfect_continuous/010.mp3"
+    },
+    {
+      "id": "t14_12",
+      "type": "sentenceAssembly",
+      "question": "Её глаза были красными, потому что она плакала",
+      "correctAnswer": "Her eyes were red because she had been crying",
+      "options": [],
+      "variants": [
+        [
+          "Her",
+          "His",
+          "My",
+          "Their"
+        ],
+        [
+          "eyes",
+          "hands",
+          "face",
+          "cheeks"
+        ],
+        [
+          "were",
+          "was",
+          "are",
+          "is"
+        ],
+        [
+          "red",
+          "blue",
+          "wet",
+          "dark"
+        ],
+        [
+          "because",
+          "since",
+          "although",
+          "when"
+        ],
+        [
+          "she",
+          "he",
+          "they",
+          "her"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "was"
+        ],
+        [
+          "been",
+          "be",
+          "being",
+          "were"
+        ],
+        [
+          "crying",
+          "cried",
+          "cry",
+          "cries"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_14_past_perfect_continuous/011.mp3"
+    },
+    {
+      "id": "t14_13",
+      "type": "sentenceAssembly",
+      "question": "Он устал, потому что бегал",
+      "correctAnswer": "He was tired because he had been running",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "I",
+          "They",
+          "Him"
+        ],
+        [
+          "was",
+          "is",
+          "were",
+          "has been"
+        ],
+        [
+          "tired",
+          "tiring",
+          "tiredly",
+          "tiredness"
+        ],
+        [
+          "because",
+          "since",
+          "although",
+          "when"
+        ],
+        [
+          "he",
+          "she",
+          "I",
+          "they"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "was"
+        ],
+        [
+          "been",
+          "be",
+          "being",
+          "were"
+        ],
+        [
+          "running",
+          "ran",
+          "run",
+          "runs"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_14_past_perfect_continuous/012.mp3"
+    },
+    {
+      "id": "t14_14",
+      "type": "sentenceAssembly",
+      "question": "Они жили в Лондоне пять лет, прежде чем переехали",
+      "correctAnswer": "They had been living in London for five years before they moved",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "We",
+          "I",
+          "He"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "were"
+        ],
+        [
+          "been",
+          "be",
+          "being",
+          "was"
+        ],
+        [
+          "living",
+          "lived",
+          "live",
+          "lives"
+        ],
+        [
+          "in",
+          "at",
+          "on",
+          "to"
+        ],
+        [
+          "London",
+          "Paris",
+          "Berlin",
+          "Moscow"
+        ],
+        [
+          "for",
+          "since",
+          "during",
+          "in"
+        ],
+        [
+          "five",
+          "three",
+          "ten",
+          "two"
+        ],
+        [
+          "years",
+          "months",
+          "weeks",
+          "days"
+        ],
+        [
+          "before",
+          "when",
+          "after",
+          "until"
+        ],
+        [
+          "they",
+          "we",
+          "he",
+          "she"
+        ],
+        [
+          "moved",
+          "move",
+          "moving",
+          "moves"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_14_past_perfect_continuous/013.mp3"
+    },
+    {
+      "id": "t14_15",
+      "type": "sentenceAssembly",
+      "question": "Она занималась на пианино всё утро",
+      "correctAnswer": "She had been practicing the piano all morning",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "They",
+          "Her"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "was"
+        ],
+        [
+          "been",
+          "be",
+          "being",
+          "were"
+        ],
+        [
+          "practicing",
+          "practiced",
+          "practice",
+          "practices"
+        ],
+        [
+          "the",
+          "a",
+          "her",
+          "this"
+        ],
+        [
+          "piano",
+          "guitar",
+          "violin",
+          "drums"
+        ],
+        [
+          "all",
+          "the",
+          "every",
+          "that"
+        ],
+        [
+          "morning",
+          "day",
+          "evening",
+          "night"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_14_past_perfect_continuous/014.mp3"
+    },
+    {
+      "id": "t14_16",
+      "type": "sentenceAssembly",
+      "question": "Он жаловался на шум",
+      "correctAnswer": "He had been complaining about the noise",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "I",
+          "They",
+          "Him"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "was"
+        ],
+        [
+          "been",
+          "be",
+          "being",
+          "were"
+        ],
+        [
+          "complaining",
+          "complained",
+          "complain",
+          "complains"
+        ],
+        [
+          "about",
+          "of",
+          "for",
+          "at"
+        ],
+        [
+          "the",
+          "a",
+          "this",
+          "that"
+        ],
+        [
+          "noise",
+          "weather",
+          "food",
+          "traffic"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_14_past_perfect_continuous/015.mp3"
+    },
+    {
+      "id": "t14_17",
+      "type": "sentenceAssembly",
+      "question": "Они вели переговоры неделями",
+      "correctAnswer": "They had been negotiating for weeks",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "We",
+          "I",
+          "He",
+          "Them"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "were"
+        ],
+        [
+          "been",
+          "be",
+          "being",
+          "was"
+        ],
+        [
+          "negotiating",
+          "negotiated",
+          "negotiate",
+          "negotiates"
+        ],
+        [
+          "for",
+          "since",
+          "during",
+          "in"
+        ],
+        [
+          "weeks",
+          "months",
+          "days",
+          "hours"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_14_past_perfect_continuous/016.mp3"
+    },
+    {
+      "id": "t14_18",
+      "type": "sentenceAssembly",
+      "question": "Она страдала от головных болей",
+      "correctAnswer": "She had been suffering from headaches",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "They",
+          "Her"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "was"
+        ],
+        [
+          "been",
+          "be",
+          "being",
+          "were"
+        ],
+        [
+          "suffering",
+          "suffered",
+          "suffer",
+          "suffers"
+        ],
+        [
+          "from",
+          "of",
+          "with",
+          "by"
+        ],
+        [
+          "headaches",
+          "pain",
+          "stress",
+          "problems"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_14_past_perfect_continuous/017.mp3"
+    },
+    {
+      "id": "t14_19",
+      "type": "sentenceAssembly",
+      "question": "Полиция расследовала дело несколько месяцев",
+      "correctAnswer": "The police had been investigating the case for months",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "This",
+          "That"
+        ],
+        [
+          "police",
+          "detective",
+          "officer",
+          "agent"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "were"
+        ],
+        [
+          "been",
+          "be",
+          "being",
+          "was"
+        ],
+        [
+          "investigating",
+          "investigated",
+          "investigate",
+          "investigates"
+        ],
+        [
+          "the",
+          "a",
+          "this",
+          "that"
+        ],
+        [
+          "case",
+          "crime",
+          "murder",
+          "robbery"
+        ],
+        [
+          "for",
+          "since",
+          "during",
+          "in"
+        ],
+        [
+          "months",
+          "weeks",
+          "years",
+          "days"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_14_past_perfect_continuous/018.mp3"
+    },
+    {
+      "id": "t14_20",
+      "type": "sentenceAssembly",
+      "question": "Он избегал этого вопроса",
+      "correctAnswer": "He had been avoiding the question",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "I",
+          "They",
+          "Him"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "was"
+        ],
+        [
+          "been",
+          "be",
+          "being",
+          "were"
+        ],
+        [
+          "avoiding",
+          "avoided",
+          "avoid",
+          "avoids"
+        ],
+        [
+          "the",
+          "a",
+          "this",
+          "that"
+        ],
+        [
+          "question",
+          "topic",
+          "issue",
+          "problem"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_14_past_perfect_continuous/019.mp3"
+    },
+    {
+      "id": "t14_21",
+      "type": "sentenceAssembly",
+      "question": "Мы обдумывали предложение уже давно",
+      "correctAnswer": "We had been considering the offer for a long time",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "I",
+          "He",
+          "Us"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "were"
+        ],
+        [
+          "been",
+          "be",
+          "being",
+          "was"
+        ],
+        [
+          "considering",
+          "considered",
+          "consider",
+          "considers"
+        ],
+        [
+          "the",
+          "a",
+          "this",
+          "an"
+        ],
+        [
+          "offer",
+          "proposal",
+          "deal",
+          "option"
+        ],
+        [
+          "for",
+          "since",
+          "during",
+          "in"
+        ],
+        [
+          "a",
+          "the",
+          "some",
+          "one"
+        ],
+        [
+          "long",
+          "short",
+          "great",
+          "brief"
+        ],
+        [
+          "time",
+          "while",
+          "period",
+          "moment"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_14_past_perfect_continuous/020.mp3"
+    },
+    {
+      "id": "t14_22",
+      "type": "sentenceAssembly",
+      "question": "К тому времени, как он пришёл, мы уже ждали час",
+      "correctAnswer": "By the time he arrived we had been waiting for an hour",
+      "options": [],
+      "variants": [
+        [
+          "By",
+          "At",
+          "In",
+          "On"
+        ],
+        [
+          "the",
+          "a",
+          "this",
+          "that"
+        ],
+        [
+          "time",
+          "moment",
+          "day",
+          "point"
+        ],
+        [
+          "he",
+          "she",
+          "they",
+          "we"
+        ],
+        [
+          "arrived",
+          "arrive",
+          "arriving",
+          "arrives"
+        ],
+        [
+          "we",
+          "they",
+          "I",
+          "he"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "were"
+        ],
+        [
+          "been",
+          "be",
+          "being",
+          "was"
+        ],
+        [
+          "waiting",
+          "waited",
+          "wait",
+          "waits"
+        ],
+        [
+          "for",
+          "since",
+          "during",
+          "in"
+        ],
+        [
+          "an",
+          "a",
+          "the",
+          "one"
+        ],
+        [
+          "hour",
+          "minute",
+          "day",
+          "while"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_14_past_perfect_continuous/021.mp3"
+    },
+    {
+      "id": "t14_23",
+      "type": "sentenceAssembly",
+      "question": "Земля была мокрой, потому что шёл дождь",
+      "correctAnswer": "The ground was wet because it had been raining",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "This",
+          "That"
+        ],
+        [
+          "ground",
+          "road",
+          "grass",
+          "floor"
+        ],
+        [
+          "was",
+          "is",
+          "were",
+          "has been"
+        ],
+        [
+          "wet",
+          "dry",
+          "cold",
+          "dirty"
+        ],
+        [
+          "because",
+          "since",
+          "although",
+          "when"
+        ],
+        [
+          "it",
+          "he",
+          "she",
+          "they"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "was"
+        ],
+        [
+          "been",
+          "be",
+          "being",
+          "were"
+        ],
+        [
+          "raining",
+          "rained",
+          "rain",
+          "rains"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_14_past_perfect_continuous/022.mp3"
+    },
+    {
+      "id": "t14_24",
+      "type": "sentenceAssembly",
+      "question": "Мы ехали пять часов, прежде чем остановились",
+      "correctAnswer": "We had been driving for five hours before we stopped",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "I",
+          "He"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "were"
+        ],
+        [
+          "been",
+          "be",
+          "being",
+          "was"
+        ],
+        [
+          "driving",
+          "drove",
+          "drive",
+          "driven"
+        ],
+        [
+          "for",
+          "since",
+          "during",
+          "in"
+        ],
+        [
+          "five",
+          "three",
+          "two",
+          "ten"
+        ],
+        [
+          "hours",
+          "minutes",
+          "miles",
+          "days"
+        ],
+        [
+          "before",
+          "when",
+          "after",
+          "until"
+        ],
+        [
+          "we",
+          "they",
+          "he",
+          "she"
+        ],
+        [
+          "stopped",
+          "stop",
+          "stopping",
+          "stops"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_14_past_perfect_continuous/023.mp3"
+    },
+    {
+      "id": "t14_25",
+      "type": "sentenceAssembly",
+      "question": "Она выглядела уставшей, потому что работала весь день",
+      "correctAnswer": "She looked tired because she had been working all day",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "They",
+          "Her"
+        ],
+        [
+          "looked",
+          "look",
+          "looking",
+          "looks"
+        ],
+        [
+          "tired",
+          "tiring",
+          "tiredly",
+          "tiredness"
+        ],
+        [
+          "because",
+          "since",
+          "although",
+          "when"
+        ],
+        [
+          "she",
+          "he",
+          "I",
+          "they",
+          "her"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "was"
+        ],
+        [
+          "been",
+          "be",
+          "being",
+          "were"
+        ],
+        [
+          "working",
+          "worked",
+          "work",
+          "works"
+        ],
+        [
+          "all",
+          "the",
+          "every",
+          "that"
+        ],
+        [
+          "day",
+          "morning",
+          "night",
+          "week"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_14_past_perfect_continuous/024.mp3"
+    },
+    {
+      "id": "t14_26",
+      "type": "sentenceAssembly",
+      "question": "Когда я позвонил, она уже спала два часа",
+      "correctAnswer": "When I called she had been sleeping for two hours",
+      "options": [],
+      "variants": [
+        [
+          "When",
+          "While",
+          "Before",
+          "After"
+        ],
+        [
+          "I",
+          "he",
+          "she",
+          "we"
+        ],
+        [
+          "called",
+          "call",
+          "calling",
+          "calls"
+        ],
+        [
+          "she",
+          "he",
+          "I",
+          "they",
+          "her"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "was"
+        ],
+        [
+          "been",
+          "be",
+          "being",
+          "were"
+        ],
+        [
+          "sleeping",
+          "slept",
+          "sleep",
+          "sleeps"
+        ],
+        [
+          "for",
+          "since",
+          "during",
+          "in"
+        ],
+        [
+          "two",
+          "three",
+          "five",
+          "ten"
+        ],
+        [
+          "hours",
+          "minutes",
+          "days",
+          "weeks"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_14_past_perfect_continuous/025.mp3"
+    },
+    {
+      "id": "t14_27",
+      "type": "sentenceAssembly",
+      "question": "Он читал книгу уже три часа, когда свет погас",
+      "correctAnswer": "He had been reading a book for three hours when the light went out",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "I",
+          "They"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "was"
+        ],
+        [
+          "been",
+          "be",
+          "being",
+          "were"
+        ],
+        [
+          "reading",
+          "read",
+          "reads",
+          "readed"
+        ],
+        [
+          "a",
+          "the",
+          "his",
+          "this"
+        ],
+        [
+          "book",
+          "novel",
+          "paper",
+          "letter"
+        ],
+        [
+          "for",
+          "since",
+          "during",
+          "in"
+        ],
+        [
+          "three",
+          "two",
+          "five",
+          "four"
+        ],
+        [
+          "hours",
+          "minutes",
+          "days",
+          "pages"
+        ],
+        [
+          "when",
+          "while",
+          "before",
+          "after"
+        ],
+        [
+          "the",
+          "a",
+          "his",
+          "our"
+        ],
+        [
+          "light",
+          "power",
+          "lamp",
+          "sun"
+        ],
+        [
+          "went",
+          "go",
+          "goes",
+          "gone"
+        ],
+        [
+          "out",
+          "off",
+          "away",
+          "down"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_14_past_perfect_continuous/026.mp3"
+    },
+    {
+      "id": "t14_28",
+      "type": "sentenceAssembly",
+      "question": "Дети играли в парке с обеда",
+      "correctAnswer": "The children had been playing in the park since lunch",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "Some",
+          "Our",
+          "Those"
+        ],
+        [
+          "children",
+          "kids",
+          "boys",
+          "girls"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "were"
+        ],
+        [
+          "been",
+          "be",
+          "being",
+          "was"
+        ],
+        [
+          "playing",
+          "played",
+          "play",
+          "plays"
+        ],
+        [
+          "in",
+          "at",
+          "on",
+          "by"
+        ],
+        [
+          "the",
+          "a",
+          "our",
+          "this"
+        ],
+        [
+          "park",
+          "garden",
+          "yard",
+          "street"
+        ],
+        [
+          "since",
+          "for",
+          "from",
+          "during"
+        ],
+        [
+          "lunch",
+          "morning",
+          "noon",
+          "dinner"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_14_past_perfect_continuous/027.mp3"
+    },
+    {
+      "id": "t14_29",
+      "type": "sentenceAssembly",
+      "question": "Мы не спали уже сутки",
+      "correctAnswer": "We had not been sleeping for twenty-four hours",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "I",
+          "He"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "were"
+        ],
+        [
+          "not",
+          "never",
+          "no",
+          "none"
+        ],
+        [
+          "been",
+          "be",
+          "being",
+          "was"
+        ],
+        [
+          "sleeping",
+          "slept",
+          "sleep",
+          "sleeps"
+        ],
+        [
+          "for",
+          "since",
+          "during",
+          "in"
+        ],
+        [
+          "twenty-four",
+          "twelve",
+          "forty-eight",
+          "ten"
+        ],
+        [
+          "hours",
+          "minutes",
+          "days",
+          "nights"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_14_past_perfect_continuous/028.mp3"
+    },
+    {
+      "id": "t14_30",
+      "type": "sentenceAssembly",
+      "question": "Как долго ты ждал, прежде чем она пришла?",
+      "correctAnswer": "How long had you been waiting before she arrived",
+      "options": [],
+      "variants": [
+        [
+          "How",
+          "What",
+          "When",
+          "Why"
+        ],
+        [
+          "long",
+          "much",
+          "many",
+          "far"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "were"
+        ],
+        [
+          "you",
+          "he",
+          "she",
+          "they"
+        ],
+        [
+          "been",
+          "be",
+          "being",
+          "was"
+        ],
+        [
+          "waiting",
+          "waited",
+          "wait",
+          "waits"
+        ],
+        [
+          "before",
+          "when",
+          "after",
+          "until"
+        ],
+        [
+          "she",
+          "he",
+          "they",
+          "her"
+        ],
+        [
+          "arrived",
+          "arrive",
+          "arriving",
+          "arrives"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_14_past_perfect_continuous/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionUpperIntermediate14PastPerfectContinuous"
+}

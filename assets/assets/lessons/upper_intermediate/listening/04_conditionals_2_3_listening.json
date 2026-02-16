@@ -1,0 +1,476 @@
+{
+  "id": "upper_listening_04_conditionals_2_3",
+  "title": "Conditionals: Second & Third",
+  "description": "Слушайте нереальные условия настоящего и прошлого.",
+  "order": 4,
+  "level": "upper_intermediate",
+  "imageUrl": "assets/images/lessons/conditionals_2_3.png",
+  "tasks": [
+    {
+      "id": "t4_01",
+      "audioText": "My sister dreams about living abroad. If she spoke fluent French, she would move to Paris immediately.",
+      "transcript": "If she spoke fluent French, she would move to Paris immediately.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She speaks French fluently and is moving to Paris."
+        },
+        {
+          "id": "o2",
+          "text": "She doesn't speak French well enough, so she can't move to Paris right now."
+        },
+        {
+          "id": "o3",
+          "text": "She moved to Paris last year."
+        },
+        {
+          "id": "o4",
+          "text": "She will learn French next month and then move."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "Second conditional: if + past simple, would + base verb. This describes an unreal present situation — she doesn't speak French fluently.",
+      "mistakeTags": [
+        "travel",
+        "conditionals_2_3",
+        "conditional"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_04_conditionals_2_3/t4_01.mp3"
+    },
+    {
+      "id": "t4_02",
+      "audioText": "Jake regrets not studying harder at university. If he had studied more seriously, he would have graduated with honours.",
+      "transcript": "If he had studied more seriously, he would have graduated with honours.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He studied hard and graduated with honours."
+        },
+        {
+          "id": "o2",
+          "text": "He didn't study enough, so he missed the chance to graduate with honours."
+        },
+        {
+          "id": "o3",
+          "text": "He is studying seriously right now."
+        },
+        {
+          "id": "o4",
+          "text": "He will study harder next semester."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "Third conditional: if + had + past participle, would have + past participle. An unreal past — he didn't study hard, so he didn't graduate with honours.",
+      "mistakeTags": [
+        "education",
+        "conditionals_2_3",
+        "conditional"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_04_conditionals_2_3/t4_02.mp3"
+    },
+    {
+      "id": "t4_03",
+      "audioText": "Money is always tight in our household. If we had more savings, we would renovate the kitchen this year.",
+      "transcript": "If we had more savings, we would renovate the kitchen this year.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "They have enough savings and are renovating the kitchen."
+        },
+        {
+          "id": "o2",
+          "text": "They don't have enough money, so the kitchen renovation isn't happening."
+        },
+        {
+          "id": "o3",
+          "text": "They renovated the kitchen last year."
+        },
+        {
+          "id": "o4",
+          "text": "They will definitely renovate next month."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "Second conditional expressing an unreal present — they lack sufficient savings, so the renovation is hypothetical.",
+      "mistakeTags": [
+        "home",
+        "conditionals_2_3",
+        "conditional"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_04_conditionals_2_3/t4_03.mp3"
+    },
+    {
+      "id": "t4_04",
+      "audioText": "The accident was a terrible experience. If the driver had been paying attention, the crash would not have happened.",
+      "transcript": "If the driver had been paying attention, the crash would not have happened.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The driver was attentive and prevented the crash."
+        },
+        {
+          "id": "o2",
+          "text": "The crash will happen in the future."
+        },
+        {
+          "id": "o3",
+          "text": "The driver was not paying attention, which caused the crash."
+        },
+        {
+          "id": "o4",
+          "text": "The driver always pays attention while driving."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "Third conditional: the driver wasn't attentive in reality, and the crash did happen. The sentence imagines a different past outcome.",
+      "mistakeTags": [
+        "transport",
+        "conditionals_2_3",
+        "conditional"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_04_conditionals_2_3/t4_04.mp3"
+    },
+    {
+      "id": "t4_05",
+      "audioText": "Lisa loves animals but has a small flat. If she lived in a house with a garden, she would adopt two or three dogs.",
+      "transcript": "If she lived in a house with a garden, she would adopt two or three dogs.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She lives in a house with a garden and has dogs."
+        },
+        {
+          "id": "o2",
+          "text": "She adopted dogs last year."
+        },
+        {
+          "id": "o3",
+          "text": "She doesn't live in a house with a garden, so she can't adopt dogs now."
+        },
+        {
+          "id": "o4",
+          "text": "She will buy a house next week and adopt dogs."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "Second conditional for an unreal present — her flat is too small, so adopting dogs remains a hypothetical wish.",
+      "mistakeTags": [
+        "home",
+        "conditionals_2_3",
+        "conditional"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_04_conditionals_2_3/t4_05.mp3"
+    },
+    {
+      "id": "t4_06",
+      "audioText": "The startup failed after only six months. If the founders had secured more investors, the company would have survived.",
+      "transcript": "If the founders had secured more investors, the company would have survived.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The founders found enough investors and the company is thriving."
+        },
+        {
+          "id": "o2",
+          "text": "The company failed because it didn't have enough investment."
+        },
+        {
+          "id": "o3",
+          "text": "The company will find investors next year."
+        },
+        {
+          "id": "o4",
+          "text": "The founders had too many investors."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "Third conditional: in reality, the founders didn't secure enough investors, and the company didn't survive.",
+      "mistakeTags": [
+        "business",
+        "conditionals_2_3",
+        "conditional"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_04_conditionals_2_3/t4_06.mp3"
+    },
+    {
+      "id": "t4_07",
+      "audioText": "I sometimes wonder about career changes. If I were a professional musician, I would travel the world performing concerts.",
+      "transcript": "If I were a professional musician, I would travel the world performing concerts.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "I am a professional musician and travel for concerts."
+        },
+        {
+          "id": "o2",
+          "text": "I imagine being a musician and touring globally, but it's not my reality."
+        },
+        {
+          "id": "o3",
+          "text": "I was a musician in the past."
+        },
+        {
+          "id": "o4",
+          "text": "I will become a musician next year."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "Second conditional with 'were' — an imaginary present scenario. The speaker is not a professional musician.",
+      "mistakeTags": [
+        "career",
+        "conditionals_2_3",
+        "conditional"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_04_conditionals_2_3/t4_07.mp3"
+    },
+    {
+      "id": "t4_08",
+      "audioText": "We talked about the missed opportunity all evening. If we had bought that house five years ago, it would have doubled in value by now.",
+      "transcript": "If we had bought that house five years ago, it would have doubled in value by now.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "They bought the house and its value doubled."
+        },
+        {
+          "id": "o2",
+          "text": "They didn't buy the house and missed a profitable investment."
+        },
+        {
+          "id": "o3",
+          "text": "They are buying the house right now."
+        },
+        {
+          "id": "o4",
+          "text": "The house lost all its value over five years."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "Third conditional expressing regret — they didn't purchase the house, and it would have been a great investment.",
+      "mistakeTags": [
+        "finance",
+        "conditionals_2_3",
+        "conditional"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_04_conditionals_2_3/t4_08.mp3"
+    },
+    {
+      "id": "t4_09",
+      "audioText": "Mark works overtime almost every day. If he didn't work so many hours, he would spend more time with his children.",
+      "transcript": "If he didn't work so many hours, he would spend more time with his children.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He works reasonable hours and sees his children often."
+        },
+        {
+          "id": "o2",
+          "text": "He works too much, which prevents him from spending time with his kids."
+        },
+        {
+          "id": "o3",
+          "text": "He stopped working overtime last month."
+        },
+        {
+          "id": "o4",
+          "text": "He doesn't have any children."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "Second conditional: the reality is he works too many hours, so spending time with children is only hypothetical.",
+      "mistakeTags": [
+        "family",
+        "conditionals_2_3",
+        "conditional"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_04_conditionals_2_3/t4_09.mp3"
+    },
+    {
+      "id": "t4_10",
+      "audioText": "The patient's recovery was slower than expected. If she had followed the doctor's advice from the start, she would have healed much faster.",
+      "transcript": "If she had followed the doctor's advice from the start, she would have healed much faster.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She followed the doctor's advice and recovered quickly."
+        },
+        {
+          "id": "o2",
+          "text": "She ignored the medical advice initially, which slowed down her recovery."
+        },
+        {
+          "id": "o3",
+          "text": "The doctor never gave her any advice."
+        },
+        {
+          "id": "o4",
+          "text": "She will follow the advice starting tomorrow."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "Third conditional: she didn't follow the advice in reality, resulting in a slower recovery than possible.",
+      "mistakeTags": [
+        "health",
+        "conditionals_2_3",
+        "conditional"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_04_conditionals_2_3/t4_10.mp3"
+    },
+    {
+      "id": "t4_11",
+      "audioText": "Public transport in our city is unreliable. If the trains ran on schedule, fewer people would drive to work.",
+      "transcript": "If the trains ran on schedule, fewer people would drive to work.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The trains run on time and fewer people drive."
+        },
+        {
+          "id": "o2",
+          "text": "Trains are not punctual, so many people prefer to drive instead."
+        },
+        {
+          "id": "o3",
+          "text": "Nobody drives to work in this city."
+        },
+        {
+          "id": "o4",
+          "text": "The trains will start running on time next week."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "Second conditional: in reality, trains don't run on schedule, which is why people drive. The punctual scenario is hypothetical.",
+      "mistakeTags": [
+        "transport",
+        "conditionals_2_3",
+        "conditional"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_04_conditionals_2_3/t4_11.mp3"
+    },
+    {
+      "id": "t4_12",
+      "audioText": "The team lost the championship by a single point. If the goalkeeper had saved that last penalty, they would have won the trophy.",
+      "transcript": "If the goalkeeper had saved that last penalty, they would have won the trophy.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The goalkeeper saved the penalty and the team won."
+        },
+        {
+          "id": "o2",
+          "text": "The goalkeeper failed to save the final penalty, costing the team the championship."
+        },
+        {
+          "id": "o3",
+          "text": "There was no penalty in the match."
+        },
+        {
+          "id": "o4",
+          "text": "The team will play the championship next season."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "Third conditional: the goalkeeper didn't save the penalty, and the team lost. The sentence imagines a different past result.",
+      "mistakeTags": [
+        "sports",
+        "conditionals_2_3",
+        "conditional"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_04_conditionals_2_3/t4_12.mp3"
+    },
+    {
+      "id": "t4_13",
+      "audioText": "Emma wishes she could help more. If she had more free time, she would volunteer at the animal shelter every weekend.",
+      "transcript": "If she had more free time, she would volunteer at the animal shelter every weekend.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She has plenty of free time and volunteers every weekend."
+        },
+        {
+          "id": "o2",
+          "text": "She doesn't have enough free time to volunteer regularly at the shelter."
+        },
+        {
+          "id": "o3",
+          "text": "She volunteered at the shelter last year but stopped."
+        },
+        {
+          "id": "o4",
+          "text": "She dislikes animals and never volunteers."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "Second conditional: she lacks free time in reality, making regular volunteering only a wish, not a fact.",
+      "mistakeTags": [
+        "social",
+        "conditionals_2_3",
+        "conditional"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_04_conditionals_2_3/t4_13.mp3"
+    },
+    {
+      "id": "t4_14",
+      "audioText": "The negotiations collapsed last month. If both sides had shown more flexibility, they would have reached an agreement.",
+      "transcript": "If both sides had shown more flexibility, they would have reached an agreement.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Both sides were flexible and signed an agreement."
+        },
+        {
+          "id": "o2",
+          "text": "Neither side was flexible enough, which caused the negotiations to fail."
+        },
+        {
+          "id": "o3",
+          "text": "The negotiations are happening right now."
+        },
+        {
+          "id": "o4",
+          "text": "Only one side refused to negotiate."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "Third conditional: both sides lacked flexibility in reality, and the negotiations failed as a result.",
+      "mistakeTags": [
+        "business",
+        "conditionals_2_3",
+        "conditional"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_04_conditionals_2_3/t4_14.mp3"
+    },
+    {
+      "id": "t4_15",
+      "audioText": "I sometimes think about what life would be like. If I could travel back in time, I would choose to visit ancient Rome.",
+      "transcript": "If I could travel back in time, I would choose to visit ancient Rome.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "I can travel back in time and I'm going to Rome."
+        },
+        {
+          "id": "o2",
+          "text": "I visited ancient Rome in the past."
+        },
+        {
+          "id": "o3",
+          "text": "Time travel is impossible, but if it weren't, I'd go to ancient Rome."
+        },
+        {
+          "id": "o4",
+          "text": "I will visit modern Rome next summer."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "Second conditional for a completely hypothetical scenario — time travel is impossible, making the wish entirely unreal.",
+      "mistakeTags": [
+        "imagination",
+        "conditionals_2_3",
+        "conditional"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_04_conditionals_2_3/t4_15.mp3"
+    }
+  ],
+  "short_description": "Нереальные условия: второй и третий тип."
+}

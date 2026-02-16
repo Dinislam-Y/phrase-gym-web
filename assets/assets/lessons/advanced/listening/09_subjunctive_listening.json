@@ -1,0 +1,461 @@
+{
+  "id": "advanced_listening_09_subjunctive",
+  "title": "Subjunctive Mood",
+  "description": "Слушайте сослагательное наклонение в формальных контекстах.",
+  "order": 9,
+  "level": "advanced",
+  "imageUrl": "assets/images/lessons/subjunctive.png",
+  "tasks": [
+    {
+      "id": "t9_01",
+      "audioText": "The board reviewed the quarterly results. The chairman insisted that the CEO be present at the next shareholders' meeting.",
+      "transcript": "The chairman insisted that the CEO be present at the next shareholders' meeting.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The CEO was already present at the meeting."
+        },
+        {
+          "id": "o2",
+          "text": "The chairman demanded the CEO's attendance at the upcoming meeting."
+        },
+        {
+          "id": "o3",
+          "text": "The chairman suggested cancelling the meeting."
+        },
+        {
+          "id": "o4",
+          "text": "The CEO refused to attend any future meetings."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Insisted that ... be' is the formal subjunctive used after verbs of demand. It means the chairman demanded attendance.",
+      "mistakeTags": [
+        "subjunctive",
+        "business"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_09_subjunctive/t9_01.mp3"
+    },
+    {
+      "id": "t9_02",
+      "audioText": "The professor addressed the committee about academic standards. She recommended that every student submit a revised thesis by Friday.",
+      "transcript": "She recommended that every student submit a revised thesis by Friday.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Students already submitted their theses."
+        },
+        {
+          "id": "o2",
+          "text": "The professor rejected all the theses."
+        },
+        {
+          "id": "o3",
+          "text": "Her recommendation was for all students to hand in updated theses by Friday."
+        },
+        {
+          "id": "o4",
+          "text": "She asked students to submit theses next month."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Recommended that ... submit' uses the subjunctive base form after 'recommend'. It expresses a suggestion, not a completed action.",
+      "mistakeTags": [
+        "subjunctive",
+        "academia"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_09_subjunctive/t9_02.mp3"
+    },
+    {
+      "id": "t9_03",
+      "audioText": "The doctor examined the patient thoroughly. It is essential that he take the medication exactly as prescribed.",
+      "transcript": "It is essential that he take the medication exactly as prescribed.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He must follow the prescription precisely when taking his medication."
+        },
+        {
+          "id": "o2",
+          "text": "He has already taken all the prescribed medication."
+        },
+        {
+          "id": "o3",
+          "text": "The doctor refused to prescribe any medication."
+        },
+        {
+          "id": "o4",
+          "text": "He can take the medication whenever he wants."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'It is essential that he take' uses the mandative subjunctive to express necessity. The base form 'take' (not 'takes') signals a strong requirement.",
+      "mistakeTags": [
+        "subjunctive",
+        "medical"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_09_subjunctive/t9_03.mp3"
+    },
+    {
+      "id": "t9_04",
+      "audioText": "The economic crisis worsened across the region. The finance minister proposed that the government reduce taxes immediately.",
+      "transcript": "The finance minister proposed that the government reduce taxes immediately.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The government already reduced taxes last year."
+        },
+        {
+          "id": "o2",
+          "text": "The minister wanted to raise taxes immediately."
+        },
+        {
+          "id": "o3",
+          "text": "The minister put forward an immediate tax cut proposal."
+        },
+        {
+          "id": "o4",
+          "text": "The minister refused to discuss tax policy."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Proposed that ... reduce' uses the subjunctive after 'propose'. The base form indicates a formal suggestion, not a past action.",
+      "mistakeTags": [
+        "subjunctive",
+        "politics"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_09_subjunctive/t9_04.mp3"
+    },
+    {
+      "id": "t9_05",
+      "audioText": "If I were in your position, I would negotiate a higher salary before accepting the offer.",
+      "transcript": "If I were in your position, I would negotiate a higher salary before accepting the offer.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The speaker already negotiated a higher salary."
+        },
+        {
+          "id": "o2",
+          "text": "The speaker advises negotiating for more money before taking the job."
+        },
+        {
+          "id": "o3",
+          "text": "The speaker thinks the salary is already fair."
+        },
+        {
+          "id": "o4",
+          "text": "The speaker rejected the job offer entirely."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'If I were' is the subjunctive expressing a hypothetical situation. The speaker is giving advice about what they would do in that situation.",
+      "mistakeTags": [
+        "subjunctive",
+        "career"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_09_subjunctive/t9_05.mp3"
+    },
+    {
+      "id": "t9_06",
+      "audioText": "The environmental agency issued new guidelines. They demanded that each factory install filtration systems within six months.",
+      "transcript": "They demanded that each factory install filtration systems within six months.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Factories were given a six-month deadline to set up filtration equipment."
+        },
+        {
+          "id": "o2",
+          "text": "Factories already have filtration systems installed."
+        },
+        {
+          "id": "o3",
+          "text": "The agency suggested optional improvements."
+        },
+        {
+          "id": "o4",
+          "text": "Factories were shut down permanently."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Demanded that ... install' uses the mandative subjunctive after 'demand'. It conveys a compulsory requirement with a specific timeframe.",
+      "mistakeTags": [
+        "subjunctive",
+        "environment"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_09_subjunctive/t9_06.mp3"
+    },
+    {
+      "id": "t9_07",
+      "audioText": "The judge deliberated carefully over the evidence. She ordered that the defendant remain in custody until the trial.",
+      "transcript": "She ordered that the defendant remain in custody until the trial.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The defendant was released on bail."
+        },
+        {
+          "id": "o2",
+          "text": "The trial was cancelled by the judge."
+        },
+        {
+          "id": "o3",
+          "text": "The judge ruled that the accused must stay detained until the court hearing."
+        },
+        {
+          "id": "o4",
+          "text": "The defendant had already served the full sentence."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Ordered that ... remain' uses the subjunctive to express a judicial directive. The defendant must stay in custody.",
+      "mistakeTags": [
+        "subjunctive",
+        "law"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_09_subjunctive/t9_07.mp3"
+    },
+    {
+      "id": "t9_08",
+      "audioText": "The university senate met to discuss admissions policy. It was suggested that the entrance exam be made more rigorous.",
+      "transcript": "It was suggested that the entrance exam be made more rigorous.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The entrance exam was eliminated entirely."
+        },
+        {
+          "id": "o2",
+          "text": "Someone proposed increasing the difficulty of the admissions test."
+        },
+        {
+          "id": "o3",
+          "text": "The exam was already very difficult."
+        },
+        {
+          "id": "o4",
+          "text": "Students requested an easier entrance exam."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'It was suggested that ... be made' combines the passive subjunctive with a suggestion. It conveys a proposal to increase exam difficulty.",
+      "mistakeTags": [
+        "subjunctive",
+        "academia"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_09_subjunctive/t9_08.mp3"
+    },
+    {
+      "id": "t9_09",
+      "audioText": "The ambassador addressed the press after the summit. He urged that both nations cease hostilities without further delay.",
+      "transcript": "He urged that both nations cease hostilities without further delay.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The ambassador declared war on both nations."
+        },
+        {
+          "id": "o2",
+          "text": "He wanted the conflict to continue indefinitely."
+        },
+        {
+          "id": "o3",
+          "text": "The ambassador called for an immediate end to the fighting between the countries."
+        },
+        {
+          "id": "o4",
+          "text": "Both nations had already signed a peace treaty."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Urged that ... cease' uses the subjunctive after 'urge' to express a strong appeal for immediate action to stop conflict.",
+      "mistakeTags": [
+        "subjunctive",
+        "diplomacy"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_09_subjunctive/t9_09.mp3"
+    },
+    {
+      "id": "t9_10",
+      "audioText": "She spoke as though she were the leading authority on the subject, but her credentials were questionable.",
+      "transcript": "She spoke as though she were the leading authority on the subject, but her credentials were questionable.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She was genuinely the top expert in the field."
+        },
+        {
+          "id": "o2",
+          "text": "Her manner of speaking suggested expertise, yet her qualifications were doubtful."
+        },
+        {
+          "id": "o3",
+          "text": "Everyone agreed she was perfectly qualified."
+        },
+        {
+          "id": "o4",
+          "text": "She refused to speak about the subject at all."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'As though she were' uses the subjunctive to describe an unreal comparison. She behaved like an expert, but she might not be one.",
+      "mistakeTags": [
+        "subjunctive",
+        "perception"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_09_subjunctive/t9_10.mp3"
+    },
+    {
+      "id": "t9_11",
+      "audioText": "The safety committee reviewed the incident report. They required that the contractor rectify the structural flaws before reopening.",
+      "transcript": "They required that the contractor rectify the structural flaws before reopening.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The building was reopened without any repairs."
+        },
+        {
+          "id": "o2",
+          "text": "The contractor was asked to fix structural problems prior to reopening."
+        },
+        {
+          "id": "o3",
+          "text": "The committee praised the contractor's excellent work."
+        },
+        {
+          "id": "o4",
+          "text": "The structural flaws were deemed insignificant."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Required that ... rectify' uses the subjunctive after 'require'. The committee mandated that flaws must be fixed before reopening.",
+      "mistakeTags": [
+        "subjunctive",
+        "construction"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_09_subjunctive/t9_11.mp3"
+    },
+    {
+      "id": "t9_12",
+      "audioText": "The artistic director reviewed the casting decisions for the new production. She insisted that the lead role go to a lesser-known actor.",
+      "transcript": "She insisted that the lead role go to a lesser-known actor.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She wanted a famous celebrity for the lead role."
+        },
+        {
+          "id": "o2",
+          "text": "She cancelled the entire production."
+        },
+        {
+          "id": "o3",
+          "text": "She demanded that a relatively unknown performer be cast as the lead."
+        },
+        {
+          "id": "o4",
+          "text": "The lead role had already been assigned to a star."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Insisted that ... go' uses the subjunctive after 'insist' to express a strong demand about casting the part.",
+      "mistakeTags": [
+        "subjunctive",
+        "entertainment"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_09_subjunctive/t9_12.mp3"
+    },
+    {
+      "id": "t9_13",
+      "audioText": "The research ethics board convened an emergency session. It was imperative that the clinical trial be halted pending further review.",
+      "transcript": "It was imperative that the clinical trial be halted pending further review.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The clinical trial continued without interruption."
+        },
+        {
+          "id": "o2",
+          "text": "It was critically necessary to stop the trial until a further assessment was completed."
+        },
+        {
+          "id": "o3",
+          "text": "The ethics board approved the trial unconditionally."
+        },
+        {
+          "id": "o4",
+          "text": "The review had already been completed before the trial."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'It was imperative that ... be halted' uses the adjective-triggered subjunctive to express urgent necessity to pause the trial.",
+      "mistakeTags": [
+        "subjunctive",
+        "science"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_09_subjunctive/t9_13.mp3"
+    },
+    {
+      "id": "t9_14",
+      "audioText": "Far be it from me to question your judgement, but I think the investment strategy needs reconsideration.",
+      "transcript": "Far be it from me to question your judgement, but I think the investment strategy needs reconsideration.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The speaker fully supports the current investment strategy."
+        },
+        {
+          "id": "o2",
+          "text": "The speaker has no opinion on financial matters."
+        },
+        {
+          "id": "o3",
+          "text": "The speaker politely suggests that the investment approach should be rethought."
+        },
+        {
+          "id": "o4",
+          "text": "The speaker is directly criticizing someone's intelligence."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Far be it from me' is a formulaic subjunctive expressing polite reluctance before offering criticism. The speaker diplomatically suggests a change.",
+      "mistakeTags": [
+        "subjunctive",
+        "finance"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_09_subjunctive/t9_14.mp3"
+    },
+    {
+      "id": "t9_15",
+      "audioText": "The editorial board debated the newspaper's coverage. The editor-in-chief proposed that each journalist be assigned a specific investigative beat.",
+      "transcript": "The editor-in-chief proposed that each journalist be assigned a specific investigative beat.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Journalists were fired from the newspaper."
+        },
+        {
+          "id": "o2",
+          "text": "All journalists would cover the same stories."
+        },
+        {
+          "id": "o3",
+          "text": "The editor suggested keeping everything as it was."
+        },
+        {
+          "id": "o4",
+          "text": "The editor proposed giving each reporter a dedicated area of investigation."
+        }
+      ],
+      "correctIndex": 3,
+      "explanation": "'Proposed that ... be assigned' uses the passive subjunctive after 'propose'. The editor suggested a structural change in how journalists work.",
+      "mistakeTags": [
+        "subjunctive",
+        "media"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_09_subjunctive/t9_15.mp3"
+    }
+  ],
+  "short_description": "Сослагательное наклонение в формальной речи."
+}

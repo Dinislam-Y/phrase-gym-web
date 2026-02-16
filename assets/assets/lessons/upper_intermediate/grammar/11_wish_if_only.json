@@ -1,0 +1,1922 @@
+{
+  "id": "upper_11_wish_if_only",
+  "title": "Wish & If Only",
+  "description": "Выражение сожаления: I wish I knew, If only I had studied. Нереальные желания о настоящем и прошлом.",
+  "order": 11,
+  "level": "upper_intermediate",
+  "imageUrl": "assets/images/lessons/wish_if_only.png",
+  "vocabulary": [
+    {
+      "id": "v11_wish",
+      "english": "wish",
+      "russian": "желать, хотеть (нереальное)",
+      "partOfSpeech": "verb",
+      "example": "I wish I spoke French.",
+      "exampleTranslation": "Жаль, что я не говорю по-французски.",
+      "audioPath": "assets/audio/vocabulary/v11_wish.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_wish.mp3"
+    },
+    {
+      "id": "v11_regret",
+      "english": "regret",
+      "russian": "сожалеть",
+      "partOfSpeech": "verb",
+      "example": "I regret not studying harder.",
+      "exampleTranslation": "Я сожалею, что не учился усерднее.",
+      "audioPath": "assets/audio/vocabulary/v11_regret.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_regret.mp3"
+    },
+    {
+      "id": "v11_opportunity",
+      "english": "opportunity",
+      "russian": "возможность",
+      "partOfSpeech": "noun",
+      "example": "I wish I had taken that opportunity.",
+      "exampleTranslation": "Жаль, что я не воспользовался той возможностью.",
+      "audioPath": "assets/audio/vocabulary/v11_opportunity.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_opportunity.mp3"
+    },
+    {
+      "id": "v11_decision",
+      "english": "decision",
+      "russian": "решение",
+      "partOfSpeech": "noun",
+      "example": "If only I had made a different decision.",
+      "exampleTranslation": "Если бы только я принял другое решение.",
+      "audioPath": "assets/audio/vocabulary/v11_decision.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_decision.mp3"
+    },
+    {
+      "id": "v11_afford",
+      "english": "afford",
+      "russian": "позволить себе",
+      "partOfSpeech": "verb",
+      "example": "I wish I could afford a new car.",
+      "exampleTranslation": "Жаль, что я не могу позволить себе новую машину.",
+      "audioPath": "assets/audio/vocabulary/v11_afford.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_afford.mp3"
+    },
+    {
+      "id": "v11_realize",
+      "english": "realize",
+      "russian": "осознавать",
+      "partOfSpeech": "verb",
+      "example": "If only I had realized the truth.",
+      "exampleTranslation": "Если бы только я осознал правду.",
+      "audioPath": "assets/audio/vocabulary/v11_realize.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_realize.mp3"
+    },
+    {
+      "id": "v11_accept",
+      "english": "accept",
+      "russian": "принимать",
+      "partOfSpeech": "verb",
+      "example": "I wish I had accepted the offer.",
+      "exampleTranslation": "Жаль, что я не принял предложение.",
+      "audioPath": "assets/audio/vocabulary/v11_accept.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_accept.mp3"
+    },
+    {
+      "id": "v11_behave",
+      "english": "behave",
+      "russian": "вести себя",
+      "partOfSpeech": "verb",
+      "example": "I wish he behaved more politely.",
+      "exampleTranslation": "Жаль, что он не ведёт себя вежливее.",
+      "audioPath": "assets/audio/vocabulary/v11_behave.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_behave.mp3"
+    },
+    {
+      "id": "v11_improve",
+      "english": "improve",
+      "russian": "улучшать",
+      "partOfSpeech": "verb",
+      "example": "I wish I could improve my skills.",
+      "exampleTranslation": "Хотел бы я улучшить свои навыки.",
+      "audioPath": "assets/audio/vocabulary/v11_improve.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_improve.mp3"
+    },
+    {
+      "id": "v11_situation",
+      "english": "situation",
+      "russian": "ситуация",
+      "partOfSpeech": "noun",
+      "example": "If only the situation were different.",
+      "exampleTranslation": "Если бы только ситуация была другой.",
+      "audioPath": "assets/audio/vocabulary/v11_situation.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_situation.mp3"
+    },
+    {
+      "id": "v11_warn",
+      "english": "warn",
+      "russian": "предупреждать",
+      "partOfSpeech": "verb",
+      "example": "I wish someone had warned me.",
+      "exampleTranslation": "Жаль, что никто меня не предупредил.",
+      "audioPath": "assets/audio/vocabulary/v11_warn.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_warn.mp3"
+    },
+    {
+      "id": "v11_politely",
+      "english": "politely",
+      "russian": "вежливо",
+      "partOfSpeech": "adverb",
+      "example": "I wish he spoke more politely.",
+      "exampleTranslation": "Жаль, что он не говорит вежливее.",
+      "audioPath": "assets/audio/vocabulary/v11_politely.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_politely.mp3"
+    },
+    {
+      "id": "v11_trust",
+      "english": "trust",
+      "russian": "доверять",
+      "partOfSpeech": "verb",
+      "example": "If only I had trusted my instincts.",
+      "exampleTranslation": "Если бы только я доверился своим инстинктам.",
+      "audioPath": "assets/audio/vocabulary/v11_trust.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_trust.mp3"
+    },
+    {
+      "id": "v11_patience",
+      "english": "patience",
+      "russian": "терпение",
+      "partOfSpeech": "noun",
+      "example": "I wish I had more patience.",
+      "exampleTranslation": "Жаль, что у меня мало терпения.",
+      "audioPath": "assets/audio/vocabulary/v11_patience.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_patience.mp3"
+    },
+    {
+      "id": "v11_confidence",
+      "english": "confidence",
+      "russian": "уверенность",
+      "partOfSpeech": "noun",
+      "example": "If only I had more confidence.",
+      "exampleTranslation": "Если бы только у меня было больше уверенности.",
+      "audioPath": "assets/audio/vocabulary/v11_confidence.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_confidence.mp3"
+    },
+    {
+      "id": "v11_waste",
+      "english": "waste",
+      "russian": "тратить впустую",
+      "partOfSpeech": "verb",
+      "example": "I wish I hadn't wasted so much time.",
+      "exampleTranslation": "Жаль, что я потратил столько времени впустую.",
+      "audioPath": "assets/audio/vocabulary/v11_waste.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_waste.mp3"
+    },
+    {
+      "id": "v11_attend",
+      "english": "attend",
+      "russian": "посещать (мероприятие)",
+      "partOfSpeech": "verb",
+      "example": "I wish I had attended the meeting.",
+      "exampleTranslation": "Жаль, что я не посетил собрание.",
+      "audioPath": "assets/audio/vocabulary/v11_attend.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_attend.mp3"
+    },
+    {
+      "id": "v11_apologize",
+      "english": "apologize",
+      "russian": "извиняться",
+      "partOfSpeech": "verb",
+      "example": "If only he had apologized earlier.",
+      "exampleTranslation": "Если бы только он извинился раньше.",
+      "audioPath": "assets/audio/vocabulary/v11_apologize.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_apologize.mp3"
+    },
+    {
+      "id": "v11_appreciate",
+      "english": "appreciate",
+      "russian": "ценить",
+      "partOfSpeech": "verb",
+      "example": "I wish I had appreciated her more.",
+      "exampleTranslation": "Жаль, что я не ценил её больше.",
+      "audioPath": "assets/audio/vocabulary/v11_appreciate.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_appreciate.mp3"
+    },
+    {
+      "id": "v11_ignore",
+      "english": "ignore",
+      "russian": "игнорировать",
+      "partOfSpeech": "verb",
+      "example": "If only I hadn't ignored his advice.",
+      "exampleTranslation": "Если бы только я не проигнорировал его совет.",
+      "audioPath": "assets/audio/vocabulary/v11_ignore.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v11_ignore.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "Wish & If Only",
+    "subtitle": "Конструкции wish и if only позволяют выразить сожаление о настоящем или прошлом. Мы используем их, когда хотим, чтобы реальность была другой.",
+    "construction": {
+      "formula": "I wish / If only + Past Simple (настоящее) | Past Perfect (прошлое)",
+      "rules": [
+        {
+          "word": "wish + Past Simple",
+          "description": "Сожаление о настоящем: I wish I knew the answer (Жаль, что я не знаю ответ)."
+        },
+        {
+          "word": "wish + Past Perfect",
+          "description": "Сожаление о прошлом: I wish I had studied harder (Жаль, что я не учился усерднее)."
+        },
+        {
+          "word": "if only",
+          "description": "Более эмоциональный синоним wish: If only I were taller! (Если бы только я был выше!)"
+        },
+        {
+          "word": "were (не was)",
+          "description": "В формальном английском после wish используется were для всех лиц: I wish I were (не was)."
+        },
+        {
+          "word": "wish + would",
+          "description": "Раздражение или просьба об изменении: I wish you would stop shouting (Хотел бы я, чтобы ты перестал кричать)."
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "favorite",
+        "color": "purple",
+        "title": "Сожаление о настоящем",
+        "description": "Когда вы хотите, чтобы текущая ситуация была другой.",
+        "example": {
+          "english": "I wish I spoke Spanish.",
+          "russian": "Жаль, что я не говорю по-испански."
+        }
+      },
+      {
+        "icon": "schedule",
+        "color": "blue",
+        "title": "Сожаление о прошлом",
+        "description": "Когда вы жалеете о том, что произошло (или не произошло).",
+        "example": {
+          "english": "I wish I had accepted the job offer.",
+          "russian": "Жаль, что я не принял предложение о работе."
+        }
+      },
+      {
+        "icon": "bolt",
+        "color": "orange",
+        "title": "Раздражение / просьба об изменении",
+        "description": "Когда вас что-то раздражает и вы хотите, чтобы кто-то изменил поведение.",
+        "example": {
+          "english": "I wish you would listen to me.",
+          "russian": "Хотел бы я, чтобы ты меня слушал."
+        }
+      },
+      {
+        "icon": "star",
+        "color": "green",
+        "title": "If only — усиленное wish",
+        "description": "If only работает так же, как wish, но звучит более эмоционально.",
+        "example": {
+          "english": "If only I had known earlier!",
+          "russian": "Если бы только я знал раньше!"
+        }
+      }
+    ],
+    "markers": [
+      "wish",
+      "if only",
+      "regret",
+      "were",
+      "had + V3"
+    ]
+  },
+  "theoryQuiz": [
+    {
+      "id": "tq_11_01",
+      "type": "multipleChoice",
+      "question": "Какую форму глагола мы используем после wish для сожаления о настоящем?",
+      "options": [
+        "Present Simple",
+        "Past Simple",
+        "Past Perfect",
+        "Future Simple"
+      ],
+      "correctIndex": 1,
+      "explanation": "Для выражения сожаления о настоящем после wish используется Past Simple: I wish I knew."
+    },
+    {
+      "id": "tq_11_02",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"I wish I ___ the answer.\"",
+      "options": [
+        "know",
+        "knew",
+        "known",
+        "knowing"
+      ],
+      "correctIndex": 1,
+      "explanation": "После wish для настоящего времени используется Past Simple: I wish I knew."
+    },
+    {
+      "id": "tq_11_03",
+      "type": "trueFalse",
+      "question": "\"I wish I was taller\" — грамматически правильное предложение в формальном английском.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "В формальном английском после wish используется were: I wish I were taller. Форма was допустима в разговорной речи."
+    },
+    {
+      "id": "tq_11_04",
+      "type": "multipleChoice",
+      "question": "Какую конструкцию мы используем для сожаления о прошлом?",
+      "options": [
+        "wish + Past Simple",
+        "wish + Past Perfect",
+        "wish + Present Perfect",
+        "wish + would"
+      ],
+      "correctIndex": 1,
+      "explanation": "Для сожаления о прошлом используется wish + Past Perfect: I wish I had studied harder."
+    },
+    {
+      "id": "tq_11_05",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"If only I ___ to the party last night.\"",
+      "options": [
+        "go",
+        "went",
+        "had gone",
+        "have gone"
+      ],
+      "correctIndex": 2,
+      "explanation": "Сожаление о прошлом требует Past Perfect: If only I had gone."
+    },
+    {
+      "id": "tq_11_06",
+      "type": "trueFalse",
+      "question": "If only и wish имеют одинаковое значение, но if only звучит более эмоционально.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "If only — более эмоциональный вариант wish. Оба выражают сожаление."
+    },
+    {
+      "id": "tq_11_07",
+      "type": "multipleChoice",
+      "question": "\"I wish you would stop talking\" выражает...",
+      "options": [
+        "сожаление о прошлом",
+        "раздражение или просьбу",
+        "факт",
+        "будущее действие"
+      ],
+      "correctIndex": 1,
+      "explanation": "Wish + would выражает раздражение или просьбу изменить поведение."
+    },
+    {
+      "id": "tq_11_08",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"I wish I ___ harder for the exam.\"",
+      "options": [
+        "study",
+        "studied",
+        "had studied",
+        "would study"
+      ],
+      "correctIndex": 2,
+      "explanation": "Сожаление о прошлом (экзамен уже прошёл) — wish + Past Perfect: I wish I had studied."
+    },
+    {
+      "id": "tq_11_09",
+      "type": "trueFalse",
+      "question": "\"I wish I will be rich\" — правильная конструкция.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "После wish нельзя использовать will. Правильно: I wish I were rich (сожаление о настоящем)."
+    },
+    {
+      "id": "tq_11_10",
+      "type": "multipleChoice",
+      "question": "Как правильно: «Жаль, что у меня нет машины»?",
+      "options": [
+        "I wish I have a car.",
+        "I wish I had a car.",
+        "I wish I will have a car.",
+        "I wish I having a car."
+      ],
+      "correctIndex": 1,
+      "explanation": "Сожаление о настоящем — wish + Past Simple: I wish I had a car."
+    }
+  ],
+  "tasks": [
+    {
+      "id": "t11_1",
+      "type": "sentenceAssembly",
+      "question": "Жаль, что я не знаю ответ",
+      "correctAnswer": "I wish I knew the answer",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We",
+          "Me"
+        ],
+        [
+          "wish",
+          "hope",
+          "want",
+          "think",
+          "wished"
+        ],
+        [
+          "I",
+          "he",
+          "she",
+          "we",
+          "me"
+        ],
+        [
+          "knew",
+          "know",
+          "known",
+          "knowing",
+          "knowed"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "answer",
+          "question",
+          "truth",
+          "problem"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_11_wish_if_only/000.mp3"
+    },
+    {
+      "id": "t11_2",
+      "type": "sentenceAssembly",
+      "question": "Жаль, что я не говорю по-французски",
+      "correctAnswer": "I wish I spoke French",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "wish",
+          "hope",
+          "want",
+          "wished",
+          "wishing"
+        ],
+        [
+          "I",
+          "he",
+          "she",
+          "we",
+          "me"
+        ],
+        [
+          "spoke",
+          "speak",
+          "spoken",
+          "speaking",
+          "speaks"
+        ],
+        [
+          "French",
+          "English",
+          "Spanish",
+          "German"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_11_wish_if_only/001.mp3"
+    },
+    {
+      "id": "t11_3",
+      "type": "sentenceAssembly",
+      "question": "Если бы только я был выше",
+      "correctAnswer": "If only I were taller",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "I",
+          "When",
+          "But"
+        ],
+        [
+          "only",
+          "just",
+          "also",
+          "even",
+          "ever"
+        ],
+        [
+          "I",
+          "he",
+          "she",
+          "we"
+        ],
+        [
+          "were",
+          "was",
+          "am",
+          "is",
+          "be"
+        ],
+        [
+          "taller",
+          "tall",
+          "tallest",
+          "more tall"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_11_wish_if_only/002.mp3"
+    },
+    {
+      "id": "t11_4",
+      "type": "sentenceAssembly",
+      "question": "Жаль, что у меня нет машины",
+      "correctAnswer": "I wish I had a car",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "wish",
+          "hope",
+          "want",
+          "think",
+          "wished"
+        ],
+        [
+          "I",
+          "he",
+          "she",
+          "we",
+          "me"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "having",
+          "will have"
+        ],
+        [
+          "a",
+          "the",
+          "an",
+          "my"
+        ],
+        [
+          "car",
+          "bike",
+          "house",
+          "job"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_11_wish_if_only/003.mp3"
+    },
+    {
+      "id": "t11_5",
+      "type": "sentenceAssembly",
+      "question": "Жаль, что она не здесь",
+      "correctAnswer": "I wish she were here",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "We",
+          "She"
+        ],
+        [
+          "wish",
+          "hope",
+          "want",
+          "think",
+          "wished"
+        ],
+        [
+          "she",
+          "he",
+          "they",
+          "her"
+        ],
+        [
+          "were",
+          "was",
+          "is",
+          "are",
+          "be"
+        ],
+        [
+          "here",
+          "there",
+          "near",
+          "home"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_11_wish_if_only/004.mp3"
+    },
+    {
+      "id": "t11_6",
+      "type": "sentenceAssembly",
+      "question": "Жаль, что у нас мало времени",
+      "correctAnswer": "I wish we had more time",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "wish",
+          "hope",
+          "want",
+          "wished"
+        ],
+        [
+          "we",
+          "they",
+          "he",
+          "she",
+          "us"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "having"
+        ],
+        [
+          "more",
+          "much",
+          "many",
+          "most"
+        ],
+        [
+          "time",
+          "money",
+          "patience",
+          "work"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_11_wish_if_only/005.mp3"
+    },
+    {
+      "id": "t11_7",
+      "type": "sentenceAssembly",
+      "question": "Если бы только я мог ей помочь",
+      "correctAnswer": "If only I could help her",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "I",
+          "When",
+          "But"
+        ],
+        [
+          "only",
+          "just",
+          "also",
+          "even"
+        ],
+        [
+          "I",
+          "he",
+          "she",
+          "we"
+        ],
+        [
+          "could",
+          "can",
+          "would",
+          "should",
+          "may"
+        ],
+        [
+          "help",
+          "helped",
+          "helping",
+          "helps"
+        ],
+        [
+          "her",
+          "him",
+          "them",
+          "she"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_11_wish_if_only/006.mp3"
+    },
+    {
+      "id": "t11_8",
+      "type": "sentenceAssembly",
+      "question": "Жаль, что я не понимаю его",
+      "correctAnswer": "I wish I understood him",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "wish",
+          "hope",
+          "want",
+          "wished"
+        ],
+        [
+          "I",
+          "he",
+          "she",
+          "we"
+        ],
+        [
+          "understood",
+          "understand",
+          "understands",
+          "understanding"
+        ],
+        [
+          "him",
+          "his",
+          "he",
+          "her",
+          "them"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_11_wish_if_only/007.mp3"
+    },
+    {
+      "id": "t11_9",
+      "type": "sentenceAssembly",
+      "question": "Жаль, что погода плохая",
+      "correctAnswer": "I wish the weather were better",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "wish",
+          "hope",
+          "want",
+          "wished"
+        ],
+        [
+          "the",
+          "a",
+          "this",
+          "that"
+        ],
+        [
+          "weather",
+          "day",
+          "time",
+          "situation"
+        ],
+        [
+          "were",
+          "was",
+          "is",
+          "had been"
+        ],
+        [
+          "better",
+          "good",
+          "best",
+          "well",
+          "nice"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_11_wish_if_only/008.mp3"
+    },
+    {
+      "id": "t11_10",
+      "type": "sentenceAssembly",
+      "question": "Если бы только он жил ближе",
+      "correctAnswer": "If only he lived closer",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "I",
+          "When",
+          "But"
+        ],
+        [
+          "only",
+          "just",
+          "also",
+          "even"
+        ],
+        [
+          "he",
+          "she",
+          "they",
+          "him"
+        ],
+        [
+          "lived",
+          "live",
+          "lives",
+          "living",
+          "has lived"
+        ],
+        [
+          "closer",
+          "close",
+          "closely",
+          "nearest",
+          "near"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_11_wish_if_only/009.mp3"
+    },
+    {
+      "id": "t11_11",
+      "type": "sentenceAssembly",
+      "question": "Жаль, что я не учился усерднее",
+      "correctAnswer": "I wish I had studied harder",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "wish",
+          "hope",
+          "want",
+          "wished"
+        ],
+        [
+          "I",
+          "he",
+          "she",
+          "we"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "was"
+        ],
+        [
+          "studied",
+          "study",
+          "studying",
+          "studies",
+          "been studying"
+        ],
+        [
+          "harder",
+          "hard",
+          "hardest",
+          "hardly"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_11_wish_if_only/010.mp3"
+    },
+    {
+      "id": "t11_12",
+      "type": "sentenceAssembly",
+      "question": "Если бы только я не потратил столько денег",
+      "correctAnswer": "If only I hadn't spent so much money",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "I",
+          "When",
+          "But"
+        ],
+        [
+          "only",
+          "just",
+          "also",
+          "even"
+        ],
+        [
+          "I",
+          "he",
+          "she",
+          "we"
+        ],
+        [
+          "hadn't",
+          "haven't",
+          "didn't",
+          "wasn't"
+        ],
+        [
+          "spent",
+          "spend",
+          "spending",
+          "spended"
+        ],
+        [
+          "so",
+          "too",
+          "very",
+          "such"
+        ],
+        [
+          "much",
+          "many",
+          "lot",
+          "more"
+        ],
+        [
+          "money",
+          "time",
+          "effort",
+          "cash"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_11_wish_if_only/011.mp3"
+    },
+    {
+      "id": "t11_13",
+      "type": "sentenceAssembly",
+      "question": "Жаль, что он не извинился раньше",
+      "correctAnswer": "I wish he had apologized earlier",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "wish",
+          "hope",
+          "want",
+          "wished"
+        ],
+        [
+          "he",
+          "she",
+          "they",
+          "him"
+        ],
+        [
+          "had",
+          "has",
+          "have",
+          "was"
+        ],
+        [
+          "apologized",
+          "apologize",
+          "apologizing",
+          "apologizes"
+        ],
+        [
+          "earlier",
+          "early",
+          "before",
+          "sooner",
+          "lately"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_11_wish_if_only/012.mp3"
+    },
+    {
+      "id": "t11_14",
+      "type": "sentenceAssembly",
+      "question": "Жаль, что я не принял предложение",
+      "correctAnswer": "I wish I had accepted the offer",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "wish",
+          "hope",
+          "want",
+          "wished"
+        ],
+        [
+          "I",
+          "he",
+          "she",
+          "we"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "was"
+        ],
+        [
+          "accepted",
+          "accept",
+          "accepting",
+          "accepts"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "that"
+        ],
+        [
+          "offer",
+          "invitation",
+          "job",
+          "deal"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_11_wish_if_only/013.mp3"
+    },
+    {
+      "id": "t11_15",
+      "type": "sentenceAssembly",
+      "question": "Если бы только я послушал её совет",
+      "correctAnswer": "If only I had followed her advice",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "I",
+          "When",
+          "But"
+        ],
+        [
+          "only",
+          "just",
+          "also",
+          "even"
+        ],
+        [
+          "I",
+          "he",
+          "she",
+          "we"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "was"
+        ],
+        [
+          "followed",
+          "follow",
+          "following",
+          "follows"
+        ],
+        [
+          "her",
+          "his",
+          "my",
+          "their",
+          "she"
+        ],
+        [
+          "advice",
+          "opinion",
+          "words",
+          "idea"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_11_wish_if_only/014.mp3"
+    },
+    {
+      "id": "t11_16",
+      "type": "sentenceAssembly",
+      "question": "Жаль, что они не пришли на вечеринку",
+      "correctAnswer": "I wish they had come to the party",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "wish",
+          "hope",
+          "want",
+          "wished"
+        ],
+        [
+          "they",
+          "he",
+          "she",
+          "we",
+          "them"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "were"
+        ],
+        [
+          "come",
+          "came",
+          "coming",
+          "comes"
+        ],
+        [
+          "to",
+          "at",
+          "in",
+          "for"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "that"
+        ],
+        [
+          "party",
+          "meeting",
+          "dinner",
+          "event"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_11_wish_if_only/015.mp3"
+    },
+    {
+      "id": "t11_17",
+      "type": "sentenceAssembly",
+      "question": "Жаль, что я не сказал правду",
+      "correctAnswer": "I wish I had told the truth",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "wish",
+          "hope",
+          "want",
+          "wished"
+        ],
+        [
+          "I",
+          "he",
+          "she",
+          "we"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "was"
+        ],
+        [
+          "told",
+          "tell",
+          "telling",
+          "said",
+          "spoke"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "truth",
+          "story",
+          "reason",
+          "answer"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_11_wish_if_only/016.mp3"
+    },
+    {
+      "id": "t11_18",
+      "type": "sentenceAssembly",
+      "question": "Если бы только мы начали раньше",
+      "correctAnswer": "If only we had started earlier",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "I",
+          "When",
+          "But"
+        ],
+        [
+          "only",
+          "just",
+          "also",
+          "even"
+        ],
+        [
+          "we",
+          "they",
+          "he",
+          "she",
+          "us"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "were"
+        ],
+        [
+          "started",
+          "start",
+          "starting",
+          "starts",
+          "began"
+        ],
+        [
+          "earlier",
+          "early",
+          "before",
+          "sooner",
+          "lately"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_11_wish_if_only/017.mp3"
+    },
+    {
+      "id": "t11_19",
+      "type": "sentenceAssembly",
+      "question": "Хотел бы я, чтобы ты перестал жаловаться",
+      "correctAnswer": "I wish you would stop complaining",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "wish",
+          "hope",
+          "want",
+          "wished"
+        ],
+        [
+          "you",
+          "he",
+          "she",
+          "they",
+          "your"
+        ],
+        [
+          "would",
+          "will",
+          "could",
+          "should",
+          "can"
+        ],
+        [
+          "stop",
+          "stopped",
+          "stopping",
+          "stops"
+        ],
+        [
+          "complaining",
+          "complain",
+          "complained",
+          "complaint"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_11_wish_if_only/018.mp3"
+    },
+    {
+      "id": "t11_20",
+      "type": "sentenceAssembly",
+      "question": "Жаль, что я не знал об этом раньше",
+      "correctAnswer": "I wish I had known about it earlier",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "wish",
+          "hope",
+          "want",
+          "wished"
+        ],
+        [
+          "I",
+          "he",
+          "she",
+          "we"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "was"
+        ],
+        [
+          "known",
+          "know",
+          "knew",
+          "knowing"
+        ],
+        [
+          "about",
+          "of",
+          "for",
+          "with"
+        ],
+        [
+          "it",
+          "this",
+          "that",
+          "them"
+        ],
+        [
+          "earlier",
+          "early",
+          "before",
+          "sooner"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_11_wish_if_only/019.mp3"
+    },
+    {
+      "id": "t11_21",
+      "type": "sentenceAssembly",
+      "question": "Жаль, что я не был там вчера",
+      "correctAnswer": "I wish I had been there yesterday",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "wish",
+          "hope",
+          "want",
+          "wished"
+        ],
+        [
+          "I",
+          "he",
+          "she",
+          "we"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "was"
+        ],
+        [
+          "been",
+          "be",
+          "being",
+          "were"
+        ],
+        [
+          "there",
+          "here",
+          "near",
+          "away"
+        ],
+        [
+          "yesterday",
+          "today",
+          "ago",
+          "before",
+          "last"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_11_wish_if_only/020.mp3"
+    },
+    {
+      "id": "t11_22",
+      "type": "sentenceAssembly",
+      "question": "Если бы только она не проигнорировала мой звонок",
+      "correctAnswer": "If only she hadn't ignored my call",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "I",
+          "When",
+          "But"
+        ],
+        [
+          "only",
+          "just",
+          "also",
+          "even"
+        ],
+        [
+          "she",
+          "he",
+          "they",
+          "her"
+        ],
+        [
+          "hadn't",
+          "haven't",
+          "didn't",
+          "wasn't",
+          "hasn't"
+        ],
+        [
+          "ignored",
+          "ignore",
+          "ignoring",
+          "ignores"
+        ],
+        [
+          "my",
+          "his",
+          "her",
+          "the",
+          "me"
+        ],
+        [
+          "call",
+          "message",
+          "letter",
+          "email"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_11_wish_if_only/021.mp3"
+    },
+    {
+      "id": "t11_23",
+      "type": "sentenceAssembly",
+      "question": "Хотел бы я, чтобы он вёл себя лучше",
+      "correctAnswer": "I wish he would behave better",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "wish",
+          "hope",
+          "want",
+          "wished"
+        ],
+        [
+          "he",
+          "she",
+          "they",
+          "him"
+        ],
+        [
+          "would",
+          "will",
+          "could",
+          "should",
+          "can"
+        ],
+        [
+          "behave",
+          "behaved",
+          "behaving",
+          "behaves"
+        ],
+        [
+          "better",
+          "good",
+          "best",
+          "well",
+          "more good"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_11_wish_if_only/022.mp3"
+    },
+    {
+      "id": "t11_24",
+      "type": "sentenceAssembly",
+      "question": "Жаль, что я не могу позволить себе это",
+      "correctAnswer": "I wish I could afford it",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "wish",
+          "hope",
+          "want",
+          "wished"
+        ],
+        [
+          "I",
+          "he",
+          "she",
+          "we"
+        ],
+        [
+          "could",
+          "can",
+          "would",
+          "should",
+          "may"
+        ],
+        [
+          "afford",
+          "afforded",
+          "affording",
+          "affords"
+        ],
+        [
+          "it",
+          "this",
+          "that",
+          "them",
+          "one"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_11_wish_if_only/023.mp3"
+    },
+    {
+      "id": "t11_25",
+      "type": "sentenceAssembly",
+      "question": "Если бы только я доверился своим инстинктам",
+      "correctAnswer": "If only I had trusted my instincts",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "I",
+          "When",
+          "But"
+        ],
+        [
+          "only",
+          "just",
+          "also",
+          "even"
+        ],
+        [
+          "I",
+          "he",
+          "she",
+          "we"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "was"
+        ],
+        [
+          "trusted",
+          "trust",
+          "trusting",
+          "trusts"
+        ],
+        [
+          "my",
+          "his",
+          "her",
+          "the",
+          "me"
+        ],
+        [
+          "instincts",
+          "feelings",
+          "thoughts",
+          "ideas"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_11_wish_if_only/024.mp3"
+    },
+    {
+      "id": "t11_26",
+      "type": "sentenceAssembly",
+      "question": "Жаль, что он не предупредил меня заранее",
+      "correctAnswer": "I wish he had warned me in advance",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "wish",
+          "hope",
+          "want",
+          "wished"
+        ],
+        [
+          "he",
+          "she",
+          "they",
+          "him"
+        ],
+        [
+          "had",
+          "has",
+          "have",
+          "was"
+        ],
+        [
+          "warned",
+          "warn",
+          "warning",
+          "warns",
+          "told"
+        ],
+        [
+          "me",
+          "him",
+          "her",
+          "us",
+          "my"
+        ],
+        [
+          "in",
+          "on",
+          "at",
+          "by"
+        ],
+        [
+          "advance",
+          "time",
+          "front",
+          "general"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_11_wish_if_only/025.mp3"
+    },
+    {
+      "id": "t11_27",
+      "type": "sentenceAssembly",
+      "question": "Если бы только ситуация была другой",
+      "correctAnswer": "If only the situation were different",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "I",
+          "When",
+          "But"
+        ],
+        [
+          "only",
+          "just",
+          "also",
+          "even"
+        ],
+        [
+          "the",
+          "a",
+          "this",
+          "that"
+        ],
+        [
+          "situation",
+          "problem",
+          "question",
+          "case"
+        ],
+        [
+          "were",
+          "was",
+          "is",
+          "had been",
+          "be"
+        ],
+        [
+          "different",
+          "better",
+          "easier",
+          "simple",
+          "differently"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_11_wish_if_only/026.mp3"
+    },
+    {
+      "id": "t11_28",
+      "type": "sentenceAssembly",
+      "question": "Жаль, что я не ценил это больше",
+      "correctAnswer": "I wish I had appreciated it more",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "wish",
+          "hope",
+          "want",
+          "wished"
+        ],
+        [
+          "I",
+          "he",
+          "she",
+          "we"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "was"
+        ],
+        [
+          "appreciated",
+          "appreciate",
+          "appreciating",
+          "appreciates"
+        ],
+        [
+          "it",
+          "this",
+          "that",
+          "them"
+        ],
+        [
+          "more",
+          "much",
+          "most",
+          "better",
+          "enough"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_11_wish_if_only/027.mp3"
+    },
+    {
+      "id": "t11_29",
+      "type": "sentenceAssembly",
+      "question": "Хотел бы я, чтобы они слушали внимательнее",
+      "correctAnswer": "I wish they would listen more carefully",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "wish",
+          "hope",
+          "want",
+          "wished"
+        ],
+        [
+          "they",
+          "he",
+          "she",
+          "we",
+          "them"
+        ],
+        [
+          "would",
+          "will",
+          "could",
+          "should"
+        ],
+        [
+          "listen",
+          "listened",
+          "listening",
+          "listens",
+          "hear"
+        ],
+        [
+          "more",
+          "much",
+          "very",
+          "most"
+        ],
+        [
+          "carefully",
+          "careful",
+          "careless",
+          "carelessly"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_11_wish_if_only/028.mp3"
+    },
+    {
+      "id": "t11_30",
+      "type": "sentenceAssembly",
+      "question": "Если бы только я не потратил столько времени впустую",
+      "correctAnswer": "If only I hadn't wasted so much time",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "I",
+          "When",
+          "But"
+        ],
+        [
+          "only",
+          "just",
+          "also",
+          "even"
+        ],
+        [
+          "I",
+          "he",
+          "she",
+          "we"
+        ],
+        [
+          "hadn't",
+          "haven't",
+          "didn't",
+          "wasn't",
+          "hasn't"
+        ],
+        [
+          "wasted",
+          "waste",
+          "wasting",
+          "wastes"
+        ],
+        [
+          "so",
+          "too",
+          "very",
+          "such"
+        ],
+        [
+          "much",
+          "many",
+          "lot",
+          "more"
+        ],
+        [
+          "time",
+          "money",
+          "effort",
+          "energy"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_11_wish_if_only/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionUpperIntermediate11WishIfOnly"
+}

@@ -1,0 +1,2667 @@
+{
+  "id": "advanced_03_modal_perfects",
+  "title": "Modal Perfects",
+  "description": "Modal Perfect: должен был сделать, мог бы быть, наверное знал. Сожаления, выводы и упущенные возможности.",
+  "order": 3,
+  "level": "advanced",
+  "imageUrl": "assets/images/lessons/modal_perfects.png",
+  "vocabulary": [
+    {
+      "id": "v3_should",
+      "english": "should",
+      "russian": "должен (следует)",
+      "partOfSpeech": "modal verb",
+      "example": "You should have called.",
+      "exampleTranslation": "Тебе следовало позвонить.",
+      "audioPath": "assets/audio/vocabulary/v3_should.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_should.mp3"
+    },
+    {
+      "id": "v3_could",
+      "english": "could",
+      "russian": "мог бы",
+      "partOfSpeech": "modal verb",
+      "example": "She could have won.",
+      "exampleTranslation": "Она могла бы победить.",
+      "audioPath": "assets/audio/vocabulary/v3_could.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_could.mp3"
+    },
+    {
+      "id": "v3_might",
+      "english": "might",
+      "russian": "возможно",
+      "partOfSpeech": "modal verb",
+      "example": "He might have left.",
+      "exampleTranslation": "Возможно, он ушёл.",
+      "audioPath": "assets/audio/vocabulary/v3_might.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_might.mp3"
+    },
+    {
+      "id": "v3_must",
+      "english": "must",
+      "russian": "должно быть",
+      "partOfSpeech": "modal verb",
+      "example": "They must have forgotten.",
+      "exampleTranslation": "Они, должно быть, забыли.",
+      "audioPath": "assets/audio/vocabulary/v3_must.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_must.mp3"
+    },
+    {
+      "id": "v3_would",
+      "english": "would",
+      "russian": "бы (условное)",
+      "partOfSpeech": "modal verb",
+      "example": "I would have helped.",
+      "exampleTranslation": "Я бы помог.",
+      "audioPath": "assets/audio/vocabulary/v3_would.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_would.mp3"
+    },
+    {
+      "id": "v3_neednt",
+      "english": "needn't",
+      "russian": "не нужно было",
+      "partOfSpeech": "modal verb",
+      "example": "You needn't have worried.",
+      "exampleTranslation": "Тебе не нужно было волноваться.",
+      "audioPath": "assets/audio/vocabulary/v3_neednt.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_neednt.mp3"
+    },
+    {
+      "id": "v3_have",
+      "english": "have",
+      "russian": "иметь (вспомогательный)",
+      "partOfSpeech": "auxiliary verb",
+      "example": "Should have done.",
+      "exampleTranslation": "Следовало сделать.",
+      "audioPath": "assets/audio/vocabulary/v3_have.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_have.mp3"
+    },
+    {
+      "id": "v3_been",
+      "english": "been",
+      "russian": "был (причастие)",
+      "partOfSpeech": "past participle",
+      "example": "Could have been better.",
+      "exampleTranslation": "Могло бы быть лучше.",
+      "audioPath": "assets/audio/vocabulary/v3_been.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_been.mp3"
+    },
+    {
+      "id": "v3_done",
+      "english": "done",
+      "russian": "сделал (причастие)",
+      "partOfSpeech": "past participle",
+      "example": "Should have done it.",
+      "exampleTranslation": "Следовало это сделать.",
+      "audioPath": "assets/audio/vocabulary/v3_done.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_done.mp3"
+    },
+    {
+      "id": "v3_told",
+      "english": "told",
+      "russian": "сказал (причастие)",
+      "partOfSpeech": "past participle",
+      "example": "Would have told you.",
+      "exampleTranslation": "Сказал бы тебе.",
+      "audioPath": "assets/audio/vocabulary/v3_told.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_told.mp3"
+    },
+    {
+      "id": "v3_known",
+      "english": "known",
+      "russian": "знал (причастие)",
+      "partOfSpeech": "past participle",
+      "example": "Might have known.",
+      "exampleTranslation": "Возможно, знал.",
+      "audioPath": "assets/audio/vocabulary/v3_known.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_known.mp3"
+    },
+    {
+      "id": "v3_left",
+      "english": "left",
+      "russian": "ушёл / оставил",
+      "partOfSpeech": "past participle",
+      "example": "Must have left early.",
+      "exampleTranslation": "Должно быть, ушёл рано.",
+      "audioPath": "assets/audio/vocabulary/v3_left.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_left.mp3"
+    },
+    {
+      "id": "v3_worried",
+      "english": "worried",
+      "russian": "волновался",
+      "partOfSpeech": "past participle",
+      "example": "Needn't have worried.",
+      "exampleTranslation": "Не стоило волноваться.",
+      "audioPath": "assets/audio/vocabulary/v3_worried.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_worried.mp3"
+    },
+    {
+      "id": "v3_forgotten",
+      "english": "forgotten",
+      "russian": "забытый",
+      "partOfSpeech": "past participle",
+      "example": "Must have forgotten.",
+      "exampleTranslation": "Должно быть, забыл.",
+      "audioPath": "assets/audio/vocabulary/v3_forgotten.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_forgotten.mp3"
+    },
+    {
+      "id": "v3_taken",
+      "english": "taken",
+      "russian": "взятый",
+      "partOfSpeech": "past participle",
+      "example": "Could have taken it.",
+      "exampleTranslation": "Мог бы взять это.",
+      "audioPath": "assets/audio/vocabulary/v3_taken.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_taken.mp3"
+    },
+    {
+      "id": "v3_arrived",
+      "english": "arrived",
+      "russian": "прибыл",
+      "partOfSpeech": "past participle",
+      "example": "Should have arrived.",
+      "exampleTranslation": "Должен был прибыть.",
+      "audioPath": "assets/audio/vocabulary/v3_arrived.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_arrived.mp3"
+    },
+    {
+      "id": "v3_happened",
+      "english": "happened",
+      "russian": "случилось",
+      "partOfSpeech": "past participle",
+      "example": "What could have happened?",
+      "exampleTranslation": "Что могло случиться?",
+      "audioPath": "assets/audio/vocabulary/v3_happened.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_happened.mp3"
+    },
+    {
+      "id": "v3_mistake",
+      "english": "mistake",
+      "russian": "ошибка",
+      "partOfSpeech": "noun",
+      "example": "Must have made a mistake.",
+      "exampleTranslation": "Должно быть, допустил ошибку.",
+      "audioPath": "assets/audio/vocabulary/v3_mistake.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_mistake.mp3"
+    },
+    {
+      "id": "v3_opportunity",
+      "english": "opportunity",
+      "russian": "возможность",
+      "partOfSpeech": "noun",
+      "example": "A missed opportunity.",
+      "exampleTranslation": "Упущенная возможность.",
+      "audioPath": "assets/audio/vocabulary/v3_opportunity.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_opportunity.mp3"
+    },
+    {
+      "id": "v3_regret",
+      "english": "regret",
+      "russian": "сожаление",
+      "partOfSpeech": "noun",
+      "example": "No regrets.",
+      "exampleTranslation": "Без сожалений.",
+      "audioPath": "assets/audio/vocabulary/v3_regret.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v3_regret.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "Modal Perfects",
+    "subtitle": "Modal + HAVE + V3 — конструкция для прошлого. Мы не можем изменить прошлое, но можем рассуждать о нём: сожалеть (should have), строить догадки (must/might have), говорить об упущенном (could have).",
+    "construction": {
+      "formula": "Modal + have + Past Participle (V3)",
+      "rules": [
+        {
+          "word": "should have + V3",
+          "description": "Сожаление: действие следовало совершить, но не совершили. You SHOULD HAVE called me. (Тебе следовало позвонить мне). Отрицание: shouldn't have = зря сделал."
+        },
+        {
+          "word": "could have + V3",
+          "description": "Упущенная возможность: была возможность, но не воспользовались. We COULD HAVE won. (Мы могли бы победить). Также: couldn't have = не мог бы (невозможность)."
+        },
+        {
+          "word": "might have + V3",
+          "description": "Предположение (неуверенное): возможно, произошло. He MIGHT HAVE known the truth. (Возможно, он знал правду). Низкая степень уверенности."
+        },
+        {
+          "word": "must have + V3",
+          "description": "Уверенный вывод: наверняка произошло. She MUST HAVE left already. (Она, должно быть, уже ушла). Логическая дедукция о прошлом."
+        },
+        {
+          "word": "would have + V3",
+          "description": "Условное прошлое: сделал бы (при условии). I WOULD HAVE told you if I had known. (Я бы сказал тебе, если бы знал)."
+        },
+        {
+          "word": "needn't have + V3",
+          "description": "Напрасное действие: сделал, но не нужно было. You NEEDN'T HAVE worried. (Тебе не стоило волноваться — а ты волновался)."
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "favorite",
+        "color": "orange",
+        "title": "Сожаление (should have)",
+        "description": "О том, что следовало сделать, но не сделали. Should have = надо было. Shouldn't have = зря сделал.",
+        "example": {
+          "english": "I should have studied harder for the exam.",
+          "russian": "Мне следовало усерднее готовиться к экзамену."
+        }
+      },
+      {
+        "icon": "explore",
+        "color": "purple",
+        "title": "Логический вывод (must have)",
+        "description": "Уверенное предположение о прошлом на основе фактов. Must have = наверняка, должно быть.",
+        "example": {
+          "english": "The streets are wet — it must have rained last night.",
+          "russian": "Улицы мокрые — должно быть, ночью шёл дождь."
+        }
+      },
+      {
+        "icon": "check_circle",
+        "color": "orange",
+        "title": "Возможность (might / could have)",
+        "description": "Неуверенное предположение или упущенный шанс. Might have = возможно. Could have = мог бы.",
+        "example": {
+          "english": "She could have become a great singer.",
+          "russian": "Она могла бы стать великой певицей."
+        }
+      },
+      {
+        "icon": "check_circle",
+        "color": "blue",
+        "title": "Напрасность (needn't have)",
+        "description": "Действие было совершено, но оказалось ненужным. Needn't have = не стоило (а сделал).",
+        "example": {
+          "english": "You needn't have bought so much food — nobody came.",
+          "russian": "Не стоило покупать столько еды — никто не пришёл."
+        }
+      }
+    ],
+    "markers": [
+      "should have",
+      "could have",
+      "might have",
+      "must have",
+      "would have",
+      "needn't have",
+      "shouldn't have",
+      "couldn't have"
+    ]
+  },
+  "tasks": [
+    {
+      "id": "t3_1",
+      "type": "sentenceAssembly",
+      "question": "Тебе следовало позвонить мне вчера поздно вечером (сожаление)",
+      "correctAnswer": "You should have called me much earlier last night",
+      "options": [],
+      "variants": [
+        [
+          "You",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "should",
+          "would",
+          "will",
+          "did"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "been",
+          "having"
+        ],
+        [
+          "called",
+          "call",
+          "calling",
+          "calls",
+          "rang"
+        ],
+        [
+          "me",
+          "him",
+          "her",
+          "us",
+          "them"
+        ],
+        [
+          "much",
+          "way",
+          "far",
+          "so",
+          "lot"
+        ],
+        [
+          "earlier",
+          "sooner",
+          "before",
+          "faster",
+          "later"
+        ],
+        [
+          "last",
+          "this",
+          "that",
+          "next",
+          "past"
+        ],
+        [
+          "night",
+          "day",
+          "time",
+          "week",
+          "morning"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_perfects",
+        "should_have_could_have"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_03_modal_perfects/000.mp3"
+    },
+    {
+      "id": "t3_2",
+      "type": "sentenceAssembly",
+      "question": "Она, должно быть, уже ушла с работы сегодня (вывод)",
+      "correctAnswer": "She must have already left the office by now",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "They",
+          "We",
+          "It"
+        ],
+        [
+          "must",
+          "would",
+          "could",
+          "might"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "been",
+          "having"
+        ],
+        [
+          "already",
+          "just",
+          "never",
+          "still",
+          "yet"
+        ],
+        [
+          "left",
+          "leave",
+          "leaving",
+          "leaves",
+          "went"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this",
+          "that"
+        ],
+        [
+          "office",
+          "house",
+          "room",
+          "place",
+          "work"
+        ],
+        [
+          "by",
+          "for",
+          "at",
+          "in",
+          "since"
+        ],
+        [
+          "now",
+          "then",
+          "today",
+          "here",
+          "late"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_perfects",
+        "should_have_could_have"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_03_modal_perfects/001.mp3"
+    },
+    {
+      "id": "t3_3",
+      "type": "sentenceAssembly",
+      "question": "Теория могла бы легко быть доказана несколькими экспериментами (упущенная возможность)",
+      "correctAnswer": "The theory could have been proved by multiple experiments",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "That",
+          "This",
+          "His"
+        ],
+        [
+          "theory",
+          "hypothesis",
+          "concept",
+          "thesis",
+          "model"
+        ],
+        [
+          "could",
+          "would",
+          "may",
+          "shall"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "been",
+          "having"
+        ],
+        [
+          "been",
+          "be",
+          "being",
+          "was",
+          "were"
+        ],
+        [
+          "proved",
+          "proven",
+          "tested",
+          "shown",
+          "confirmed"
+        ],
+        [
+          "by",
+          "with",
+          "from",
+          "through",
+          "via"
+        ],
+        [
+          "multiple",
+          "several",
+          "many",
+          "various",
+          "numerous"
+        ],
+        [
+          "experiments",
+          "studies",
+          "trials",
+          "analyses",
+          "tests"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_perfects",
+        "should_have_could_have"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_03_modal_perfects/002.mp3"
+    },
+    {
+      "id": "t3_4",
+      "type": "sentenceAssembly",
+      "question": "Возможно, он знал правду с самого начала",
+      "correctAnswer": "He might have known the truth all along",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "They",
+          "Tom",
+          "Mark"
+        ],
+        [
+          "might",
+          "would",
+          "will",
+          "did"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "been",
+          "having"
+        ],
+        [
+          "known",
+          "know",
+          "knew",
+          "knowing",
+          "knows"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "truth",
+          "answer",
+          "secret",
+          "reason",
+          "fact"
+        ],
+        [
+          "all",
+          "from",
+          "since",
+          "the",
+          "right"
+        ],
+        [
+          "along",
+          "start",
+          "beginning",
+          "first",
+          "time"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_perfects",
+        "should_have_could_have"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_03_modal_perfects/003.mp3"
+    },
+    {
+      "id": "t3_5",
+      "type": "sentenceAssembly",
+      "question": "Я бы сказал тебе, если бы знал (условие)",
+      "correctAnswer": "I would have told you if I knew",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "They",
+          "You",
+          "One"
+        ],
+        [
+          "would",
+          "could",
+          "might",
+          "should"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "been",
+          "having"
+        ],
+        [
+          "told",
+          "tell",
+          "warned",
+          "telling",
+          "said"
+        ],
+        [
+          "you",
+          "they",
+          "I",
+          "one"
+        ],
+        [
+          "if",
+          "when",
+          "but",
+          "and",
+          "since"
+        ],
+        [
+          "I",
+          "he",
+          "she",
+          "we",
+          "they"
+        ],
+        [
+          "knew",
+          "know",
+          "known",
+          "knows",
+          "knowing"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_perfects",
+        "should_have_could_have"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_03_modal_perfects/004.mp3"
+    },
+    {
+      "id": "t3_6",
+      "type": "sentenceAssembly",
+      "question": "Тебе не стоило так сильно волноваться (напрасно)",
+      "correctAnswer": "You needn't have worried so much about it",
+      "options": [],
+      "variants": [
+        [
+          "You",
+          "She",
+          "He",
+          "It"
+        ],
+        [
+          "needn't",
+          "shouldn't",
+          "couldn't",
+          "wouldn't",
+          "mustn't"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "been",
+          "having"
+        ],
+        [
+          "worried",
+          "worry",
+          "worrying",
+          "worries",
+          "feared"
+        ],
+        [
+          "so",
+          "too",
+          "very",
+          "that",
+          "this"
+        ],
+        [
+          "much",
+          "hard",
+          "long",
+          "often",
+          "badly"
+        ],
+        [
+          "about",
+          "for",
+          "over",
+          "with",
+          "from"
+        ],
+        [
+          "it",
+          "that",
+          "this",
+          "them",
+          "him"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_perfects",
+        "should_have_could_have"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_03_modal_perfects/005.mp3"
+    },
+    {
+      "id": "t3_7",
+      "type": "sentenceAssembly",
+      "question": "Они, должно быть, забыли о нашей встрече (вывод)",
+      "correctAnswer": "They must have forgotten about our meeting today",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "must",
+          "would",
+          "will",
+          "did"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "been",
+          "having"
+        ],
+        [
+          "forgotten",
+          "forget",
+          "forgot",
+          "forgetting",
+          "lost"
+        ],
+        [
+          "about",
+          "for",
+          "with",
+          "from",
+          "of"
+        ],
+        [
+          "our",
+          "the",
+          "this",
+          "that",
+          "my"
+        ],
+        [
+          "meeting",
+          "dinner",
+          "party",
+          "class",
+          "plan"
+        ],
+        [
+          "today",
+          "again",
+          "already",
+          "lately",
+          "now"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_perfects",
+        "should_have_could_have"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_03_modal_perfects/006.mp3"
+    },
+    {
+      "id": "t3_8",
+      "type": "sentenceAssembly",
+      "question": "Ему не следовало так грубо разговаривать с ней",
+      "correctAnswer": "He shouldn't have spoken to her so rudely",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "They",
+          "You",
+          "One"
+        ],
+        [
+          "shouldn't",
+          "couldn't",
+          "wouldn't",
+          "needn't",
+          "mustn't"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "been",
+          "having"
+        ],
+        [
+          "spoken",
+          "speak",
+          "spoke",
+          "speaking",
+          "talked"
+        ],
+        [
+          "to",
+          "with",
+          "at",
+          "for",
+          "about"
+        ],
+        [
+          "her",
+          "him",
+          "them",
+          "us",
+          "me"
+        ],
+        [
+          "so",
+          "very",
+          "too",
+          "that",
+          "this"
+        ],
+        [
+          "rudely",
+          "badly",
+          "loudly",
+          "harshly",
+          "coldly"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_perfects",
+        "should_have_could_have"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_03_modal_perfects/007.mp3"
+    },
+    {
+      "id": "t3_9",
+      "type": "sentenceAssembly",
+      "question": "Последствия реформы, должно быть, уже достигли каждого гражданина",
+      "correctAnswer": "The consequences of reform must have already reached every citizen",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "consequences",
+          "effects",
+          "results",
+          "impacts",
+          "outcomes"
+        ],
+        [
+          "of",
+          "from",
+          "behind",
+          "after",
+          "within"
+        ],
+        [
+          "reform",
+          "policy",
+          "change",
+          "law",
+          "decision"
+        ],
+        [
+          "must",
+          "would",
+          "may",
+          "shall"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "been",
+          "having"
+        ],
+        [
+          "already",
+          "just",
+          "finally",
+          "never",
+          "still"
+        ],
+        [
+          "reached",
+          "affected",
+          "touched",
+          "changed",
+          "shaped"
+        ],
+        [
+          "every",
+          "each",
+          "all",
+          "any",
+          "the"
+        ],
+        [
+          "citizen",
+          "person",
+          "community",
+          "institution",
+          "region"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_perfects",
+        "should_have_could_have"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_03_modal_perfects/008.mp3"
+    },
+    {
+      "id": "t3_10",
+      "type": "sentenceAssembly",
+      "question": "Она могла бы стать очень великой певицей когда-то (упущенное)",
+      "correctAnswer": "She could have become a truly great singer someday",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "I",
+          "They",
+          "You"
+        ],
+        [
+          "could",
+          "would",
+          "will",
+          "did"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "been",
+          "having"
+        ],
+        [
+          "become",
+          "became",
+          "becoming",
+          "been",
+          "turned"
+        ],
+        [
+          "a",
+          "the",
+          "an",
+          "one",
+          "this"
+        ],
+        [
+          "truly",
+          "really",
+          "very",
+          "quite",
+          "most"
+        ],
+        [
+          "great",
+          "famous",
+          "good",
+          "best",
+          "fine"
+        ],
+        [
+          "singer",
+          "artist",
+          "doctor",
+          "writer",
+          "dancer"
+        ],
+        [
+          "someday",
+          "once",
+          "then",
+          "before",
+          "perhaps"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_perfects",
+        "should_have_could_have"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_03_modal_perfects/009.mp3"
+    },
+    {
+      "id": "t3_11",
+      "type": "sentenceAssembly",
+      "question": "Возможно, дождь шёл всю ночь напролёт",
+      "correctAnswer": "It might have been raining all night long",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "That",
+          "This",
+          "There",
+          "What"
+        ],
+        [
+          "might",
+          "would",
+          "could",
+          "should"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "been",
+          "having"
+        ],
+        [
+          "been",
+          "be",
+          "being",
+          "was",
+          "were"
+        ],
+        [
+          "raining",
+          "rain",
+          "rained",
+          "rains",
+          "snowing"
+        ],
+        [
+          "all",
+          "the",
+          "last",
+          "that",
+          "this"
+        ],
+        [
+          "night",
+          "day",
+          "time",
+          "week",
+          "evening"
+        ],
+        [
+          "long",
+          "hard",
+          "much",
+          "here",
+          "again"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_perfects",
+        "should_have_could_have"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_03_modal_perfects/010.mp3"
+    },
+    {
+      "id": "t3_12",
+      "type": "sentenceAssembly",
+      "question": "Обществу следовало более серьёзно отнестись к вопросам этики",
+      "correctAnswer": "Society should have taken ethics much more seriously",
+      "options": [],
+      "variants": [
+        [
+          "Society",
+          "People",
+          "Leaders",
+          "Nations",
+          "Scholars"
+        ],
+        [
+          "should",
+          "would",
+          "may",
+          "shall"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "been",
+          "having"
+        ],
+        [
+          "taken",
+          "considered",
+          "studied",
+          "examined",
+          "addressed"
+        ],
+        [
+          "ethics",
+          "morality",
+          "justice",
+          "fairness",
+          "values"
+        ],
+        [
+          "much",
+          "far",
+          "way",
+          "so",
+          "lot"
+        ],
+        [
+          "more",
+          "very",
+          "quite",
+          "most",
+          "really"
+        ],
+        [
+          "seriously",
+          "carefully",
+          "deeply",
+          "closely",
+          "broadly"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_perfects",
+        "should_have_could_have"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_03_modal_perfects/011.mp3"
+    },
+    {
+      "id": "t3_13",
+      "type": "sentenceAssembly",
+      "question": "Он не мог этого сделать — он слишком добрый",
+      "correctAnswer": "He couldn't have done it — he is too kind",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "They",
+          "Tom",
+          "Mark"
+        ],
+        [
+          "couldn't",
+          "shouldn't",
+          "wouldn't",
+          "needn't",
+          "mustn't"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "been",
+          "having"
+        ],
+        [
+          "done",
+          "do",
+          "did",
+          "doing",
+          "made"
+        ],
+        [
+          "it",
+          "that",
+          "this",
+          "them",
+          "so"
+        ],
+        [
+          "—",
+          "because",
+          "since",
+          "as",
+          "for"
+        ],
+        [
+          "he",
+          "she",
+          "they",
+          "we",
+          "it"
+        ],
+        [
+          "is",
+          "was",
+          "are",
+          "were",
+          "seems"
+        ],
+        [
+          "too",
+          "so",
+          "very",
+          "really",
+          "quite"
+        ],
+        [
+          "kind",
+          "nice",
+          "good",
+          "gentle",
+          "sweet"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_perfects",
+        "should_have_could_have"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_03_modal_perfects/012.mp3"
+    },
+    {
+      "id": "t3_14",
+      "type": "sentenceAssembly",
+      "question": "Нам не стоило покупать столько еды на вечеринку",
+      "correctAnswer": "We needn't have bought so much food for the party",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "You",
+          "They",
+          "She",
+          "He"
+        ],
+        [
+          "needn't",
+          "shouldn't",
+          "couldn't",
+          "wouldn't",
+          "mustn't"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "been",
+          "having"
+        ],
+        [
+          "bought",
+          "buy",
+          "buying",
+          "buys",
+          "got"
+        ],
+        [
+          "so",
+          "too",
+          "very",
+          "that",
+          "this"
+        ],
+        [
+          "much",
+          "many",
+          "more",
+          "lots",
+          "plenty"
+        ],
+        [
+          "food",
+          "stuff",
+          "water",
+          "bread",
+          "fruit"
+        ],
+        [
+          "for",
+          "at",
+          "to",
+          "on",
+          "with"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "party",
+          "dinner",
+          "event",
+          "trip",
+          "lunch"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_perfects",
+        "should_have_could_have"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_03_modal_perfects/013.mp3"
+    },
+    {
+      "id": "t3_15",
+      "type": "sentenceAssembly",
+      "question": "Она, возможно, видела нас в парке вчера",
+      "correctAnswer": "She might have seen us in the park yesterday",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "They",
+          "Anna",
+          "Someone"
+        ],
+        [
+          "might",
+          "would",
+          "may",
+          "shall"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "been",
+          "having"
+        ],
+        [
+          "seen",
+          "see",
+          "saw",
+          "seeing",
+          "noticed"
+        ],
+        [
+          "us",
+          "them",
+          "him",
+          "her",
+          "me"
+        ],
+        [
+          "in",
+          "at",
+          "near",
+          "by",
+          "around"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "park",
+          "street",
+          "store",
+          "school",
+          "garden"
+        ],
+        [
+          "yesterday",
+          "today",
+          "earlier",
+          "before",
+          "lately"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_perfects",
+        "should_have_could_have"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_03_modal_perfects/014.mp3"
+    },
+    {
+      "id": "t3_16",
+      "type": "sentenceAssembly",
+      "question": "Тебе следовало принять то предложение о работе",
+      "correctAnswer": "You should have accepted that job offer back then",
+      "options": [],
+      "variants": [
+        [
+          "You",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "should",
+          "would",
+          "will",
+          "did"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "been",
+          "having"
+        ],
+        [
+          "accepted",
+          "accept",
+          "took",
+          "taken",
+          "got"
+        ],
+        [
+          "that",
+          "the",
+          "a",
+          "an"
+        ],
+        [
+          "job",
+          "work",
+          "new",
+          "great",
+          "good"
+        ],
+        [
+          "offer",
+          "deal",
+          "chance",
+          "place",
+          "role"
+        ],
+        [
+          "back",
+          "right",
+          "long",
+          "just",
+          "way"
+        ],
+        [
+          "then",
+          "ago",
+          "before",
+          "there",
+          "once"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_perfects",
+        "should_have_could_have"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_03_modal_perfects/015.mp3"
+    },
+    {
+      "id": "t3_17",
+      "type": "sentenceAssembly",
+      "question": "Правительство, должно быть, допустило серьёзную стратегическую ошибку",
+      "correctAnswer": "The government must have made a very serious strategic error",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "government",
+          "committee",
+          "council",
+          "ministry",
+          "board"
+        ],
+        [
+          "must",
+          "would",
+          "could",
+          "might"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "been",
+          "having"
+        ],
+        [
+          "made",
+          "committed",
+          "caused",
+          "created",
+          "produced"
+        ],
+        [
+          "a",
+          "the",
+          "one",
+          "an",
+          "some"
+        ],
+        [
+          "very",
+          "quite",
+          "really",
+          "most",
+          "too"
+        ],
+        [
+          "serious",
+          "critical",
+          "grave",
+          "major",
+          "fatal"
+        ],
+        [
+          "strategic",
+          "political",
+          "diplomatic",
+          "tactical",
+          "moral"
+        ],
+        [
+          "error",
+          "mistake",
+          "blunder",
+          "misstep",
+          "failure"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_perfects",
+        "should_have_could_have"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_03_modal_perfects/016.mp3"
+    },
+    {
+      "id": "t3_18",
+      "type": "sentenceAssembly",
+      "question": "Я бы помог тебе, если бы ты попросил",
+      "correctAnswer": "I would have helped you if you had asked",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "She",
+          "He",
+          "It"
+        ],
+        [
+          "would",
+          "may",
+          "shall",
+          "must"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "been",
+          "having"
+        ],
+        [
+          "helped",
+          "help",
+          "helping",
+          "helps",
+          "saved"
+        ],
+        [
+          "you",
+          "she",
+          "he",
+          "it"
+        ],
+        [
+          "if",
+          "when",
+          "but",
+          "and",
+          "since"
+        ],
+        [
+          "you",
+          "he",
+          "she",
+          "they",
+          "we"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "would",
+          "did"
+        ],
+        [
+          "asked",
+          "ask",
+          "warned",
+          "told",
+          "said"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_perfects",
+        "should_have_could_have"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_03_modal_perfects/017.mp3"
+    },
+    {
+      "id": "t3_19",
+      "type": "sentenceAssembly",
+      "question": "Ему не следовало тратить все свои деньги",
+      "correctAnswer": "He shouldn't have spent all his money so quickly",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "I",
+          "They",
+          "You"
+        ],
+        [
+          "shouldn't",
+          "couldn't",
+          "wouldn't",
+          "needn't",
+          "mustn't"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "been",
+          "having"
+        ],
+        [
+          "spent",
+          "spend",
+          "spending",
+          "spends",
+          "wasted"
+        ],
+        [
+          "all",
+          "every",
+          "the",
+          "his",
+          "most"
+        ],
+        [
+          "his",
+          "her",
+          "the",
+          "their",
+          "my"
+        ],
+        [
+          "money",
+          "cash",
+          "savings",
+          "funds",
+          "salary"
+        ],
+        [
+          "so",
+          "too",
+          "very",
+          "that",
+          "quite"
+        ],
+        [
+          "quickly",
+          "fast",
+          "soon",
+          "early",
+          "rashly"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_perfects",
+        "should_have_could_have"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_03_modal_perfects/018.mp3"
+    },
+    {
+      "id": "t3_20",
+      "type": "sentenceAssembly",
+      "question": "Кто-то, должно быть, оставил дверь открытой (вывод)",
+      "correctAnswer": "Someone must have left the door open last night",
+      "options": [],
+      "variants": [
+        [
+          "Someone",
+          "Somebody",
+          "Anyone",
+          "They",
+          "He"
+        ],
+        [
+          "must",
+          "would",
+          "could",
+          "might"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "been",
+          "having"
+        ],
+        [
+          "left",
+          "leave",
+          "leaving",
+          "leaves",
+          "kept"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every"
+        ],
+        [
+          "door",
+          "gate",
+          "window",
+          "lock",
+          "entrance"
+        ],
+        [
+          "open",
+          "shut",
+          "closed",
+          "locked",
+          "wide"
+        ],
+        [
+          "last",
+          "that",
+          "this",
+          "the",
+          "late"
+        ],
+        [
+          "night",
+          "evening",
+          "time",
+          "day",
+          "hour"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_perfects",
+        "should_have_could_have"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_03_modal_perfects/019.mp3"
+    },
+    {
+      "id": "t3_21",
+      "type": "sentenceAssembly",
+      "question": "Она могла бы избежать этой проблемы заранее",
+      "correctAnswer": "She could have avoided this problem much earlier",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "I",
+          "We",
+          "They"
+        ],
+        [
+          "could",
+          "would",
+          "may",
+          "shall"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "been",
+          "having"
+        ],
+        [
+          "avoided",
+          "avoid",
+          "avoiding",
+          "avoids",
+          "prevented"
+        ],
+        [
+          "this",
+          "the",
+          "that",
+          "her",
+          "his"
+        ],
+        [
+          "problem",
+          "issue",
+          "trouble",
+          "mistake",
+          "error"
+        ],
+        [
+          "much",
+          "far",
+          "way",
+          "so",
+          "quite"
+        ],
+        [
+          "earlier",
+          "sooner",
+          "before",
+          "faster",
+          "better"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_perfects",
+        "should_have_could_have"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_03_modal_perfects/020.mp3"
+    },
+    {
+      "id": "t3_22",
+      "type": "sentenceAssembly",
+      "question": "Возможно, он уже уехал из города вчера",
+      "correctAnswer": "He might have already left the city by yesterday",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "They",
+          "Tom",
+          "Mark"
+        ],
+        [
+          "might",
+          "would",
+          "will",
+          "did"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "been",
+          "having"
+        ],
+        [
+          "already",
+          "just",
+          "finally",
+          "recently",
+          "still"
+        ],
+        [
+          "left",
+          "leave",
+          "leaving",
+          "leaves",
+          "gone"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "city",
+          "town",
+          "country",
+          "place",
+          "area"
+        ],
+        [
+          "by",
+          "on",
+          "at",
+          "in",
+          "before"
+        ],
+        [
+          "yesterday",
+          "Monday",
+          "morning",
+          "then",
+          "now"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_perfects",
+        "should_have_could_have"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_03_modal_perfects/021.mp3"
+    },
+    {
+      "id": "t3_23",
+      "type": "sentenceAssembly",
+      "question": "Нам следовало взять зонт — сейчас идёт дождь",
+      "correctAnswer": "We should have taken an umbrella with us today",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "You",
+          "They",
+          "I",
+          "She"
+        ],
+        [
+          "should",
+          "would",
+          "could",
+          "might"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "been",
+          "having"
+        ],
+        [
+          "taken",
+          "take",
+          "took",
+          "taking",
+          "brought"
+        ],
+        [
+          "an",
+          "the",
+          "a",
+          "our",
+          "my"
+        ],
+        [
+          "umbrella",
+          "coat",
+          "jacket",
+          "hat",
+          "bag"
+        ],
+        [
+          "with",
+          "for",
+          "to",
+          "from",
+          "by"
+        ],
+        [
+          "us",
+          "them",
+          "him",
+          "her",
+          "me"
+        ],
+        [
+          "today",
+          "along",
+          "outside",
+          "here",
+          "there"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_perfects",
+        "should_have_could_have"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_03_modal_perfects/022.mp3"
+    },
+    {
+      "id": "t3_24",
+      "type": "sentenceAssembly",
+      "question": "Художник, должно быть, работал над композицией всю ночь напролёт",
+      "correctAnswer": "The artist must have been working on the composition all night",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "artist",
+          "composer",
+          "sculptor",
+          "painter",
+          "creator"
+        ],
+        [
+          "must",
+          "would",
+          "may",
+          "shall"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "been",
+          "having"
+        ],
+        [
+          "been",
+          "be",
+          "being",
+          "was",
+          "were"
+        ],
+        [
+          "working",
+          "laboring",
+          "creating",
+          "composing",
+          "painting"
+        ],
+        [
+          "on",
+          "at",
+          "for",
+          "with",
+          "about"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "composition",
+          "masterpiece",
+          "artwork",
+          "symphony",
+          "sculpture"
+        ],
+        [
+          "all",
+          "the",
+          "that",
+          "last",
+          "this"
+        ],
+        [
+          "night",
+          "day",
+          "time",
+          "week",
+          "evening"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_perfects",
+        "should_have_could_have"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_03_modal_perfects/023.mp3"
+    },
+    {
+      "id": "t3_25",
+      "type": "sentenceAssembly",
+      "question": "Тебе не стоило так рано уходить с вечеринки",
+      "correctAnswer": "You shouldn't have left the party so early",
+      "options": [],
+      "variants": [
+        [
+          "You",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "shouldn't",
+          "couldn't",
+          "wouldn't",
+          "needn't",
+          "mustn't"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "been",
+          "having"
+        ],
+        [
+          "left",
+          "leave",
+          "leaving",
+          "leaves",
+          "gone"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "party",
+          "dinner",
+          "event",
+          "meeting",
+          "show"
+        ],
+        [
+          "so",
+          "too",
+          "very",
+          "that",
+          "quite"
+        ],
+        [
+          "early",
+          "fast",
+          "soon",
+          "quickly",
+          "late"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_perfects",
+        "should_have_could_have"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_03_modal_perfects/024.mp3"
+    },
+    {
+      "id": "t3_26",
+      "type": "sentenceAssembly",
+      "question": "Они могли бы предупредить нас о задержке заранее",
+      "correctAnswer": "They could have warned us about the delay earlier",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "He",
+          "She",
+          "It"
+        ],
+        [
+          "could",
+          "would",
+          "might",
+          "should"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "been",
+          "having"
+        ],
+        [
+          "warned",
+          "warn",
+          "warning",
+          "warns",
+          "told"
+        ],
+        [
+          "us",
+          "me",
+          "him",
+          "her",
+          "them"
+        ],
+        [
+          "about",
+          "of",
+          "for",
+          "with",
+          "from"
+        ],
+        [
+          "the",
+          "a",
+          "this",
+          "that",
+          "any"
+        ],
+        [
+          "delay",
+          "problem",
+          "change",
+          "issue",
+          "risk"
+        ],
+        [
+          "earlier",
+          "sooner",
+          "before",
+          "first",
+          "already"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_perfects",
+        "should_have_could_have"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_03_modal_perfects/025.mp3"
+    },
+    {
+      "id": "t3_27",
+      "type": "sentenceAssembly",
+      "question": "Он, возможно, потерял ключи по дороге домой",
+      "correctAnswer": "He might have lost his keys on the way home",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "They",
+          "Tom",
+          "Mark"
+        ],
+        [
+          "might",
+          "would",
+          "may",
+          "shall"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "been",
+          "having"
+        ],
+        [
+          "lost",
+          "lose",
+          "losing",
+          "loses",
+          "dropped"
+        ],
+        [
+          "his",
+          "her",
+          "the",
+          "my",
+          "their"
+        ],
+        [
+          "keys",
+          "phone",
+          "wallet",
+          "bag",
+          "card"
+        ],
+        [
+          "on",
+          "at",
+          "in",
+          "by",
+          "from"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each"
+        ],
+        [
+          "way",
+          "road",
+          "path",
+          "trip",
+          "walk"
+        ],
+        [
+          "home",
+          "back",
+          "there",
+          "here",
+          "out"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_perfects",
+        "should_have_could_have"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_03_modal_perfects/026.mp3"
+    },
+    {
+      "id": "t3_28",
+      "type": "sentenceAssembly",
+      "question": "Я бы не стал покупать эту старую машину",
+      "correctAnswer": "I wouldn't have bought that old car at all",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "wouldn't",
+          "couldn't",
+          "shouldn't",
+          "needn't",
+          "mustn't"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "been",
+          "having"
+        ],
+        [
+          "bought",
+          "buy",
+          "buying",
+          "buys",
+          "taken"
+        ],
+        [
+          "that",
+          "the",
+          "a",
+          "an"
+        ],
+        [
+          "old",
+          "used",
+          "cheap",
+          "broken",
+          "ugly"
+        ],
+        [
+          "car",
+          "house",
+          "phone",
+          "bike",
+          "boat"
+        ],
+        [
+          "at",
+          "after",
+          "in",
+          "on",
+          "for"
+        ],
+        [
+          "all",
+          "once",
+          "last",
+          "first",
+          "ever"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_perfects",
+        "should_have_could_have"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_03_modal_perfects/027.mp3"
+    },
+    {
+      "id": "t3_29",
+      "type": "sentenceAssembly",
+      "question": "Она, должно быть, очень расстроилась из-за новостей",
+      "correctAnswer": "She must have been very upset about the news",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "They",
+          "You",
+          "One"
+        ],
+        [
+          "must",
+          "would",
+          "could",
+          "might"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "been",
+          "having"
+        ],
+        [
+          "been",
+          "be",
+          "being",
+          "was",
+          "were"
+        ],
+        [
+          "very",
+          "really",
+          "quite",
+          "so",
+          "too"
+        ],
+        [
+          "upset",
+          "angry",
+          "sad",
+          "hurt",
+          "shocked"
+        ],
+        [
+          "about",
+          "by",
+          "with",
+          "from",
+          "over"
+        ],
+        [
+          "the",
+          "that",
+          "this",
+          "his",
+          "her"
+        ],
+        [
+          "news",
+          "result",
+          "letter",
+          "message",
+          "call"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_perfects",
+        "should_have_could_have"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_03_modal_perfects/028.mp3"
+    },
+    {
+      "id": "t3_30",
+      "type": "sentenceAssembly",
+      "question": "Тебе не нужно было приходить так рано утром",
+      "correctAnswer": "You needn't have come so early in the morning",
+      "options": [],
+      "variants": [
+        [
+          "You",
+          "She",
+          "He",
+          "It"
+        ],
+        [
+          "needn't",
+          "shouldn't",
+          "couldn't",
+          "wouldn't",
+          "mustn't"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "been",
+          "having"
+        ],
+        [
+          "come",
+          "came",
+          "coming",
+          "comes",
+          "arrived"
+        ],
+        [
+          "so",
+          "too",
+          "very",
+          "that",
+          "this"
+        ],
+        [
+          "early",
+          "late",
+          "fast",
+          "soon",
+          "quick"
+        ],
+        [
+          "in",
+          "at",
+          "on",
+          "by",
+          "for"
+        ],
+        [
+          "the",
+          "this",
+          "that",
+          "a",
+          "my"
+        ],
+        [
+          "morning",
+          "evening",
+          "night",
+          "afternoon",
+          "dawn"
+        ]
+      ],
+      "mistakeTags": [
+        "modal_perfects",
+        "should_have_could_have"
+      ],
+      "audioPath": "assets/audio/grammar/advanced_03_modal_perfects/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionAdvanced03ModalPerfects",
+  "theoryQuiz": [
+    {
+      "id": "tq_01",
+      "type": "multipleChoice",
+      "question": "Какая формула у Modal Perfects?",
+      "options": [
+        "Modal + V1",
+        "Modal + have + V3",
+        "Modal + had + V3",
+        "Modal + be + V3"
+      ],
+      "correctIndex": 1,
+      "explanation": "Modal Perfects строятся по формуле: modal verb + have + past participle (V3)."
+    },
+    {
+      "id": "tq_02",
+      "type": "trueFalse",
+      "question": "'Must have forgotten' выражает уверенную догадку о прошлом.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Верно: must have + V3 означает «наверняка, скорее всего» — уверенное предположение."
+    },
+    {
+      "id": "tq_03",
+      "type": "multipleChoice",
+      "question": "Какой modal perfect выражает сожаление? 'I ___ studied harder.'",
+      "options": [
+        "must have",
+        "could have",
+        "should have",
+        "might have"
+      ],
+      "correctIndex": 2,
+      "explanation": "Should have + V3 выражает сожаление: мне следовало учиться усерднее (но я не сделал)."
+    },
+    {
+      "id": "tq_04",
+      "type": "trueFalse",
+      "question": "'Could have warned me' означает, что человек предупредил.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "Неверно: could have + V3 — упущенная возможность. Ты мог предупредить, но не предупредил."
+    },
+    {
+      "id": "tq_05",
+      "type": "multipleChoice",
+      "question": "'She might have left already.' Что это выражает?",
+      "options": [
+        "Уверенность",
+        "Сожаление",
+        "Упущенную возможность",
+        "Неуверенную догадку"
+      ],
+      "correctIndex": 3,
+      "explanation": "Might have + V3 выражает неуверенное предположение: возможно, она уже ушла."
+    },
+    {
+      "id": "tq_06",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: He looks wet. He ___ walked in the rain.",
+      "options": [
+        "should have",
+        "must have",
+        "could have",
+        "would have"
+      ],
+      "correctIndex": 1,
+      "explanation": "Must have — уверенная догадка на основе очевидных доказательств (он мокрый)."
+    },
+    {
+      "id": "tq_07",
+      "type": "trueFalse",
+      "question": "'Should have' и 'could have' имеют одинаковое значение.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "Неверно: should have — сожаление/упрёк, could have — упущенная возможность."
+    },
+    {
+      "id": "tq_08",
+      "type": "multipleChoice",
+      "question": "'You ___ told me earlier!' (упрёк). Какой modal подходит?",
+      "options": [
+        "must have",
+        "might have",
+        "should have",
+        "will have"
+      ],
+      "correctIndex": 2,
+      "explanation": "Should have + V3 используется для упрёка: тебе следовало сказать мне раньше!"
+    },
+    {
+      "id": "tq_09",
+      "type": "trueFalse",
+      "question": "В конструкции Modal Perfect после 'have' всегда стоит третья форма глагола (V3).",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Верно: modal + have + V3 (past participle). Например: must have seen, could have done."
+    },
+    {
+      "id": "tq_10",
+      "type": "multipleChoice",
+      "question": "Какой modal perfect лучше передаёт: «Он, наверное, забыл»?",
+      "options": [
+        "He should have forgotten.",
+        "He could have forgotten.",
+        "He must have forgotten.",
+        "He would have forgotten."
+      ],
+      "correctIndex": 2,
+      "explanation": "Must have forgotten — уверенная догадка: «он наверняка/скорее всего забыл»."
+    }
+  ]
+}

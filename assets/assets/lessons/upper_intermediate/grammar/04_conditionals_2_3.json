@@ -1,0 +1,2768 @@
+{
+  "id": "upper_04_conditionals_2_3",
+  "title": "Conditionals: Second & Third",
+  "description": "Нереальные условия: мечты о настоящем (Second) и сожаления о прошлом (Third). Здесь живут «если бы» и «если бы тогда».",
+  "order": 4,
+  "level": "upper_intermediate",
+  "imageUrl": "assets/images/lessons/conditionals_2_3.png",
+  "short_description": "shortDescriptionUpper04Conditionals23",
+  "vocabulary": [
+    {
+      "id": "v4_were",
+      "english": "were",
+      "russian": "был бы (сослагательное)",
+      "partOfSpeech": "verb",
+      "example": "If I were rich.",
+      "exampleTranslation": "Если бы я был богат.",
+      "audioPath": "assets/audio/vocabulary/v4_were.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_were.mp3"
+    },
+    {
+      "id": "v4_would",
+      "english": "would",
+      "russian": "бы (модальный)",
+      "partOfSpeech": "verb",
+      "example": "I would travel.",
+      "exampleTranslation": "Я бы путешествовал.",
+      "audioPath": "assets/audio/vocabulary/v4_would.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_would.mp3"
+    },
+    {
+      "id": "v4_travel",
+      "english": "travel",
+      "russian": "путешествовать",
+      "partOfSpeech": "verb",
+      "example": "I would travel the world.",
+      "exampleTranslation": "Я бы объехал мир.",
+      "audioPath": "assets/audio/vocabulary/v4_travel.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_travel.mp3"
+    },
+    {
+      "id": "v4_quit",
+      "english": "quit",
+      "russian": "бросить (увольняться)",
+      "partOfSpeech": "verb",
+      "example": "I would quit my job.",
+      "exampleTranslation": "Я бы бросил работу.",
+      "audioPath": "assets/audio/vocabulary/v4_quit.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_quit.mp3"
+    },
+    {
+      "id": "v4_accept",
+      "english": "accept",
+      "russian": "принять",
+      "partOfSpeech": "verb",
+      "example": "She would have accepted.",
+      "exampleTranslation": "Она бы приняла.",
+      "audioPath": "assets/audio/vocabulary/v4_accept.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_accept.mp3"
+    },
+    {
+      "id": "v4_warn",
+      "english": "warn",
+      "russian": "предупредить",
+      "partOfSpeech": "verb",
+      "example": "I would have warned them.",
+      "exampleTranslation": "Я бы предупредил их.",
+      "audioPath": "assets/audio/vocabulary/v4_warn.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_warn.mp3"
+    },
+    {
+      "id": "v4_offer",
+      "english": "offer",
+      "russian": "предложение",
+      "partOfSpeech": "noun",
+      "example": "The offer was great.",
+      "exampleTranslation": "Предложение было отличным.",
+      "audioPath": "assets/audio/vocabulary/v4_offer.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_offer.mp3"
+    },
+    {
+      "id": "v4_accident",
+      "english": "accident",
+      "russian": "авария (несчастный случай)",
+      "partOfSpeech": "noun",
+      "example": "The accident happened.",
+      "exampleTranslation": "Произошла авария.",
+      "audioPath": "assets/audio/vocabulary/v4_accident.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_accident.mp3"
+    },
+    {
+      "id": "v4_mistake",
+      "english": "mistake",
+      "russian": "ошибка",
+      "partOfSpeech": "noun",
+      "example": "I made a mistake.",
+      "exampleTranslation": "Я совершил ошибку.",
+      "audioPath": "assets/audio/vocabulary/v4_mistake.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_mistake.mp3"
+    },
+    {
+      "id": "v4_invisible",
+      "english": "invisible",
+      "russian": "невидимый",
+      "partOfSpeech": "adjective",
+      "example": "If I were invisible.",
+      "exampleTranslation": "Если бы я был невидимым.",
+      "audioPath": "assets/audio/vocabulary/v4_invisible.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_invisible.mp3"
+    },
+    {
+      "id": "v4_opportunity",
+      "english": "opportunity",
+      "russian": "возможность",
+      "partOfSpeech": "noun",
+      "example": "A great opportunity.",
+      "exampleTranslation": "Отличная возможность.",
+      "audioPath": "assets/audio/vocabulary/v4_opportunity.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_opportunity.mp3"
+    },
+    {
+      "id": "v4_regret",
+      "english": "regret",
+      "russian": "сожалеть",
+      "partOfSpeech": "verb",
+      "example": "I regret that.",
+      "exampleTranslation": "Я сожалею об этом.",
+      "audioPath": "assets/audio/vocabulary/v4_regret.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_regret.mp3"
+    },
+    {
+      "id": "v4_sooner",
+      "english": "sooner",
+      "russian": "раньше",
+      "partOfSpeech": "adverb",
+      "example": "If you had come sooner.",
+      "exampleTranslation": "Если бы ты пришёл раньше.",
+      "audioPath": "assets/audio/vocabulary/v4_sooner.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_sooner.mp3"
+    },
+    {
+      "id": "v4_avoid",
+      "english": "avoid",
+      "russian": "избежать",
+      "partOfSpeech": "verb",
+      "example": "We could have avoided it.",
+      "exampleTranslation": "Мы могли бы избежать этого.",
+      "audioPath": "assets/audio/vocabulary/v4_avoid.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_avoid.mp3"
+    },
+    {
+      "id": "v4_honest",
+      "english": "honest",
+      "russian": "честный",
+      "partOfSpeech": "adjective",
+      "example": "If he had been honest.",
+      "exampleTranslation": "Если бы он был честен.",
+      "audioPath": "assets/audio/vocabulary/v4_honest.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_honest.mp3"
+    },
+    {
+      "id": "v4_trust",
+      "english": "trust",
+      "russian": "доверять",
+      "partOfSpeech": "verb",
+      "example": "I would trust him.",
+      "exampleTranslation": "Я бы доверял ему.",
+      "audioPath": "assets/audio/vocabulary/v4_trust.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_trust.mp3"
+    },
+    {
+      "id": "v4_forgive",
+      "english": "forgive",
+      "russian": "простить",
+      "partOfSpeech": "verb",
+      "example": "She would have forgiven.",
+      "exampleTranslation": "Она бы простила.",
+      "audioPath": "assets/audio/vocabulary/v4_forgive.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_forgive.mp3"
+    },
+    {
+      "id": "v4_billion",
+      "english": "billion",
+      "russian": "миллиард",
+      "partOfSpeech": "noun",
+      "example": "A billion dollars.",
+      "exampleTranslation": "Миллиард долларов.",
+      "audioPath": "assets/audio/vocabulary/v4_billion.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_billion.mp3"
+    },
+    {
+      "id": "v4_trapped",
+      "english": "trapped",
+      "russian": "в ловушке",
+      "partOfSpeech": "adjective",
+      "example": "I feel trapped.",
+      "exampleTranslation": "Я чувствую себя в ловушке.",
+      "audioPath": "assets/audio/vocabulary/v4_trapped.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_trapped.mp3"
+    },
+    {
+      "id": "v4_courage",
+      "english": "courage",
+      "russian": "смелость",
+      "partOfSpeech": "noun",
+      "example": "If I had the courage.",
+      "exampleTranslation": "Если бы у меня была смелость.",
+      "audioPath": "assets/audio/vocabulary/v4_courage.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_courage.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "Second & Third Conditionals",
+    "subtitle": "Second — мечты о нереальном настоящем: «Если бы я был птицей...». Third — сожаления о прошлом: «Если бы я тогда знал...». Оба живут в мире «невозможного».",
+    "construction": {
+      "formula": "Second: If + Past Simple, would + V1 | Third: If + Past Perfect, would have + V3",
+      "rules": [
+        {
+          "word": "Second Conditional",
+          "description": "Нереальное настоящее/будущее. «Если бы я был котом, я бы спал весь день.» Формула: If + Past Simple, Subject + would + V1."
+        },
+        {
+          "word": "If I were (not was!)",
+          "description": "В формальном английском с I/he/she/it используется were, а не was. «If I were you» — устойчивая конструкция."
+        },
+        {
+          "word": "Third Conditional",
+          "description": "Нереальное прошлое (сожаления). «Если бы я тогда знал, я бы не пошёл.» Формула: If + had + V3, Subject + would have + V3."
+        },
+        {
+          "word": "would have + V3",
+          "description": "Результат в Third Conditional всегда: would have + Past Participle. «I would have helped» — «Я бы помог (тогда)»."
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "star",
+        "color": "purple",
+        "title": "Мечта / Фантазия (2nd)",
+        "description": "Нереальная ситуация сейчас. Ты мечтаешь, но это не правда.",
+        "example": {
+          "english": "If I were a bird, I would fly away.",
+          "russian": "Если бы я был птицей, я бы улетел."
+        }
+      },
+      {
+        "icon": "groups",
+        "color": "orange",
+        "title": "Совет: На твоём месте (2nd)",
+        "description": "Классика: «If I were you, I would...» — вежливый совет.",
+        "example": {
+          "english": "If I were you, I would not quit.",
+          "russian": "На твоём месте я бы не увольнялся."
+        }
+      },
+      {
+        "icon": "schedule",
+        "color": "orange",
+        "title": "Сожаление о прошлом (3rd)",
+        "description": "Прошлое изменить нельзя, но можно сожалеть.",
+        "example": {
+          "english": "If I had studied harder, I would have passed.",
+          "russian": "Если бы я учился усерднее, я бы сдал."
+        }
+      }
+    ],
+    "markers": [
+      "If I were",
+      "would",
+      "would have",
+      "had + V3",
+      "could have",
+      "might have"
+    ]
+  },
+  "tasks": [
+    {
+      "id": "t4_1",
+      "type": "sentenceAssembly",
+      "question": "Если бы я был директором, я бы изменил стратегию (2nd)",
+      "correctAnswer": "If I were the director I would change the strategy",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "What",
+          "Since",
+          "Although"
+        ],
+        [
+          "I",
+          "He",
+          "She",
+          "We",
+          "They"
+        ],
+        [
+          "were",
+          "was",
+          "am",
+          "is",
+          "be",
+          "being"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this",
+          "that"
+        ],
+        [
+          "director",
+          "manager",
+          "boss",
+          "leader",
+          "chief"
+        ],
+        [
+          "I",
+          "He",
+          "She",
+          "We",
+          "They"
+        ],
+        [
+          "would",
+          "will",
+          "did",
+          "can",
+          "could"
+        ],
+        [
+          "change",
+          "changed",
+          "changing",
+          "changes",
+          "fix"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this",
+          "that"
+        ],
+        [
+          "strategy",
+          "plan",
+          "approach",
+          "policy",
+          "system"
+        ]
+      ],
+      "mistakeTags": [
+        "conditionals",
+        "second_third_conditional"
+      ],
+      "audioPath": "assets/audio/grammar/upper_04_conditionals_2_3/000.mp3"
+    },
+    {
+      "id": "t4_2",
+      "type": "sentenceAssembly",
+      "question": "Если бы ты знал правду, ты бы ушёл (2nd)",
+      "correctAnswer": "If you knew the truth you would leave",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "What",
+          "Since",
+          "Although"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "she",
+          "him"
+        ],
+        [
+          "knew",
+          "know",
+          "known",
+          "knows",
+          "knowing"
+        ],
+        [
+          "the",
+          "a",
+          "some",
+          "every",
+          "an"
+        ],
+        [
+          "truth",
+          "true",
+          "lie",
+          "fact",
+          "reason"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "she",
+          "him"
+        ],
+        [
+          "would",
+          "could",
+          "might",
+          "should",
+          "will"
+        ],
+        [
+          "leave",
+          "left",
+          "leaving",
+          "leaves",
+          "gone"
+        ]
+      ],
+      "mistakeTags": [
+        "conditionals",
+        "second_third_conditional"
+      ],
+      "audioPath": "assets/audio/grammar/upper_04_conditionals_2_3/001.mp3"
+    },
+    {
+      "id": "t4_3",
+      "type": "sentenceAssembly",
+      "question": "Если бы я знал о рисках, я бы предупредил команду (3rd)",
+      "correctAnswer": "If I had known the risks I would have warned the team",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "What",
+          "Since",
+          "Although"
+        ],
+        [
+          "I",
+          "She",
+          "He",
+          "It",
+          "We"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "did",
+          "was"
+        ],
+        [
+          "known",
+          "know",
+          "knew",
+          "knowing",
+          "knows"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each",
+          "an"
+        ],
+        [
+          "risks",
+          "danger",
+          "problem",
+          "issue",
+          "threat"
+        ],
+        [
+          "I",
+          "She",
+          "He",
+          "It",
+          "We"
+        ],
+        [
+          "would",
+          "may",
+          "shall",
+          "must",
+          "will"
+        ],
+        [
+          "have",
+          "had",
+          "has",
+          "be",
+          "been"
+        ],
+        [
+          "warned",
+          "warn",
+          "warning",
+          "warns",
+          "told"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each",
+          "an"
+        ],
+        [
+          "team",
+          "group",
+          "staff",
+          "board",
+          "crew"
+        ]
+      ],
+      "mistakeTags": [
+        "conditionals",
+        "second_third_conditional"
+      ],
+      "audioPath": "assets/audio/grammar/upper_04_conditionals_2_3/002.mp3"
+    },
+    {
+      "id": "t4_4",
+      "type": "sentenceAssembly",
+      "question": "На твоём месте я бы не уходил (2nd)",
+      "correctAnswer": "If I were you I would not leave",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "What",
+          "Since",
+          "Although"
+        ],
+        [
+          "I",
+          "He",
+          "She",
+          "We",
+          "They"
+        ],
+        [
+          "were",
+          "was",
+          "am",
+          "is",
+          "be",
+          "being"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "him",
+          "her"
+        ],
+        [
+          "I",
+          "He",
+          "She",
+          "We",
+          "They"
+        ],
+        [
+          "would",
+          "will",
+          "did",
+          "can",
+          "could"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "none",
+          "nothing"
+        ],
+        [
+          "leave",
+          "left",
+          "leaving",
+          "leaves",
+          "gone"
+        ]
+      ],
+      "mistakeTags": [
+        "conditionals",
+        "second_third_conditional"
+      ],
+      "audioPath": "assets/audio/grammar/upper_04_conditionals_2_3/003.mp3"
+    },
+    {
+      "id": "t4_5",
+      "type": "sentenceAssembly",
+      "question": "Если бы она приняла, она была бы счастлива (3rd)",
+      "correctAnswer": "If she had accepted she would have been happy",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "What",
+          "Since",
+          "Although"
+        ],
+        [
+          "she",
+          "her",
+          "hers",
+          "he",
+          "him"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "did",
+          "was"
+        ],
+        [
+          "accepted",
+          "accept",
+          "accepts",
+          "accepting",
+          "took"
+        ],
+        [
+          "she",
+          "her",
+          "hers",
+          "he",
+          "him"
+        ],
+        [
+          "would",
+          "could",
+          "might",
+          "should",
+          "will"
+        ],
+        [
+          "have",
+          "had",
+          "has",
+          "be",
+          "been"
+        ],
+        [
+          "been",
+          "be",
+          "was",
+          "were",
+          "is"
+        ],
+        [
+          "happy",
+          "glad",
+          "sad",
+          "fine",
+          "good"
+        ]
+      ],
+      "mistakeTags": [
+        "conditionals",
+        "second_third_conditional"
+      ],
+      "audioPath": "assets/audio/grammar/upper_04_conditionals_2_3/004.mp3"
+    },
+    {
+      "id": "t4_6",
+      "type": "sentenceAssembly",
+      "question": "Если бы у компании был бюджет, она бы расширилась (2nd)",
+      "correctAnswer": "If the company had a budget it would expand",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "What",
+          "Since",
+          "Although"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each",
+          "an"
+        ],
+        [
+          "company",
+          "firm",
+          "business",
+          "startup",
+          "brand"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "got",
+          "was"
+        ],
+        [
+          "a",
+          "the",
+          "that",
+          "each",
+          "an"
+        ],
+        [
+          "budget",
+          "money",
+          "funds",
+          "capital",
+          "grant"
+        ],
+        [
+          "it",
+          "this",
+          "that",
+          "she",
+          "he"
+        ],
+        [
+          "would",
+          "may",
+          "shall",
+          "must",
+          "will"
+        ],
+        [
+          "expand",
+          "grew",
+          "growing",
+          "grows",
+          "rise"
+        ]
+      ],
+      "mistakeTags": [
+        "conditionals",
+        "second_third_conditional"
+      ],
+      "audioPath": "assets/audio/grammar/upper_04_conditionals_2_3/005.mp3"
+    },
+    {
+      "id": "t4_7",
+      "type": "sentenceAssembly",
+      "question": "Если бы мы не опоздали, мы бы успели (3rd)",
+      "correctAnswer": "If we had not been late we would have managed",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "What",
+          "Since",
+          "Although"
+        ],
+        [
+          "we",
+          "us",
+          "our",
+          "they",
+          "them"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "did",
+          "was"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "none",
+          "nothing"
+        ],
+        [
+          "been",
+          "be",
+          "was",
+          "were",
+          "is"
+        ],
+        [
+          "late",
+          "later",
+          "lately",
+          "slow",
+          "time"
+        ],
+        [
+          "we",
+          "us",
+          "our",
+          "they",
+          "them"
+        ],
+        [
+          "would",
+          "will",
+          "did",
+          "can",
+          "could"
+        ],
+        [
+          "have",
+          "had",
+          "has",
+          "be",
+          "been"
+        ],
+        [
+          "managed",
+          "manage",
+          "managing",
+          "manages",
+          "done"
+        ]
+      ],
+      "mistakeTags": [
+        "conditionals",
+        "second_third_conditional"
+      ],
+      "audioPath": "assets/audio/grammar/upper_04_conditionals_2_3/006.mp3"
+    },
+    {
+      "id": "t4_8",
+      "type": "sentenceAssembly",
+      "question": "Если бы он был невидимым, он бы сбежал (2nd)",
+      "correctAnswer": "If he were invisible he would escape",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "What",
+          "Since",
+          "Although"
+        ],
+        [
+          "he",
+          "him",
+          "his",
+          "she",
+          "her"
+        ],
+        [
+          "were",
+          "was",
+          "is",
+          "am",
+          "be",
+          "being"
+        ],
+        [
+          "invisible",
+          "hidden",
+          "unseen",
+          "blind",
+          "quiet"
+        ],
+        [
+          "he",
+          "him",
+          "his",
+          "she",
+          "her"
+        ],
+        [
+          "would",
+          "could",
+          "might",
+          "should",
+          "will"
+        ],
+        [
+          "escape",
+          "escaped",
+          "escaping",
+          "escapes",
+          "run"
+        ]
+      ],
+      "mistakeTags": [
+        "conditionals",
+        "second_third_conditional"
+      ],
+      "audioPath": "assets/audio/grammar/upper_04_conditionals_2_3/007.mp3"
+    },
+    {
+      "id": "t4_9",
+      "type": "sentenceAssembly",
+      "question": "Если бы ты пришёл раньше, ты бы увидел её (3rd)",
+      "correctAnswer": "If you had come sooner you would have seen her",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "What",
+          "Since",
+          "Although"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "she",
+          "him"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "did",
+          "was"
+        ],
+        [
+          "come",
+          "came",
+          "coming",
+          "comes",
+          "arrived"
+        ],
+        [
+          "sooner",
+          "soon",
+          "early",
+          "before",
+          "faster"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "she",
+          "him"
+        ],
+        [
+          "would",
+          "may",
+          "shall",
+          "must",
+          "will"
+        ],
+        [
+          "have",
+          "had",
+          "has",
+          "be",
+          "been"
+        ],
+        [
+          "seen",
+          "see",
+          "saw",
+          "seeing",
+          "watch"
+        ],
+        [
+          "her",
+          "she",
+          "him",
+          "them",
+          "it"
+        ]
+      ],
+      "mistakeTags": [
+        "conditionals",
+        "second_third_conditional"
+      ],
+      "audioPath": "assets/audio/grammar/upper_04_conditionals_2_3/008.mp3"
+    },
+    {
+      "id": "t4_10",
+      "type": "sentenceAssembly",
+      "question": "Я бы уволился, если бы получил лучшее предложение (2nd)",
+      "correctAnswer": "I would resign my position if I received a better offer",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We",
+          "They"
+        ],
+        [
+          "would",
+          "will",
+          "did",
+          "can",
+          "could"
+        ],
+        [
+          "resign",
+          "quit",
+          "leave",
+          "drop",
+          "stop"
+        ],
+        [
+          "my",
+          "me",
+          "mine",
+          "the",
+          "a"
+        ],
+        [
+          "position",
+          "job",
+          "role",
+          "work",
+          "place"
+        ],
+        [
+          "if",
+          "when",
+          "that",
+          "what",
+          "because"
+        ],
+        [
+          "I",
+          "He",
+          "She",
+          "We",
+          "They"
+        ],
+        [
+          "received",
+          "receive",
+          "got",
+          "earning",
+          "found"
+        ],
+        [
+          "a",
+          "the",
+          "an",
+          "this",
+          "that"
+        ],
+        [
+          "better",
+          "good",
+          "best",
+          "great",
+          "top"
+        ],
+        [
+          "offer",
+          "deal",
+          "proposal",
+          "contract",
+          "chance"
+        ]
+      ],
+      "mistakeTags": [
+        "conditionals",
+        "second_third_conditional"
+      ],
+      "audioPath": "assets/audio/grammar/upper_04_conditionals_2_3/009.mp3"
+    },
+    {
+      "id": "t4_11",
+      "type": "sentenceAssembly",
+      "question": "Если бы он был честен, я бы доверял ему (2nd)",
+      "correctAnswer": "If he were honest I would trust him",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "What",
+          "Since",
+          "Although"
+        ],
+        [
+          "he",
+          "him",
+          "his",
+          "she",
+          "her"
+        ],
+        [
+          "were",
+          "was",
+          "is",
+          "am",
+          "be",
+          "being"
+        ],
+        [
+          "honest",
+          "true",
+          "fair",
+          "nice",
+          "good"
+        ],
+        [
+          "I",
+          "They",
+          "You",
+          "One",
+          "He"
+        ],
+        [
+          "would",
+          "could",
+          "might",
+          "should",
+          "will"
+        ],
+        [
+          "trust",
+          "trusted",
+          "trusting",
+          "trusts",
+          "believe"
+        ],
+        [
+          "him",
+          "he",
+          "his",
+          "her",
+          "them"
+        ]
+      ],
+      "mistakeTags": [
+        "conditionals",
+        "second_third_conditional"
+      ],
+      "audioPath": "assets/audio/grammar/upper_04_conditionals_2_3/010.mp3"
+    },
+    {
+      "id": "t4_12",
+      "type": "sentenceAssembly",
+      "question": "Если бы мы знали адрес, мы бы нашли дом (2nd)",
+      "correctAnswer": "If we knew the address we would find the house",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "What",
+          "Since",
+          "Although"
+        ],
+        [
+          "we",
+          "us",
+          "our",
+          "they",
+          "them"
+        ],
+        [
+          "knew",
+          "know",
+          "known",
+          "knows",
+          "knowing"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each",
+          "an"
+        ],
+        [
+          "address",
+          "place",
+          "name",
+          "road",
+          "street"
+        ],
+        [
+          "we",
+          "us",
+          "our",
+          "they",
+          "them"
+        ],
+        [
+          "would",
+          "may",
+          "shall",
+          "must",
+          "will"
+        ],
+        [
+          "find",
+          "found",
+          "finding",
+          "finds",
+          "search"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each",
+          "an"
+        ],
+        [
+          "house",
+          "home",
+          "flat",
+          "place",
+          "room"
+        ]
+      ],
+      "mistakeTags": [
+        "conditionals",
+        "second_third_conditional"
+      ],
+      "audioPath": "assets/audio/grammar/upper_04_conditionals_2_3/011.mp3"
+    },
+    {
+      "id": "t4_13",
+      "type": "sentenceAssembly",
+      "question": "Если бы мы провели анализ раньше, мы бы избежали убытков (3rd)",
+      "correctAnswer": "If we had analyzed earlier we would have avoided losses",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "What",
+          "Since",
+          "Although"
+        ],
+        [
+          "we",
+          "us",
+          "our",
+          "they",
+          "them"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "did",
+          "was"
+        ],
+        [
+          "analyzed",
+          "analyze",
+          "analysis",
+          "studying",
+          "checked"
+        ],
+        [
+          "earlier",
+          "sooner",
+          "before",
+          "faster",
+          "first"
+        ],
+        [
+          "we",
+          "us",
+          "our",
+          "they",
+          "them"
+        ],
+        [
+          "would",
+          "will",
+          "did",
+          "can",
+          "could"
+        ],
+        [
+          "have",
+          "had",
+          "has",
+          "be",
+          "been"
+        ],
+        [
+          "avoided",
+          "avoid",
+          "preventing",
+          "stopped",
+          "missed"
+        ],
+        [
+          "losses",
+          "loss",
+          "damage",
+          "problems",
+          "costs"
+        ]
+      ],
+      "mistakeTags": [
+        "conditionals",
+        "second_third_conditional"
+      ],
+      "audioPath": "assets/audio/grammar/upper_04_conditionals_2_3/012.mp3"
+    },
+    {
+      "id": "t4_14",
+      "type": "sentenceAssembly",
+      "question": "Она бы простила его, если бы он извинился (3rd)",
+      "correctAnswer": "She would have forgiven him if he had apologized",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "I",
+          "They",
+          "You",
+          "One"
+        ],
+        [
+          "would",
+          "could",
+          "might",
+          "should",
+          "will"
+        ],
+        [
+          "have",
+          "had",
+          "has",
+          "be",
+          "been"
+        ],
+        [
+          "forgiven",
+          "forgive",
+          "forgave",
+          "forgiving",
+          "forgot"
+        ],
+        [
+          "him",
+          "he",
+          "his",
+          "her",
+          "them"
+        ],
+        [
+          "if",
+          "when",
+          "that",
+          "what",
+          "because"
+        ],
+        [
+          "he",
+          "him",
+          "his",
+          "she",
+          "her"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "did",
+          "was"
+        ],
+        [
+          "apologized",
+          "apologize",
+          "sorry",
+          "apology",
+          "asked"
+        ]
+      ],
+      "mistakeTags": [
+        "conditionals",
+        "second_third_conditional"
+      ],
+      "audioPath": "assets/audio/grammar/upper_04_conditionals_2_3/013.mp3"
+    },
+    {
+      "id": "t4_15",
+      "type": "sentenceAssembly",
+      "question": "Если бы у меня была смелость, я бы сказал правду (2nd)",
+      "correctAnswer": "If I had the courage I would tell the truth",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "What",
+          "Since",
+          "Although"
+        ],
+        [
+          "I",
+          "She",
+          "He",
+          "It",
+          "We"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "got",
+          "was"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each",
+          "an"
+        ],
+        [
+          "courage",
+          "brave",
+          "bravery",
+          "fear",
+          "power"
+        ],
+        [
+          "I",
+          "She",
+          "He",
+          "It",
+          "We"
+        ],
+        [
+          "would",
+          "may",
+          "shall",
+          "must",
+          "will"
+        ],
+        [
+          "tell",
+          "told",
+          "telling",
+          "tells",
+          "say"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each",
+          "an"
+        ],
+        [
+          "truth",
+          "true",
+          "lie",
+          "fact",
+          "story"
+        ]
+      ],
+      "mistakeTags": [
+        "conditionals",
+        "second_third_conditional"
+      ],
+      "audioPath": "assets/audio/grammar/upper_04_conditionals_2_3/014.mp3"
+    },
+    {
+      "id": "t4_16",
+      "type": "sentenceAssembly",
+      "question": "Если бы они нас предупредили, мы бы избежали этого (3rd)",
+      "correctAnswer": "If they had warned us we would have avoided it",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "What",
+          "Since",
+          "Although"
+        ],
+        [
+          "they",
+          "them",
+          "their",
+          "we",
+          "us"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "did",
+          "was"
+        ],
+        [
+          "warned",
+          "warn",
+          "warning",
+          "warns",
+          "told"
+        ],
+        [
+          "us",
+          "we",
+          "our",
+          "them",
+          "me"
+        ],
+        [
+          "we",
+          "us",
+          "our",
+          "they",
+          "them"
+        ],
+        [
+          "would",
+          "will",
+          "did",
+          "can",
+          "could"
+        ],
+        [
+          "have",
+          "had",
+          "has",
+          "be",
+          "been"
+        ],
+        [
+          "avoided",
+          "avoid",
+          "avoiding",
+          "avoids",
+          "missed"
+        ],
+        [
+          "it",
+          "this",
+          "that",
+          "them",
+          "us"
+        ]
+      ],
+      "mistakeTags": [
+        "conditionals",
+        "second_third_conditional"
+      ],
+      "audioPath": "assets/audio/grammar/upper_04_conditionals_2_3/015.mp3"
+    },
+    {
+      "id": "t4_17",
+      "type": "sentenceAssembly",
+      "question": "Если бы я владел языком данных, я бы перешёл в аналитику (2nd)",
+      "correctAnswer": "If I knew data science I would move to analytics",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "What",
+          "Since",
+          "Although"
+        ],
+        [
+          "I",
+          "They",
+          "You",
+          "One",
+          "He"
+        ],
+        [
+          "knew",
+          "know",
+          "known",
+          "knows",
+          "knowing"
+        ],
+        [
+          "data",
+          "big",
+          "deep",
+          "cloud",
+          "web"
+        ],
+        [
+          "science",
+          "analysis",
+          "coding",
+          "systems",
+          "tools"
+        ],
+        [
+          "I",
+          "They",
+          "You",
+          "One",
+          "He"
+        ],
+        [
+          "would",
+          "could",
+          "might",
+          "should",
+          "will"
+        ],
+        [
+          "move",
+          "moved",
+          "moving",
+          "moves",
+          "go"
+        ],
+        [
+          "to",
+          "with",
+          "from",
+          "by",
+          "for"
+        ],
+        [
+          "analytics",
+          "research",
+          "finance",
+          "consulting",
+          "marketing"
+        ]
+      ],
+      "mistakeTags": [
+        "conditionals",
+        "second_third_conditional"
+      ],
+      "audioPath": "assets/audio/grammar/upper_04_conditionals_2_3/016.mp3"
+    },
+    {
+      "id": "t4_18",
+      "type": "sentenceAssembly",
+      "question": "Если бы он не солгал, она бы осталась (3rd)",
+      "correctAnswer": "If he had not lied she would have stayed",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "What",
+          "Since",
+          "Although"
+        ],
+        [
+          "he",
+          "him",
+          "his",
+          "she",
+          "her"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "did",
+          "was"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "none",
+          "nothing"
+        ],
+        [
+          "lied",
+          "lie",
+          "lying",
+          "lies",
+          "told"
+        ],
+        [
+          "she",
+          "her",
+          "hers",
+          "he",
+          "him"
+        ],
+        [
+          "would",
+          "may",
+          "shall",
+          "must",
+          "will"
+        ],
+        [
+          "have",
+          "had",
+          "has",
+          "be",
+          "been"
+        ],
+        [
+          "stayed",
+          "stay",
+          "staying",
+          "stays",
+          "remained"
+        ]
+      ],
+      "mistakeTags": [
+        "conditionals",
+        "second_third_conditional"
+      ],
+      "audioPath": "assets/audio/grammar/upper_04_conditionals_2_3/017.mp3"
+    },
+    {
+      "id": "t4_19",
+      "type": "sentenceAssembly",
+      "question": "Что бы ты сделал, если бы был президентом? (2nd)",
+      "correctAnswer": "What would you do if you were the president?",
+      "options": [],
+      "variants": [
+        [
+          "What",
+          "Where",
+          "When",
+          "Why",
+          "How"
+        ],
+        [
+          "would",
+          "will",
+          "did",
+          "can",
+          "could"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "she",
+          "him"
+        ],
+        [
+          "do",
+          "did",
+          "done",
+          "doing",
+          "make"
+        ],
+        [
+          "if",
+          "when",
+          "that",
+          "what",
+          "because"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "she",
+          "him"
+        ],
+        [
+          "were",
+          "was",
+          "am",
+          "is",
+          "be",
+          "being"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this",
+          "that"
+        ],
+        [
+          "president?",
+          "king?",
+          "boss?",
+          "leader?",
+          "chief?"
+        ]
+      ],
+      "mistakeTags": [
+        "conditionals",
+        "second_third_conditional"
+      ],
+      "audioPath": "assets/audio/grammar/upper_04_conditionals_2_3/018.mp3"
+    },
+    {
+      "id": "t4_20",
+      "type": "sentenceAssembly",
+      "question": "Мы бы не заблудились, если бы знали путь (3rd)",
+      "correctAnswer": "We would not have got lost if we had known",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "I",
+          "They",
+          "You",
+          "One"
+        ],
+        [
+          "would",
+          "could",
+          "might",
+          "should",
+          "will"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "none",
+          "nothing"
+        ],
+        [
+          "have",
+          "had",
+          "has",
+          "be",
+          "been"
+        ],
+        [
+          "got",
+          "get",
+          "gotten",
+          "getting",
+          "been"
+        ],
+        [
+          "lost",
+          "lose",
+          "losing",
+          "loses",
+          "missed"
+        ],
+        [
+          "if",
+          "when",
+          "that",
+          "what",
+          "because"
+        ],
+        [
+          "we",
+          "us",
+          "our",
+          "they",
+          "them"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "did",
+          "was"
+        ],
+        [
+          "known",
+          "know",
+          "knew",
+          "knowing",
+          "seen"
+        ]
+      ],
+      "mistakeTags": [
+        "conditionals",
+        "second_third_conditional"
+      ],
+      "audioPath": "assets/audio/grammar/upper_04_conditionals_2_3/019.mp3"
+    },
+    {
+      "id": "t4_21",
+      "type": "sentenceAssembly",
+      "question": "Если бы я мог летать, я бы не водил машину (2nd)",
+      "correctAnswer": "If I could fly I would not drive",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "What",
+          "Since",
+          "Although"
+        ],
+        [
+          "I",
+          "She",
+          "He",
+          "It",
+          "We"
+        ],
+        [
+          "could",
+          "would",
+          "may",
+          "shall",
+          "must"
+        ],
+        [
+          "fly",
+          "flew",
+          "flying",
+          "flies",
+          "float"
+        ],
+        [
+          "I",
+          "She",
+          "He",
+          "It",
+          "We"
+        ],
+        [
+          "would",
+          "may",
+          "shall",
+          "must",
+          "will"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "none",
+          "nothing"
+        ],
+        [
+          "drive",
+          "drove",
+          "driven",
+          "driving",
+          "ride"
+        ]
+      ],
+      "mistakeTags": [
+        "conditionals",
+        "second_third_conditional"
+      ],
+      "audioPath": "assets/audio/grammar/upper_04_conditionals_2_3/020.mp3"
+    },
+    {
+      "id": "t4_22",
+      "type": "sentenceAssembly",
+      "question": "Если бы он позвонил вчера, я бы ответил (3rd)",
+      "correctAnswer": "If he had called yesterday I would have answered",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "What",
+          "Since",
+          "Although"
+        ],
+        [
+          "he",
+          "him",
+          "his",
+          "she",
+          "her"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "did",
+          "was"
+        ],
+        [
+          "called",
+          "call",
+          "calling",
+          "calls",
+          "phoned"
+        ],
+        [
+          "yesterday",
+          "today",
+          "now",
+          "then",
+          "before"
+        ],
+        [
+          "I",
+          "He",
+          "She",
+          "We",
+          "They"
+        ],
+        [
+          "would",
+          "will",
+          "did",
+          "can",
+          "could"
+        ],
+        [
+          "have",
+          "had",
+          "has",
+          "be",
+          "been"
+        ],
+        [
+          "answered",
+          "answer",
+          "answering",
+          "answers",
+          "replied"
+        ]
+      ],
+      "mistakeTags": [
+        "conditionals",
+        "second_third_conditional"
+      ],
+      "audioPath": "assets/audio/grammar/upper_04_conditionals_2_3/021.mp3"
+    },
+    {
+      "id": "t4_23",
+      "type": "sentenceAssembly",
+      "question": "Если бы она жила ближе, мы бы виделись чаще (2nd)",
+      "correctAnswer": "If she lived closer we would meet more often",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "What",
+          "Since",
+          "Although"
+        ],
+        [
+          "she",
+          "her",
+          "hers",
+          "he",
+          "him"
+        ],
+        [
+          "lived",
+          "live",
+          "lives",
+          "living",
+          "stayed"
+        ],
+        [
+          "closer",
+          "close",
+          "near",
+          "here",
+          "next"
+        ],
+        [
+          "we",
+          "us",
+          "our",
+          "they",
+          "them"
+        ],
+        [
+          "would",
+          "could",
+          "might",
+          "should",
+          "will"
+        ],
+        [
+          "meet",
+          "met",
+          "meeting",
+          "meets",
+          "see"
+        ],
+        [
+          "more",
+          "much",
+          "many",
+          "most",
+          "very"
+        ],
+        [
+          "often",
+          "always",
+          "again",
+          "once",
+          "daily"
+        ]
+      ],
+      "mistakeTags": [
+        "conditionals",
+        "second_third_conditional"
+      ],
+      "audioPath": "assets/audio/grammar/upper_04_conditionals_2_3/022.mp3"
+    },
+    {
+      "id": "t4_24",
+      "type": "sentenceAssembly",
+      "question": "Если бы ты не проспал, ты бы успел (3rd)",
+      "correctAnswer": "If you had not overslept you would have made it",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "What",
+          "Since",
+          "Although"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "she",
+          "him"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "did",
+          "was"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "none",
+          "nothing"
+        ],
+        [
+          "overslept",
+          "oversleep",
+          "slept",
+          "sleep",
+          "rested"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "she",
+          "him"
+        ],
+        [
+          "would",
+          "may",
+          "shall",
+          "must",
+          "will"
+        ],
+        [
+          "have",
+          "had",
+          "has",
+          "be",
+          "been"
+        ],
+        [
+          "made",
+          "make",
+          "making",
+          "makes",
+          "done"
+        ],
+        [
+          "it",
+          "this",
+          "that",
+          "them",
+          "there"
+        ]
+      ],
+      "mistakeTags": [
+        "conditionals",
+        "second_third_conditional"
+      ],
+      "audioPath": "assets/audio/grammar/upper_04_conditionals_2_3/023.mp3"
+    },
+    {
+      "id": "t4_25",
+      "type": "sentenceAssembly",
+      "question": "Я бы купил этот дом, если бы мог (2nd)",
+      "correctAnswer": "I would buy this house if I could",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We",
+          "They"
+        ],
+        [
+          "would",
+          "will",
+          "did",
+          "can",
+          "could"
+        ],
+        [
+          "buy",
+          "bought",
+          "buying",
+          "buys",
+          "get"
+        ],
+        [
+          "this",
+          "the",
+          "a",
+          "an",
+          "that"
+        ],
+        [
+          "house",
+          "home",
+          "flat",
+          "place",
+          "room"
+        ],
+        [
+          "if",
+          "when",
+          "that",
+          "what",
+          "because"
+        ],
+        [
+          "I",
+          "He",
+          "She",
+          "We",
+          "They"
+        ],
+        [
+          "could",
+          "would",
+          "will",
+          "did",
+          "can"
+        ]
+      ],
+      "mistakeTags": [
+        "conditionals",
+        "second_third_conditional"
+      ],
+      "audioPath": "assets/audio/grammar/upper_04_conditionals_2_3/024.mp3"
+    },
+    {
+      "id": "t4_26",
+      "type": "sentenceAssembly",
+      "question": "Если бы мы выехали рано, мы бы успели (3rd)",
+      "correctAnswer": "If we had left early we would have arrived",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "What",
+          "Since",
+          "Although"
+        ],
+        [
+          "we",
+          "us",
+          "our",
+          "they",
+          "them"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "did",
+          "was"
+        ],
+        [
+          "left",
+          "leave",
+          "leaving",
+          "leaves",
+          "gone"
+        ],
+        [
+          "early",
+          "soon",
+          "fast",
+          "quick",
+          "before"
+        ],
+        [
+          "we",
+          "us",
+          "our",
+          "they",
+          "them"
+        ],
+        [
+          "would",
+          "could",
+          "might",
+          "should",
+          "will"
+        ],
+        [
+          "have",
+          "had",
+          "has",
+          "be",
+          "been"
+        ],
+        [
+          "arrived",
+          "arrive",
+          "arriving",
+          "arrives",
+          "came"
+        ]
+      ],
+      "mistakeTags": [
+        "conditionals",
+        "second_third_conditional"
+      ],
+      "audioPath": "assets/audio/grammar/upper_04_conditionals_2_3/025.mp3"
+    },
+    {
+      "id": "t4_27",
+      "type": "sentenceAssembly",
+      "question": "Если бы у него была возможность, он бы согласился (2nd)",
+      "correctAnswer": "If he had the opportunity he would agree",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "What",
+          "Since",
+          "Although"
+        ],
+        [
+          "he",
+          "him",
+          "his",
+          "she",
+          "her"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "got",
+          "was"
+        ],
+        [
+          "the",
+          "a",
+          "that",
+          "each",
+          "an"
+        ],
+        [
+          "opportunity",
+          "chance",
+          "option",
+          "offer",
+          "way"
+        ],
+        [
+          "he",
+          "him",
+          "his",
+          "she",
+          "her"
+        ],
+        [
+          "would",
+          "may",
+          "shall",
+          "must",
+          "will"
+        ],
+        [
+          "agree",
+          "agreed",
+          "agreeing",
+          "agrees",
+          "accept"
+        ]
+      ],
+      "mistakeTags": [
+        "conditionals",
+        "second_third_conditional"
+      ],
+      "audioPath": "assets/audio/grammar/upper_04_conditionals_2_3/026.mp3"
+    },
+    {
+      "id": "t4_28",
+      "type": "sentenceAssembly",
+      "question": "Если бы он не ошибся, он бы остался (3rd)",
+      "correctAnswer": "If he had not failed he would have stayed",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "What",
+          "Since",
+          "Although"
+        ],
+        [
+          "he",
+          "him",
+          "his",
+          "she",
+          "her"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "did",
+          "was"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "none",
+          "nothing"
+        ],
+        [
+          "failed",
+          "fail",
+          "failing",
+          "fails",
+          "lost"
+        ],
+        [
+          "he",
+          "him",
+          "his",
+          "she",
+          "her"
+        ],
+        [
+          "would",
+          "will",
+          "did",
+          "can",
+          "could"
+        ],
+        [
+          "have",
+          "had",
+          "has",
+          "be",
+          "been"
+        ],
+        [
+          "stayed",
+          "stay",
+          "staying",
+          "stays",
+          "remained"
+        ]
+      ],
+      "mistakeTags": [
+        "conditionals",
+        "second_third_conditional"
+      ],
+      "audioPath": "assets/audio/grammar/upper_04_conditionals_2_3/027.mp3"
+    },
+    {
+      "id": "t4_29",
+      "type": "sentenceAssembly",
+      "question": "Если бы ты был на моём месте, ты бы понял (2nd)",
+      "correctAnswer": "If you were in my place you would understand",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "What",
+          "Since",
+          "Although"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "she",
+          "him"
+        ],
+        [
+          "were",
+          "was",
+          "am",
+          "is",
+          "be",
+          "being"
+        ],
+        [
+          "in",
+          "to",
+          "with",
+          "from",
+          "by"
+        ],
+        [
+          "my",
+          "me",
+          "mine",
+          "I",
+          "our"
+        ],
+        [
+          "place",
+          "spot",
+          "seat",
+          "room",
+          "side"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "she",
+          "him"
+        ],
+        [
+          "would",
+          "could",
+          "might",
+          "should",
+          "will"
+        ],
+        [
+          "understand",
+          "understood",
+          "understanding",
+          "knows",
+          "get"
+        ]
+      ],
+      "mistakeTags": [
+        "conditionals",
+        "second_third_conditional"
+      ],
+      "audioPath": "assets/audio/grammar/upper_04_conditionals_2_3/028.mp3"
+    },
+    {
+      "id": "t4_30",
+      "type": "sentenceAssembly",
+      "question": "Если бы они помогли, мы бы закончили раньше (3rd)",
+      "correctAnswer": "If they had helped we would have finished sooner",
+      "options": [],
+      "variants": [
+        [
+          "If",
+          "When",
+          "What",
+          "Since",
+          "Although"
+        ],
+        [
+          "they",
+          "them",
+          "their",
+          "we",
+          "us"
+        ],
+        [
+          "had",
+          "have",
+          "has",
+          "did",
+          "was"
+        ],
+        [
+          "helped",
+          "help",
+          "helping",
+          "helps",
+          "aided"
+        ],
+        [
+          "we",
+          "us",
+          "our",
+          "they",
+          "them"
+        ],
+        [
+          "would",
+          "may",
+          "shall",
+          "must",
+          "will"
+        ],
+        [
+          "have",
+          "had",
+          "has",
+          "be",
+          "been"
+        ],
+        [
+          "finished",
+          "finish",
+          "finishing",
+          "finishes",
+          "done"
+        ],
+        [
+          "sooner",
+          "soon",
+          "early",
+          "fast",
+          "before"
+        ]
+      ],
+      "mistakeTags": [
+        "conditionals",
+        "second_third_conditional"
+      ],
+      "audioPath": "assets/audio/grammar/upper_04_conditionals_2_3/029.mp3"
+    }
+  ],
+  "theoryQuiz": [
+    {
+      "id": "tq_01",
+      "type": "multipleChoice",
+      "question": "Какая структура Second Conditional?",
+      "options": [
+        "If + Present Simple, will + V1",
+        "If + Past Simple, would + V1",
+        "If + Past Perfect, would have + V3",
+        "If + Present Simple, Present Simple"
+      ],
+      "correctIndex": 1,
+      "explanation": "Second Conditional: If + Past Simple, would + V1. Для нереальных ситуаций в настоящем/будущем."
+    },
+    {
+      "id": "tq_02",
+      "type": "trueFalse",
+      "question": "Second Conditional используется для нереальных условий в настоящем или будущем.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Верно. Second Conditional — мечты и гипотезы: If I were rich, I would travel the world."
+    },
+    {
+      "id": "tq_03",
+      "type": "multipleChoice",
+      "question": "Какая структура Third Conditional?",
+      "options": [
+        "If + Past Simple, would + V1",
+        "If + Past Perfect, would + V1",
+        "If + Past Perfect, would have + V3",
+        "If + Present Perfect, will have + V3"
+      ],
+      "correctIndex": 2,
+      "explanation": "Third Conditional: If + Past Perfect, would have + V3. Для нереальных ситуаций в прошлом."
+    },
+    {
+      "id": "tq_04",
+      "type": "trueFalse",
+      "question": "В Second Conditional правильно говорить 'If I was rich' вместо 'If I were rich'.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "В формальном английском в Second Conditional используется were для всех лиц: If I were, If he were."
+    },
+    {
+      "id": "tq_05",
+      "type": "multipleChoice",
+      "question": "Выберите правильный Third Conditional:",
+      "options": [
+        "If I studied, I would pass.",
+        "If I had studied, I would have passed.",
+        "If I study, I will pass.",
+        "If I would study, I had passed."
+      ],
+      "correctIndex": 1,
+      "explanation": "Third Conditional: If + had studied (Past Perfect), would have passed (would have + V3)."
+    },
+    {
+      "id": "tq_06",
+      "type": "multipleChoice",
+      "question": "Third Conditional выражает:",
+      "options": [
+        "Реальные планы на будущее",
+        "Факты и законы природы",
+        "Сожаление о прошлом (нереальное прошлое)",
+        "Нереальное настоящее"
+      ],
+      "correctIndex": 2,
+      "explanation": "Third Conditional — сожаления о том, что не случилось в прошлом: If I had known, I would have helped."
+    },
+    {
+      "id": "tq_07",
+      "type": "trueFalse",
+      "question": "'If she had more time, she would learn French' — это Third Conditional.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "Это Second Conditional (Past Simple + would + V1). Third требует had + V3 и would have + V3."
+    },
+    {
+      "id": "tq_08",
+      "type": "multipleChoice",
+      "question": "Переведите: 'Если бы я знал, я бы помог.'",
+      "options": [
+        "If I know, I will help.",
+        "If I knew, I would help.",
+        "If I had known, I would have helped.",
+        "If I know, I help."
+      ],
+      "correctIndex": 1,
+      "explanation": "«Если бы я знал» — нереальное настоящее = Second Conditional: If I knew, I would help."
+    },
+    {
+      "id": "tq_09",
+      "type": "trueFalse",
+      "question": "'If they had arrived earlier, they would have caught the train' — это правильный Third Conditional.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Верно. If + had arrived (Past Perfect), would have caught (would have + V3) — классический Third Conditional."
+    },
+    {
+      "id": "tq_10",
+      "type": "multipleChoice",
+      "question": "Какая разница между Second и Third Conditional?",
+      "options": [
+        "Second — о прошлом, Third — о будущем",
+        "Second — нереальное настоящее, Third — нереальное прошлое",
+        "Second — факты, Third — мечты",
+        "Разницы нет"
+      ],
+      "correctIndex": 1,
+      "explanation": "Second — нереальные ситуации сейчас/в будущем. Third — нереальные ситуации в прошлом (сожаления)."
+    }
+  ]
+}

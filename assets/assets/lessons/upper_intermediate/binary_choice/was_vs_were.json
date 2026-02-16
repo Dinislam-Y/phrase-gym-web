@@ -1,0 +1,400 @@
+{
+  "id": "upper_bc_05_passive_simple",
+  "title": "Was vs Were",
+  "description": "Was или were? Разбираемся с пассивным залогом, прошедшим временем и коварным сослагательным наклонением.",
+  "order": 5,
+  "level": "upper_intermediate",
+  "imageUrl": null,
+  "tasks": [
+    {
+      "id": "wvw_1",
+      "question": "The decision ___ made by the board.",
+      "optionA": "WAS",
+      "optionB": "WERE",
+      "correctIndex": 0,
+      "explanation": "Decision — существительное в единственном числе, поэтому в пассивном залоге используется was. The decision was made — решение было принято.",
+      "tags": [
+        "was_vs_were",
+        "was",
+        "passive"
+      ]
+    },
+    {
+      "id": "wvw_2",
+      "question": "The results ___ announced last Friday morning.",
+      "optionA": "WAS",
+      "optionB": "WERE",
+      "correctIndex": 1,
+      "explanation": "Results — множественное число, поэтому в пассиве ставим were. Результаты были объявлены — the results were announced.",
+      "tags": [
+        "was_vs_were",
+        "were",
+        "passive"
+      ]
+    },
+    {
+      "id": "wvw_3",
+      "question": "Her opinion ___ respected by everyone at work.",
+      "optionA": "WAS",
+      "optionB": "WERE",
+      "correctIndex": 0,
+      "explanation": "Opinion — единственное число, значит was. Её мнение уважали — пассивная конструкция с единственным подлежащим.",
+      "tags": [
+        "was_vs_were",
+        "was",
+        "passive"
+      ]
+    },
+    {
+      "id": "wvw_4",
+      "question": "The guests ___ invited to a formal dinner.",
+      "optionA": "WAS",
+      "optionB": "WERE",
+      "correctIndex": 1,
+      "explanation": "Guests — множественное число, поэтому were. Гостей пригласили на ужин — were invited.",
+      "tags": [
+        "was_vs_were",
+        "were",
+        "passive"
+      ]
+    },
+    {
+      "id": "wvw_5",
+      "question": "The report ___ submitted before the deadline.",
+      "optionA": "WAS",
+      "optionB": "WERE",
+      "correctIndex": 0,
+      "explanation": "Report — единственное число, поэтому was. Отчёт был подан — was submitted.",
+      "tags": [
+        "was_vs_were",
+        "was",
+        "passive"
+      ]
+    },
+    {
+      "id": "wvw_6",
+      "question": "His speech ___ praised by the entire audience.",
+      "optionA": "WAS",
+      "optionB": "WERE",
+      "correctIndex": 0,
+      "explanation": "Speech — единственное число, значит was. Его речь хвалили — was praised.",
+      "tags": [
+        "was_vs_were",
+        "was",
+        "passive"
+      ]
+    },
+    {
+      "id": "wvw_7",
+      "question": "The employees ___ informed about the new policy.",
+      "optionA": "WAS",
+      "optionB": "WERE",
+      "correctIndex": 1,
+      "explanation": "Employees — множественное число, поэтому were. Сотрудников уведомили — were informed.",
+      "tags": [
+        "was_vs_were",
+        "were",
+        "passive"
+      ]
+    },
+    {
+      "id": "wvw_8",
+      "question": "All the documents ___ signed by the director.",
+      "optionA": "WAS",
+      "optionB": "WERE",
+      "correctIndex": 1,
+      "explanation": "Documents — множественное число, усиленное словом all. Все документы были подписаны — were signed.",
+      "tags": [
+        "was_vs_were",
+        "were",
+        "passive"
+      ]
+    },
+    {
+      "id": "wvw_9",
+      "question": "The agreement ___ reached after long negotiations.",
+      "optionA": "WAS",
+      "optionB": "WERE",
+      "correctIndex": 0,
+      "explanation": "Agreement — единственное число, поэтому was. Соглашение было достигнуто — was reached.",
+      "tags": [
+        "was_vs_were",
+        "was",
+        "passive"
+      ]
+    },
+    {
+      "id": "wvw_10",
+      "question": "The candidates ___ evaluated on their experience.",
+      "optionA": "WAS",
+      "optionB": "WERE",
+      "correctIndex": 1,
+      "explanation": "Candidates — множественное число, поэтому were. Кандидатов оценивали по опыту — were evaluated.",
+      "tags": [
+        "was_vs_were",
+        "were",
+        "passive"
+      ]
+    },
+    {
+      "id": "wvw_11",
+      "question": "The project ___ completed well ahead of schedule.",
+      "optionA": "WAS",
+      "optionB": "WERE",
+      "correctIndex": 0,
+      "explanation": "Project — единственное число, значит was. Проект был завершён раньше срока — was completed.",
+      "tags": [
+        "was_vs_were",
+        "was",
+        "passive"
+      ]
+    },
+    {
+      "id": "wvw_12",
+      "question": "You ___ absolutely right about that whole situation.",
+      "optionA": "WAS",
+      "optionB": "WERE",
+      "correctIndex": 1,
+      "explanation": "С местоимением you всегда используется were, даже если речь об одном человеке. You were right — ты был прав.",
+      "tags": [
+        "was_vs_were",
+        "were",
+        "past_tense"
+      ]
+    },
+    {
+      "id": "wvw_13",
+      "question": "The rules ___ changed without any prior notice.",
+      "optionA": "WAS",
+      "optionB": "WERE",
+      "correctIndex": 1,
+      "explanation": "Rules — множественное число, поэтому were. Правила изменили без предупреждения — were changed.",
+      "tags": [
+        "was_vs_were",
+        "were",
+        "passive"
+      ]
+    },
+    {
+      "id": "wvw_14",
+      "question": "Nothing ___ done to resolve the ongoing conflict.",
+      "optionA": "WAS",
+      "optionB": "WERE",
+      "correctIndex": 0,
+      "explanation": "Nothing — неопределённое местоимение единственного числа, поэтому was. Ничего не было сделано — nothing was done.",
+      "tags": [
+        "was_vs_were",
+        "was",
+        "passive"
+      ]
+    },
+    {
+      "id": "wvw_15",
+      "question": "There ___ several complaints about the new system.",
+      "optionA": "WAS",
+      "optionB": "WERE",
+      "correctIndex": 1,
+      "explanation": "В конструкции there was/were глагол согласуется с существительным после него. Complaints — множественное число, поэтому were.",
+      "tags": [
+        "was_vs_were",
+        "were",
+        "existential"
+      ]
+    },
+    {
+      "id": "wvw_16",
+      "question": "The truth ___ hidden from the public for years.",
+      "optionA": "WAS",
+      "optionB": "WERE",
+      "correctIndex": 0,
+      "explanation": "Truth — неисчисляемое существительное единственного числа, поэтому was. Правду скрывали от общественности годами.",
+      "tags": [
+        "was_vs_were",
+        "was",
+        "passive"
+      ]
+    },
+    {
+      "id": "wvw_17",
+      "question": "Each participant ___ given a certificate of completion.",
+      "optionA": "WAS",
+      "optionB": "WERE",
+      "correctIndex": 0,
+      "explanation": "Each всегда указывает на единственное число, поэтому was. Каждый участник получил сертификат — each was given.",
+      "tags": [
+        "was_vs_were",
+        "was",
+        "passive"
+      ]
+    },
+    {
+      "id": "wvw_18",
+      "question": "We ___ deeply concerned about the final outcome.",
+      "optionA": "WAS",
+      "optionB": "WERE",
+      "correctIndex": 1,
+      "explanation": "We — множественное число, поэтому were. Мы были серьёзно обеспокоены итоговым результатом.",
+      "tags": [
+        "was_vs_were",
+        "were",
+        "past_tense"
+      ]
+    },
+    {
+      "id": "wvw_19",
+      "question": "The whole team ___ surprised by the sudden news.",
+      "optionA": "WAS",
+      "optionB": "WERE",
+      "correctIndex": 0,
+      "explanation": "Team — собирательное существительное, но здесь выступает как единое целое. В этом случае используется was — the team was surprised.",
+      "tags": [
+        "was_vs_were",
+        "was",
+        "passive"
+      ]
+    },
+    {
+      "id": "wvw_20",
+      "question": "Those ideas ___ considered too radical at the time.",
+      "optionA": "WAS",
+      "optionB": "WERE",
+      "correctIndex": 1,
+      "explanation": "Ideas — множественное число, указатель those это подтверждает. Те идеи считались слишком радикальными — were considered.",
+      "tags": [
+        "was_vs_were",
+        "were",
+        "passive"
+      ]
+    },
+    {
+      "id": "wvw_21",
+      "question": "If I ___ you, I would reconsider that offer.",
+      "optionA": "WAS",
+      "optionB": "WERE",
+      "correctIndex": 1,
+      "explanation": "Это сослагательное наклонение (subjunctive) — нереальное условие. В таких конструкциях с if всегда were, даже с I/he/she/it.",
+      "tags": [
+        "was_vs_were",
+        "were",
+        "subjunctive"
+      ]
+    },
+    {
+      "id": "wvw_22",
+      "question": "Neither the price nor the quality ___ acceptable.",
+      "optionA": "WAS",
+      "optionB": "WERE",
+      "correctIndex": 0,
+      "explanation": "В конструкции neither...nor глагол согласуется с ближайшим подлежащим. Quality — единственное число, поэтому was.",
+      "tags": [
+        "was_vs_were",
+        "was",
+        "agreement"
+      ]
+    },
+    {
+      "id": "wvw_23",
+      "question": "I wish things ___ different between us back then.",
+      "optionA": "WAS",
+      "optionB": "WERE",
+      "correctIndex": 1,
+      "explanation": "После I wish используется сослагательное наклонение с were. Это выражает нереальное желание о прошлом — I wish things were different.",
+      "tags": [
+        "was_vs_were",
+        "were",
+        "subjunctive"
+      ]
+    },
+    {
+      "id": "wvw_24",
+      "question": "Every single complaint ___ addressed by the management.",
+      "optionA": "WAS",
+      "optionB": "WERE",
+      "correctIndex": 0,
+      "explanation": "Every указывает на единственное число, несмотря на множество жалоб. Каждая жалоба была рассмотрена — every complaint was addressed.",
+      "tags": [
+        "was_vs_were",
+        "was",
+        "passive"
+      ]
+    },
+    {
+      "id": "wvw_25",
+      "question": "If she ___ in charge, the outcome would differ.",
+      "optionA": "WAS",
+      "optionB": "WERE",
+      "correctIndex": 1,
+      "explanation": "Нереальное условие — сослагательное наклонение требует were. Даже с she/he/it правильно: if she were in charge.",
+      "tags": [
+        "was_vs_were",
+        "were",
+        "subjunctive"
+      ]
+    },
+    {
+      "id": "wvw_26",
+      "question": "The data ___ analyzed by an independent research team.",
+      "optionA": "WAS",
+      "optionB": "WERE",
+      "correctIndex": 1,
+      "explanation": "Data — формально множественное число от datum, особенно в научном и формальном контексте. Данные были проанализированы — the data were analyzed.",
+      "tags": [
+        "was_vs_were",
+        "were",
+        "passive"
+      ]
+    },
+    {
+      "id": "wvw_27",
+      "question": "Not a single word ___ spoken during the meeting.",
+      "optionA": "WAS",
+      "optionB": "WERE",
+      "correctIndex": 0,
+      "explanation": "Not a single подчёркивает единственное число — ни одно слово. Поэтому was — not a single word was spoken.",
+      "tags": [
+        "was_vs_were",
+        "was",
+        "passive"
+      ]
+    },
+    {
+      "id": "wvw_28",
+      "question": "The news ___ shocking to everyone in the office.",
+      "optionA": "WAS",
+      "optionB": "WERE",
+      "correctIndex": 0,
+      "explanation": "News — неисчисляемое существительное, всегда единственного числа, несмотря на окончание -s. Новость была шокирующей — the news was shocking.",
+      "tags": [
+        "was_vs_were",
+        "was",
+        "agreement"
+      ]
+    },
+    {
+      "id": "wvw_29",
+      "question": "If it ___ not for her help, we would have failed.",
+      "optionA": "WAS",
+      "optionB": "WERE",
+      "correctIndex": 1,
+      "explanation": "If it were not for — устойчивая конструкция сослагательного наклонения, означающая «если бы не». Здесь всегда were, даже с it.",
+      "tags": [
+        "was_vs_were",
+        "were",
+        "subjunctive"
+      ]
+    },
+    {
+      "id": "wvw_30",
+      "question": "Nobody ___ told about the changes in advance.",
+      "optionA": "WAS",
+      "optionB": "WERE",
+      "correctIndex": 0,
+      "explanation": "Nobody — неопределённое местоимение единственного числа, поэтому was. Никому не сообщили заранее — nobody was told.",
+      "tags": [
+        "was_vs_were",
+        "was",
+        "passive"
+      ]
+    }
+  ]
+}

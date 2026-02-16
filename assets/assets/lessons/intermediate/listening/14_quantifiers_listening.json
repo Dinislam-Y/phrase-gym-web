@@ -1,0 +1,461 @@
+{
+  "id": "intermediate_listening_14_quantifiers",
+  "title": "Quantifiers",
+  "description": "Слушайте и определяйте количество с помощью квантификаторов.",
+  "order": 14,
+  "level": "intermediate",
+  "imageUrl": "assets/images/lessons/quantifiers.png",
+  "tasks": [
+    {
+      "id": "t14_01",
+      "audioText": "I went to the supermarket today. There were only a few apples left on the shelf.",
+      "transcript": "There were only a few apples left on the shelf.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "A small number of apples remained on the shelf."
+        },
+        {
+          "id": "o2",
+          "text": "There were plenty of apples available."
+        },
+        {
+          "id": "o3",
+          "text": "No apples were on the shelf at all."
+        },
+        {
+          "id": "o4",
+          "text": "The shelf was full of different fruits."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'A few' means a small number but not zero. Only a few = very small number.",
+      "mistakeTags": [
+        "shopping",
+        "quantifiers"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_14_quantifiers/t14_01.mp3"
+    },
+    {
+      "id": "t14_02",
+      "audioText": "Can you help me with this recipe? I need a little butter for the sauce.",
+      "transcript": "I need a little butter for the sauce.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "I need a large amount of butter."
+        },
+        {
+          "id": "o2",
+          "text": "I need a small amount of butter for the sauce."
+        },
+        {
+          "id": "o3",
+          "text": "I do not need any butter at all."
+        },
+        {
+          "id": "o4",
+          "text": "I need butter and oil in equal amounts."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'A little' is used with uncountable nouns and means a small amount, but enough.",
+      "mistakeTags": [
+        "cooking",
+        "quantifiers"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_14_quantifiers/t14_02.mp3"
+    },
+    {
+      "id": "t14_03",
+      "audioText": "The conference was very popular this year. Several hundred people attended the event.",
+      "transcript": "Several hundred people attended the event.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Only about ten people came to the event."
+        },
+        {
+          "id": "o2",
+          "text": "Nobody attended the conference."
+        },
+        {
+          "id": "o3",
+          "text": "A large number of people, in the hundreds, attended."
+        },
+        {
+          "id": "o4",
+          "text": "Exactly one hundred people were at the event."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Several hundred' means more than two or three hundred — a significant number of attendees.",
+      "mistakeTags": [
+        "work",
+        "quantifiers"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_14_quantifiers/t14_03.mp3"
+    },
+    {
+      "id": "t14_04",
+      "audioText": "Don't worry about the picnic. We have plenty of food for everyone.",
+      "transcript": "We have plenty of food for everyone.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "There is more than enough food for all the guests."
+        },
+        {
+          "id": "o2",
+          "text": "There is barely any food left for the picnic."
+        },
+        {
+          "id": "o3",
+          "text": "We need to buy more food right away."
+        },
+        {
+          "id": "o4",
+          "text": "We have food for only two people."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Plenty of' means more than enough — there is no need to worry about the quantity.",
+      "mistakeTags": [
+        "social",
+        "quantifiers"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_14_quantifiers/t14_04.mp3"
+    },
+    {
+      "id": "t14_05",
+      "audioText": "The doctor told me to change my diet. I eat too much sugar every day.",
+      "transcript": "I eat too much sugar every day.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "I eat a healthy amount of sugar."
+        },
+        {
+          "id": "o2",
+          "text": "I eat an excessive amount of sugar daily."
+        },
+        {
+          "id": "o3",
+          "text": "I never eat sugar at all."
+        },
+        {
+          "id": "o4",
+          "text": "I only eat sugar on weekends."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Too much' means more than is good or necessary. Sugar is uncountable, so we use 'too much'.",
+      "mistakeTags": [
+        "health",
+        "quantifiers"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_14_quantifiers/t14_05.mp3"
+    },
+    {
+      "id": "t14_06",
+      "audioText": "I tried to park near the shopping centre. There were too many cars in the car park.",
+      "transcript": "There were too many cars in the car park.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The car park was almost empty."
+        },
+        {
+          "id": "o2",
+          "text": "There were just enough parking spaces."
+        },
+        {
+          "id": "o3",
+          "text": "The car park was overcrowded with vehicles."
+        },
+        {
+          "id": "o4",
+          "text": "Only a few cars were parked there."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Too many' is used with countable nouns and means an excessive number — more than the space allows.",
+      "mistakeTags": [
+        "transport",
+        "quantifiers"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_14_quantifiers/t14_06.mp3"
+    },
+    {
+      "id": "t14_07",
+      "audioText": "I checked the fridge this morning. We don't have enough milk for breakfast.",
+      "transcript": "We don't have enough milk for breakfast.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "We have more milk than we need."
+        },
+        {
+          "id": "o2",
+          "text": "The amount of milk is insufficient for breakfast."
+        },
+        {
+          "id": "o3",
+          "text": "We have exactly the right amount of milk."
+        },
+        {
+          "id": "o4",
+          "text": "We never drink milk at breakfast."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Not enough' means less than is needed — the milk is insufficient for the meal.",
+      "mistakeTags": [
+        "home",
+        "quantifiers"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_14_quantifiers/t14_07.mp3"
+    },
+    {
+      "id": "t14_08",
+      "audioText": "How was the beach last weekend? There were hardly any people there because of the cold weather.",
+      "transcript": "There were hardly any people there because of the cold weather.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The beach was very crowded last weekend."
+        },
+        {
+          "id": "o2",
+          "text": "Almost nobody was at the beach due to the cold."
+        },
+        {
+          "id": "o3",
+          "text": "Everyone enjoyed the warm weather at the beach."
+        },
+        {
+          "id": "o4",
+          "text": "Many families visited the beach despite the cold."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Hardly any' means almost none — very few people were there because it was cold.",
+      "mistakeTags": [
+        "travel",
+        "quantifiers"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_14_quantifiers/t14_08.mp3"
+    },
+    {
+      "id": "t14_09",
+      "audioText": "The teacher was disappointed with the class. Very few students completed the homework.",
+      "transcript": "Very few students completed the homework.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "All students finished the homework on time."
+        },
+        {
+          "id": "o2",
+          "text": "Most of the class submitted their homework."
+        },
+        {
+          "id": "o3",
+          "text": "Only a very small number of students did the homework."
+        },
+        {
+          "id": "o4",
+          "text": "The teacher did not assign any homework."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Very few' means almost none — a disappointingly small number of students completed the task.",
+      "mistakeTags": [
+        "education",
+        "quantifiers"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_14_quantifiers/t14_09.mp3"
+    },
+    {
+      "id": "t14_10",
+      "audioText": "We had a great time at the party last night. Most of the guests stayed until midnight.",
+      "transcript": "Most of the guests stayed until midnight.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The majority of guests remained at the party until midnight."
+        },
+        {
+          "id": "o2",
+          "text": "All the guests left before midnight."
+        },
+        {
+          "id": "o3",
+          "text": "Only one or two guests came to the party."
+        },
+        {
+          "id": "o4",
+          "text": "None of the guests enjoyed the party."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Most of' means the majority — more than half of the guests stayed late.",
+      "mistakeTags": [
+        "social",
+        "quantifiers"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_14_quantifiers/t14_10.mp3"
+    },
+    {
+      "id": "t14_11",
+      "audioText": "I looked in my wallet after shopping. I had very little money left after paying for everything.",
+      "transcript": "I had very little money left after paying for everything.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "I still had a lot of money after shopping."
+        },
+        {
+          "id": "o2",
+          "text": "I spent nothing at the shops."
+        },
+        {
+          "id": "o3",
+          "text": "Almost no money remained in my wallet after shopping."
+        },
+        {
+          "id": "o4",
+          "text": "I had exactly enough money for another shopping trip."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Very little' with uncountable nouns means almost none — an extremely small amount of money was left.",
+      "mistakeTags": [
+        "shopping",
+        "quantifiers"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_14_quantifiers/t14_11.mp3"
+    },
+    {
+      "id": "t14_12",
+      "audioText": "Our team is growing quickly. We have hired several new employees this month.",
+      "transcript": "We have hired several new employees this month.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "We hired exactly one new person this month."
+        },
+        {
+          "id": "o2",
+          "text": "We have not hired anyone recently."
+        },
+        {
+          "id": "o3",
+          "text": "We fired several employees this month."
+        },
+        {
+          "id": "o4",
+          "text": "We hired more than two but not a huge number of new people."
+        }
+      ],
+      "correctIndex": 3,
+      "explanation": "'Several' means more than two or three but not a very large number — a moderate quantity.",
+      "mistakeTags": [
+        "work",
+        "quantifiers"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_14_quantifiers/t14_12.mp3"
+    },
+    {
+      "id": "t14_13",
+      "audioText": "My grandmother has a beautiful garden. She grows all kinds of flowers and vegetables.",
+      "transcript": "She grows all kinds of flowers and vegetables.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She grows only roses in her garden."
+        },
+        {
+          "id": "o2",
+          "text": "She grows a wide variety of flowers and vegetables."
+        },
+        {
+          "id": "o3",
+          "text": "She does not grow anything in her garden."
+        },
+        {
+          "id": "o4",
+          "text": "She only grows vegetables, not flowers."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'All kinds of' means many different types — a great variety of plants in the garden.",
+      "mistakeTags": [
+        "hobbies",
+        "quantifiers"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_14_quantifiers/t14_13.mp3"
+    },
+    {
+      "id": "t14_14",
+      "audioText": "I've been saving for months. I finally have enough money to buy a new laptop.",
+      "transcript": "I finally have enough money to buy a new laptop.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "I still do not have the money I need for a laptop."
+        },
+        {
+          "id": "o2",
+          "text": "I have saved the necessary amount and can now buy the laptop."
+        },
+        {
+          "id": "o3",
+          "text": "I decided not to buy a laptop anymore."
+        },
+        {
+          "id": "o4",
+          "text": "I have too much money and don't know what to buy."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Enough' means the sufficient amount needed — after saving, the money reached the required level.",
+      "mistakeTags": [
+        "technology",
+        "quantifiers"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_14_quantifiers/t14_14.mp3"
+    },
+    {
+      "id": "t14_15",
+      "audioText": "The restaurant was not very busy tonight. Only a couple of tables were occupied.",
+      "transcript": "Only a couple of tables were occupied.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Every table in the restaurant was taken."
+        },
+        {
+          "id": "o2",
+          "text": "About half the tables were occupied."
+        },
+        {
+          "id": "o3",
+          "text": "Just two or so tables had customers sitting at them."
+        },
+        {
+          "id": "o4",
+          "text": "The restaurant was closed tonight."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'A couple of' means approximately two — only about two tables were in use.",
+      "mistakeTags": [
+        "dining",
+        "quantifiers"
+      ],
+      "audioPath": "assets/audio/listening/intermediate_listening_14_quantifiers/t14_15.mp3"
+    }
+  ],
+  "short_description": "Определяем количество: a few, plenty of, enough, too much"
+}

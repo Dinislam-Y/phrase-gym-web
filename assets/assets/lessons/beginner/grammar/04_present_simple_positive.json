@@ -1,0 +1,1430 @@
+{
+  "id": "beginner_04_present_simple_positive",
+  "title": "Present Simple: Positive",
+  "description": "Самое важное время в английском. Используем его для привычек, фактов и того, что происходит обычно.",
+  "order": 4,
+  "level": "beginner",
+  "imageUrl": "assets/images/lessons/present_simple_positive.png",
+  "vocabulary": [
+    {
+      "id": "v4_like",
+      "english": "like",
+      "russian": "любить, нравиться",
+      "partOfSpeech": "verb",
+      "example": "I like music.",
+      "exampleTranslation": "Я люблю музыку.",
+      "audioPath": "assets/audio/vocabulary/v4_like.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_like.mp3"
+    },
+    {
+      "id": "v4_want",
+      "english": "want",
+      "russian": "хотеть",
+      "partOfSpeech": "verb",
+      "example": "I want coffee.",
+      "exampleTranslation": "Я хочу кофе.",
+      "audioPath": "assets/audio/vocabulary/v4_want.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_want.mp3"
+    },
+    {
+      "id": "v4_know",
+      "english": "know",
+      "russian": "знать",
+      "partOfSpeech": "verb",
+      "example": "He knows me.",
+      "exampleTranslation": "Он знает меня.",
+      "audioPath": "assets/audio/vocabulary/v4_know.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_know.mp3"
+    },
+    {
+      "id": "v4_understand",
+      "english": "understand",
+      "russian": "понимать",
+      "partOfSpeech": "verb",
+      "example": "I understand you.",
+      "exampleTranslation": "Я понимаю тебя.",
+      "audioPath": "assets/audio/vocabulary/v4_understand.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_understand.mp3"
+    },
+    {
+      "id": "v4_work",
+      "english": "work",
+      "russian": "работать",
+      "partOfSpeech": "verb",
+      "example": "They work here.",
+      "exampleTranslation": "Они работают здесь.",
+      "audioPath": "assets/audio/vocabulary/v4_work.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_work.mp3"
+    },
+    {
+      "id": "v4_live",
+      "english": "live",
+      "russian": "жить",
+      "partOfSpeech": "verb",
+      "example": "We live here.",
+      "exampleTranslation": "Мы живем здесь.",
+      "audioPath": "assets/audio/vocabulary/v4_live.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_live.mp3"
+    },
+    {
+      "id": "v4_play",
+      "english": "play",
+      "russian": "играть",
+      "partOfSpeech": "verb",
+      "example": "He plays football.",
+      "exampleTranslation": "Он играет в футбол.",
+      "audioPath": "assets/audio/vocabulary/v4_play.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_play.mp3"
+    },
+    {
+      "id": "v4_speak",
+      "english": "speak",
+      "russian": "говорить (на языке)",
+      "partOfSpeech": "verb",
+      "example": "You speak English.",
+      "exampleTranslation": "Ты говоришь по-английски.",
+      "audioPath": "assets/audio/vocabulary/v4_speak.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_speak.mp3"
+    },
+    {
+      "id": "v4_drink",
+      "english": "drink",
+      "russian": "пить",
+      "partOfSpeech": "verb",
+      "example": "We drink tea.",
+      "exampleTranslation": "Мы пьем чай.",
+      "audioPath": "assets/audio/vocabulary/v4_drink.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_drink.mp3"
+    },
+    {
+      "id": "v4_eat",
+      "english": "eat",
+      "russian": "есть, кушать",
+      "partOfSpeech": "verb",
+      "example": "I don't eat meat.",
+      "exampleTranslation": "Я не ем мясо.",
+      "audioPath": "assets/audio/vocabulary/v4_eat.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_eat.mp3"
+    },
+    {
+      "id": "v4_sleep",
+      "english": "sleep",
+      "russian": "спать",
+      "partOfSpeech": "verb",
+      "example": "She sleeps well.",
+      "exampleTranslation": "Она спит хорошо.",
+      "audioPath": "assets/audio/vocabulary/v4_sleep.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_sleep.mp3"
+    },
+    {
+      "id": "v4_help",
+      "english": "help",
+      "russian": "помогать",
+      "partOfSpeech": "verb",
+      "example": "They always help.",
+      "exampleTranslation": "Они всегда помогают.",
+      "audioPath": "assets/audio/vocabulary/v4_help.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_help.mp3"
+    },
+    {
+      "id": "v4_read",
+      "english": "read",
+      "russian": "читать",
+      "partOfSpeech": "verb",
+      "example": "I read books.",
+      "exampleTranslation": "Я читаю книги.",
+      "audioPath": "assets/audio/vocabulary/v4_read.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_read.mp3"
+    },
+    {
+      "id": "v4_see",
+      "english": "see",
+      "russian": "видеть",
+      "partOfSpeech": "verb",
+      "example": "I see a bird.",
+      "exampleTranslation": "Я вижу птицу.",
+      "audioPath": "assets/audio/vocabulary/v4_see.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_see.mp3"
+    },
+    {
+      "id": "v4_need",
+      "english": "need",
+      "russian": "нуждаться (нужно)",
+      "partOfSpeech": "verb",
+      "example": "We need money.",
+      "exampleTranslation": "Нам нужны деньги.",
+      "audioPath": "assets/audio/vocabulary/v4_need.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_need.mp3"
+    },
+    {
+      "id": "v4_here",
+      "english": "here",
+      "russian": "здесь",
+      "partOfSpeech": "adverb",
+      "example": "I live here.",
+      "exampleTranslation": "Я живу здесь.",
+      "audioPath": "assets/audio/vocabulary/v4_here.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_here.mp3"
+    },
+    {
+      "id": "v4_often",
+      "english": "often",
+      "russian": "часто",
+      "partOfSpeech": "adverb",
+      "example": "I often read.",
+      "exampleTranslation": "Я часто читаю.",
+      "audioPath": "assets/audio/vocabulary/v4_often.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_often.mp3"
+    },
+    {
+      "id": "v4_usually",
+      "english": "usually",
+      "russian": "обычно",
+      "partOfSpeech": "adverb",
+      "example": "He usually drives.",
+      "exampleTranslation": "Он обычно водит машину.",
+      "audioPath": "assets/audio/vocabulary/v4_usually.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_usually.mp3"
+    },
+    {
+      "id": "v4_always",
+      "english": "always",
+      "russian": "всегда",
+      "partOfSpeech": "adverb",
+      "example": "We always help.",
+      "exampleTranslation": "Мы всегда помогаем.",
+      "audioPath": "assets/audio/vocabulary/v4_always.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_always.mp3"
+    },
+    {
+      "id": "v4_sometimes",
+      "english": "sometimes",
+      "russian": "иногда",
+      "partOfSpeech": "adverb",
+      "example": "She sometimes cooks.",
+      "exampleTranslation": "Она иногда готовит.",
+      "audioPath": "assets/audio/vocabulary/v4_sometimes.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v4_sometimes.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "Present Simple",
+    "subtitle": "Самое простое время. Используем для фактов, привычек и того, что происходит регулярно.",
+    "construction": {
+      "formula": "Кто + Глагол (+s)",
+      "rules": [
+        {
+          "word": "I / You / We / They",
+          "description": "Глагол не меняется: I like, You work."
+        },
+        {
+          "word": "He / She / It",
+          "description": "Добавляем -s к глаголу: He likes, She works."
+        },
+        {
+          "word": "Отрицание (No)",
+          "description": "I don't know (Я не знаю), She doesn't know (Она не знает)."
+        },
+        {
+          "word": "Вопрос (?)",
+          "description": "Do you work? (Ты работаешь?), Does he work? (Он работает?)."
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "favorite",
+        "color": "orange",
+        "title": "Факты и вкусы",
+        "description": "То, что вы любите, знаете или хотите.",
+        "example": {
+          "english": "I like pizza.",
+          "russian": "Я люблю пиццу."
+        }
+      },
+      {
+        "icon": "schedule",
+        "color": "blue",
+        "title": "Регулярные действия",
+        "description": "То, что происходит часто, обычно или всегда.",
+        "example": {
+          "english": "I often read.",
+          "russian": "Я часто читаю."
+        }
+      }
+    ],
+    "markers": [
+      "always",
+      "usually",
+      "often",
+      "sometimes",
+      "every day"
+    ]
+  },
+  "tasks": [
+    {
+      "id": "t4_1",
+      "type": "sentenceAssembly",
+      "question": "Я люблю музыку",
+      "correctAnswer": "I like music",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "You",
+          "He",
+          "Me"
+        ],
+        [
+          "like",
+          "likes",
+          "liking",
+          "love"
+        ],
+        [
+          "music",
+          "the music",
+          "a music",
+          "musics"
+        ]
+      ],
+      "mistakeTags": [
+        "present_simple_basic",
+        "pronouns"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_04_present_simple_positive/000.mp3"
+    },
+    {
+      "id": "t4_2",
+      "type": "sentenceAssembly",
+      "question": "Мы пьем кофе",
+      "correctAnswer": "We drink coffee",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "I",
+          "They",
+          "Us"
+        ],
+        [
+          "drink",
+          "drinks",
+          "drinking",
+          "eat"
+        ],
+        [
+          "coffee",
+          "the coffee",
+          "a coffee",
+          "tea"
+        ]
+      ],
+      "mistakeTags": [
+        "present_simple_basic",
+        "pronouns"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_04_present_simple_positive/001.mp3"
+    },
+    {
+      "id": "t4_3",
+      "type": "sentenceAssembly",
+      "question": "Он работает здесь",
+      "correctAnswer": "He works here",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "I",
+          "We",
+          "Him"
+        ],
+        [
+          "works",
+          "work",
+          "working",
+          "worker"
+        ],
+        [
+          "here",
+          "there",
+          "now",
+          "today"
+        ]
+      ],
+      "mistakeTags": [
+        "he_she_it_s",
+        "present_simple_basic"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_04_present_simple_positive/002.mp3"
+    },
+    {
+      "id": "t4_4",
+      "type": "sentenceAssembly",
+      "question": "Она играет в теннис",
+      "correctAnswer": "She plays tennis",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "Her",
+          "It"
+        ],
+        [
+          "plays",
+          "play",
+          "playing",
+          "player"
+        ],
+        [
+          "tennis",
+          "the tennis",
+          "football",
+          "game"
+        ]
+      ],
+      "mistakeTags": [
+        "he_she_it_s",
+        "verbs"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_04_present_simple_positive/003.mp3"
+    },
+    {
+      "id": "t4_5",
+      "type": "sentenceAssembly",
+      "question": "Ты говоришь по-английски",
+      "correctAnswer": "You speak English",
+      "options": [],
+      "variants": [
+        [
+          "You",
+          "I",
+          "Your",
+          "She"
+        ],
+        [
+          "speak",
+          "speaks",
+          "speaking",
+          "tell"
+        ],
+        [
+          "English",
+          "French",
+          "Russian",
+          "language"
+        ]
+      ],
+      "mistakeTags": [
+        "present_simple_basic",
+        "verbs"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_04_present_simple_positive/004.mp3"
+    },
+    {
+      "id": "t4_6",
+      "type": "sentenceAssembly",
+      "question": "Они живут здесь",
+      "correctAnswer": "They live here",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "We",
+          "Them",
+          "He"
+        ],
+        [
+          "live",
+          "lives",
+          "living",
+          "life"
+        ],
+        [
+          "here",
+          "there",
+          "near",
+          "home"
+        ]
+      ],
+      "mistakeTags": [
+        "present_simple_basic",
+        "verbs"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_04_present_simple_positive/005.mp3"
+    },
+    {
+      "id": "t4_7",
+      "type": "sentenceAssembly",
+      "question": "Я понимаю урок",
+      "correctAnswer": "I understand the lesson",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "understand",
+          "know",
+          "like",
+          "see"
+        ],
+        [
+          "the",
+          "a",
+          "this",
+          "my"
+        ],
+        [
+          "lesson",
+          "rule",
+          "task",
+          "idea"
+        ]
+      ],
+      "mistakeTags": [
+        "present_simple_basic",
+        "verbs"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_04_present_simple_positive/006.mp3"
+    },
+    {
+      "id": "t4_8",
+      "type": "sentenceAssembly",
+      "question": "Он знает ответ",
+      "correctAnswer": "He knows the answer",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "I",
+          "They"
+        ],
+        [
+          "knows",
+          "sees",
+          "likes",
+          "takes"
+        ],
+        [
+          "the",
+          "a",
+          "this",
+          "my"
+        ],
+        [
+          "answer",
+          "truth",
+          "way",
+          "rule"
+        ]
+      ],
+      "mistakeTags": [
+        "he_she_it_s",
+        "verbs"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_04_present_simple_positive/007.mp3"
+    },
+    {
+      "id": "t4_9",
+      "type": "sentenceAssembly",
+      "question": "Мы хотим еду",
+      "correctAnswer": "We want food",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "I",
+          "Us",
+          "They"
+        ],
+        [
+          "want",
+          "wants",
+          "wanting",
+          "like"
+        ],
+        [
+          "food",
+          "foods",
+          "eat",
+          "meal"
+        ]
+      ],
+      "mistakeTags": [
+        "present_simple_basic",
+        "nouns"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_04_present_simple_positive/008.mp3"
+    },
+    {
+      "id": "t4_10",
+      "type": "sentenceAssembly",
+      "question": "Она любит кофе",
+      "correctAnswer": "She likes coffee",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "They",
+          "I"
+        ],
+        [
+          "likes",
+          "like",
+          "liked",
+          "liking"
+        ],
+        [
+          "coffee",
+          "tea",
+          "milk",
+          "juice"
+        ]
+      ],
+      "mistakeTags": [
+        "present_simple",
+        "subject_verb_agreement"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_04_present_simple_positive/009.mp3"
+    },
+    {
+      "id": "t4_11",
+      "type": "sentenceAssembly",
+      "question": "Он работает каждый день",
+      "correctAnswer": "He works every day",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "They",
+          "I"
+        ],
+        [
+          "works",
+          "work",
+          "worked",
+          "working"
+        ],
+        [
+          "every",
+          "each",
+          "one",
+          "this"
+        ],
+        [
+          "day",
+          "week",
+          "time",
+          "year"
+        ]
+      ],
+      "mistakeTags": [
+        "present_simple",
+        "subject_verb_agreement"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_04_present_simple_positive/010.mp3"
+    },
+    {
+      "id": "t4_12",
+      "type": "sentenceAssembly",
+      "question": "Мы живём в городе",
+      "correctAnswer": "We live in a city",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "He",
+          "She"
+        ],
+        [
+          "live",
+          "lives",
+          "lived",
+          "living"
+        ],
+        [
+          "in",
+          "on",
+          "at",
+          "to"
+        ],
+        [
+          "a",
+          "the",
+          "an",
+          "this"
+        ],
+        [
+          "city",
+          "town",
+          "house",
+          "flat"
+        ]
+      ],
+      "mistakeTags": [
+        "present_simple",
+        "prepositions"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_04_present_simple_positive/011.mp3"
+    },
+    {
+      "id": "t4_13",
+      "type": "sentenceAssembly",
+      "question": "Они играют в футбол",
+      "correctAnswer": "They play football",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "We",
+          "He",
+          "She"
+        ],
+        [
+          "play",
+          "plays",
+          "played",
+          "playing"
+        ],
+        [
+          "football",
+          "tennis",
+          "basketball",
+          "baseball"
+        ]
+      ],
+      "mistakeTags": [
+        "present_simple",
+        "subject_verb_agreement"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_04_present_simple_positive/012.mp3"
+    },
+    {
+      "id": "t4_14",
+      "type": "sentenceAssembly",
+      "question": "Я пью воду",
+      "correctAnswer": "I drink water",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "drink",
+          "drinks",
+          "drank",
+          "drinking"
+        ],
+        [
+          "water",
+          "tea",
+          "juice",
+          "coffee"
+        ]
+      ],
+      "mistakeTags": [
+        "present_simple",
+        "subject_verb_agreement"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_04_present_simple_positive/013.mp3"
+    },
+    {
+      "id": "t4_15",
+      "type": "sentenceAssembly",
+      "question": "Она учит английский",
+      "correctAnswer": "She studies English",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "They",
+          "I"
+        ],
+        [
+          "studies",
+          "study",
+          "studied",
+          "studying"
+        ],
+        [
+          "English",
+          "French",
+          "Spanish",
+          "German"
+        ]
+      ],
+      "mistakeTags": [
+        "present_simple",
+        "subject_verb_agreement"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_04_present_simple_positive/014.mp3"
+    },
+    {
+      "id": "t4_16",
+      "type": "sentenceAssembly",
+      "question": "Мой кот спит много",
+      "correctAnswer": "My cat sleeps a lot",
+      "options": [],
+      "variants": [
+        [
+          "My",
+          "His",
+          "Her",
+          "Your"
+        ],
+        [
+          "cat",
+          "dog",
+          "bird",
+          "fish"
+        ],
+        [
+          "sleeps",
+          "sleep",
+          "slept",
+          "sleeping"
+        ],
+        [
+          "a",
+          "the",
+          "some",
+          "any"
+        ],
+        [
+          "lot",
+          "bit",
+          "few",
+          "little"
+        ]
+      ],
+      "mistakeTags": [
+        "present_simple",
+        "subject_verb_agreement"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_04_present_simple_positive/015.mp3"
+    },
+    {
+      "id": "t4_17",
+      "type": "sentenceAssembly",
+      "question": "Мы едим завтрак утром",
+      "correctAnswer": "We eat breakfast in the morning",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "He",
+          "She"
+        ],
+        [
+          "eat",
+          "eats",
+          "ate",
+          "eating"
+        ],
+        [
+          "breakfast",
+          "lunch",
+          "dinner",
+          "supper"
+        ],
+        [
+          "in",
+          "on",
+          "at",
+          "to"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "morning",
+          "evening",
+          "afternoon",
+          "night"
+        ]
+      ],
+      "mistakeTags": [
+        "present_simple",
+        "prepositions"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_04_present_simple_positive/016.mp3"
+    },
+    {
+      "id": "t4_18",
+      "type": "sentenceAssembly",
+      "question": "Он водит машину",
+      "correctAnswer": "He drives a car",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "They",
+          "I"
+        ],
+        [
+          "drives",
+          "drive",
+          "drove",
+          "driving"
+        ],
+        [
+          "a",
+          "the",
+          "an",
+          "my"
+        ],
+        [
+          "car",
+          "bus",
+          "bike",
+          "truck"
+        ]
+      ],
+      "mistakeTags": [
+        "present_simple",
+        "subject_verb_agreement"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_04_present_simple_positive/017.mp3"
+    },
+    {
+      "id": "t4_19",
+      "type": "sentenceAssembly",
+      "question": "Они хотят есть",
+      "correctAnswer": "They want to eat",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "We",
+          "He",
+          "She"
+        ],
+        [
+          "want",
+          "wants",
+          "wanted",
+          "wanting"
+        ],
+        [
+          "to",
+          "a",
+          "the",
+          "for"
+        ],
+        [
+          "eat",
+          "drink",
+          "sleep",
+          "go"
+        ]
+      ],
+      "mistakeTags": [
+        "present_simple",
+        "subject_verb_agreement"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_04_present_simple_positive/018.mp3"
+    },
+    {
+      "id": "t4_20",
+      "type": "sentenceAssembly",
+      "question": "Я знаю ответ",
+      "correctAnswer": "I know the answer",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "She",
+          "We"
+        ],
+        [
+          "know",
+          "knows",
+          "knew",
+          "knowing"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "my"
+        ],
+        [
+          "answer",
+          "question",
+          "word",
+          "name"
+        ]
+      ],
+      "mistakeTags": [
+        "present_simple",
+        "subject_verb_agreement"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_04_present_simple_positive/019.mp3"
+    },
+    {
+      "id": "t4_21",
+      "type": "sentenceAssembly",
+      "question": "Я часто читаю",
+      "correctAnswer": "I often read",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "You",
+          "We"
+        ],
+        [
+          "often",
+          "always",
+          "sometimes",
+          "never"
+        ],
+        [
+          "read",
+          "reads",
+          "reading",
+          "book"
+        ]
+      ],
+      "mistakeTags": [
+        "adverbs",
+        "word_order"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_04_present_simple_positive/020.mp3"
+    },
+    {
+      "id": "t4_22",
+      "type": "sentenceAssembly",
+      "question": "Он обычно водит машину",
+      "correctAnswer": "He usually drives",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "I",
+          "Him"
+        ],
+        [
+          "usually",
+          "often",
+          "always",
+          "sometimes"
+        ],
+        [
+          "drives",
+          "drive",
+          "driving",
+          "go"
+        ]
+      ],
+      "mistakeTags": [
+        "adverbs",
+        "he_she_it_s"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_04_present_simple_positive/021.mp3"
+    },
+    {
+      "id": "t4_23",
+      "type": "sentenceAssembly",
+      "question": "Мы всегда помогаем",
+      "correctAnswer": "We always help",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "I",
+          "Us"
+        ],
+        [
+          "always",
+          "usually",
+          "often",
+          "never"
+        ],
+        [
+          "help",
+          "helps",
+          "helping",
+          "hope"
+        ]
+      ],
+      "mistakeTags": [
+        "adverbs",
+        "word_order"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_04_present_simple_positive/022.mp3"
+    },
+    {
+      "id": "t4_24",
+      "type": "sentenceAssembly",
+      "question": "Она иногда ходит пешком",
+      "correctAnswer": "She sometimes walks",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "Her",
+          "It"
+        ],
+        [
+          "sometimes",
+          "always",
+          "usually",
+          "often"
+        ],
+        [
+          "walks",
+          "walk",
+          "walking",
+          "goes"
+        ]
+      ],
+      "mistakeTags": [
+        "adverbs",
+        "he_she_it_s"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_04_present_simple_positive/023.mp3"
+    },
+    {
+      "id": "t4_25",
+      "type": "sentenceAssembly",
+      "question": "Они бегают быстро",
+      "correctAnswer": "They run fast",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "We",
+          "Them",
+          "You"
+        ],
+        [
+          "run",
+          "runs",
+          "running",
+          "ran"
+        ],
+        [
+          "fast",
+          "fastly",
+          "slow",
+          "good"
+        ]
+      ],
+      "mistakeTags": [
+        "adverbs",
+        "verbs"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_04_present_simple_positive/024.mp3"
+    },
+    {
+      "id": "t4_26",
+      "type": "sentenceAssembly",
+      "question": "Я вижу тебя",
+      "correctAnswer": "I see you",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "Me",
+          "You",
+          "He"
+        ],
+        [
+          "see",
+          "sees",
+          "look",
+          "watch"
+        ],
+        [
+          "you",
+          "your",
+          "him",
+          "her"
+        ]
+      ],
+      "mistakeTags": [
+        "verbs",
+        "pronouns"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_04_present_simple_positive/025.mp3"
+    },
+    {
+      "id": "t4_27",
+      "type": "sentenceAssembly",
+      "question": "Он слышит тебя",
+      "correctAnswer": "He hears you",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "Him",
+          "I",
+          "She"
+        ],
+        [
+          "hears",
+          "hear",
+          "listen",
+          "hearing"
+        ],
+        [
+          "you",
+          "your",
+          "me",
+          "them"
+        ]
+      ],
+      "mistakeTags": [
+        "he_she_it_s",
+        "verbs"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_04_present_simple_positive/026.mp3"
+    },
+    {
+      "id": "t4_28",
+      "type": "sentenceAssembly",
+      "question": "Ты выглядишь хорошо",
+      "correctAnswer": "You look good",
+      "options": [],
+      "variants": [
+        [
+          "You",
+          "I",
+          "He",
+          "We"
+        ],
+        [
+          "look",
+          "looks",
+          "see",
+          "watch"
+        ],
+        [
+          "good",
+          "well",
+          "nice",
+          "bad"
+        ]
+      ],
+      "mistakeTags": [
+        "verbs",
+        "adjectives"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_04_present_simple_positive/027.mp3"
+    },
+    {
+      "id": "t4_29",
+      "type": "sentenceAssembly",
+      "question": "Нам нужна вода",
+      "correctAnswer": "We need water",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "Us",
+          "I",
+          "They"
+        ],
+        [
+          "need",
+          "needs",
+          "needing",
+          "want"
+        ],
+        [
+          "water",
+          "waters",
+          "a water",
+          "drink"
+        ]
+      ],
+      "mistakeTags": [
+        "verbs",
+        "nouns"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_04_present_simple_positive/028.mp3"
+    },
+    {
+      "id": "t4_30",
+      "type": "sentenceAssembly",
+      "question": "Они покупают молоко",
+      "correctAnswer": "They buy milk",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "We",
+          "Them",
+          "You"
+        ],
+        [
+          "buy",
+          "buys",
+          "buying",
+          "pay"
+        ],
+        [
+          "milk",
+          "milks",
+          "a milk",
+          "water"
+        ]
+      ],
+      "mistakeTags": [
+        "verbs",
+        "nouns"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_04_present_simple_positive/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionBeginner04PresentSimplePositive",
+  "theoryQuiz": [
+    {
+      "id": "tq_01",
+      "type": "trueFalse",
+      "question": "Present Simple используется для регулярных действий и привычек.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Present Simple описывает факты, привычки и повторяющиеся действия."
+    },
+    {
+      "id": "tq_02",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"He ___ to school every day.\"",
+      "options": [
+        "go",
+        "goes",
+        "going",
+        "gos"
+      ],
+      "correctIndex": 1,
+      "explanation": "С he/she/it к глаголу добавляется -s или -es: He goes."
+    },
+    {
+      "id": "tq_03",
+      "type": "multipleChoice",
+      "question": "Какое окончание получает глагол с he/she/it в Present Simple?",
+      "options": [
+        "-ing",
+        "-ed",
+        "-s / -es",
+        "без изменений"
+      ],
+      "correctIndex": 2,
+      "explanation": "В Present Simple с третьим лицом единственного числа глагол получает -s или -es."
+    },
+    {
+      "id": "tq_04",
+      "type": "trueFalse",
+      "question": "\"I plays football on Sundays.\" — предложение составлено правильно.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "С I глагол используется без окончания -s: I play football on Sundays."
+    },
+    {
+      "id": "tq_05",
+      "type": "multipleChoice",
+      "question": "Какое слово-маркер НЕ относится к Present Simple?",
+      "options": [
+        "every day",
+        "usually",
+        "right now",
+        "always"
+      ],
+      "correctIndex": 2,
+      "explanation": "Right now — маркер Present Continuous. Every day, usually, always — маркеры Present Simple."
+    },
+    {
+      "id": "tq_06",
+      "type": "trueFalse",
+      "question": "\"They works in an office.\" — предложение составлено правильно.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "С they глагол не получает -s: They work in an office."
+    },
+    {
+      "id": "tq_07",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"She ___ English very well.\"",
+      "options": [
+        "speak",
+        "speaks",
+        "speaking",
+        "speakes"
+      ],
+      "correctIndex": 1,
+      "explanation": "С she добавляется -s: She speaks. Формы speakes не существует."
+    },
+    {
+      "id": "tq_08",
+      "type": "multipleChoice",
+      "question": "Выберите правильное предложение:",
+      "options": [
+        "We plays tennis.",
+        "She watch TV every evening.",
+        "I drink coffee every morning.",
+        "He eat lunch at 12."
+      ],
+      "correctIndex": 2,
+      "explanation": "I + drink (без -s) — верно. We play, She watches, He eats — в остальных ошибки."
+    },
+    {
+      "id": "tq_09",
+      "type": "trueFalse",
+      "question": "Глагол \"watch\" с he/she/it принимает форму \"watches\".",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Глаголы на -ch, -sh, -ss, -x, -o получают окончание -es: watches."
+    },
+    {
+      "id": "tq_10",
+      "type": "multipleChoice",
+      "question": "Как правильно: «Она обычно читает книги»?",
+      "options": [
+        "She usually read books.",
+        "She usually reads books.",
+        "She reads usually books.",
+        "She usual reads books."
+      ],
+      "correctIndex": 1,
+      "explanation": "She + reads (с -s). Наречие usually стоит перед основным глаголом."
+    }
+  ]
+}

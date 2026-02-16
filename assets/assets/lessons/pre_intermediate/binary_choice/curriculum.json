@@ -1,0 +1,40 @@
+{
+  "type": "binary_choice",
+  "lessons": [
+    {
+      "id": "pre_bc_08_can_cant",
+      "file": "can_vs_cant.json",
+      "order": 1
+    },
+    {
+      "id": "pre_bc_09_pronouns",
+      "file": "i_vs_me.json",
+      "order": 2
+    },
+    {
+      "id": "pre_bc_10_adjectives",
+      "file": "good_vs_well.json",
+      "order": 3
+    },
+    {
+      "id": "pre_bc_11_articles",
+      "file": "a_vs_the.json",
+      "order": 4
+    },
+    {
+      "id": "pre_bc_12_numerals",
+      "file": "much_vs_many.json",
+      "order": 5
+    },
+    {
+      "id": "pre_bc_13_prepositions_basic",
+      "file": "in_vs_on.json",
+      "order": 6
+    },
+    {
+      "id": "pre_bc_14_present_continuous",
+      "file": "every_day_vs_now.json",
+      "order": 7
+    }
+  ]
+}

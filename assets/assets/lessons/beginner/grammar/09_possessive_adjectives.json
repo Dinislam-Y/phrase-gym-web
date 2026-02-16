@@ -1,0 +1,1492 @@
+{
+  "id": "beginner_09_possessive_adjectives",
+  "title": "Possessive Adjectives: My, Your, His, Her",
+  "description": "Притяжательные прилагательные: my book, your name, his car, her phone, our house, their dog.",
+  "order": 9,
+  "level": "beginner",
+  "imageUrl": "assets/images/lessons/possessive_adjectives.png",
+  "vocabulary": [
+    {
+      "id": "v9_my",
+      "english": "my",
+      "russian": "мой, моя, моё",
+      "partOfSpeech": "pronoun",
+      "example": "This is my book.",
+      "exampleTranslation": "Это моя книга.",
+      "audioPath": "assets/audio/vocabulary/v9_my.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_my.mp3"
+    },
+    {
+      "id": "v9_your",
+      "english": "your",
+      "russian": "твой, ваш",
+      "partOfSpeech": "pronoun",
+      "example": "Your name is Tom.",
+      "exampleTranslation": "Тебя зовут Том.",
+      "audioPath": "assets/audio/vocabulary/v9_your.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_your.mp3"
+    },
+    {
+      "id": "v9_his",
+      "english": "his",
+      "russian": "его",
+      "partOfSpeech": "pronoun",
+      "example": "His car is red.",
+      "exampleTranslation": "Его машина красная.",
+      "audioPath": "assets/audio/vocabulary/v9_his.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_his.mp3"
+    },
+    {
+      "id": "v9_her",
+      "english": "her",
+      "russian": "её",
+      "partOfSpeech": "pronoun",
+      "example": "Her name is Anna.",
+      "exampleTranslation": "Её зовут Анна.",
+      "audioPath": "assets/audio/vocabulary/v9_her.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_her.mp3"
+    },
+    {
+      "id": "v9_its",
+      "english": "its",
+      "russian": "его, её (для вещей и животных)",
+      "partOfSpeech": "pronoun",
+      "example": "The cat eats its food.",
+      "exampleTranslation": "Кот ест свою еду.",
+      "audioPath": "assets/audio/vocabulary/v9_its.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_its.mp3"
+    },
+    {
+      "id": "v9_our",
+      "english": "our",
+      "russian": "наш, наша, наше",
+      "partOfSpeech": "pronoun",
+      "example": "This is our house.",
+      "exampleTranslation": "Это наш дом.",
+      "audioPath": "assets/audio/vocabulary/v9_our.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_our.mp3"
+    },
+    {
+      "id": "v9_their",
+      "english": "their",
+      "russian": "их",
+      "partOfSpeech": "pronoun",
+      "example": "Their dog is big.",
+      "exampleTranslation": "Их собака большая.",
+      "audioPath": "assets/audio/vocabulary/v9_their.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_their.mp3"
+    },
+    {
+      "id": "v9_book",
+      "english": "book",
+      "russian": "книга",
+      "partOfSpeech": "noun",
+      "example": "This is my book.",
+      "exampleTranslation": "Это моя книга.",
+      "audioPath": "assets/audio/vocabulary/v9_book.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_book.mp3"
+    },
+    {
+      "id": "v9_name",
+      "english": "name",
+      "russian": "имя",
+      "partOfSpeech": "noun",
+      "example": "Her name is Anna.",
+      "exampleTranslation": "Её зовут Анна.",
+      "audioPath": "assets/audio/vocabulary/v9_name.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_name.mp3"
+    },
+    {
+      "id": "v9_car",
+      "english": "car",
+      "russian": "машина",
+      "partOfSpeech": "noun",
+      "example": "His car is new.",
+      "exampleTranslation": "Его машина новая.",
+      "audioPath": "assets/audio/vocabulary/v9_car.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_car.mp3"
+    },
+    {
+      "id": "v9_house",
+      "english": "house",
+      "russian": "дом",
+      "partOfSpeech": "noun",
+      "example": "Our house is big.",
+      "exampleTranslation": "Наш дом большой.",
+      "audioPath": "assets/audio/vocabulary/v9_house.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_house.mp3"
+    },
+    {
+      "id": "v9_phone",
+      "english": "phone",
+      "russian": "телефон",
+      "partOfSpeech": "noun",
+      "example": "This is her phone.",
+      "exampleTranslation": "Это её телефон.",
+      "audioPath": "assets/audio/vocabulary/v9_phone.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_phone.mp3"
+    },
+    {
+      "id": "v9_dog",
+      "english": "dog",
+      "russian": "собака",
+      "partOfSpeech": "noun",
+      "example": "Their dog is small.",
+      "exampleTranslation": "Их собака маленькая.",
+      "audioPath": "assets/audio/vocabulary/v9_dog.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_dog.mp3"
+    },
+    {
+      "id": "v9_cat",
+      "english": "cat",
+      "russian": "кот, кошка",
+      "partOfSpeech": "noun",
+      "example": "My cat is black.",
+      "exampleTranslation": "Мой кот чёрный.",
+      "audioPath": "assets/audio/vocabulary/v9_cat.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_cat.mp3"
+    },
+    {
+      "id": "v9_bag",
+      "english": "bag",
+      "russian": "сумка",
+      "partOfSpeech": "noun",
+      "example": "Your bag is here.",
+      "exampleTranslation": "Твоя сумка здесь.",
+      "audioPath": "assets/audio/vocabulary/v9_bag.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_bag.mp3"
+    },
+    {
+      "id": "v9_friend",
+      "english": "friend",
+      "russian": "друг",
+      "partOfSpeech": "noun",
+      "example": "He is my friend.",
+      "exampleTranslation": "Он мой друг.",
+      "audioPath": "assets/audio/vocabulary/v9_friend.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_friend.mp3"
+    },
+    {
+      "id": "v9_family",
+      "english": "family",
+      "russian": "семья",
+      "partOfSpeech": "noun",
+      "example": "Our family is big.",
+      "exampleTranslation": "Наша семья большая.",
+      "audioPath": "assets/audio/vocabulary/v9_family.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_family.mp3"
+    },
+    {
+      "id": "v9_teacher",
+      "english": "teacher",
+      "russian": "учитель",
+      "partOfSpeech": "noun",
+      "example": "Our teacher is kind.",
+      "exampleTranslation": "Наш учитель добрый.",
+      "audioPath": "assets/audio/vocabulary/v9_teacher.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_teacher.mp3"
+    },
+    {
+      "id": "v9_new",
+      "english": "new",
+      "russian": "новый",
+      "partOfSpeech": "adjective",
+      "example": "His car is new.",
+      "exampleTranslation": "Его машина новая.",
+      "audioPath": "assets/audio/vocabulary/v9_new.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_new.mp3"
+    },
+    {
+      "id": "v9_big",
+      "english": "big",
+      "russian": "большой",
+      "partOfSpeech": "adjective",
+      "example": "Their house is big.",
+      "exampleTranslation": "Их дом большой.",
+      "audioPath": "assets/audio/vocabulary/v9_big.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v9_big.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "Possessive Adjectives",
+    "subtitle": "Притяжательные прилагательные показывают, КОМУ принадлежит вещь. Они всегда стоят ПЕРЕД существительным.",
+    "construction": {
+      "formula": "Possessive Adj + Noun",
+      "rules": [
+        {
+          "word": "I → my",
+          "description": "Я → мой: my book, my name, my cat."
+        },
+        {
+          "word": "you → your",
+          "description": "Ты/Вы → твой/ваш: your phone, your house."
+        },
+        {
+          "word": "he → his, she → her",
+          "description": "Он → его: his car. Она → её: her name."
+        },
+        {
+          "word": "we → our, they → their",
+          "description": "Мы → наш: our family. Они → их: their dog."
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "handshake",
+        "color": "blue",
+        "title": "Представление",
+        "description": "Знакомимся и говорим о своих вещах и людях.",
+        "example": {
+          "english": "My name is Tom.",
+          "russian": "Меня зовут Том."
+        }
+      },
+      {
+        "icon": "groups",
+        "color": "purple",
+        "title": "Семья и друзья",
+        "description": "Рассказываем о своей семье, друзьях, домашних животных.",
+        "example": {
+          "english": "Our dog is big.",
+          "russian": "Наша собака большая."
+        }
+      },
+      {
+        "icon": "visibility",
+        "color": "orange",
+        "title": "Описание вещей",
+        "description": "Указываем на принадлежность предметов.",
+        "example": {
+          "english": "This is her phone.",
+          "russian": "Это её телефон."
+        }
+      }
+    ],
+    "markers": [
+      "my",
+      "your",
+      "his",
+      "her",
+      "its",
+      "our",
+      "their"
+    ]
+  },
+  "tasks": [
+    {
+      "id": "t9_1",
+      "type": "sentenceAssembly",
+      "question": "Это моя книга",
+      "correctAnswer": "This is my book",
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "That",
+          "It",
+          "There"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "my",
+          "your",
+          "his",
+          "her"
+        ],
+        [
+          "book",
+          "phone",
+          "bag",
+          "car"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_09_possessive_adjectives/000.mp3"
+    },
+    {
+      "id": "t9_2",
+      "type": "sentenceAssembly",
+      "question": "Её зовут Анна",
+      "correctAnswer": "Her name is Anna",
+      "options": [],
+      "variants": [
+        [
+          "Her",
+          "His",
+          "My",
+          "Your"
+        ],
+        [
+          "name",
+          "book",
+          "phone",
+          "friend"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "Anna",
+          "Tom",
+          "Kate",
+          "John"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_09_possessive_adjectives/001.mp3"
+    },
+    {
+      "id": "t9_3",
+      "type": "sentenceAssembly",
+      "question": "Его машина красная",
+      "correctAnswer": "His car is red",
+      "options": [],
+      "variants": [
+        [
+          "His",
+          "Her",
+          "My",
+          "Your"
+        ],
+        [
+          "car",
+          "house",
+          "phone",
+          "bag"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "red",
+          "blue",
+          "new",
+          "big"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_09_possessive_adjectives/002.mp3"
+    },
+    {
+      "id": "t9_4",
+      "type": "sentenceAssembly",
+      "question": "Твоя сумка здесь",
+      "correctAnswer": "Your bag is here",
+      "options": [],
+      "variants": [
+        [
+          "Your",
+          "My",
+          "His",
+          "Her"
+        ],
+        [
+          "bag",
+          "book",
+          "phone",
+          "car"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "here",
+          "there",
+          "new",
+          "big"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_09_possessive_adjectives/003.mp3"
+    },
+    {
+      "id": "t9_5",
+      "type": "sentenceAssembly",
+      "question": "Наш дом большой",
+      "correctAnswer": "Our house is big",
+      "options": [],
+      "variants": [
+        [
+          "Our",
+          "My",
+          "Their",
+          "Your"
+        ],
+        [
+          "house",
+          "car",
+          "dog",
+          "cat"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "big",
+          "small",
+          "new",
+          "red"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_09_possessive_adjectives/004.mp3"
+    },
+    {
+      "id": "t9_6",
+      "type": "sentenceAssembly",
+      "question": "Их собака маленькая",
+      "correctAnswer": "Their dog is small",
+      "options": [],
+      "variants": [
+        [
+          "Their",
+          "Our",
+          "My",
+          "His"
+        ],
+        [
+          "dog",
+          "cat",
+          "house",
+          "car"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "small",
+          "big",
+          "new",
+          "red"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_09_possessive_adjectives/005.mp3"
+    },
+    {
+      "id": "t9_7",
+      "type": "sentenceAssembly",
+      "question": "Мой кот чёрный",
+      "correctAnswer": "My cat is black",
+      "options": [],
+      "variants": [
+        [
+          "My",
+          "Your",
+          "His",
+          "Her"
+        ],
+        [
+          "cat",
+          "dog",
+          "car",
+          "bag"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "black",
+          "white",
+          "red",
+          "big"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_09_possessive_adjectives/006.mp3"
+    },
+    {
+      "id": "t9_8",
+      "type": "sentenceAssembly",
+      "question": "Это её телефон",
+      "correctAnswer": "This is her phone",
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "That",
+          "It",
+          "There"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "her",
+          "his",
+          "my",
+          "your"
+        ],
+        [
+          "phone",
+          "book",
+          "bag",
+          "car"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_09_possessive_adjectives/007.mp3"
+    },
+    {
+      "id": "t9_9",
+      "type": "sentenceAssembly",
+      "question": "Он мой друг",
+      "correctAnswer": "He is my friend",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "It",
+          "They"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "my",
+          "your",
+          "his",
+          "her"
+        ],
+        [
+          "friend",
+          "teacher",
+          "name",
+          "family"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_09_possessive_adjectives/008.mp3"
+    },
+    {
+      "id": "t9_10",
+      "type": "sentenceAssembly",
+      "question": "Его имя Том",
+      "correctAnswer": "His name is Tom",
+      "options": [],
+      "variants": [
+        [
+          "His",
+          "Her",
+          "My",
+          "Your"
+        ],
+        [
+          "name",
+          "book",
+          "friend",
+          "phone"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "Tom",
+          "Anna",
+          "Kate",
+          "John"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_09_possessive_adjectives/009.mp3"
+    },
+    {
+      "id": "t9_11",
+      "type": "sentenceAssembly",
+      "question": "Наша семья большая",
+      "correctAnswer": "Our family is big",
+      "options": [],
+      "variants": [
+        [
+          "Our",
+          "My",
+          "Their",
+          "Your"
+        ],
+        [
+          "family",
+          "house",
+          "dog",
+          "car"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "big",
+          "small",
+          "new",
+          "old"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_09_possessive_adjectives/010.mp3"
+    },
+    {
+      "id": "t9_12",
+      "type": "sentenceAssembly",
+      "question": "Это твоя книга",
+      "correctAnswer": "This is your book",
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "That",
+          "It",
+          "There"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "your",
+          "my",
+          "his",
+          "her"
+        ],
+        [
+          "book",
+          "phone",
+          "bag",
+          "car"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_09_possessive_adjectives/011.mp3"
+    },
+    {
+      "id": "t9_13",
+      "type": "sentenceAssembly",
+      "question": "Их кот белый",
+      "correctAnswer": "Their cat is white",
+      "options": [],
+      "variants": [
+        [
+          "Their",
+          "Our",
+          "My",
+          "His"
+        ],
+        [
+          "cat",
+          "dog",
+          "house",
+          "car"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "white",
+          "black",
+          "big",
+          "small"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_09_possessive_adjectives/012.mp3"
+    },
+    {
+      "id": "t9_14",
+      "type": "sentenceAssembly",
+      "question": "Наш учитель добрый",
+      "correctAnswer": "Our teacher is kind",
+      "options": [],
+      "variants": [
+        [
+          "Our",
+          "My",
+          "Their",
+          "Your"
+        ],
+        [
+          "teacher",
+          "friend",
+          "family",
+          "dog"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "kind",
+          "big",
+          "new",
+          "old"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_09_possessive_adjectives/013.mp3"
+    },
+    {
+      "id": "t9_15",
+      "type": "sentenceAssembly",
+      "question": "Её дом новый",
+      "correctAnswer": "Her house is new",
+      "options": [],
+      "variants": [
+        [
+          "Her",
+          "His",
+          "My",
+          "Your"
+        ],
+        [
+          "house",
+          "car",
+          "phone",
+          "bag"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "new",
+          "old",
+          "big",
+          "small"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_09_possessive_adjectives/014.mp3"
+    },
+    {
+      "id": "t9_16",
+      "type": "sentenceAssembly",
+      "question": "Его телефон старый",
+      "correctAnswer": "His phone is old",
+      "options": [],
+      "variants": [
+        [
+          "His",
+          "Her",
+          "My",
+          "Your"
+        ],
+        [
+          "phone",
+          "car",
+          "book",
+          "bag"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "old",
+          "new",
+          "big",
+          "red"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_09_possessive_adjectives/015.mp3"
+    },
+    {
+      "id": "t9_17",
+      "type": "sentenceAssembly",
+      "question": "Это мой друг Том",
+      "correctAnswer": "This is my friend Tom",
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "That",
+          "It",
+          "There"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "my",
+          "your",
+          "his",
+          "her"
+        ],
+        [
+          "friend",
+          "teacher",
+          "name",
+          "book"
+        ],
+        [
+          "Tom",
+          "Anna",
+          "Kate",
+          "John"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_09_possessive_adjectives/016.mp3"
+    },
+    {
+      "id": "t9_18",
+      "type": "sentenceAssembly",
+      "question": "Твоя машина новая",
+      "correctAnswer": "Your car is new",
+      "options": [],
+      "variants": [
+        [
+          "Your",
+          "My",
+          "His",
+          "Her"
+        ],
+        [
+          "car",
+          "house",
+          "phone",
+          "bag"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "new",
+          "old",
+          "big",
+          "red"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_09_possessive_adjectives/017.mp3"
+    },
+    {
+      "id": "t9_19",
+      "type": "sentenceAssembly",
+      "question": "Их дом маленький",
+      "correctAnswer": "Their house is small",
+      "options": [],
+      "variants": [
+        [
+          "Their",
+          "Our",
+          "My",
+          "His"
+        ],
+        [
+          "house",
+          "car",
+          "dog",
+          "cat"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "small",
+          "big",
+          "new",
+          "old"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_09_possessive_adjectives/018.mp3"
+    },
+    {
+      "id": "t9_20",
+      "type": "sentenceAssembly",
+      "question": "Она моя подруга",
+      "correctAnswer": "She is my friend",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "It",
+          "They"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "my",
+          "your",
+          "his",
+          "her"
+        ],
+        [
+          "friend",
+          "teacher",
+          "name",
+          "family"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_09_possessive_adjectives/019.mp3"
+    },
+    {
+      "id": "t9_21",
+      "type": "sentenceAssembly",
+      "question": "Это не мой кот",
+      "correctAnswer": "This is not my cat",
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "That",
+          "It",
+          "There"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "not",
+          "no",
+          "none",
+          "never"
+        ],
+        [
+          "my",
+          "your",
+          "his",
+          "her"
+        ],
+        [
+          "cat",
+          "dog",
+          "car",
+          "book"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_09_possessive_adjectives/020.mp3"
+    },
+    {
+      "id": "t9_22",
+      "type": "sentenceAssembly",
+      "question": "Это не его сумка",
+      "correctAnswer": "This is not his bag",
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "That",
+          "It",
+          "There"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "not",
+          "no",
+          "none",
+          "never"
+        ],
+        [
+          "his",
+          "her",
+          "my",
+          "your"
+        ],
+        [
+          "bag",
+          "book",
+          "phone",
+          "car"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_09_possessive_adjectives/021.mp3"
+    },
+    {
+      "id": "t9_23",
+      "type": "sentenceAssembly",
+      "question": "Это не их дом",
+      "correctAnswer": "This is not their house",
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "That",
+          "It",
+          "There"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "not",
+          "no",
+          "none",
+          "never"
+        ],
+        [
+          "their",
+          "our",
+          "my",
+          "his"
+        ],
+        [
+          "house",
+          "car",
+          "dog",
+          "cat"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_09_possessive_adjectives/022.mp3"
+    },
+    {
+      "id": "t9_24",
+      "type": "sentenceAssembly",
+      "question": "Это не её книга",
+      "correctAnswer": "This is not her book",
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "That",
+          "It",
+          "There"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "not",
+          "no",
+          "none",
+          "never"
+        ],
+        [
+          "her",
+          "his",
+          "my",
+          "your"
+        ],
+        [
+          "book",
+          "phone",
+          "bag",
+          "car"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_09_possessive_adjectives/023.mp3"
+    },
+    {
+      "id": "t9_25",
+      "type": "sentenceAssembly",
+      "question": "Это не наш учитель",
+      "correctAnswer": "This is not our teacher",
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "That",
+          "It",
+          "There"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "not",
+          "no",
+          "none",
+          "never"
+        ],
+        [
+          "our",
+          "their",
+          "my",
+          "his"
+        ],
+        [
+          "teacher",
+          "friend",
+          "family",
+          "dog"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_09_possessive_adjectives/024.mp3"
+    },
+    {
+      "id": "t9_26",
+      "type": "sentenceAssembly",
+      "question": "Это не твой телефон",
+      "correctAnswer": "This is not your phone",
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "That",
+          "It",
+          "There"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "not",
+          "no",
+          "none",
+          "never"
+        ],
+        [
+          "your",
+          "my",
+          "his",
+          "her"
+        ],
+        [
+          "phone",
+          "book",
+          "bag",
+          "car"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_09_possessive_adjectives/025.mp3"
+    },
+    {
+      "id": "t9_27",
+      "type": "sentenceAssembly",
+      "question": "Это не моя машина",
+      "correctAnswer": "This is not my car",
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "That",
+          "It",
+          "There"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "not",
+          "no",
+          "none",
+          "never"
+        ],
+        [
+          "my",
+          "your",
+          "his",
+          "her"
+        ],
+        [
+          "car",
+          "house",
+          "phone",
+          "bag"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_09_possessive_adjectives/026.mp3"
+    },
+    {
+      "id": "t9_28",
+      "type": "sentenceAssembly",
+      "question": "Это не его друг",
+      "correctAnswer": "This is not his friend",
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "That",
+          "It",
+          "There"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "not",
+          "no",
+          "none",
+          "never"
+        ],
+        [
+          "his",
+          "her",
+          "my",
+          "your"
+        ],
+        [
+          "friend",
+          "teacher",
+          "name",
+          "family"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_09_possessive_adjectives/027.mp3"
+    },
+    {
+      "id": "t9_29",
+      "type": "sentenceAssembly",
+      "question": "Это не их собака",
+      "correctAnswer": "This is not their dog",
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "That",
+          "It",
+          "There"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "not",
+          "no",
+          "none",
+          "never"
+        ],
+        [
+          "their",
+          "our",
+          "my",
+          "his"
+        ],
+        [
+          "dog",
+          "cat",
+          "house",
+          "car"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_09_possessive_adjectives/028.mp3"
+    },
+    {
+      "id": "t9_30",
+      "type": "sentenceAssembly",
+      "question": "Это не наша семья",
+      "correctAnswer": "This is not our family",
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "That",
+          "It",
+          "There"
+        ],
+        [
+          "is",
+          "are",
+          "am",
+          "was"
+        ],
+        [
+          "not",
+          "no",
+          "none",
+          "never"
+        ],
+        [
+          "our",
+          "their",
+          "my",
+          "his"
+        ],
+        [
+          "family",
+          "house",
+          "dog",
+          "friend"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_09_possessive_adjectives/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionBeginner09PossessiveAdjectives",
+  "theoryQuiz": [
+    {
+      "id": "tq_09_01",
+      "type": "multipleChoice",
+      "question": "Какое притяжательное прилагательное соответствует местоимению «she»?",
+      "options": [
+        "his",
+        "her",
+        "its",
+        "their"
+      ],
+      "correctIndex": 1,
+      "explanation": "She → her: Her name is Anna. Его (he) → his."
+    },
+    {
+      "id": "tq_09_02",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: «___ car is red.» (Его машина красная.)",
+      "options": [
+        "He",
+        "Him",
+        "His",
+        "Her"
+      ],
+      "correctIndex": 2,
+      "explanation": "He → His: His car is red. Him — объектное местоимение, не притяжательное."
+    },
+    {
+      "id": "tq_09_03",
+      "type": "trueFalse",
+      "question": "«This is mine book» — правильное предложение.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "Перед существительным используется my, а не mine: This is my book."
+    },
+    {
+      "id": "tq_09_04",
+      "type": "multipleChoice",
+      "question": "Как правильно: «Наш дом большой»?",
+      "options": [
+        "Us house is big.",
+        "We house is big.",
+        "Our house is big.",
+        "Ours house is big."
+      ],
+      "correctIndex": 2,
+      "explanation": "We → Our: Our house is big. Us и ours не ставятся перед существительным."
+    },
+    {
+      "id": "tq_09_05",
+      "type": "multipleChoice",
+      "question": "Какое притяжательное прилагательное у «they»?",
+      "options": [
+        "them",
+        "they",
+        "their",
+        "theirs"
+      ],
+      "correctIndex": 2,
+      "explanation": "They → their: Their dog is big. Them — объектное, theirs — абсолютное."
+    },
+    {
+      "id": "tq_09_06",
+      "type": "trueFalse",
+      "question": "Притяжательные прилагательные всегда стоят ПЕРЕД существительным.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Верно: my book, his car, our house — всегда перед существительным."
+    },
+    {
+      "id": "tq_09_07",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: «___ name is Anna.» (Её зовут Анна.)",
+      "options": [
+        "She",
+        "His",
+        "Her",
+        "Hers"
+      ],
+      "correctIndex": 2,
+      "explanation": "She → Her: Her name is Anna."
+    },
+    {
+      "id": "tq_09_08",
+      "type": "multipleChoice",
+      "question": "Как сказать «Моё имя — Том»?",
+      "options": [
+        "Me name is Tom.",
+        "I name is Tom.",
+        "My name is Tom.",
+        "Mine name is Tom."
+      ],
+      "correctIndex": 2,
+      "explanation": "I → my: My name is Tom. Me и mine не используются перед существительным."
+    },
+    {
+      "id": "tq_09_09",
+      "type": "trueFalse",
+      "question": "«It's» и «its» — это одно и то же.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "It's = it is (сокращение). Its = его/её (притяжательное, без апострофа)."
+    },
+    {
+      "id": "tq_09_10",
+      "type": "multipleChoice",
+      "question": "Выберите правильное предложение:",
+      "options": [
+        "This is you bag.",
+        "This is your bag.",
+        "This is yours bag.",
+        "This is you're bag."
+      ],
+      "correctIndex": 1,
+      "explanation": "You → your: This is your bag. You're = you are, yours используется без существительного."
+    }
+  ]
+}

@@ -1,0 +1,2685 @@
+{
+  "id": "advanced_14_unreal_past",
+  "title": "Unreal Past: As If / As Though",
+  "description": "Нереальное сравнение: He talks as if he knew everything. She acted as though nothing had happened.",
+  "order": 14,
+  "level": "advanced",
+  "imageUrl": "assets/images/lessons/unreal_past.png",
+  "vocabulary": [
+    {
+      "id": "v14_as_if",
+      "english": "as if",
+      "russian": "как будто, как если бы",
+      "partOfSpeech": "conjunction",
+      "example": "He talks as if he knew everything.",
+      "exampleTranslation": "Он говорит так, как будто всё знает.",
+      "audioPath": "assets/audio/vocabulary/v14_as_if.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_as_if.mp3"
+    },
+    {
+      "id": "v14_as_though",
+      "english": "as though",
+      "russian": "как будто, словно",
+      "partOfSpeech": "conjunction",
+      "example": "She looked as though she had seen a ghost.",
+      "exampleTranslation": "Она выглядела так, словно увидела призрак.",
+      "audioPath": "assets/audio/vocabulary/v14_as_though.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_as_though.mp3"
+    },
+    {
+      "id": "v14_pretend",
+      "english": "pretend",
+      "russian": "притворяться, делать вид",
+      "partOfSpeech": "verb",
+      "example": "He pretended as if nothing had happened.",
+      "exampleTranslation": "Он притворялся, будто ничего не произошло.",
+      "audioPath": "assets/audio/vocabulary/v14_pretend.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_pretend.mp3"
+    },
+    {
+      "id": "v14_behave",
+      "english": "behave",
+      "russian": "вести себя",
+      "partOfSpeech": "verb",
+      "example": "She behaves as if she owned the place.",
+      "exampleTranslation": "Она ведёт себя так, будто ей тут всё принадлежит.",
+      "audioPath": "assets/audio/vocabulary/v14_behave.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_behave.mp3"
+    },
+    {
+      "id": "v14_treat",
+      "english": "treat",
+      "russian": "обращаться, относиться",
+      "partOfSpeech": "verb",
+      "example": "They treat him as though he were invisible.",
+      "exampleTranslation": "Они обращаются с ним так, словно он невидим.",
+      "audioPath": "assets/audio/vocabulary/v14_treat.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_treat.mp3"
+    },
+    {
+      "id": "v14_appear",
+      "english": "appear",
+      "russian": "казаться, выглядеть",
+      "partOfSpeech": "verb",
+      "example": "It appears as if the project has failed.",
+      "exampleTranslation": "Похоже, что проект провалился.",
+      "audioPath": "assets/audio/vocabulary/v14_appear.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_appear.mp3"
+    },
+    {
+      "id": "v14_sound",
+      "english": "sound",
+      "russian": "звучать",
+      "partOfSpeech": "verb",
+      "example": "It sounds as though they are arguing.",
+      "exampleTranslation": "Похоже, что они спорят.",
+      "audioPath": "assets/audio/vocabulary/v14_sound.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_sound.mp3"
+    },
+    {
+      "id": "v14_feel",
+      "english": "feel",
+      "russian": "чувствовать",
+      "partOfSpeech": "verb",
+      "example": "I feel as if I have known you forever.",
+      "exampleTranslation": "Я чувствую, будто знаю тебя всю жизнь.",
+      "audioPath": "assets/audio/vocabulary/v14_feel.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_feel.mp3"
+    },
+    {
+      "id": "v14_look",
+      "english": "look",
+      "russian": "выглядеть",
+      "partOfSpeech": "verb",
+      "example": "He looks as though he hasn't slept.",
+      "exampleTranslation": "Он выглядит так, будто не спал.",
+      "audioPath": "assets/audio/vocabulary/v14_look.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_look.mp3"
+    },
+    {
+      "id": "v14_superior",
+      "english": "superior",
+      "russian": "превосходящий, высокомерный",
+      "partOfSpeech": "adjective",
+      "example": "He acts as if he were superior to everyone.",
+      "exampleTranslation": "Он ведёт себя так, будто он лучше всех.",
+      "audioPath": "assets/audio/vocabulary/v14_superior.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_superior.mp3"
+    },
+    {
+      "id": "v14_stranger",
+      "english": "stranger",
+      "russian": "незнакомец, чужой",
+      "partOfSpeech": "noun",
+      "example": "She treated me as though I were a stranger.",
+      "exampleTranslation": "Она обращалась со мной, словно я чужой.",
+      "audioPath": "assets/audio/vocabulary/v14_stranger.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_stranger.mp3"
+    },
+    {
+      "id": "v14_invisible",
+      "english": "invisible",
+      "russian": "невидимый",
+      "partOfSpeech": "adjective",
+      "example": "They ignored him as if he were invisible.",
+      "exampleTranslation": "Они его игнорировали, словно он невидим.",
+      "audioPath": "assets/audio/vocabulary/v14_invisible.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_invisible.mp3"
+    },
+    {
+      "id": "v14_genuine",
+      "english": "genuine",
+      "russian": "подлинный, настоящий",
+      "partOfSpeech": "adjective",
+      "example": "Her surprise seemed genuine, as if she truly didn't know.",
+      "exampleTranslation": "Её удивление казалось настоящим, как будто она действительно не знала.",
+      "audioPath": "assets/audio/vocabulary/v14_genuine.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_genuine.mp3"
+    },
+    {
+      "id": "v14_bother",
+      "english": "bother",
+      "russian": "беспокоить, волновать",
+      "partOfSpeech": "verb",
+      "example": "She carried on as though nothing bothered her.",
+      "exampleTranslation": "Она продолжала, словно ничего её не беспокоило.",
+      "audioPath": "assets/audio/vocabulary/v14_bother.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_bother.mp3"
+    },
+    {
+      "id": "v14_glance",
+      "english": "glance",
+      "russian": "бросить взгляд, мельком посмотреть",
+      "partOfSpeech": "verb",
+      "example": "He glanced at me as if he recognized me.",
+      "exampleTranslation": "Он взглянул на меня, как будто узнал.",
+      "audioPath": "assets/audio/vocabulary/v14_glance.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_glance.mp3"
+    },
+    {
+      "id": "v14_collapse",
+      "english": "collapse",
+      "russian": "рухнуть, обрушиться",
+      "partOfSpeech": "verb",
+      "example": "The building looked as though it were about to collapse.",
+      "exampleTranslation": "Здание выглядело так, словно вот-вот рухнет.",
+      "audioPath": "assets/audio/vocabulary/v14_collapse.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v14_collapse.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "Unreal Past: As If / As Though",
+    "subtitle": "As if и as though используются для нереальных сравнений — когда мы описываем ситуацию, которая не соответствует действительности. После них используется Past Simple (для настоящего) или Past Perfect (для прошлого) — это и есть Unreal Past.",
+    "construction": {
+      "formula": "V + as if / as though + Past Simple (настоящее) | Past Perfect (прошлое)",
+      "rules": [
+        {
+          "word": "Нереальное настоящее",
+          "description": "as if/as though + Past Simple: He talks as if he KNEW (но на самом деле не знает)."
+        },
+        {
+          "word": "Нереальное прошлое",
+          "description": "as if/as though + Past Perfect: She acted as though nothing HAD HAPPENED (но на самом деле произошло)."
+        },
+        {
+          "word": "were вместо was",
+          "description": "В формальном английском после as if/as though используется were для всех лиц: as if he WERE (не was)."
+        },
+        {
+          "word": "Реальное сравнение",
+          "description": "Если ситуация РЕАЛЬНАЯ, используется обычное время: It looks as if it is going to rain (и правда похоже)."
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "visibility",
+        "color": "blue",
+        "title": "Нереальное поведение",
+        "description": "Когда кто-то ведёт себя не так, как на самом деле.",
+        "example": {
+          "english": "He talks as if he knew everything about the topic.",
+          "russian": "Он говорит так, как будто знает всё об этой теме."
+        }
+      },
+      {
+        "icon": "star",
+        "color": "purple",
+        "title": "Внешний вид / ощущения",
+        "description": "Когда что-то выглядит или ощущается иначе, чем есть на самом деле.",
+        "example": {
+          "english": "She looked as though she hadn't slept for days.",
+          "russian": "Она выглядела так, словно не спала несколько дней."
+        }
+      },
+      {
+        "icon": "explore",
+        "color": "orange",
+        "title": "Притворство",
+        "description": "Когда кто-то притворяется или делает вид.",
+        "example": {
+          "english": "He acted as if he hadn't heard the news.",
+          "russian": "Он вёл себя так, будто не слышал новость."
+        }
+      },
+      {
+        "icon": "check_circle",
+        "color": "green",
+        "title": "Эмоциональные описания",
+        "description": "Для ярких, образных описаний чувств и впечатлений.",
+        "example": {
+          "english": "I feel as if I have been here before.",
+          "russian": "Я чувствую, будто уже бывал здесь раньше."
+        }
+      }
+    ],
+    "markers": [
+      "as if",
+      "as though",
+      "it looks as if",
+      "it sounds as though",
+      "it feels as if",
+      "it seems as though"
+    ]
+  },
+  "theoryQuiz": [
+    {
+      "id": "tq_14_01",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"He talks as if he ___ everything.\"",
+      "options": [
+        "knows",
+        "knew",
+        "know",
+        "knowing"
+      ],
+      "correctIndex": 1,
+      "explanation": "As if + Past Simple для нереального настоящего. Он НЕ знает всё, но говорит так, будто знает."
+    },
+    {
+      "id": "tq_14_02",
+      "type": "multipleChoice",
+      "question": "Какое время используется после as if/as though для нереального прошлого?",
+      "options": [
+        "Past Simple",
+        "Present Perfect",
+        "Past Perfect",
+        "Future Simple"
+      ],
+      "correctIndex": 2,
+      "explanation": "Past Perfect для нереального прошлого: She acted as though nothing HAD HAPPENED."
+    },
+    {
+      "id": "tq_14_03",
+      "type": "trueFalse",
+      "question": "\"He acts as if he was the boss\" — грамматически правильное формальное предложение.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "В формальном английском используется were: He acts as if he WERE the boss. Was допустимо в разговорной речи."
+    },
+    {
+      "id": "tq_14_04",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"She acted as though nothing ___\".",
+      "options": [
+        "happens",
+        "happened",
+        "had happened",
+        "has happened"
+      ],
+      "correctIndex": 2,
+      "explanation": "Past Perfect для нереального прошлого: acted (Past) + as though + had happened (Past Perfect)."
+    },
+    {
+      "id": "tq_14_05",
+      "type": "multipleChoice",
+      "question": "В чём разница между as if и as though?",
+      "options": [
+        "As if формальнее",
+        "As though формальнее",
+        "Разницы практически нет",
+        "As if для настоящего, as though для прошлого"
+      ],
+      "correctIndex": 2,
+      "explanation": "As if и as though — синонимы. Можно использовать любое. As though чуть более формальное, но разница минимальна."
+    },
+    {
+      "id": "tq_14_06",
+      "type": "trueFalse",
+      "question": "\"It looks as if it is going to rain\" — здесь as if используется для реальной ситуации.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Если ситуация реальная (действительно похоже на дождь), используется обычное время, а не Past Simple."
+    },
+    {
+      "id": "tq_14_07",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"They treat him as though he ___ invisible.\"",
+      "options": [
+        "is",
+        "was",
+        "were",
+        "be"
+      ],
+      "correctIndex": 2,
+      "explanation": "As though + were (для всех лиц в формальном английском). Он НЕ невидим, но с ним обращаются так."
+    },
+    {
+      "id": "tq_14_08",
+      "type": "multipleChoice",
+      "question": "Какой глагол чаще всего стоит перед as if/as though?",
+      "options": [
+        "run",
+        "look/feel/sound",
+        "eat",
+        "write"
+      ],
+      "correctIndex": 1,
+      "explanation": "Look, feel, sound, seem, act, behave — глаголы восприятия и поведения чаще всего используются с as if/as though."
+    },
+    {
+      "id": "tq_14_09",
+      "type": "trueFalse",
+      "question": "\"I feel as if I had been there before\" описывает нереальное прошлое.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Had been — Past Perfect после as if, что указывает на нереальное прошлое (ощущение, но не факт)."
+    },
+    {
+      "id": "tq_14_10",
+      "type": "multipleChoice",
+      "question": "Почему после as if используется Past Simple для настоящего?",
+      "options": [
+        "Это ошибка",
+        "Для вежливости",
+        "Чтобы показать нереальность ситуации",
+        "Нет причины"
+      ],
+      "correctIndex": 2,
+      "explanation": "Past Simple после as if — это Unreal Past. Сдвиг времени назад показывает, что ситуация нереальна."
+    }
+  ],
+  "tasks": [
+    {
+      "id": "t14_1",
+      "type": "sentenceAssembly",
+      "question": "Он говорит так, как будто он всё знает",
+      "correctAnswer": "He talks as if he knew absolutely everything about it",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "Him",
+          "They"
+        ],
+        [
+          "talks",
+          "talk",
+          "talked",
+          "talking"
+        ],
+        [
+          "as",
+          "like",
+          "so",
+          "such"
+        ],
+        [
+          "if",
+          "though",
+          "when",
+          "while"
+        ],
+        [
+          "he",
+          "him",
+          "his",
+          "himself"
+        ],
+        [
+          "knew",
+          "knows",
+          "know",
+          "knowing"
+        ],
+        [
+          "absolutely",
+          "absolute",
+          "total",
+          "completely"
+        ],
+        [
+          "everything",
+          "everyone",
+          "anything",
+          "something"
+        ],
+        [
+          "about",
+          "around",
+          "above",
+          "across"
+        ],
+        [
+          "it",
+          "that",
+          "this",
+          "them"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_14_unreal_past/000.mp3"
+    },
+    {
+      "id": "t14_2",
+      "type": "sentenceAssembly",
+      "question": "Она выглядела так, словно увидела призрак",
+      "correctAnswer": "She looked as though she had seen a terrifying ghost",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "Her",
+          "They"
+        ],
+        [
+          "looked",
+          "looks",
+          "look",
+          "looking"
+        ],
+        [
+          "as",
+          "like",
+          "so",
+          "such"
+        ],
+        [
+          "though",
+          "if",
+          "when",
+          "while"
+        ],
+        [
+          "she",
+          "her",
+          "hers",
+          "herself"
+        ],
+        [
+          "had",
+          "has",
+          "have",
+          "having"
+        ],
+        [
+          "seen",
+          "see",
+          "saw",
+          "seeing"
+        ],
+        [
+          "a",
+          "the",
+          "an",
+          "this"
+        ],
+        [
+          "terrifying",
+          "terrified",
+          "terrible",
+          "terror"
+        ],
+        [
+          "ghost",
+          "ghosts",
+          "goat",
+          "guest"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_14_unreal_past/001.mp3"
+    },
+    {
+      "id": "t14_3",
+      "type": "sentenceAssembly",
+      "question": "Она ведёт себя так, будто ей тут всё принадлежит",
+      "correctAnswer": "She behaves as if she owned the entire place",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "Her",
+          "They"
+        ],
+        [
+          "behaves",
+          "behave",
+          "behaved",
+          "behaving"
+        ],
+        [
+          "as",
+          "like",
+          "so",
+          "such"
+        ],
+        [
+          "if",
+          "though",
+          "when",
+          "while"
+        ],
+        [
+          "she",
+          "her",
+          "hers",
+          "herself"
+        ],
+        [
+          "owned",
+          "owns",
+          "own",
+          "owning"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "entire",
+          "entirely",
+          "all",
+          "whole"
+        ],
+        [
+          "place",
+          "places",
+          "placed",
+          "placing"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_14_unreal_past/002.mp3"
+    },
+    {
+      "id": "t14_4",
+      "type": "sentenceAssembly",
+      "question": "Они обращаются с ним так, словно он невидим",
+      "correctAnswer": "They treat him as though he were completely invisible",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "We",
+          "Them",
+          "Their"
+        ],
+        [
+          "treat",
+          "treats",
+          "treated",
+          "treating"
+        ],
+        [
+          "him",
+          "he",
+          "his",
+          "himself"
+        ],
+        [
+          "as",
+          "like",
+          "so",
+          "such"
+        ],
+        [
+          "though",
+          "if",
+          "when",
+          "while"
+        ],
+        [
+          "he",
+          "him",
+          "his",
+          "himself"
+        ],
+        [
+          "were",
+          "was",
+          "is",
+          "be"
+        ],
+        [
+          "completely",
+          "complete",
+          "totally",
+          "entirely"
+        ],
+        [
+          "invisible",
+          "visible",
+          "invisibly",
+          "invincible"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_14_unreal_past/003.mp3"
+    },
+    {
+      "id": "t14_5",
+      "type": "sentenceAssembly",
+      "question": "Он вёл себя так, будто не слышал эту новость",
+      "correctAnswer": "He acted as if he had not heard the shocking news",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "Him",
+          "They"
+        ],
+        [
+          "acted",
+          "acts",
+          "act",
+          "acting"
+        ],
+        [
+          "as",
+          "like",
+          "so",
+          "such"
+        ],
+        [
+          "if",
+          "though",
+          "when",
+          "while"
+        ],
+        [
+          "he",
+          "him",
+          "his",
+          "himself"
+        ],
+        [
+          "had",
+          "has",
+          "have",
+          "having"
+        ],
+        [
+          "not",
+          "never",
+          "no",
+          "neither"
+        ],
+        [
+          "heard",
+          "hear",
+          "hears",
+          "hearing"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "shocking",
+          "shocked",
+          "shock",
+          "shockingly"
+        ],
+        [
+          "news",
+          "new",
+          "newly",
+          "newest"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_14_unreal_past/004.mp3"
+    },
+    {
+      "id": "t14_6",
+      "type": "sentenceAssembly",
+      "question": "Он выглядит так, будто не спал несколько дней",
+      "correctAnswer": "He looks as though he had not slept for several days",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "Him",
+          "They"
+        ],
+        [
+          "looks",
+          "look",
+          "looked",
+          "looking"
+        ],
+        [
+          "as",
+          "like",
+          "so",
+          "such"
+        ],
+        [
+          "though",
+          "if",
+          "when",
+          "while"
+        ],
+        [
+          "he",
+          "him",
+          "his",
+          "himself"
+        ],
+        [
+          "had",
+          "has",
+          "have",
+          "having"
+        ],
+        [
+          "not",
+          "never",
+          "no",
+          "neither"
+        ],
+        [
+          "slept",
+          "sleep",
+          "sleeps",
+          "sleeping"
+        ],
+        [
+          "for",
+          "in",
+          "at",
+          "on"
+        ],
+        [
+          "several",
+          "some",
+          "many",
+          "few"
+        ],
+        [
+          "days",
+          "day",
+          "weeks",
+          "hours"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_14_unreal_past/005.mp3"
+    },
+    {
+      "id": "t14_7",
+      "type": "sentenceAssembly",
+      "question": "Я чувствую, будто знаю тебя всю жизнь",
+      "correctAnswer": "I feel as if I had known you my entire life",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "We",
+          "He",
+          "Me"
+        ],
+        [
+          "feel",
+          "feels",
+          "felt",
+          "feeling"
+        ],
+        [
+          "as",
+          "like",
+          "so",
+          "such"
+        ],
+        [
+          "if",
+          "though",
+          "when",
+          "while"
+        ],
+        [
+          "I",
+          "me",
+          "we",
+          "he"
+        ],
+        [
+          "had",
+          "has",
+          "have",
+          "having"
+        ],
+        [
+          "known",
+          "know",
+          "knows",
+          "knowing"
+        ],
+        [
+          "you",
+          "your",
+          "yours",
+          "yourself"
+        ],
+        [
+          "my",
+          "me",
+          "I",
+          "mine"
+        ],
+        [
+          "entire",
+          "entirely",
+          "all",
+          "whole"
+        ],
+        [
+          "life",
+          "lives",
+          "living",
+          "live"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_14_unreal_past/006.mp3"
+    },
+    {
+      "id": "t14_8",
+      "type": "sentenceAssembly",
+      "question": "Здание выглядело так, словно вот-вот рухнет",
+      "correctAnswer": "The building looked as if it were about to collapse",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "This",
+          "That"
+        ],
+        [
+          "building",
+          "buildings",
+          "built",
+          "build"
+        ],
+        [
+          "looked",
+          "looks",
+          "look",
+          "looking"
+        ],
+        [
+          "as",
+          "like",
+          "so",
+          "such"
+        ],
+        [
+          "if",
+          "though",
+          "when",
+          "while"
+        ],
+        [
+          "it",
+          "he",
+          "she",
+          "they"
+        ],
+        [
+          "were",
+          "was",
+          "is",
+          "be"
+        ],
+        [
+          "about",
+          "ready",
+          "going",
+          "close"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "collapse",
+          "collapses",
+          "collapsed",
+          "collapsing"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_14_unreal_past/007.mp3"
+    },
+    {
+      "id": "t14_9",
+      "type": "sentenceAssembly",
+      "question": "Он ведёт себя так, будто он лучше всех остальных",
+      "correctAnswer": "He acts as if he were superior to everyone else around",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "Him",
+          "They"
+        ],
+        [
+          "acts",
+          "act",
+          "acted",
+          "acting"
+        ],
+        [
+          "as",
+          "like",
+          "so",
+          "such"
+        ],
+        [
+          "if",
+          "though",
+          "when",
+          "while"
+        ],
+        [
+          "he",
+          "him",
+          "his",
+          "himself"
+        ],
+        [
+          "were",
+          "was",
+          "is",
+          "be"
+        ],
+        [
+          "superior",
+          "superiorly",
+          "super",
+          "supreme"
+        ],
+        [
+          "to",
+          "than",
+          "from",
+          "over"
+        ],
+        [
+          "everyone",
+          "everybody",
+          "anyone",
+          "someone"
+        ],
+        [
+          "else",
+          "other",
+          "others",
+          "also"
+        ],
+        [
+          "around",
+          "here",
+          "there",
+          "near"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_14_unreal_past/008.mp3"
+    },
+    {
+      "id": "t14_10",
+      "type": "sentenceAssembly",
+      "question": "Она обращалась со мной, словно я чужой человек",
+      "correctAnswer": "She treated me as though I were a complete stranger",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "Her",
+          "They"
+        ],
+        [
+          "treated",
+          "treats",
+          "treat",
+          "treating"
+        ],
+        [
+          "me",
+          "I",
+          "my",
+          "mine"
+        ],
+        [
+          "as",
+          "like",
+          "so",
+          "such"
+        ],
+        [
+          "though",
+          "if",
+          "when",
+          "while"
+        ],
+        [
+          "I",
+          "me",
+          "my",
+          "mine"
+        ],
+        [
+          "were",
+          "was",
+          "is",
+          "be"
+        ],
+        [
+          "a",
+          "the",
+          "an",
+          "one"
+        ],
+        [
+          "complete",
+          "completely",
+          "total",
+          "utter"
+        ],
+        [
+          "stranger",
+          "strangers",
+          "strange",
+          "strangely"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_14_unreal_past/009.mp3"
+    },
+    {
+      "id": "t14_11",
+      "type": "sentenceAssembly",
+      "question": "Похоже, что они спорят о чём-то серьёзном",
+      "correctAnswer": "It sounds as though they are arguing about something quite serious",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "There",
+          "That",
+          "This"
+        ],
+        [
+          "sounds",
+          "sound",
+          "sounded",
+          "sounding"
+        ],
+        [
+          "as",
+          "like",
+          "so",
+          "such"
+        ],
+        [
+          "though",
+          "if",
+          "when",
+          "while"
+        ],
+        [
+          "they",
+          "them",
+          "their",
+          "themselves"
+        ],
+        [
+          "are",
+          "is",
+          "was",
+          "were"
+        ],
+        [
+          "arguing",
+          "argue",
+          "argued",
+          "argues"
+        ],
+        [
+          "about",
+          "around",
+          "above",
+          "across"
+        ],
+        [
+          "something",
+          "anything",
+          "nothing",
+          "everything"
+        ],
+        [
+          "quite",
+          "quiet",
+          "quit",
+          "quickly"
+        ],
+        [
+          "serious",
+          "seriously",
+          "severe",
+          "serial"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_14_unreal_past/010.mp3"
+    },
+    {
+      "id": "t14_12",
+      "type": "sentenceAssembly",
+      "question": "Она продолжала работать, словно ничего её не беспокоило",
+      "correctAnswer": "She carried on working as if nothing bothered her at all",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "Her",
+          "They"
+        ],
+        [
+          "carried",
+          "carry",
+          "carries",
+          "carrying"
+        ],
+        [
+          "on",
+          "out",
+          "off",
+          "up"
+        ],
+        [
+          "working",
+          "work",
+          "worked",
+          "works"
+        ],
+        [
+          "as",
+          "like",
+          "so",
+          "such"
+        ],
+        [
+          "if",
+          "though",
+          "when",
+          "while"
+        ],
+        [
+          "nothing",
+          "anything",
+          "something",
+          "everything"
+        ],
+        [
+          "bothered",
+          "bother",
+          "bothers",
+          "bothering"
+        ],
+        [
+          "her",
+          "she",
+          "hers",
+          "herself"
+        ],
+        [
+          "at",
+          "in",
+          "on",
+          "for"
+        ],
+        [
+          "all",
+          "every",
+          "each",
+          "any"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_14_unreal_past/011.mp3"
+    },
+    {
+      "id": "t14_13",
+      "type": "sentenceAssembly",
+      "question": "Он взглянул на меня, как будто узнал из далёкого прошлого",
+      "correctAnswer": "He glanced at me as if he had recognized me from somewhere",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "Him",
+          "They"
+        ],
+        [
+          "glanced",
+          "glance",
+          "glances",
+          "glancing"
+        ],
+        [
+          "at",
+          "on",
+          "to",
+          "in"
+        ],
+        [
+          "me",
+          "I",
+          "my",
+          "mine"
+        ],
+        [
+          "as",
+          "like",
+          "so",
+          "such"
+        ],
+        [
+          "if",
+          "though",
+          "when",
+          "while"
+        ],
+        [
+          "he",
+          "him",
+          "his",
+          "himself"
+        ],
+        [
+          "had",
+          "has",
+          "have",
+          "having"
+        ],
+        [
+          "recognized",
+          "recognize",
+          "recognizes",
+          "recognizing"
+        ],
+        [
+          "me",
+          "I",
+          "my",
+          "mine"
+        ],
+        [
+          "from",
+          "of",
+          "at",
+          "in"
+        ],
+        [
+          "somewhere",
+          "anywhere",
+          "nowhere",
+          "everywhere"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_14_unreal_past/012.mp3"
+    },
+    {
+      "id": "t14_14",
+      "type": "sentenceAssembly",
+      "question": "Её удивление казалось настоящим, будто она действительно не знала",
+      "correctAnswer": "Her surprise seemed genuine as if she truly did not know",
+      "options": [],
+      "variants": [
+        [
+          "Her",
+          "His",
+          "She",
+          "Their"
+        ],
+        [
+          "surprise",
+          "surprised",
+          "surprising",
+          "surprises"
+        ],
+        [
+          "seemed",
+          "seems",
+          "seem",
+          "seeming"
+        ],
+        [
+          "genuine",
+          "genuinely",
+          "general",
+          "generous"
+        ],
+        [
+          "as",
+          "like",
+          "so",
+          "such"
+        ],
+        [
+          "if",
+          "though",
+          "when",
+          "while"
+        ],
+        [
+          "she",
+          "her",
+          "hers",
+          "herself"
+        ],
+        [
+          "truly",
+          "true",
+          "truth",
+          "real"
+        ],
+        [
+          "did",
+          "do",
+          "does",
+          "doing"
+        ],
+        [
+          "not",
+          "no",
+          "never",
+          "neither"
+        ],
+        [
+          "know",
+          "knows",
+          "knew",
+          "knowing"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_14_unreal_past/013.mp3"
+    },
+    {
+      "id": "t14_15",
+      "type": "sentenceAssembly",
+      "question": "Он притворялся, будто ничего не произошло накануне",
+      "correctAnswer": "He pretended as if nothing had happened the day before",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "Him",
+          "They"
+        ],
+        [
+          "pretended",
+          "pretends",
+          "pretend",
+          "pretending"
+        ],
+        [
+          "as",
+          "like",
+          "so",
+          "such"
+        ],
+        [
+          "if",
+          "though",
+          "when",
+          "while"
+        ],
+        [
+          "nothing",
+          "anything",
+          "something",
+          "everything"
+        ],
+        [
+          "had",
+          "has",
+          "have",
+          "having"
+        ],
+        [
+          "happened",
+          "happen",
+          "happens",
+          "happening"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "day",
+          "days",
+          "night",
+          "week"
+        ],
+        [
+          "before",
+          "after",
+          "ago",
+          "previously"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_14_unreal_past/014.mp3"
+    },
+    {
+      "id": "t14_16",
+      "type": "sentenceAssembly",
+      "question": "Кажется, будто время остановилось в этом маленьком городке",
+      "correctAnswer": "It feels as though time had stopped in this small quiet town",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "There",
+          "That",
+          "This"
+        ],
+        [
+          "feels",
+          "feel",
+          "felt",
+          "feeling"
+        ],
+        [
+          "as",
+          "like",
+          "so",
+          "such"
+        ],
+        [
+          "though",
+          "if",
+          "when",
+          "while"
+        ],
+        [
+          "time",
+          "times",
+          "timing",
+          "timely"
+        ],
+        [
+          "had",
+          "has",
+          "have",
+          "having"
+        ],
+        [
+          "stopped",
+          "stop",
+          "stops",
+          "stopping"
+        ],
+        [
+          "in",
+          "on",
+          "at",
+          "for"
+        ],
+        [
+          "this",
+          "that",
+          "the",
+          "a"
+        ],
+        [
+          "small",
+          "smaller",
+          "smallest",
+          "little"
+        ],
+        [
+          "quiet",
+          "quietly",
+          "quite",
+          "quick"
+        ],
+        [
+          "town",
+          "towns",
+          "city",
+          "village"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_14_unreal_past/015.mp3"
+    },
+    {
+      "id": "t14_17",
+      "type": "sentenceAssembly",
+      "question": "Она говорила с ним так, как будто видела его впервые",
+      "correctAnswer": "She spoke to him as if she were seeing him for the first time",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "Her",
+          "They"
+        ],
+        [
+          "spoke",
+          "speaks",
+          "speak",
+          "speaking"
+        ],
+        [
+          "to",
+          "at",
+          "for",
+          "with"
+        ],
+        [
+          "him",
+          "he",
+          "his",
+          "himself"
+        ],
+        [
+          "as",
+          "like",
+          "so",
+          "such"
+        ],
+        [
+          "if",
+          "though",
+          "when",
+          "while"
+        ],
+        [
+          "she",
+          "her",
+          "hers",
+          "herself"
+        ],
+        [
+          "were",
+          "was",
+          "is",
+          "be"
+        ],
+        [
+          "seeing",
+          "see",
+          "seen",
+          "saw"
+        ],
+        [
+          "him",
+          "he",
+          "his",
+          "them"
+        ],
+        [
+          "for",
+          "at",
+          "in",
+          "on"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "first",
+          "firstly",
+          "last",
+          "next"
+        ],
+        [
+          "time",
+          "times",
+          "moment",
+          "occasion"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_14_unreal_past/016.mp3"
+    },
+    {
+      "id": "t14_18",
+      "type": "sentenceAssembly",
+      "question": "Он тратит деньги так, словно они ему достаются бесплатно",
+      "correctAnswer": "He spends money as though it were completely free of charge",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "Him",
+          "They"
+        ],
+        [
+          "spends",
+          "spend",
+          "spent",
+          "spending"
+        ],
+        [
+          "money",
+          "moneys",
+          "monetary",
+          "monies"
+        ],
+        [
+          "as",
+          "like",
+          "so",
+          "such"
+        ],
+        [
+          "though",
+          "if",
+          "when",
+          "while"
+        ],
+        [
+          "it",
+          "they",
+          "he",
+          "she"
+        ],
+        [
+          "were",
+          "was",
+          "is",
+          "be"
+        ],
+        [
+          "completely",
+          "complete",
+          "totally",
+          "entirely"
+        ],
+        [
+          "free",
+          "freely",
+          "freed",
+          "freedom"
+        ],
+        [
+          "of",
+          "from",
+          "for",
+          "at"
+        ],
+        [
+          "charge",
+          "charges",
+          "charged",
+          "charging"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_14_unreal_past/017.mp3"
+    },
+    {
+      "id": "t14_19",
+      "type": "sentenceAssembly",
+      "question": "Они разговаривали шёпотом, словно кто-то мог их подслушать",
+      "correctAnswer": "They were whispering as if someone could overhear their entire conversation",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "We",
+          "Them",
+          "Their"
+        ],
+        [
+          "were",
+          "was",
+          "is",
+          "are"
+        ],
+        [
+          "whispering",
+          "whisper",
+          "whispered",
+          "whispers"
+        ],
+        [
+          "as",
+          "like",
+          "so",
+          "such"
+        ],
+        [
+          "if",
+          "though",
+          "when",
+          "while"
+        ],
+        [
+          "someone",
+          "somebody",
+          "anyone",
+          "nobody"
+        ],
+        [
+          "could",
+          "can",
+          "would",
+          "should"
+        ],
+        [
+          "overhear",
+          "overhears",
+          "overheard",
+          "overhearing"
+        ],
+        [
+          "their",
+          "they",
+          "them",
+          "his"
+        ],
+        [
+          "entire",
+          "entirely",
+          "all",
+          "whole"
+        ],
+        [
+          "conversation",
+          "conversations",
+          "conversing",
+          "converse"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_14_unreal_past/018.mp3"
+    },
+    {
+      "id": "t14_20",
+      "type": "sentenceAssembly",
+      "question": "Комната выглядела так, будто в ней давно никто не жил",
+      "correctAnswer": "The room looked as though nobody had lived there for years",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "This",
+          "That"
+        ],
+        [
+          "room",
+          "rooms",
+          "roomed",
+          "roomy"
+        ],
+        [
+          "looked",
+          "looks",
+          "look",
+          "looking"
+        ],
+        [
+          "as",
+          "like",
+          "so",
+          "such"
+        ],
+        [
+          "though",
+          "if",
+          "when",
+          "while"
+        ],
+        [
+          "nobody",
+          "no one",
+          "anybody",
+          "somebody"
+        ],
+        [
+          "had",
+          "has",
+          "have",
+          "having"
+        ],
+        [
+          "lived",
+          "live",
+          "lives",
+          "living"
+        ],
+        [
+          "there",
+          "here",
+          "where",
+          "then"
+        ],
+        [
+          "for",
+          "in",
+          "at",
+          "since"
+        ],
+        [
+          "years",
+          "year",
+          "months",
+          "decades"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_14_unreal_past/019.mp3"
+    },
+    {
+      "id": "t14_21",
+      "type": "sentenceAssembly",
+      "question": "Он вёл машину так, как будто был на гоночной трассе",
+      "correctAnswer": "He was driving as if he were on a professional racing track",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "Him",
+          "They"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "be"
+        ],
+        [
+          "driving",
+          "drive",
+          "drove",
+          "drives"
+        ],
+        [
+          "as",
+          "like",
+          "so",
+          "such"
+        ],
+        [
+          "if",
+          "though",
+          "when",
+          "while"
+        ],
+        [
+          "he",
+          "him",
+          "his",
+          "himself"
+        ],
+        [
+          "were",
+          "was",
+          "is",
+          "be"
+        ],
+        [
+          "on",
+          "in",
+          "at",
+          "by"
+        ],
+        [
+          "a",
+          "the",
+          "an",
+          "this"
+        ],
+        [
+          "professional",
+          "professionally",
+          "profession",
+          "profess"
+        ],
+        [
+          "racing",
+          "race",
+          "raced",
+          "racer"
+        ],
+        [
+          "track",
+          "tracks",
+          "tracked",
+          "tracking"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_14_unreal_past/020.mp3"
+    },
+    {
+      "id": "t14_22",
+      "type": "sentenceAssembly",
+      "question": "Она смеялась так, словно услышала самую смешную шутку",
+      "correctAnswer": "She laughed as though she had heard the funniest joke ever",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "Her",
+          "They"
+        ],
+        [
+          "laughed",
+          "laughs",
+          "laugh",
+          "laughing"
+        ],
+        [
+          "as",
+          "like",
+          "so",
+          "such"
+        ],
+        [
+          "though",
+          "if",
+          "when",
+          "while"
+        ],
+        [
+          "she",
+          "her",
+          "hers",
+          "herself"
+        ],
+        [
+          "had",
+          "has",
+          "have",
+          "having"
+        ],
+        [
+          "heard",
+          "hear",
+          "hears",
+          "hearing"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "funniest",
+          "funny",
+          "funnier",
+          "fun"
+        ],
+        [
+          "joke",
+          "jokes",
+          "joking",
+          "joked"
+        ],
+        [
+          "ever",
+          "never",
+          "always",
+          "sometimes"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_14_unreal_past/021.mp3"
+    },
+    {
+      "id": "t14_23",
+      "type": "sentenceAssembly",
+      "question": "Ребёнок плакал так, будто его обидели очень сильно",
+      "correctAnswer": "The child was crying as if someone had hurt him very badly",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "This",
+          "That"
+        ],
+        [
+          "child",
+          "children",
+          "childish",
+          "childhood"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "be"
+        ],
+        [
+          "crying",
+          "cry",
+          "cried",
+          "cries"
+        ],
+        [
+          "as",
+          "like",
+          "so",
+          "such"
+        ],
+        [
+          "if",
+          "though",
+          "when",
+          "while"
+        ],
+        [
+          "someone",
+          "somebody",
+          "anyone",
+          "nobody"
+        ],
+        [
+          "had",
+          "has",
+          "have",
+          "having"
+        ],
+        [
+          "hurt",
+          "hurts",
+          "hurting",
+          "hurtful"
+        ],
+        [
+          "him",
+          "he",
+          "his",
+          "himself"
+        ],
+        [
+          "very",
+          "so",
+          "too",
+          "quite"
+        ],
+        [
+          "badly",
+          "bad",
+          "worse",
+          "worst"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_14_unreal_past/022.mp3"
+    },
+    {
+      "id": "t14_24",
+      "type": "sentenceAssembly",
+      "question": "Он посмотрел на еду так, словно не ел несколько суток",
+      "correctAnswer": "He looked at the food as though he had not eaten for days",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "Him",
+          "They"
+        ],
+        [
+          "looked",
+          "looks",
+          "look",
+          "looking"
+        ],
+        [
+          "at",
+          "on",
+          "to",
+          "in"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "food",
+          "foods",
+          "meal",
+          "dish"
+        ],
+        [
+          "as",
+          "like",
+          "so",
+          "such"
+        ],
+        [
+          "though",
+          "if",
+          "when",
+          "while"
+        ],
+        [
+          "he",
+          "him",
+          "his",
+          "himself"
+        ],
+        [
+          "had",
+          "has",
+          "have",
+          "having"
+        ],
+        [
+          "not",
+          "never",
+          "no",
+          "neither"
+        ],
+        [
+          "eaten",
+          "eat",
+          "eats",
+          "eating"
+        ],
+        [
+          "for",
+          "in",
+          "at",
+          "since"
+        ],
+        [
+          "days",
+          "day",
+          "weeks",
+          "hours"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_14_unreal_past/023.mp3"
+    },
+    {
+      "id": "t14_25",
+      "type": "sentenceAssembly",
+      "question": "Она улыбалась так, будто скрывала важный секрет",
+      "correctAnswer": "She smiled as if she were hiding an important secret from everyone",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "Her",
+          "They"
+        ],
+        [
+          "smiled",
+          "smiles",
+          "smile",
+          "smiling"
+        ],
+        [
+          "as",
+          "like",
+          "so",
+          "such"
+        ],
+        [
+          "if",
+          "though",
+          "when",
+          "while"
+        ],
+        [
+          "she",
+          "her",
+          "hers",
+          "herself"
+        ],
+        [
+          "were",
+          "was",
+          "is",
+          "be"
+        ],
+        [
+          "hiding",
+          "hide",
+          "hid",
+          "hidden"
+        ],
+        [
+          "an",
+          "a",
+          "the",
+          "one"
+        ],
+        [
+          "important",
+          "importantly",
+          "importance",
+          "unimportant"
+        ],
+        [
+          "secret",
+          "secrets",
+          "secretly",
+          "secretive"
+        ],
+        [
+          "from",
+          "of",
+          "to",
+          "for"
+        ],
+        [
+          "everyone",
+          "everybody",
+          "anyone",
+          "someone"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_14_unreal_past/024.mp3"
+    },
+    {
+      "id": "t14_26",
+      "type": "sentenceAssembly",
+      "question": "Погода изменилась так резко, словно наступила другая пора года",
+      "correctAnswer": "The weather changed so abruptly as if a different season had arrived",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "This",
+          "That"
+        ],
+        [
+          "weather",
+          "weathers",
+          "whether",
+          "feather"
+        ],
+        [
+          "changed",
+          "change",
+          "changes",
+          "changing"
+        ],
+        [
+          "so",
+          "such",
+          "very",
+          "too"
+        ],
+        [
+          "abruptly",
+          "abrupt",
+          "suddenly",
+          "sudden"
+        ],
+        [
+          "as",
+          "like",
+          "that",
+          "which"
+        ],
+        [
+          "if",
+          "though",
+          "when",
+          "while"
+        ],
+        [
+          "a",
+          "the",
+          "an",
+          "one"
+        ],
+        [
+          "different",
+          "differently",
+          "differ",
+          "same"
+        ],
+        [
+          "season",
+          "seasons",
+          "seasonal",
+          "seasoned"
+        ],
+        [
+          "had",
+          "has",
+          "have",
+          "having"
+        ],
+        [
+          "arrived",
+          "arrive",
+          "arrives",
+          "arriving"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_14_unreal_past/025.mp3"
+    },
+    {
+      "id": "t14_27",
+      "type": "sentenceAssembly",
+      "question": "Босс ведёт себя так, как будто компания принадлежит только ему",
+      "correctAnswer": "The boss behaves as though the company belonged entirely to him alone",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "Our",
+          "His"
+        ],
+        [
+          "boss",
+          "bosses",
+          "boss's",
+          "bossing"
+        ],
+        [
+          "behaves",
+          "behave",
+          "behaved",
+          "behaving"
+        ],
+        [
+          "as",
+          "like",
+          "so",
+          "such"
+        ],
+        [
+          "though",
+          "if",
+          "when",
+          "while"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "company",
+          "companies",
+          "companion",
+          "compact"
+        ],
+        [
+          "belonged",
+          "belongs",
+          "belong",
+          "belonging"
+        ],
+        [
+          "entirely",
+          "entire",
+          "completely",
+          "totally"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "him",
+          "he",
+          "his",
+          "himself"
+        ],
+        [
+          "alone",
+          "lonely",
+          "only",
+          "solely"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_14_unreal_past/026.mp3"
+    },
+    {
+      "id": "t14_28",
+      "type": "sentenceAssembly",
+      "question": "Она танцевала так, словно никто на неё не смотрел",
+      "correctAnswer": "She danced as though nobody were watching her graceful movements",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "Her",
+          "They"
+        ],
+        [
+          "danced",
+          "dances",
+          "dance",
+          "dancing"
+        ],
+        [
+          "as",
+          "like",
+          "so",
+          "such"
+        ],
+        [
+          "though",
+          "if",
+          "when",
+          "while"
+        ],
+        [
+          "nobody",
+          "no one",
+          "anybody",
+          "somebody"
+        ],
+        [
+          "were",
+          "was",
+          "is",
+          "be"
+        ],
+        [
+          "watching",
+          "watch",
+          "watched",
+          "watches"
+        ],
+        [
+          "her",
+          "she",
+          "hers",
+          "his"
+        ],
+        [
+          "graceful",
+          "gracefully",
+          "grace",
+          "grateful"
+        ],
+        [
+          "movements",
+          "movement",
+          "moving",
+          "moves"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_14_unreal_past/027.mp3"
+    },
+    {
+      "id": "t14_29",
+      "type": "sentenceAssembly",
+      "question": "Он разговаривал с нами так, как будто мы были маленькими детьми",
+      "correctAnswer": "He spoke to us as if we were small children who understood nothing",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "Him",
+          "They"
+        ],
+        [
+          "spoke",
+          "speaks",
+          "speak",
+          "speaking"
+        ],
+        [
+          "to",
+          "at",
+          "for",
+          "with"
+        ],
+        [
+          "us",
+          "we",
+          "our",
+          "ours"
+        ],
+        [
+          "as",
+          "like",
+          "so",
+          "such"
+        ],
+        [
+          "if",
+          "though",
+          "when",
+          "while"
+        ],
+        [
+          "we",
+          "us",
+          "our",
+          "ours"
+        ],
+        [
+          "were",
+          "was",
+          "is",
+          "be"
+        ],
+        [
+          "small",
+          "smaller",
+          "smallest",
+          "little"
+        ],
+        [
+          "children",
+          "child",
+          "childish",
+          "childhood"
+        ],
+        [
+          "who",
+          "which",
+          "that",
+          "whom"
+        ],
+        [
+          "understood",
+          "understand",
+          "understands",
+          "understanding"
+        ],
+        [
+          "nothing",
+          "anything",
+          "something",
+          "everything"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_14_unreal_past/028.mp3"
+    },
+    {
+      "id": "t14_30",
+      "type": "sentenceAssembly",
+      "question": "Город выглядел так, как будто его покинули много лет назад",
+      "correctAnswer": "The city looked as though it had been abandoned many years ago",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "This",
+          "That"
+        ],
+        [
+          "city",
+          "cities",
+          "town",
+          "village"
+        ],
+        [
+          "looked",
+          "looks",
+          "look",
+          "looking"
+        ],
+        [
+          "as",
+          "like",
+          "so",
+          "such"
+        ],
+        [
+          "though",
+          "if",
+          "when",
+          "while"
+        ],
+        [
+          "it",
+          "he",
+          "she",
+          "they"
+        ],
+        [
+          "had",
+          "has",
+          "have",
+          "having"
+        ],
+        [
+          "been",
+          "being",
+          "be",
+          "was"
+        ],
+        [
+          "abandoned",
+          "abandon",
+          "abandons",
+          "abandoning"
+        ],
+        [
+          "many",
+          "much",
+          "some",
+          "several"
+        ],
+        [
+          "years",
+          "year",
+          "months",
+          "decades"
+        ],
+        [
+          "ago",
+          "before",
+          "since",
+          "earlier"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_14_unreal_past/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionAdvanced14UnrealPast"
+}

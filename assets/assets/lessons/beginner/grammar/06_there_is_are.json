@@ -1,0 +1,1522 @@
+{
+  "id": "beginner_06_there_is_are",
+  "title": "There is / There are",
+  "description": "Конструкция There is / There are — это ваш способ сказать «где-то что-то лежит» и расставить декорации на сцене.",
+  "order": 6,
+  "level": "beginner",
+  "imageUrl": "assets/images/lessons/there_is_are.png",
+  "vocabulary": [
+    {
+      "id": "v6_table",
+      "english": "table",
+      "russian": "стол",
+      "partOfSpeech": "noun",
+      "example": "The book is on the table.",
+      "exampleTranslation": "Книга на столе.",
+      "audioPath": "assets/audio/vocabulary/v6_table.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_table.mp3"
+    },
+    {
+      "id": "v6_box",
+      "english": "box",
+      "russian": "коробка",
+      "partOfSpeech": "noun",
+      "example": "What is in the box?",
+      "exampleTranslation": "Что в коробке?",
+      "audioPath": "assets/audio/vocabulary/v6_box.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_box.mp3"
+    },
+    {
+      "id": "v6_room",
+      "english": "room",
+      "russian": "комната",
+      "partOfSpeech": "noun",
+      "example": "The room is big.",
+      "exampleTranslation": "Комната большая.",
+      "audioPath": "assets/audio/vocabulary/v6_room.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_room.mp3"
+    },
+    {
+      "id": "v6_people",
+      "english": "people",
+      "russian": "люди",
+      "partOfSpeech": "noun",
+      "example": "There are many people.",
+      "exampleTranslation": "Там много людей.",
+      "audioPath": "assets/audio/vocabulary/v6_people.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_people.mp3"
+    },
+    {
+      "id": "v6_bank",
+      "english": "bank",
+      "russian": "банк",
+      "partOfSpeech": "noun",
+      "example": "Is there a bank here?",
+      "exampleTranslation": "Здесь есть банк?",
+      "audioPath": "assets/audio/vocabulary/v6_bank.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_bank.mp3"
+    },
+    {
+      "id": "v6_picture",
+      "english": "picture",
+      "russian": "картина, фото",
+      "partOfSpeech": "noun",
+      "example": "Nice picture.",
+      "exampleTranslation": "Красивая картина.",
+      "audioPath": "assets/audio/vocabulary/v6_picture.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_picture.mp3"
+    },
+    {
+      "id": "v6_wall",
+      "english": "wall",
+      "russian": "стена",
+      "partOfSpeech": "noun",
+      "example": "The picture is on the wall.",
+      "exampleTranslation": "Картина на стене.",
+      "audioPath": "assets/audio/vocabulary/v6_wall.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_wall.mp3"
+    },
+    {
+      "id": "v6_city",
+      "english": "city",
+      "russian": "город",
+      "partOfSpeech": "noun",
+      "example": "I like this city.",
+      "exampleTranslation": "Мне нравится этот город.",
+      "audioPath": "assets/audio/vocabulary/v6_city.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_city.mp3"
+    },
+    {
+      "id": "v6_fridge",
+      "english": "fridge",
+      "russian": "холодильник",
+      "partOfSpeech": "noun",
+      "example": "The milk is in the fridge.",
+      "exampleTranslation": "Молоко в холодильнике.",
+      "audioPath": "assets/audio/vocabulary/v6_fridge.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_fridge.mp3"
+    },
+    {
+      "id": "v6_sofa",
+      "english": "sofa",
+      "russian": "диван",
+      "partOfSpeech": "noun",
+      "example": "The cat is on the sofa.",
+      "exampleTranslation": "Кошка на диване.",
+      "audioPath": "assets/audio/vocabulary/v6_sofa.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_sofa.mp3"
+    },
+    {
+      "id": "v6_problem",
+      "english": "problem",
+      "russian": "проблема",
+      "partOfSpeech": "noun",
+      "example": "No problem.",
+      "exampleTranslation": "Без проблем.",
+      "audioPath": "assets/audio/vocabulary/v6_problem.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_problem.mp3"
+    },
+    {
+      "id": "v6_street",
+      "english": "street",
+      "russian": "улица",
+      "partOfSpeech": "noun",
+      "example": "He is in the street.",
+      "exampleTranslation": "Он на улице.",
+      "audioPath": "assets/audio/vocabulary/v6_street.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_street.mp3"
+    },
+    {
+      "id": "v6_family",
+      "english": "family",
+      "russian": "семья",
+      "partOfSpeech": "noun",
+      "example": "I love my family.",
+      "exampleTranslation": "Я люблю свою семью.",
+      "audioPath": "assets/audio/vocabulary/v6_family.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_family.mp3"
+    },
+    {
+      "id": "v6_empty",
+      "english": "empty",
+      "russian": "пустой",
+      "partOfSpeech": "adjective",
+      "example": "There is an empty room.",
+      "exampleTranslation": "Там есть пустая комната.",
+      "audioPath": "assets/audio/vocabulary/v6_empty.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_empty.mp3"
+    },
+    {
+      "id": "v6_old",
+      "english": "old",
+      "russian": "старый",
+      "partOfSpeech": "adjective",
+      "example": "There is an old house.",
+      "exampleTranslation": "Там есть старый дом.",
+      "audioPath": "assets/audio/vocabulary/v6_old.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_old.mp3"
+    },
+    {
+      "id": "v6_outside",
+      "english": "outside",
+      "russian": "снаружи",
+      "partOfSpeech": "adverb",
+      "example": "There are people outside.",
+      "exampleTranslation": "На улице люди.",
+      "audioPath": "assets/audio/vocabulary/v6_outside.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_outside.mp3"
+    },
+    {
+      "id": "v6_restaurant",
+      "english": "restaurant",
+      "russian": "ресторан",
+      "partOfSpeech": "noun",
+      "example": "There is a good restaurant.",
+      "exampleTranslation": "Там есть хороший ресторан.",
+      "audioPath": "assets/audio/vocabulary/v6_restaurant.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v6_restaurant.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "There is / There are",
+    "subtitle": "Представьте, что вы режиссер, который описывает сцену: «Слева стоит стол, на нем лежит книга». There is / There are — это ваша фраза «Там есть...». Мы используем её, чтобы ввести новый объект в обстановку.",
+    "construction": {
+      "formula": "There is (1) / There are (много)",
+      "rules": [
+        {
+          "word": "There is",
+          "description": "Для одного предмета. «Там есть один...». Часто сокращается до There's."
+        },
+        {
+          "word": "There are",
+          "description": "Для множества предметов. «Там есть много...»."
+        },
+        {
+          "word": "Перевод с конца",
+          "description": "В русском мы обычно начинаем с места: «НА СТОЛЕ лежит книга». В английском начинаем с There is."
+        },
+        {
+          "word": "There isn't / aren't",
+          "description": "Отрицание: «Там нету...». Используем any для множественного числа: There aren't any apples."
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "visibility",
+        "color": "blue",
+        "title": "Описание места",
+        "description": "Когда вы рассказываете, что находится в комнате, городе или на картинке.",
+        "example": {
+          "english": "There is a cat on the sofa.",
+          "russian": "На диване (сидит) кошка."
+        }
+      },
+      {
+        "icon": "star",
+        "color": "green",
+        "title": "Наличие",
+        "description": "Констатация факта существования чего-либо. (Как инвентаризация).",
+        "example": {
+          "english": "There are five apples in the basket.",
+          "russian": "В корзине пять яблок."
+        }
+      },
+      {
+        "icon": "check_circle",
+        "color": "purple",
+        "title": "Вопрос о наличии",
+        "description": "Спрашиваем «А есть ли...?». Глагол выходит вперед.",
+        "example": {
+          "english": "Is there a bank near here?",
+          "russian": "Здесь рядом есть банк?"
+        }
+      }
+    ],
+    "markers": [
+      "There is",
+      "There are",
+      "Is there",
+      "Are there",
+      "on the table",
+      "in the room",
+      "near here"
+    ]
+  },
+  "tasks": [
+    {
+      "id": "t6_1",
+      "type": "sentenceAssembly",
+      "question": "Там есть книга",
+      "correctAnswer": "There is a book",
+      "mistakeTags": [
+        "there_is_are",
+        "there_is_singular"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "There",
+          "Here",
+          "Where",
+          "It"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "has"
+        ],
+        [
+          "a",
+          "the",
+          "my",
+          "one"
+        ],
+        [
+          "book",
+          "cat",
+          "cup",
+          "pen"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_06_there_is_are/000.mp3"
+    },
+    {
+      "id": "t6_2",
+      "type": "sentenceAssembly",
+      "question": "Там два яблока",
+      "correctAnswer": "There are two apples",
+      "mistakeTags": [
+        "there_is_are",
+        "there_are_plural"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "There",
+          "Here",
+          "Where",
+          "It"
+        ],
+        [
+          "are",
+          "is",
+          "was",
+          "were"
+        ],
+        [
+          "two",
+          "three",
+          "five",
+          "many"
+        ],
+        [
+          "apples",
+          "dogs",
+          "cups",
+          "books"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_06_there_is_are/001.mp3"
+    },
+    {
+      "id": "t6_3",
+      "type": "sentenceAssembly",
+      "question": "Там нет людей",
+      "correctAnswer": "There are no people",
+      "mistakeTags": [
+        "there_is_are",
+        "there_are_plural",
+        "there_is_are_negative"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "There",
+          "Here",
+          "Where",
+          "It"
+        ],
+        [
+          "are",
+          "is",
+          "was",
+          "were"
+        ],
+        [
+          "no",
+          "two",
+          "some",
+          "many"
+        ],
+        [
+          "people",
+          "dogs",
+          "cats",
+          "books"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_06_there_is_are/002.mp3"
+    },
+    {
+      "id": "t6_4",
+      "type": "sentenceAssembly",
+      "question": "Воды нет",
+      "correctAnswer": "There is no water",
+      "mistakeTags": [
+        "there_is_are",
+        "there_is_singular",
+        "there_is_are_question"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "There",
+          "Here",
+          "Where",
+          "It"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "has"
+        ],
+        [
+          "no",
+          "some",
+          "much",
+          "any"
+        ],
+        [
+          "water",
+          "milk",
+          "food",
+          "tea"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_06_there_is_are/003.mp3"
+    },
+    {
+      "id": "t6_5",
+      "type": "sentenceAssembly",
+      "question": "Там есть картина",
+      "correctAnswer": "There is a picture",
+      "mistakeTags": [
+        "there_is_are",
+        "there_is_singular"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "There",
+          "Here",
+          "Where",
+          "It"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "has"
+        ],
+        [
+          "a",
+          "the",
+          "my",
+          "one"
+        ],
+        [
+          "picture",
+          "phone",
+          "lamp",
+          "clock"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_06_there_is_are/004.mp3"
+    },
+    {
+      "id": "t6_6",
+      "type": "sentenceAssembly",
+      "question": "Есть ли парки?",
+      "correctAnswer": "Are there any parks?",
+      "mistakeTags": [
+        "there_is_are",
+        "there_are_plural",
+        "there_is_are_question"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "Are",
+          "Is",
+          "Was",
+          "Do"
+        ],
+        [
+          "there",
+          "here",
+          "they",
+          "we"
+        ],
+        [
+          "any",
+          "some",
+          "many",
+          "two"
+        ],
+        [
+          "parks",
+          "shops",
+          "dogs",
+          "cats"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_06_there_is_are/005.mp3"
+    },
+    {
+      "id": "t6_7",
+      "type": "sentenceAssembly",
+      "question": "Там есть кот",
+      "correctAnswer": "There is a cat",
+      "mistakeTags": [
+        "there_is_are",
+        "there_is_singular",
+        "there_is_are_negative"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "There",
+          "Here",
+          "Where",
+          "It"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "has"
+        ],
+        [
+          "a",
+          "the",
+          "my",
+          "one"
+        ],
+        [
+          "cat",
+          "dog",
+          "bird",
+          "fish"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_06_there_is_are/006.mp3"
+    },
+    {
+      "id": "t6_8",
+      "type": "sentenceAssembly",
+      "question": "Там много машин",
+      "correctAnswer": "There are many cars",
+      "mistakeTags": [
+        "there_is_are",
+        "there_is_singular"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "There",
+          "Here",
+          "Where",
+          "It"
+        ],
+        [
+          "are",
+          "is",
+          "was",
+          "were"
+        ],
+        [
+          "many",
+          "two",
+          "some",
+          "no"
+        ],
+        [
+          "cars",
+          "buses",
+          "bikes",
+          "shops"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_06_there_is_are/007.mp3"
+    },
+    {
+      "id": "t6_9",
+      "type": "sentenceAssembly",
+      "question": "Есть немного молока",
+      "correctAnswer": "There is some milk",
+      "mistakeTags": [
+        "there_is_are",
+        "there_are_plural"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "There",
+          "Here",
+          "Where",
+          "It"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "has"
+        ],
+        [
+          "some",
+          "no",
+          "any",
+          "much"
+        ],
+        [
+          "milk",
+          "water",
+          "tea",
+          "food"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_06_there_is_are/008.mp3"
+    },
+    {
+      "id": "t6_10",
+      "type": "sentenceAssembly",
+      "question": "Там три стула",
+      "correctAnswer": "There are three chairs",
+      "mistakeTags": [
+        "there_is_are",
+        "there_is_singular"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "There",
+          "Here",
+          "Where",
+          "It"
+        ],
+        [
+          "are",
+          "is",
+          "was",
+          "were"
+        ],
+        [
+          "three",
+          "two",
+          "five",
+          "many"
+        ],
+        [
+          "chairs",
+          "tables",
+          "beds",
+          "cups"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_06_there_is_are/009.mp3"
+    },
+    {
+      "id": "t6_11",
+      "type": "sentenceAssembly",
+      "question": "Есть ли магазин?",
+      "correctAnswer": "Is there a shop?",
+      "mistakeTags": [
+        "there_is_are",
+        "there_are_plural"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "Is",
+          "Are",
+          "Was",
+          "Do"
+        ],
+        [
+          "there",
+          "here",
+          "it",
+          "that"
+        ],
+        [
+          "a",
+          "the",
+          "any",
+          "some"
+        ],
+        [
+          "shop",
+          "park",
+          "bank",
+          "school"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_06_there_is_are/010.mp3"
+    },
+    {
+      "id": "t6_12",
+      "type": "sentenceAssembly",
+      "question": "Нет времени",
+      "correctAnswer": "There is no time",
+      "mistakeTags": [
+        "there_is_are",
+        "there_are_plural"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "There",
+          "Here",
+          "Where",
+          "It"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "has"
+        ],
+        [
+          "no",
+          "some",
+          "much",
+          "any"
+        ],
+        [
+          "time",
+          "food",
+          "money",
+          "space"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_06_there_is_are/011.mp3"
+    },
+    {
+      "id": "t6_13",
+      "type": "sentenceAssembly",
+      "question": "Есть несколько книг",
+      "correctAnswer": "There are some books",
+      "mistakeTags": [
+        "there_is_are",
+        "there_is_singular"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "There",
+          "Here",
+          "Where",
+          "It"
+        ],
+        [
+          "are",
+          "is",
+          "was",
+          "were"
+        ],
+        [
+          "some",
+          "no",
+          "two",
+          "many"
+        ],
+        [
+          "books",
+          "pens",
+          "bags",
+          "cups"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_06_there_is_are/012.mp3"
+    },
+    {
+      "id": "t6_14",
+      "type": "sentenceAssembly",
+      "question": "Там есть собака",
+      "correctAnswer": "There is a dog",
+      "mistakeTags": [
+        "there_is_are",
+        "there_is_singular",
+        "there_is_are_negative"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "There",
+          "Here",
+          "Where",
+          "It"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "has"
+        ],
+        [
+          "a",
+          "the",
+          "my",
+          "one"
+        ],
+        [
+          "dog",
+          "cat",
+          "bird",
+          "fish"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_06_there_is_are/013.mp3"
+    },
+    {
+      "id": "t6_15",
+      "type": "sentenceAssembly",
+      "question": "Там пять яиц",
+      "correctAnswer": "There are five eggs",
+      "mistakeTags": [
+        "there_is_are",
+        "there_is_singular",
+        "there_is_are_question"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "There",
+          "Here",
+          "Where",
+          "It"
+        ],
+        [
+          "are",
+          "is",
+          "was",
+          "were"
+        ],
+        [
+          "five",
+          "two",
+          "three",
+          "many"
+        ],
+        [
+          "eggs",
+          "cups",
+          "pens",
+          "bags"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_06_there_is_are/014.mp3"
+    },
+    {
+      "id": "t6_16",
+      "type": "sentenceAssembly",
+      "question": "Есть молоко?",
+      "correctAnswer": "Is there any milk?",
+      "mistakeTags": [
+        "there_is_are",
+        "there_are_plural",
+        "there_is_are_negative"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "Is",
+          "Are",
+          "Was",
+          "Do"
+        ],
+        [
+          "there",
+          "here",
+          "it",
+          "that"
+        ],
+        [
+          "any",
+          "some",
+          "much",
+          "no"
+        ],
+        [
+          "milk",
+          "water",
+          "tea",
+          "food"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_06_there_is_are/015.mp3"
+    },
+    {
+      "id": "t6_17",
+      "type": "sentenceAssembly",
+      "question": "Там есть стол",
+      "correctAnswer": "There is a table",
+      "mistakeTags": [
+        "there_is_are",
+        "there_is_singular"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "There",
+          "Here",
+          "Where",
+          "It"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "has"
+        ],
+        [
+          "a",
+          "the",
+          "my",
+          "one"
+        ],
+        [
+          "table",
+          "chair",
+          "desk",
+          "bed"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_06_there_is_are/016.mp3"
+    },
+    {
+      "id": "t6_18",
+      "type": "sentenceAssembly",
+      "question": "Там нет собак",
+      "correctAnswer": "There are no dogs",
+      "mistakeTags": [
+        "there_is_are",
+        "there_are_plural"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "There",
+          "Here",
+          "Where",
+          "It"
+        ],
+        [
+          "are",
+          "is",
+          "was",
+          "were"
+        ],
+        [
+          "no",
+          "two",
+          "some",
+          "many"
+        ],
+        [
+          "dogs",
+          "cats",
+          "birds",
+          "fish"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_06_there_is_are/017.mp3"
+    },
+    {
+      "id": "t6_19",
+      "type": "sentenceAssembly",
+      "question": "Есть немного еды",
+      "correctAnswer": "There is some food",
+      "mistakeTags": [
+        "there_is_are",
+        "there_are_plural",
+        "there_is_are_question"
+      ],
+      "options": [],
+      "variants": [
+        [
+          "There",
+          "Here",
+          "Where",
+          "It"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "has"
+        ],
+        [
+          "some",
+          "no",
+          "any",
+          "much"
+        ],
+        [
+          "food",
+          "water",
+          "milk",
+          "tea"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/beginner_06_there_is_are/018.mp3"
+    },
+    {
+      "id": "t6_20",
+      "type": "sentenceAssembly",
+      "question": "Есть ли сумки?",
+      "correctAnswer": "Are there any bags?",
+      "options": [],
+      "variants": [
+        [
+          "Are",
+          "Is",
+          "Was",
+          "Do"
+        ],
+        [
+          "there",
+          "here",
+          "they",
+          "we"
+        ],
+        [
+          "any",
+          "some",
+          "many",
+          "two"
+        ],
+        [
+          "bags",
+          "books",
+          "cups",
+          "pens"
+        ]
+      ],
+      "mistakeTags": [
+        "there_is_are",
+        "there_is_are_negative"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_06_there_is_are/019.mp3"
+    },
+    {
+      "id": "t6_21",
+      "type": "sentenceAssembly",
+      "question": "Там есть телефон",
+      "correctAnswer": "There is a phone",
+      "options": [],
+      "variants": [
+        [
+          "There",
+          "Here",
+          "Where",
+          "It"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "has"
+        ],
+        [
+          "a",
+          "the",
+          "my",
+          "one"
+        ],
+        [
+          "phone",
+          "book",
+          "key",
+          "lamp"
+        ]
+      ],
+      "mistakeTags": [
+        "there_is_are",
+        "there_is_singular"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_06_there_is_are/020.mp3"
+    },
+    {
+      "id": "t6_22",
+      "type": "sentenceAssembly",
+      "question": "Там четыре комнаты",
+      "correctAnswer": "There are four rooms",
+      "options": [],
+      "variants": [
+        [
+          "There",
+          "Here",
+          "Where",
+          "It"
+        ],
+        [
+          "are",
+          "is",
+          "was",
+          "were"
+        ],
+        [
+          "four",
+          "two",
+          "three",
+          "many"
+        ],
+        [
+          "rooms",
+          "doors",
+          "beds",
+          "chairs"
+        ]
+      ],
+      "mistakeTags": [
+        "there_is_are",
+        "there_is_singular"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_06_there_is_are/021.mp3"
+    },
+    {
+      "id": "t6_23",
+      "type": "sentenceAssembly",
+      "question": "Есть ли банк?",
+      "correctAnswer": "Is there a bank?",
+      "options": [],
+      "variants": [
+        [
+          "Is",
+          "Are",
+          "Was",
+          "Do"
+        ],
+        [
+          "there",
+          "here",
+          "it",
+          "that"
+        ],
+        [
+          "a",
+          "the",
+          "any",
+          "some"
+        ],
+        [
+          "bank",
+          "shop",
+          "park",
+          "school"
+        ]
+      ],
+      "mistakeTags": [
+        "there_is_are",
+        "there_are_plural"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_06_there_is_are/022.mp3"
+    },
+    {
+      "id": "t6_24",
+      "type": "sentenceAssembly",
+      "question": "Денег нет",
+      "correctAnswer": "There is no money",
+      "options": [],
+      "variants": [
+        [
+          "There",
+          "Here",
+          "Where",
+          "It"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "has"
+        ],
+        [
+          "no",
+          "some",
+          "any",
+          "much"
+        ],
+        [
+          "money",
+          "food",
+          "time",
+          "water"
+        ]
+      ],
+      "mistakeTags": [
+        "there_is_are",
+        "there_is_are_question"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_06_there_is_are/023.mp3"
+    },
+    {
+      "id": "t6_25",
+      "type": "sentenceAssembly",
+      "question": "Там много цветов",
+      "correctAnswer": "There are many flowers",
+      "options": [],
+      "variants": [
+        [
+          "There",
+          "Here",
+          "Where",
+          "It"
+        ],
+        [
+          "are",
+          "is",
+          "was",
+          "were"
+        ],
+        [
+          "many",
+          "some",
+          "no",
+          "two"
+        ],
+        [
+          "flowers",
+          "trees",
+          "birds",
+          "stars"
+        ]
+      ],
+      "mistakeTags": [
+        "there_is_are",
+        "there_is_singular"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_06_there_is_are/024.mp3"
+    },
+    {
+      "id": "t6_26",
+      "type": "sentenceAssembly",
+      "question": "Там есть ключ",
+      "correctAnswer": "There is a key",
+      "options": [],
+      "variants": [
+        [
+          "There",
+          "Here",
+          "Where",
+          "It"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "has"
+        ],
+        [
+          "a",
+          "the",
+          "my",
+          "one"
+        ],
+        [
+          "key",
+          "pen",
+          "cup",
+          "bag"
+        ]
+      ],
+      "mistakeTags": [
+        "there_is_are",
+        "there_is_are_question"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_06_there_is_are/025.mp3"
+    },
+    {
+      "id": "t6_27",
+      "type": "sentenceAssembly",
+      "question": "Есть ли дети?",
+      "correctAnswer": "Are there any children?",
+      "options": [],
+      "variants": [
+        [
+          "Are",
+          "Is",
+          "Was",
+          "Do"
+        ],
+        [
+          "there",
+          "here",
+          "they",
+          "we"
+        ],
+        [
+          "any",
+          "some",
+          "many",
+          "two"
+        ],
+        [
+          "children",
+          "people",
+          "dogs",
+          "rooms"
+        ]
+      ],
+      "mistakeTags": [
+        "there_is_are",
+        "there_are_plural"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_06_there_is_are/026.mp3"
+    },
+    {
+      "id": "t6_28",
+      "type": "sentenceAssembly",
+      "question": "Мест нет",
+      "correctAnswer": "There are no seats",
+      "options": [],
+      "variants": [
+        [
+          "There",
+          "Here",
+          "Where",
+          "It"
+        ],
+        [
+          "are",
+          "is",
+          "was",
+          "were"
+        ],
+        [
+          "no",
+          "two",
+          "some",
+          "many"
+        ],
+        [
+          "seats",
+          "rooms",
+          "beds",
+          "chairs"
+        ]
+      ],
+      "mistakeTags": [
+        "there_is_are",
+        "there_is_singular"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_06_there_is_are/027.mp3"
+    },
+    {
+      "id": "t6_29",
+      "type": "sentenceAssembly",
+      "question": "Есть немного кофе",
+      "correctAnswer": "There is some coffee",
+      "options": [],
+      "variants": [
+        [
+          "There",
+          "Here",
+          "Where",
+          "It"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "has"
+        ],
+        [
+          "some",
+          "no",
+          "any",
+          "much"
+        ],
+        [
+          "coffee",
+          "tea",
+          "milk",
+          "water"
+        ]
+      ],
+      "mistakeTags": [
+        "there_is_are",
+        "there_are_plural"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_06_there_is_are/028.mp3"
+    },
+    {
+      "id": "t6_30",
+      "type": "sentenceAssembly",
+      "question": "Там десять студентов",
+      "correctAnswer": "There are ten students",
+      "options": [],
+      "variants": [
+        [
+          "There",
+          "Here",
+          "Where",
+          "It"
+        ],
+        [
+          "are",
+          "is",
+          "was",
+          "were"
+        ],
+        [
+          "ten",
+          "two",
+          "five",
+          "many"
+        ],
+        [
+          "students",
+          "people",
+          "children",
+          "workers"
+        ]
+      ],
+      "mistakeTags": [
+        "there_is_are",
+        "there_is_are_question"
+      ],
+      "audioPath": "assets/audio/grammar/beginner_06_there_is_are/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionBeginner06ThereIsAre",
+  "theoryQuiz": [
+    {
+      "id": "tq_01",
+      "type": "trueFalse",
+      "question": "\"There is\" используется с существительными в единственном числе.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "There is + единственное число: There is a book on the table."
+    },
+    {
+      "id": "tq_02",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"There ___ three cats in the garden.\"",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "correctIndex": 1,
+      "explanation": "Three cats — множественное число, поэтому используется There are."
+    },
+    {
+      "id": "tq_03",
+      "type": "multipleChoice",
+      "question": "Для чего используется конструкция There is / There are?",
+      "options": [
+        "Чтобы описать действие",
+        "Чтобы сказать, что что-то где-то есть",
+        "Чтобы задать вопрос о времени",
+        "Чтобы сравнить предметы"
+      ],
+      "correctIndex": 1,
+      "explanation": "There is/are используется, чтобы сообщить о наличии или существовании чего-либо."
+    },
+    {
+      "id": "tq_04",
+      "type": "trueFalse",
+      "question": "\"There are a dog in the park.\" — предложение составлено правильно.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "A dog — единственное число, нужно There is: There is a dog in the park."
+    },
+    {
+      "id": "tq_05",
+      "type": "multipleChoice",
+      "question": "Как образуется отрицание с There is?",
+      "options": [
+        "There not is",
+        "There is not / There isn't",
+        "There don't is",
+        "There no is"
+      ],
+      "correctIndex": 1,
+      "explanation": "Отрицание: There is not (There isn't) / There are not (There aren't)."
+    },
+    {
+      "id": "tq_06",
+      "type": "trueFalse",
+      "question": "\"There aren't any chairs in the room.\" — предложение составлено правильно.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "There aren't + множественное число — верная отрицательная конструкция."
+    },
+    {
+      "id": "tq_07",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"There ___ a big park near my house.\"",
+      "options": [
+        "are",
+        "is",
+        "am",
+        "been"
+      ],
+      "correctIndex": 1,
+      "explanation": "A big park — единственное число, поэтому There is."
+    },
+    {
+      "id": "tq_08",
+      "type": "multipleChoice",
+      "question": "Выберите правильное предложение:",
+      "options": [
+        "There is five apples.",
+        "There are a car outside.",
+        "There is a problem.",
+        "There are a student in the class."
+      ],
+      "correctIndex": 2,
+      "explanation": "A problem — единственное число, There is верно. В остальных нарушено согласование числа."
+    },
+    {
+      "id": "tq_09",
+      "type": "trueFalse",
+      "question": "\"There isn't\" — это сокращённая форма от \"There is not\".",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "There isn't = There is not, There aren't = There are not."
+    },
+    {
+      "id": "tq_10",
+      "type": "multipleChoice",
+      "question": "Как правильно перевести: «В городе нет метро»?",
+      "options": [
+        "There aren't a metro in the city.",
+        "There isn't a metro in the city.",
+        "There not is metro in the city.",
+        "There is no metro the city."
+      ],
+      "correctIndex": 1,
+      "explanation": "Metro — единственное число, поэтому There isn't a metro in the city."
+    }
+  ]
+}

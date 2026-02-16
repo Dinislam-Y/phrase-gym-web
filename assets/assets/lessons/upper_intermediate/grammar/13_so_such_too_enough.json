@@ -1,0 +1,1939 @@
+{
+  "id": "upper_13_so_such_too_enough",
+  "title": "So / Such / Too / Enough",
+  "description": "Усилители и ограничители: so beautiful, such a nice day, too expensive, old enough.",
+  "order": 13,
+  "level": "upper_intermediate",
+  "imageUrl": "assets/images/lessons/so_such_too_enough.png",
+  "vocabulary": [
+    {
+      "id": "v13_expensive",
+      "english": "expensive",
+      "russian": "дорогой (о цене)",
+      "partOfSpeech": "adjective",
+      "example": "This hotel is too expensive for us.",
+      "exampleTranslation": "Этот отель слишком дорогой для нас.",
+      "audioPath": "assets/audio/vocabulary/v13_expensive.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_expensive.mp3"
+    },
+    {
+      "id": "v13_complicated",
+      "english": "complicated",
+      "russian": "сложный, запутанный",
+      "partOfSpeech": "adjective",
+      "example": "The instructions were so complicated.",
+      "exampleTranslation": "Инструкции были такими сложными.",
+      "audioPath": "assets/audio/vocabulary/v13_complicated.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_complicated.mp3"
+    },
+    {
+      "id": "v13_talented",
+      "english": "talented",
+      "russian": "талантливый",
+      "partOfSpeech": "adjective",
+      "example": "She is such a talented musician.",
+      "exampleTranslation": "Она такой талантливый музыкант.",
+      "audioPath": "assets/audio/vocabulary/v13_talented.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_talented.mp3"
+    },
+    {
+      "id": "v13_exhausted",
+      "english": "exhausted",
+      "russian": "измотанный, истощённый",
+      "partOfSpeech": "adjective",
+      "example": "I was so exhausted after the trip.",
+      "exampleTranslation": "Я был так измотан после поездки.",
+      "audioPath": "assets/audio/vocabulary/v13_exhausted.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_exhausted.mp3"
+    },
+    {
+      "id": "v13_mature",
+      "english": "mature",
+      "russian": "зрелый, взрослый",
+      "partOfSpeech": "adjective",
+      "example": "He is mature enough to make decisions.",
+      "exampleTranslation": "Он достаточно зрелый, чтобы принимать решения.",
+      "audioPath": "assets/audio/vocabulary/v13_mature.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_mature.mp3"
+    },
+    {
+      "id": "v13_impressive",
+      "english": "impressive",
+      "russian": "впечатляющий",
+      "partOfSpeech": "adjective",
+      "example": "It was such an impressive performance.",
+      "exampleTranslation": "Это было такое впечатляющее выступление.",
+      "audioPath": "assets/audio/vocabulary/v13_impressive.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_impressive.mp3"
+    },
+    {
+      "id": "v13_ridiculous",
+      "english": "ridiculous",
+      "russian": "нелепый, смехотворный",
+      "partOfSpeech": "adjective",
+      "example": "The price was so ridiculous.",
+      "exampleTranslation": "Цена была такой нелепой.",
+      "audioPath": "assets/audio/vocabulary/v13_ridiculous.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_ridiculous.mp3"
+    },
+    {
+      "id": "v13_narrow",
+      "english": "narrow",
+      "russian": "узкий",
+      "partOfSpeech": "adjective",
+      "example": "The road was too narrow for trucks.",
+      "exampleTranslation": "Дорога была слишком узкой для грузовиков.",
+      "audioPath": "assets/audio/vocabulary/v13_narrow.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_narrow.mp3"
+    },
+    {
+      "id": "v13_generous",
+      "english": "generous",
+      "russian": "щедрый",
+      "partOfSpeech": "adjective",
+      "example": "He is such a generous person.",
+      "exampleTranslation": "Он такой щедрый человек.",
+      "audioPath": "assets/audio/vocabulary/v13_generous.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_generous.mp3"
+    },
+    {
+      "id": "v13_confident",
+      "english": "confident",
+      "russian": "уверенный (в себе)",
+      "partOfSpeech": "adjective",
+      "example": "She is confident enough to speak in public.",
+      "exampleTranslation": "Она достаточно уверена, чтобы выступать публично.",
+      "audioPath": "assets/audio/vocabulary/v13_confident.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_confident.mp3"
+    },
+    {
+      "id": "v13_crowded",
+      "english": "crowded",
+      "russian": "переполненный, людный",
+      "partOfSpeech": "adjective",
+      "example": "The train was too crowded to sit down.",
+      "exampleTranslation": "Поезд был слишком переполнен, чтобы сесть.",
+      "audioPath": "assets/audio/vocabulary/v13_crowded.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_crowded.mp3"
+    },
+    {
+      "id": "v13_rare",
+      "english": "rare",
+      "russian": "редкий",
+      "partOfSpeech": "adjective",
+      "example": "It was such a rare opportunity.",
+      "exampleTranslation": "Это была такая редкая возможность.",
+      "audioPath": "assets/audio/vocabulary/v13_rare.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_rare.mp3"
+    },
+    {
+      "id": "v13_obvious",
+      "english": "obvious",
+      "russian": "очевидный",
+      "partOfSpeech": "adjective",
+      "example": "The mistake was so obvious.",
+      "exampleTranslation": "Ошибка была такой очевидной.",
+      "audioPath": "assets/audio/vocabulary/v13_obvious.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_obvious.mp3"
+    },
+    {
+      "id": "v13_patience",
+      "english": "patience",
+      "russian": "терпение",
+      "partOfSpeech": "noun",
+      "example": "She has enough patience to teach children.",
+      "exampleTranslation": "У неё достаточно терпения, чтобы учить детей.",
+      "audioPath": "assets/audio/vocabulary/v13_patience.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_patience.mp3"
+    },
+    {
+      "id": "v13_experience",
+      "english": "experience",
+      "russian": "опыт",
+      "partOfSpeech": "noun",
+      "example": "He doesn't have enough experience for the job.",
+      "exampleTranslation": "У него недостаточно опыта для этой работы.",
+      "audioPath": "assets/audio/vocabulary/v13_experience.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_experience.mp3"
+    },
+    {
+      "id": "v13_handle",
+      "english": "handle",
+      "russian": "справляться",
+      "partOfSpeech": "verb",
+      "example": "The problem was too difficult to handle.",
+      "exampleTranslation": "Проблема была слишком сложной, чтобы с ней справиться.",
+      "audioPath": "assets/audio/vocabulary/v13_handle.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_handle.mp3"
+    },
+    {
+      "id": "v13_afford",
+      "english": "afford",
+      "russian": "позволить себе",
+      "partOfSpeech": "verb",
+      "example": "We don't earn enough to afford this apartment.",
+      "exampleTranslation": "Мы зарабатываем недостаточно, чтобы позволить себе эту квартиру.",
+      "audioPath": "assets/audio/vocabulary/v13_afford.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_afford.mp3"
+    },
+    {
+      "id": "v13_breathtaking",
+      "english": "breathtaking",
+      "russian": "захватывающий дух",
+      "partOfSpeech": "adjective",
+      "example": "The view was so breathtaking.",
+      "exampleTranslation": "Вид был таким захватывающим.",
+      "audioPath": "assets/audio/vocabulary/v13_breathtaking.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v13_breathtaking.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "So / Such / Too / Enough",
+    "subtitle": "Эти слова усиливают или ограничивают значение прилагательных и существительных. Они помогают выразить степень качества и его последствия.",
+    "construction": {
+      "formula": "so + adj | such + (a) + noun | too + adj + to | adj + enough + to",
+      "rules": [
+        {
+          "word": "so + прилагательное",
+          "description": "Усиление прилагательного: It was so beautiful (Это было так красиво). Часто с that: so... that."
+        },
+        {
+          "word": "such + (a/an) + существительное",
+          "description": "Усиление существительного: Such a nice day! (Такой хороший день!) С неисчисляемыми без артикля: such good weather."
+        },
+        {
+          "word": "too + прилагательное",
+          "description": "Чрезмерность (негативный оттенок): It's too expensive (Это слишком дорого). Часто с to: too... to."
+        },
+        {
+          "word": "прилагательное + enough",
+          "description": "Достаточность: He is old enough to drive (Он достаточно взрослый, чтобы водить). Enough стоит ПОСЛЕ прилагательного."
+        },
+        {
+          "word": "enough + существительное",
+          "description": "Достаточность с существительным: We have enough money (У нас достаточно денег). Enough стоит ПЕРЕД существительным."
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "star",
+        "color": "purple",
+        "title": "Восхищение (so / such)",
+        "description": "Когда хотите подчеркнуть сильную степень качества.",
+        "example": {
+          "english": "It was such a wonderful experience!",
+          "russian": "Это был такой замечательный опыт!"
+        }
+      },
+      {
+        "icon": "bolt",
+        "color": "orange",
+        "title": "Чрезмерность (too)",
+        "description": "Когда чего-то слишком много и это мешает.",
+        "example": {
+          "english": "The coffee is too hot to drink.",
+          "russian": "Кофе слишком горячий, чтобы пить."
+        }
+      },
+      {
+        "icon": "check_circle",
+        "color": "green",
+        "title": "Достаточность (enough)",
+        "description": "Когда чего-то хватает для определённой цели.",
+        "example": {
+          "english": "She is experienced enough to lead the team.",
+          "russian": "Она достаточно опытна, чтобы возглавить команду."
+        }
+      }
+    ],
+    "markers": [
+      "so... that",
+      "such... that",
+      "too... to",
+      "enough... to",
+      "not enough"
+    ]
+  },
+  "theoryQuiz": [
+    {
+      "id": "tq_13_01",
+      "type": "multipleChoice",
+      "question": "Какое слово ставится перед прилагательным для усиления?",
+      "options": [
+        "such",
+        "so",
+        "too",
+        "enough"
+      ],
+      "correctIndex": 1,
+      "explanation": "So ставится перед прилагательным: so beautiful, so interesting."
+    },
+    {
+      "id": "tq_13_02",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"It was ___ a beautiful day!\"",
+      "options": [
+        "so",
+        "such",
+        "too",
+        "enough"
+      ],
+      "correctIndex": 1,
+      "explanation": "Перед a/an + существительным используется such: such a beautiful day."
+    },
+    {
+      "id": "tq_13_03",
+      "type": "trueFalse",
+      "question": "\"The coffee is enough hot\" — правильный порядок слов.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "Enough стоит ПОСЛЕ прилагательного: The coffee is hot enough."
+    },
+    {
+      "id": "tq_13_04",
+      "type": "multipleChoice",
+      "question": "\"Too\" в контексте \"too expensive\" означает...",
+      "options": [
+        "достаточно дорогой",
+        "очень дорогой (восхищение)",
+        "слишком дорогой (негативно)",
+        "недостаточно дорогой"
+      ],
+      "correctIndex": 2,
+      "explanation": "Too указывает на чрезмерность с негативным оттенком: слишком дорогой."
+    },
+    {
+      "id": "tq_13_05",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"He is old ___ to drive.\"",
+      "options": [
+        "so",
+        "such",
+        "too",
+        "enough"
+      ],
+      "correctIndex": 3,
+      "explanation": "Enough после прилагательного: old enough to drive."
+    },
+    {
+      "id": "tq_13_06",
+      "type": "trueFalse",
+      "question": "\"Such good weather\" — правильное выражение (без артикля).",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Weather — неисчисляемое существительное, поэтому артикль не нужен: such good weather."
+    },
+    {
+      "id": "tq_13_07",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"We don't have ___ money to buy it.\"",
+      "options": [
+        "so",
+        "such",
+        "too",
+        "enough"
+      ],
+      "correctIndex": 3,
+      "explanation": "Enough перед существительным: enough money."
+    },
+    {
+      "id": "tq_13_08",
+      "type": "multipleChoice",
+      "question": "Как правильно: «Это было так скучно, что я ушёл»?",
+      "options": [
+        "It was such boring that I left.",
+        "It was so boring that I left.",
+        "It was too boring that I left.",
+        "It was enough boring that I left."
+      ],
+      "correctIndex": 1,
+      "explanation": "So + прилагательное + that: It was so boring that I left."
+    },
+    {
+      "id": "tq_13_09",
+      "type": "trueFalse",
+      "question": "\"So\" и \"such\" можно использовать взаимозаменяемо.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "So стоит перед прилагательным (so nice), а such перед существительным (such a nice day). Они не взаимозаменяемы."
+    },
+    {
+      "id": "tq_13_10",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"The water was ___ cold ___ swim in.\"",
+      "options": [
+        "so / that",
+        "such / that",
+        "too / to",
+        "enough / to"
+      ],
+      "correctIndex": 2,
+      "explanation": "Too + прилагательное + to + глагол: too cold to swim in."
+    }
+  ],
+  "tasks": [
+    {
+      "id": "t13_1",
+      "type": "sentenceAssembly",
+      "question": "Это было так красиво",
+      "correctAnswer": "It was so beautiful",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "He",
+          "She",
+          "This"
+        ],
+        [
+          "was",
+          "is",
+          "were",
+          "has been"
+        ],
+        [
+          "so",
+          "such",
+          "too",
+          "very",
+          "enough"
+        ],
+        [
+          "beautiful",
+          "beauty",
+          "beautifully",
+          "beautifuller"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_13_so_such_too_enough/000.mp3"
+    },
+    {
+      "id": "t13_2",
+      "type": "sentenceAssembly",
+      "question": "Такой хороший день!",
+      "correctAnswer": "Such a nice day",
+      "options": [],
+      "variants": [
+        [
+          "Such",
+          "So",
+          "Too",
+          "Very",
+          "Enough"
+        ],
+        [
+          "a",
+          "the",
+          "an",
+          "this"
+        ],
+        [
+          "nice",
+          "nicer",
+          "nicely",
+          "nicest"
+        ],
+        [
+          "day",
+          "time",
+          "weather",
+          "morning"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_13_so_such_too_enough/001.mp3"
+    },
+    {
+      "id": "t13_3",
+      "type": "sentenceAssembly",
+      "question": "Это слишком дорого для нас",
+      "correctAnswer": "It is too expensive for us",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "He",
+          "This",
+          "That"
+        ],
+        [
+          "is",
+          "was",
+          "are",
+          "were"
+        ],
+        [
+          "too",
+          "so",
+          "such",
+          "very",
+          "enough"
+        ],
+        [
+          "expensive",
+          "cheap",
+          "expensively",
+          "expensiver"
+        ],
+        [
+          "for",
+          "to",
+          "at",
+          "with"
+        ],
+        [
+          "us",
+          "we",
+          "our",
+          "them"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_13_so_such_too_enough/002.mp3"
+    },
+    {
+      "id": "t13_4",
+      "type": "sentenceAssembly",
+      "question": "Он достаточно взрослый, чтобы водить машину",
+      "correctAnswer": "He is old enough to drive",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "I",
+          "They",
+          "Him"
+        ],
+        [
+          "is",
+          "was",
+          "are",
+          "were"
+        ],
+        [
+          "old",
+          "young",
+          "big",
+          "tall"
+        ],
+        [
+          "enough",
+          "too",
+          "so",
+          "such",
+          "very"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "drive",
+          "driving",
+          "drove",
+          "driven"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_13_so_such_too_enough/003.mp3"
+    },
+    {
+      "id": "t13_5",
+      "type": "sentenceAssembly",
+      "question": "Она такой талантливый музыкант",
+      "correctAnswer": "She is such a talented musician",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "They",
+          "Her"
+        ],
+        [
+          "is",
+          "was",
+          "are",
+          "were"
+        ],
+        [
+          "such",
+          "so",
+          "too",
+          "very",
+          "enough"
+        ],
+        [
+          "a",
+          "the",
+          "an",
+          "this"
+        ],
+        [
+          "talented",
+          "talent",
+          "talentedly",
+          "talentful"
+        ],
+        [
+          "musician",
+          "singer",
+          "artist",
+          "player"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_13_so_such_too_enough/004.mp3"
+    },
+    {
+      "id": "t13_6",
+      "type": "sentenceAssembly",
+      "question": "Кофе слишком горячий, чтобы пить",
+      "correctAnswer": "The coffee is too hot to drink",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "This",
+          "That"
+        ],
+        [
+          "coffee",
+          "tea",
+          "water",
+          "soup"
+        ],
+        [
+          "is",
+          "was",
+          "are",
+          "were"
+        ],
+        [
+          "too",
+          "so",
+          "such",
+          "very",
+          "enough"
+        ],
+        [
+          "hot",
+          "cold",
+          "warm",
+          "hotly"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "drink",
+          "drinking",
+          "drank",
+          "drunk"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_13_so_such_too_enough/005.mp3"
+    },
+    {
+      "id": "t13_7",
+      "type": "sentenceAssembly",
+      "question": "У нас достаточно денег",
+      "correctAnswer": "We have enough money",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "I",
+          "He",
+          "Us"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        [
+          "enough",
+          "too",
+          "so",
+          "such",
+          "many"
+        ],
+        [
+          "money",
+          "moneys",
+          "cash",
+          "funds"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_13_so_such_too_enough/006.mp3"
+    },
+    {
+      "id": "t13_8",
+      "type": "sentenceAssembly",
+      "question": "Фильм был таким скучным, что я ушёл",
+      "correctAnswer": "The film was so boring that I left",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "This",
+          "That"
+        ],
+        [
+          "film",
+          "movie",
+          "show",
+          "play"
+        ],
+        [
+          "was",
+          "is",
+          "were",
+          "has been"
+        ],
+        [
+          "so",
+          "such",
+          "too",
+          "very",
+          "enough"
+        ],
+        [
+          "boring",
+          "bored",
+          "boringly",
+          "bore"
+        ],
+        [
+          "that",
+          "than",
+          "then",
+          "what"
+        ],
+        [
+          "I",
+          "he",
+          "she",
+          "we"
+        ],
+        [
+          "left",
+          "leave",
+          "leaving",
+          "leaved"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_13_so_such_too_enough/007.mp3"
+    },
+    {
+      "id": "t13_9",
+      "type": "sentenceAssembly",
+      "question": "Это был такой впечатляющий концерт",
+      "correctAnswer": "It was such an impressive concert",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "He",
+          "This",
+          "That"
+        ],
+        [
+          "was",
+          "is",
+          "were",
+          "has been"
+        ],
+        [
+          "such",
+          "so",
+          "too",
+          "very",
+          "enough"
+        ],
+        [
+          "an",
+          "a",
+          "the",
+          "this"
+        ],
+        [
+          "impressive",
+          "impressed",
+          "impressively",
+          "impression"
+        ],
+        [
+          "concert",
+          "show",
+          "performance",
+          "event"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_13_so_such_too_enough/008.mp3"
+    },
+    {
+      "id": "t13_10",
+      "type": "sentenceAssembly",
+      "question": "Дорога слишком узкая для грузовиков",
+      "correctAnswer": "The road is too narrow for trucks",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "This",
+          "That"
+        ],
+        [
+          "road",
+          "street",
+          "path",
+          "bridge"
+        ],
+        [
+          "is",
+          "was",
+          "are",
+          "were"
+        ],
+        [
+          "too",
+          "so",
+          "such",
+          "very",
+          "enough"
+        ],
+        [
+          "narrow",
+          "wide",
+          "narrowly",
+          "narrower"
+        ],
+        [
+          "for",
+          "to",
+          "at",
+          "with"
+        ],
+        [
+          "trucks",
+          "cars",
+          "buses",
+          "bikes"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_13_so_such_too_enough/009.mp3"
+    },
+    {
+      "id": "t13_11",
+      "type": "sentenceAssembly",
+      "question": "Он так устал, что не мог говорить",
+      "correctAnswer": "He was so tired that he couldn't speak",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "I",
+          "They",
+          "Him"
+        ],
+        [
+          "was",
+          "is",
+          "were",
+          "has been"
+        ],
+        [
+          "so",
+          "such",
+          "too",
+          "very",
+          "enough"
+        ],
+        [
+          "tired",
+          "tiring",
+          "tiredly",
+          "tiredness"
+        ],
+        [
+          "that",
+          "than",
+          "then",
+          "what"
+        ],
+        [
+          "he",
+          "she",
+          "I",
+          "they"
+        ],
+        [
+          "couldn't",
+          "can't",
+          "won't",
+          "didn't",
+          "wouldn't"
+        ],
+        [
+          "speak",
+          "spoke",
+          "speaking",
+          "spoken"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_13_so_such_too_enough/010.mp3"
+    },
+    {
+      "id": "t13_12",
+      "type": "sentenceAssembly",
+      "question": "Это была такая хорошая погода",
+      "correctAnswer": "It was such good weather",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "This",
+          "That",
+          "There"
+        ],
+        [
+          "was",
+          "is",
+          "were",
+          "has been"
+        ],
+        [
+          "such",
+          "so",
+          "too",
+          "very",
+          "a such"
+        ],
+        [
+          "good",
+          "nice",
+          "well",
+          "great"
+        ],
+        [
+          "weather",
+          "a weather",
+          "the weather",
+          "weathers"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_13_so_such_too_enough/011.mp3"
+    },
+    {
+      "id": "t13_13",
+      "type": "sentenceAssembly",
+      "question": "У неё достаточно терпения, чтобы учить детей",
+      "correctAnswer": "She has enough patience to teach children",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "They",
+          "Her"
+        ],
+        [
+          "has",
+          "have",
+          "had",
+          "having"
+        ],
+        [
+          "enough",
+          "too",
+          "so",
+          "such",
+          "many"
+        ],
+        [
+          "patience",
+          "patient",
+          "patiently",
+          "patients"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "teach",
+          "teaching",
+          "taught",
+          "teaches"
+        ],
+        [
+          "children",
+          "kids",
+          "students",
+          "pupils"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_13_so_such_too_enough/012.mp3"
+    },
+    {
+      "id": "t13_14",
+      "type": "sentenceAssembly",
+      "question": "Поезд был слишком переполнен, чтобы сесть",
+      "correctAnswer": "The train was too crowded to sit down",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "This",
+          "That"
+        ],
+        [
+          "train",
+          "bus",
+          "plane",
+          "metro"
+        ],
+        [
+          "was",
+          "is",
+          "were",
+          "has been"
+        ],
+        [
+          "too",
+          "so",
+          "such",
+          "very",
+          "enough"
+        ],
+        [
+          "crowded",
+          "crowd",
+          "crowdedly",
+          "crowding"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "sit",
+          "sat",
+          "sitting",
+          "seats"
+        ],
+        [
+          "down",
+          "up",
+          "in",
+          "on"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_13_so_such_too_enough/013.mp3"
+    },
+    {
+      "id": "t13_15",
+      "type": "sentenceAssembly",
+      "question": "Он такой щедрый человек",
+      "correctAnswer": "He is such a generous person",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "I",
+          "They",
+          "Him"
+        ],
+        [
+          "is",
+          "was",
+          "are",
+          "were"
+        ],
+        [
+          "such",
+          "so",
+          "too",
+          "very",
+          "enough"
+        ],
+        [
+          "a",
+          "the",
+          "an",
+          "this"
+        ],
+        [
+          "generous",
+          "generously",
+          "generosity",
+          "genrous"
+        ],
+        [
+          "person",
+          "man",
+          "human",
+          "people"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_13_so_such_too_enough/014.mp3"
+    },
+    {
+      "id": "t13_16",
+      "type": "sentenceAssembly",
+      "question": "Ошибка была такой очевидной",
+      "correctAnswer": "The mistake was so obvious",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "This",
+          "That"
+        ],
+        [
+          "mistake",
+          "error",
+          "problem",
+          "issue"
+        ],
+        [
+          "was",
+          "is",
+          "were",
+          "has been"
+        ],
+        [
+          "so",
+          "such",
+          "too",
+          "very",
+          "enough"
+        ],
+        [
+          "obvious",
+          "obviously",
+          "clear",
+          "evident"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_13_so_such_too_enough/015.mp3"
+    },
+    {
+      "id": "t13_17",
+      "type": "sentenceAssembly",
+      "question": "У него недостаточно опыта для этой работы",
+      "correctAnswer": "He doesn't have enough experience for this job",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "I",
+          "They",
+          "Him"
+        ],
+        [
+          "doesn't",
+          "don't",
+          "didn't",
+          "won't",
+          "isn't"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        [
+          "enough",
+          "too",
+          "so",
+          "such",
+          "many"
+        ],
+        [
+          "experience",
+          "experienced",
+          "experiences",
+          "experiencing"
+        ],
+        [
+          "for",
+          "to",
+          "at",
+          "in"
+        ],
+        [
+          "this",
+          "the",
+          "a",
+          "that"
+        ],
+        [
+          "job",
+          "work",
+          "position",
+          "role"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_13_so_such_too_enough/016.mp3"
+    },
+    {
+      "id": "t13_18",
+      "type": "sentenceAssembly",
+      "question": "Вид был так захватывающ, что мы остановились",
+      "correctAnswer": "The view was so breathtaking that we stopped",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "This",
+          "That"
+        ],
+        [
+          "view",
+          "scene",
+          "sight",
+          "picture"
+        ],
+        [
+          "was",
+          "is",
+          "were",
+          "has been"
+        ],
+        [
+          "so",
+          "such",
+          "too",
+          "very",
+          "enough"
+        ],
+        [
+          "breathtaking",
+          "breathtaken",
+          "breathtakingly",
+          "amazing"
+        ],
+        [
+          "that",
+          "than",
+          "then",
+          "what"
+        ],
+        [
+          "we",
+          "they",
+          "he",
+          "she"
+        ],
+        [
+          "stopped",
+          "stop",
+          "stopping",
+          "stops"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_13_so_such_too_enough/017.mp3"
+    },
+    {
+      "id": "t13_19",
+      "type": "sentenceAssembly",
+      "question": "Это была такая редкая возможность",
+      "correctAnswer": "It was such a rare opportunity",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "This",
+          "That",
+          "There"
+        ],
+        [
+          "was",
+          "is",
+          "were",
+          "has been"
+        ],
+        [
+          "such",
+          "so",
+          "too",
+          "very",
+          "enough"
+        ],
+        [
+          "a",
+          "the",
+          "an",
+          "this"
+        ],
+        [
+          "rare",
+          "rarely",
+          "rarest",
+          "rarer"
+        ],
+        [
+          "opportunity",
+          "chance",
+          "moment",
+          "occasion"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_13_so_such_too_enough/018.mp3"
+    },
+    {
+      "id": "t13_20",
+      "type": "sentenceAssembly",
+      "question": "Она достаточно уверена, чтобы выступать публично",
+      "correctAnswer": "She is confident enough to speak publicly",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "I",
+          "They",
+          "Her"
+        ],
+        [
+          "is",
+          "was",
+          "are",
+          "were"
+        ],
+        [
+          "confident",
+          "confidence",
+          "confidently",
+          "confidentful"
+        ],
+        [
+          "enough",
+          "too",
+          "so",
+          "such",
+          "very"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "speak",
+          "speaking",
+          "spoke",
+          "spoken"
+        ],
+        [
+          "publicly",
+          "public",
+          "in public",
+          "openly"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_13_so_such_too_enough/019.mp3"
+    },
+    {
+      "id": "t13_21",
+      "type": "sentenceAssembly",
+      "question": "Было так холодно, что мы остались дома",
+      "correctAnswer": "It was so cold that we stayed home",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "This",
+          "That",
+          "There"
+        ],
+        [
+          "was",
+          "is",
+          "were",
+          "has been"
+        ],
+        [
+          "so",
+          "such",
+          "too",
+          "very",
+          "enough"
+        ],
+        [
+          "cold",
+          "coldly",
+          "colder",
+          "coldest"
+        ],
+        [
+          "that",
+          "than",
+          "then",
+          "what"
+        ],
+        [
+          "we",
+          "they",
+          "he",
+          "she"
+        ],
+        [
+          "stayed",
+          "stay",
+          "staying",
+          "stays"
+        ],
+        [
+          "home",
+          "house",
+          "inside",
+          "indoors"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_13_so_such_too_enough/020.mp3"
+    },
+    {
+      "id": "t13_22",
+      "type": "sentenceAssembly",
+      "question": "Цена была такой нелепой, что мы ушли",
+      "correctAnswer": "The price was so ridiculous that we left",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "This",
+          "That"
+        ],
+        [
+          "price",
+          "cost",
+          "bill",
+          "rate"
+        ],
+        [
+          "was",
+          "is",
+          "were",
+          "has been"
+        ],
+        [
+          "so",
+          "such",
+          "too",
+          "very",
+          "enough"
+        ],
+        [
+          "ridiculous",
+          "ridiculously",
+          "ridicule",
+          "absurd"
+        ],
+        [
+          "that",
+          "than",
+          "then",
+          "what"
+        ],
+        [
+          "we",
+          "they",
+          "he",
+          "she"
+        ],
+        [
+          "left",
+          "leave",
+          "leaving",
+          "leaved"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_13_so_such_too_enough/021.mp3"
+    },
+    {
+      "id": "t13_23",
+      "type": "sentenceAssembly",
+      "question": "Он слишком молод, чтобы работать здесь",
+      "correctAnswer": "He is too young to work here",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "I",
+          "They",
+          "Him"
+        ],
+        [
+          "is",
+          "was",
+          "are",
+          "were"
+        ],
+        [
+          "too",
+          "so",
+          "such",
+          "very",
+          "enough"
+        ],
+        [
+          "young",
+          "old",
+          "small",
+          "youngly"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "work",
+          "working",
+          "worked",
+          "works"
+        ],
+        [
+          "here",
+          "there",
+          "now",
+          "today"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_13_so_such_too_enough/022.mp3"
+    },
+    {
+      "id": "t13_24",
+      "type": "sentenceAssembly",
+      "question": "Проблема была слишком сложной, чтобы с ней справиться",
+      "correctAnswer": "The problem was too difficult to handle",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "This",
+          "That"
+        ],
+        [
+          "problem",
+          "issue",
+          "task",
+          "question"
+        ],
+        [
+          "was",
+          "is",
+          "were",
+          "has been"
+        ],
+        [
+          "too",
+          "so",
+          "such",
+          "very",
+          "enough"
+        ],
+        [
+          "difficult",
+          "easy",
+          "difficultly",
+          "harder"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "handle",
+          "handled",
+          "handling",
+          "handles"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_13_so_such_too_enough/023.mp3"
+    },
+    {
+      "id": "t13_25",
+      "type": "sentenceAssembly",
+      "question": "Мы зарабатываем недостаточно, чтобы позволить себе это",
+      "correctAnswer": "We don't earn enough to afford it",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "I",
+          "He",
+          "Us"
+        ],
+        [
+          "don't",
+          "doesn't",
+          "didn't",
+          "won't",
+          "aren't"
+        ],
+        [
+          "earn",
+          "earns",
+          "earned",
+          "earning"
+        ],
+        [
+          "enough",
+          "too",
+          "so",
+          "such",
+          "much"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "afford",
+          "afforded",
+          "affording",
+          "affords"
+        ],
+        [
+          "it",
+          "this",
+          "that",
+          "them"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_13_so_such_too_enough/024.mp3"
+    },
+    {
+      "id": "t13_26",
+      "type": "sentenceAssembly",
+      "question": "Они были такими добрыми людьми",
+      "correctAnswer": "They were such kind people",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "We",
+          "He",
+          "She",
+          "Them"
+        ],
+        [
+          "were",
+          "was",
+          "are",
+          "is"
+        ],
+        [
+          "such",
+          "so",
+          "too",
+          "very",
+          "enough"
+        ],
+        [
+          "kind",
+          "kindly",
+          "kinder",
+          "kindest"
+        ],
+        [
+          "people",
+          "persons",
+          "humans",
+          "a people"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_13_so_such_too_enough/025.mp3"
+    },
+    {
+      "id": "t13_27",
+      "type": "sentenceAssembly",
+      "question": "Инструкции были такими сложными, что никто не понял",
+      "correctAnswer": "The instructions were so complicated that nobody understood",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "These",
+          "Those",
+          "Some"
+        ],
+        [
+          "instructions",
+          "directions",
+          "rules",
+          "guidelines"
+        ],
+        [
+          "were",
+          "was",
+          "are",
+          "is"
+        ],
+        [
+          "so",
+          "such",
+          "too",
+          "very",
+          "enough"
+        ],
+        [
+          "complicated",
+          "complicatedly",
+          "complex",
+          "simple"
+        ],
+        [
+          "that",
+          "than",
+          "then",
+          "what"
+        ],
+        [
+          "nobody",
+          "no one",
+          "everyone",
+          "somebody"
+        ],
+        [
+          "understood",
+          "understand",
+          "understanding",
+          "understands"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_13_so_such_too_enough/026.mp3"
+    },
+    {
+      "id": "t13_28",
+      "type": "sentenceAssembly",
+      "question": "Он достаточно зрелый, чтобы принимать решения",
+      "correctAnswer": "He is mature enough to make decisions",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "She",
+          "I",
+          "They",
+          "Him"
+        ],
+        [
+          "is",
+          "was",
+          "are",
+          "were"
+        ],
+        [
+          "mature",
+          "maturely",
+          "maturer",
+          "maturity"
+        ],
+        [
+          "enough",
+          "too",
+          "so",
+          "such",
+          "very"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "make",
+          "making",
+          "made",
+          "makes"
+        ],
+        [
+          "decisions",
+          "decision",
+          "choices",
+          "plans"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_13_so_such_too_enough/027.mp3"
+    },
+    {
+      "id": "t13_29",
+      "type": "sentenceAssembly",
+      "question": "Шум был таким сильным, что мы не могли спать",
+      "correctAnswer": "The noise was so loud that we couldn't sleep",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "This",
+          "That"
+        ],
+        [
+          "noise",
+          "sound",
+          "music",
+          "voice"
+        ],
+        [
+          "was",
+          "is",
+          "were",
+          "has been"
+        ],
+        [
+          "so",
+          "such",
+          "too",
+          "very",
+          "enough"
+        ],
+        [
+          "loud",
+          "loudly",
+          "louder",
+          "loudest"
+        ],
+        [
+          "that",
+          "than",
+          "then",
+          "what"
+        ],
+        [
+          "we",
+          "they",
+          "he",
+          "she"
+        ],
+        [
+          "couldn't",
+          "can't",
+          "won't",
+          "didn't"
+        ],
+        [
+          "sleep",
+          "slept",
+          "sleeping",
+          "sleeps"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_13_so_such_too_enough/028.mp3"
+    },
+    {
+      "id": "t13_30",
+      "type": "sentenceAssembly",
+      "question": "У нас недостаточно времени, чтобы закончить проект",
+      "correctAnswer": "We don't have enough time to finish the project",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "I",
+          "He",
+          "Us"
+        ],
+        [
+          "don't",
+          "doesn't",
+          "didn't",
+          "won't"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        [
+          "enough",
+          "too",
+          "so",
+          "such",
+          "many"
+        ],
+        [
+          "time",
+          "times",
+          "timing",
+          "timed"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "finish",
+          "finished",
+          "finishing",
+          "finishes"
+        ],
+        [
+          "the",
+          "a",
+          "this",
+          "our"
+        ],
+        [
+          "project",
+          "work",
+          "task",
+          "assignment"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/upper_13_so_such_too_enough/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionUpperIntermediate13SoSuchTooEnough"
+}

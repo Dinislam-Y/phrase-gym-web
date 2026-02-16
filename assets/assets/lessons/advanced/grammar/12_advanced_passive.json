@@ -1,0 +1,2461 @@
+{
+  "id": "advanced_12_advanced_passive",
+  "title": "Advanced Passive: Impersonal Structures",
+  "description": "Безличный пассив: It is said that..., He is believed to be..., She is known to have... Газетный стиль.",
+  "order": 12,
+  "level": "advanced",
+  "imageUrl": "assets/images/lessons/advanced_passive.png",
+  "vocabulary": [
+    {
+      "id": "v12_alleged",
+      "english": "alleged",
+      "russian": "предполагаемый, якобы",
+      "partOfSpeech": "adjective",
+      "example": "He is alleged to have committed the crime.",
+      "exampleTranslation": "Предположительно, он совершил преступление.",
+      "audioPath": "assets/audio/vocabulary/v12_alleged.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_alleged.mp3"
+    },
+    {
+      "id": "v12_believe",
+      "english": "believe",
+      "russian": "полагать, считать",
+      "partOfSpeech": "verb",
+      "example": "It is believed that the company will merge.",
+      "exampleTranslation": "Считается, что компания объединится.",
+      "audioPath": "assets/audio/vocabulary/v12_believe.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_believe.mp3"
+    },
+    {
+      "id": "v12_consider",
+      "english": "consider",
+      "russian": "считать, рассматривать",
+      "partOfSpeech": "verb",
+      "example": "She is considered to be the best candidate.",
+      "exampleTranslation": "Она считается лучшим кандидатом.",
+      "audioPath": "assets/audio/vocabulary/v12_consider.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_consider.mp3"
+    },
+    {
+      "id": "v12_estimate",
+      "english": "estimate",
+      "russian": "оценивать, подсчитывать",
+      "partOfSpeech": "verb",
+      "example": "It is estimated that costs will rise.",
+      "exampleTranslation": "По оценкам, расходы вырастут.",
+      "audioPath": "assets/audio/vocabulary/v12_estimate.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_estimate.mp3"
+    },
+    {
+      "id": "v12_expect",
+      "english": "expect",
+      "russian": "ожидать, предполагать",
+      "partOfSpeech": "verb",
+      "example": "He is expected to resign soon.",
+      "exampleTranslation": "Ожидается, что он скоро уйдёт в отставку.",
+      "audioPath": "assets/audio/vocabulary/v12_expect.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_expect.mp3"
+    },
+    {
+      "id": "v12_know",
+      "english": "know",
+      "russian": "знать, быть известным",
+      "partOfSpeech": "verb",
+      "example": "She is known to have extensive experience.",
+      "exampleTranslation": "Известно, что у неё обширный опыт.",
+      "audioPath": "assets/audio/vocabulary/v12_know.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_know.mp3"
+    },
+    {
+      "id": "v12_report",
+      "english": "report",
+      "russian": "сообщать, докладывать",
+      "partOfSpeech": "verb",
+      "example": "It is reported that the talks have failed.",
+      "exampleTranslation": "Сообщается, что переговоры провалились.",
+      "audioPath": "assets/audio/vocabulary/v12_report.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_report.mp3"
+    },
+    {
+      "id": "v12_say",
+      "english": "say",
+      "russian": "говорить, утверждать",
+      "partOfSpeech": "verb",
+      "example": "It is said that practice makes perfect.",
+      "exampleTranslation": "Говорят, что практика ведёт к совершенству.",
+      "audioPath": "assets/audio/vocabulary/v12_say.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_say.mp3"
+    },
+    {
+      "id": "v12_suppose",
+      "english": "suppose",
+      "russian": "предполагать, полагать",
+      "partOfSpeech": "verb",
+      "example": "He is supposed to arrive by noon.",
+      "exampleTranslation": "Предполагается, что он приедет к полудню.",
+      "audioPath": "assets/audio/vocabulary/v12_suppose.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_suppose.mp3"
+    },
+    {
+      "id": "v12_think",
+      "english": "think",
+      "russian": "думать, полагать",
+      "partOfSpeech": "verb",
+      "example": "It is thought that the virus originated in Asia.",
+      "exampleTranslation": "Считается, что вирус зародился в Азии.",
+      "audioPath": "assets/audio/vocabulary/v12_think.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_think.mp3"
+    },
+    {
+      "id": "v12_understand",
+      "english": "understand",
+      "russian": "насколько известно",
+      "partOfSpeech": "verb",
+      "example": "It is understood that negotiations are ongoing.",
+      "exampleTranslation": "Насколько известно, переговоры продолжаются.",
+      "audioPath": "assets/audio/vocabulary/v12_understand.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_understand.mp3"
+    },
+    {
+      "id": "v12_claim",
+      "english": "claim",
+      "russian": "утверждать, заявлять",
+      "partOfSpeech": "verb",
+      "example": "It is claimed that the product is safe.",
+      "exampleTranslation": "Утверждается, что продукт безопасен.",
+      "audioPath": "assets/audio/vocabulary/v12_claim.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_claim.mp3"
+    },
+    {
+      "id": "v12_assume",
+      "english": "assume",
+      "russian": "предполагать, допускать",
+      "partOfSpeech": "verb",
+      "example": "It is assumed that all candidates are qualified.",
+      "exampleTranslation": "Предполагается, что все кандидаты квалифицированы.",
+      "audioPath": "assets/audio/vocabulary/v12_assume.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_assume.mp3"
+    },
+    {
+      "id": "v12_acknowledge",
+      "english": "acknowledge",
+      "russian": "признавать",
+      "partOfSpeech": "verb",
+      "example": "It is widely acknowledged that education is key.",
+      "exampleTranslation": "Широко признано, что образование — ключевой фактор.",
+      "audioPath": "assets/audio/vocabulary/v12_acknowledge.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_acknowledge.mp3"
+    },
+    {
+      "id": "v12_rumor",
+      "english": "rumor",
+      "russian": "слух, молва",
+      "partOfSpeech": "noun",
+      "example": "He is rumored to be leaving the company.",
+      "exampleTranslation": "Ходят слухи, что он покидает компанию.",
+      "audioPath": "assets/audio/vocabulary/v12_rumor.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_rumor.mp3"
+    },
+    {
+      "id": "v12_impersonal",
+      "english": "impersonal",
+      "russian": "безличный",
+      "partOfSpeech": "adjective",
+      "example": "Impersonal structures are common in academic writing.",
+      "exampleTranslation": "Безличные конструкции типичны для академического письма.",
+      "audioPath": "assets/audio/vocabulary/v12_impersonal.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_impersonal.mp3"
+    },
+    {
+      "id": "v12_allegedly",
+      "english": "allegedly",
+      "russian": "предположительно, якобы",
+      "partOfSpeech": "adverb",
+      "example": "He allegedly stole the documents.",
+      "exampleTranslation": "Он якобы украл документы.",
+      "audioPath": "assets/audio/vocabulary/v12_allegedly.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_allegedly.mp3"
+    },
+    {
+      "id": "v12_ongoing",
+      "english": "ongoing",
+      "russian": "продолжающийся, текущий",
+      "partOfSpeech": "adjective",
+      "example": "The investigation is ongoing.",
+      "exampleTranslation": "Расследование продолжается.",
+      "audioPath": "assets/audio/vocabulary/v12_ongoing.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v12_ongoing.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "Advanced Passive: Impersonal Structures",
+    "subtitle": "Безличные пассивные конструкции позволяют сообщать информацию, не называя источник. Это язык новостей, академических статей и официальных документов.",
+    "construction": {
+      "formula": "It is + V3 + that... | S + is + V3 + to + V",
+      "rules": [
+        {
+          "word": "It is said/believed/known that...",
+          "description": "Безличная конструкция: It is said that he is rich = Говорят, что он богат."
+        },
+        {
+          "word": "S + is said/believed + to + V",
+          "description": "Личная конструкция: He is said to be rich = Говорят, что он богат."
+        },
+        {
+          "word": "S + is said + to have + V3",
+          "description": "Для прошедших действий: She is known to have left = Известно, что она уехала."
+        },
+        {
+          "word": "Глаголы-триггеры",
+          "description": "say, believe, think, know, report, expect, consider, suppose, allege, claim, assume, understand, estimate, rumor."
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "visibility",
+        "color": "blue",
+        "title": "Новости и журналистика",
+        "description": "Для сообщения фактов без указания конкретного источника.",
+        "example": {
+          "english": "It is reported that the president will visit next week.",
+          "russian": "Сообщается, что президент приедет на следующей неделе."
+        }
+      },
+      {
+        "icon": "star",
+        "color": "purple",
+        "title": "Академическое письмо",
+        "description": "Для обезличенного, объективного тона в научных текстах.",
+        "example": {
+          "english": "It is widely acknowledged that climate change is accelerating.",
+          "russian": "Широко признано, что изменение климата ускоряется."
+        }
+      },
+      {
+        "icon": "handshake",
+        "color": "orange",
+        "title": "Официальные документы",
+        "description": "Для формального, дистанцированного стиля.",
+        "example": {
+          "english": "The applicant is expected to submit all documents by Friday.",
+          "russian": "Ожидается, что заявитель подаст все документы до пятницы."
+        }
+      },
+      {
+        "icon": "bolt",
+        "color": "green",
+        "title": "Слухи и предположения",
+        "description": "Для передачи неподтверждённой информации.",
+        "example": {
+          "english": "He is rumored to be negotiating a new contract.",
+          "russian": "Ходят слухи, что он ведёт переговоры о новом контракте."
+        }
+      }
+    ],
+    "markers": [
+      "it is said that",
+      "it is believed that",
+      "it is reported that",
+      "is known to",
+      "is expected to",
+      "is considered to be",
+      "is supposed to",
+      "it is thought that"
+    ]
+  },
+  "theoryQuiz": [
+    {
+      "id": "tq_12_01",
+      "type": "multipleChoice",
+      "question": "Какая конструкция является безличной (impersonal)? ",
+      "options": [
+        "He said that...",
+        "It is said that...",
+        "They say that...",
+        "People believe that..."
+      ],
+      "correctIndex": 1,
+      "explanation": "It is said that... — безличная пассивная конструкция. Источник информации не указан."
+    },
+    {
+      "id": "tq_12_02",
+      "type": "multipleChoice",
+      "question": "Преобразуйте: \"People believe he is guilty\" → личная конструкция.",
+      "options": [
+        "He is believed to be guilty.",
+        "He believed to be guilty.",
+        "He believes to be guilty.",
+        "He was believed be guilty."
+      ],
+      "correctIndex": 0,
+      "explanation": "People believe he is guilty → He is believed to be guilty. Подлежащее + is believed + to be."
+    },
+    {
+      "id": "tq_12_03",
+      "type": "trueFalse",
+      "question": "\"It is known that she has left\" и \"She is known to have left\" означают одно и то же.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Обе конструкции передают одну информацию: известно, что она уехала. Разница только в структуре."
+    },
+    {
+      "id": "tq_12_04",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"He ___ to have stolen the painting.\"",
+      "options": [
+        "is alleged",
+        "alleged",
+        "alleges",
+        "was alleging"
+      ],
+      "correctIndex": 0,
+      "explanation": "He is alleged to have + V3 — личная конструкция с Perfect infinitive для прошлого действия."
+    },
+    {
+      "id": "tq_12_05",
+      "type": "multipleChoice",
+      "question": "Какой инфинитив используется для прошлых действий в этих конструкциях?",
+      "options": [
+        "to + V1",
+        "to be + V-ing",
+        "to have + V3",
+        "to be + V3"
+      ],
+      "correctIndex": 2,
+      "explanation": "To have + V3 (Perfect infinitive) указывает, что действие произошло раньше: is known to have left."
+    },
+    {
+      "id": "tq_12_06",
+      "type": "trueFalse",
+      "question": "\"It is estimated that costs will rise\" можно преобразовать в \"Costs are estimated to rise\".",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "It is estimated that costs will rise = Costs are estimated to rise. Will → to + V1."
+    },
+    {
+      "id": "tq_12_07",
+      "type": "multipleChoice",
+      "question": "В каком стиле чаще всего используются безличные пассивные конструкции?",
+      "options": [
+        "Разговорный",
+        "Детский",
+        "Академический и журналистский",
+        "Поэтический"
+      ],
+      "correctIndex": 2,
+      "explanation": "Безличные конструкции типичны для академического письма, новостей и официальных документов."
+    },
+    {
+      "id": "tq_12_08",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"It ___ that the company will merge next year.\"",
+      "options": [
+        "believes",
+        "is believed",
+        "believed",
+        "believing"
+      ],
+      "correctIndex": 1,
+      "explanation": "It is believed that... — стандартная безличная пассивная конструкция."
+    },
+    {
+      "id": "tq_12_09",
+      "type": "trueFalse",
+      "question": "\"He is supposed to arrive\" означает «его предполагают прибыть» (ожидается, что он приедет).",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Is supposed to = ожидается / предполагается. He is supposed to arrive = Ожидается, что он приедет."
+    },
+    {
+      "id": "tq_12_10",
+      "type": "multipleChoice",
+      "question": "Какой глагол НЕ используется в безличных пассивных конструкциях?",
+      "options": [
+        "believe",
+        "report",
+        "enjoy",
+        "consider"
+      ],
+      "correctIndex": 2,
+      "explanation": "Enjoy — глагол удовольствия, не используется в безличных конструкциях типа It is enjoyed that..."
+    }
+  ],
+  "tasks": [
+    {
+      "id": "t12_1",
+      "type": "sentenceAssembly",
+      "question": "Говорят, что практика ведёт к совершенству",
+      "correctAnswer": "It is said that practice makes perfect",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "There",
+          "That",
+          "This"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "said",
+          "say",
+          "saying",
+          "says"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "how"
+        ],
+        [
+          "practice",
+          "practices",
+          "practical",
+          "practicing"
+        ],
+        [
+          "makes",
+          "make",
+          "made",
+          "making"
+        ],
+        [
+          "perfect",
+          "perfectly",
+          "perfection",
+          "perfected"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_12_advanced_passive/000.mp3"
+    },
+    {
+      "id": "t12_2",
+      "type": "sentenceAssembly",
+      "question": "Считается, что он лучший специалист в этой области",
+      "correctAnswer": "He is considered to be the best specialist in this field",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "Him",
+          "His",
+          "She"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "considered",
+          "consider",
+          "considers",
+          "considering"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "be",
+          "is",
+          "was",
+          "been"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "best",
+          "better",
+          "good",
+          "greatest"
+        ],
+        [
+          "specialist",
+          "specialists",
+          "special",
+          "specialty"
+        ],
+        [
+          "in",
+          "on",
+          "at",
+          "for"
+        ],
+        [
+          "this",
+          "that",
+          "the",
+          "a"
+        ],
+        [
+          "field",
+          "fields",
+          "filed",
+          "fill"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_12_advanced_passive/001.mp3"
+    },
+    {
+      "id": "t12_3",
+      "type": "sentenceAssembly",
+      "question": "Сообщается, что переговоры провалились",
+      "correctAnswer": "It is reported that the negotiations have failed completely",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "There",
+          "That",
+          "This"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "reported",
+          "report",
+          "reports",
+          "reporting"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "how"
+        ],
+        [
+          "the",
+          "a",
+          "these",
+          "those"
+        ],
+        [
+          "negotiations",
+          "negotiation",
+          "negotiating",
+          "negotiated"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        [
+          "failed",
+          "fail",
+          "fails",
+          "failing"
+        ],
+        [
+          "completely",
+          "complete",
+          "totally",
+          "fully"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_12_advanced_passive/002.mp3"
+    },
+    {
+      "id": "t12_4",
+      "type": "sentenceAssembly",
+      "question": "Ожидается, что он уйдёт в отставку в ближайшее время",
+      "correctAnswer": "He is expected to resign in the near future",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "Him",
+          "His",
+          "She"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "expected",
+          "expect",
+          "expects",
+          "expecting"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "resign",
+          "resigns",
+          "resigned",
+          "resigning"
+        ],
+        [
+          "in",
+          "on",
+          "at",
+          "for"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "near",
+          "nearly",
+          "nearest",
+          "nearer"
+        ],
+        [
+          "future",
+          "futures",
+          "furthered",
+          "further"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_12_advanced_passive/003.mp3"
+    },
+    {
+      "id": "t12_5",
+      "type": "sentenceAssembly",
+      "question": "Известно, что у неё обширный опыт работы",
+      "correctAnswer": "She is known to have extensive professional experience",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "Her",
+          "They"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "known",
+          "know",
+          "knows",
+          "knowing"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        [
+          "extensive",
+          "extend",
+          "extended",
+          "extensively"
+        ],
+        [
+          "professional",
+          "profession",
+          "professionally",
+          "professor"
+        ],
+        [
+          "experience",
+          "experiences",
+          "experienced",
+          "experiencing"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_12_advanced_passive/004.mp3"
+    },
+    {
+      "id": "t12_6",
+      "type": "sentenceAssembly",
+      "question": "Считается, что изменение климата ускоряется",
+      "correctAnswer": "It is thought that climate change is accelerating rapidly",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "There",
+          "That",
+          "This"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "thought",
+          "think",
+          "thinks",
+          "thinking"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "how"
+        ],
+        [
+          "climate",
+          "climatic",
+          "climates",
+          "clime"
+        ],
+        [
+          "change",
+          "changes",
+          "changed",
+          "changing"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "accelerating",
+          "accelerate",
+          "accelerated",
+          "acceleration"
+        ],
+        [
+          "rapidly",
+          "rapid",
+          "slowly",
+          "gradually"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_12_advanced_passive/005.mp3"
+    },
+    {
+      "id": "t12_7",
+      "type": "sentenceAssembly",
+      "question": "Предположительно, он совершил это преступление",
+      "correctAnswer": "He is alleged to have committed the crime",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "Him",
+          "His",
+          "She"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "alleged",
+          "allege",
+          "alleges",
+          "alleging"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        [
+          "committed",
+          "commit",
+          "commits",
+          "committing"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "crime",
+          "crimes",
+          "criminal",
+          "criminally"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_12_advanced_passive/006.mp3"
+    },
+    {
+      "id": "t12_8",
+      "type": "sentenceAssembly",
+      "question": "По оценкам, расходы вырастут на двадцать процентов",
+      "correctAnswer": "It is estimated that costs will rise by twenty percent",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "There",
+          "That",
+          "This"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "estimated",
+          "estimate",
+          "estimates",
+          "estimating"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "how"
+        ],
+        [
+          "costs",
+          "cost",
+          "costing",
+          "costly"
+        ],
+        [
+          "will",
+          "would",
+          "shall",
+          "should"
+        ],
+        [
+          "rise",
+          "rises",
+          "risen",
+          "rising"
+        ],
+        [
+          "by",
+          "on",
+          "at",
+          "for"
+        ],
+        [
+          "twenty",
+          "twelve",
+          "ten",
+          "thirty"
+        ],
+        [
+          "percent",
+          "percentage",
+          "percents",
+          "per"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_12_advanced_passive/007.mp3"
+    },
+    {
+      "id": "t12_9",
+      "type": "sentenceAssembly",
+      "question": "Предполагается, что он приедет к полудню",
+      "correctAnswer": "He is supposed to arrive by noon at the latest",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "Him",
+          "His",
+          "She"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "supposed",
+          "suppose",
+          "supposes",
+          "supposing"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "arrive",
+          "arrives",
+          "arrived",
+          "arriving"
+        ],
+        [
+          "by",
+          "at",
+          "on",
+          "in"
+        ],
+        [
+          "noon",
+          "morning",
+          "night",
+          "evening"
+        ],
+        [
+          "at",
+          "by",
+          "in",
+          "on"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "latest",
+          "later",
+          "last",
+          "late"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_12_advanced_passive/008.mp3"
+    },
+    {
+      "id": "t12_10",
+      "type": "sentenceAssembly",
+      "question": "Насколько известно, переговоры продолжаются",
+      "correctAnswer": "It is understood that the negotiations are still ongoing",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "There",
+          "That",
+          "This"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "understood",
+          "understand",
+          "understands",
+          "understanding"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "how"
+        ],
+        [
+          "the",
+          "a",
+          "these",
+          "those"
+        ],
+        [
+          "negotiations",
+          "negotiation",
+          "negotiating",
+          "negotiate"
+        ],
+        [
+          "are",
+          "is",
+          "was",
+          "were"
+        ],
+        [
+          "still",
+          "yet",
+          "already",
+          "always"
+        ],
+        [
+          "ongoing",
+          "going",
+          "on",
+          "continued"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_12_advanced_passive/009.mp3"
+    },
+    {
+      "id": "t12_11",
+      "type": "sentenceAssembly",
+      "question": "Утверждается, что этот продукт полностью безопасен",
+      "correctAnswer": "It is claimed that this product is entirely safe",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "There",
+          "That",
+          "This"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "claimed",
+          "claim",
+          "claims",
+          "claiming"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "how"
+        ],
+        [
+          "this",
+          "that",
+          "the",
+          "a"
+        ],
+        [
+          "product",
+          "products",
+          "produce",
+          "producing"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "entirely",
+          "entire",
+          "totally",
+          "wholly"
+        ],
+        [
+          "safe",
+          "safely",
+          "safety",
+          "saved"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_12_advanced_passive/010.mp3"
+    },
+    {
+      "id": "t12_12",
+      "type": "sentenceAssembly",
+      "question": "Ходят слухи, что он ведёт переговоры о новом контракте",
+      "correctAnswer": "He is rumored to be negotiating a new contract",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "Him",
+          "His",
+          "She"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "rumored",
+          "rumor",
+          "rumors",
+          "rumoring"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "be",
+          "is",
+          "was",
+          "been"
+        ],
+        [
+          "negotiating",
+          "negotiate",
+          "negotiated",
+          "negotiation"
+        ],
+        [
+          "a",
+          "the",
+          "an",
+          "this"
+        ],
+        [
+          "new",
+          "newly",
+          "newer",
+          "newest"
+        ],
+        [
+          "contract",
+          "contacts",
+          "contracts",
+          "contraction"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_12_advanced_passive/011.mp3"
+    },
+    {
+      "id": "t12_13",
+      "type": "sentenceAssembly",
+      "question": "Предполагается, что все кандидаты имеют необходимую квалификацию",
+      "correctAnswer": "It is assumed that all candidates possess the necessary qualifications",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "There",
+          "That",
+          "This"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "assumed",
+          "assume",
+          "assumes",
+          "assuming"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "how"
+        ],
+        [
+          "all",
+          "every",
+          "each",
+          "any"
+        ],
+        [
+          "candidates",
+          "candidate",
+          "candidacy",
+          "candid"
+        ],
+        [
+          "possess",
+          "possesses",
+          "possessed",
+          "possessing"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "these"
+        ],
+        [
+          "necessary",
+          "necessarily",
+          "necessity",
+          "needless"
+        ],
+        [
+          "qualifications",
+          "qualification",
+          "qualified",
+          "qualifying"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_12_advanced_passive/012.mp3"
+    },
+    {
+      "id": "t12_14",
+      "type": "sentenceAssembly",
+      "question": "Широко признано, что образование является ключевым фактором",
+      "correctAnswer": "It is widely acknowledged that education is a key factor",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "There",
+          "That",
+          "This"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "widely",
+          "wide",
+          "wider",
+          "widest"
+        ],
+        [
+          "acknowledged",
+          "acknowledge",
+          "acknowledges",
+          "acknowledging"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "how"
+        ],
+        [
+          "education",
+          "educate",
+          "educated",
+          "educational"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "a",
+          "the",
+          "an",
+          "one"
+        ],
+        [
+          "key",
+          "keys",
+          "keyed",
+          "keying"
+        ],
+        [
+          "factor",
+          "factors",
+          "factored",
+          "factoring"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_12_advanced_passive/013.mp3"
+    },
+    {
+      "id": "t12_15",
+      "type": "sentenceAssembly",
+      "question": "Известно, что она покинула страну в прошлом году",
+      "correctAnswer": "She is known to have left the country last year",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "Her",
+          "They"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "known",
+          "know",
+          "knows",
+          "knowing"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        [
+          "left",
+          "leave",
+          "leaves",
+          "leaving"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "country",
+          "countries",
+          "county",
+          "counter"
+        ],
+        [
+          "last",
+          "past",
+          "previous",
+          "latest"
+        ],
+        [
+          "year",
+          "years",
+          "month",
+          "week"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_12_advanced_passive/014.mp3"
+    },
+    {
+      "id": "t12_16",
+      "type": "sentenceAssembly",
+      "question": "Сообщается, что президент посетит конференцию на следующей неделе",
+      "correctAnswer": "It is reported that the president will attend the conference next week",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "There",
+          "That",
+          "This"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "reported",
+          "report",
+          "reports",
+          "reporting"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "how"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "president",
+          "presidents",
+          "presidential",
+          "presidency"
+        ],
+        [
+          "will",
+          "would",
+          "shall",
+          "should"
+        ],
+        [
+          "attend",
+          "attends",
+          "attended",
+          "attending"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "conference",
+          "conferences",
+          "conferring",
+          "conferred"
+        ],
+        [
+          "next",
+          "last",
+          "this",
+          "that"
+        ],
+        [
+          "week",
+          "weeks",
+          "month",
+          "year"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_12_advanced_passive/015.mp3"
+    },
+    {
+      "id": "t12_17",
+      "type": "sentenceAssembly",
+      "question": "Считается, что этот метод более эффективен",
+      "correctAnswer": "This method is considered to be more effective than others",
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "That",
+          "The",
+          "A"
+        ],
+        [
+          "method",
+          "methods",
+          "methodology",
+          "methodical"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "considered",
+          "consider",
+          "considers",
+          "considering"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "be",
+          "is",
+          "was",
+          "been"
+        ],
+        [
+          "more",
+          "most",
+          "much",
+          "many"
+        ],
+        [
+          "effective",
+          "effectively",
+          "effect",
+          "efficiency"
+        ],
+        [
+          "than",
+          "then",
+          "that",
+          "this"
+        ],
+        [
+          "others",
+          "other",
+          "another",
+          "else"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_12_advanced_passive/016.mp3"
+    },
+    {
+      "id": "t12_18",
+      "type": "sentenceAssembly",
+      "question": "По имеющимся данным, вирус зародился в Азии",
+      "correctAnswer": "It is thought that the virus originated in Southeast Asia",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "There",
+          "That",
+          "This"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "thought",
+          "think",
+          "thinks",
+          "thinking"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "how"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "virus",
+          "viruses",
+          "viral",
+          "virtually"
+        ],
+        [
+          "originated",
+          "originate",
+          "originates",
+          "originating"
+        ],
+        [
+          "in",
+          "on",
+          "at",
+          "from"
+        ],
+        [
+          "Southeast",
+          "South",
+          "Eastern",
+          "Northern"
+        ],
+        [
+          "Asia",
+          "Africa",
+          "Europe",
+          "America"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_12_advanced_passive/017.mp3"
+    },
+    {
+      "id": "t12_19",
+      "type": "sentenceAssembly",
+      "question": "Ожидается, что новый закон вступит в силу в январе",
+      "correctAnswer": "The new law is expected to come into effect in January",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "This",
+          "That"
+        ],
+        [
+          "new",
+          "newly",
+          "newer",
+          "newest"
+        ],
+        [
+          "law",
+          "laws",
+          "lawyer",
+          "legal"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "expected",
+          "expect",
+          "expects",
+          "expecting"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "come",
+          "comes",
+          "came",
+          "coming"
+        ],
+        [
+          "into",
+          "in",
+          "to",
+          "onto"
+        ],
+        [
+          "effect",
+          "effects",
+          "effective",
+          "affect"
+        ],
+        [
+          "in",
+          "on",
+          "at",
+          "by"
+        ],
+        [
+          "January",
+          "February",
+          "March",
+          "December"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_12_advanced_passive/018.mp3"
+    },
+    {
+      "id": "t12_20",
+      "type": "sentenceAssembly",
+      "question": "Считается, что древние египтяне изобрели бумагу",
+      "correctAnswer": "The ancient Egyptians are believed to have invented paper",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "Those",
+          "These"
+        ],
+        [
+          "ancient",
+          "anciently",
+          "old",
+          "antique"
+        ],
+        [
+          "Egyptians",
+          "Egyptian",
+          "Egypt",
+          "Egyption"
+        ],
+        [
+          "are",
+          "is",
+          "was",
+          "were"
+        ],
+        [
+          "believed",
+          "believe",
+          "believes",
+          "believing"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        [
+          "invented",
+          "invent",
+          "invents",
+          "inventing"
+        ],
+        [
+          "paper",
+          "papers",
+          "papery",
+          "papyrus"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_12_advanced_passive/019.mp3"
+    },
+    {
+      "id": "t12_21",
+      "type": "sentenceAssembly",
+      "question": "Предположительно, он подделал финансовые документы компании",
+      "correctAnswer": "He is alleged to have forged the company financial documents",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "Him",
+          "His",
+          "She"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "alleged",
+          "allege",
+          "alleges",
+          "alleging"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        [
+          "forged",
+          "forge",
+          "forges",
+          "forging"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "company",
+          "companies",
+          "companion",
+          "compact"
+        ],
+        [
+          "financial",
+          "finance",
+          "financially",
+          "financed"
+        ],
+        [
+          "documents",
+          "document",
+          "documented",
+          "documenting"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_12_advanced_passive/020.mp3"
+    },
+    {
+      "id": "t12_22",
+      "type": "sentenceAssembly",
+      "question": "Известно, что этот учёный опубликовал более ста статей",
+      "correctAnswer": "This scientist is known to have published over a hundred articles",
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "That",
+          "The",
+          "A"
+        ],
+        [
+          "scientist",
+          "scientists",
+          "science",
+          "scientific"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "known",
+          "know",
+          "knows",
+          "knowing"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        [
+          "published",
+          "publish",
+          "publishes",
+          "publishing"
+        ],
+        [
+          "over",
+          "above",
+          "more",
+          "beyond"
+        ],
+        [
+          "a",
+          "the",
+          "one",
+          "an"
+        ],
+        [
+          "hundred",
+          "hundreds",
+          "hundredth",
+          "thousand"
+        ],
+        [
+          "articles",
+          "article",
+          "articled",
+          "articulate"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_12_advanced_passive/021.mp3"
+    },
+    {
+      "id": "t12_23",
+      "type": "sentenceAssembly",
+      "question": "Сообщается, что число пострадавших продолжает расти",
+      "correctAnswer": "It is reported that the number of victims continues to grow",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "There",
+          "That",
+          "This"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "reported",
+          "report",
+          "reports",
+          "reporting"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "how"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "number",
+          "numbers",
+          "numbered",
+          "numbering"
+        ],
+        [
+          "of",
+          "for",
+          "from",
+          "by"
+        ],
+        [
+          "victims",
+          "victim",
+          "victimized",
+          "victimizing"
+        ],
+        [
+          "continues",
+          "continue",
+          "continued",
+          "continuing"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "grow",
+          "grows",
+          "grew",
+          "growing"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_12_advanced_passive/022.mp3"
+    },
+    {
+      "id": "t12_24",
+      "type": "sentenceAssembly",
+      "question": "По оценкам, население вырастет до десяти миллиардов",
+      "correctAnswer": "The population is estimated to reach ten billion by century end",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "This",
+          "That"
+        ],
+        [
+          "population",
+          "populations",
+          "populous",
+          "popular"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "estimated",
+          "estimate",
+          "estimates",
+          "estimating"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "reach",
+          "reaches",
+          "reached",
+          "reaching"
+        ],
+        [
+          "ten",
+          "two",
+          "five",
+          "eight"
+        ],
+        [
+          "billion",
+          "billions",
+          "million",
+          "thousand"
+        ],
+        [
+          "by",
+          "at",
+          "in",
+          "on"
+        ],
+        [
+          "century",
+          "centuries",
+          "centennial",
+          "center"
+        ],
+        [
+          "end",
+          "ends",
+          "ended",
+          "ending"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_12_advanced_passive/023.mp3"
+    },
+    {
+      "id": "t12_25",
+      "type": "sentenceAssembly",
+      "question": "Считается, что чтение улучшает когнитивные способности",
+      "correctAnswer": "Reading is believed to improve cognitive abilities over time",
+      "options": [],
+      "variants": [
+        [
+          "Reading",
+          "Read",
+          "Reads",
+          "Reader"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "believed",
+          "believe",
+          "believes",
+          "believing"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "improve",
+          "improves",
+          "improved",
+          "improving"
+        ],
+        [
+          "cognitive",
+          "cognition",
+          "cognitively",
+          "recognitive"
+        ],
+        [
+          "abilities",
+          "ability",
+          "able",
+          "ably"
+        ],
+        [
+          "over",
+          "in",
+          "at",
+          "for"
+        ],
+        [
+          "time",
+          "times",
+          "timing",
+          "timely"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_12_advanced_passive/024.mp3"
+    },
+    {
+      "id": "t12_26",
+      "type": "sentenceAssembly",
+      "question": "Ожидается, что эта технология изменит рынок через пять лет",
+      "correctAnswer": "This technology is expected to transform the market within five years",
+      "options": [],
+      "variants": [
+        [
+          "This",
+          "That",
+          "The",
+          "A"
+        ],
+        [
+          "technology",
+          "technologies",
+          "technological",
+          "technically"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "expected",
+          "expect",
+          "expects",
+          "expecting"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "transform",
+          "transforms",
+          "transformed",
+          "transforming"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "market",
+          "markets",
+          "marketing",
+          "marketed"
+        ],
+        [
+          "within",
+          "in",
+          "at",
+          "by"
+        ],
+        [
+          "five",
+          "three",
+          "ten",
+          "two"
+        ],
+        [
+          "years",
+          "year",
+          "months",
+          "decades"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_12_advanced_passive/025.mp3"
+    },
+    {
+      "id": "t12_27",
+      "type": "sentenceAssembly",
+      "question": "Признано, что эта проблема требует немедленного внимания",
+      "correctAnswer": "It is acknowledged that this issue requires immediate attention",
+      "options": [],
+      "variants": [
+        [
+          "It",
+          "There",
+          "That",
+          "This"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "acknowledged",
+          "acknowledge",
+          "acknowledges",
+          "acknowledging"
+        ],
+        [
+          "that",
+          "what",
+          "which",
+          "how"
+        ],
+        [
+          "this",
+          "that",
+          "the",
+          "a"
+        ],
+        [
+          "issue",
+          "issues",
+          "issued",
+          "issuing"
+        ],
+        [
+          "requires",
+          "require",
+          "required",
+          "requiring"
+        ],
+        [
+          "immediate",
+          "immediately",
+          "imminent",
+          "immense"
+        ],
+        [
+          "attention",
+          "attentions",
+          "attentive",
+          "attending"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_12_advanced_passive/026.mp3"
+    },
+    {
+      "id": "t12_28",
+      "type": "sentenceAssembly",
+      "question": "Предполагается, что он работал на иностранную разведку",
+      "correctAnswer": "He is supposed to have worked for a foreign intelligence agency",
+      "options": [],
+      "variants": [
+        [
+          "He",
+          "Him",
+          "His",
+          "She"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "supposed",
+          "suppose",
+          "supposes",
+          "supposing"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        [
+          "worked",
+          "work",
+          "works",
+          "working"
+        ],
+        [
+          "for",
+          "to",
+          "at",
+          "in"
+        ],
+        [
+          "a",
+          "the",
+          "an",
+          "this"
+        ],
+        [
+          "foreign",
+          "foreigner",
+          "formerly",
+          "formally"
+        ],
+        [
+          "intelligence",
+          "intelligent",
+          "intelligently",
+          "intellect"
+        ],
+        [
+          "agency",
+          "agencies",
+          "agent",
+          "agenda"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_12_advanced_passive/027.mp3"
+    },
+    {
+      "id": "t12_29",
+      "type": "sentenceAssembly",
+      "question": "Считается, что спорт укрепляет не только тело, но и дух",
+      "correctAnswer": "Sport is believed to strengthen both the body and the spirit",
+      "options": [],
+      "variants": [
+        [
+          "Sport",
+          "Sports",
+          "Sporting",
+          "Sportive"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "believed",
+          "believe",
+          "believes",
+          "believing"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "strengthen",
+          "strengthens",
+          "strengthened",
+          "strengthening"
+        ],
+        [
+          "both",
+          "all",
+          "each",
+          "every"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "this"
+        ],
+        [
+          "body",
+          "bodies",
+          "bodily",
+          "bold"
+        ],
+        [
+          "and",
+          "or",
+          "but",
+          "yet"
+        ],
+        [
+          "the",
+          "a",
+          "an",
+          "one"
+        ],
+        [
+          "spirit",
+          "spirits",
+          "spiritual",
+          "spirited"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_12_advanced_passive/028.mp3"
+    },
+    {
+      "id": "t12_30",
+      "type": "sentenceAssembly",
+      "question": "Утверждается, что компания систематически нарушала экологические нормы",
+      "correctAnswer": "The company is claimed to have systematically violated environmental regulations",
+      "options": [],
+      "variants": [
+        [
+          "The",
+          "A",
+          "This",
+          "That"
+        ],
+        [
+          "company",
+          "companies",
+          "companion",
+          "compact"
+        ],
+        [
+          "is",
+          "was",
+          "were",
+          "be"
+        ],
+        [
+          "claimed",
+          "claim",
+          "claims",
+          "claiming"
+        ],
+        [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        [
+          "systematically",
+          "systematic",
+          "system",
+          "systems"
+        ],
+        [
+          "violated",
+          "violate",
+          "violates",
+          "violating"
+        ],
+        [
+          "environmental",
+          "environment",
+          "environmentally",
+          "environs"
+        ],
+        [
+          "regulations",
+          "regulation",
+          "regulate",
+          "regulated"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/advanced_12_advanced_passive/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionAdvanced12AdvancedPassive"
+}

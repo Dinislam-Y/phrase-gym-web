@@ -1,0 +1,476 @@
+{
+  "id": "beginner_listening_07_imperative_mood",
+  "title": "Imperative Mood: Everyday Instructions",
+  "description": "Слушайте короткие ситуации и тренируйте повелительное наклонение в простых жизненных диалогах.",
+  "order": 7,
+  "level": "beginner",
+  "imageUrl": "assets/images/lessons/imperative_mood.png",
+  "tasks": [
+    {
+      "id": "t7_01",
+      "audioText": "At home, it is cold outside. The window in the living room is open. Close the window, please.",
+      "transcript": "Close the window, please.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Please shut the window."
+        },
+        {
+          "id": "o2",
+          "text": "Please open the window."
+        },
+        {
+          "id": "o3",
+          "text": "Please clean the window glass."
+        },
+        {
+          "id": "o4",
+          "text": "Please look out of the window."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence asks someone to close the window. Option 1 says the same; the other options talk about opening, cleaning, or looking out.",
+      "mistakeTags": [
+        "home",
+        "imperative_mood",
+        "imperative_positive"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_07_imperative_mood/t7_01.mp3"
+    },
+    {
+      "id": "t7_02",
+      "audioText": "A tourist asks a man on the street. He explains the way to the city museum. Go straight and then turn left.",
+      "transcript": "Go straight and then turn left.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Stop here and wait."
+        },
+        {
+          "id": "o2",
+          "text": "Walk forward and then take a left turn."
+        },
+        {
+          "id": "o3",
+          "text": "Walk back and then turn right."
+        },
+        {
+          "id": "o4",
+          "text": "Turn right and then go back."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "The sentence tells you to go forward and then left. Option 2 has the same directions; the other options say stop, go back, or turn right.",
+      "mistakeTags": [
+        "street",
+        "imperative_mood",
+        "imperative_positive"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_07_imperative_mood/t7_02.mp3"
+    },
+    {
+      "id": "t7_03",
+      "audioText": "In a cafe, you order a cup of coffee. The waiter says the drink is very hot. Don't drink it now.",
+      "transcript": "Don't drink it now.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Drink the coffee very quickly now."
+        },
+        {
+          "id": "o2",
+          "text": "The coffee is safe, drink it now."
+        },
+        {
+          "id": "o3",
+          "text": "Do not drink the coffee at this moment."
+        },
+        {
+          "id": "o4",
+          "text": "Do not order coffee in this cafe."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "The sentence says you must not drink the coffee now. Option 3 repeats this idea; the other options tell you to drink now or not to order coffee.",
+      "mistakeTags": [
+        "cafe",
+        "imperative_mood",
+        "imperative_negative"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_07_imperative_mood/t7_03.mp3"
+    },
+    {
+      "id": "t7_04",
+      "audioText": "In a meeting room, everyone sits at the table. The manager wants to start the discussion. Please turn off your phones.",
+      "transcript": "Please turn off your phones.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Please turn on your phones now."
+        },
+        {
+          "id": "o2",
+          "text": "Please check your phones for new messages."
+        },
+        {
+          "id": "o3",
+          "text": "Please give your phones to the manager."
+        },
+        {
+          "id": "o4",
+          "text": "Switch your phones off, please."
+        }
+      ],
+      "correctIndex": 3,
+      "explanation": "The sentence asks people to turn their phones off. Option 4 says the same; the other options talk about turning on, checking, or giving phones.",
+      "mistakeTags": [
+        "office",
+        "imperative_mood",
+        "imperative_positive"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_07_imperative_mood/t7_04.mp3"
+    },
+    {
+      "id": "t7_05",
+      "audioText": "You are on a busy city bus. A safety sign is on the door near you. Do not stand near the door.",
+      "transcript": "Do not stand near the door.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Do not stand close to the door."
+        },
+        {
+          "id": "o2",
+          "text": "Please stand near the door."
+        },
+        {
+          "id": "o3",
+          "text": "Please sit on the floor."
+        },
+        {
+          "id": "o4",
+          "text": "Do not sit on the bus."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence says you must not stand near the door. Option 1 uses almost the same words; the other options tell you to stand there, sit, or talk about sitting.",
+      "mistakeTags": [
+        "bus_station",
+        "imperative_mood",
+        "imperative_negative"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_07_imperative_mood/t7_05.mp3"
+    },
+    {
+      "id": "t7_06",
+      "audioText": "In a clothes shop, Anna looks at some T-shirts. She wants to see a different size and color. Try this T-shirt in a medium size.",
+      "transcript": "Try this T-shirt in a medium size.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Please put this T-shirt back on the shelf."
+        },
+        {
+          "id": "o2",
+          "text": "Please try this medium T-shirt."
+        },
+        {
+          "id": "o3",
+          "text": "Please try these jeans in a medium size."
+        },
+        {
+          "id": "o4",
+          "text": "Please buy this T-shirt in a large size."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "The sentence asks Anna to try a medium T-shirt. Option 2 says the same; the other options talk about putting it back, trying jeans, or buying a large size.",
+      "mistakeTags": [
+        "shop",
+        "imperative_mood",
+        "imperative_positive"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_07_imperative_mood/t7_06.mp3"
+    },
+    {
+      "id": "t7_07",
+      "audioText": "At the clinic, the doctor listens to your chest. You cough a lot and feel very tired. Take this medicine twice a day.",
+      "transcript": "Take this medicine twice a day.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Use this medicine once a week."
+        },
+        {
+          "id": "o2",
+          "text": "Do not take this medicine at all."
+        },
+        {
+          "id": "o3",
+          "text": "Use this medicine two times every day."
+        },
+        {
+          "id": "o4",
+          "text": "Take this medicine only in the evening."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "The sentence tells you to take the medicine two times every day. Option 3 has the same meaning; the other options change how often or say not to take it.",
+      "mistakeTags": [
+        "clinic",
+        "imperative_mood",
+        "imperative_positive"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_07_imperative_mood/t7_07.mp3"
+    },
+    {
+      "id": "t7_08",
+      "audioText": "You cook soup with your friend in the kitchen. The water in the pot starts to boil fast. Turn down the heat a little.",
+      "transcript": "Turn down the heat a little.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Turn off the light in the kitchen."
+        },
+        {
+          "id": "o2",
+          "text": "Add more salt to the soup."
+        },
+        {
+          "id": "o3",
+          "text": "Make the heat very high now."
+        },
+        {
+          "id": "o4",
+          "text": "Make the heat a bit lower."
+        }
+      ],
+      "correctIndex": 3,
+      "explanation": "The sentence says to make the heat a little lower. Option 4 means lower the heat; the other options talk about lights, salt, or making the heat high.",
+      "mistakeTags": [
+        "home",
+        "imperative_mood",
+        "imperative_positive"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_07_imperative_mood/t7_08.mp3"
+    },
+    {
+      "id": "t7_09",
+      "audioText": "At the airport, you go through security control. An officer wants to see what is in your bag. Open your bag, please.",
+      "transcript": "Open your bag, please.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Please open your bag now."
+        },
+        {
+          "id": "o2",
+          "text": "Please close your bag now."
+        },
+        {
+          "id": "o3",
+          "text": "Please give me your passport now."
+        },
+        {
+          "id": "o4",
+          "text": "Please put your bag on the plane."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence asks you to open your bag. Option 1 says to open it now; the other options say to close it, give a passport, or put the bag on the plane.",
+      "mistakeTags": [
+        "airport",
+        "imperative_mood",
+        "imperative_positive"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_07_imperative_mood/t7_09.mp3"
+    },
+    {
+      "id": "t7_10",
+      "audioText": "In English class, the teacher gives homework for today. She wants you to do some tasks at home. Please finish this exercise at home.",
+      "transcript": "Please finish this exercise at home.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Please read this exercise but do not write."
+        },
+        {
+          "id": "o2",
+          "text": "Do the rest of this exercise at home, please."
+        },
+        {
+          "id": "o3",
+          "text": "Please start this exercise tomorrow in class."
+        },
+        {
+          "id": "o4",
+          "text": "Please finish this exercise now in the classroom."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "The sentence tells you to finish the exercise at home. Option 2 says to do the rest at home; the other options change the place or time, or only read.",
+      "mistakeTags": [
+        "school",
+        "imperative_mood",
+        "imperative_positive"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_07_imperative_mood/t7_10.mp3"
+    },
+    {
+      "id": "t7_11",
+      "audioText": "You sit in a small restaurant with a friend. The waiter brings soup in a big white plate. Be careful, the plate is very hot.",
+      "transcript": "Be careful, the plate is very hot.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Do not worry, the plate is cold."
+        },
+        {
+          "id": "o2",
+          "text": "Please make the plate very hot."
+        },
+        {
+          "id": "o3",
+          "text": "Pay attention, the dish is really hot."
+        },
+        {
+          "id": "o4",
+          "text": "The plate is empty and not hot."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "The sentence warns you that the plate is very hot. Option 3 has the same warning; the other options say it is cold, empty, or tell you to heat it.",
+      "mistakeTags": [
+        "restaurant",
+        "imperative_mood",
+        "imperative_positive"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_07_imperative_mood/t7_11.mp3"
+    },
+    {
+      "id": "t7_12",
+      "audioText": "At the bank, a worker gives you a form. You must write your name before you get money. Please sign your name on this line.",
+      "transcript": "Please sign your name on this line.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Write your address on this line, please."
+        },
+        {
+          "id": "o2",
+          "text": "Do not write anything on this line."
+        },
+        {
+          "id": "o3",
+          "text": "Please sign your name on every page."
+        },
+        {
+          "id": "o4",
+          "text": "Write your name here, please."
+        }
+      ],
+      "correctIndex": 3,
+      "explanation": "The sentence asks you to sign, or write, your name on one line. Option 4 matches this; the other options talk about an address, nothing, or every page.",
+      "mistakeTags": [
+        "bank",
+        "imperative_mood",
+        "imperative_positive"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_07_imperative_mood/t7_12.mp3"
+    },
+    {
+      "id": "t7_13",
+      "audioText": "In the gym, you try a new exercise. The trainer wants you to listen to your body. Stop if you feel any pain.",
+      "transcript": "Stop if you feel any pain.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Do not continue when you feel pain."
+        },
+        {
+          "id": "o2",
+          "text": "Continue even when you feel pain."
+        },
+        {
+          "id": "o3",
+          "text": "Start when you feel pain in your legs."
+        },
+        {
+          "id": "o4",
+          "text": "Stop if you feel hungry or thirsty."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "The sentence tells you to stop when you feel pain. Option 1 says not to continue if you feel pain; the other options say to continue, to start, or stop for another reason.",
+      "mistakeTags": [
+        "gym",
+        "imperative_mood",
+        "imperative_negative"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_07_imperative_mood/t7_13.mp3"
+    },
+    {
+      "id": "t7_14",
+      "audioText": "At the post office, you send an important letter. The worker gives you a receipt with your name. Please check your name before you leave.",
+      "transcript": "Please check your name before you leave.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Please write your name after you leave."
+        },
+        {
+          "id": "o2",
+          "text": "Please make sure your name is correct."
+        },
+        {
+          "id": "o3",
+          "text": "Please check your address before you leave."
+        },
+        {
+          "id": "o4",
+          "text": "Please check your passport number before you go."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "The sentence asks you to check your name before you go. Option 2 says to make sure your name is correct; the other options talk about address, time, or passport number.",
+      "mistakeTags": [
+        "post_office",
+        "imperative_mood",
+        "imperative_positive"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_07_imperative_mood/t7_14.mp3"
+    },
+    {
+      "id": "t7_15",
+      "audioText": "You sit in a taxi going to your hotel. The driver does not know the exact entrance. Tell me when I should stop.",
+      "transcript": "Tell me when I should stop.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Please stop the taxi right now."
+        },
+        {
+          "id": "o2",
+          "text": "Please tell me where you live."
+        },
+        {
+          "id": "o3",
+          "text": "Please say when I need to stop."
+        },
+        {
+          "id": "o4",
+          "text": "Please tell me how much it costs."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "The sentence asks the passenger to say when the driver must stop. Option 3 has the same meaning; the other options ask to stop now, give an address, or talk about the price.",
+      "mistakeTags": [
+        "taxi",
+        "imperative_mood",
+        "imperative_positive"
+      ],
+      "audioPath": "assets/audio/listening/beginner_listening_07_imperative_mood/t7_15.mp3"
+    }
+  ],
+  "short_description": "Тренируйте понимание повелительных предложений в повседневных ситуациях на слух."
+}

@@ -1,0 +1,1395 @@
+{
+  "id": "pre_17_some_any_no",
+  "title": "Some / Any / No",
+  "description": "Определители some, any, no и производные: something, anyone, nothing, nobody, everywhere.",
+  "order": 10,
+  "level": "pre_intermediate",
+  "imageUrl": "assets/images/lessons/some_any_no.png",
+  "vocabulary": [
+    {
+      "id": "v10_some",
+      "english": "some",
+      "russian": "несколько, немного, какие-то",
+      "partOfSpeech": "pronoun",
+      "example": "I have some money.",
+      "exampleTranslation": "У меня есть немного денег.",
+      "audioPath": "assets/audio/vocabulary/v10_some.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_some.mp3"
+    },
+    {
+      "id": "v10_any",
+      "english": "any",
+      "russian": "какой-нибудь, любой",
+      "partOfSpeech": "pronoun",
+      "example": "Do you have any water?",
+      "exampleTranslation": "У тебя есть вода?",
+      "audioPath": "assets/audio/vocabulary/v10_any.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_any.mp3"
+    },
+    {
+      "id": "v10_no",
+      "english": "no",
+      "russian": "нет, никакой",
+      "partOfSpeech": "pronoun",
+      "example": "I have no time.",
+      "exampleTranslation": "У меня нет времени.",
+      "audioPath": "assets/audio/vocabulary/v10_no.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_no.mp3"
+    },
+    {
+      "id": "v10_something",
+      "english": "something",
+      "russian": "что-то",
+      "partOfSpeech": "pronoun",
+      "example": "I want something.",
+      "exampleTranslation": "Я хочу что-то.",
+      "audioPath": "assets/audio/vocabulary/v10_something.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_something.mp3"
+    },
+    {
+      "id": "v10_anything",
+      "english": "anything",
+      "russian": "что-нибудь, что угодно",
+      "partOfSpeech": "pronoun",
+      "example": "Do you need anything?",
+      "exampleTranslation": "Тебе что-нибудь нужно?",
+      "audioPath": "assets/audio/vocabulary/v10_anything.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_anything.mp3"
+    },
+    {
+      "id": "v10_nothing",
+      "english": "nothing",
+      "russian": "ничего",
+      "partOfSpeech": "pronoun",
+      "example": "I know nothing.",
+      "exampleTranslation": "Я ничего не знаю.",
+      "audioPath": "assets/audio/vocabulary/v10_nothing.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_nothing.mp3"
+    },
+    {
+      "id": "v10_someone",
+      "english": "someone",
+      "russian": "кто-то",
+      "partOfSpeech": "pronoun",
+      "example": "Someone is here.",
+      "exampleTranslation": "Кто-то здесь.",
+      "audioPath": "assets/audio/vocabulary/v10_someone.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_someone.mp3"
+    },
+    {
+      "id": "v10_anyone",
+      "english": "anyone",
+      "russian": "кто-нибудь, любой",
+      "partOfSpeech": "pronoun",
+      "example": "Is anyone home?",
+      "exampleTranslation": "Есть кто-нибудь дома?",
+      "audioPath": "assets/audio/vocabulary/v10_anyone.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_anyone.mp3"
+    },
+    {
+      "id": "v10_nobody",
+      "english": "nobody",
+      "russian": "никто",
+      "partOfSpeech": "pronoun",
+      "example": "Nobody was there.",
+      "exampleTranslation": "Никого там не было.",
+      "audioPath": "assets/audio/vocabulary/v10_nobody.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_nobody.mp3"
+    },
+    {
+      "id": "v10_money",
+      "english": "money",
+      "russian": "деньги",
+      "partOfSpeech": "noun",
+      "example": "I have some money.",
+      "exampleTranslation": "У меня есть немного денег.",
+      "audioPath": "assets/audio/vocabulary/v10_money.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_money.mp3"
+    },
+    {
+      "id": "v10_water",
+      "english": "water",
+      "russian": "вода",
+      "partOfSpeech": "noun",
+      "example": "Do you have any water?",
+      "exampleTranslation": "У тебя есть вода?",
+      "audioPath": "assets/audio/vocabulary/v10_water.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_water.mp3"
+    },
+    {
+      "id": "v10_milk",
+      "english": "milk",
+      "russian": "молоко",
+      "partOfSpeech": "noun",
+      "example": "We have some milk.",
+      "exampleTranslation": "У нас есть немного молока.",
+      "audioPath": "assets/audio/vocabulary/v10_milk.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_milk.mp3"
+    },
+    {
+      "id": "v10_bread",
+      "english": "bread",
+      "russian": "хлеб",
+      "partOfSpeech": "noun",
+      "example": "There is no bread.",
+      "exampleTranslation": "Хлеба нет.",
+      "audioPath": "assets/audio/vocabulary/v10_bread.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_bread.mp3"
+    },
+    {
+      "id": "v10_sugar",
+      "english": "sugar",
+      "russian": "сахар",
+      "partOfSpeech": "noun",
+      "example": "I need some sugar.",
+      "exampleTranslation": "Мне нужен сахар.",
+      "audioPath": "assets/audio/vocabulary/v10_sugar.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_sugar.mp3"
+    },
+    {
+      "id": "v10_idea",
+      "english": "idea",
+      "russian": "идея",
+      "partOfSpeech": "noun",
+      "example": "I have no idea.",
+      "exampleTranslation": "Я не имею понятия.",
+      "audioPath": "assets/audio/vocabulary/v10_idea.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_idea.mp3"
+    },
+    {
+      "id": "v10_question",
+      "english": "question",
+      "russian": "вопрос",
+      "partOfSpeech": "noun",
+      "example": "Do you have any questions?",
+      "exampleTranslation": "У тебя есть вопросы?",
+      "audioPath": "assets/audio/vocabulary/v10_question.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_question.mp3"
+    },
+    {
+      "id": "v10_problem",
+      "english": "problem",
+      "russian": "проблема",
+      "partOfSpeech": "noun",
+      "example": "There are no problems.",
+      "exampleTranslation": "Проблем нет.",
+      "audioPath": "assets/audio/vocabulary/v10_problem.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_problem.mp3"
+    },
+    {
+      "id": "v10_friend",
+      "english": "friend",
+      "russian": "друг",
+      "partOfSpeech": "noun",
+      "example": "I have some friends here.",
+      "exampleTranslation": "У меня есть друзья здесь.",
+      "audioPath": "assets/audio/vocabulary/v10_friend.mp3",
+      "exampleAudioPath": "assets/audio/vocabulary/examples/v10_friend.mp3"
+    }
+  ],
+  "theory": {
+    "category": "grammar",
+    "title": "Some / Any / No",
+    "subtitle": "Три маленьких слова, которые показывают, есть что-то или нет. Some — в утверждениях, any — в вопросах и отрицаниях, no — когда ничего нет.",
+    "construction": {
+      "formula": "Some (+) / Any (? / -) / No (= not any)",
+      "rules": [
+        {
+          "word": "some",
+          "description": "В утверждениях (+): I have some milk. There are some books."
+        },
+        {
+          "word": "any",
+          "description": "В вопросах (?) и отрицаниях (-): Do you have any milk? I don't have any books."
+        },
+        {
+          "word": "no",
+          "description": "Полное отрицание без don't: I have no money. There is no water."
+        },
+        {
+          "word": "-thing / -one / -body",
+          "description": "something, anything, nothing; someone, anyone, nobody — по тем же правилам."
+        }
+      ]
+    },
+    "useCases": [
+      {
+        "icon": "check_circle",
+        "color": "green",
+        "title": "Говорим, что есть",
+        "description": "Используем some в утвердительных предложениях.",
+        "example": {
+          "english": "I have some friends.",
+          "russian": "У меня есть друзья."
+        }
+      },
+      {
+        "icon": "explore",
+        "color": "blue",
+        "title": "Спрашиваем",
+        "description": "Используем any в вопросах.",
+        "example": {
+          "english": "Do you have any water?",
+          "russian": "У тебя есть вода?"
+        }
+      },
+      {
+        "icon": "visibility",
+        "color": "orange",
+        "title": "Говорим, что нет",
+        "description": "Используем no для полного отрицания.",
+        "example": {
+          "english": "I have no time.",
+          "russian": "У меня нет времени."
+        }
+      }
+    ],
+    "markers": [
+      "some",
+      "any",
+      "no",
+      "something",
+      "anything",
+      "nothing",
+      "someone",
+      "anyone"
+    ]
+  },
+  "tasks": [
+    {
+      "id": "t10_1",
+      "type": "sentenceAssembly",
+      "question": "У меня есть деньги",
+      "correctAnswer": "I have some money",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "We",
+          "Me"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        [
+          "some",
+          "any",
+          "no",
+          "a"
+        ],
+        [
+          "money",
+          "water",
+          "time",
+          "food"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_17_some_any_no/000.mp3"
+    },
+    {
+      "id": "t10_2",
+      "type": "sentenceAssembly",
+      "question": "У нас есть молоко",
+      "correctAnswer": "We have some milk",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "I",
+          "Us"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        [
+          "some",
+          "any",
+          "no",
+          "a"
+        ],
+        [
+          "milk",
+          "water",
+          "juice",
+          "bread"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_17_some_any_no/001.mp3"
+    },
+    {
+      "id": "t10_3",
+      "type": "sentenceAssembly",
+      "question": "Я хочу что-то",
+      "correctAnswer": "I want something",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "We",
+          "Me"
+        ],
+        [
+          "want",
+          "wants",
+          "need",
+          "like"
+        ],
+        [
+          "something",
+          "anything",
+          "nothing",
+          "someone"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_17_some_any_no/002.mp3"
+    },
+    {
+      "id": "t10_4",
+      "type": "sentenceAssembly",
+      "question": "Кто-то здесь",
+      "correctAnswer": "Someone is here",
+      "options": [],
+      "variants": [
+        [
+          "Someone",
+          "Anyone",
+          "Nobody",
+          "Something"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "were"
+        ],
+        [
+          "here",
+          "there",
+          "home",
+          "late"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_17_some_any_no/003.mp3"
+    },
+    {
+      "id": "t10_5",
+      "type": "sentenceAssembly",
+      "question": "У меня есть друзья",
+      "correctAnswer": "I have some friends",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "We",
+          "Me"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        [
+          "some",
+          "any",
+          "no",
+          "a"
+        ],
+        [
+          "friends",
+          "money",
+          "books",
+          "water"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_17_some_any_no/004.mp3"
+    },
+    {
+      "id": "t10_6",
+      "type": "sentenceAssembly",
+      "question": "Мне нужен сахар",
+      "correctAnswer": "I need some sugar",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "We",
+          "Me"
+        ],
+        [
+          "need",
+          "needs",
+          "want",
+          "have"
+        ],
+        [
+          "some",
+          "any",
+          "no",
+          "a"
+        ],
+        [
+          "sugar",
+          "salt",
+          "water",
+          "milk"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_17_some_any_no/005.mp3"
+    },
+    {
+      "id": "t10_7",
+      "type": "sentenceAssembly",
+      "question": "Есть хлеб",
+      "correctAnswer": "There is some bread",
+      "options": [],
+      "variants": [
+        [
+          "There",
+          "Here",
+          "It",
+          "This"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "were"
+        ],
+        [
+          "some",
+          "any",
+          "no",
+          "a"
+        ],
+        [
+          "bread",
+          "milk",
+          "water",
+          "sugar"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_17_some_any_no/006.mp3"
+    },
+    {
+      "id": "t10_8",
+      "type": "sentenceAssembly",
+      "question": "У неё есть книги",
+      "correctAnswer": "She has some books",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "They",
+          "Her"
+        ],
+        [
+          "has",
+          "have",
+          "had",
+          "having"
+        ],
+        [
+          "some",
+          "any",
+          "no",
+          "a"
+        ],
+        [
+          "books",
+          "money",
+          "friends",
+          "ideas"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_17_some_any_no/007.mp3"
+    },
+    {
+      "id": "t10_9",
+      "type": "sentenceAssembly",
+      "question": "У них есть вода",
+      "correctAnswer": "They have some water",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "We",
+          "He",
+          "Them"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        [
+          "some",
+          "any",
+          "no",
+          "a"
+        ],
+        [
+          "water",
+          "milk",
+          "juice",
+          "food"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_17_some_any_no/008.mp3"
+    },
+    {
+      "id": "t10_10",
+      "type": "sentenceAssembly",
+      "question": "Я знаю кое-что",
+      "correctAnswer": "I know something",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "We",
+          "Me"
+        ],
+        [
+          "know",
+          "knows",
+          "knew",
+          "see"
+        ],
+        [
+          "something",
+          "anything",
+          "nothing",
+          "someone"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_17_some_any_no/009.mp3"
+    },
+    {
+      "id": "t10_11",
+      "type": "sentenceAssembly",
+      "question": "У тебя есть вопросы?",
+      "correctAnswer": "Do you have any questions",
+      "options": [],
+      "variants": [
+        [
+          "Do",
+          "Does",
+          "Did",
+          "Is"
+        ],
+        [
+          "you",
+          "he",
+          "she",
+          "they"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "need"
+        ],
+        [
+          "any",
+          "some",
+          "no",
+          "a"
+        ],
+        [
+          "questions",
+          "answers",
+          "ideas",
+          "friends"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_17_some_any_no/010.mp3"
+    },
+    {
+      "id": "t10_12",
+      "type": "sentenceAssembly",
+      "question": "У тебя есть вода?",
+      "correctAnswer": "Do you have any water",
+      "options": [],
+      "variants": [
+        [
+          "Do",
+          "Does",
+          "Did",
+          "Is"
+        ],
+        [
+          "you",
+          "he",
+          "she",
+          "they"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "need"
+        ],
+        [
+          "any",
+          "some",
+          "no",
+          "a"
+        ],
+        [
+          "water",
+          "milk",
+          "juice",
+          "money"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_17_some_any_no/011.mp3"
+    },
+    {
+      "id": "t10_13",
+      "type": "sentenceAssembly",
+      "question": "Тебе что-нибудь нужно?",
+      "correctAnswer": "Do you need anything",
+      "options": [],
+      "variants": [
+        [
+          "Do",
+          "Does",
+          "Did",
+          "Is"
+        ],
+        [
+          "you",
+          "he",
+          "she",
+          "they"
+        ],
+        [
+          "need",
+          "needs",
+          "want",
+          "have"
+        ],
+        [
+          "anything",
+          "something",
+          "nothing",
+          "anyone"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_17_some_any_no/012.mp3"
+    },
+    {
+      "id": "t10_14",
+      "type": "sentenceAssembly",
+      "question": "Кто-нибудь дома?",
+      "correctAnswer": "Is anyone home",
+      "options": [],
+      "variants": [
+        [
+          "Is",
+          "Are",
+          "Do",
+          "Does"
+        ],
+        [
+          "anyone",
+          "someone",
+          "nobody",
+          "anything"
+        ],
+        [
+          "home",
+          "here",
+          "there",
+          "late"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_17_some_any_no/013.mp3"
+    },
+    {
+      "id": "t10_15",
+      "type": "sentenceAssembly",
+      "question": "У него есть идеи?",
+      "correctAnswer": "Does he have any ideas",
+      "options": [],
+      "variants": [
+        [
+          "Does",
+          "Do",
+          "Did",
+          "Is"
+        ],
+        [
+          "he",
+          "she",
+          "they",
+          "you"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "need"
+        ],
+        [
+          "any",
+          "some",
+          "no",
+          "a"
+        ],
+        [
+          "ideas",
+          "friends",
+          "money",
+          "books"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_17_some_any_no/014.mp3"
+    },
+    {
+      "id": "t10_16",
+      "type": "sentenceAssembly",
+      "question": "Есть тут молоко?",
+      "correctAnswer": "Is there any milk",
+      "options": [],
+      "variants": [
+        [
+          "Is",
+          "Are",
+          "Do",
+          "Does"
+        ],
+        [
+          "there",
+          "here",
+          "it",
+          "this"
+        ],
+        [
+          "any",
+          "some",
+          "no",
+          "a"
+        ],
+        [
+          "milk",
+          "water",
+          "bread",
+          "sugar"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_17_some_any_no/015.mp3"
+    },
+    {
+      "id": "t10_17",
+      "type": "sentenceAssembly",
+      "question": "У тебя есть время?",
+      "correctAnswer": "Do you have any time",
+      "options": [],
+      "variants": [
+        [
+          "Do",
+          "Does",
+          "Did",
+          "Is"
+        ],
+        [
+          "you",
+          "he",
+          "she",
+          "they"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "need"
+        ],
+        [
+          "any",
+          "some",
+          "no",
+          "a"
+        ],
+        [
+          "time",
+          "money",
+          "water",
+          "food"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_17_some_any_no/016.mp3"
+    },
+    {
+      "id": "t10_18",
+      "type": "sentenceAssembly",
+      "question": "У них есть хлеб?",
+      "correctAnswer": "Do they have any bread",
+      "options": [],
+      "variants": [
+        [
+          "Do",
+          "Does",
+          "Did",
+          "Is"
+        ],
+        [
+          "they",
+          "he",
+          "she",
+          "you"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "need"
+        ],
+        [
+          "any",
+          "some",
+          "no",
+          "a"
+        ],
+        [
+          "bread",
+          "milk",
+          "water",
+          "sugar"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_17_some_any_no/017.mp3"
+    },
+    {
+      "id": "t10_19",
+      "type": "sentenceAssembly",
+      "question": "Ты знаешь кого-нибудь?",
+      "correctAnswer": "Do you know anyone",
+      "options": [],
+      "variants": [
+        [
+          "Do",
+          "Does",
+          "Did",
+          "Is"
+        ],
+        [
+          "you",
+          "he",
+          "she",
+          "they"
+        ],
+        [
+          "know",
+          "knows",
+          "knew",
+          "see"
+        ],
+        [
+          "anyone",
+          "someone",
+          "nobody",
+          "anything"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_17_some_any_no/018.mp3"
+    },
+    {
+      "id": "t10_20",
+      "type": "sentenceAssembly",
+      "question": "У неё есть проблемы?",
+      "correctAnswer": "Does she have any problems",
+      "options": [],
+      "variants": [
+        [
+          "Does",
+          "Do",
+          "Did",
+          "Is"
+        ],
+        [
+          "she",
+          "he",
+          "they",
+          "you"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "need"
+        ],
+        [
+          "any",
+          "some",
+          "no",
+          "a"
+        ],
+        [
+          "problems",
+          "questions",
+          "friends",
+          "ideas"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_17_some_any_no/019.mp3"
+    },
+    {
+      "id": "t10_21",
+      "type": "sentenceAssembly",
+      "question": "У меня нет времени",
+      "correctAnswer": "I have no time",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "We",
+          "Me"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        [
+          "no",
+          "some",
+          "any",
+          "a"
+        ],
+        [
+          "time",
+          "money",
+          "water",
+          "food"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_17_some_any_no/020.mp3"
+    },
+    {
+      "id": "t10_22",
+      "type": "sentenceAssembly",
+      "question": "Я ничего не знаю",
+      "correctAnswer": "I know nothing",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "We",
+          "Me"
+        ],
+        [
+          "know",
+          "knows",
+          "knew",
+          "see"
+        ],
+        [
+          "nothing",
+          "something",
+          "anything",
+          "nobody"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_17_some_any_no/021.mp3"
+    },
+    {
+      "id": "t10_23",
+      "type": "sentenceAssembly",
+      "question": "Хлеба нет",
+      "correctAnswer": "There is no bread",
+      "options": [],
+      "variants": [
+        [
+          "There",
+          "Here",
+          "It",
+          "This"
+        ],
+        [
+          "is",
+          "are",
+          "was",
+          "were"
+        ],
+        [
+          "no",
+          "some",
+          "any",
+          "a"
+        ],
+        [
+          "bread",
+          "milk",
+          "water",
+          "sugar"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_17_some_any_no/022.mp3"
+    },
+    {
+      "id": "t10_24",
+      "type": "sentenceAssembly",
+      "question": "Никого там не было",
+      "correctAnswer": "Nobody was there",
+      "options": [],
+      "variants": [
+        [
+          "Nobody",
+          "Someone",
+          "Anyone",
+          "Nothing"
+        ],
+        [
+          "was",
+          "were",
+          "is",
+          "are"
+        ],
+        [
+          "there",
+          "here",
+          "home",
+          "late"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_17_some_any_no/023.mp3"
+    },
+    {
+      "id": "t10_25",
+      "type": "sentenceAssembly",
+      "question": "У меня нет идей",
+      "correctAnswer": "I have no ideas",
+      "options": [],
+      "variants": [
+        [
+          "I",
+          "He",
+          "We",
+          "Me"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        [
+          "no",
+          "some",
+          "any",
+          "a"
+        ],
+        [
+          "ideas",
+          "friends",
+          "money",
+          "books"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_17_some_any_no/024.mp3"
+    },
+    {
+      "id": "t10_26",
+      "type": "sentenceAssembly",
+      "question": "Проблем нет",
+      "correctAnswer": "There are no problems",
+      "options": [],
+      "variants": [
+        [
+          "There",
+          "Here",
+          "It",
+          "This"
+        ],
+        [
+          "are",
+          "is",
+          "was",
+          "were"
+        ],
+        [
+          "no",
+          "some",
+          "any",
+          "a"
+        ],
+        [
+          "problems",
+          "questions",
+          "ideas",
+          "friends"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_17_some_any_no/025.mp3"
+    },
+    {
+      "id": "t10_27",
+      "type": "sentenceAssembly",
+      "question": "У неё нет денег",
+      "correctAnswer": "She has no money",
+      "options": [],
+      "variants": [
+        [
+          "She",
+          "He",
+          "They",
+          "Her"
+        ],
+        [
+          "has",
+          "have",
+          "had",
+          "having"
+        ],
+        [
+          "no",
+          "some",
+          "any",
+          "a"
+        ],
+        [
+          "money",
+          "time",
+          "water",
+          "food"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_17_some_any_no/026.mp3"
+    },
+    {
+      "id": "t10_28",
+      "type": "sentenceAssembly",
+      "question": "Ничего не произошло",
+      "correctAnswer": "Nothing happened",
+      "options": [],
+      "variants": [
+        [
+          "Nothing",
+          "Something",
+          "Anything",
+          "Nobody"
+        ],
+        [
+          "happened",
+          "happens",
+          "happen",
+          "happening"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_17_some_any_no/027.mp3"
+    },
+    {
+      "id": "t10_29",
+      "type": "sentenceAssembly",
+      "question": "У них нет друзей",
+      "correctAnswer": "They have no friends",
+      "options": [],
+      "variants": [
+        [
+          "They",
+          "We",
+          "He",
+          "Them"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        [
+          "no",
+          "some",
+          "any",
+          "a"
+        ],
+        [
+          "friends",
+          "money",
+          "books",
+          "ideas"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_17_some_any_no/028.mp3"
+    },
+    {
+      "id": "t10_30",
+      "type": "sentenceAssembly",
+      "question": "У нас нет сахара",
+      "correctAnswer": "We have no sugar",
+      "options": [],
+      "variants": [
+        [
+          "We",
+          "They",
+          "I",
+          "Us"
+        ],
+        [
+          "have",
+          "has",
+          "had",
+          "having"
+        ],
+        [
+          "no",
+          "some",
+          "any",
+          "a"
+        ],
+        [
+          "sugar",
+          "salt",
+          "milk",
+          "bread"
+        ]
+      ],
+      "audioPath": "assets/audio/grammar/pre_17_some_any_no/029.mp3"
+    }
+  ],
+  "short_description": "shortDescriptionPreIntermediate10SomeAnyNo",
+  "theoryQuiz": [
+    {
+      "id": "tq_10_01",
+      "type": "multipleChoice",
+      "question": "Какое слово используем в утвердительных предложениях?",
+      "options": [
+        "any",
+        "no",
+        "some",
+        "not"
+      ],
+      "correctIndex": 2,
+      "explanation": "Some используем в утверждениях: I have some money."
+    },
+    {
+      "id": "tq_10_02",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"Do you have ___ water?\"",
+      "options": [
+        "some",
+        "any",
+        "no",
+        "a"
+      ],
+      "correctIndex": 1,
+      "explanation": "В вопросах используем any: Do you have any water?"
+    },
+    {
+      "id": "tq_10_03",
+      "type": "trueFalse",
+      "question": "\"I have some questions.\" — предложение составлено правильно.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Some в утверждении — верно: I have some questions."
+    },
+    {
+      "id": "tq_10_04",
+      "type": "multipleChoice",
+      "question": "Как сказать «У меня нет времени» без don't?",
+      "options": [
+        "I have any time.",
+        "I have some time.",
+        "I have no time.",
+        "I have not time."
+      ],
+      "correctIndex": 2,
+      "explanation": "No заменяет not any: I have no time = I don't have any time."
+    },
+    {
+      "id": "tq_10_05",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"I know ___.\" (Я ничего не знаю)",
+      "options": [
+        "something",
+        "anything",
+        "nothing",
+        "anyone"
+      ],
+      "correctIndex": 2,
+      "explanation": "Nothing = ничего. I know nothing."
+    },
+    {
+      "id": "tq_10_06",
+      "type": "trueFalse",
+      "question": "\"Do you need something?\" — это грамматически неправильно.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
+      "explanation": "В вопросах обычно используем any, но some тоже допустим (просьбы, предложения). Это не ошибка."
+    },
+    {
+      "id": "tq_10_07",
+      "type": "multipleChoice",
+      "question": "Какое слово означает «кто-то»?",
+      "options": [
+        "something",
+        "someone",
+        "anyone",
+        "nothing"
+      ],
+      "correctIndex": 1,
+      "explanation": "Someone = кто-то. Something = что-то, anyone = кто-нибудь."
+    },
+    {
+      "id": "tq_10_08",
+      "type": "multipleChoice",
+      "question": "Выберите правильный вариант: \"There is ___ bread.\" (Хлеба нет)",
+      "options": [
+        "some",
+        "any",
+        "no",
+        "a"
+      ],
+      "correctIndex": 2,
+      "explanation": "No + существительное = полное отрицание: There is no bread."
+    },
+    {
+      "id": "tq_10_09",
+      "type": "trueFalse",
+      "question": "После no нельзя использовать don't: \"I have no money\" — верно, а \"I don't have no money\" — неверно.",
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
+      "explanation": "Двойное отрицание (don't + no) — ошибка. Правильно: I have no money ИЛИ I don't have any money."
+    },
+    {
+      "id": "tq_10_10",
+      "type": "multipleChoice",
+      "question": "Как правильно: «Никого там не было»?",
+      "options": [
+        "Anyone was there.",
+        "Someone was there.",
+        "Nobody was there.",
+        "Nothing was there."
+      ],
+      "correctIndex": 2,
+      "explanation": "Nobody = никто. Nobody was there — Никого там не было."
+    }
+  ]
+}

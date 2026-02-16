@@ -1,0 +1,476 @@
+{
+  "id": "upper_listening_08_modal_may_might_could",
+  "title": "Modals: May / Might / Could",
+  "description": "Слушайте модальные глаголы вероятности: may, might, could.",
+  "order": 8,
+  "level": "upper_intermediate",
+  "imageUrl": "assets/images/lessons/modal_may_might_could.png",
+  "tasks": [
+    {
+      "id": "t8_01",
+      "audioText": "Dark clouds are gathering on the horizon. It might rain heavily later this afternoon.",
+      "transcript": "It might rain heavily later this afternoon.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "It will definitely rain this afternoon."
+        },
+        {
+          "id": "o2",
+          "text": "There is a possibility of heavy rain later today."
+        },
+        {
+          "id": "o3",
+          "text": "It rained heavily this morning."
+        },
+        {
+          "id": "o4",
+          "text": "It is impossible for it to rain today."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Might' expresses possibility, not certainty. The speaker sees signs of rain but isn't sure it will happen.",
+      "mistakeTags": [
+        "weather",
+        "modal_may_might_could",
+        "modals"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_08_modal_may_might_could/t8_01.mp3"
+    },
+    {
+      "id": "t8_02",
+      "audioText": "I haven't seen James at the office today. He may be working from home because he mentioned feeling unwell yesterday.",
+      "transcript": "He may be working from home because he mentioned feeling unwell yesterday.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "He is definitely working from home today."
+        },
+        {
+          "id": "o2",
+          "text": "It is possible that he is working from home since he was not feeling well."
+        },
+        {
+          "id": "o3",
+          "text": "He quit his job yesterday."
+        },
+        {
+          "id": "o4",
+          "text": "He is at the office but hiding somewhere."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'May be working' expresses a present possibility based on available evidence — he felt unwell, so home working is likely.",
+      "mistakeTags": [
+        "work",
+        "modal_may_might_could",
+        "modals"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_08_modal_may_might_could/t8_02.mp3"
+    },
+    {
+      "id": "t8_03",
+      "audioText": "The restaurant on the corner looks interesting. We could try it for dinner tonight if you are free.",
+      "transcript": "We could try it for dinner tonight if you are free.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "We are definitely going to that restaurant tonight."
+        },
+        {
+          "id": "o2",
+          "text": "The speaker is suggesting the restaurant as a possible option for dinner."
+        },
+        {
+          "id": "o3",
+          "text": "We already tried the restaurant last night."
+        },
+        {
+          "id": "o4",
+          "text": "The restaurant is closed tonight."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Could try' makes a polite suggestion — it presents the restaurant as one possible option, not a firm plan.",
+      "mistakeTags": [
+        "food",
+        "modal_may_might_could",
+        "modals"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_08_modal_may_might_could/t8_03.mp3"
+    },
+    {
+      "id": "t8_04",
+      "audioText": "The exam results haven't been posted yet. The professor might announce them during tomorrow's lecture.",
+      "transcript": "The professor might announce them during tomorrow's lecture.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The professor will certainly share the results tomorrow."
+        },
+        {
+          "id": "o2",
+          "text": "There is a chance the professor will reveal the results in tomorrow's class."
+        },
+        {
+          "id": "o3",
+          "text": "The professor already announced the results today."
+        },
+        {
+          "id": "o4",
+          "text": "The professor will never share the exam results."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Might announce' indicates uncertainty about a future event — the announcement is possible but not guaranteed.",
+      "mistakeTags": [
+        "education",
+        "modal_may_might_could",
+        "modals"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_08_modal_may_might_could/t8_04.mp3"
+    },
+    {
+      "id": "t8_05",
+      "audioText": "Excuse me, I'm looking for the post office. Could you tell me how to get there from here?",
+      "transcript": "Could you tell me how to get there from here?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The speaker is politely asking for directions to the post office."
+        },
+        {
+          "id": "o2",
+          "text": "The speaker is demanding directions aggressively."
+        },
+        {
+          "id": "o3",
+          "text": "The speaker already knows where the post office is."
+        },
+        {
+          "id": "o4",
+          "text": "The speaker is telling someone how to get to the post office."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Could you tell me' is a polite request using 'could'. The speaker is asking for help with directions.",
+      "mistakeTags": [
+        "daily_routine",
+        "modal_may_might_could",
+        "modals"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_08_modal_may_might_could/t8_05.mp3"
+    },
+    {
+      "id": "t8_06",
+      "audioText": "The shares have been fluctuating wildly all week. The market may stabilise by the end of the quarter, but experts are uncertain.",
+      "transcript": "The market may stabilise by the end of the quarter, but experts are uncertain.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The market will definitely stabilise soon."
+        },
+        {
+          "id": "o2",
+          "text": "Stabilisation of the market is a possibility, but nobody is sure it will happen."
+        },
+        {
+          "id": "o3",
+          "text": "The market has already stabilised completely."
+        },
+        {
+          "id": "o4",
+          "text": "Experts are certain the market will crash."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'May stabilise' expresses possibility, reinforced by 'experts are uncertain' — the outcome is not guaranteed.",
+      "mistakeTags": [
+        "finance",
+        "modal_may_might_could",
+        "modals"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_08_modal_may_might_could/t8_06.mp3"
+    },
+    {
+      "id": "t8_07",
+      "audioText": "I left my umbrella somewhere yesterday. I might have left it at the café when I stopped for coffee.",
+      "transcript": "I might have left it at the café when I stopped for coffee.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "I definitely left the umbrella at the café."
+        },
+        {
+          "id": "o2",
+          "text": "It is possible that the café is where I forgot my umbrella."
+        },
+        {
+          "id": "o3",
+          "text": "I brought the umbrella home from the café."
+        },
+        {
+          "id": "o4",
+          "text": "I never went to a café yesterday."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Might have left' expresses a past possibility — the speaker is guessing about where the umbrella was forgotten.",
+      "mistakeTags": [
+        "daily_routine",
+        "modal_may_might_could",
+        "modals"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_08_modal_may_might_could/t8_07.mp3"
+    },
+    {
+      "id": "t8_08",
+      "audioText": "The new treatment is still in clinical trials. It could potentially help millions of patients with chronic pain.",
+      "transcript": "It could potentially help millions of patients with chronic pain.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The treatment is already helping millions of patients."
+        },
+        {
+          "id": "o2",
+          "text": "The treatment has the potential to benefit a huge number of chronic pain sufferers."
+        },
+        {
+          "id": "o3",
+          "text": "The treatment will never be effective."
+        },
+        {
+          "id": "o4",
+          "text": "The treatment was discontinued after trials."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Could potentially help' combines 'could' with 'potentially' to express a future possibility — the treatment is promising but unproven.",
+      "mistakeTags": [
+        "health",
+        "modal_may_might_could",
+        "modals"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_08_modal_may_might_could/t8_08.mp3"
+    },
+    {
+      "id": "t8_09",
+      "audioText": "May I borrow your laptop for a few minutes? I need to check something urgently and mine has just run out of battery.",
+      "transcript": "May I borrow your laptop for a few minutes?",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The speaker is formally requesting permission to use someone's laptop briefly."
+        },
+        {
+          "id": "o2",
+          "text": "The speaker is offering their laptop to someone."
+        },
+        {
+          "id": "o3",
+          "text": "The speaker already borrowed the laptop."
+        },
+        {
+          "id": "o4",
+          "text": "The speaker doesn't need a laptop at all."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'May I' is a formal way to ask for permission. The speaker politely requests to use the laptop temporarily.",
+      "mistakeTags": [
+        "work",
+        "modal_may_might_could",
+        "modals"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_08_modal_may_might_could/t8_09.mp3"
+    },
+    {
+      "id": "t8_10",
+      "audioText": "The new employee seems very talented. She could become one of our best designers if she continues to develop her skills.",
+      "transcript": "She could become one of our best designers if she continues to develop her skills.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She is already the best designer in the company."
+        },
+        {
+          "id": "o2",
+          "text": "She has the potential to be among the top designers with further skill development."
+        },
+        {
+          "id": "o3",
+          "text": "She will definitely leave the company soon."
+        },
+        {
+          "id": "o4",
+          "text": "She could not become a good designer under any circumstances."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Could become' expresses potential ability — with continued growth, becoming a top designer is possible.",
+      "mistakeTags": [
+        "work",
+        "modal_may_might_could",
+        "modals"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_08_modal_may_might_could/t8_10.mp3"
+    },
+    {
+      "id": "t8_11",
+      "audioText": "We're planning a trip to Iceland next month. The northern lights may be visible if we're lucky with the weather conditions.",
+      "transcript": "The northern lights may be visible if we're lucky with the weather conditions.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "We will definitely see the northern lights in Iceland."
+        },
+        {
+          "id": "o2",
+          "text": "There is a chance of seeing the aurora if weather permits."
+        },
+        {
+          "id": "o3",
+          "text": "Northern lights are visible in Iceland every night."
+        },
+        {
+          "id": "o4",
+          "text": "Northern lights cannot be seen in Iceland."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'May be visible' expresses possibility — seeing the northern lights depends on weather, so it's uncertain.",
+      "mistakeTags": [
+        "travel",
+        "modal_may_might_could",
+        "modals"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_08_modal_may_might_could/t8_11.mp3"
+    },
+    {
+      "id": "t8_12",
+      "audioText": "The strange noise in the engine is concerning. It might be a problem with the transmission, but we need a mechanic to confirm.",
+      "transcript": "It might be a problem with the transmission, but we need a mechanic to confirm.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The mechanic confirmed it is a transmission problem."
+        },
+        {
+          "id": "o2",
+          "text": "A transmission issue is one possible explanation, but it hasn't been verified yet."
+        },
+        {
+          "id": "o3",
+          "text": "There is nothing wrong with the engine."
+        },
+        {
+          "id": "o4",
+          "text": "The transmission was replaced yesterday."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Might be' expresses an unconfirmed possibility — the speaker suspects a transmission issue but needs professional diagnosis.",
+      "mistakeTags": [
+        "transport",
+        "modal_may_might_could",
+        "modals"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_08_modal_may_might_could/t8_12.mp3"
+    },
+    {
+      "id": "t8_13",
+      "audioText": "The archaeologists are very excited about the discovery. The artefacts they found could date back over three thousand years.",
+      "transcript": "The artefacts they found could date back over three thousand years.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The artefacts are confirmed to be exactly three thousand years old."
+        },
+        {
+          "id": "o2",
+          "text": "It is possible that the artefacts are more than three millennia old."
+        },
+        {
+          "id": "o3",
+          "text": "The artefacts were made last year."
+        },
+        {
+          "id": "o4",
+          "text": "The artefacts cannot be dated by any method."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Could date back' expresses uncertain possibility about the age — the artefacts might be very ancient, but it's not confirmed.",
+      "mistakeTags": [
+        "history",
+        "modal_may_might_could",
+        "modals"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_08_modal_may_might_could/t8_13.mp3"
+    },
+    {
+      "id": "t8_14",
+      "audioText": "I'm not sure why Lisa hasn't responded to my message yet. She may not have seen it because she mentioned her phone was broken.",
+      "transcript": "She may not have seen it because she mentioned her phone was broken.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "She definitely didn't see the message."
+        },
+        {
+          "id": "o2",
+          "text": "It is possible she hasn't read the message due to phone issues."
+        },
+        {
+          "id": "o3",
+          "text": "She saw the message but chose not to reply."
+        },
+        {
+          "id": "o4",
+          "text": "Her phone works perfectly fine."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'May not have seen' expresses past possibility in the negative — a broken phone could explain why the message wasn't read.",
+      "mistakeTags": [
+        "social",
+        "modal_may_might_could",
+        "modals"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_08_modal_may_might_could/t8_14.mp3"
+    },
+    {
+      "id": "t8_15",
+      "audioText": "The company is considering expanding to Asia. They might open their first office in Singapore or Tokyo within the next two years.",
+      "transcript": "They might open their first office in Singapore or Tokyo within the next two years.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "They already have offices in Singapore and Tokyo."
+        },
+        {
+          "id": "o2",
+          "text": "They are certain to open in both Singapore and Tokyo."
+        },
+        {
+          "id": "o3",
+          "text": "There is a possibility of opening an Asian office in Singapore or Tokyo in the near future."
+        },
+        {
+          "id": "o4",
+          "text": "They have no plans to expand anywhere."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Might open' expresses a future possibility — expansion to Asia is being considered but not decided.",
+      "mistakeTags": [
+        "business",
+        "modal_may_might_could",
+        "modals"
+      ],
+      "audioPath": "assets/audio/listening/upper_listening_08_modal_may_might_could/t8_15.mp3"
+    }
+  ],
+  "short_description": "Модальные: may, might, could — вероятность."
+}

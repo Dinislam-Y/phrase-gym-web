@@ -1,0 +1,400 @@
+{
+  "id": "intermediate_bc_07_modal_must_should",
+  "title": "Must vs Should",
+  "description": "Must или Should? Обязательно или просто совет — чувствуй разницу.",
+  "order": 8,
+  "level": "intermediate",
+  "imageUrl": null,
+  "tasks": [
+    {
+      "id": "mvs_1",
+      "question": "You ___ wear a seatbelt in a car.",
+      "optionA": "MUST",
+      "optionB": "SHOULD",
+      "correctIndex": 0,
+      "explanation": "Ремень безопасности — это закон, обязательство. Must.",
+      "tags": [
+        "must_vs_should",
+        "must",
+        "rules"
+      ]
+    },
+    {
+      "id": "mvs_2",
+      "question": "You ___ try this restaurant. It's great!",
+      "optionA": "MUST",
+      "optionB": "SHOULD",
+      "correctIndex": 1,
+      "explanation": "Рекомендация, совет — should.",
+      "tags": [
+        "must_vs_should",
+        "should",
+        "food"
+      ]
+    },
+    {
+      "id": "mvs_3",
+      "question": "Students ___ pass all exams to graduate.",
+      "optionA": "MUST",
+      "optionB": "SHOULD",
+      "correctIndex": 0,
+      "explanation": "Обязательное требование для выпуска — must.",
+      "tags": [
+        "must_vs_should",
+        "must",
+        "school"
+      ]
+    },
+    {
+      "id": "mvs_4",
+      "question": "You ___ drink more water every day.",
+      "optionA": "MUST",
+      "optionB": "SHOULD",
+      "correctIndex": 1,
+      "explanation": "Совет для здоровья, не обязательство — should.",
+      "tags": [
+        "must_vs_should",
+        "should",
+        "health"
+      ]
+    },
+    {
+      "id": "mvs_5",
+      "question": "You ___ not park here. It's illegal.",
+      "optionA": "MUST",
+      "optionB": "SHOULD",
+      "correctIndex": 0,
+      "explanation": "Запрет по закону — must not.",
+      "tags": [
+        "must_vs_should",
+        "must",
+        "rules"
+      ]
+    },
+    {
+      "id": "mvs_6",
+      "question": "You ___ apologize to her. It would be nice.",
+      "optionA": "MUST",
+      "optionB": "SHOULD",
+      "correctIndex": 1,
+      "explanation": "Мягкий совет, не строгое обязательство — should.",
+      "tags": [
+        "must_vs_should",
+        "should",
+        "social"
+      ]
+    },
+    {
+      "id": "mvs_7",
+      "question": "All passengers ___ show their tickets.",
+      "optionA": "MUST",
+      "optionB": "SHOULD",
+      "correctIndex": 0,
+      "explanation": "Официальное правило — must.",
+      "tags": [
+        "must_vs_should",
+        "must",
+        "travel"
+      ]
+    },
+    {
+      "id": "mvs_8",
+      "question": "You ___ get some rest. You look tired.",
+      "optionA": "MUST",
+      "optionB": "SHOULD",
+      "correctIndex": 1,
+      "explanation": "Совет другу — should.",
+      "tags": [
+        "must_vs_should",
+        "should",
+        "health"
+      ]
+    },
+    {
+      "id": "mvs_9",
+      "question": "Employees ___ arrive before nine o'clock.",
+      "optionA": "MUST",
+      "optionB": "SHOULD",
+      "correctIndex": 0,
+      "explanation": "Обязательное корпоративное правило — must.",
+      "tags": [
+        "must_vs_should",
+        "must",
+        "work"
+      ]
+    },
+    {
+      "id": "mvs_10",
+      "question": "You ___ read this book. It's really good.",
+      "optionA": "MUST",
+      "optionB": "SHOULD",
+      "correctIndex": 1,
+      "explanation": "Рекомендация, не обязательство — should.",
+      "tags": [
+        "must_vs_should",
+        "should",
+        "daily_life"
+      ]
+    },
+    {
+      "id": "mvs_11",
+      "question": "You ___ not touch the paintings in the museum.",
+      "optionA": "MUST",
+      "optionB": "SHOULD",
+      "correctIndex": 0,
+      "explanation": "Строгий запрет в музее — must not.",
+      "tags": [
+        "must_vs_should",
+        "must",
+        "rules"
+      ]
+    },
+    {
+      "id": "mvs_12",
+      "question": "I think you ___ talk to your boss about it.",
+      "optionA": "MUST",
+      "optionB": "SHOULD",
+      "correctIndex": 1,
+      "explanation": "I think — мягкий совет, should.",
+      "tags": [
+        "must_vs_should",
+        "should",
+        "work"
+      ]
+    },
+    {
+      "id": "mvs_13",
+      "question": "You ___ have a valid passport to travel abroad.",
+      "optionA": "MUST",
+      "optionB": "SHOULD",
+      "correctIndex": 0,
+      "explanation": "Паспорт — обязательное требование для поездки — must.",
+      "tags": [
+        "must_vs_should",
+        "must",
+        "travel"
+      ]
+    },
+    {
+      "id": "mvs_14",
+      "question": "You ___ eat less sugar. It's healthier.",
+      "optionA": "MUST",
+      "optionB": "SHOULD",
+      "correctIndex": 1,
+      "explanation": "Совет для здоровья — should.",
+      "tags": [
+        "must_vs_should",
+        "should",
+        "health"
+      ]
+    },
+    {
+      "id": "mvs_15",
+      "question": "Drivers ___ stop at a red light.",
+      "optionA": "MUST",
+      "optionB": "SHOULD",
+      "correctIndex": 0,
+      "explanation": "Правило дорожного движения — обязательно — must.",
+      "tags": [
+        "must_vs_should",
+        "must",
+        "rules"
+      ]
+    },
+    {
+      "id": "mvs_16",
+      "question": "You ___ visit a doctor if it gets worse.",
+      "optionA": "MUST",
+      "optionB": "SHOULD",
+      "correctIndex": 1,
+      "explanation": "Рекомендация — should. Не строгий приказ.",
+      "tags": [
+        "must_vs_should",
+        "should",
+        "health"
+      ]
+    },
+    {
+      "id": "mvs_17",
+      "question": "You ___ not use your phone during the flight.",
+      "optionA": "MUST",
+      "optionB": "SHOULD",
+      "correctIndex": 0,
+      "explanation": "Правило авиакомпании — must not.",
+      "tags": [
+        "must_vs_should",
+        "must",
+        "travel"
+      ]
+    },
+    {
+      "id": "mvs_18",
+      "question": "You ___ call your parents more often.",
+      "optionA": "MUST",
+      "optionB": "SHOULD",
+      "correctIndex": 1,
+      "explanation": "Мягкий совет — should.",
+      "tags": [
+        "must_vs_should",
+        "should",
+        "family"
+      ]
+    },
+    {
+      "id": "mvs_19",
+      "question": "All visitors ___ sign in at reception.",
+      "optionA": "MUST",
+      "optionB": "SHOULD",
+      "correctIndex": 0,
+      "explanation": "Обязательная процедура — must.",
+      "tags": [
+        "must_vs_should",
+        "must",
+        "work"
+      ]
+    },
+    {
+      "id": "mvs_20",
+      "question": "Maybe you ___ take a break. You've worked a lot.",
+      "optionA": "MUST",
+      "optionB": "SHOULD",
+      "correctIndex": 1,
+      "explanation": "Maybe — мягкое предложение, should.",
+      "tags": [
+        "must_vs_should",
+        "should",
+        "work"
+      ]
+    },
+    {
+      "id": "mvs_21",
+      "question": "Candidates ___ submit documents by Friday.",
+      "optionA": "MUST",
+      "optionB": "SHOULD",
+      "correctIndex": 0,
+      "explanation": "Дедлайн, обязательное требование — must.",
+      "tags": [
+        "must_vs_should",
+        "must",
+        "work"
+      ]
+    },
+    {
+      "id": "mvs_22",
+      "question": "You ___ think about it before you decide.",
+      "optionA": "MUST",
+      "optionB": "SHOULD",
+      "correctIndex": 1,
+      "explanation": "Совет подумать, не приказ — should.",
+      "tags": [
+        "must_vs_should",
+        "should",
+        "communication"
+      ]
+    },
+    {
+      "id": "mvs_23",
+      "question": "You ___ not enter without permission.",
+      "optionA": "MUST",
+      "optionB": "SHOULD",
+      "correctIndex": 0,
+      "explanation": "Строгий запрет на вход — must not.",
+      "tags": [
+        "must_vs_should",
+        "must",
+        "rules"
+      ]
+    },
+    {
+      "id": "mvs_24",
+      "question": "You ___ always warm up before exercising.",
+      "optionA": "MUST",
+      "optionB": "SHOULD",
+      "correctIndex": 1,
+      "explanation": "Полезный совет для здоровья, не строгий закон — should.",
+      "tags": [
+        "must_vs_should",
+        "should",
+        "health"
+      ]
+    },
+    {
+      "id": "mvs_25",
+      "question": "You ___ save money for the future.",
+      "optionA": "MUST",
+      "optionB": "SHOULD",
+      "correctIndex": 1,
+      "explanation": "Общая рекомендация — should.",
+      "tags": [
+        "must_vs_should",
+        "should",
+        "daily_life"
+      ]
+    },
+    {
+      "id": "mvs_26",
+      "question": "Children ___ be accompanied by an adult.",
+      "optionA": "MUST",
+      "optionB": "SHOULD",
+      "correctIndex": 0,
+      "explanation": "Обязательное правило безопасности — must.",
+      "tags": [
+        "must_vs_should",
+        "must",
+        "rules"
+      ]
+    },
+    {
+      "id": "mvs_27",
+      "question": "You ___ be more careful with your words.",
+      "optionA": "MUST",
+      "optionB": "SHOULD",
+      "correctIndex": 1,
+      "explanation": "Мягкий совет быть аккуратнее — should.",
+      "tags": [
+        "must_vs_should",
+        "should",
+        "communication"
+      ]
+    },
+    {
+      "id": "mvs_28",
+      "question": "This form ___ be completed in black ink.",
+      "optionA": "MUST",
+      "optionB": "SHOULD",
+      "correctIndex": 0,
+      "explanation": "Официальное требование к заполнению формы — must.",
+      "tags": [
+        "must_vs_should",
+        "must",
+        "work"
+      ]
+    },
+    {
+      "id": "mvs_29",
+      "question": "You ___ check the weather before the hike.",
+      "optionA": "MUST",
+      "optionB": "SHOULD",
+      "correctIndex": 1,
+      "explanation": "Разумный совет, не обязательство — should.",
+      "tags": [
+        "must_vs_should",
+        "should",
+        "travel"
+      ]
+    },
+    {
+      "id": "mvs_30",
+      "question": "You ___ not share your password with anyone.",
+      "optionA": "MUST",
+      "optionB": "SHOULD",
+      "correctIndex": 0,
+      "explanation": "Строгое правило безопасности — must not.",
+      "tags": [
+        "must_vs_should",
+        "must",
+        "rules"
+      ]
+    }
+  ]
+}

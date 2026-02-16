@@ -1,0 +1,461 @@
+{
+  "id": "advanced_listening_06_ellipsis_substitution",
+  "title": "Ellipsis & Substitution",
+  "description": "Слушайте сокращения и замены в разговорной речи.",
+  "order": 6,
+  "level": "advanced",
+  "imageUrl": "assets/images/lessons/ellipsis_substitution.png",
+  "tasks": [
+    {
+      "id": "t6_01",
+      "audioText": "Mark enjoys classical music and attends the philharmonic regularly. His wife does too, and they often go together on Friday evenings.",
+      "transcript": "His wife does too, and they often go together on Friday evenings.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "His wife also likes classical music, and they frequently attend concerts together on Fridays."
+        },
+        {
+          "id": "o2",
+          "text": "His wife dislikes classical music but goes with him anyway."
+        },
+        {
+          "id": "o3",
+          "text": "They go to concerts separately on different evenings."
+        },
+        {
+          "id": "o4",
+          "text": "Mark goes alone because his wife prefers staying at home."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Does too' substitutes for 'enjoys classical music and attends the philharmonic regularly', showing shared interest.",
+      "mistakeTags": [
+        "ellipsis_substitution",
+        "auxiliary_substitution"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_06_ellipsis_substitution/t6_01.mp3"
+    },
+    {
+      "id": "t6_02",
+      "audioText": "The manager asked whether the quarterly report would be ready by Monday. The accountant said she thought so but couldn't guarantee it entirely.",
+      "transcript": "The accountant said she thought so but couldn't guarantee it entirely.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The accountant was confident the report would definitely be ready by Monday."
+        },
+        {
+          "id": "o2",
+          "text": "The accountant believed it was likely but was not completely certain about the Monday deadline."
+        },
+        {
+          "id": "o3",
+          "text": "The accountant said the report would not be ready by Monday under any circumstances."
+        },
+        {
+          "id": "o4",
+          "text": "The manager decided to extend the deadline past Monday."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Thought so' substitutes for 'thought the report would be ready by Monday'. She was hopeful but uncertain.",
+      "mistakeTags": [
+        "ellipsis_substitution",
+        "so_substitution"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_06_ellipsis_substitution/t6_02.mp3"
+    },
+    {
+      "id": "t6_03",
+      "audioText": "The students were discussing whether the exam would be postponed. Sarah hoped not, because she had already spent the entire weekend revising thoroughly.",
+      "transcript": "Sarah hoped not, because she had already spent the entire weekend revising thoroughly.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Sarah wanted the exam to be postponed so she could study more."
+        },
+        {
+          "id": "o2",
+          "text": "Sarah hoped the exam would not be delayed since she had already prepared extensively over the weekend."
+        },
+        {
+          "id": "o3",
+          "text": "Sarah had not studied at all for the exam."
+        },
+        {
+          "id": "o4",
+          "text": "The exam was already cancelled before the discussion."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Hoped not' substitutes for 'hoped the exam would not be postponed'. She wanted to take it as scheduled after thorough preparation.",
+      "mistakeTags": [
+        "ellipsis_substitution",
+        "not_substitution"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_06_ellipsis_substitution/t6_03.mp3"
+    },
+    {
+      "id": "t6_04",
+      "audioText": "The architect presented two building designs to the committee. The first one was traditional and the second one more contemporary with a glass facade.",
+      "transcript": "The first one was traditional and the second one more contemporary with a glass facade.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Both building designs were identical in style."
+        },
+        {
+          "id": "o2",
+          "text": "The first design had a classical look while the second featured a modern glass exterior."
+        },
+        {
+          "id": "o3",
+          "text": "Only one design was presented to the committee."
+        },
+        {
+          "id": "o4",
+          "text": "The traditional design included a glass facade."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'One' substitutes for 'design' in both instances, and 'was' is elided from 'the second one [was] more contemporary'.",
+      "mistakeTags": [
+        "ellipsis_substitution",
+        "one_substitution"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_06_ellipsis_substitution/t6_04.mp3"
+    },
+    {
+      "id": "t6_05",
+      "audioText": "The marketing director couldn't attend the conference in Berlin. Neither could the head of sales, so they sent two junior representatives instead.",
+      "transcript": "Neither could the head of sales, so they sent two junior representatives instead.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The head of sales was also unable to go, so junior staff went to the conference in their place."
+        },
+        {
+          "id": "o2",
+          "text": "The head of sales attended the conference alone."
+        },
+        {
+          "id": "o3",
+          "text": "Both the marketing director and head of sales attended the conference."
+        },
+        {
+          "id": "o4",
+          "text": "The conference in Berlin was cancelled."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Neither could' substitutes for 'neither could the head of sales attend the conference', showing the same inability. Junior staff replaced them.",
+      "mistakeTags": [
+        "ellipsis_substitution",
+        "neither_auxiliary"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_06_ellipsis_substitution/t6_05.mp3"
+    },
+    {
+      "id": "t6_06",
+      "audioText": "The journalist asked the politician whether she would support the proposed healthcare reform. She said she would, provided the funding model was revised substantially.",
+      "transcript": "She said she would, provided the funding model was revised substantially.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The politician rejected the healthcare reform entirely."
+        },
+        {
+          "id": "o2",
+          "text": "The politician agreed to support the reform on condition that the funding approach was significantly changed."
+        },
+        {
+          "id": "o3",
+          "text": "The politician supported the reform without any conditions."
+        },
+        {
+          "id": "o4",
+          "text": "The journalist supported the healthcare reform personally."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'She would' elides 'support the proposed healthcare reform'. Her support was conditional on major funding revisions.",
+      "mistakeTags": [
+        "ellipsis_substitution",
+        "auxiliary_ellipsis"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_06_ellipsis_substitution/t6_06.mp3"
+    },
+    {
+      "id": "t6_07",
+      "audioText": "The research team needed to decide between two methodological approaches. Professor Taylor preferred the qualitative approach and Dr. Singh the quantitative one.",
+      "transcript": "Professor Taylor preferred the qualitative approach and Dr. Singh the quantitative one.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Both professors agreed on the same research methodology."
+        },
+        {
+          "id": "o2",
+          "text": "Taylor favoured qualitative methods while Singh favoured quantitative methods."
+        },
+        {
+          "id": "o3",
+          "text": "Dr. Singh also preferred the qualitative approach."
+        },
+        {
+          "id": "o4",
+          "text": "Neither professor had a preference for any methodology."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Dr. Singh [preferred] the quantitative one' uses both verb ellipsis and 'one' substitution for 'approach'. They had opposing preferences.",
+      "mistakeTags": [
+        "ellipsis_substitution",
+        "verb_ellipsis"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_06_ellipsis_substitution/t6_07.mp3"
+    },
+    {
+      "id": "t6_08",
+      "audioText": "The investor asked the startup founder if the product would be profitable within two years. The founder believed so, citing strong pre-order numbers and growing demand.",
+      "transcript": "The founder believed so, citing strong pre-order numbers and growing demand.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The founder thought profitability within two years was likely, based on good pre-orders and increasing demand."
+        },
+        {
+          "id": "o2",
+          "text": "The founder doubted the product would ever become profitable."
+        },
+        {
+          "id": "o3",
+          "text": "The investor was not interested in the product's profitability."
+        },
+        {
+          "id": "o4",
+          "text": "Pre-order numbers were disappointing and demand was falling."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'Believed so' substitutes for 'believed the product would be profitable within two years'. Evidence supported optimism.",
+      "mistakeTags": [
+        "ellipsis_substitution",
+        "so_substitution"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_06_ellipsis_substitution/t6_08.mp3"
+    },
+    {
+      "id": "t6_09",
+      "audioText": "The lecturer asked the students to submit their dissertations electronically. Some had already done so, while others were still finalising their work.",
+      "transcript": "Some had already done so, while others were still finalising their work.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "All students had submitted their dissertations on time."
+        },
+        {
+          "id": "o2",
+          "text": "No students had submitted their dissertations yet."
+        },
+        {
+          "id": "o3",
+          "text": "Some students had already submitted electronically, but others were still completing their dissertations."
+        },
+        {
+          "id": "o4",
+          "text": "The lecturer cancelled the electronic submission requirement."
+        }
+      ],
+      "correctIndex": 2,
+      "explanation": "'Done so' substitutes for 'submitted their dissertations electronically'. Some complied early while others needed more time.",
+      "mistakeTags": [
+        "ellipsis_substitution",
+        "do_so"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_06_ellipsis_substitution/t6_09.mp3"
+    },
+    {
+      "id": "t6_10",
+      "audioText": "The board discussed whether the merger should proceed as planned. The chairman thought it should, but several board members expressed serious reservations about the timing.",
+      "transcript": "The chairman thought it should, but several board members expressed serious reservations about the timing.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "Everyone on the board agreed the merger should proceed immediately."
+        },
+        {
+          "id": "o2",
+          "text": "The chairman favoured proceeding with the merger, but some board members had significant concerns about when to do it."
+        },
+        {
+          "id": "o3",
+          "text": "The chairman opposed the merger entirely."
+        },
+        {
+          "id": "o4",
+          "text": "The merger had already been completed before the discussion."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'It should' elides 'proceed as planned'. The chairman supported the merger but others were worried about timing.",
+      "mistakeTags": [
+        "ellipsis_substitution",
+        "auxiliary_ellipsis"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_06_ellipsis_substitution/t6_10.mp3"
+    },
+    {
+      "id": "t6_11",
+      "audioText": "The travel agent offered two holiday packages to the couple. They chose the more expensive one because it included flights and a guided tour of the historical sites.",
+      "transcript": "They chose the more expensive one because it included flights and a guided tour of the historical sites.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The couple selected the cheaper holiday package."
+        },
+        {
+          "id": "o2",
+          "text": "The couple picked the pricier package since it came with airfare and a historical sightseeing tour."
+        },
+        {
+          "id": "o3",
+          "text": "Both packages included flights and guided tours."
+        },
+        {
+          "id": "o4",
+          "text": "The couple decided not to book any holiday package."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'One' substitutes for 'holiday package'. They opted for the costlier option for its extra inclusions.",
+      "mistakeTags": [
+        "ellipsis_substitution",
+        "one_substitution"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_06_ellipsis_substitution/t6_11.mp3"
+    },
+    {
+      "id": "t6_12",
+      "audioText": "The project manager was concerned about whether the software would pass quality assurance testing. The lead developer assured her it would, as the team had resolved all critical bugs.",
+      "transcript": "The lead developer assured her it would, as the team had resolved all critical bugs.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The developer assured the manager the software would pass QA because all major bugs had been fixed."
+        },
+        {
+          "id": "o2",
+          "text": "The software had many unresolved critical bugs."
+        },
+        {
+          "id": "o3",
+          "text": "The project manager was not worried about quality assurance."
+        },
+        {
+          "id": "o4",
+          "text": "The lead developer refused to comment on the software quality."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": "'It would' elides 'pass quality assurance testing'. The developer was confident because critical bugs were already fixed.",
+      "mistakeTags": [
+        "ellipsis_substitution",
+        "auxiliary_ellipsis"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_06_ellipsis_substitution/t6_12.mp3"
+    },
+    {
+      "id": "t6_13",
+      "audioText": "The coach asked whether any of the players had experienced knee problems before the match. Two of them had, but they insisted on playing regardless of the discomfort.",
+      "transcript": "Two of them had, but they insisted on playing regardless of the discomfort.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "None of the players had knee problems."
+        },
+        {
+          "id": "o2",
+          "text": "Two players had experienced knee issues, but they chose to play despite the pain."
+        },
+        {
+          "id": "o3",
+          "text": "The two players with knee problems were not allowed to play."
+        },
+        {
+          "id": "o4",
+          "text": "All the players had knee problems before the match."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Two of them had' elides 'experienced knee problems'. Despite the issues, both players were determined to participate.",
+      "mistakeTags": [
+        "ellipsis_substitution",
+        "auxiliary_ellipsis"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_06_ellipsis_substitution/t6_13.mp3"
+    },
+    {
+      "id": "t6_14",
+      "audioText": "The chef was asked whether the restaurant would offer a vegan tasting menu this season. He said he hoped so, as customer demand for plant-based options had increased dramatically.",
+      "transcript": "He said he hoped so, as customer demand for plant-based options had increased dramatically.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The chef definitively confirmed a vegan tasting menu for this season."
+        },
+        {
+          "id": "o2",
+          "text": "The chef expressed hope for a vegan menu this season, driven by a sharp rise in demand for plant-based food."
+        },
+        {
+          "id": "o3",
+          "text": "The chef said there was no demand for vegan options."
+        },
+        {
+          "id": "o4",
+          "text": "The restaurant already had a vegan tasting menu."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'Hoped so' substitutes for 'hoped the restaurant would offer a vegan tasting menu'. Growing demand motivated his aspiration.",
+      "mistakeTags": [
+        "ellipsis_substitution",
+        "so_substitution"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_06_ellipsis_substitution/t6_14.mp3"
+    },
+    {
+      "id": "t6_15",
+      "audioText": "The parents were worried about their daughter studying abroad. She assured them she could manage on her own, and so far she has, handling everything from finances to meal preparation independently.",
+      "transcript": "She assured them she could manage on her own, and so far she has, handling everything from finances to meal preparation independently.",
+      "options": [
+        {
+          "id": "o1",
+          "text": "The daughter has been unable to manage living abroad by herself."
+        },
+        {
+          "id": "o2",
+          "text": "She promised she could cope independently, and up to now she has proven it by managing all aspects of daily life alone."
+        },
+        {
+          "id": "o3",
+          "text": "Her parents have been helping her manage finances and meals abroad."
+        },
+        {
+          "id": "o4",
+          "text": "She decided to return home because she could not manage alone."
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": "'She has' elides 'managed on her own'. Her promise of independence has been fulfilled through self-reliance in all areas.",
+      "mistakeTags": [
+        "ellipsis_substitution",
+        "auxiliary_ellipsis"
+      ],
+      "audioPath": "assets/audio/listening/advanced_listening_06_ellipsis_substitution/t6_15.mp3"
+    }
+  ],
+  "short_description": "Эллипсис и замена: so do I, neither did she, hope so и другие сокращения."
+}

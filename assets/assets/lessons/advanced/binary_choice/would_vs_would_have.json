@@ -1,0 +1,400 @@
+{
+  "id": "advanced_bc_04_mixed_conditionals",
+  "title": "Would vs Would Have",
+  "description": "Would или Would have? Тренируем смешанные условные предложения.",
+  "order": 4,
+  "level": "advanced",
+  "imageUrl": null,
+  "tasks": [
+    {
+      "id": "wvwh_1",
+      "question": "If I had studied medicine, I ___ be a doctor now.",
+      "optionA": "WOULD",
+      "optionB": "WOULD HAVE",
+      "correctIndex": 0,
+      "explanation": "Прошлое условие → настоящий результат. If I had studied (прошлое) → I would be (сейчас).",
+      "tags": [
+        "would_vs_would_have",
+        "would",
+        "mixed_conditional"
+      ]
+    },
+    {
+      "id": "wvwh_2",
+      "question": "If she were more careful, she ___ avoided the accident yesterday.",
+      "optionA": "WOULD",
+      "optionB": "WOULD HAVE",
+      "correctIndex": 1,
+      "explanation": "Настоящее условие → прошлый результат. If she were (всегда) → she would have avoided (вчера).",
+      "tags": [
+        "would_vs_would_have",
+        "would_have",
+        "mixed_conditional"
+      ]
+    },
+    {
+      "id": "wvwh_3",
+      "question": "If they had invested wisely, they ___ be wealthy today.",
+      "optionA": "WOULD",
+      "optionB": "WOULD HAVE",
+      "correctIndex": 0,
+      "explanation": "Прошлое условие → настоящий результат. Had invested (прошлое) → would be (сейчас).",
+      "tags": [
+        "would_vs_would_have",
+        "would",
+        "mixed_conditional"
+      ]
+    },
+    {
+      "id": "wvwh_4",
+      "question": "If he weren't so stubborn, he ___ accepted the offer last week.",
+      "optionA": "WOULD",
+      "optionB": "WOULD HAVE",
+      "correctIndex": 1,
+      "explanation": "Настоящее условие → прошлый результат. He weren't (характеристика) → would have accepted (на прошлой неделе).",
+      "tags": [
+        "would_vs_would_have",
+        "would_have",
+        "mixed_conditional"
+      ]
+    },
+    {
+      "id": "wvwh_5",
+      "question": "If I had been born in France, I ___ speak French fluently.",
+      "optionA": "WOULD",
+      "optionB": "WOULD HAVE",
+      "correctIndex": 0,
+      "explanation": "Прошлое условие → настоящий результат. Had been born (прошлое) → would speak (сейчас).",
+      "tags": [
+        "would_vs_would_have",
+        "would",
+        "mixed_conditional"
+      ]
+    },
+    {
+      "id": "wvwh_6",
+      "question": "If she liked adventure, she ___ joined us on the trip last month.",
+      "optionA": "WOULD",
+      "optionB": "WOULD HAVE",
+      "correctIndex": 1,
+      "explanation": "Настоящее условие → прошлый результат. If she liked (характер) → would have joined (в прошлом месяце).",
+      "tags": [
+        "would_vs_would_have",
+        "would_have",
+        "mixed_conditional"
+      ]
+    },
+    {
+      "id": "wvwh_7",
+      "question": "If we had taken that flight, we ___ be in Tokyo right now.",
+      "optionA": "WOULD",
+      "optionB": "WOULD HAVE",
+      "correctIndex": 0,
+      "explanation": "Прошлое условие → настоящий результат. Had taken (прошлое) → would be (прямо сейчас).",
+      "tags": [
+        "would_vs_would_have",
+        "would",
+        "mixed_conditional"
+      ]
+    },
+    {
+      "id": "wvwh_8",
+      "question": "If I weren't allergic to cats, I ___ adopted that kitten at the shelter.",
+      "optionA": "WOULD",
+      "optionB": "WOULD HAVE",
+      "correctIndex": 1,
+      "explanation": "Настоящее условие → прошлый результат. Weren't allergic (сейчас) → would have adopted (тогда).",
+      "tags": [
+        "would_vs_would_have",
+        "would_have",
+        "mixed_conditional"
+      ]
+    },
+    {
+      "id": "wvwh_9",
+      "question": "If she had finished her degree, she ___ have more career options.",
+      "optionA": "WOULD",
+      "optionB": "WOULD HAVE",
+      "correctIndex": 0,
+      "explanation": "Прошлое условие → настоящий результат. Had finished (прошлое) → would have (= имела бы сейчас).",
+      "tags": [
+        "would_vs_would_have",
+        "would",
+        "mixed_conditional"
+      ]
+    },
+    {
+      "id": "wvwh_10",
+      "question": "If he were a better communicator, he ___ resolved the conflict earlier.",
+      "optionA": "WOULD",
+      "optionB": "WOULD HAVE",
+      "correctIndex": 1,
+      "explanation": "Настоящее условие → прошлый результат. Were (характеристика) → would have resolved (ранее).",
+      "tags": [
+        "would_vs_would_have",
+        "would_have",
+        "mixed_conditional"
+      ]
+    },
+    {
+      "id": "wvwh_11",
+      "question": "If you had saved money consistently, you ___ own a house by now.",
+      "optionA": "WOULD",
+      "optionB": "WOULD HAVE",
+      "correctIndex": 0,
+      "explanation": "Прошлое условие → настоящий результат. Had saved (прошлое) → would own (к настоящему моменту).",
+      "tags": [
+        "would_vs_would_have",
+        "would",
+        "mixed_conditional"
+      ]
+    },
+    {
+      "id": "wvwh_12",
+      "question": "If they trusted each other more, they ___ signed the deal last quarter.",
+      "optionA": "WOULD",
+      "optionB": "WOULD HAVE",
+      "correctIndex": 1,
+      "explanation": "Настоящее условие → прошлый результат. Trusted (характеристика) → would have signed (в прошлом квартале).",
+      "tags": [
+        "would_vs_would_have",
+        "would_have",
+        "mixed_conditional"
+      ]
+    },
+    {
+      "id": "wvwh_13",
+      "question": "If we hadn't missed the connecting flight, we ___ be at the resort already.",
+      "optionA": "WOULD",
+      "optionB": "WOULD HAVE",
+      "correctIndex": 0,
+      "explanation": "Прошлое условие → настоящий результат. Hadn't missed (прошлое) → would be (уже на курорте).",
+      "tags": [
+        "would_vs_would_have",
+        "would",
+        "mixed_conditional"
+      ]
+    },
+    {
+      "id": "wvwh_14",
+      "question": "If she weren't so risk-averse, she ___ started her own business years ago.",
+      "optionA": "WOULD",
+      "optionB": "WOULD HAVE",
+      "correctIndex": 1,
+      "explanation": "Настоящее условие → прошлый результат. Weren't (характер) → would have started (много лет назад).",
+      "tags": [
+        "would_vs_would_have",
+        "would_have",
+        "mixed_conditional"
+      ]
+    },
+    {
+      "id": "wvwh_15",
+      "question": "If I had learned to code as a child, I ___ work at a tech company now.",
+      "optionA": "WOULD",
+      "optionB": "WOULD HAVE",
+      "correctIndex": 0,
+      "explanation": "Прошлое условие → настоящий результат. Had learned (в детстве) → would work (сейчас).",
+      "tags": [
+        "would_vs_would_have",
+        "would",
+        "mixed_conditional"
+      ]
+    },
+    {
+      "id": "wvwh_16",
+      "question": "If he spoke better English, he ___ gotten the promotion last year.",
+      "optionA": "WOULD",
+      "optionB": "WOULD HAVE",
+      "correctIndex": 1,
+      "explanation": "Настоящее условие → прошлый результат. Spoke (навык сейчас) → would have gotten (в прошлом году).",
+      "tags": [
+        "would_vs_would_have",
+        "would_have",
+        "mixed_conditional"
+      ]
+    },
+    {
+      "id": "wvwh_17",
+      "question": "If the company had adapted sooner, it ___ be more competitive today.",
+      "optionA": "WOULD",
+      "optionB": "WOULD HAVE",
+      "correctIndex": 0,
+      "explanation": "Прошлое условие → настоящий результат. Had adapted (прошлое) → would be (сегодня).",
+      "tags": [
+        "would_vs_would_have",
+        "would",
+        "mixed_conditional"
+      ]
+    },
+    {
+      "id": "wvwh_18",
+      "question": "If I didn't have a fear of heights, I ___ gone skydiving with you.",
+      "optionA": "WOULD",
+      "optionB": "WOULD HAVE",
+      "correctIndex": 1,
+      "explanation": "Настоящее условие → прошлый результат. Didn't have (страх сейчас) → would have gone (тогда).",
+      "tags": [
+        "would_vs_would_have",
+        "would_have",
+        "mixed_conditional"
+      ]
+    },
+    {
+      "id": "wvwh_19",
+      "question": "If she had married him, she ___ live in a completely different country.",
+      "optionA": "WOULD",
+      "optionB": "WOULD HAVE",
+      "correctIndex": 0,
+      "explanation": "Прошлое условие → настоящий результат. Had married (прошлое) → would live (сейчас).",
+      "tags": [
+        "would_vs_would_have",
+        "would",
+        "mixed_conditional"
+      ]
+    },
+    {
+      "id": "wvwh_20",
+      "question": "If he weren't so impatient, he ___ waited for a better opportunity then.",
+      "optionA": "WOULD",
+      "optionB": "WOULD HAVE",
+      "correctIndex": 1,
+      "explanation": "Настоящее условие → прошлый результат. Weren't impatient (характер) → would have waited (тогда).",
+      "tags": [
+        "would_vs_would_have",
+        "would_have",
+        "mixed_conditional"
+      ]
+    },
+    {
+      "id": "wvwh_21",
+      "question": "If they hadn't cut the education budget, schools ___ be in better shape now.",
+      "optionA": "WOULD",
+      "optionB": "WOULD HAVE",
+      "correctIndex": 0,
+      "explanation": "Прошлое условие → настоящий результат. Hadn't cut (прошлое) → would be (сейчас).",
+      "tags": [
+        "would_vs_would_have",
+        "would",
+        "mixed_conditional"
+      ]
+    },
+    {
+      "id": "wvwh_22",
+      "question": "If she understood the market better, she ___ made a fortune during the boom.",
+      "optionA": "WOULD",
+      "optionB": "WOULD HAVE",
+      "correctIndex": 1,
+      "explanation": "Настоящее условие → прошлый результат. Understood (сейчас) → would have made (во время бума).",
+      "tags": [
+        "would_vs_would_have",
+        "would_have",
+        "mixed_conditional"
+      ]
+    },
+    {
+      "id": "wvwh_23",
+      "question": "If I hadn't broken my leg last winter, I ___ be competing in the race tomorrow.",
+      "optionA": "WOULD",
+      "optionB": "WOULD HAVE",
+      "correctIndex": 0,
+      "explanation": "Прошлое условие → настоящий/будущий результат. Hadn't broken (прошлое) → would be competing (завтра).",
+      "tags": [
+        "would_vs_would_have",
+        "would",
+        "mixed_conditional"
+      ]
+    },
+    {
+      "id": "wvwh_24",
+      "question": "If he were less conservative with money, he ___ invested in that startup back then.",
+      "optionA": "WOULD",
+      "optionB": "WOULD HAVE",
+      "correctIndex": 1,
+      "explanation": "Настоящее условие → прошлый результат. Were less conservative (характер) → would have invested (тогда).",
+      "tags": [
+        "would_vs_would_have",
+        "would_have",
+        "mixed_conditional"
+      ]
+    },
+    {
+      "id": "wvwh_25",
+      "question": "If we had chosen a different location, the business ___ be thriving right now.",
+      "optionA": "WOULD",
+      "optionB": "WOULD HAVE",
+      "correctIndex": 0,
+      "explanation": "Прошлое условие → настоящий результат. Had chosen (прошлое) → would be thriving (сейчас).",
+      "tags": [
+        "would_vs_would_have",
+        "would",
+        "mixed_conditional"
+      ]
+    },
+    {
+      "id": "wvwh_26",
+      "question": "If she didn't procrastinate so much, she ___ finished her thesis on time.",
+      "optionA": "WOULD",
+      "optionB": "WOULD HAVE",
+      "correctIndex": 1,
+      "explanation": "Настоящее условие → прошлый результат. Didn't procrastinate (привычка) → would have finished (вовремя).",
+      "tags": [
+        "would_vs_would_have",
+        "would_have",
+        "mixed_conditional"
+      ]
+    },
+    {
+      "id": "wvwh_27",
+      "question": "If I had accepted that job offer abroad, I ___ know the language perfectly now.",
+      "optionA": "WOULD",
+      "optionB": "WOULD HAVE",
+      "correctIndex": 0,
+      "explanation": "Прошлое условие → настоящий результат. Had accepted (прошлое) → would know (сейчас).",
+      "tags": [
+        "would_vs_would_have",
+        "would",
+        "mixed_conditional"
+      ]
+    },
+    {
+      "id": "wvwh_28",
+      "question": "If they were more open-minded, they ___ agreed to the proposal at the meeting.",
+      "optionA": "WOULD",
+      "optionB": "WOULD HAVE",
+      "correctIndex": 1,
+      "explanation": "Настоящее условие → прошлый результат. Were (характер) → would have agreed (на встрече).",
+      "tags": [
+        "would_vs_would_have",
+        "would_have",
+        "mixed_conditional"
+      ]
+    },
+    {
+      "id": "wvwh_29",
+      "question": "If the government had acted decisively, the economy ___ be in recovery by now.",
+      "optionA": "WOULD",
+      "optionB": "WOULD HAVE",
+      "correctIndex": 0,
+      "explanation": "Прошлое условие → настоящий результат. Had acted (прошлое) → would be (к настоящему моменту).",
+      "tags": [
+        "would_vs_would_have",
+        "would",
+        "mixed_conditional"
+      ]
+    },
+    {
+      "id": "wvwh_30",
+      "question": "If he weren't so proud, he ___ asked for help when the project was failing.",
+      "optionA": "WOULD",
+      "optionB": "WOULD HAVE",
+      "correctIndex": 1,
+      "explanation": "Настоящее условие → прошлый результат. Weren't proud (характер) → would have asked (когда проект проваливался).",
+      "tags": [
+        "would_vs_would_have",
+        "would_have",
+        "mixed_conditional"
+      ]
+    }
+  ]
+}
