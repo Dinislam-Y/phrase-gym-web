@@ -189,49 +189,81 @@
     }
   ],
   "theory": {
+    "category": "grammar",
     "title": "Formal vs Informal Register",
-    "content": "Регистр — это уровень формальности языка, который мы выбираем в зависимости от ситуации. В английском существует чёткое разделение между формальным (formal) и неформальным (informal) стилями.",
+    "subtitle": "Регистр — это уровень формальности языка, который мы выбираем в зависимости от ситуации. В английском существует чёткое разделение между формальным (formal) и неформальным (informal) стилями.",
+    "construction": {
+      "formula": "Formal (Latin/French) ↔ Informal (Germanic)",
+      "rules": [
+        {
+          "word": "Лексические пары",
+          "description": "purchase → buy, reside → live, commence → start, obtain → get, assist → help, enquire → ask."
+        },
+        {
+          "word": "Грамматика",
+          "description": "Формальный регистр предпочитает пассивный залог, полные формы (do not), безличные конструкции."
+        },
+        {
+          "word": "Коннекторы",
+          "description": "Formal: furthermore, nevertheless, consequently. Informal: also, but, so."
+        },
+        {
+          "word": "Контекст",
+          "description": "Деловая переписка, академия → formal. Друзья, чаты → informal."
+        }
+      ]
+    },
     "useCases": [
       {
+        "icon": "visibility",
+        "color": "blue",
         "title": "Лексические пары: формальное vs разговорное",
-        "explanation": "В английском многие понятия имеют два варианта: латинский/французский корень (формально) и германский (разговорно). Выбор слова сигнализирует уровень формальности.",
-        "examples": [
-          "purchase → buy, reside → live, commence → start/begin",
-          "obtain → get, assist → help, enquire → ask",
-          "terminate → end/stop, inform → tell, require → need",
-          "prior to → before, subsequently → after that, regarding → about"
-        ]
+        "description": "В английском многие понятия имеют два варианта: латинский/французский корень (формально) и германский (разговорно).",
+        "example": {
+          "english": "We purchased the property last year.",
+          "russian": "Мы приобрели эту недвижимость в прошлом году. (purchase = formal buy)"
+        }
       },
       {
+        "icon": "star",
+        "color": "purple",
         "title": "Грамматические маркеры формального стиля",
-        "explanation": "Формальный регистр предпочитает пассивный залог, полные формы (do not вместо don't), сложные предложения и безличные конструкции. Неформальный стиль использует сокращения, фразовые глаголы и простые структуры.",
-        "examples": [
-          "Formal: It is recommended that you do not attend. → Informal: I'd skip it if I were you.",
-          "Formal: The meeting has been postponed. → Informal: They've put off the meeting.",
-          "Formal: One should consider the consequences. → Informal: You should think about what happens.",
-          "Formal: We regret to inform you... → Informal: Sorry, but..."
-        ]
+        "description": "Пассивный залог, полные формы (do not вместо don't), сложные предложения и безличные конструкции.",
+        "example": {
+          "english": "It is recommended that you do not attend.",
+          "russian": "Рекомендуется вам не присутствовать. (formal) vs I'd skip it if I were you. (informal)"
+        }
       },
       {
+        "icon": "explore",
+        "color": "orange",
         "title": "Связующие слова и переходы",
-        "explanation": "Формальные тексты используют латинские коннекторы (furthermore, nevertheless, consequently), в то время как неформальная речь предпочитает простые связки (also, but, so).",
-        "examples": [
-          "Formal: Furthermore, the data supports... → Informal: Also, the data shows...",
-          "Formal: Nevertheless, we proceeded. → Informal: Still, we went ahead.",
-          "Formal: Consequently, the project was delayed. → Informal: So the project got delayed.",
-          "Formal: In addition to the above... → Informal: On top of that..."
-        ]
+        "description": "Формальные тексты используют латинские коннекторы, неформальная речь — простые связки.",
+        "example": {
+          "english": "Furthermore, the data supports our hypothesis.",
+          "russian": "Более того, данные подтверждают нашу гипотезу. (formal) vs Also, the data shows... (informal)"
+        }
       },
       {
+        "icon": "check_circle",
+        "color": "green",
         "title": "Контекст определяет регистр",
-        "explanation": "Академические работы, деловая переписка, юридические документы требуют формального регистра. Повседневное общение, переписка с друзьями и социальные сети — неформального. Ошибка в выборе регистра может звучать неуместно или даже грубо.",
-        "examples": [
-          "Job application: I am writing to enquire about the position. (formal ✓)",
-          "Text to friend: Hey, just asking about the job thing. (informal ✓)",
-          "Business email: We wish to inform you of changes. (formal ✓)",
-          "Chat message: Just letting you know things changed. (informal ✓)"
-        ]
+        "description": "Академия и бизнес требуют формального регистра. Повседневное общение — неформального.",
+        "example": {
+          "english": "I am writing to enquire about the position.",
+          "russian": "Пишу, чтобы осведомиться о вакансии. (formal job application)"
+        }
       }
+    ],
+    "markers": [
+      "purchase / buy",
+      "reside / live",
+      "commence / start",
+      "furthermore / also",
+      "nevertheless / but",
+      "consequently / so",
+      "prior to / before",
+      "regarding / about"
     ]
   },
   "theoryQuiz": [
@@ -245,7 +277,7 @@
         "grab",
         "pick up"
       ],
-      "correctAnswerIndex": 0,
+      "correctIndex": 0,
       "explanation": "'Purchase' — формальный латинский эквивалент германского 'buy'. 'Get', 'grab', 'pick up' — разговорные варианты."
     },
     {
@@ -258,7 +290,7 @@
         "Hey, about that proposal of yours.",
         "Writing ya about the proposal stuff."
       ],
-      "correctAnswerIndex": 0,
+      "correctIndex": 0,
       "explanation": "'I am writing regarding...' использует формальные маркеры: полная форма глагола, предлог 'regarding' вместо 'about'."
     },
     {
@@ -271,7 +303,7 @@
         "still",
         "anyway"
       ],
-      "correctAnswerIndex": 0,
+      "correctIndex": 0,
       "explanation": "'Nevertheless' — формальный латинский коннектор со значением 'тем не менее'. 'But', 'still', 'anyway' — разговорные."
     },
     {
@@ -284,7 +316,7 @@
         "Простые предложения и слэнг",
         "Восклицания и междометия"
       ],
-      "correctAnswerIndex": 0,
+      "correctIndex": 0,
       "explanation": "Формальный регистр предпочитает пассивный залог (It was decided...), полные формы (do not), сложные предложения."
     },
     {
@@ -297,7 +329,7 @@
         "It has been decided to reschedule the meeting.",
         "We wish to inform you of the schedule change."
       ],
-      "correctAnswerIndex": 0,
+      "correctIndex": 0,
       "explanation": "'They've put off' использует сокращение + фразовый глагол + 'till' — все признаки неформального регистра."
     },
     {
@@ -310,7 +342,7 @@
         "check",
         "quiz"
       ],
-      "correctAnswerIndex": 0,
+      "correctIndex": 0,
       "explanation": "'Enquire' (или 'inquire') — формальный эквивалент 'ask' в значении 'осведомляться, наводить справки'."
     },
     {
@@ -323,28 +355,40 @@
         "The idea kinda didn't work out.",
         "Turns out the theory was wrong."
       ],
-      "correctAnswerIndex": 0,
+      "correctIndex": 0,
       "explanation": "'Consequently' + пассивный залог — маркеры академического формального стиля."
     },
     {
       "id": "adv15_quiz_8",
       "type": "trueFalse",
       "question": "Фразовые глаголы (put off, look into, come up with) типичны для формального регистра.",
-      "correctAnswer": false,
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
       "explanation": "Неверно. Фразовые глаголы — признак неформального стиля. Формальный регистр предпочитает однословные латинские глаголы: postpone, investigate, devise."
     },
     {
       "id": "adv15_quiz_9",
       "type": "trueFalse",
       "question": "В деловом письме следует использовать полные формы (do not, I am) вместо сокращений (don't, I'm).",
-      "correctAnswer": true,
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
       "explanation": "Верно. Полные формы — маркер формального стиля, обязательный в деловой переписке и официальных документах."
     },
     {
       "id": "adv15_quiz_10",
       "type": "trueFalse",
       "question": "Слова 'regarding', 'furthermore', 'consequently' происходят из латыни и используются в формальном регистре.",
-      "correctAnswer": true,
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
       "explanation": "Верно. Эти слова имеют латинские корни и являются типичными маркерами формального академического и делового стиля."
     }
   ],

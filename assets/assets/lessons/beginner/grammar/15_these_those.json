@@ -206,24 +206,44 @@
     },
     "useCases": [
       {
-        "situation": "Показываешь что-то рядом",
-        "example": "This is my phone.",
-        "translation": "Это мой телефон."
+        "icon": "visibility",
+        "color": "blue",
+        "title": "Показываешь что-то рядом",
+        "description": "Используй this, когда предмет рядом с тобой.",
+        "example": {
+          "english": "This is my phone.",
+          "russian": "Это мой телефон."
+        }
       },
       {
-        "situation": "Указываешь на что-то далеко",
-        "example": "That is her house.",
-        "translation": "То — её дом."
+        "icon": "explore",
+        "color": "purple",
+        "title": "Указываешь на что-то далеко",
+        "description": "Используй that, когда предмет далеко от тебя.",
+        "example": {
+          "english": "That is her house.",
+          "russian": "То — её дом."
+        }
       },
       {
-        "situation": "Несколько предметов рядом",
-        "example": "These shoes are new.",
-        "translation": "Эти туфли новые."
+        "icon": "star",
+        "color": "orange",
+        "title": "Несколько предметов рядом",
+        "description": "Используй these для нескольких предметов рядом.",
+        "example": {
+          "english": "These shoes are new.",
+          "russian": "Эти туфли новые."
+        }
       },
       {
-        "situation": "Несколько предметов далеко",
-        "example": "Those cars are fast.",
-        "translation": "Те машины быстрые."
+        "icon": "check_circle",
+        "color": "green",
+        "title": "Несколько предметов далеко",
+        "description": "Используй those для нескольких предметов далеко.",
+        "example": {
+          "english": "Those cars are fast.",
+          "russian": "Те машины быстрые."
+        }
       }
     ],
     "markers": [
@@ -1328,7 +1348,7 @@
         "those",
         "that"
       ],
-      "correctAnswer": "this",
+      "correctIndex": 0,
       "explanation": "This — для одного предмета, который находится рядом с говорящим."
     },
     {
@@ -1341,7 +1361,7 @@
         "that",
         "these"
       ],
-      "correctAnswer": "those",
+      "correctIndex": 0,
       "explanation": "Those — для нескольких предметов, которые далеко от говорящего."
     },
     {
@@ -1354,7 +1374,7 @@
         "That",
         "A"
       ],
-      "correctAnswer": "These",
+      "correctIndex": 0,
       "explanation": "Books — множественное число, предметы рядом → These."
     },
     {
@@ -1367,7 +1387,7 @@
         "am",
         "do"
       ],
-      "correctAnswer": "are",
+      "correctIndex": 0,
       "explanation": "These / those — множественное число, поэтому используем are."
     },
     {
@@ -1380,7 +1400,7 @@
         "These",
         "They"
       ],
-      "correctAnswer": "That",
+      "correctIndex": 0,
       "explanation": "Car — единственное число, предмет далеко → That is my car."
     },
     {
@@ -1393,7 +1413,7 @@
         "that",
         "those"
       ],
-      "correctAnswer": "these",
+      "correctIndex": 0,
       "explanation": "These — для нескольких предметов, которые рядом с говорящим."
     },
     {
@@ -1406,28 +1426,40 @@
         "These",
         "They"
       ],
-      "correctAnswer": "That",
+      "correctIndex": 0,
       "explanation": "House — единственное число → That (далеко) или This (рядом). That house is old."
     },
     {
       "id": "tq15_08",
       "type": "trueFalse",
       "question": "This / that используются с глаголом is.",
-      "correctAnswer": true,
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
       "explanation": "Верно. This is... / That is... — единственное число → is."
     },
     {
       "id": "tq15_09",
       "type": "trueFalse",
       "question": "Those используется для одного предмета далеко.",
-      "correctAnswer": false,
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 1,
       "explanation": "Неверно. Those — для нескольких предметов далеко. Для одного — that."
     },
     {
       "id": "tq15_10",
       "type": "trueFalse",
       "question": "These books are new — правильное предложение.",
-      "correctAnswer": true,
+      "options": [
+        "Верно",
+        "Неверно"
+      ],
+      "correctIndex": 0,
       "explanation": "Верно. These + мн. число (books) + are — всё правильно."
     }
   ],
